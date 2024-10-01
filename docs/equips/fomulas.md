@@ -59,7 +59,7 @@ any given enhancement level can be computed as follows (\\(level\\) refers to th
 - Evaluate \\(IntermediateDmg = damage_{level} \times coefficient_{level} \times efficiency \times (1 + WeaponScalar)\\)
     - Efficiency refers to the [`efficiency` of the slot](../ships/index.md#ship-slot-data)
 - Add either \\(0\\), \\(1\\) or \\(2\\) to the result (\\(RandomDmg\\)).
-- Evaluate \\(AfterMod = RandomDmg \times armor\\_mod_{enemy\\_armor}\\).
+- Evaluate \\(AfterMod = RandomDmg \times armor\\_mod_{enemyArmor}\\).
 - The final result is the damage dealt by a *single* bullet without buffs.
 
 If the equipment is a plane you additionally need to compute \\(AAModifer = \frac{150}{(150 + enemyAA)}\\) and then multiply \\(AfterMod\\) with it. If the attacking CV is hidden the
