@@ -15,9 +15,8 @@ APIs, Applets, Websites or other Azur Lane related programms. While this reposit
 data in it has a clear focus in mind there is no harm in expanding it further
 (Just ask if you need something not already covered!).
 
-Additionally, providing this data allows people who spot issues to either point them out, or open PRs to
-correct them. PRs to the custom parsers are preffered, since this data is build using
-them. Meaning any inconsistency is the result of an error in the parser.
+Additionally, providing this data allows people who spot issues to either point them out.
+Opening PRs to fix them usually does not help, as the data is built using custom parser - which at the moment remain close sourced.
 
 It is also worth mentioning that even if this repository did not exist nearly all the data would be
 easily obtainable anyway, due to how efficiently serving JSON data through the web works.
@@ -46,9 +45,7 @@ at the time of
 writing) publicly available
 on [their wiki page](https://azurlane.koumakan.jp/wiki/User:Riceist/BarrageDatamine).
 
-For context, I cannot be bothered to parse this data myself as I frankly enough about it. Feel free
-to make a PR
-if you have a proper parser though.
+For context, I cannot be bothered to parse this data myself.
 
 # License
 
