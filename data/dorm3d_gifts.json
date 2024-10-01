@@ -1,0 +1,74 @@
+{
+  "1021001": {
+    "name": "Bunny Plushie",
+    "description": "A pink stuffed bunny with a scarf. It's made of soft materials that make you want to hug it all day.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 1021001,
+    "purchaseable": false,
+    "icon": "dorm3d/items/3ddrom_everyone_commongift3",
+    "ship": 0,
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "favor": 50
+  },
+  "1021002": {
+    "name": "Romantic's Bouquet",
+    "description": "This bouquet exudes a rich, captivating aroma. Both the roses and the other red flowers are practically dripping with emotion and romance.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1021002,
+    "purchaseable": true,
+    "icon": "dorm3d/items/3ddrom_everyone_commongift2",
+    "ship": 0,
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "favor": 150
+  },
+  "1021003": {
+    "name": "Cake Gift Box",
+    "description": "A meticulously wrapped box containing slices of delicious cake. You can eat them yourself, or you can gift them and make someone's day.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 5,
+    "id": 1021003,
+    "purchaseable": true,
+    "icon": "dorm3d/items/3ddrom_everyone_commongift1",
+    "ship": 0,
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "favor": 300
+  },
+  "2022001": {
+    "name": "Cleaning Supplies Toolbox",
+    "description": "A toolbox of must-have items for cleaning and tidying up both at home and at the workplace. It's built with durable and resilient materials to protect the tools inside from damage.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 5,
+    "id": 2022001,
+    "purchaseable": true,
+    "icon": "dorm3d/items/3ddrom_tianlangxing_fancygift2",
+    "ship": 371,
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "favor": 2000
+  }
+}

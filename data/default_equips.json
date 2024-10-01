@@ -1,0 +1,6382 @@
+{
+  "100": {
+    "icon": "default_1",
+    "id": 100,
+    "name": "Default DD Gun",
+    "rarity": 1,
+    "tech": 1,
+    "type": 1,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        600
+      ],
+      "damage": [
+        2
+      ],
+      "coefficient": [
+        1.25
+      ],
+      "count": 1,
+      "delay": 0,
+      "range": [
+        0,
+        60
+      ],
+      "spread_angle": "5° Random Aim",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        0.5,
+        0.2
+      ],
+      "ammo": 1,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 18,
+      "pierce": 0,
+      "shell_range": [
+        40,
+        60
+      ],
+      "angle": 360,
+      "volley_info": [
+        1,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "un",
+      "dd",
+      "mg"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "101": {
+    "icon": "default_2",
+    "id": 101,
+    "name": "Default CL Gun",
+    "rarity": 1,
+    "tech": 1,
+    "type": 2,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        1200
+      ],
+      "damage": [
+        5
+      ],
+      "coefficient": [
+        1.25
+      ],
+      "count": 3,
+      "delay": 0,
+      "range": [
+        0,
+        65
+      ],
+      "spread_angle": "14° Cone Pattern",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 0,
+      "armor_mod": [
+        1,
+        0.75,
+        0.4
+      ],
+      "ammo": 1,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 18,
+      "pierce": 0,
+      "shell_range": [
+        45,
+        65
+      ],
+      "angle": 120,
+      "volley_info": [
+        1,
+        3
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "un",
+      "cl",
+      "mg"
+    ],
+    "speciality": "Scatter",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "102": {
+    "icon": "default_3",
+    "id": 102,
+    "name": "Default CA Gun",
+    "rarity": 1,
+    "tech": 1,
+    "type": 3,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        1800
+      ],
+      "damage": [
+        12
+      ],
+      "coefficient": [
+        1.1
+      ],
+      "count": 2,
+      "delay": 0,
+      "range": [
+        0,
+        120
+      ],
+      "spread_angle": "15° Random Aim",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        0.9,
+        0.5
+      ],
+      "ammo": 1,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 18,
+      "pierce": 0,
+      "shell_range": [
+        40,
+        60
+      ],
+      "angle": 40,
+      "volley_info": [
+        1,
+        2
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "un",
+      "ca",
+      "mg"
+    ],
+    "speciality": "Normal",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "103": {
+    "icon": "default_4",
+    "id": 103,
+    "name": "Default BB Gun",
+    "rarity": 1,
+    "tech": 1,
+    "type": 4,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        2520
+      ],
+      "damage": [
+        16
+      ],
+      "coefficient": [
+        1.1
+      ],
+      "count": 2,
+      "delay": 0.2,
+      "range": [
+        50,
+        200
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        0.7,
+        1,
+        0.9
+      ],
+      "ammo": 1,
+      "spread": [
+        16,
+        16
+      ],
+      "splash": 15,
+      "velocity": 12,
+      "pierce": 0,
+      "shell_range": [
+        60,
+        100
+      ],
+      "angle": 50,
+      "volley_info": [
+        1,
+        2
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "un",
+      "bb",
+      "mg"
+    ],
+    "speciality": "Volley",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "104": {
+    "icon": "default_6",
+    "id": 104,
+    "name": "Default AA Gun",
+    "rarity": 1,
+    "tech": 1,
+    "type": 6,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        60
+      ],
+      "damage": [
+        4
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 1,
+      "delay": 0,
+      "range": [
+        0,
+        20
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "aa",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        1,
+        1
+      ],
+      "ammo": 5,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 100,
+      "pierce": 0,
+      "shell_range": [
+        30,
+        70
+      ],
+      "angle": 360,
+      "volley_info": [
+        1,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "un",
+      "st",
+      "aa"
+    ],
+    "speciality": "Short Range",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "105": {
+    "icon": "default_5",
+    "id": 105,
+    "name": "Default Twin Torpedo",
+    "rarity": 1,
+    "tech": 1,
+    "type": 5,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        3270
+      ],
+      "damage": [
+        17
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 2,
+      "delay": 0,
+      "range": [
+        0,
+        50
+      ],
+      "spread_angle": "30° Cone Pattern",
+      "stat": "trp",
+      "ratio": 1,
+      "aim_type": 0,
+      "armor_mod": [
+        0.8,
+        1,
+        1.3
+      ],
+      "ammo": 4,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 3,
+      "velocity": 3,
+      "pierce": 0,
+      "shell_range": [
+        70,
+        110
+      ],
+      "angle": 60,
+      "volley_info": [
+        1,
+        2
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "un",
+      "st",
+      "tp",
+      "duo"
+    ],
+    "speciality": "Torpedo",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "106": {
+    "icon": "default_5",
+    "id": 106,
+    "name": "Default Triple Torpedo",
+    "rarity": 1,
+    "tech": 1,
+    "type": 5,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        3924
+      ],
+      "damage": [
+        17
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 3,
+      "delay": 0,
+      "range": [
+        0,
+        50
+      ],
+      "spread_angle": "40° Cone Pattern",
+      "stat": "trp",
+      "ratio": 1,
+      "aim_type": 0,
+      "armor_mod": [
+        0.8,
+        1,
+        1.3
+      ],
+      "ammo": 4,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 3,
+      "velocity": 3,
+      "pierce": 0,
+      "shell_range": [
+        70,
+        110
+      ],
+      "angle": 60,
+      "volley_info": [
+        1,
+        3
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "un",
+      "st",
+      "tp",
+      "tri"
+    ],
+    "speciality": "Torpedo",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "107": {
+    "icon": "default_5",
+    "id": 107,
+    "name": "Default Quadruple Torpedo",
+    "rarity": 1,
+    "tech": 1,
+    "type": 5,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        4577
+      ],
+      "damage": [
+        17
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 4,
+      "delay": 0,
+      "range": [
+        0,
+        50
+      ],
+      "spread_angle": "48° Cone Pattern",
+      "stat": "trp",
+      "ratio": 1,
+      "aim_type": 0,
+      "armor_mod": [
+        0.8,
+        1,
+        1.3
+      ],
+      "ammo": 4,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 3,
+      "velocity": 3,
+      "pierce": 0,
+      "shell_range": [
+        70,
+        110
+      ],
+      "angle": 60,
+      "volley_info": [
+        1,
+        4
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "un",
+      "st",
+      "tp",
+      "quad"
+    ],
+    "speciality": "Torpedo",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "108": {
+    "icon": "default_5",
+    "id": 108,
+    "name": "Default Quintuple Torpedo",
+    "rarity": 1,
+    "tech": 1,
+    "type": 5,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        5231
+      ],
+      "damage": [
+        17
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 5,
+      "delay": 0,
+      "range": [
+        0,
+        50
+      ],
+      "spread_angle": "60° Cone Pattern",
+      "stat": "trp",
+      "ratio": 1,
+      "aim_type": 0,
+      "armor_mod": [
+        0.8,
+        1,
+        1.3
+      ],
+      "ammo": 4,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 3,
+      "velocity": 3,
+      "pierce": 0,
+      "shell_range": [
+        70,
+        110
+      ],
+      "angle": 60,
+      "volley_info": [
+        1,
+        5
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "un",
+      "st",
+      "tp",
+      "quint"
+    ],
+    "speciality": "Torpedo",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "109": {
+    "icon": "default_7",
+    "id": 109,
+    "name": "Default Fighter (USS)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 7,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 1,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          2
+        ],
+        "count": 1,
+        "armor_mod": [
+          1,
+          1,
+          1
+        ],
+        "range": [
+          0,
+          30
+        ],
+        "reload": [
+          60
+        ],
+        "spread_angle": null,
+        "name": "Unnamed Armament (AA Gun)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 1,
+        "ammo": 5,
+        "spread": [
+          0,
+          0
+        ],
+        "splash": 0,
+        "velocity": 12,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 180,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        1800
+      ],
+      "count": 1,
+      "is_interceptor": true,
+      "intercept_reload": [
+        1800
+      ],
+      "intercept_count": 1,
+      "speed": 50,
+      "hp_growth": [
+        1129
+      ],
+      "hp": [
+        29
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "uss",
+      "cv",
+      "ft"
+    ],
+    "speciality": "Air",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "110": {
+    "icon": "default_8",
+    "id": 110,
+    "name": "Default Torpedo Bomber (USS)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 8,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 1,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          17
+        ],
+        "count": 1,
+        "armor_mod": [
+          0.8,
+          1.1,
+          1.3
+        ],
+        "range": [
+          0,
+          35
+        ],
+        "reload": [],
+        "spread_angle": null,
+        "name": "Unnamed Armament (Torpedo)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 1,
+        "ammo": 4,
+        "spread": [
+          0,
+          0
+        ],
+        "splash": 3,
+        "velocity": 3,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 150,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        3114
+      ],
+      "count": 1,
+      "is_interceptor": false,
+      "speed": 48,
+      "hp_growth": [
+        1021
+      ],
+      "hp": [
+        27
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "uss",
+      "cv",
+      "tb"
+    ],
+    "speciality": "Torpedo",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "111": {
+    "icon": "default_9",
+    "id": 111,
+    "name": "Default Dive Bomber (USS)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 9,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 1,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          60
+        ],
+        "count": 1,
+        "armor_mod": [
+          0.7,
+          1.05,
+          1.25
+        ],
+        "range": [
+          0,
+          10
+        ],
+        "reload": [],
+        "spread_angle": null,
+        "name": "Unnamed Armament (Bomb)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 0,
+        "ammo": 6,
+        "spread": [
+          42,
+          42
+        ],
+        "splash": 28,
+        "velocity": 1.5,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 180,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        3600
+      ],
+      "count": 1,
+      "is_interceptor": false,
+      "speed": 46,
+      "hp_growth": [
+        1183
+      ],
+      "hp": [
+        31
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "uss",
+      "cv",
+      "db"
+    ],
+    "speciality": "Bomber",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "113": {
+    "icon": "default_7",
+    "id": 113,
+    "name": "Default Fighter (HMS)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 7,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 2,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          3
+        ],
+        "count": 1,
+        "armor_mod": [
+          1,
+          1,
+          1
+        ],
+        "range": [
+          0,
+          36
+        ],
+        "reload": [
+          85
+        ],
+        "spread_angle": null,
+        "name": "Unnamed Armament (AA Gun)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 1,
+        "ammo": 5,
+        "spread": [
+          0,
+          0
+        ],
+        "splash": 0,
+        "velocity": 12,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 80,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        1900
+      ],
+      "count": 1,
+      "is_interceptor": true,
+      "intercept_reload": [
+        1900
+      ],
+      "intercept_count": 1,
+      "speed": 50,
+      "hp_growth": [
+        1075
+      ],
+      "hp": [
+        28
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "hms",
+      "cv",
+      "ft"
+    ],
+    "speciality": "Air",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "114": {
+    "icon": "default_8",
+    "id": 114,
+    "name": "Default Torpedo Bomber (HMS)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 8,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 2,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          17
+        ],
+        "count": 1,
+        "armor_mod": [
+          0.8,
+          1.1,
+          1.3
+        ],
+        "range": [
+          0,
+          35
+        ],
+        "reload": [],
+        "spread_angle": null,
+        "name": "Unnamed Armament (Torpedo)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 1,
+        "ammo": 4,
+        "spread": [
+          0,
+          0
+        ],
+        "splash": 3,
+        "velocity": 3,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 150,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        3114
+      ],
+      "count": 1,
+      "is_interceptor": false,
+      "speed": 48,
+      "hp_growth": [
+        973
+      ],
+      "hp": [
+        25
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "hms",
+      "cv",
+      "tb"
+    ],
+    "speciality": "Torpedo",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "115": {
+    "icon": "default_9",
+    "id": 115,
+    "name": "Default Dive Bomber (HMS)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 9,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 2,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          60
+        ],
+        "count": 1,
+        "armor_mod": [
+          0.7,
+          1.05,
+          1.25
+        ],
+        "range": [
+          0,
+          10
+        ],
+        "reload": [],
+        "spread_angle": null,
+        "name": "Unnamed Armament (Bomb)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 0,
+        "ammo": 6,
+        "spread": [
+          42,
+          42
+        ],
+        "splash": 28,
+        "velocity": 1.5,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 180,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        3600
+      ],
+      "count": 1,
+      "is_interceptor": false,
+      "speed": 46,
+      "hp_growth": [
+        1126
+      ],
+      "hp": [
+        29
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "hms",
+      "cv",
+      "db"
+    ],
+    "speciality": "Bomber",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "117": {
+    "icon": "default_7",
+    "id": 117,
+    "name": "Default Fighter (IJN)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 7,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 3,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          2
+        ],
+        "count": 1,
+        "armor_mod": [
+          1,
+          1,
+          1
+        ],
+        "range": [
+          0,
+          24
+        ],
+        "reload": [
+          50
+        ],
+        "spread_angle": null,
+        "name": "Unnamed Armament (AA Gun)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 1,
+        "ammo": 5,
+        "spread": [
+          0,
+          0
+        ],
+        "splash": 0,
+        "velocity": 12,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 80,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        1600
+      ],
+      "count": 1,
+      "is_interceptor": true,
+      "intercept_reload": [
+        1600
+      ],
+      "intercept_count": 1,
+      "speed": 50,
+      "hp_growth": [
+        1021
+      ],
+      "hp": [
+        27
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "ijn",
+      "cv",
+      "ft"
+    ],
+    "speciality": "Air",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "118": {
+    "icon": "default_8",
+    "id": 118,
+    "name": "Default Torpedo Bomber (IJN)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 8,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 3,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          17
+        ],
+        "count": 1,
+        "armor_mod": [
+          0.8,
+          1.1,
+          1.3
+        ],
+        "range": [
+          0,
+          35
+        ],
+        "reload": [],
+        "spread_angle": null,
+        "name": "Unnamed Armament (Torpedo)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 1,
+        "ammo": 4,
+        "spread": [
+          0,
+          0
+        ],
+        "splash": 3,
+        "velocity": 3,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 150,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        3600
+      ],
+      "count": 1,
+      "is_interceptor": false,
+      "speed": 48,
+      "hp_growth": [
+        924
+      ],
+      "hp": [
+        24
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "ijn",
+      "cv",
+      "tb"
+    ],
+    "speciality": "Torpedo",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "119": {
+    "icon": "default_9",
+    "id": 119,
+    "name": "Default Dive Bomber (IJN)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 9,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 3,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          60
+        ],
+        "count": 1,
+        "armor_mod": [
+          0.7,
+          1.05,
+          1.25
+        ],
+        "range": [
+          0,
+          10
+        ],
+        "reload": [],
+        "spread_angle": null,
+        "name": "Unnamed Armament (Bomb)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 0,
+        "ammo": 6,
+        "spread": [
+          42,
+          42
+        ],
+        "splash": 28,
+        "velocity": 1.5,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 180,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        3600
+      ],
+      "count": 1,
+      "is_interceptor": false,
+      "speed": 46,
+      "hp_growth": [
+        1070
+      ],
+      "hp": [
+        28
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "ijn",
+      "cv",
+      "db"
+    ],
+    "speciality": "Bomber",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "121": {
+    "icon": "default_7",
+    "id": 121,
+    "name": "Default Fighter (KMS)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 7,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 4,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          3
+        ],
+        "count": 1,
+        "armor_mod": [
+          1,
+          1,
+          1
+        ],
+        "range": [
+          0,
+          30
+        ],
+        "reload": [
+          80
+        ],
+        "spread_angle": null,
+        "name": "Unnamed Armament (AA Gun)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 1,
+        "ammo": 5,
+        "spread": [
+          0,
+          0
+        ],
+        "splash": 0,
+        "velocity": 12,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 80,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        1800
+      ],
+      "count": 1,
+      "is_interceptor": true,
+      "intercept_reload": [
+        1800
+      ],
+      "intercept_count": 1,
+      "speed": 50,
+      "hp_growth": [
+        1075
+      ],
+      "hp": [
+        28
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "kms",
+      "cv",
+      "ft"
+    ],
+    "speciality": "Air",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "123": {
+    "icon": "default_9",
+    "id": 123,
+    "name": "Default Dive Bomber (KMS)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 9,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 4,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          60
+        ],
+        "count": 1,
+        "armor_mod": [
+          0.7,
+          1.05,
+          1.25
+        ],
+        "range": [
+          0,
+          10
+        ],
+        "reload": [],
+        "spread_angle": null,
+        "name": "Unnamed Armament (Bomb)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 0,
+        "ammo": 6,
+        "spread": [
+          42,
+          42
+        ],
+        "splash": 28,
+        "velocity": 1.5,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 180,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        3600
+      ],
+      "count": 1,
+      "is_interceptor": false,
+      "speed": 46,
+      "hp_growth": [
+        1126
+      ],
+      "hp": [
+        29
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "kms",
+      "cv",
+      "db"
+    ],
+    "speciality": "Bomber",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "125": {
+    "icon": "default_7",
+    "id": 125,
+    "name": "Default Fighter (FFNF)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 7,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 8,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          3
+        ],
+        "count": 1,
+        "armor_mod": [
+          1,
+          1,
+          1
+        ],
+        "range": [
+          0,
+          30
+        ],
+        "reload": [
+          80
+        ],
+        "spread_angle": null,
+        "name": "Unnamed Armament (AA Gun)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 1,
+        "ammo": 5,
+        "spread": [
+          0,
+          0
+        ],
+        "splash": 0,
+        "velocity": 12,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 80,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        1800
+      ],
+      "count": 1,
+      "is_interceptor": true,
+      "intercept_reload": [
+        1800
+      ],
+      "intercept_count": 1,
+      "speed": 50,
+      "hp_growth": [
+        1075
+      ],
+      "hp": [
+        28
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "ffnf",
+      "cv",
+      "ft"
+    ],
+    "speciality": "Air",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "126": {
+    "icon": "default_8",
+    "id": 126,
+    "name": "Default Torpedo Bomber (FFNF)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 8,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 8,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          17
+        ],
+        "count": 1,
+        "armor_mod": [
+          0.8,
+          1.1,
+          1.3
+        ],
+        "range": [
+          0,
+          35
+        ],
+        "reload": [],
+        "spread_angle": null,
+        "name": "Unnamed Armament (Torpedo)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 1,
+        "ammo": 4,
+        "spread": [
+          0,
+          0
+        ],
+        "splash": 3,
+        "velocity": 3,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 150,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        3450
+      ],
+      "count": 1,
+      "is_interceptor": false,
+      "speed": 48,
+      "hp_growth": [
+        973
+      ],
+      "hp": [
+        25
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "ffnf",
+      "cv",
+      "tb"
+    ],
+    "speciality": "Torpedo",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "127": {
+    "icon": "default_9",
+    "id": 127,
+    "name": "Default Dive Bomber (FFNF)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 9,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 8,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          60
+        ],
+        "count": 1,
+        "armor_mod": [
+          0.7,
+          1.05,
+          1.25
+        ],
+        "range": [
+          0,
+          10
+        ],
+        "reload": [],
+        "spread_angle": null,
+        "name": "Unnamed Armament (Bomb)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 0,
+        "ammo": 6,
+        "spread": [
+          42,
+          42
+        ],
+        "splash": 28,
+        "velocity": 1.5,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 180,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        3600
+      ],
+      "count": 1,
+      "is_interceptor": false,
+      "speed": 46,
+      "hp_growth": [
+        1126
+      ],
+      "hp": [
+        29
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "ffnf",
+      "cv",
+      "db"
+    ],
+    "speciality": "Bomber",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "140": {
+    "icon": "default_13",
+    "id": 140,
+    "name": "Default Submarine Torpedo",
+    "rarity": 1,
+    "tech": 1,
+    "type": 13,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        850
+      ],
+      "damage": [
+        17
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 1,
+      "delay": 0,
+      "range": [
+        0,
+        50
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "trp",
+      "ratio": 1,
+      "aim_type": 0,
+      "armor_mod": [
+        0.7,
+        1,
+        1.2
+      ],
+      "ammo": 4,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 3,
+      "velocity": 3,
+      "pierce": 0,
+      "shell_range": [
+        70,
+        110
+      ],
+      "angle": 75,
+      "volley_info": [
+        1,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "un",
+      "ss",
+      "tp"
+    ],
+    "speciality": "Torpedo",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "141": {
+    "icon": "default_14",
+    "id": 141,
+    "name": "Default Depth Charge (DD)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 14,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        950
+      ],
+      "damage": [
+        60
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 2,
+      "delay": 0.2,
+      "range": [
+        0,
+        15
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "asw",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        0.5,
+        0.2
+      ],
+      "ammo": 6,
+      "spread": [
+        3,
+        3
+      ],
+      "splash": 9,
+      "velocity": 1.5,
+      "pierce": 0,
+      "shell_range": [
+        6,
+        6
+      ],
+      "angle": 360,
+      "volley_info": [
+        1,
+        2
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "un",
+      "st",
+      "dc"
+    ],
+    "speciality": "Anti submarine",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "144": {
+    "icon": "default_12",
+    "id": 144,
+    "name": "Default Seaplane (IJN)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 12,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 3,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          120
+        ],
+        "count": 1,
+        "armor_mod": [
+          0.8,
+          0.9,
+          1.1
+        ],
+        "range": [
+          0,
+          500
+        ],
+        "reload": [],
+        "spread_angle": null,
+        "name": "Unnamed Armament (Bomb)",
+        "stat": "avi",
+        "ratio": 0.8,
+        "aim_type": 0,
+        "ammo": 6,
+        "spread": [
+          36,
+          36
+        ],
+        "splash": 19,
+        "velocity": 1.5,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 22,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        2750
+      ],
+      "count": 1,
+      "is_interceptor": false,
+      "speed": 46,
+      "hp_growth": [
+        1023
+      ],
+      "hp": [
+        27
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "scout"
+    ],
+    "speciality": "Bomber",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "147": {
+    "icon": "default_14",
+    "id": 147,
+    "name": "Default Depth Charge (CL)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 14,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        1050
+      ],
+      "damage": [
+        60
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 2,
+      "delay": 0.2,
+      "range": [
+        0,
+        15
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "asw",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        0.5,
+        0.2
+      ],
+      "ammo": 6,
+      "spread": [
+        3,
+        3
+      ],
+      "splash": 9,
+      "velocity": 1.5,
+      "pierce": 0,
+      "shell_range": [
+        6,
+        6
+      ],
+      "angle": 360,
+      "volley_info": [
+        1,
+        2
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "un",
+      "st",
+      "dc"
+    ],
+    "speciality": "Anti submarine",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "148": {
+    "icon": "default_7",
+    "id": 148,
+    "name": "Default Fighter (RN)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 7,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 6,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          3
+        ],
+        "count": 1,
+        "armor_mod": [
+          1,
+          1,
+          1
+        ],
+        "range": [
+          0,
+          36
+        ],
+        "reload": [
+          85
+        ],
+        "spread_angle": null,
+        "name": "Unnamed Armament (AA Gun)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 1,
+        "ammo": 5,
+        "spread": [
+          0,
+          0
+        ],
+        "splash": 0,
+        "velocity": 12,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 80,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        1800
+      ],
+      "count": 1,
+      "is_interceptor": true,
+      "intercept_reload": [
+        1800
+      ],
+      "intercept_count": 1,
+      "speed": 50,
+      "hp_growth": [
+        1075
+      ],
+      "hp": [
+        28
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "rn",
+      "cv",
+      "ft"
+    ],
+    "speciality": "Air",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "149": {
+    "icon": "default_8",
+    "id": 149,
+    "name": "Default Torpedo Bomber (RN)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 8,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 6,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          17
+        ],
+        "count": 1,
+        "armor_mod": [
+          0.8,
+          1.1,
+          1.3
+        ],
+        "range": [
+          0,
+          35
+        ],
+        "reload": [],
+        "spread_angle": null,
+        "name": "Unnamed Armament (Torpedo)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 1,
+        "ammo": 4,
+        "spread": [
+          0,
+          0
+        ],
+        "splash": 3,
+        "velocity": 3,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 150,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        3450
+      ],
+      "count": 1,
+      "is_interceptor": false,
+      "speed": 48,
+      "hp_growth": [
+        973
+      ],
+      "hp": [
+        25
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "rn",
+      "cv",
+      "tb"
+    ],
+    "speciality": "Torpedo",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "150": {
+    "icon": "default_9",
+    "id": 150,
+    "name": "Default Dive Bomber (RN)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 9,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 6,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          60
+        ],
+        "count": 1,
+        "armor_mod": [
+          0.7,
+          1.05,
+          1.25
+        ],
+        "range": [
+          0,
+          10
+        ],
+        "reload": [],
+        "spread_angle": null,
+        "name": "Unnamed Armament (Bomb)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 0,
+        "ammo": 6,
+        "spread": [
+          42,
+          42
+        ],
+        "splash": 28,
+        "velocity": 1.5,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 180,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        3600
+      ],
+      "count": 1,
+      "is_interceptor": false,
+      "speed": 46,
+      "hp_growth": [
+        1126
+      ],
+      "hp": [
+        29
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "rn",
+      "cv",
+      "db"
+    ],
+    "speciality": "Bomber",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "152": {
+    "icon": "default_12",
+    "id": 152,
+    "name": "Default Seaplane (IJN, Slow RLD)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 12,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 3,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          120
+        ],
+        "count": 1,
+        "armor_mod": [
+          0.8,
+          0.9,
+          1.1
+        ],
+        "range": [
+          0,
+          500
+        ],
+        "reload": [],
+        "spread_angle": null,
+        "name": "Unnamed Armament (Bomb)",
+        "stat": "avi",
+        "ratio": 0.8,
+        "aim_type": 0,
+        "ammo": 6,
+        "spread": [
+          36,
+          36
+        ],
+        "splash": 19,
+        "velocity": 1.5,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 22,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        2750
+      ],
+      "count": 1,
+      "is_interceptor": false,
+      "speed": 46,
+      "hp_growth": [
+        1023
+      ],
+      "hp": [
+        27
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "scout"
+    ],
+    "speciality": "Bomber",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "153": {
+    "icon": "default_7",
+    "id": 153,
+    "name": "Default Fighter (FFNF)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 7,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 8,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          3
+        ],
+        "count": 1,
+        "armor_mod": [
+          1,
+          1,
+          1
+        ],
+        "range": [
+          0,
+          30
+        ],
+        "reload": [
+          80
+        ],
+        "spread_angle": null,
+        "name": "Unnamed Armament (AA Gun)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 1,
+        "ammo": 5,
+        "spread": [
+          0,
+          0
+        ],
+        "splash": 0,
+        "velocity": 12,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 80,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        1800
+      ],
+      "count": 1,
+      "is_interceptor": true,
+      "intercept_reload": [
+        1800
+      ],
+      "intercept_count": 1,
+      "speed": 50,
+      "hp_growth": [
+        1075
+      ],
+      "hp": [
+        28
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "sn",
+      "cv",
+      "ft"
+    ],
+    "speciality": "Air",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "154": {
+    "icon": "default_8",
+    "id": 154,
+    "name": "Default Torpedo Bomber (FFNF)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 8,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 8,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          17
+        ],
+        "count": 1,
+        "armor_mod": [
+          0.8,
+          1.1,
+          1.3
+        ],
+        "range": [
+          0,
+          35
+        ],
+        "reload": [],
+        "spread_angle": null,
+        "name": "Unnamed Armament (Torpedo)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 1,
+        "ammo": 4,
+        "spread": [
+          0,
+          0
+        ],
+        "splash": 3,
+        "velocity": 3,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 150,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        3450
+      ],
+      "count": 1,
+      "is_interceptor": false,
+      "speed": 48,
+      "hp_growth": [
+        973
+      ],
+      "hp": [
+        25
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "sn",
+      "cv",
+      "tb"
+    ],
+    "speciality": "Torpedo",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "155": {
+    "icon": "default_9",
+    "id": 155,
+    "name": "Default Dive Bomber (FFNF)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 9,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 8,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          60
+        ],
+        "count": 1,
+        "armor_mod": [
+          0.7,
+          1.05,
+          1.25
+        ],
+        "range": [
+          0,
+          10
+        ],
+        "reload": [],
+        "spread_angle": null,
+        "name": "Unnamed Armament (Bomb)",
+        "stat": "avi",
+        "ratio": 1,
+        "aim_type": 0,
+        "ammo": 6,
+        "spread": [
+          42,
+          42
+        ],
+        "splash": 28,
+        "velocity": 1.5,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 180,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        3600
+      ],
+      "count": 1,
+      "is_interceptor": false,
+      "speed": 46,
+      "hp_growth": [
+        1126
+      ],
+      "hp": [
+        29
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 9
+    },
+    "stats": [],
+    "labels": [
+      "sn",
+      "cv",
+      "db"
+    ],
+    "speciality": "Bomber",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "158": {
+    "icon": "default_4",
+    "id": 158,
+    "name": "Default Frigate Artillery",
+    "rarity": 1,
+    "tech": 1,
+    "type": 4,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        2520
+      ],
+      "damage": [
+        16
+      ],
+      "coefficient": [
+        1.1
+      ],
+      "count": 2,
+      "delay": 0.2,
+      "range": [
+        50,
+        200
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1.4,
+        1.1,
+        0.9
+      ],
+      "ammo": 3,
+      "spread": [
+        12,
+        12
+      ],
+      "splash": 14,
+      "velocity": 10,
+      "pierce": 0,
+      "shell_range": [
+        60,
+        100
+      ],
+      "angle": 50,
+      "volley_info": [
+        1,
+        2
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "mot",
+      "sf",
+      "mg"
+    ],
+    "speciality": "Volley",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "201": {
+    "icon": "default_1",
+    "id": 201,
+    "name": "DD Ghost Gun (USS CLs)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 1,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 3,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        190,
+        180,
+        170,
+        160
+      ],
+      "damage": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "coefficient": [
+        1.25,
+        1.25,
+        1.25,
+        1.25
+      ],
+      "count": 2,
+      "delay": 0.15,
+      "range": [
+        0,
+        60
+      ],
+      "spread_angle": "15° Random Aim",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1.2,
+        0.6,
+        0.6
+      ],
+      "ammo": 3,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 15,
+      "pierce": 0,
+      "shell_range": [
+        40,
+        60
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "uss",
+      "dd",
+      "mg"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "211": {
+    "icon": "default_1",
+    "id": 211,
+    "name": "DD Ghost Gun (HMS CLs)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 1,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 3,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        180,
+        170,
+        160,
+        150
+      ],
+      "damage": [
+        4,
+        6,
+        8,
+        10
+      ],
+      "coefficient": [
+        1.25,
+        1.25,
+        1.25,
+        1.25
+      ],
+      "count": 2,
+      "delay": 0.15,
+      "range": [
+        0,
+        52
+      ],
+      "spread_angle": "15° Random Aim",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        0.5,
+        0.2
+      ],
+      "ammo": 1,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 18,
+      "pierce": 0,
+      "shell_range": [
+        40,
+        60
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "hms",
+      "dd",
+      "mg"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "221": {
+    "icon": "default_1",
+    "id": 221,
+    "name": "DD Ghost Gun (IJN CLs)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 1,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 3,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        200,
+        190,
+        180,
+        170
+      ],
+      "damage": [
+        2,
+        4,
+        6,
+        8
+      ],
+      "coefficient": [
+        1.25,
+        1.25,
+        1.25,
+        1.25
+      ],
+      "count": 2,
+      "delay": 0.15,
+      "range": [
+        0,
+        55
+      ],
+      "spread_angle": "15° Random Aim",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1.2,
+        0.6,
+        0.6
+      ],
+      "ammo": 3,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 15,
+      "pierce": 0,
+      "shell_range": [
+        40,
+        60
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "ijn",
+      "dd",
+      "mg"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "231": {
+    "icon": "default_1",
+    "id": 231,
+    "name": "DD Ghost Gun (KMS CLs)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 1,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 3,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        190,
+        180,
+        170,
+        160
+      ],
+      "damage": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "coefficient": [
+        1.25,
+        1.25,
+        1.25,
+        1.25
+      ],
+      "count": 2,
+      "delay": 0.15,
+      "range": [
+        0,
+        60
+      ],
+      "spread_angle": "15° Random Aim",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        0.9,
+        0.7,
+        0.4
+      ],
+      "ammo": 2,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 22,
+      "pierce": 1,
+      "shell_range": [
+        40,
+        60
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "kms",
+      "dd",
+      "mg"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "251": {
+    "icon": "default_1",
+    "id": 251,
+    "name": "DD Ghost Gun (RN CLs)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 1,
+    "description": "默认装备",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 3,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        190,
+        180,
+        170,
+        160
+      ],
+      "damage": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "coefficient": [
+        1.25,
+        1.25,
+        1.25,
+        1.25
+      ],
+      "count": 2,
+      "delay": 0.15,
+      "range": [
+        0,
+        60
+      ],
+      "spread_angle": "15° Random Aim",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1.2,
+        0.6,
+        0.6
+      ],
+      "ammo": 3,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 15,
+      "pierce": 0,
+      "shell_range": [
+        40,
+        60
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "rm",
+      "dd",
+      "mg"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "261": {
+    "icon": "default_1",
+    "id": 261,
+    "name": "DD Ghost Gun (SN CLs)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 1,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 3,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        190,
+        180,
+        170,
+        160
+      ],
+      "damage": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "coefficient": [
+        1.25,
+        1.25,
+        1.25,
+        1.25
+      ],
+      "count": 2,
+      "delay": 0.15,
+      "range": [
+        0,
+        60
+      ],
+      "spread_angle": "15° Random Aim",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1.2,
+        0.6,
+        0.6
+      ],
+      "ammo": 3,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 15,
+      "pierce": 0,
+      "shell_range": [
+        40,
+        60
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "sn",
+      "dd",
+      "mg"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "271": {
+    "icon": "default_1",
+    "id": 271,
+    "name": "DD Ghost Gun (FFNF CLS)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 1,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 3,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        190,
+        180,
+        170,
+        160
+      ],
+      "damage": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "coefficient": [
+        1.25,
+        1.25,
+        1.25,
+        1.25
+      ],
+      "count": 2,
+      "delay": 0.15,
+      "range": [
+        0,
+        55
+      ],
+      "spread_angle": "15° Random Aim",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1.2,
+        0.6,
+        0.6
+      ],
+      "ammo": 3,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 15,
+      "pierce": 0,
+      "shell_range": [
+        40,
+        60
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "ffnf",
+      "dd",
+      "mg"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "301": {
+    "icon": "default_1",
+    "id": 301,
+    "name": "DD Ghost Gun (USS CAs)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 1,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 3,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        250,
+        240,
+        230,
+        220
+      ],
+      "damage": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "coefficient": [
+        1.25,
+        1.25,
+        1.25,
+        1.25
+      ],
+      "count": 3,
+      "delay": 0.3,
+      "range": [
+        0,
+        60
+      ],
+      "spread_angle": "25° Random Aim",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1.2,
+        0.6,
+        0.6
+      ],
+      "ammo": 3,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 15,
+      "pierce": 0,
+      "shell_range": [
+        40,
+        60
+      ],
+      "angle": 360,
+      "volley_info": [
+        3,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "uss",
+      "dd",
+      "mg"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "311": {
+    "icon": "default_1",
+    "id": 311,
+    "name": "DD Ghost Gun (HMS CAs)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 1,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 3,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        240,
+        230,
+        220,
+        210
+      ],
+      "damage": [
+        4,
+        6,
+        8,
+        10
+      ],
+      "coefficient": [
+        1.25,
+        1.25,
+        1.25,
+        1.25
+      ],
+      "count": 3,
+      "delay": 0.3,
+      "range": [
+        0,
+        52
+      ],
+      "spread_angle": "25° Random Aim",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        0.5,
+        0.2
+      ],
+      "ammo": 1,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 18,
+      "pierce": 0,
+      "shell_range": [
+        40,
+        60
+      ],
+      "angle": 360,
+      "volley_info": [
+        3,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "hms",
+      "dd",
+      "mg"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "321": {
+    "icon": "default_1",
+    "id": 321,
+    "name": "DD Ghost Gun (IJN CAs)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 1,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 3,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        260,
+        250,
+        240,
+        230
+      ],
+      "damage": [
+        2,
+        4,
+        6,
+        8
+      ],
+      "coefficient": [
+        1.25,
+        1.25,
+        1.25,
+        1.25
+      ],
+      "count": 3,
+      "delay": 0.3,
+      "range": [
+        0,
+        55
+      ],
+      "spread_angle": "25° Random Aim",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1.2,
+        0.6,
+        0.6
+      ],
+      "ammo": 3,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 15,
+      "pierce": 0,
+      "shell_range": [
+        40,
+        60
+      ],
+      "angle": 360,
+      "volley_info": [
+        3,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "ijn",
+      "dd",
+      "mg"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "331": {
+    "icon": "default_1",
+    "id": 331,
+    "name": "DD Ghost Gun (KMS CAs)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 1,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 3,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        250,
+        240,
+        230,
+        220
+      ],
+      "damage": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "coefficient": [
+        1.25,
+        1.25,
+        1.25,
+        1.25
+      ],
+      "count": 3,
+      "delay": 0.3,
+      "range": [
+        0,
+        60
+      ],
+      "spread_angle": "25° Random Aim",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        0.9,
+        0.7,
+        0.4
+      ],
+      "ammo": 2,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 22,
+      "pierce": 1,
+      "shell_range": [
+        40,
+        60
+      ],
+      "angle": 360,
+      "volley_info": [
+        3,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "kms",
+      "dd",
+      "mg"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "351": {
+    "icon": "default_1",
+    "id": 351,
+    "name": "DD Ghost Gun (RN CAs)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 1,
+    "description": "默认装备",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 3,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        250,
+        240,
+        230,
+        220
+      ],
+      "damage": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "coefficient": [
+        1.25,
+        1.25,
+        1.25,
+        1.25
+      ],
+      "count": 3,
+      "delay": 0.3,
+      "range": [
+        0,
+        60
+      ],
+      "spread_angle": "25° Random Aim",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1.2,
+        0.6,
+        0.6
+      ],
+      "ammo": 3,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 15,
+      "pierce": 0,
+      "shell_range": [
+        40,
+        60
+      ],
+      "angle": 360,
+      "volley_info": [
+        3,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "rm",
+      "dd",
+      "mg"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "371": {
+    "icon": "default_1",
+    "id": 371,
+    "name": "DD Ghost Gun (FFNF CAs)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 1,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 3,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        240,
+        230,
+        220,
+        210
+      ],
+      "damage": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "coefficient": [
+        1.25,
+        1.25,
+        1.25,
+        1.25
+      ],
+      "count": 3,
+      "delay": 0.3,
+      "range": [
+        0,
+        60
+      ],
+      "spread_angle": "25° Random Aim",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1.2,
+        0.6,
+        0.6
+      ],
+      "ammo": 3,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 15,
+      "pierce": 0,
+      "shell_range": [
+        40,
+        60
+      ],
+      "angle": 360,
+      "volley_info": [
+        3,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "ffnf",
+      "dd",
+      "mg",
+      "he"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "391": {
+    "icon": "default_1",
+    "id": 391,
+    "name": "DD Ghost Gun (Kursk)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 1,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 3,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        240,
+        230,
+        220,
+        210
+      ],
+      "damage": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "coefficient": [
+        1.25,
+        1.25,
+        1.25,
+        1.25
+      ],
+      "count": 3,
+      "delay": 0.3,
+      "range": [
+        0,
+        60
+      ],
+      "spread_angle": "25° Random Aim",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        0.55,
+        0.25
+      ],
+      "ammo": 1,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 18,
+      "pierce": 0,
+      "shell_range": [
+        45,
+        65
+      ],
+      "angle": 360,
+      "volley_info": [
+        3,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "sn",
+      "dd",
+      "mg"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "430": {
+    "icon": "default_1",
+    "id": 430,
+    "name": "DD Ghost Gun (Kronshtadt)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 1,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 7,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        420
+      ],
+      "damage": [
+        21
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 4,
+      "delay": 0.1,
+      "range": [
+        0,
+        90
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        0.8,
+        0.6
+      ],
+      "ammo": 2,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 15,
+      "pierce": 1,
+      "shell_range": [
+        80,
+        100
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        2
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "cl",
+      "mg",
+      "ap"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "431": {
+    "icon": "default_1",
+    "id": 431,
+    "name": "DD Ghost Gun (Odin)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 1,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 4,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        226
+      ],
+      "damage": [
+        21
+      ],
+      "coefficient": [
+        1.15
+      ],
+      "count": 4,
+      "delay": 0.1,
+      "range": [
+        0,
+        90
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        1,
+        1
+      ],
+      "ammo": 2,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 22,
+      "pierce": 1,
+      "shell_range": [
+        80,
+        100
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        2
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "kms",
+      "dd",
+      "mg",
+      "ap"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "432": {
+    "icon": "default_2",
+    "id": 432,
+    "name": "CL Ghost Gun (Odin)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 2,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 4,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        412
+      ],
+      "damage": [
+        21
+      ],
+      "coefficient": [
+        1.15
+      ],
+      "count": 6,
+      "delay": 0.15,
+      "range": [
+        0,
+        65
+      ],
+      "spread_angle": "10° Cone Pattern",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        1,
+        1
+      ],
+      "ammo": 2,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 22,
+      "pierce": 1,
+      "shell_range": [
+        70,
+        90
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        3
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "kms",
+      "cl",
+      "mg",
+      "ap"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "436": {
+    "icon": "default_2",
+    "id": 436,
+    "name": "CL Ghost Gun (Prinz Heinrich)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 2,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 4,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        412
+      ],
+      "damage": [
+        21
+      ],
+      "coefficient": [
+        1.15
+      ],
+      "count": 4,
+      "delay": 0.1,
+      "range": [
+        0,
+        90
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        1,
+        1
+      ],
+      "ammo": 2,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 22,
+      "pierce": 1,
+      "shell_range": [
+        70,
+        90
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        2
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "kms",
+      "cl",
+      "mg",
+      "ap"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "437": {
+    "icon": "default_6",
+    "id": 437,
+    "name": "AA Ghost Gun (Chao Ho-class + Hai Tien-class)",
+    "rarity": 2,
+    "tech": 1,
+    "type": 6,
+    "description": "No description",
+    "skills": [],
+    "nation": 2,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        150
+      ],
+      "damage": [
+        23
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 1,
+      "delay": 0,
+      "range": [
+        0,
+        25
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "aa",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        1,
+        1
+      ],
+      "ammo": 5,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 100,
+      "pierce": 0,
+      "shell_range": [
+        30,
+        70
+      ],
+      "angle": 360,
+      "volley_info": [
+        1,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "hms",
+      "st",
+      "aa"
+    ],
+    "speciality": "Short Range",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "438": {
+    "icon": "default_2",
+    "id": 438,
+    "name": "CL Ghost Gun (Ägir)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 2,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 4,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        350
+      ],
+      "damage": [
+        23
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 4,
+      "delay": 0.1,
+      "range": [
+        0,
+        90
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1.35,
+        0.95,
+        0.7
+      ],
+      "ammo": 3,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 18,
+      "pierce": 0,
+      "shell_range": [
+        65,
+        85
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        2
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "kms",
+      "dd",
+      "mg",
+      "ap"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "439": {
+    "icon": "default_2",
+    "id": 439,
+    "name": "CL Ghost Gun (Namiko)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 2,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 4,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        412
+      ],
+      "damage": [
+        15
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 4,
+      "delay": 0.1,
+      "range": [
+        0,
+        90
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        1,
+        1
+      ],
+      "ammo": 2,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 18,
+      "pierce": 1,
+      "shell_range": [
+        70,
+        90
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        2
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "mg",
+      "ap"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "446": {
+    "icon": "default_1",
+    "id": 446,
+    "name": "CL Ghost Gun (Gneisenau META + Scharnhorst META)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 1,
+    "description": "默认装备",
+    "skills": [],
+    "nation": 4,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        412
+      ],
+      "damage": [
+        16
+      ],
+      "coefficient": [
+        1.15
+      ],
+      "count": 4,
+      "delay": 0.1,
+      "range": [
+        0,
+        105
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        1,
+        1
+      ],
+      "ammo": 2,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 22,
+      "pierce": 1,
+      "shell_range": [
+        100,
+        120
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        2
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "kms",
+      "dd",
+      "mg",
+      "ap"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "447": {
+    "icon": "default_2",
+    "id": 447,
+    "name": "CL Ghost Gun (P-class)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 2,
+    "description": "默认装备",
+    "skills": [],
+    "nation": 4,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        412
+      ],
+      "damage": [
+        21
+      ],
+      "coefficient": [
+        1.15
+      ],
+      "count": 4,
+      "delay": 0.1,
+      "range": [
+        0,
+        90
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        1,
+        1
+      ],
+      "ammo": 2,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 22,
+      "pierce": 1,
+      "shell_range": [
+        70,
+        90
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        2
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "kms",
+      "cl",
+      "mg",
+      "ap"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "448": {
+    "icon": "default_5",
+    "id": 448,
+    "name": "Default Single Torpedo",
+    "rarity": 1,
+    "tech": 1,
+    "type": 5,
+    "description": "默认装备",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        3270
+      ],
+      "damage": [
+        17
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 1,
+      "delay": 0,
+      "range": [
+        0,
+        50
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "trp",
+      "ratio": 1,
+      "aim_type": 0,
+      "armor_mod": [
+        0.8,
+        1,
+        1.3
+      ],
+      "ammo": 4,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 3,
+      "velocity": 3,
+      "pierce": 0,
+      "shell_range": [
+        70,
+        110
+      ],
+      "angle": 60,
+      "volley_info": [
+        1,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "un",
+      "st",
+      "tp",
+      "duo"
+    ],
+    "speciality": "Torpedo",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "465": {
+    "icon": "default_2",
+    "id": 465,
+    "name": "CL Ghost Gun (Brest)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 2,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 4,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        350
+      ],
+      "damage": [
+        15
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 4,
+      "delay": 0.1,
+      "range": [
+        0,
+        90
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1.2,
+        0.6,
+        0.6
+      ],
+      "ammo": 3,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 15,
+      "pierce": 0,
+      "shell_range": [
+        40,
+        60
+      ],
+      "angle": 160,
+      "volley_info": [
+        2,
+        2
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "kms",
+      "dd",
+      "mg",
+      "ap"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "468": {
+    "icon": "default_14",
+    "id": 468,
+    "name": "Default Depth Charge (Hammann II)",
+    "rarity": 5,
+    "tech": 0,
+    "type": 14,
+    "description": "No description",
+    "skills": [],
+    "nation": 1,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        545
+      ],
+      "damage": [
+        229.5
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 1,
+      "delay": 0.22,
+      "range": [
+        8,
+        50
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "asw",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        0.65,
+        0.2
+      ],
+      "ammo": 6,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 12,
+      "velocity": 5,
+      "pierce": 0,
+      "shell_range": [
+        45,
+        45
+      ],
+      "angle": 360,
+      "volley_info": [
+        1,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "dc"
+    ],
+    "speciality": "Anti submarine",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "470": {
+    "icon": "default_14",
+    "id": 470,
+    "name": "Default Depth Charge (Hero)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 14,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        540
+      ],
+      "damage": [
+        70
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 3,
+      "delay": 0.3,
+      "range": [
+        0,
+        15
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "asw",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        0.5,
+        0.2
+      ],
+      "ammo": 6,
+      "spread": [
+        4,
+        4
+      ],
+      "splash": 10,
+      "velocity": 3,
+      "pierce": 0,
+      "shell_range": [
+        20,
+        20
+      ],
+      "angle": 360,
+      "volley_info": [
+        1,
+        3
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "un",
+      "st",
+      "dc"
+    ],
+    "speciality": "Anti submarine",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "472": {
+    "icon": "default_6",
+    "id": 472,
+    "name": "Ghost AA Gun (Type 5 High-Angle)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 6,
+    "description": "",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        301
+      ],
+      "damage": [
+        85
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 1,
+      "delay": 0,
+      "range": [
+        0,
+        38
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "aa",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        1,
+        1
+      ],
+      "ammo": 5,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 100,
+      "pierce": 0,
+      "shell_range": [
+        30,
+        70
+      ],
+      "angle": 360,
+      "volley_info": [
+        1,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [],
+    "speciality": "",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "491": {
+    "icon": "default_1",
+    "id": 491,
+    "name": "DD Ghost Gun (Nakhimov)",
+    "rarity": 5,
+    "tech": 1,
+    "type": 1,
+    "description": "Default gear",
+    "skills": [],
+    "nation": 7,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        260
+      ],
+      "damage": [
+        15
+      ],
+      "coefficient": [
+        1.25
+      ],
+      "count": 8,
+      "delay": 0.24,
+      "range": [
+        0,
+        65
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "avi",
+      "ratio": 0.8,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        0.55,
+        0.25
+      ],
+      "ammo": 1,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 19,
+      "pierce": 0,
+      "shell_range": [
+        55,
+        75
+      ],
+      "angle": 200,
+      "volley_info": [
+        4,
+        2
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "sn",
+      "dd",
+      "mg"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "492": {
+    "icon": "default_14",
+    "id": 492,
+    "name": "Default Depth Charge (Eldridge Retrofit)",
+    "rarity": 5,
+    "tech": 0,
+    "type": 14,
+    "description": "No description",
+    "skills": [],
+    "nation": 1,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        500
+      ],
+      "damage": [
+        279
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 1,
+      "delay": 0.22,
+      "range": [
+        8,
+        50
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "asw",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        0.65,
+        0.2
+      ],
+      "ammo": 6,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 12,
+      "velocity": 5,
+      "pierce": 0,
+      "shell_range": [
+        45,
+        45
+      ],
+      "angle": 360,
+      "volley_info": [
+        1,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "dc"
+    ],
+    "speciality": "Anti submarine",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "62351": {
+    "icon": "default_2",
+    "id": 62351,
+    "name": "CL Ghost Gun (Blücher)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 2,
+    "description": "",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 9,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        294,
+        288,
+        282,
+        276,
+        270,
+        264,
+        258,
+        252,
+        246,
+        240
+      ],
+      "damage": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "coefficient": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "count": 5,
+      "delay": 0.2,
+      "range": [
+        0,
+        80
+      ],
+      "spread_angle": "15° Random Aim",
+      "stat": "aa",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1.2,
+        0.6,
+        0.6
+      ],
+      "ammo": 3,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 12,
+      "pierce": 0,
+      "shell_range": [
+        60,
+        80
+      ],
+      "angle": 360,
+      "volley_info": [
+        5,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [],
+    "speciality": "",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "62431": {
+    "icon": "default_14",
+    "id": 62431,
+    "name": "Ghost Depth Charge (Wakatsuki)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 14,
+    "description": "",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 9,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        600,
+        600,
+        600,
+        600,
+        600,
+        600,
+        600,
+        600,
+        600,
+        600
+      ],
+      "damage": [
+        56,
+        60,
+        64,
+        68,
+        72,
+        76,
+        80,
+        84,
+        88,
+        92
+      ],
+      "coefficient": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "count": 3,
+      "delay": 0.3,
+      "range": [
+        0,
+        10
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "asw",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        0.5,
+        0.2
+      ],
+      "ammo": 6,
+      "spread": [
+        3,
+        3
+      ],
+      "splash": 9,
+      "velocity": 1.5,
+      "pierce": 0,
+      "shell_range": [
+        10,
+        10
+      ],
+      "angle": 360,
+      "volley_info": [
+        1,
+        3
+      ]
+    },
+    "stats": [],
+    "labels": [],
+    "speciality": "",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "62531": {
+    "icon": "default_2",
+    "id": 62531,
+    "name": "CL Ghost Gun (Non-Fate Rupprecht)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 2,
+    "description": "",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 9,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        5,
+        5,
+        5,
+        4,
+        4,
+        4,
+        3,
+        3,
+        2,
+        2
+      ],
+      "damage": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "coefficient": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "count": 4,
+      "delay": 0.1,
+      "range": [
+        0,
+        100
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        1,
+        1
+      ],
+      "ammo": 1,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 20,
+      "pierce": 1,
+      "shell_range": [
+        90,
+        110
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        2
+      ],
+      "reload_seconds": true
+    },
+    "stats": [],
+    "labels": [],
+    "speciality": "",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "65861": {
+    "icon": "default_6",
+    "id": 65861,
+    "name": "AA Ghost Gun (Allen M. Summer)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 6,
+    "description": "",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 9,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        156,
+        156,
+        156,
+        156,
+        156,
+        156,
+        156,
+        156,
+        156,
+        156
+      ],
+      "damage": [
+        65,
+        73,
+        81,
+        90,
+        98,
+        106,
+        115,
+        123,
+        132,
+        142
+      ],
+      "coefficient": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "count": 1,
+      "delay": 0,
+      "range": [
+        0,
+        30
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "aa",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        1,
+        1
+      ],
+      "ammo": 5,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 100,
+      "pierce": 0,
+      "shell_range": [
+        30,
+        70
+      ],
+      "angle": 360,
+      "volley_info": [
+        1,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [],
+    "speciality": "",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "160861": {
+    "icon": "default_2",
+    "id": 160861,
+    "name": "CL Ghost Gun (Voroshilov)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 2,
+    "description": "",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 9,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "damage": [
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        28,
+        30
+      ],
+      "coefficient": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "count": 3,
+      "delay": 0.15,
+      "range": [
+        0,
+        80
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        1,
+        1
+      ],
+      "ammo": 1,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 12,
+      "pierce": 0,
+      "shell_range": [
+        70,
+        90
+      ],
+      "angle": 360,
+      "volley_info": [
+        1,
+        3
+      ],
+      "reload_seconds": true
+    },
+    "stats": [],
+    "labels": [],
+    "speciality": "",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "161471": {
+    "icon": "default_6",
+    "id": 161471,
+    "name": "AA Ghost Gun (Shimanto)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 6,
+    "description": "",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 9,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        236,
+        232,
+        227,
+        222,
+        217,
+        212,
+        207,
+        202,
+        197,
+        192
+      ],
+      "damage": [
+        57,
+        64,
+        71,
+        78,
+        86,
+        94,
+        102,
+        110,
+        118,
+        126
+      ],
+      "coefficient": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "count": 1,
+      "delay": 0,
+      "range": [
+        0,
+        30
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "aa",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        1,
+        1
+      ],
+      "ammo": 5,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 100,
+      "pierce": 0,
+      "shell_range": [
+        30,
+        70
+      ],
+      "angle": 360,
+      "volley_info": [
+        1,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [],
+    "speciality": "",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "163001": {
+    "icon": "default_2",
+    "id": 163001,
+    "name": "CL Ghost Gun (Fate Rupprecht)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 2,
+    "description": "",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 9,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        5,
+        5,
+        5,
+        4,
+        4,
+        4,
+        3,
+        3,
+        2,
+        2
+      ],
+      "damage": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "coefficient": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "count": 4,
+      "delay": 0.1,
+      "range": [
+        0,
+        100
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        1,
+        1
+      ],
+      "ammo": 1,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 20,
+      "pierce": 1,
+      "shell_range": [
+        90,
+        110
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        2
+      ],
+      "reload_seconds": true
+    },
+    "stats": [],
+    "labels": [],
+    "speciality": "",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "163791": {
+    "icon": "default_6",
+    "id": 163791,
+    "name": "AA Ghost Gun (Laffey II)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 6,
+    "description": "",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 9,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        156,
+        156,
+        156,
+        156,
+        156,
+        156,
+        156,
+        156,
+        156,
+        156
+      ],
+      "damage": [
+        130,
+        146,
+        162,
+        180,
+        196,
+        212,
+        230,
+        246,
+        264,
+        284
+      ],
+      "coefficient": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "count": 1,
+      "delay": 0,
+      "range": [
+        0,
+        30
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "aa",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        1,
+        1
+      ],
+      "ammo": 5,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 100,
+      "pierce": 0,
+      "shell_range": [
+        30,
+        70
+      ],
+      "angle": 360,
+      "volley_info": [
+        1,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [],
+    "speciality": "",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "164811": {
+    "icon": "default_2",
+    "id": 164811,
+    "name": "CL Ghost Gun (Napoli Lv.1)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 2,
+    "description": "",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        1
+      ],
+      "damage": [
+        6
+      ],
+      "coefficient": [
+        1.05
+      ],
+      "count": 2,
+      "delay": 0,
+      "range": [
+        0,
+        55
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        0.95,
+        0.95,
+        0.25
+      ],
+      "ammo": 7,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 22,
+      "pierce": 0,
+      "shell_range": [
+        45,
+        65
+      ],
+      "angle": 360,
+      "volley_info": [
+        1,
+        2
+      ],
+      "reload_seconds": true
+    },
+    "stats": [],
+    "labels": [],
+    "speciality": "",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "164812": {
+    "icon": "default_2",
+    "id": 164812,
+    "name": "CL Ghost Gun (Napoli Lv.2)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 2,
+    "description": "",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        1
+      ],
+      "damage": [
+        6
+      ],
+      "coefficient": [
+        1.05
+      ],
+      "count": 4,
+      "delay": 0.1,
+      "range": [
+        0,
+        55
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        0.95,
+        0.95,
+        0.25
+      ],
+      "ammo": 7,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 22,
+      "pierce": 0,
+      "shell_range": [
+        45,
+        65
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        2
+      ],
+      "reload_seconds": true
+    },
+    "stats": [],
+    "labels": [],
+    "speciality": "",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "165031": {
+    "icon": "default_6",
+    "id": 165031,
+    "name": "Ghost AA Gun (Pittsburgh)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 6,
+    "description": "",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 9,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        139,
+        134,
+        132,
+        128,
+        125,
+        122,
+        119,
+        114,
+        112,
+        108
+      ],
+      "damage": [
+        39,
+        45,
+        51,
+        57,
+        63,
+        69,
+        75,
+        81,
+        87,
+        94
+      ],
+      "coefficient": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "count": 1,
+      "delay": 0,
+      "range": [
+        0,
+        30
+      ],
+      "spread_angle": "0° No Spread",
+      "stat": "aa",
+      "ratio": 1,
+      "aim_type": 1,
+      "armor_mod": [
+        1,
+        1,
+        1
+      ],
+      "ammo": 5,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 100,
+      "pierce": 0,
+      "shell_range": [
+        30,
+        70
+      ],
+      "angle": 360,
+      "volley_info": [
+        1,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [],
+    "speciality": "",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  }
+}

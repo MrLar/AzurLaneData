@@ -1,0 +1,2621 @@
+{
+  "101": {
+    "names": [
+      "Artillery Rookie - Destroyers",
+      "Artillery Adept - Destroyers",
+      "Artillery Ace - Destroyers"
+    ],
+    "descriptions": [
+      "Your DDs gain 3 FP.",
+      "Your DDs gain 4 FP.",
+      "Your DDs gain 6 FP."
+    ],
+    "icons": [
+      "quzhu_paoji_1",
+      "quzhu_paoji_2",
+      "quzhu_paoji_3"
+    ],
+    "effect": {
+      "hulls": [
+        1,
+        20,
+        21
+      ],
+      "stats": [
+        {
+          "stat": "fp",
+          "amount": [
+            3,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    "id": 101,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "111": {
+    "names": [
+      "Artillery Rookie - Cruisers",
+      "Artillery Adept - Cruisers",
+      "Artillery Ace - Cruisers"
+    ],
+    "descriptions": [
+      "Your CLs, CAs, and CBs gain 5 FP.",
+      "Your CLs, CAs, and CBs gain 7 FP.",
+      "Your CLs, CAs, and CBs gain 10 FP."
+    ],
+    "icons": [
+      "xunyang_paoji_1",
+      "xunyang_paoji_2",
+      "xunyang_paoji_3"
+    ],
+    "effect": {
+      "hulls": [
+        2,
+        3,
+        18
+      ],
+      "stats": [
+        {
+          "stat": "fp",
+          "amount": [
+            5,
+            7,
+            10
+          ]
+        }
+      ]
+    },
+    "id": 111,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "121": {
+    "names": [
+      "Artillery Rookie - Main",
+      "Artillery Adept - Main",
+      "Artillery Ace - Main"
+    ],
+    "descriptions": [
+      "Your BBs, BCs, BBVs, BMs, and IXMs gain 8 FP.",
+      "Your BBs, BCs, BBVs, BMs, and IXMs gain 11 FP.",
+      "Your BBs, BCs, BBVs, BMs, and IXMs gain 16 FP."
+    ],
+    "icons": [
+      "zhanlie_paoji_1",
+      "zhanlie_paoji_2",
+      "zhanlie_paoji_3"
+    ],
+    "effect": {
+      "hulls": [
+        4,
+        5,
+        10,
+        13,
+        24
+      ],
+      "stats": [
+        {
+          "stat": "fp",
+          "amount": [
+            8,
+            11,
+            16
+          ]
+        }
+      ]
+    },
+    "id": 121,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "131": {
+    "names": [
+      "Firepower Boost - Main",
+      "Firepower Mastery - Main"
+    ],
+    "descriptions": [
+      "Your BBs, BCs, BBVs, BMs, and IXs gain 10 FP.",
+      "Your BBs, BCs, BBVs, BMs, and IXs gain 14 FP."
+    ],
+    "icons": [
+      "zhanlie_paoji_1",
+      "zhanlie_paoji_2"
+    ],
+    "effect": {
+      "hulls": [
+        4,
+        5,
+        24,
+        10
+      ],
+      "stats": [
+        {
+          "stat": "fp",
+          "amount": [
+            10,
+            14
+          ]
+        }
+      ]
+    },
+    "id": 131,
+    "max": 2,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "141": {
+    "names": [
+      "Firepower Boost - Vanguard",
+      "Firepower Mastery - Vanguard"
+    ],
+    "descriptions": [
+      "Your CLs, CAs, CBs, and IXs gain 6 FP.",
+      "Your CLs, CAs, CBs, and IXs gain 8 FP."
+    ],
+    "icons": [
+      "xunyang_paoji_1",
+      "xunyang_paoji_2"
+    ],
+    "effect": {
+      "hulls": [
+        2,
+        3,
+        18,
+        23
+      ],
+      "stats": [
+        {
+          "stat": "fp",
+          "amount": [
+            6,
+            8
+          ]
+        }
+      ]
+    },
+    "id": 141,
+    "max": 2,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "201": {
+    "names": [
+      "Torpedo Rookie - Submarines",
+      "Torpedo Adept - Submarines",
+      "Torpedo Ace - Submarines"
+    ],
+    "descriptions": [
+      "Your SSs and SSVs gain 10 TRP.",
+      "Your SSs and SSVs gain 14 TRP.",
+      "Your SSs and SSVs gain 20 TRP."
+    ],
+    "icons": [
+      "qianting_leiji_1",
+      "qianting_leiji_2",
+      "qianting_leiji_3"
+    ],
+    "effect": {
+      "hulls": [
+        8,
+        17
+      ],
+      "stats": [
+        {
+          "stat": "trp",
+          "amount": [
+            10,
+            14,
+            20
+          ]
+        }
+      ]
+    },
+    "id": 201,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "211": {
+    "names": [
+      "Torpedo Rookie - Destroyers",
+      "Torpedo Adept - Destroyers",
+      "Torpedo Ace - Destroyers"
+    ],
+    "descriptions": [
+      "Your DDs gain 10 TRP.",
+      "Your DDs gain 14 TRP.",
+      "Your DDs gain 20 TRP."
+    ],
+    "icons": [
+      "quzhu_leiji_1",
+      "quzhu_leiji_2",
+      "quzhu_leiji_3"
+    ],
+    "effect": {
+      "hulls": [
+        1,
+        20,
+        21
+      ],
+      "stats": [
+        {
+          "stat": "trp",
+          "amount": [
+            10,
+            14,
+            20
+          ]
+        }
+      ]
+    },
+    "id": 211,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "221": {
+    "names": [
+      "Torpedo Rookie - Cruisers",
+      "Torpedo Adept - Cruisers",
+      "Torpedo Ace - Cruisers"
+    ],
+    "descriptions": [
+      "Your CLs and CAs gain 6 TRP.",
+      "Your CLs and CAs gain 8 TRP.",
+      "Your CLs and CAs gain 12 TRP."
+    ],
+    "icons": [
+      "xunyang_leiji_1",
+      "xunyang_leiji_2",
+      "xunyang_leiji_3"
+    ],
+    "effect": {
+      "hulls": [
+        2,
+        3
+      ],
+      "stats": [
+        {
+          "stat": "trp",
+          "amount": [
+            6,
+            8,
+            12
+          ]
+        }
+      ]
+    },
+    "id": 221,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "301": {
+    "names": [
+      "Aviation Rookie - Carriers",
+      "Aviation Adept - Carriers",
+      "Aviation Ace - Carriers"
+    ],
+    "descriptions": [
+      "Your CVs and CVLs gain 10 AVI.",
+      "Your CVs and CVLs gain 14 AVI.",
+      "Your CVs and CVLs gain 20 AVI."
+    ],
+    "icons": [
+      "hangmu_hangkong_1",
+      "hangmu_hangkong_2",
+      "hangmu_hangkong_3"
+    ],
+    "effect": {
+      "hulls": [
+        6,
+        7
+      ],
+      "stats": [
+        {
+          "stat": "avi",
+          "amount": [
+            10,
+            14,
+            20
+          ]
+        }
+      ]
+    },
+    "id": 301,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "311": {
+    "names": [
+      "Aviation Rookie - Special",
+      "Aviation Adept - Special",
+      "Aviation Ace - Special"
+    ],
+    "descriptions": [
+      "Your BBVs gain 5 AVI.",
+      "Your BBVs gain 7 AVI.",
+      "Your BBVs gain 10 AVI."
+    ],
+    "icons": [
+      "teshu_hangkong_1",
+      "teshu_hangkong_2",
+      "teshu_hangkong_3"
+    ],
+    "effect": {
+      "hulls": [
+        10
+      ],
+      "stats": [
+        {
+          "stat": "avi",
+          "amount": [
+            5,
+            7,
+            10
+          ]
+        }
+      ]
+    },
+    "id": 311,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "401": {
+    "names": [
+      "Anti-Air Rookie - Vanguard",
+      "Anti-Air Adept - Vanguard",
+      "Anti-Air Ace - Vanguard"
+    ],
+    "descriptions": [
+      "Your {Vanguard|Does not include Munition Ships} gains 8 AA.",
+      "Your {Vanguard|Does not include Munition Ships} gains 11 AA.",
+      "Your {Vanguard|Does not include Munition Ships} gains 16 AA."
+    ],
+    "icons": [
+      "quzhu_fangkong_1",
+      "quzhu_fangkong_2",
+      "quzhu_fangkong_3"
+    ],
+    "effect": {
+      "hulls": [
+        1,
+        2,
+        3,
+        18,
+        20
+      ],
+      "stats": [
+        {
+          "stat": "aa",
+          "amount": [
+            8,
+            11,
+            16
+          ]
+        }
+      ]
+    },
+    "id": 401,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "411": {
+    "names": [
+      "Anti-Air Rookie - Main",
+      "Anti-Air Adept - Main",
+      "Anti-Air Ace - Main"
+    ],
+    "descriptions": [
+      "Your Main Fleet gains 10 AA.",
+      "Your Main Fleet gains 14 AA.",
+      "Your Main Fleet gains 20 AA."
+    ],
+    "icons": [
+      "zhanlie_fangkong_1",
+      "zhanlie_fangkong_2",
+      "zhanlie_fangkong_3"
+    ],
+    "effect": {
+      "hulls": [
+        4,
+        5,
+        6,
+        7,
+        10,
+        12,
+        13,
+        21
+      ],
+      "stats": [
+        {
+          "stat": "aa",
+          "amount": [
+            10,
+            14,
+            20
+          ]
+        }
+      ]
+    },
+    "id": 411,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "501": {
+    "names": [
+      "Sonar Rookie - Vanguard",
+      "Sonar Adept - Vanguard",
+      "Sonar Ace - Vanguard"
+    ],
+    "descriptions": [
+      "Your {Vanguard|Does not include Munition Ships} gains 4 ASW.",
+      "Your {Vanguard|Does not include Munition Ships} gains 5 ASW.",
+      "Your {Vanguard|Does not include Munition Ships} gains 8 ASW."
+    ],
+    "icons": [
+      "quzhu_fanqian_1",
+      "quzhu_fanqian_2",
+      "quzhu_fanqian_3"
+    ],
+    "effect": {
+      "hulls": [
+        1,
+        2,
+        3,
+        18,
+        20
+      ],
+      "stats": [
+        {
+          "stat": "asw",
+          "amount": [
+            4,
+            5,
+            8
+          ]
+        }
+      ]
+    },
+    "id": 501,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "511": {
+    "names": [
+      "Sonar Rookie - Main",
+      "Sonar Adept - Main",
+      "Sonar Ace - Main"
+    ],
+    "descriptions": [
+      "Your Main Fleet gains 3 ASW.",
+      "Your Main Fleet gains 4 ASW.",
+      "Your Main Fleet gains 6 ASW."
+    ],
+    "icons": [
+      "qingmu_fanqian_1",
+      "qingmu_fanqian_2",
+      "qingmu_fanqian_3"
+    ],
+    "effect": {
+      "hulls": [
+        4,
+        5,
+        6,
+        7,
+        10,
+        12,
+        13,
+        21
+      ],
+      "stats": [
+        {
+          "stat": "aa",
+          "amount": [
+            3,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    "id": 511,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "601": {
+    "names": [
+      "Loading Rookie - Submarines",
+      "Loading Adept - Submarines",
+      "Loading Ace - Submarines"
+    ],
+    "descriptions": [
+      "Your SSs and SSVs gain 3 RLD.",
+      "Your SSs and SSVs gain 4 RLD.",
+      "Your SSs and SSVs gain 6 RLD."
+    ],
+    "icons": [
+      "qianting_one_1",
+      "qianting_one_2",
+      "qianting_one_3"
+    ],
+    "effect": {
+      "hulls": [
+        8,
+        17
+      ],
+      "stats": [
+        {
+          "stat": "rld",
+          "amount": [
+            3,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    "id": 601,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "611": {
+    "names": [
+      "Loading Rookie - Destroyers",
+      "Loading Adept - Destroyers",
+      "Loading Ace - Destroyers"
+    ],
+    "descriptions": [
+      "Your DDs gain 5 RLD.",
+      "Your DDs gain 7 RLD.",
+      "Your DDs gain 10 RLD."
+    ],
+    "icons": [
+      "quzhu_one_1",
+      "quzhu_one_2",
+      "quzhu_one_3"
+    ],
+    "effect": {
+      "hulls": [
+        1,
+        20,
+        21
+      ],
+      "stats": [
+        {
+          "stat": "rld",
+          "amount": [
+            5,
+            7,
+            10
+          ]
+        }
+      ]
+    },
+    "id": 611,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "621": {
+    "names": [
+      "Loading Rookie - Cruisers",
+      "Loading Adept - Cruisers",
+      "Loading Ace - Cruisers"
+    ],
+    "descriptions": [
+      "Your CLs, CAs, and CBs gain 4 RLD.",
+      "Your CLs, CAs, and CBs gain 5 RLD.",
+      "Your CLs, CAs, and CBs gain 8 RLD."
+    ],
+    "icons": [
+      "xunyang_one_1",
+      "xunyang_one_2",
+      "xunyang_one_3"
+    ],
+    "effect": {
+      "hulls": [
+        2,
+        3,
+        18
+      ],
+      "stats": [
+        {
+          "stat": "rld",
+          "amount": [
+            3,
+            5,
+            8
+          ]
+        }
+      ]
+    },
+    "id": 621,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "631": {
+    "names": [
+      "Loading Rookie - Battleships",
+      "Loading Adept - Battleships",
+      "Loading Ace - Battleships"
+    ],
+    "descriptions": [
+      "Your BBs, BCs, and BBVs gain 3 RLD.",
+      "Your BBs, BCs, and BBVs gain 4 RLD.",
+      "Your BBs, BCs, and BBVs gain 6 RLD."
+    ],
+    "icons": [
+      "zhanlie_one_1",
+      "zhanlie_one_2",
+      "zhanlie_one_3"
+    ],
+    "effect": {
+      "hulls": [
+        4,
+        5,
+        10
+      ],
+      "stats": [
+        {
+          "stat": "rld",
+          "amount": [
+            3,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    "id": 631,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "641": {
+    "names": [
+      "Rookie Mechanic",
+      "Adept Mechanic",
+      "Ace Mechanic"
+    ],
+    "descriptions": [
+      "Your CVs and CVLs gain 3 RLD.",
+      "Your CVs and CVLs gain 4 RLD.",
+      "Your CVs and CVLs gain 6 RLD."
+    ],
+    "icons": [
+      "hangmu_one_1",
+      "hangmu_one_2",
+      "hangmu_one_3"
+    ],
+    "effect": {
+      "hulls": [
+        7,
+        6
+      ],
+      "stats": [
+        {
+          "stat": "rld",
+          "amount": [
+            3,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    "id": 641,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "651": {
+    "names": [
+      "Loading Rookie - Miscellaneous",
+      "Loading Adept - Miscellaneous",
+      "Loading Ace - Miscellaneous"
+    ],
+    "descriptions": [
+      "Your BMs, ARs, AEs, and IXs gain 3 RLD.",
+      "Your BMs, ARs, AEs, and IXs gain 4 RLD.",
+      "Your BMs, ARs, AEs, and IXs gain 6 RLD."
+    ],
+    "icons": [
+      "teshu_one_1",
+      "teshu_one_2",
+      "teshu_one_3"
+    ],
+    "effect": {
+      "hulls": [
+        13,
+        12,
+        19,
+        22,
+        23,
+        24
+      ],
+      "stats": [
+        {
+          "stat": "rld",
+          "amount": [
+            3,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    "id": 651,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "701": {
+    "names": [
+      "Rookie Engineer - Submarines",
+      "Adept Engineer - Submarines",
+      "Ace Engineer - Submarines"
+    ],
+    "descriptions": [
+      "Your SSs and SSVs gain 25 HP.",
+      "Your SSs and SSVs gain 35 HP.",
+      "Your SSs and SSVs gain 50 HP."
+    ],
+    "icons": [
+      "qianting_naijiu_1",
+      "qianting_naijiu_2",
+      "qianting_naijiu_3"
+    ],
+    "effect": {
+      "hulls": [
+        8,
+        17
+      ],
+      "stats": [
+        {
+          "stat": "hp",
+          "amount": [
+            25,
+            35,
+            50
+          ]
+        }
+      ]
+    },
+    "id": 701,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "711": {
+    "names": [
+      "Rookie Engineer - Destroyers",
+      "Adept Engineer - Destroyers",
+      "Ace Engineer - Destroyers"
+    ],
+    "descriptions": [
+      "Your DDs gain 30 HP.",
+      "Your DDs gain 42 HP.",
+      "Your DDs gain 60 HP."
+    ],
+    "icons": [
+      "quzhu_naijiu_1",
+      "quzhu_naijiu_2",
+      "quzhu_naijiu_3"
+    ],
+    "effect": {
+      "hulls": [
+        1,
+        20,
+        21
+      ],
+      "stats": [
+        {
+          "stat": "hp",
+          "amount": [
+            30,
+            42,
+            60
+          ]
+        }
+      ]
+    },
+    "id": 711,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "721": {
+    "names": [
+      "Rookie Engineer - Cruisers",
+      "Adept Engineer - Cruisers",
+      "Ace Engineer - Cruisers"
+    ],
+    "descriptions": [
+      "Your CLs, CAs, and CBs gain 50 HP.",
+      "Your CLs, CAs, and CBs gain 70 HP.",
+      "Your CLs, CAs, and CBs gain 100 HP."
+    ],
+    "icons": [
+      "xunyang_naijiu_1",
+      "xunyang_naijiu_2",
+      "xunyang_naijiu_3"
+    ],
+    "effect": {
+      "hulls": [
+        2,
+        3,
+        18
+      ],
+      "stats": [
+        {
+          "stat": "hp",
+          "amount": [
+            50,
+            70,
+            100
+          ]
+        }
+      ]
+    },
+    "id": 721,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "731": {
+    "names": [
+      "Rookie Engineer - Battleships",
+      "Adept Engineer - Battleships",
+      "Ace Engineer - Battleships"
+    ],
+    "descriptions": [
+      "Your BBs, BCs, and BBVs gain 75 HP.",
+      "Your BBs, BCs, and BBVs gain 105 HP.",
+      "Your BBs, BCs, and BBVs gain 150 HP."
+    ],
+    "icons": [
+      "zhanlie_naijiu_1",
+      "zhanlie_naijiu_2",
+      "zhanlie_naijiu_3"
+    ],
+    "effect": {
+      "hulls": [
+        4,
+        5,
+        10
+      ],
+      "stats": [
+        {
+          "stat": "hp",
+          "amount": [
+            75,
+            105,
+            150
+          ]
+        }
+      ]
+    },
+    "id": 731,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "741": {
+    "names": [
+      "Rookie Engineer - Carriers",
+      "Adept Engineer - Carriers",
+      "Ace Engineer - Carriers"
+    ],
+    "descriptions": [
+      "Your CVs and CVLs gain 50 HP.",
+      "Your CVs and CVLs gain 70 HP.",
+      "Your CVs and CVLs gain 100 HP."
+    ],
+    "icons": [
+      "hangmu_naijiu_1",
+      "hangmu_naijiu_2",
+      "hangmu_naijiu_3"
+    ],
+    "effect": {
+      "hulls": [
+        7,
+        6
+      ],
+      "stats": [
+        {
+          "stat": "hp",
+          "amount": [
+            50,
+            70,
+            100
+          ]
+        }
+      ]
+    },
+    "id": 741,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "751": {
+    "names": [
+      "Rookie Engineer - Miscellaneous",
+      "Adept Engineer - Miscellaneous",
+      "Ace Engineer - Miscellaneous"
+    ],
+    "descriptions": [
+      "Your BMs, ARs, AEs, and IXs gain 40 HP.",
+      "Your BMs, ARs, AEs, and IXs gain 56 HP.",
+      "Your BMs, ARs, AEs, and IXs gain 80 HP."
+    ],
+    "icons": [
+      "teshu_naijiu_1",
+      "teshu_naijiu_2",
+      "teshu_naijiu_3"
+    ],
+    "effect": {
+      "hulls": [
+        13,
+        12,
+        19,
+        22,
+        23,
+        24
+      ],
+      "stats": [
+        {
+          "stat": "hp",
+          "amount": [
+            40,
+            56,
+            80
+          ]
+        }
+      ]
+    },
+    "id": 751,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "761": {
+    "names": [
+      "Rookie Engineer - Small Ships",
+      "Adept Engineer - Small Ships",
+      "Ace Engineer - Small Ships"
+    ],
+    "descriptions": [
+      "Your SSs, SSVs, DDs, and IXs gain 30 HP.",
+      "Your SSs, SSVs, DDs, and IXs gain 42 HP.",
+      "Your SSs, SSVs, DDs, and IXs gain 60 HP."
+    ],
+    "icons": [
+      "teshu_naijiu_1",
+      "teshu_naijiu_2",
+      "teshu_naijiu_3"
+    ],
+    "effect": {
+      "hulls": [
+        8,
+        17,
+        22,
+        23,
+        24
+      ],
+      "stats": [
+        {
+          "stat": "hp",
+          "amount": [
+            30,
+            42,
+            60
+          ]
+        }
+      ]
+    },
+    "id": 761,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "801": {
+    "names": [
+      "Rookie Lookout - Submarines",
+      "Adept Lookout - Submarines",
+      "Ace Lookout - Submarines"
+    ],
+    "descriptions": [
+      "Your SSs and SSVs gain 2 Accuracy.",
+      "Your SSs and SSVs gain 3 Accuracy.",
+      "Your SSs and SSVs gain 5 Accuracy."
+    ],
+    "icons": [
+      "qianting_one_1",
+      "qianting_one_2",
+      "qianting_one_3"
+    ],
+    "effect": {
+      "hulls": [
+        8,
+        17
+      ],
+      "stats": [
+        {
+          "stat": "hit",
+          "amount": [
+            2,
+            3,
+            5
+          ]
+        }
+      ]
+    },
+    "id": 801,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "811": {
+    "names": [
+      "Rookie Lookout - Vanguard",
+      "Adept Lookout - Vanguard",
+      "Ace Lookout - Vanguard"
+    ],
+    "descriptions": [
+      "Your {Vanguard|Does not include Munition Ships} gains 3 Accuracy.",
+      "Your {Vanguard|Does not include Munition Ships} gains 4 Accuracy.",
+      "Your {Vanguard|Does not include Munition Ships} gains 6 Accuracy."
+    ],
+    "icons": [
+      "quzhu_one_1",
+      "quzhu_one_2",
+      "quzhu_one_3"
+    ],
+    "effect": {
+      "hulls": [
+        1,
+        2,
+        3,
+        18,
+        20
+      ],
+      "stats": [
+        {
+          "stat": "hit",
+          "amount": [
+            3,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    "id": 811,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "821": {
+    "names": [
+      "Rookie Lookout - Main",
+      "Adept Lookout - Main",
+      "Ace Lookout - Main"
+    ],
+    "descriptions": [
+      "Your Main Fleet gains 1 Accuracy.",
+      "Your Main Fleet gains 2 Accuracy.",
+      "Your Main Fleet gains 3 Accuracy."
+    ],
+    "icons": [
+      "zhanlie_one_1",
+      "zhanlie_one_2",
+      "zhanlie_one_3"
+    ],
+    "effect": {
+      "hulls": [
+        4,
+        5,
+        6,
+        7,
+        10,
+        12,
+        13,
+        21
+      ],
+      "stats": [
+        {
+          "stat": "hit",
+          "amount": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    "id": 821,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "901": {
+    "names": [
+      "Rookie Helmsman - Small Ships",
+      "Adept Helmsman - Small Ships",
+      "Ace Helmsman - Small Ships"
+    ],
+    "descriptions": [
+      "Your SSs, SSVs, DDs, and IXs gain 5 EVA.",
+      "Your SSs, SSVs, DDs, and IXs gain 7 EVA.",
+      "Your SSs, SSVs, DDs, and IXs gain 10 EVA."
+    ],
+    "icons": [
+      "quzhu_one_1",
+      "quzhu_one_2",
+      "quzhu_one_3"
+    ],
+    "effect": {
+      "hulls": [
+        1,
+        20,
+        21,
+        8,
+        17,
+        22,
+        23,
+        24
+      ],
+      "stats": [
+        {
+          "stat": "eva",
+          "amount": [
+            5,
+            7,
+            10
+          ]
+        }
+      ]
+    },
+    "id": 901,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "911": {
+    "names": [
+      "Rookie Helmsman - Medium Ships",
+      "Adept Helmsman - Medium Ships",
+      "Ace Helmsman - Medium Ships"
+    ],
+    "descriptions": [
+      "Your CLs, CAs, CVLs, BMs, ARs, and AEs gain 3 EVA.",
+      "Your CLs, CAs, CVLs, BMs, ARs, and AEs gain 4 EVA.",
+      "Your CLs, CAs, CVLs, BMs, ARs, and AEs gain 6 EVA."
+    ],
+    "icons": [
+      "xunyang_one_1",
+      "xunyang_one_2",
+      "xunyang_one_3"
+    ],
+    "effect": {
+      "hulls": [
+        2,
+        3,
+        6,
+        13,
+        12,
+        19
+      ],
+      "stats": [
+        {
+          "stat": "eva",
+          "amount": [
+            3,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    "id": 911,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "921": {
+    "names": [
+      "Rookie Helmsman - Large Ships",
+      "Adept Helmsman - Large Ships",
+      "Ace Helmsman - Large Ships"
+    ],
+    "descriptions": [
+      "Your BBs, BCs, CVs, BBVs, and CBs gain 1 EVA.",
+      "Your BBs, BCs, CVs, BBVs, and CBs gain 2 EVA.",
+      "Your BBs, BCs, CVs, BBVs, and CBs gain 3 EVA."
+    ],
+    "icons": [
+      "xunyang_one_1",
+      "xunyang_one_2",
+      "xunyang_one_3"
+    ],
+    "effect": {
+      "hulls": [
+        4,
+        5,
+        10,
+        18,
+        7
+      ],
+      "stats": [
+        {
+          "stat": "eva",
+          "amount": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    "id": 921,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "2001": {
+    "names": [
+      "Rookie Officer - Destroyers",
+      "Elite Officer - Destroyers",
+      "Chief of Staff - Destroyers"
+    ],
+    "descriptions": [
+      "Your DDs gain 8 TRP and 4 RLD.",
+      "Your DDs gain 11 TRP and 5 RLD.",
+      "Your DDs gain 16 TRP and 8 RLD."
+    ],
+    "icons": [
+      "quzhu_one_1",
+      "quzhu_one_2",
+      "quzhu_one_3"
+    ],
+    "effect": {
+      "hulls": [
+        1,
+        20,
+        21
+      ],
+      "stats": [
+        {
+          "stat": "trp",
+          "amount": [
+            8,
+            11,
+            16
+          ]
+        },
+        {
+          "stat": "rld",
+          "amount": [
+            4,
+            5,
+            8
+          ]
+        }
+      ]
+    },
+    "id": 2001,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "2011": {
+    "names": [
+      "Rookie Officer - Cruisers",
+      "Elite Officer - Cruisers",
+      "Chief of Staff - Cruisers"
+    ],
+    "descriptions": [
+      "Your {CLs, CAs and CBs|Game incorrectly claims CBs only gain FP.} gain 5 FP and 5 TRP.",
+      "Your {CLs, CAs and CBs|Game incorrectly claims CBs only gain FP.} gain 7 FP and 7 TRP.",
+      "Your {CLs, CAs and CBs|Game incorrectly claims CBs only gain FP.} gain 10 FP and 10 TRP."
+    ],
+    "icons": [
+      "xunyang_one_1",
+      "xunyang_one_2",
+      "xunyang_one_3"
+    ],
+    "effect": {
+      "hulls": [
+        2,
+        3,
+        18
+      ],
+      "stats": [
+        {
+          "stat": "trp",
+          "amount": [
+            5,
+            7,
+            10
+          ]
+        },
+        {
+          "stat": "fp",
+          "amount": [
+            5,
+            7,
+            10
+          ]
+        }
+      ]
+    },
+    "id": 2011,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "2021": {
+    "names": [
+      "Rookie Officer - Battleships",
+      "Elite Officer - Battleships",
+      "Chief of Staff - Battleships"
+    ],
+    "descriptions": [
+      "Your BBs and BCs gain 50 HP and 8 FP.",
+      "Your BBs and BCs gain 70 HP and 11 FP.",
+      "Your BBs and BCs gain 100 HP and 16 FP."
+    ],
+    "icons": [
+      "zhanlie_one_1",
+      "zhanlie_one_2",
+      "zhanlie_one_3"
+    ],
+    "effect": {
+      "hulls": [
+        4,
+        5
+      ],
+      "stats": [
+        {
+          "stat": "hp",
+          "amount": [
+            50,
+            70,
+            100
+          ]
+        },
+        {
+          "stat": "fp",
+          "amount": [
+            8,
+            11,
+            16
+          ]
+        }
+      ]
+    },
+    "id": 2021,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "2031": {
+    "names": [
+      "Rookie Officer - Carriers",
+      "Elite Officer - Carriers",
+      "Chief of Staff - Carriers"
+    ],
+    "descriptions": [
+      "Your CVs gain 10 AVI and 3 RLD.",
+      "Your CVs gain 14 AVI and 4 RLD.",
+      "Your CVs gain 20 AVI and 6 RLD."
+    ],
+    "icons": [
+      "hangmu_one_1",
+      "hangmu_one_2",
+      "hangmu_one_3"
+    ],
+    "effect": {
+      "hulls": [
+        7
+      ],
+      "stats": [
+        {
+          "stat": "avi",
+          "amount": [
+            10,
+            14,
+            20
+          ]
+        },
+        {
+          "stat": "rld",
+          "amount": [
+            3,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    "id": 2031,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "2041": {
+    "names": [
+      "Rookie Officer - Submarines",
+      "Elite Officer - Submarines",
+      "Chief of Staff - Submarines"
+    ],
+    "descriptions": [
+      "Your SSs and SSVs gain 10 TRP and 3 RLD.",
+      "Your SSs and SSVs gain 14 TRP and 4 RLD.",
+      "Your SSs and SSVs gain 20 TRP and 6 RLD."
+    ],
+    "icons": [
+      "qianting_one_1",
+      "qianting_one_2",
+      "qianting_one_3"
+    ],
+    "effect": {
+      "hulls": [
+        8,
+        17
+      ],
+      "stats": [
+        {
+          "stat": "trp",
+          "amount": [
+            10,
+            14,
+            20
+          ]
+        },
+        {
+          "stat": "rld",
+          "amount": [
+            3,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    "id": 2041,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "2111": {
+    "names": [
+      "Rookie Officer - Union",
+      "Elite Officer - Union",
+      "Chief of Staff - Union"
+    ],
+    "descriptions": [
+      "Your Eagle Union ships gain 8 AA, 8 AVI, and 3 RLD.",
+      "Your Eagle Union ships gain 11 AA, 11 AVI, and 4 RLD.",
+      "Your Eagle Union ships gain 16 AA, 16 AVI, and 6 RLD."
+    ],
+    "icons": [
+      "baiying_two_1",
+      "baiying_two_2",
+      "baiying_two_3"
+    ],
+    "effect": {
+      "nation": 1,
+      "stats": [
+        {
+          "stat": "aa",
+          "amount": [
+            8,
+            11,
+            16
+          ]
+        },
+        {
+          "stat": "avi",
+          "amount": [
+            8,
+            11,
+            16
+          ]
+        },
+        {
+          "stat": "rld",
+          "amount": [
+            3,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    "id": 2111,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "2121": {
+    "names": [
+      "Rookie Officer - Royal",
+      "Elite Officer - Royal",
+      "Chief of Staff - Royal"
+    ],
+    "descriptions": [
+      "Your Royal Navy ships gain 7 FP, 8 AA, and 1 EVA.",
+      "Your Royal Navy ships gain 10 FP, 11 AA, and 2 EVA.",
+      "Your Royal Navy ships gain 14 FP, 16 AA, and 3 EVA."
+    ],
+    "icons": [
+      "huangjia_two_1",
+      "huangjia_two_2",
+      "huangjia_two_3"
+    ],
+    "effect": {
+      "nation": 2,
+      "stats": [
+        {
+          "stat": "aa",
+          "amount": [
+            8,
+            11,
+            16
+          ]
+        },
+        {
+          "stat": "fp",
+          "amount": [
+            7,
+            10,
+            14
+          ]
+        },
+        {
+          "stat": "eva",
+          "amount": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    "id": 2121,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "2131": {
+    "names": [
+      "Rookie Officer - Sakura",
+      "Elite Officer - Sakura",
+      "Chief of Staff - Sakura"
+    ],
+    "descriptions": [
+      "Your Sakura Empire ships gain 8 TRP, 6 AVI, and 1 EVA.",
+      "Your Sakura Empire ships gain 11 TRP, 8 AVI, and 2 EVA.",
+      "Your Sakura Empire ships gain 16 TRP, 12 AVI, and 3 EVA."
+    ],
+    "icons": [
+      "chongying_two_1",
+      "chongying_two_2",
+      "chongying_two_3"
+    ],
+    "effect": {
+      "nation": 3,
+      "stats": [
+        {
+          "stat": "trp",
+          "amount": [
+            8,
+            11,
+            16
+          ]
+        },
+        {
+          "stat": "avi",
+          "amount": [
+            6,
+            8,
+            12
+          ]
+        },
+        {
+          "stat": "eva",
+          "amount": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    "id": 2131,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "2141": {
+    "names": [
+      "Rookie Officer - Iron Blood",
+      "Elite Officer - Iron Blood",
+      "Chief of Staff - Iron Blood"
+    ],
+    "descriptions": [
+      "Your Iron Blood ships gain 6 FP, 7 TRP, and 1 Accuracy.",
+      "Your Iron Blood ships gain 8 FP, 10 TRP, and 2 Accuracy.",
+      "Your Iron Blood ships gain 12 FP, 14 TRP, and 3 Accuracy."
+    ],
+    "icons": [
+      "tiexue_two_1",
+      "tiexue_two_2",
+      "tiexue_two_3"
+    ],
+    "effect": {
+      "nation": 4,
+      "stats": [
+        {
+          "stat": "trp",
+          "amount": [
+            7,
+            10,
+            14
+          ]
+        },
+        {
+          "stat": "fp",
+          "amount": [
+            6,
+            8,
+            12
+          ]
+        },
+        {
+          "stat": "hit",
+          "amount": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    "id": 2141,
+    "max": 3,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "2151": {
+    "names": [
+      "Rookie Officer - Empery",
+      "Elite Officer - Empery",
+      "Chief of Staff - Empery"
+    ],
+    "descriptions": [
+      "Your Dragon Empery ships gain 7 FP, 8 AA, and 3 RLD.",
+      "Your Dragon Empery ships gain 10 FP, 11 AA, and 4 RLD.",
+      "Your Dragon Empery ships gain 14 FP, 16 AA, and 6 RLD."
+    ],
+    "icons": [
+      "special_one",
+      "special_one",
+      "special_one"
+    ],
+    "effect": {
+      "nation": 5,
+      "stats": [
+        {
+          "stat": "aa",
+          "amount": [
+            8,
+            11,
+            16
+          ]
+        },
+        {
+          "stat": "fp",
+          "amount": [
+            7,
+            10,
+            14
+          ]
+        },
+        {
+          "stat": "rld",
+          "amount": [
+            2,
+            3,
+            6
+          ]
+        }
+      ]
+    },
+    "id": 2151,
+    "max": 3,
+    "obtainable": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "2171": {
+    "names": [
+      "Rookie Officer - Parliament",
+      "Elite Officer - Parliament",
+      "Chief of Staff - Parliament"
+    ],
+    "descriptions": [
+      "Your Northern Parliament ships gain 8 FP, 4 RLD, and 1 Accuracy.",
+      "Your Northern Parliament ships gain 11 FP, 5 RLD, and 2 Accuracy.",
+      "Your Northern Parliament ships gain 16 FP, 8 RLD, and 3 Accuracy."
+    ],
+    "icons": [
+      "special_one",
+      "special_one",
+      "special_one"
+    ],
+    "effect": {
+      "nation": 7,
+      "stats": [
+        {
+          "stat": "hit",
+          "amount": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "stat": "fp",
+          "amount": [
+            8,
+            11,
+            16
+          ]
+        },
+        {
+          "stat": "rld",
+          "amount": [
+            4,
+            5,
+            8
+          ]
+        }
+      ]
+    },
+    "id": 2171,
+    "max": 3,
+    "obtainable": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "2181": {
+    "names": [
+      "Rookie Officer - Iris",
+      "Elite Officer - Iris",
+      "Chief of Staff - Iris"
+    ],
+    "descriptions": [
+      "Your Iris Libre ships gain 8 FP, 3 RLD, and 2 EVA.",
+      "Your Iris Libre ships gain 11 FP, 4 RLD, and 3 EVA.",
+      "Your Iris Libre ships gain 16 FP, 6 RLD, and 5 EVA."
+    ],
+    "icons": [
+      "special_one",
+      "special_one",
+      "special_one"
+    ],
+    "effect": {
+      "nation": 8,
+      "stats": [
+        {
+          "stat": "eva",
+          "amount": [
+            2,
+            3,
+            5
+          ]
+        },
+        {
+          "stat": "fp",
+          "amount": [
+            8,
+            11,
+            16
+          ]
+        },
+        {
+          "stat": "rld",
+          "amount": [
+            3,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    "id": 2181,
+    "max": 3,
+    "obtainable": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "2191": {
+    "names": [
+      "Rookie Officer - Vichya",
+      "Elite Officer - Vichya",
+      "Chief of Staff - Vichya"
+    ],
+    "descriptions": [
+      "Your Vichiya Dominion ships gain 8 FP, 3 RLD, and 2 Accuracy.",
+      "Your Vichiya Dominion ships gain 11 FP, 4 RLD, and 3 Accuracy.",
+      "Your Vichiya Dominion ships gain 16 FP, 6 RLD, and 5 Accuracy."
+    ],
+    "icons": [
+      "special_one",
+      "special_one",
+      "special_one"
+    ],
+    "effect": {
+      "nation": 9,
+      "stats": [
+        {
+          "stat": "hit",
+          "amount": [
+            2,
+            3,
+            5
+          ]
+        },
+        {
+          "stat": "fp",
+          "amount": [
+            8,
+            11,
+            16
+          ]
+        },
+        {
+          "stat": "rld",
+          "amount": [
+            3,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    "id": 2191,
+    "max": 3,
+    "obtainable": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "5011": {
+    "names": [
+      "Tireless Warrior"
+    ],
+    "descriptions": [
+      "Your CLs, CAs, and CBs gain 10 FP and 12 RLD."
+    ],
+    "icons": [
+      "jiandibizhan"
+    ],
+    "effect": {
+      "hulls": [
+        2,
+        3,
+        18
+      ],
+      "stats": [
+        {
+          "stat": "fp",
+          "amount": [
+            10
+          ]
+        },
+        {
+          "stat": "rld",
+          "amount": [
+            12
+          ]
+        }
+      ]
+    },
+    "id": 5011,
+    "max": 1,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "5021": {
+    "names": [
+      "Soulful Warrior"
+    ],
+    "descriptions": [
+      "Your BBs and BCs gain 15 FP and 3.0% Main Gun Crit Rate."
+    ],
+    "icons": [
+      "yifaruhun"
+    ],
+    "effect": {
+      "hulls": [
+        4,
+        5
+      ],
+      "stats": [
+        {
+          "stat": "fp",
+          "amount": [
+            15
+          ]
+        },
+        {
+          "stat": "crit_rate",
+          "type": 4,
+          "amount": [
+            0.03
+          ]
+        }
+      ]
+    },
+    "id": 5021,
+    "max": 1,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "5031": {
+    "names": [
+      "Heart of the Torpedo"
+    ],
+    "descriptions": [
+      "Your DDs and CLs gain 15 TRP and {3.0% Torpedo Crit Rate|Does not affect DDGs.}."
+    ],
+    "icons": [
+      "shuileihun"
+    ],
+    "effect": {
+      "hulls": [
+        1,
+        20,
+        21,
+        2
+      ],
+      "stats": [
+        {
+          "stat": "trp",
+          "amount": [
+            15
+          ]
+        },
+        {
+          "stat": "crit_rate",
+          "type": 5,
+          "amount": [
+            0.03
+          ],
+          "restrict": [
+            20,
+            21
+          ]
+        }
+      ]
+    },
+    "id": 5031,
+    "max": 1,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "5041": {
+    "names": [
+      "Ace Pilot"
+    ],
+    "descriptions": [
+      "Your CVs gain 15 AVI and 8 RLD."
+    ],
+    "icons": [
+      "wangpaijishi"
+    ],
+    "effect": {
+      "hulls": [
+        7
+      ],
+      "stats": [
+        {
+          "stat": "avi",
+          "amount": [
+            15
+          ]
+        },
+        {
+          "stat": "rld",
+          "amount": [
+            8
+          ]
+        }
+      ]
+    },
+    "id": 5041,
+    "max": 1,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "5051": {
+    "names": [
+      "Alpha Wolf"
+    ],
+    "descriptions": [
+      "Your SSs and SSVs gain 15 TRP and 8 RLD."
+    ],
+    "icons": [
+      "langqunzhishou"
+    ],
+    "effect": {
+      "hulls": [
+        8,
+        17
+      ],
+      "stats": [
+        {
+          "stat": "trp",
+          "amount": [
+            15
+          ]
+        },
+        {
+          "stat": "rld",
+          "amount": [
+            8
+          ]
+        }
+      ]
+    },
+    "id": 5051,
+    "max": 1,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "5061": {
+    "names": [
+      "Rising Star"
+    ],
+    "descriptions": [
+      "This Meowfficer gains 10.0% more EXP from battles."
+    ],
+    "icons": [
+      "special_exp"
+    ],
+    "effect": null,
+    "id": 5061,
+    "max": 1,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "5071": {
+    "names": [
+      "Best Friend"
+    ],
+    "descriptions": [
+      "This Meowfficer gives 10.0% more EXP when used as Enhancement Material."
+    ],
+    "icons": [
+      "special_exp"
+    ],
+    "effect": null,
+    "id": 5071,
+    "max": 1,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "5081": {
+    "names": [
+      "Wind's Alacrity"
+    ],
+    "descriptions": [
+      "Your whole fleet gains 3 Speed."
+    ],
+    "icons": [
+      "special_one"
+    ],
+    "effect": {
+      "stats": [
+        {
+          "stat": "spd",
+          "amount": [
+            3
+          ]
+        }
+      ]
+    },
+    "id": 5081,
+    "max": 1,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "5091": {
+    "names": [
+      "Forest's Serenity"
+    ],
+    "descriptions": [
+      "Your whole fleet gains 15 AA and ASW as well as 3 Accuracy and EVA."
+    ],
+    "icons": [
+      "special_one"
+    ],
+    "effect": {
+      "stats": [
+        {
+          "stat": "aa",
+          "amount": [
+            15
+          ]
+        },
+        {
+          "stat": "asw",
+          "amount": [
+            15
+          ]
+        },
+        {
+          "stat": "hit",
+          "amount": [
+            3
+          ]
+        },
+        {
+          "stat": "eva",
+          "amount": [
+            3
+          ]
+        }
+      ]
+    },
+    "id": 5091,
+    "max": 1,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "5101": {
+    "names": [
+      "Flame's Aggression"
+    ],
+    "descriptions": [
+      "Your whole fleet deals 3.0% more DMG."
+    ],
+    "icons": [
+      "special_one"
+    ],
+    "effect": {
+      "hulls": [],
+      "stats": [
+        {
+          "stat": "damage",
+          "amount": [
+            0.03
+          ]
+        }
+      ]
+    },
+    "id": 5101,
+    "max": 1,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "5111": {
+    "names": [
+      "Mountain's Tenacity"
+    ],
+    "descriptions": [
+      "Your whole fleet takes 3.0% less DMG."
+    ],
+    "icons": [
+      "special_one"
+    ],
+    "effect": {
+      "hulls": [],
+      "stats": [
+        {
+          "stat": "damage_reduction",
+          "amount": [
+            0.03
+          ]
+        }
+      ]
+    },
+    "id": 5111,
+    "max": 1,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "5121": {
+    "names": [
+      "Miracle"
+    ],
+    "descriptions": [
+      "Your whole fleet gains 5 LCK."
+    ],
+    "icons": [
+      "special_one"
+    ],
+    "effect": {
+      "stats": [
+        {
+          "stat": "luck",
+          "amount": [
+            5
+          ]
+        }
+      ]
+    },
+    "id": 5121,
+    "max": 1,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "5131": {
+    "names": [
+      "Destiny"
+    ],
+    "descriptions": [
+      "Your whole fleet gains 10 FP, TRP, and AVI, but loses 3 LCK."
+    ],
+    "icons": [
+      "special_one"
+    ],
+    "effect": {
+      "stats": [
+        {
+          "stat": "trp",
+          "amount": [
+            10
+          ]
+        },
+        {
+          "stat": "fp",
+          "amount": [
+            10
+          ]
+        },
+        {
+          "stat": "avi",
+          "amount": [
+            10
+          ]
+        },
+        {
+          "stat": "luck",
+          "amount": [
+            -3
+          ]
+        }
+      ]
+    },
+    "id": 5131,
+    "max": 1,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "5141": {
+    "names": [
+      "Combat Ready"
+    ],
+    "descriptions": [
+      "Your BBs, BCs, and IXMs gain 25 FP."
+    ],
+    "icons": [
+      "special_one"
+    ],
+    "effect": {
+      "hulls": [
+        4,
+        5,
+        24
+      ],
+      "stats": [
+        {
+          "stat": "fp",
+          "amount": [
+            25
+          ]
+        }
+      ]
+    },
+    "id": 5141,
+    "max": 1,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "5151": {
+    "names": [
+      "Hoist Sails!"
+    ],
+    "descriptions": [
+      "Your CLs, CAs, CBs, and IXVs gain 10 FP and 5 EVA."
+    ],
+    "icons": [
+      "special_one"
+    ],
+    "effect": {
+      "hulls": [
+        2,
+        3,
+        18,
+        23
+      ],
+      "stats": [
+        {
+          "stat": "fp",
+          "amount": [
+            10
+          ]
+        },
+        {
+          "stat": "eva",
+          "amount": [
+            5
+          ]
+        }
+      ]
+    },
+    "id": 5151,
+    "max": 1,
+    "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  }
+}

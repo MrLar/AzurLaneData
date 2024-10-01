@@ -1,0 +1,3159 @@
+{
+  "10011": {
+    "name": "Justice",
+    "timer": "10:24:00",
+    "nation": 1,
+    "icon": 10011,
+    "id": 10011,
+    "rarity": 5,
+    "stats": {
+      "command": 52,
+      "tactics": 65,
+      "logistics": 44
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "31 Knots of Justice",
+      "descriptions": [
+        "When assigned to a fleet with 3 DDs: gives your fleet +1 tile movement on the map.",
+        "When assigned as the Command Cat to a fleet that has at least 1 DD: 15.0% chance to launch a preemptive torpedo strike when engaging any non-Boss fleet on the map.",
+        "When assigned as the Command Cat to a fleet that isn't in combat and has at least 1 DD: adds an option in the Strategy Menu to switch positions with a friendly fleet in combat if it is directly adjacent to yours."
+      ],
+      "opsi_descriptions": [
+        "When assigned to a fleet with 3 DDs: increases your Vanguard's TRP by a moderate amount based on the Tactics stat.",
+        "When assigned as the Command Cat, and when the 2nd ship in your Vanguard is a DD: fires a Lv. 1 special barrage.",
+        "Improves the special barrage to Lv. 2."
+      ],
+      "icon": 10011,
+      "id": 10011,
+      "effects": [],
+      "opsi_effects": [
+        {
+          "slot": -1,
+          "condition": {
+            "type": "count",
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "count": 3
+          },
+          "hulls": [
+            1,
+            2,
+            3,
+            18,
+            20
+          ],
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "tactics",
+              "amount": 8
+            }
+          ]
+        }
+      ],
+      "default_level": 0
+    }
+  },
+  "10021": {
+    "name": "Antenna",
+    "timer": "10:45:00",
+    "nation": 1,
+    "icon": 10021,
+    "id": 10021,
+    "rarity": 5,
+    "stats": {
+      "command": 64,
+      "tactics": 55,
+      "logistics": 43
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Snipurr",
+      "descriptions": [
+        "When engaging an enemy Vanguard or Main Fleet: increases the Accuracy of your BBs, BCs, and BBVs by a large amount based on the Tactics stat.",
+        "When assigned to a fleet with a BB, BC, or BBV as its Flagship: increases the DMG the Flagship deals based on the Directives stat.",
+        "Increases EVA and AA for your BBs, BCs, and BBVs by a moderate amount based on the Directives stat."
+      ],
+      "opsi_descriptions": [
+        "When engaging an enemy Vanguard or Main Fleet: increases the Accuracy of your BBs, BCs, and BBVs by a large amount based on the Tactics stat.",
+        "When assigned to a fleet with a BB, BC, or BBV as its Flagship: increases the DMG the Flagship deals based on the Directives stat.",
+        "Increases EVA and AA for your BBs, BCs, and BBVs by a moderate amount based on the Directives stat."
+      ],
+      "icon": 10021,
+      "id": 10021,
+      "effects": [
+        null,
+        {
+          "slot": -1,
+          "hulls": [],
+          "condition": {
+            "type": "flag",
+            "hulls": [
+              4,
+              5,
+              10
+            ]
+          },
+          "stats": [
+            {
+              "stat": "damage",
+              "meow_stat": "command",
+              "amount": 12
+            }
+          ]
+        },
+        {
+          "slot": -1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "command",
+              "amount": 8
+            },
+            {
+              "stat": "aa",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        null,
+        {
+          "slot": -1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "condition": {
+            "type": "flag",
+            "hulls": [
+              4,
+              5,
+              10
+            ]
+          },
+          "stats": [
+            {
+              "stat": "damage",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        },
+        {
+          "slot": -1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "command",
+              "amount": 8
+            },
+            {
+              "stat": "aa",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        }
+      ],
+      "default_level": 0
+    }
+  },
+  "11011": {
+    "name": "Bunny",
+    "timer": "06:09:00",
+    "nation": 1,
+    "icon": 11011,
+    "id": 11011,
+    "rarity": 4,
+    "stats": {
+      "command": 55,
+      "tactics": 36,
+      "logistics": 43
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Bite Their Fingers",
+      "descriptions": [
+        "When assigned as the Command Cat to a fleet that has at least 1 DD: 15.0% chance to launch a preemptive torpedo strike when engaging any non-Boss fleet on the map.",
+        "Once per battle, when a DD is the frontmost ship of your Vanguard: activates Meowfficer Barrage I when in close proximity to an enemy.",
+        "Upgrades Meowfficer Barrage I to Meowfficer Barrage II."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Command Cat: increases your DD's TRP by a small amount based on the Directives stat.",
+        "Once per battle, when a DD is the frontmost ship of your Vanguard: activates Meowfficer Barrage I when in close proximity to an enemy.",
+        "Upgrades Meowfficer Barrage I to Meowfficer Barrage II."
+      ],
+      "icon": 11011,
+      "id": 11011,
+      "effects": [],
+      "opsi_effects": [
+        {
+          "slot": 0,
+          "hulls": [
+            1,
+            20,
+            21
+          ],
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "default_level": 0
+    }
+  },
+  "11021": {
+    "name": "Eagle",
+    "timer": "05:36:00",
+    "nation": 1,
+    "icon": 11011,
+    "id": 11021,
+    "rarity": 4,
+    "stats": {
+      "command": 52,
+      "tactics": 49,
+      "logistics": 33
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Nine Lives",
+      "descriptions": [
+        "When assigned as the Staff Cat: increases the RLD of your CVs and CVLs by a small amount based on the Tactics stat.",
+        "When the fleet runs into an Airstrike on the map: gives a chance to completely evade the Airstrike based on the Tactics stat.",
+        "When assigned as the Staff Cat: increases the AVI of your CVs and CVLs by a moderate amount based on the Directives stat."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the RLD of your CVs and CVLs by a small amount based on the Tactics stat.",
+        "When assigned as the Staff Cat: increases the EVA and AA of your CVs and CVLs by a small amount based on the Tactics stat.",
+        "When assigned as the Staff Cat: increases the AVI of your CVs and CVLs by a moderate amount based on the Directives stat."
+      ],
+      "icon": 11021,
+      "id": 11021,
+      "effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            6,
+            7
+          ],
+          "stats": [
+            {
+              "stat": "rld",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        },
+        null,
+        {
+          "slot": 1,
+          "hulls": [
+            6,
+            7
+          ],
+          "stats": [
+            {
+              "stat": "avi",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            6,
+            7
+          ],
+          "stats": [
+            {
+              "stat": "rld",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            6,
+            7
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "tactics",
+              "amount": 4
+            },
+            {
+              "stat": "aa",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            6,
+            7
+          ],
+          "stats": [
+            {
+              "stat": "avi",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        }
+      ],
+      "default_level": 0
+    }
+  },
+  "12011": {
+    "name": "Lady",
+    "timer": "02:03:00",
+    "nation": 1,
+    "icon": 12011,
+    "id": 12011,
+    "rarity": 3,
+    "stats": {
+      "command": 40,
+      "tactics": 52,
+      "logistics": 28
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Carrier Boost",
+      "descriptions": [
+        "When assigned as the Staff Cat: increases the RLD of your CVs and CVLs by a small amount based on the Logistics stat.",
+        "When assigned as the Staff Cat: increases the AVI of your CVs and CVLs by a small amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the Accuracy of your CVs and CVLs by a small amount based on the Tactics stat."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the RLD of your CVs and CVLs by a small amount based on the Logistics stat.",
+        "When assigned as the Staff Cat: increases the AVI of your CVs and CVLs by a small amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the Accuracy of your CVs and CVLs by a small amount based on the Tactics stat."
+      ],
+      "icon": 12011,
+      "id": 12011,
+      "effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            7,
+            6
+          ],
+          "stats": [
+            {
+              "stat": "rld",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            7,
+            6
+          ],
+          "stats": [
+            {
+              "stat": "avi",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            7,
+            6
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            7,
+            6
+          ],
+          "stats": [
+            {
+              "stat": "rld",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            7,
+            6
+          ],
+          "stats": [
+            {
+              "stat": "avi",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            7,
+            6
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "default_level": 0
+    }
+  },
+  "12021": {
+    "name": "SG",
+    "timer": "02:25:00",
+    "nation": 1,
+    "icon": 12011,
+    "id": 12021,
+    "rarity": 3,
+    "stats": {
+      "command": 51,
+      "tactics": 26,
+      "logistics": 41
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Recon Boost",
+      "descriptions": [
+        "Decreases the fleet's chance of running into an Ambush based on the {Directives|In game incorrectly states Logistics} stat.",
+        "When assigned as the Staff Cat: increases the Accuracy of your CLs, CAs, and CBs by a small amount based on the Tactics stat.",
+        "When assigned as the Staff Cat: increases the FP your CLs, CAs, and CBs by a small amount based on the Directives stat."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the EVA of your CLs, CAs, and CBs by a small amount based on the {Directives|In game incorrectly states Logistics} stat.",
+        "When assigned as the Staff Cat: increases the Accuracy of your CLs, CAs, and CBs by a small amount based on the Tactics stat.",
+        "When assigned as the Staff Cat: increases the FP your CLs, CAs, and CBs by a small amount based on the Directives stat."
+      ],
+      "icon": 12011,
+      "id": 12021,
+      "effects": [
+        null,
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "default_level": 0
+    }
+  },
+  "20011": {
+    "name": "Lime",
+    "timer": "10:05:00",
+    "nation": 2,
+    "icon": 20011,
+    "id": 20011,
+    "rarity": 5,
+    "stats": {
+      "command": 52,
+      "tactics": 58,
+      "logistics": 55
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Churchill's Blessing",
+      "descriptions": [
+        "When assigned as the Staff Cat: increases the FP and AA of your BBs, BCs, and BBVs by a moderate amount based on the Directives stat.",
+        "When assigned as the Staff Cat and when in a coastal battle (i.e. fighting on a tile adjacent to impassable land): increases the entire fleet's FP by a moderate amount based on the Tactics stat.",
+        "Increases the DMG your BBs, BCs, and BBVs deal based on the Tactics stat."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the FP and AA of your BBs, BCs, and BBVs by a moderate amount based on the Directives stat.",
+        "When assigned as the Staff Cat: for 30s after the battle starts, increases your entire fleet's FP by a moderate amount based on the Tactics stat.",
+        "Increases the DMG your BBs, BCs, and BBVs deal based on the Tactics stat."
+      ],
+      "icon": 20011,
+      "id": 20011,
+      "effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "command",
+              "amount": 8
+            },
+            {
+              "stat": "aa",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        },
+        null,
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "damage",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "command",
+              "amount": 8
+            },
+            {
+              "stat": "aa",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        },
+        null,
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "damage",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "default_level": 0
+    }
+  },
+  "20021": {
+    "name": "Pound",
+    "timer": "10:27:00",
+    "nation": 2,
+    "icon": 20021,
+    "id": 20021,
+    "rarity": 5,
+    "stats": {
+      "command": 59,
+      "tactics": 36,
+      "logistics": 67
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Rule Britannya",
+      "descriptions": [
+        "When assigned as the Command Cat: increases the FP and AA of your BBs, BCs, and BBVs by a moderate amount based on the Directives stat.",
+        "When assigned as the Command Cat to a fleet with at least 4 Royal Navy ships: decreases the DMG your Vanguard takes for 30s after the battle starts based on the Logistics stat.",
+        "When assigned as the Command Cat: increases the EVA of your Royal Navy ships by a large amount based on the Logistics stat."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Command Cat: increases the FP and AA of your BBs, BCs, and BBVs by a moderate amount based on the Directives stat.",
+        "When assigned as the Command Cat to a fleet with at least 4 Royal Navy ships: decreases the DMG your Vanguard takes for 30s after the battle starts based on the Logistics stat.",
+        "When assigned as the Command Cat: increases the EVA of your Royal Navy ships by a large amount based on the Logistics stat."
+      ],
+      "icon": 20021,
+      "id": 20021,
+      "effects": [
+        {
+          "slot": 0,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "command",
+              "amount": 8
+            },
+            {
+              "stat": "aa",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        },
+        null,
+        {
+          "slot": 0,
+          "nations": [
+            2
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "logistics",
+              "amount": 12
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        {
+          "slot": 0,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "command",
+              "amount": 8
+            },
+            {
+              "stat": "aa",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        },
+        null,
+        {
+          "slot": 0,
+          "nations": [
+            2
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "logistics",
+              "amount": 12
+            }
+          ]
+        }
+      ],
+      "default_level": 0
+    }
+  },
+  "21011": {
+    "name": "Pepper",
+    "timer": "06:16:00",
+    "nation": 2,
+    "icon": 21011,
+    "id": 21011,
+    "rarity": 4,
+    "stats": {
+      "command": 50,
+      "tactics": 45,
+      "logistics": 44
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Commerce Purrsuiter",
+      "descriptions": [
+        "When assigned as the Staff Cat: increases the EVA of your CLs, CAs, and CBs by a small amount based on the Logistics stat.",
+        "When assigned as the Staff Cat and when engaging an enemy Cargo Fleet: increases the FP of your CLs, CAs, and CBs by a large amount based on the Tactics stat.",
+        "When assigned as the Staff Cat: increases the TRP of your CLs, CAs, and CBs by a moderate amount based on the Directives stat."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the EVA of your CLs, CAs, and CBs by a small amount based on the Logistics stat.",
+        "When assigned as the Staff Cat and when engaging an enemy Cargo Fleet: increases the FP of your CLs, CAs, and CBs by a large amount based on the Tactics stat.",
+        "When assigned as the Staff Cat: increases the TRP of your CLs, CAs, and CBs by a moderate amount based on the Directives stat."
+      ],
+      "icon": 21011,
+      "id": 21011,
+      "effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        null,
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        null,
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        }
+      ],
+      "default_level": 0
+    }
+  },
+  "21021": {
+    "name": "Soup",
+    "timer": "05:30:00",
+    "nation": 2,
+    "icon": 21011,
+    "id": 21021,
+    "rarity": 4,
+    "stats": {
+      "command": 55,
+      "tactics": 33,
+      "logistics": 39
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Purrceptive",
+      "descriptions": [
+        "When assigned as the Staff Cat and when engaging an enemy Vanguard Fleet: increases the Accuracy of your DDs by a moderate amount based on the Tactics stat.",
+        "When assigned as the Staff Cat: increases the EVA of your DDs by a {moderate|In game incorrectly states small.} amount based on the Logistics stat.",
+        "When assigned to a fleet that is within 3 tiles of an enemy Vanguard Fleet: gives your fleet +1 tile movement on the map."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat and when engaging an enemy Vanguard Fleet: increases the Accuracy of your DDs by a moderate amount based on the Tactics stat.",
+        "When assigned as the Staff Cat: increases the EVA of your DDs by a {moderate|In game incorrectly states small.} amount based on the Logistics stat.",
+        "When an enemy Recon Fleet is within the surrounding 3 tiles of the fleet this Meowfficer is assigned to: increases the EVA of your DDs by a small amount based on the Directives stat."
+      ],
+      "icon": 21021,
+      "id": 21021,
+      "effects": [
+        null,
+        {
+          "slot": 1,
+          "hulls": [
+            1,
+            20,
+            21
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "logistics",
+              "amount": 8
+            }
+          ]
+        },
+        null
+      ],
+      "opsi_effects": [
+        null,
+        {
+          "slot": 1,
+          "hulls": [
+            1,
+            20,
+            21
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "logistics",
+              "amount": 8
+            }
+          ]
+        },
+        null
+      ],
+      "default_level": 0
+    }
+  },
+  "21031": {
+    "name": "Ark",
+    "timer": "06:43:00",
+    "nation": 2,
+    "icon": 21011,
+    "id": 21031,
+    "rarity": 4,
+    "stats": {
+      "command": 64,
+      "tactics": 44,
+      "logistics": 23
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Tiddles' Legacy",
+      "descriptions": [
+        "When assigned as the Staff Cat: increases the Accuracy of your CVs and CVLs by a small amount based on the Tactics stat.",
+        "When assigned to a fleet that is within 2 tiles of an enemy Vanguard Fleet: gives your fleet +1 tile movement on the map.",
+        "When assigned as the Staff Cat: increases the AVI of your CVs and CVLs by a moderate amount based on the Directives stat."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the Accuracy of your CVs and CVLs by a small amount based on the Tactics stat.",
+        "When an enemy Recon Fleet is within the surrounding 2 tiles of the fleet this Meowfficer is assigned to: increases the EVA of your DDs by a small amount based on the Logistics stat.",
+        "When assigned as the Staff Cat: increases the AVI of your CVs and CVLs by a moderate amount based on the Directives stat."
+      ],
+      "icon": 21031,
+      "id": 21031,
+      "effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            7,
+            6
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        },
+        null,
+        {
+          "slot": 1,
+          "hulls": [
+            7,
+            6
+          ],
+          "stats": [
+            {
+              "stat": "avi",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            7,
+            6
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        },
+        null,
+        {
+          "slot": 1,
+          "hulls": [
+            7,
+            6
+          ],
+          "stats": [
+            {
+              "stat": "avi",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        }
+      ],
+      "default_level": 0
+    }
+  },
+  "21041": {
+    "name": "Marble",
+    "timer": "07:26:00",
+    "nation": 2,
+    "icon": 21011,
+    "id": 21041,
+    "rarity": 4,
+    "stats": {
+      "command": 48,
+      "tactics": 44,
+      "logistics": 39
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Sophissticated",
+      "descriptions": [
+        "Decreases the chance of the fleet running into an {Ambush|In game incorretly states Airstrike} on the map based on the {Tactics|In game incorrectly states Logistics} stat.",
+        "When assigned as the Staff Cat: increases the RLD of your BBs, BCs, and BBVs by a small amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the FP of your Royal Navy ships by a small amount based on the Tactics stat."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the EVA of your BBs, BCs, and BBVs by a small amount based on the {Tactics|In game incorrectly states Logistics} stat.",
+        "When assigned as the Staff Cat: increases the RLD of your BBs, BCs, and BBVs by a small amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the FP of your Royal Navy ships by a small amount based on the Tactics stat."
+      ],
+      "icon": 21041,
+      "id": 21041,
+      "effects": [
+        null,
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "rld",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "nations": [
+            2
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "rld",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "nations": [
+            2
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "default_level": 0
+    }
+  },
+  "22011": {
+    "name": "Rose",
+    "timer": "02:17:00",
+    "nation": 2,
+    "icon": 12011,
+    "id": 22011,
+    "rarity": 3,
+    "stats": {
+      "command": 29,
+      "tactics": 23,
+      "logistics": 64
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Battleship Boost",
+      "descriptions": [
+        "When assigned as the Staff Cat: increases the RLD of your BBs, BCs, and BBVs by a small amount based on the Logistics stat.",
+        "When assigned as the Staff Cat: increases the Accuracy of your BBs, BCs, and BBVs by a small amount based on the Logistics stat. (Unlocks at Skill Lvl 2)",
+        "When assigned as the Staff Cat: increases the FP of your BBs, BCs, and BBVs by a small amount based on the Logistics stat. (Unlocks at Skill Lvl 3)"
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the RLD of your BBs, BCs, and BBVs by a small amount based on the Logistics stat.",
+        "When assigned as the Staff Cat: increases the Accuracy of your BBs, BCs, and BBVs by a small amount based on the Logistics stat. (Unlocks at Skill Lvl 2)",
+        "When assigned as the Staff Cat: increases the FP of your BBs, BCs, and BBVs by a small amount based on the Logistics stat. (Unlocks at Skill Lvl 3)"
+      ],
+      "icon": 12011,
+      "id": 22011,
+      "effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "default_level": 0
+    }
+  },
+  "22021": {
+    "name": "Bugles",
+    "timer": "01:39:00",
+    "nation": 2,
+    "icon": 12011,
+    "id": 22021,
+    "rarity": 3,
+    "stats": {
+      "command": 38,
+      "tactics": 52,
+      "logistics": 29
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Cruiser Tactics",
+      "descriptions": [
+        "When assigned as the Staff Cat: increases the FP of your CLs, CAs, and CBs by a small amount based on the Tactics stat.",
+        "When assigned as the Staff Cat: increases the Accuracy of your CLs, CAs, and CBs by a small amount based on the Tactics stat.",
+        "When assigned as the Staff Cat: increases the EVA of your CLs, CAs, and CBs by a small amount based on the Tactics stat."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the FP of your CLs, CAs, and CBs by a small amount based on the Tactics stat.",
+        "When assigned as the Staff Cat: increases the Accuracy of your CLs, CAs, and CBs by a small amount based on the Tactics stat.",
+        "When assigned as the Staff Cat: increases the EVA of your CLs, CAs, and CBs by a small amount based on the Tactics stat."
+      ],
+      "icon": 12011,
+      "id": 22021,
+      "effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "default_level": 0
+    }
+  },
+  "30011": {
+    "name": "Bishamaru",
+    "timer": "09:58:00",
+    "nation": 3,
+    "icon": 30011,
+    "id": 30011,
+    "rarity": 5,
+    "stats": {
+      "command": 49,
+      "tactics": 68,
+      "logistics": 38
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Paws of Fury",
+      "descriptions": [
+        "When assigned as the Staff Cat: increases the AVI and RLD of your CVs and CVLs by a {moderate|In game incorrectly states small.} amount based on the Directives stat.",
+        "Decreases the fleet's chance of running into an Ambush based on the Logistics stat.",
+        "Once per battle, if your fleet consists of only 1 CV or CVL: quickens the load time of your CV's/CVL's first Airstrike by 8.0% and launches an additional Torpedo Bomber airstrike once."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the AVI and RLD of your CVs and CVLs by a {moderate|In game incorrectly states small.} amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the EVA of your CVs and CVLs by a small amount based on the Logistics stat.",
+        "Once per battle, if your fleet consists of only 1 CV or CVL: quickens the load time of your CV's/CVL's first Airstrike by 8.0% and launches an additional Torpedo Bomber airstrike once."
+      ],
+      "icon": 30011,
+      "id": 30011,
+      "effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            7,
+            6
+          ],
+          "stats": [
+            {
+              "stat": "rld",
+              "meow_stat": "command",
+              "amount": 8
+            },
+            {
+              "stat": "avi",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        },
+        null,
+        null
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            7,
+            6
+          ],
+          "stats": [
+            {
+              "stat": "rld",
+              "meow_stat": "command",
+              "amount": 8
+            },
+            {
+              "stat": "avi",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            7,
+            6
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        null
+      ],
+      "default_level": 0
+    }
+  },
+  "30021": {
+    "name": "Takemaru",
+    "timer": "09:40:00",
+    "nation": 3,
+    "icon": 30021,
+    "id": 30021,
+    "rarity": 5,
+    "stats": {
+      "command": 62,
+      "tactics": 66,
+      "logistics": 30
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Ironbottom Tail Swipe",
+      "descriptions": [
+        "When assigned as the Command Cat: increases the FP and TRP of your CLs, CAs, and CBs by a moderate amount based on the Tactics stat.",
+        "When assigned as the Command Cat to a fleet that is within 2 tiles of an enemy Main Fleet: decreases the DMG your Flagship takes based on the Directives stat.",
+        "For 30s after the battle starts when assigned as the Command Cat and when engaging an enemy Main Fleet: increases the Accuracy and EVA of your CLs, CAs, and CBs by a large amount based on the Tactics stat."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Command Cat: increases the FP and TRP of your CLs, CAs, and CBs by a moderate amount based on the Tactics stat.",
+        "When assigned as the Command Cat to a fleet that is within 2 tiles of an enemy Main Fleet: decreases the DMG your Flagship takes based on the Directives stat.",
+        "For 30s after the battle starts when assigned as the Command Cat and when engaging an enemy Main Fleet: increases the Accuracy and EVA of your CLs, CAs, and CBs by a large amount based on the Tactics stat."
+      ],
+      "icon": 30021,
+      "id": 30021,
+      "effects": [
+        {
+          "slot": 0,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "tactics",
+              "amount": 8
+            },
+            {
+              "stat": "trp",
+              "meow_stat": "tactics",
+              "amount": 8
+            }
+          ]
+        },
+        null,
+        null
+      ],
+      "opsi_effects": [
+        {
+          "slot": 0,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "tactics",
+              "amount": 8
+            },
+            {
+              "stat": "trp",
+              "meow_stat": "tactics",
+              "amount": 8
+            }
+          ]
+        },
+        null,
+        null
+      ],
+      "default_level": 0
+    }
+  },
+  "31011": {
+    "name": "Jiromaru",
+    "timer": "05:37:00",
+    "nation": 3,
+    "icon": 31011,
+    "id": 31011,
+    "rarity": 4,
+    "stats": {
+      "command": 61,
+      "tactics": 41,
+      "logistics": 33
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Belly Flop Bombardment",
+      "descriptions": [
+        "When assigned as the Staff Cat: increases the Accuracy of your CVs and CVLs by a small amount based on the Tactics stat.",
+        "When assigned as the Staff Cat: increases the AVI of your CVs and CVLs by a moderate amount based on the Directives stat.",
+        "When assigned to a fleet that has at least 1 CV or CVL: 15.0% chance to launch a preemptive airstrike when engaging any non-Boss fleet on the map. The DMG of the airstrike is based on the Tactics stat as well as the Level and Fleet Power of both sides."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the Accuracy of your CVs and CVLs by a small amount based on the Tactics stat.",
+        "When assigned as the Staff Cat: increases the AVI of your CVs and CVLs by a moderate amount based on the Directives stat.",
+        "When assigned to a fleet with a Flagship that is a CV or CVL: launches an airstrike 15s after the battle starts."
+      ],
+      "icon": 31011,
+      "id": 31011,
+      "effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "avi",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        },
+        null
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "avi",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        },
+        null
+      ],
+      "default_level": 0
+    }
+  },
+  "31021": {
+    "name": "Yoshimaru",
+    "timer": "06:23:00",
+    "nation": 3,
+    "icon": 31011,
+    "id": 31021,
+    "rarity": 4,
+    "stats": {
+      "command": 62,
+      "tactics": 36,
+      "logistics": 36
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Feral Instincts",
+      "descriptions": [
+        "When assigned as the Staff Cat: increases the EVA of your DDs by a small amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the TRP of your DDs by a moderate amount based on the Logistics stat.",
+        "When assigned as the Staff Cat and when your Vanguard consists of only 1 DD: increases your DD's TRP by a large amount based on the Directives stat."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the EVA of your DDs by a small amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the TRP of your DDs by a moderate amount based on the Logistics stat.",
+        "When assigned as the Staff Cat and when your Vanguard consists of only 1 DD: increases your DD's TRP by a large amount based on the Directives stat."
+      ],
+      "icon": 31021,
+      "id": 31021,
+      "effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            1,
+            20,
+            21
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            1,
+            20,
+            21
+          ],
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "logistics",
+              "amount": 8
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "condition": {
+            "type": "size",
+            "fleet": "van",
+            "size": 1,
+            "hulls": [
+              1,
+              20
+            ]
+          },
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "command",
+              "amount": 12
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            1,
+            20,
+            21
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            1,
+            20,
+            21
+          ],
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "logistics",
+              "amount": 8
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "condition": {
+            "type": "size",
+            "fleet": "van",
+            "size": 1,
+            "hulls": [
+              1,
+              20
+            ]
+          },
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "command",
+              "amount": 12
+            }
+          ]
+        }
+      ],
+      "default_level": 0
+    }
+  },
+  "32011": {
+    "name": "Asamaru",
+    "timer": "02:06:00",
+    "nation": 3,
+    "icon": 12011,
+    "id": 32011,
+    "rarity": 3,
+    "stats": {
+      "command": 48,
+      "tactics": 40,
+      "logistics": 24
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Cruiser Directives",
+      "descriptions": [
+        "When assigned as the Staff Cat: increases the FP of your CLs, CAs, and CBs by a small amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the TRP of your CLs, CAs, and CBs by a small amount based on the Logistics stat.",
+        "When assigned as the Staff Cat: increases the TRP of your CLs, CAs, and CBs by a small amount based on the Directives stat."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the FP of your CLs, CAs, and CBs by a small amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the TRP of your CLs, CAs, and CBs by a small amount based on the Logistics stat.",
+        "When assigned as the Staff Cat: increases the TRP of your CLs, CAs, and CBs by a small amount based on the Directives stat."
+      ],
+      "icon": 12011,
+      "id": 32011,
+      "effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "default_level": 0
+    }
+  },
+  "32021": {
+    "name": "Katsumaru",
+    "timer": "01:55:00",
+    "nation": 3,
+    "icon": 12011,
+    "id": 32021,
+    "rarity": 3,
+    "stats": {
+      "command": 47,
+      "tactics": 32,
+      "logistics": 36
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Battleship Support",
+      "descriptions": [
+        "When assigned as the Staff Cat: increases the Accuracy of your BBs, BCs, and BBVs by a small amount based on the Logistics stat.",
+        "When assigned as the Staff Cat: increases the AA of your BBs, BCs, and BBVs by a small amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the FP of your BBs, BCs, and BBVs by a small amount based on the Tactics stat."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the Accuracy of your BBs, BCs, and BBVs by a small amount based on the Logistics stat.",
+        "When assigned as the Staff Cat: increases the AA of your BBs, BCs, and BBVs by a small amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the FP of your BBs, BCs, and BBVs by a small amount based on the Tactics stat."
+      ],
+      "icon": 12011,
+      "id": 32021,
+      "effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "aa",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "aa",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "default_level": 0
+    }
+  },
+  "40011": {
+    "name": "Steel",
+    "timer": "09:35:00",
+    "nation": 4,
+    "icon": 40011,
+    "id": 40011,
+    "rarity": 5,
+    "stats": {
+      "command": 66,
+      "tactics": 52,
+      "logistics": 40
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Silent Hunter",
+      "descriptions": [
+        "Increases the TRP of your SSs and SSVs by a small amount based on the Command and Logistics stats.",
+        "Increases ASR by 1 level.",
+        "Increases the DMG dealt to enemy fleets while in Attack Mode based on the Tactics stat."
+      ],
+      "opsi_descriptions": [
+        "Increases the TRP of your SSs and SSVs by a small amount based on the Command and Logistics stats.",
+        "When assigned as the Command Cat to a fleet: increases the OXY of your SSs by 15.",
+        "When assigned as the Command Cat to a fleet: fires a special torpedo barrage after the Flagship of your Submarine Fleet enters battle."
+      ],
+      "icon": 40011,
+      "id": 40011,
+      "effects": [
+        {
+          "slot": -1,
+          "hulls": [
+            8,
+            17
+          ],
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": -1,
+          "stats": [
+            {
+              "stat": "range_level",
+              "meow_stat": null,
+              "amount": 1
+            }
+          ]
+        },
+        null
+      ],
+      "opsi_effects": [
+        {
+          "slot": -1,
+          "hulls": [
+            8,
+            17
+          ],
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 0,
+          "hulls": [
+            8
+          ],
+          "stats": [
+            {
+              "stat": "oxygen",
+              "meow_stat": null,
+              "amount": 15
+            }
+          ]
+        },
+        null
+      ],
+      "default_level": 0
+    }
+  },
+  "40021": {
+    "name": "Oscar",
+    "timer": "10:03:00",
+    "nation": 4,
+    "icon": 40021,
+    "id": 40021,
+    "rarity": 5,
+    "stats": {
+      "command": 66,
+      "tactics": 54,
+      "logistics": 37
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Unsinkable Oscar",
+      "descriptions": [
+        "When assigned as the Staff Cat: increases the FP and Accuracy of your BBs, BCs, and BBVs by a moderate amount based on the Directives stat.",
+        "When assigned as the Staff Cat to a fleet that has at least 1 BB, BC, or BBV: 15.0% chance to launch a preemptive volley when engaging an enemy Vanguard Fleet. The DMG of the volley is based on the Directives stat as well as the Level and Fleet Power of both sides.",
+        "When assigned as the Staff Cat and when engaging an enemy Main Fleet: decreases the DMG your BBs, BCs, and BBVs take and increases their RLD based on the Logistics stat."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the FP and Accuracy of your BBs, BCs, and BBVs by a moderate amount based on the Directives stat.",
+        "When assigned as the Staff Cat, and when the Flagship of your fleet is a BB, BC, or BBV: 50.0% chance to fire a special barrage 20s after the battle starts.",
+        "When assigned as the Staff Cat and when engaging an enemy Main Fleet: decreases the DMG your BBs, BCs, and BBVs take and increases their RLD based on the Logistics stat."
+      ],
+      "icon": 40021,
+      "id": 40021,
+      "effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        },
+        null,
+        null
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        },
+        null,
+        null
+      ],
+      "default_level": 0
+    }
+  },
+  "41011": {
+    "name": "Potato",
+    "timer": "06:45:00",
+    "nation": 4,
+    "icon": 41011,
+    "id": 41011,
+    "rarity": 4,
+    "stats": {
+      "command": 56,
+      "tactics": 43,
+      "logistics": 35
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Paladin of the Sea",
+      "descriptions": [
+        "When assigned as the Staff Cat: increases the EVA of your BBs, BCs, and BBVs by a small amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the Accuracy of your BBs, BCs, and BBVs by a moderate amount based on the Tactics stat.",
+        "When engaging an enemy Main Fleet: decreases the DMG your Flagship takes based on the Tactics stat."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the EVA of your BBs, BCs, and BBVs by a small amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the Accuracy of your BBs, BCs, and BBVs by a moderate amount based on the Tactics stat.",
+        "When engaging an enemy Main Fleet: decreases the DMG your Flagship takes based on the Tactics stat."
+      ],
+      "icon": 41011,
+      "id": 41011,
+      "effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "tactics",
+              "amount": 8
+            }
+          ]
+        },
+        null
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            4,
+            5,
+            10
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "tactics",
+              "amount": 8
+            }
+          ]
+        },
+        null
+      ],
+      "default_level": 0
+    }
+  },
+  "41021": {
+    "name": "Edelweiss",
+    "timer": "05:57:00",
+    "nation": 4,
+    "icon": 41011,
+    "id": 41021,
+    "rarity": 4,
+    "stats": {
+      "command": 59,
+      "tactics": 41,
+      "logistics": 34
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Champion of the Sea",
+      "descriptions": [
+        "When assigned as the Staff Cat: increases the TRP of your SSs and SSVs by a small amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the Accuracy of your SSs and SSVs by a moderate amount based on the Directives stat.",
+        "Increases ASR by 1 level."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the TRP of your SSs and SSVs by a small amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the Accuracy of your SSs and SSVs by a moderate amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the OXY of your SSs by 5."
+      ],
+      "icon": 41021,
+      "id": 41021,
+      "effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            8,
+            17
+          ],
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            8,
+            17
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        },
+        {
+          "slot": -1,
+          "stats": [
+            {
+              "stat": "range_level",
+              "meow_stat": null,
+              "amount": 1
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            8,
+            17
+          ],
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            8,
+            17
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            8
+          ],
+          "stats": [
+            {
+              "stat": "oxygen",
+              "meow_stat": null,
+              "amount": 5
+            }
+          ]
+        }
+      ],
+      "default_level": 0
+    }
+  },
+  "41031": {
+    "name": "Gral",
+    "timer": "05:52:00",
+    "nation": 4,
+    "icon": 41011,
+    "id": 41031,
+    "rarity": 4,
+    "stats": {
+      "command": 51,
+      "tactics": 48,
+      "logistics": 32
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Sentinel of the Sea",
+      "descriptions": [
+        "When assigned as the Staff Cat: increases the TRP of your SSs and SSVs by a small amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the EVA of your SSs and SSVs by a moderate amount based on the Directives stat.",
+        "When assigned as the Staff Cat of the Submarine Fleet and when a fleet with a BB, BC, or BBV as its Flagship calls in Submarine Support: increases the Accuracy of your SSs and SSVs by a moderate amount based on the Directives stat."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the TRP of your SSs and SSVs by a small amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the EVA of your SSs and SSVs by a moderate amount based on the Directives stat.",
+        "When assigned as the Staff Cat of the Submarine Fleet and when a fleet with a BB, BC, or BBV as its Flagship calls in Submarine Support: increases the Accuracy of your SSs and SSVs by a moderate amount based on the Directives stat."
+      ],
+      "icon": 41031,
+      "id": 41031,
+      "effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            8,
+            17
+          ],
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            8,
+            17
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        },
+        null
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            8,
+            17
+          ],
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            8,
+            17
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        },
+        null
+      ],
+      "default_level": 0
+    }
+  },
+  "42011": {
+    "name": "Tofu",
+    "timer": "01:45:00",
+    "nation": 4,
+    "icon": 12011,
+    "id": 42011,
+    "rarity": 3,
+    "stats": {
+      "command": 46,
+      "tactics": 36,
+      "logistics": 37
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Cruiser Boost",
+      "descriptions": [
+        "When assigned as the Staff Cat: increases the EVA of your CLs, CAs, and CBs by a small amount based on the Logistics stat.",
+        "When assigned as the Staff Cat: increases the FP of your CLs, CAs, and CBs by a small amount based on the Logistics stat.",
+        "When assigned as the Staff Cat: increases the FP of your CLs, CAs, and CBs by a small amount based on the Directives stat."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the EVA of your CLs, CAs, and CBs by a small amount based on the Logistics stat.",
+        "When assigned as the Staff Cat: increases the FP of your CLs, CAs, and CBs by a small amount based on the Logistics stat.",
+        "When assigned as the Staff Cat: increases the FP of your CLs, CAs, and CBs by a small amount based on the Directives stat."
+      ],
+      "icon": 12011,
+      "id": 42011,
+      "effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "default_level": 0
+    }
+  },
+  "42021": {
+    "name": "Beer",
+    "timer": "02:32:00",
+    "nation": 4,
+    "icon": 12011,
+    "id": 42021,
+    "rarity": 3,
+    "stats": {
+      "command": 41,
+      "tactics": 49,
+      "logistics": 28
+    },
+    "fixed_abilities": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Destroyer Directives",
+      "descriptions": [
+        "When assigned as the Staff Cat: increases the EVA of your DDs by a small amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the Accuracy of your DDs by a small amount based on the Tactics stat.",
+        "When assigned as the Staff Cat: increases the TRP of your DDs by a small amount based on the Logistics stat."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Staff Cat: increases the EVA of your DDs by a small amount based on the Directives stat.",
+        "When assigned as the Staff Cat: increases the Accuracy of your DDs by a small amount based on the Tactics stat.",
+        "When assigned as the Staff Cat: increases the TRP of your DDs by a small amount based on the Logistics stat."
+      ],
+      "icon": 12011,
+      "id": 42021,
+      "effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            1,
+            20,
+            21
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            1,
+            20,
+            21
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            1,
+            20,
+            21
+          ],
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            1,
+            20,
+            21
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "command",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            1,
+            20,
+            21
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            1,
+            20,
+            21
+          ],
+          "stats": [
+            {
+              "stat": "trp",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "default_level": 0
+    }
+  },
+  "960011": {
+    "name": "Drake",
+    "timer": null,
+    "nation": 96,
+    "icon": 960011,
+    "id": 960011,
+    "rarity": 5,
+    "stats": {
+      "command": 63,
+      "tactics": 55,
+      "logistics": 39
+    },
+    "fixed_abilities": [
+      5141,
+      901,
+      902,
+      131,
+      903,
+      5101,
+      132,
+      5131
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Towards Land's End",
+      "descriptions": [
+        "Increases the FP of your BBs, BCs, BBVs, and IXMs by a moderate amount based on the Directives stat.",
+        "When assigned to a fleet with at least 1 IX: decreases your Flagship's DMG taken by a moderate amount based on the Tactics stat.",
+        "Increases the EVA of your IXVs and IXMs by a large amount based on the Tactics stat."
+      ],
+      "opsi_descriptions": [
+        "Increases the FP of your BBs, BCs, BBVs, and IXMs by a moderate amount based on the Directives stat.",
+        "When assigned to a fleet with at least 1 IX: decreases your Flagship's DMG taken by a moderate amount based on the Tactics stat.",
+        "Increases the EVA of your IXVs and IXMs by a large amount based on the Tactics stat."
+      ],
+      "icon": 960011,
+      "id": 960011,
+      "effects": [
+        {
+          "slot": -1,
+          "hulls": [
+            4,
+            5,
+            10,
+            24
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        },
+        null,
+        {
+          "slot": 1,
+          "hulls": [
+            23,
+            24
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "tactics",
+              "amount": 12
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        {
+          "slot": -1,
+          "hulls": [
+            4,
+            5,
+            10,
+            24
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        },
+        null,
+        {
+          "slot": 1,
+          "hulls": [
+            23,
+            24
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "tactics",
+              "amount": 12
+            }
+          ]
+        }
+      ],
+      "default_level": 2
+    }
+  },
+  "960021": {
+    "name": "Kidd",
+    "timer": null,
+    "nation": 96,
+    "icon": 960021,
+    "id": 960021,
+    "rarity": 5,
+    "stats": {
+      "command": 52,
+      "tactics": 56,
+      "logistics": 53
+    },
+    "fixed_abilities": [
+      5151,
+      811,
+      812,
+      141,
+      813,
+      5101,
+      142,
+      5131
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Certified Privateer",
+      "descriptions": [
+        "Increases the ACC of your CLs, CAs, CBs, and IXVs by a moderate amount based on the Directives stat.",
+        "When this Meowfficer's fleet is within 3 tiles of an enemy Vanguard fleet: gives your fleet +1 tile movement on the map.",
+        "When assigned to a fleet with at least 1 IX: decreases the DMG taken of your CLs, CAs, and IXVs based on the Tactics stat."
+      ],
+      "opsi_descriptions": [
+        "Increases the ACC of your CLs, CAs, CBs, and IXVs by a moderate amount based on the Directives stat.",
+        "When this Meowfficer's fleet is within 3 tiles of an enemy Vanguard fleet: increases the EVA of your IXVs by a small amount based on the Directives stat.",
+        "When assigned to a fleet with at least 1 IX: decreases the DMG taken of your CLs, CAs, and IXVs based on the Tactics stat."
+      ],
+      "icon": 960021,
+      "id": 960021,
+      "effects": [
+        {
+          "slot": -1,
+          "hulls": [
+            2,
+            3,
+            18,
+            23
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        },
+        null,
+        null
+      ],
+      "opsi_effects": [
+        {
+          "slot": -1,
+          "hulls": [
+            2,
+            3,
+            18,
+            23
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "command",
+              "amount": 8
+            }
+          ]
+        },
+        null,
+        null
+      ],
+      "default_level": 2
+    }
+  },
+  "960031": {
+    "name": "Bellamy",
+    "timer": null,
+    "nation": 96,
+    "icon": 960031,
+    "id": 960031,
+    "rarity": 4,
+    "stats": {
+      "command": 52,
+      "tactics": 44,
+      "logistics": 35
+    },
+    "fixed_abilities": [
+      5081,
+      761,
+      762,
+      141,
+      763,
+      5111,
+      142,
+      5121
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Breakneck Sam",
+      "descriptions": [
+        "Increases ASR by 1.",
+        "When assigned as the Command Cat of your Submarine Fleet: when the battle starts, restores 2.0% of your IXs' max HP.",
+        "When assigned as the Command Cat of your Submarine Fleet: increases the ACC of your SS, SSVs, and IXSs by a moderate amount based on the Tactics stat."
+      ],
+      "opsi_descriptions": [
+        "When assigned as the Command Cat of your Submarine Fleet: increases the fleet's OXY by 5.",
+        "When assigned as the Command Cat of your Submarine Fleet: when the battle starts, restores 2.0% of your IXs' max HP.",
+        "When assigned as the Command Cat of your Submarine Fleet: increases the ACC of your SS, SSVs, and IXSs by a moderate amount based on the Tactics stat."
+      ],
+      "icon": 960031,
+      "id": 960031,
+      "effects": [
+        {
+          "slot": -1,
+          "stats": [
+            {
+              "stat": "range_level",
+              "meow_stat": null,
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "slot": 0,
+          "hulls": [
+            8,
+            17,
+            22
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        },
+        null
+      ],
+      "opsi_effects": [
+        {
+          "slot": -1,
+          "stats": [
+            {
+              "stat": "range_level",
+              "meow_stat": null,
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "slot": 0,
+          "hulls": [
+            8,
+            17,
+            22
+          ],
+          "stats": [
+            {
+              "stat": "hit",
+              "meow_stat": "tactics",
+              "amount": 4
+            }
+          ]
+        },
+        null
+      ],
+      "default_level": 2
+    }
+  }
+}

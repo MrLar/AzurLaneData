@@ -1,0 +1,76 @@
+--- 
+---
+
+$header-bg-color: hsl(4deg, 100%, 45%);
+$header-bg-color-secondary: hsl(25deg, 100%, 45%);
+$table-border-color: #8d8d8d;
+$section-headings-color: #ff3d3d;
+$body-link-color: cornflowerblue;
+$body-text-color: #bac1c4;
+$code-text-color: #a8a8a8 !default;
+
+@import "{{ site.theme }}";
+@media screen and (min-width: 95rem) {
+    .main-content {
+        max-width: 95rem;
+    }
+}
+
+@media screen and (min-width: 110rem) {
+    .main-content {
+        max-width: 110rem;
+    }
+}
+
+@media screen and (min-width: 125rem) {
+    .main-content {
+        max-width: 125rem;
+    }
+}
+
+.page-header {
+    background-image: url(/AzurLaneData/assets/header.png);
+    background-size: cover;
+    background-position: center;
+
+    .btn {
+        color: rgba(232, 230, 227, 0.95);
+        background-color: rgba(24, 26, 27, 0.68);
+        border-color: rgba(48, 52, 54, 0.2);
+
+        &:hover {
+            color: rgba(232, 230, 227, 0.95);
+            text-decoration-color: currentcolor;
+            background-color: rgba(24, 26, 27, 0.95);
+            border-color: rgba(48, 52, 54, 0.3);
+          }
+    }
+
+    .project-name {
+        text-shadow: 0 .1rem black,0 0 .2rem black,0 0 .2rem black, 0 0 .5rem black;
+    }
+    
+}
+
+body {
+    background: #181818;
+    color: #bac1c4;
+}
+
+.btn {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-color: rgba(0, 0, 0, 0.07);
+
+    &:hover {
+        background-color: rgba(0, 0, 0, 0.4);
+        border-color: rgba(0, 0, 0, 0.15);
+    }
+}
+
+.main-content code {
+    background-color: #333;
+}
+
+a code {
+    color: cornflowerblue !important;
+}

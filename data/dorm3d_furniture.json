@@ -1,0 +1,135 @@
+{
+  "1": {
+    "name": "Bar Stool",
+    "description": "An exquisitely crafted bar stool with a black wooden seat and a red leather cushion.The cushion is just plush enough that you could sit on it all day and never feel your butt hurt.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1,
+    "purchaseable": false,
+    "icon": "dorm3d/items/3ddrom_tianlangxing_commonfurniture5",
+    "room_id": 1,
+    "furni_type": 6,
+    "exclusive": false,
+    "servers": [
+      "EN"
+    ],
+    "contains": []
+  },
+  "2": {
+    "name": "Juicer",
+    "description": "Chop up your desired fruit or veggie, throw it inside, and press the start button.Feature-rich and easy to use, it's an indispensable item for any beginner chef.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 2,
+    "purchaseable": false,
+    "icon": "dorm3d/items/3ddrom_tianlangxing_commonfurniture4",
+    "room_id": 1,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN"
+    ],
+    "contains": []
+  },
+  "3": {
+    "name": "Classic Sofa",
+    "description": "This sofa, made of real leather, is just the right length.Beyond adding a luxurious vibe to your living room, it also provides a comfortable sitting experience.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 3,
+    "purchaseable": false,
+    "icon": "dorm3d/items/3ddrom_tianlangxing_commonfurniture6",
+    "room_id": 1,
+    "furni_type": 5,
+    "exclusive": false,
+    "servers": [
+      "EN"
+    ],
+    "contains": []
+  },
+  "4": {
+    "name": "Simple Bed",
+    "description": "The bed frame is made of sturdy lumber that can easily support its user.Its simple and comfortable design does a fantastic job at giving her sweet dreams.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 4,
+    "purchaseable": false,
+    "icon": "dorm3d/items/3ddrom_tianlangxing_commonfurniture3",
+    "room_id": 1,
+    "furni_type": 4,
+    "exclusive": false,
+    "servers": [
+      "EN"
+    ],
+    "contains": []
+  },
+  "5": {
+    "name": "Desk Lamp",
+    "description": "A desk lamp sitting on Sirius' dresser. She turns it on at night when it's a bit too dark. She is always adjusting her appearance, trying to look her best for the person she adores.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 5,
+    "purchaseable": false,
+    "icon": "dorm3d/items/3ddrom_tianlangxing_commonfurniture2",
+    "room_id": 1,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN"
+    ],
+    "contains": []
+  },
+  "6": {
+    "name": "Model Cruise Liner",
+    "description": "A model that Sirius had bought and put together after the big cruise trip.In a way, it really shows her sense of devotion.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 6,
+    "purchaseable": false,
+    "icon": "dorm3d/items/3ddrom_tianlangxing_commonfurniture1",
+    "room_id": 1,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN"
+    ],
+    "contains": []
+  },
+  "121": {
+    "name": "Sweet Secret",
+    "description": "The decorative ribbons all over it exude a charming and romantic vibe, as do the red and white pillows.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 5,
+    "id": 121,
+    "purchaseable": true,
+    "icon": "dorm3d/items/3ddrom_tianlangxing_premiumfurniture4",
+    "room_id": 1,
+    "furni_type": 4,
+    "exclusive": true,
+    "servers": [
+      "EN"
+    ],
+    "contains": []
+  }
+}

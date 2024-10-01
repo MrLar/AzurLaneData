@@ -1,0 +1,322 @@
+{
+  "371": {
+    "id": 371,
+    "gid": 20220,
+    "name": "Sirius",
+    "room_id": 1,
+    "icon": "dorm3d/char/tianlangxing",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "gifts": [
+      1021001,
+      1021002,
+      1021003,
+      2022001
+    ],
+    "furniture": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      121
+    ],
+    "rarity": 5,
+    "favor_levels": [
+      {
+        "needed": 0,
+        "level": 1,
+        "items": [
+          {
+            "id": 1021001,
+            "type": 9,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_everyone_commongift3",
+            "name": "Bunny Plushie"
+          },
+          {
+            "id": 1,
+            "type": 14,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "dorm3d/recall/recall_01_icon",
+            "name": "Dorm3D Event: Welcome to the Quarters"
+          }
+        ]
+      },
+      {
+        "needed": 40,
+        "level": 2,
+        "items": [
+          {
+            "id": 100101,
+            "type": 11,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/drom3d_camera1003",
+            "name": "HQ Tablet Cover: Welcome"
+          }
+        ]
+      },
+      {
+        "needed": 200,
+        "level": 3,
+        "items": [
+          {
+            "id": 5,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_tianlangxing_commonfurniture2",
+            "name": "Desk Lamp"
+          }
+        ]
+      },
+      {
+        "needed": 400,
+        "level": 4,
+        "items": [
+          {
+            "id": 1001,
+            "type": 15,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/icon_frame",
+            "name": "Icon Frame: Sweet Rendezvous"
+          },
+          {
+            "id": 2,
+            "type": 14,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "dorm3d/recall/recall_02_icon",
+            "name": "Dorm3D Event: A Moment of Tenderness"
+          }
+        ]
+      },
+      {
+        "needed": 800,
+        "level": 5,
+        "items": [
+          {
+            "id": 1003,
+            "type": 13,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "props/drom3d_camera1002",
+            "name": "Camera Frame: Stamp"
+          }
+        ]
+      },
+      {
+        "needed": 1000,
+        "level": 6,
+        "items": [
+          {
+            "id": 100102,
+            "type": 11,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/drom3d_camera1003",
+            "name": "HQ Tablet Cover: Cleaning the Bed"
+          }
+        ]
+      },
+      {
+        "needed": 1500,
+        "level": 7,
+        "items": [
+          {
+            "id": 1004,
+            "type": 13,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 4,
+            "icon": "props/drom3d_camera1002",
+            "name": "Camera Frame: Photograph"
+          },
+          {
+            "id": 3,
+            "type": 14,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "dorm3d/recall/recall_03_icon",
+            "name": "Dorm3D Event: Thoughtful Preparations"
+          }
+        ]
+      },
+      {
+        "needed": 2000,
+        "level": 8,
+        "items": [
+          {
+            "id": 1021002,
+            "type": 9,
+            "linkable": true,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_everyone_commongift2",
+            "name": "Romantic's Bouquet"
+          }
+        ]
+      },
+      {
+        "needed": 3000,
+        "level": 9,
+        "items": [
+          {
+            "id": 3,
+            "type": 12,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "props/drom3d_camera1001",
+            "name": "Camera Filter: Twilight"
+          }
+        ]
+      },
+      {
+        "needed": 4000,
+        "level": 10,
+        "items": [
+          {
+            "id": 2,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_tianlangxing_commonfurniture4",
+            "name": "Juicer"
+          },
+          {
+            "id": 4,
+            "type": 14,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "dorm3d/recall/recall_04_icon",
+            "name": "Dorm3D Event: Gentle Service"
+          }
+        ]
+      },
+      {
+        "needed": 5000,
+        "level": 11,
+        "items": [
+          {
+            "id": 1021002,
+            "type": 9,
+            "linkable": true,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_everyone_commongift2",
+            "name": "Romantic's Bouquet"
+          }
+        ]
+      },
+      {
+        "needed": 6000,
+        "level": 12,
+        "items": [
+          {
+            "id": 1005,
+            "type": 13,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 4,
+            "icon": "props/drom3d_camera1002",
+            "name": "Camera Frame: Card"
+          }
+        ]
+      },
+      {
+        "needed": 7000,
+        "level": 13,
+        "items": [
+          {
+            "id": 4,
+            "type": 12,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "props/drom3d_camera1001",
+            "name": "Camera Filter: Soft Light"
+          },
+          {
+            "id": 5,
+            "type": 14,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "dorm3d/recall/recall_05_icon",
+            "name": "Dorm3D Event: Dance With Me"
+          }
+        ]
+      },
+      {
+        "needed": 8000,
+        "level": 14,
+        "items": [
+          {
+            "id": 100103,
+            "type": 11,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/drom3d_camera1003",
+            "name": "HQ Tablet Cover: Chitchat"
+          }
+        ]
+      },
+      {
+        "needed": 9000,
+        "level": 15,
+        "items": [
+          {
+            "id": 1002,
+            "type": 15,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/icon_frame",
+            "name": "Icon Frame: Afternoon Tea"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,3422 @@
+{
+  "1": {
+    "id": 1,
+    "nation": 1,
+    "name": "Eagle Union",
+    "levels": [
+      {
+        "points": 300,
+        "bonuses": [
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "avi",
+            "value": 1
+          },
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "rld",
+            "value": 1
+          },
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "asw",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "points": 600,
+        "bonuses": [
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "avi",
+            "value": 1
+          },
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "rld",
+            "value": 1
+          },
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "asw",
+            "value": 2
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "aa",
+            "value": 2
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "rld",
+            "value": 1
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "fp",
+            "value": 1
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "rld",
+            "value": 1
+          },
+          {
+            "hulls": [
+              3,
+              13,
+              18
+            ],
+            "stat": "fp",
+            "value": 1
+          },
+          {
+            "hulls": [
+              3,
+              13
+            ],
+            "stat": "rld",
+            "value": 1
+          },
+          {
+            "hulls": [
+              18
+            ],
+            "stat": "rld",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "points": 900,
+        "bonuses": [
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "avi",
+            "value": 1
+          },
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "rld",
+            "value": 1
+          },
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "asw",
+            "value": 2
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "aa",
+            "value": 2
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "rld",
+            "value": 1
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "fp",
+            "value": 1
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "rld",
+            "value": 1
+          },
+          {
+            "hulls": [
+              3,
+              13,
+              18
+            ],
+            "stat": "fp",
+            "value": 1
+          },
+          {
+            "hulls": [
+              3,
+              13
+            ],
+            "stat": "rld",
+            "value": 1
+          },
+          {
+            "hulls": [
+              18
+            ],
+            "stat": "rld",
+            "value": 2
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "aa",
+            "value": 2
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "hit",
+            "value": 2
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "aa",
+            "value": 1
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "hit",
+            "value": 1
+          },
+          {
+            "hulls": [
+              12,
+              19
+            ],
+            "stat": "aa",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "points": 1200,
+        "bonuses": [
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "avi",
+            "value": 3
+          },
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "rld",
+            "value": 3
+          },
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "asw",
+            "value": 5
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "aa",
+            "value": 2
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "rld",
+            "value": 1
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "fp",
+            "value": 1
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "rld",
+            "value": 1
+          },
+          {
+            "hulls": [
+              3,
+              13,
+              18
+            ],
+            "stat": "fp",
+            "value": 1
+          },
+          {
+            "hulls": [
+              3,
+              13
+            ],
+            "stat": "rld",
+            "value": 1
+          },
+          {
+            "hulls": [
+              18
+            ],
+            "stat": "rld",
+            "value": 2
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "aa",
+            "value": 2
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "hit",
+            "value": 2
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "aa",
+            "value": 1
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "hit",
+            "value": 1
+          },
+          {
+            "hulls": [
+              12,
+              19
+            ],
+            "stat": "aa",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "points": 1500,
+        "bonuses": [
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "avi",
+            "value": 3
+          },
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "rld",
+            "value": 3
+          },
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "asw",
+            "value": 5
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "aa",
+            "value": 5
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "rld",
+            "value": 3
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "fp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "rld",
+            "value": 3
+          },
+          {
+            "hulls": [
+              3,
+              13,
+              18
+            ],
+            "stat": "fp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              3,
+              13
+            ],
+            "stat": "rld",
+            "value": 3
+          },
+          {
+            "hulls": [
+              18
+            ],
+            "stat": "rld",
+            "value": 5
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "aa",
+            "value": 2
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "hit",
+            "value": 2
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "aa",
+            "value": 1
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "hit",
+            "value": 1
+          },
+          {
+            "hulls": [
+              12,
+              19
+            ],
+            "stat": "aa",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "points": 1800,
+        "bonuses": [
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "avi",
+            "value": 3
+          },
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "rld",
+            "value": 3
+          },
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "asw",
+            "value": 5
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "aa",
+            "value": 5
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "rld",
+            "value": 3
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "fp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "rld",
+            "value": 3
+          },
+          {
+            "hulls": [
+              3,
+              13,
+              18
+            ],
+            "stat": "fp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              3,
+              13
+            ],
+            "stat": "rld",
+            "value": 3
+          },
+          {
+            "hulls": [
+              18
+            ],
+            "stat": "rld",
+            "value": 5
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "aa",
+            "value": 5
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "hit",
+            "value": 5
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "aa",
+            "value": 3
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "hit",
+            "value": 3
+          },
+          {
+            "hulls": [
+              12,
+              19
+            ],
+            "stat": "aa",
+            "value": 10
+          }
+        ]
+      },
+      {
+        "points": 2100,
+        "bonuses": [
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "avi",
+            "value": 7
+          },
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "rld",
+            "value": 7
+          },
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "asw",
+            "value": 10
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "aa",
+            "value": 5
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "rld",
+            "value": 3
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "fp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "rld",
+            "value": 3
+          },
+          {
+            "hulls": [
+              3,
+              13,
+              18
+            ],
+            "stat": "fp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              3,
+              13
+            ],
+            "stat": "rld",
+            "value": 3
+          },
+          {
+            "hulls": [
+              18
+            ],
+            "stat": "rld",
+            "value": 5
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "aa",
+            "value": 5
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "hit",
+            "value": 5
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "aa",
+            "value": 3
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "hit",
+            "value": 3
+          },
+          {
+            "hulls": [
+              12,
+              19
+            ],
+            "stat": "aa",
+            "value": 10
+          }
+        ]
+      },
+      {
+        "points": 2400,
+        "bonuses": [
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "avi",
+            "value": 7
+          },
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "rld",
+            "value": 7
+          },
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "asw",
+            "value": 10
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "aa",
+            "value": 10
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "rld",
+            "value": 7
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "fp",
+            "value": 7
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "rld",
+            "value": 7
+          },
+          {
+            "hulls": [
+              3,
+              13,
+              18
+            ],
+            "stat": "fp",
+            "value": 7
+          },
+          {
+            "hulls": [
+              3,
+              13
+            ],
+            "stat": "rld",
+            "value": 7
+          },
+          {
+            "hulls": [
+              18
+            ],
+            "stat": "rld",
+            "value": 10
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "aa",
+            "value": 5
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "hit",
+            "value": 5
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "aa",
+            "value": 3
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "hit",
+            "value": 3
+          },
+          {
+            "hulls": [
+              12,
+              19
+            ],
+            "stat": "aa",
+            "value": 10
+          }
+        ]
+      },
+      {
+        "points": 2700,
+        "bonuses": [
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "avi",
+            "value": 7
+          },
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "rld",
+            "value": 7
+          },
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "asw",
+            "value": 10
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "aa",
+            "value": 10
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "rld",
+            "value": 7
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "fp",
+            "value": 7
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "rld",
+            "value": 7
+          },
+          {
+            "hulls": [
+              3,
+              13,
+              18
+            ],
+            "stat": "fp",
+            "value": 7
+          },
+          {
+            "hulls": [
+              3,
+              13
+            ],
+            "stat": "rld",
+            "value": 7
+          },
+          {
+            "hulls": [
+              18
+            ],
+            "stat": "rld",
+            "value": 10
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "aa",
+            "value": 10
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "hit",
+            "value": 10
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "aa",
+            "value": 7
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "hit",
+            "value": 7
+          },
+          {
+            "hulls": [
+              12,
+              19
+            ],
+            "stat": "aa",
+            "value": 15
+          }
+        ]
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "nation": 2,
+    "name": "Royal Navy",
+    "levels": [
+      {
+        "points": 300,
+        "bonuses": [
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "avi",
+            "value": 2
+          },
+          {
+            "hulls": [
+              7
+            ],
+            "stat": "avi",
+            "value": 1
+          },
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "rld",
+            "value": 1
+          },
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "asw",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "points": 600,
+        "bonuses": [
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "avi",
+            "value": 2
+          },
+          {
+            "hulls": [
+              7
+            ],
+            "stat": "avi",
+            "value": 1
+          },
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "rld",
+            "value": 1
+          },
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "asw",
+            "value": 2
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "eva",
+            "value": 1
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "asw",
+            "value": 2
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "fp",
+            "value": 1
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "asw",
+            "value": 2
+          },
+          {
+            "hulls": [
+              3,
+              18
+            ],
+            "stat": "fp",
+            "value": 1
+          },
+          {
+            "hulls": [
+              13
+            ],
+            "stat": "fp",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "points": 900,
+        "bonuses": [
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "avi",
+            "value": 2
+          },
+          {
+            "hulls": [
+              7
+            ],
+            "stat": "avi",
+            "value": 1
+          },
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "rld",
+            "value": 1
+          },
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "asw",
+            "value": 2
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "eva",
+            "value": 1
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "asw",
+            "value": 2
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "fp",
+            "value": 1
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "asw",
+            "value": 2
+          },
+          {
+            "hulls": [
+              3,
+              18
+            ],
+            "stat": "fp",
+            "value": 1
+          },
+          {
+            "hulls": [
+              13
+            ],
+            "stat": "fp",
+            "value": 2
+          },
+          {
+            "hulls": [
+              4
+            ],
+            "stat": "fp",
+            "value": 2
+          },
+          {
+            "hulls": [
+              4
+            ],
+            "stat": "eva",
+            "value": 2
+          },
+          {
+            "hulls": [
+              5,
+              10
+            ],
+            "stat": "fp",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "points": 1200,
+        "bonuses": [
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "avi",
+            "value": 5
+          },
+          {
+            "hulls": [
+              7
+            ],
+            "stat": "avi",
+            "value": 3
+          },
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "rld",
+            "value": 3
+          },
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "asw",
+            "value": 5
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "eva",
+            "value": 1
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "asw",
+            "value": 2
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "fp",
+            "value": 1
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "asw",
+            "value": 2
+          },
+          {
+            "hulls": [
+              3,
+              18
+            ],
+            "stat": "fp",
+            "value": 1
+          },
+          {
+            "hulls": [
+              13
+            ],
+            "stat": "fp",
+            "value": 2
+          },
+          {
+            "hulls": [
+              4
+            ],
+            "stat": "fp",
+            "value": 2
+          },
+          {
+            "hulls": [
+              4
+            ],
+            "stat": "eva",
+            "value": 2
+          },
+          {
+            "hulls": [
+              5,
+              10
+            ],
+            "stat": "fp",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "points": 1500,
+        "bonuses": [
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "avi",
+            "value": 5
+          },
+          {
+            "hulls": [
+              7
+            ],
+            "stat": "avi",
+            "value": 3
+          },
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "rld",
+            "value": 3
+          },
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "asw",
+            "value": 5
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "eva",
+            "value": 3
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "asw",
+            "value": 5
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "fp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "asw",
+            "value": 5
+          },
+          {
+            "hulls": [
+              3,
+              18
+            ],
+            "stat": "fp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              13
+            ],
+            "stat": "fp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              4
+            ],
+            "stat": "fp",
+            "value": 2
+          },
+          {
+            "hulls": [
+              4
+            ],
+            "stat": "eva",
+            "value": 2
+          },
+          {
+            "hulls": [
+              5,
+              10
+            ],
+            "stat": "fp",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "points": 1800,
+        "bonuses": [
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "avi",
+            "value": 5
+          },
+          {
+            "hulls": [
+              7
+            ],
+            "stat": "avi",
+            "value": 3
+          },
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "rld",
+            "value": 3
+          },
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "asw",
+            "value": 5
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "eva",
+            "value": 3
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "asw",
+            "value": 5
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "fp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "asw",
+            "value": 5
+          },
+          {
+            "hulls": [
+              3,
+              18
+            ],
+            "stat": "fp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              13
+            ],
+            "stat": "fp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              4
+            ],
+            "stat": "fp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              4
+            ],
+            "stat": "eva",
+            "value": 5
+          },
+          {
+            "hulls": [
+              5,
+              10
+            ],
+            "stat": "fp",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "points": 2100,
+        "bonuses": [
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "avi",
+            "value": 10
+          },
+          {
+            "hulls": [
+              7
+            ],
+            "stat": "avi",
+            "value": 3
+          },
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "rld",
+            "value": 7
+          },
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "asw",
+            "value": 10
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "eva",
+            "value": 3
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "asw",
+            "value": 5
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "fp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "asw",
+            "value": 5
+          },
+          {
+            "hulls": [
+              3,
+              18
+            ],
+            "stat": "fp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              13
+            ],
+            "stat": "fp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              4
+            ],
+            "stat": "fp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              4
+            ],
+            "stat": "eva",
+            "value": 5
+          },
+          {
+            "hulls": [
+              5,
+              10
+            ],
+            "stat": "fp",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "points": 2400,
+        "bonuses": [
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "avi",
+            "value": 10
+          },
+          {
+            "hulls": [
+              7
+            ],
+            "stat": "avi",
+            "value": 3
+          },
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "rld",
+            "value": 7
+          },
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "asw",
+            "value": 10
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "eva",
+            "value": 7
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "asw",
+            "value": 10
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "fp",
+            "value": 7
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "asw",
+            "value": 10
+          },
+          {
+            "hulls": [
+              3,
+              18
+            ],
+            "stat": "fp",
+            "value": 7
+          },
+          {
+            "hulls": [
+              13
+            ],
+            "stat": "fp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              4
+            ],
+            "stat": "fp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              4
+            ],
+            "stat": "eva",
+            "value": 5
+          },
+          {
+            "hulls": [
+              5,
+              10
+            ],
+            "stat": "fp",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "points": 2700,
+        "bonuses": [
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "avi",
+            "value": 10
+          },
+          {
+            "hulls": [
+              7
+            ],
+            "stat": "avi",
+            "value": 3
+          },
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "rld",
+            "value": 7
+          },
+          {
+            "hulls": [
+              6
+            ],
+            "stat": "asw",
+            "value": 10
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "eva",
+            "value": 7
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "asw",
+            "value": 10
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "fp",
+            "value": 7
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "asw",
+            "value": 10
+          },
+          {
+            "hulls": [
+              3,
+              18
+            ],
+            "stat": "fp",
+            "value": 7
+          },
+          {
+            "hulls": [
+              13
+            ],
+            "stat": "fp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              4
+            ],
+            "stat": "fp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              4
+            ],
+            "stat": "eva",
+            "value": 10
+          },
+          {
+            "hulls": [
+              5,
+              10
+            ],
+            "stat": "fp",
+            "value": 7
+          }
+        ]
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "nation": 3,
+    "name": "Sakura Empire",
+    "levels": [
+      {
+        "points": 300,
+        "bonuses": [
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "avi",
+            "value": 1
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "hp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "trp",
+            "value": 2
+          },
+          {
+            "hulls": [
+              17
+            ],
+            "stat": "avi",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "points": 600,
+        "bonuses": [
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "avi",
+            "value": 1
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "hp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "trp",
+            "value": 2
+          },
+          {
+            "hulls": [
+              17
+            ],
+            "stat": "avi",
+            "value": 3
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "trp",
+            "value": 1
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "trp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              3
+            ],
+            "stat": "trp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              18
+            ],
+            "stat": "fp",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "points": 900,
+        "bonuses": [
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "avi",
+            "value": 1
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "hp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "trp",
+            "value": 2
+          },
+          {
+            "hulls": [
+              17
+            ],
+            "stat": "avi",
+            "value": 3
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "trp",
+            "value": 1
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "trp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              3
+            ],
+            "stat": "trp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              18
+            ],
+            "stat": "fp",
+            "value": 2
+          },
+          {
+            "hulls": [
+              4,
+              5,
+              10
+            ],
+            "stat": "fp",
+            "value": 2
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "avi",
+            "value": 3
+          },
+          {
+            "hulls": [
+              12,
+              19
+            ],
+            "stat": "hp",
+            "value": 15
+          }
+        ]
+      },
+      {
+        "points": 1200,
+        "bonuses": [
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "avi",
+            "value": 3
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "hp",
+            "value": 25
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "trp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              17
+            ],
+            "stat": "avi",
+            "value": 6
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "trp",
+            "value": 1
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "trp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              3
+            ],
+            "stat": "trp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              18
+            ],
+            "stat": "fp",
+            "value": 2
+          },
+          {
+            "hulls": [
+              4,
+              5,
+              10
+            ],
+            "stat": "fp",
+            "value": 2
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "avi",
+            "value": 3
+          },
+          {
+            "hulls": [
+              12,
+              19
+            ],
+            "stat": "hp",
+            "value": 15
+          }
+        ]
+      },
+      {
+        "points": 1500,
+        "bonuses": [
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "avi",
+            "value": 3
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "hp",
+            "value": 25
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "trp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              17
+            ],
+            "stat": "avi",
+            "value": 6
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "trp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "trp",
+            "value": 7
+          },
+          {
+            "hulls": [
+              3
+            ],
+            "stat": "trp",
+            "value": 7
+          },
+          {
+            "hulls": [
+              18
+            ],
+            "stat": "fp",
+            "value": 4
+          },
+          {
+            "hulls": [
+              4,
+              5,
+              10
+            ],
+            "stat": "fp",
+            "value": 2
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "avi",
+            "value": 3
+          },
+          {
+            "hulls": [
+              12,
+              19
+            ],
+            "stat": "hp",
+            "value": 15
+          }
+        ]
+      },
+      {
+        "points": 1800,
+        "bonuses": [
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "avi",
+            "value": 3
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "hp",
+            "value": 25
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "trp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              17
+            ],
+            "stat": "avi",
+            "value": 6
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "trp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "trp",
+            "value": 7
+          },
+          {
+            "hulls": [
+              3
+            ],
+            "stat": "trp",
+            "value": 7
+          },
+          {
+            "hulls": [
+              18
+            ],
+            "stat": "fp",
+            "value": 4
+          },
+          {
+            "hulls": [
+              4,
+              5,
+              10
+            ],
+            "stat": "fp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "avi",
+            "value": 6
+          },
+          {
+            "hulls": [
+              12,
+              19
+            ],
+            "stat": "hp",
+            "value": 30
+          }
+        ]
+      },
+      {
+        "points": 2100,
+        "bonuses": [
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "avi",
+            "value": 7
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "hp",
+            "value": 50
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "trp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              17
+            ],
+            "stat": "avi",
+            "value": 9
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "trp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "trp",
+            "value": 7
+          },
+          {
+            "hulls": [
+              3
+            ],
+            "stat": "trp",
+            "value": 7
+          },
+          {
+            "hulls": [
+              18
+            ],
+            "stat": "fp",
+            "value": 4
+          },
+          {
+            "hulls": [
+              4,
+              5,
+              10
+            ],
+            "stat": "fp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "avi",
+            "value": 6
+          },
+          {
+            "hulls": [
+              12,
+              19
+            ],
+            "stat": "hp",
+            "value": 30
+          }
+        ]
+      },
+      {
+        "points": 2400,
+        "bonuses": [
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "avi",
+            "value": 7
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "hp",
+            "value": 50
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "trp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              17
+            ],
+            "stat": "avi",
+            "value": 9
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "trp",
+            "value": 7
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "trp",
+            "value": 13
+          },
+          {
+            "hulls": [
+              3
+            ],
+            "stat": "trp",
+            "value": 13
+          },
+          {
+            "hulls": [
+              18
+            ],
+            "stat": "fp",
+            "value": 6
+          },
+          {
+            "hulls": [
+              4,
+              5,
+              10
+            ],
+            "stat": "fp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "avi",
+            "value": 6
+          },
+          {
+            "hulls": [
+              12,
+              19
+            ],
+            "stat": "hp",
+            "value": 30
+          }
+        ]
+      },
+      {
+        "points": 2700,
+        "bonuses": [
+          {
+            "hulls": [
+              6,
+              7
+            ],
+            "stat": "avi",
+            "value": 7
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "hp",
+            "value": 50
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "trp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              17
+            ],
+            "stat": "avi",
+            "value": 9
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "trp",
+            "value": 7
+          },
+          {
+            "hulls": [
+              2
+            ],
+            "stat": "trp",
+            "value": 13
+          },
+          {
+            "hulls": [
+              3
+            ],
+            "stat": "trp",
+            "value": 13
+          },
+          {
+            "hulls": [
+              18
+            ],
+            "stat": "fp",
+            "value": 6
+          },
+          {
+            "hulls": [
+              4,
+              5,
+              10
+            ],
+            "stat": "fp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "avi",
+            "value": 9
+          },
+          {
+            "hulls": [
+              12,
+              19
+            ],
+            "stat": "hp",
+            "value": 45
+          }
+        ]
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "nation": 4,
+    "name": "Iron Blood",
+    "levels": [
+      {
+        "points": 450,
+        "bonuses": [
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "trp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "hit",
+            "value": 3
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "eva",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "points": 900,
+        "bonuses": [
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "trp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "hit",
+            "value": 3
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "eva",
+            "value": 3
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "hp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "fp",
+            "value": 4
+          },
+          {
+            "hulls": [
+              3
+            ],
+            "stat": "hp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              13,
+              18
+            ],
+            "stat": "hp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              3,
+              13,
+              18
+            ],
+            "stat": "fp",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "points": 1350,
+        "bonuses": [
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "trp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "hit",
+            "value": 3
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "eva",
+            "value": 3
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "hp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "fp",
+            "value": 4
+          },
+          {
+            "hulls": [
+              3
+            ],
+            "stat": "hp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              13,
+              18
+            ],
+            "stat": "hp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              3,
+              13,
+              18
+            ],
+            "stat": "fp",
+            "value": 1
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "hp",
+            "value": 20
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "hp",
+            "value": 15
+          }
+        ]
+      },
+      {
+        "points": 1800,
+        "bonuses": [
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "trp",
+            "value": 7
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "hit",
+            "value": 7
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "eva",
+            "value": 7
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "hp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "fp",
+            "value": 4
+          },
+          {
+            "hulls": [
+              3
+            ],
+            "stat": "hp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              13,
+              18
+            ],
+            "stat": "hp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              3,
+              13,
+              18
+            ],
+            "stat": "fp",
+            "value": 1
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "hp",
+            "value": 20
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "hp",
+            "value": 15
+          }
+        ]
+      },
+      {
+        "points": 2250,
+        "bonuses": [
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "trp",
+            "value": 7
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "hit",
+            "value": 7
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "eva",
+            "value": 7
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "hp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "fp",
+            "value": 9
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "trp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              3
+            ],
+            "stat": "hp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              13,
+              18
+            ],
+            "stat": "hp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              3,
+              18
+            ],
+            "stat": "trp",
+            "value": 4
+          },
+          {
+            "hulls": [
+              13
+            ],
+            "stat": "hit",
+            "value": 2
+          },
+          {
+            "hulls": [
+              3,
+              13,
+              18
+            ],
+            "stat": "fp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "hp",
+            "value": 20
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "hp",
+            "value": 15
+          }
+        ]
+      },
+      {
+        "points": 2700,
+        "bonuses": [
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "trp",
+            "value": 7
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "hit",
+            "value": 7
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "eva",
+            "value": 7
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "hp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "fp",
+            "value": 9
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "trp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              3
+            ],
+            "stat": "hp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              13,
+              18
+            ],
+            "stat": "hp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              3,
+              18
+            ],
+            "stat": "trp",
+            "value": 4
+          },
+          {
+            "hulls": [
+              13
+            ],
+            "stat": "hit",
+            "value": 2
+          },
+          {
+            "hulls": [
+              3,
+              13,
+              18
+            ],
+            "stat": "fp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "hp",
+            "value": 20
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "hp",
+            "value": 15
+          },
+          {
+            "hulls": [
+              4,
+              5,
+              10
+            ],
+            "stat": "hit",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "points": 3150,
+        "bonuses": [
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "trp",
+            "value": 13
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "hit",
+            "value": 13
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "eva",
+            "value": 13
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "hp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "fp",
+            "value": 9
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "trp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              3
+            ],
+            "stat": "hp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              13,
+              18
+            ],
+            "stat": "hp",
+            "value": 5
+          },
+          {
+            "hulls": [
+              3,
+              18
+            ],
+            "stat": "trp",
+            "value": 4
+          },
+          {
+            "hulls": [
+              13
+            ],
+            "stat": "hit",
+            "value": 2
+          },
+          {
+            "hulls": [
+              3,
+              13,
+              18
+            ],
+            "stat": "fp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "hp",
+            "value": 20
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "hp",
+            "value": 15
+          },
+          {
+            "hulls": [
+              4,
+              5,
+              10
+            ],
+            "stat": "hit",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "points": 3600,
+        "bonuses": [
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "trp",
+            "value": 13
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "hit",
+            "value": 13
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "eva",
+            "value": 13
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "hp",
+            "value": 35
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "fp",
+            "value": 9
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "trp",
+            "value": 12
+          },
+          {
+            "hulls": [
+              3
+            ],
+            "stat": "hp",
+            "value": 35
+          },
+          {
+            "hulls": [
+              13,
+              18
+            ],
+            "stat": "hp",
+            "value": 25
+          },
+          {
+            "hulls": [
+              3,
+              18
+            ],
+            "stat": "trp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              13
+            ],
+            "stat": "hit",
+            "value": 6
+          },
+          {
+            "hulls": [
+              3,
+              13,
+              18
+            ],
+            "stat": "fp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "hp",
+            "value": 20
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "hp",
+            "value": 15
+          },
+          {
+            "hulls": [
+              4,
+              5,
+              10
+            ],
+            "stat": "hit",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "points": 4050,
+        "bonuses": [
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "trp",
+            "value": 13
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "hit",
+            "value": 13
+          },
+          {
+            "hulls": [
+              8,
+              17
+            ],
+            "stat": "eva",
+            "value": 13
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "hp",
+            "value": 35
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "fp",
+            "value": 9
+          },
+          {
+            "hulls": [
+              1,
+              20,
+              21
+            ],
+            "stat": "trp",
+            "value": 12
+          },
+          {
+            "hulls": [
+              3
+            ],
+            "stat": "hp",
+            "value": 35
+          },
+          {
+            "hulls": [
+              13,
+              18
+            ],
+            "stat": "hp",
+            "value": 25
+          },
+          {
+            "hulls": [
+              3,
+              18
+            ],
+            "stat": "trp",
+            "value": 10
+          },
+          {
+            "hulls": [
+              13
+            ],
+            "stat": "hit",
+            "value": 6
+          },
+          {
+            "hulls": [
+              3,
+              13,
+              18
+            ],
+            "stat": "fp",
+            "value": 3
+          },
+          {
+            "hulls": [
+              4,
+              5
+            ],
+            "stat": "hp",
+            "value": 55
+          },
+          {
+            "hulls": [
+              10
+            ],
+            "stat": "hp",
+            "value": 45
+          },
+          {
+            "hulls": [
+              4,
+              5,
+              10
+            ],
+            "stat": "hit",
+            "value": 3
+          }
+        ]
+      }
+    ]
+  }
+}

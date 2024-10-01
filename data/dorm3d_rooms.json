@@ -1,0 +1,111 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Room of Sirius",
+    "type": 2,
+    "characters": [
+      371
+    ],
+    "invitable": [],
+    "memories": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "icon": "dorm3d/rooms/room_icon_tianlangxing",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "collectables": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Beach",
+    "type": 1,
+    "characters": [],
+    "invitable": [
+      {
+        "id": 371,
+        "cost": 800,
+        "currency": {
+          "id": 59005,
+          "name": "Gems",
+          "icon": "props/gem",
+          "linkable": true
+        },
+        "discount": 100
+      }
+    ],
+    "memories": [],
+    "icon": "dorm3d/rooms/room_icon_beach",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "collectables": [
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Bath",
+    "type": 1,
+    "characters": [
+      371
+    ],
+    "invitable": [],
+    "memories": [],
+    "icon": "dorm3d/rooms/room_icon_bathroom",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "collectables": []
+  }
+}

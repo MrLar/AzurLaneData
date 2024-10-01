@@ -1,0 +1,9343 @@
+{
+  "9000": {
+    "id": 9000,
+    "icon": "9000",
+    "name": "Ultra Rainbow Hammer",
+    "limit_group": 3,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902190
+    ],
+    "max": 0,
+    "skill_upgrades": [
+      {
+        "replace": 9036,
+        "with": 9037
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          99
+        ]
+      },
+      {
+        "stat": "luck",
+        "values": [
+          9
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10000": {
+    "id": 10000,
+    "icon": "10000",
+    "name": "Huggy Pillow of Bravery",
+    "limit_group": 19,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10410,
+        "with": 1010410
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          7,
+          8,
+          8,
+          9,
+          9,
+          10,
+          10,
+          11,
+          11,
+          12,
+          13
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10020": {
+    "id": 10020,
+    "icon": "10020",
+    "name": "Afternoon of Surging Elegance",
+    "limit_group": 115,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10610,
+        "with": 1010610
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          8,
+          9,
+          9,
+          10,
+          10,
+          11,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10040": {
+    "id": 10040,
+    "icon": "10040",
+    "name": "Lucky Ship's \"Punishers\"",
+    "limit_group": 244,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902090
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10390,
+        "with": 1010390
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "eva",
+        "values": [
+          10,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "fp",
+        "values": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10060": {
+    "id": 10060,
+    "icon": "10060",
+    "name": "No More Tears",
+    "limit_group": 55,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902100
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10140,
+        "with": 1010140
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          9,
+          10,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10080": {
+    "id": 10080,
+    "icon": "10080",
+    "name": "Hydrophone Calibration Device",
+    "limit_group": 340,
+    "type": 8,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902110
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11380,
+        "with": 1011380
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          2,
+          3,
+          3,
+          4,
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10100": {
+    "id": 10100,
+    "icon": "10100",
+    "name": "Templar Knight's Battle Standard",
+    "limit_group": 353,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11540,
+        "with": 1011540
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          4,
+          4,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          6,
+          6,
+          6
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10120": {
+    "id": 10120,
+    "icon": "10120",
+    "name": "Punctual Glory",
+    "limit_group": 148,
+    "type": 7,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902120
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 3021,
+        "with": 1090010
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          17,
+          17,
+          18,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "aa",
+        "values": [
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          14,
+          15,
+          15,
+          16,
+          17
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10140": {
+    "id": 10140,
+    "icon": "10140",
+    "name": "Concentrated Beam-Type Assault Rigging NT",
+    "limit_group": 252,
+    "type": 7,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902060
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10690,
+        "with": 1010690
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          22,
+          22,
+          23,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10160": {
+    "id": 10160,
+    "icon": "10160",
+    "name": "Carabinier's Honored Hallmark",
+    "limit_group": 415,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 12670,
+        "with": 1012670
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10180": {
+    "id": 10180,
+    "icon": "10180",
+    "name": "Type-35 \"Ayanami\" Anti-Ship Armament",
+    "limit_group": 155,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902070
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10730,
+        "with": 1010730
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          7,
+          8,
+          8,
+          9,
+          9,
+          10,
+          10,
+          11,
+          11,
+          12,
+          13
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10200": {
+    "id": 10200,
+    "icon": "10200",
+    "name": "For Love and Peace",
+    "limit_group": 145,
+    "type": 7,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902130
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10340,
+        "with": 1010340
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          17,
+          17,
+          18,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          14,
+          15,
+          15,
+          16,
+          17
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10220": {
+    "id": 10220,
+    "icon": "10220",
+    "name": "Night Princess's Caprice",
+    "limit_group": 103,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10580,
+        "with": 1010580
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          100,
+          105,
+          110,
+          115,
+          120,
+          125,
+          130,
+          135,
+          140,
+          145,
+          150
+        ],
+        "random": 20
+      },
+      {
+        "stat": "fp",
+        "values": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10240": {
+    "id": 10240,
+    "icon": "10240",
+    "name": "Storm-Breaking Fist?",
+    "limit_group": 239,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 2011,
+        "with": 1090020
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10260": {
+    "id": 10260,
+    "icon": "10260",
+    "name": "Just Like Cleve",
+    "limit_group": 329,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 4091,
+        "with": 1090030
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          8,
+          9,
+          9,
+          10,
+          10,
+          11,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10280": {
+    "id": 10280,
+    "icon": "10280",
+    "name": "1-Cent Coins",
+    "limit_group": 344,
+    "type": 8,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902110
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 3611,
+        "with": 1090040
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          2,
+          3,
+          3,
+          4,
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10300": {
+    "id": 10300,
+    "icon": "10300",
+    "name": "Pirozhki",
+    "limit_group": 262,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10510,
+        "with": 1010510
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22
+        ],
+        "random": 10
+      },
+      {
+        "stat": "eva",
+        "values": [
+          8,
+          9,
+          9,
+          10,
+          10,
+          11,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10320": {
+    "id": 10320,
+    "icon": "10320",
+    "name": "Tem and Opie",
+    "limit_group": 359,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11700,
+        "with": 1011700
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10340": {
+    "id": 10340,
+    "icon": "10340",
+    "name": "Majestic Phoenix",
+    "limit_group": 230,
+    "type": 7,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902140
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11620,
+        "with": 1011620
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          22,
+          22,
+          23,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "random": 10
+      },
+      {
+        "stat": "luck",
+        "values": [
+          1,
+          1,
+          2,
+          2,
+          3,
+          3,
+          4,
+          4,
+          5,
+          5,
+          6
+        ],
+        "random": 2
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10360": {
+    "id": 10360,
+    "icon": "10360",
+    "name": "Sparkling Reverie",
+    "limit_group": 10091,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      109310
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 109030,
+        "with": 109040
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          32
+        ]
+      },
+      {
+        "stat": "rld",
+        "values": [
+          13,
+          14,
+          14,
+          15,
+          15,
+          16,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10380": {
+    "id": 10380,
+    "icon": "10380",
+    "name": "Astrumnox",
+    "limit_group": 10092,
+    "type": 7,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      109320
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 109070,
+        "with": 109080
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          32,
+          32,
+          33,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40
+        ]
+      },
+      {
+        "stat": "rld",
+        "values": [
+          9,
+          10,
+          10,
+          11,
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          15
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10400": {
+    "id": 10400,
+    "icon": "10400",
+    "name": "Edel Schwert",
+    "limit_group": 10093,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      109330
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 109110,
+        "with": 109120
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          33,
+          35
+        ]
+      },
+      {
+        "stat": "hit",
+        "values": [
+          9,
+          9,
+          9,
+          9,
+          10,
+          10,
+          10,
+          10,
+          11,
+          11,
+          11
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10420": {
+    "id": 10420,
+    "icon": "10420",
+    "name": "Oren Herald",
+    "limit_group": 10094,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      109350
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 109190,
+        "with": 109200
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          12,
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32
+        ]
+      },
+      {
+        "stat": "hit",
+        "values": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10440": {
+    "id": 10440,
+    "icon": "10440",
+    "name": "Grand Floracion",
+    "limit_group": 10095,
+    "type": 7,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      109340
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 109150,
+        "with": 109160
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          22,
+          22,
+          23,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "stat": "hit",
+        "values": [
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          14,
+          15,
+          15,
+          16,
+          17
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10460": {
+    "id": 10460,
+    "icon": "10460",
+    "name": "Elder Lily",
+    "limit_group": 10096,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      109360
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 109230,
+        "with": 109240
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          180,
+          190,
+          200,
+          210,
+          220,
+          230,
+          240,
+          250,
+          260,
+          270,
+          280
+        ]
+      },
+      {
+        "stat": "eva",
+        "values": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10480": {
+    "id": 10480,
+    "icon": "10480",
+    "name": "Custom-made Companion Rigging - Raubtier",
+    "limit_group": 236,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10530,
+        "with": 1010530
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hp",
+        "values": [
+          110,
+          115,
+          120,
+          125,
+          130,
+          135,
+          140,
+          145,
+          150,
+          160,
+          170
+        ],
+        "random": 30
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10500": {
+    "id": 10500,
+    "icon": "10500",
+    "name": "Delicious Nagara-class Nabemono",
+    "limit_group": 182,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 2011,
+        "with": 1090050
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10520": {
+    "id": 10520,
+    "icon": "10520",
+    "name": "Dame's Medal of Grace",
+    "limit_group": 129,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902150
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10290,
+        "with": 1010290
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          4,
+          4,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          6,
+          6,
+          6
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10540": {
+    "id": 10540,
+    "icon": "10540",
+    "name": "The General's Battlecoat",
+    "limit_group": 49,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 2061,
+        "with": 1090060
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10560": {
+    "id": 10560,
+    "icon": "10560",
+    "name": "Prank-of-the-Day!",
+    "limit_group": 358,
+    "type": 8,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902070
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11670,
+        "with": 1011670
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22,
+          23,
+          24,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10580": {
+    "id": 10580,
+    "icon": "10580",
+    "name": "Bizarre Teatime",
+    "limit_group": 376,
+    "type": 7,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902160
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11900,
+        "with": 1011900
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          17,
+          17,
+          18,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "asw",
+        "values": [
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          14,
+          15,
+          15,
+          16,
+          17
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10600": {
+    "id": 10600,
+    "icon": "10600",
+    "name": "Knight-Princess's Gauntlets",
+    "limit_group": 347,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11500,
+        "with": 1011500
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hp",
+        "values": [
+          130,
+          135,
+          140,
+          145,
+          150,
+          155,
+          160,
+          165,
+          170,
+          175,
+          180
+        ],
+        "random": 20
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10620": {
+    "id": 10620,
+    "icon": "10620",
+    "name": "Sims' Playtime",
+    "limit_group": 26,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 1001,
+        "with": 1090070
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hp",
+        "values": [
+          70,
+          75,
+          80,
+          85,
+          90,
+          95,
+          100,
+          105,
+          110,
+          115,
+          120
+        ],
+        "random": 30
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10640": {
+    "id": 10640,
+    "icon": "10640",
+    "name": "Trayastrimsa-Heaven White Scarf",
+    "limit_group": 202,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902170
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10600,
+        "with": 1010600
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22,
+          23,
+          24,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10660": {
+    "id": 10660,
+    "icon": "10660",
+    "name": "The Complete Old Lady Kit",
+    "limit_group": 411,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902030
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 12650,
+        "with": 1090090
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10680": {
+    "id": 10680,
+    "icon": "10680",
+    "name": "Hunter's Insignia",
+    "limit_group": 364,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902180
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11710,
+        "with": 1011710
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "hit",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 5
+      },
+      {
+        "stat": "rld",
+        "values": [
+          8,
+          9,
+          9,
+          10,
+          10,
+          11,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10700": {
+    "id": 10700,
+    "icon": "10700",
+    "name": "Floaty Sparkly",
+    "limit_group": 167,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 1013,
+        "with": 1090080
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          8,
+          8,
+          8,
+          8,
+          9,
+          9,
+          9,
+          9,
+          10,
+          10,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10720": {
+    "id": 10720,
+    "icon": "10720",
+    "name": "Full Burst Javelin",
+    "limit_group": 101,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10250,
+        "with": 1010250
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          7,
+          8,
+          8,
+          9,
+          9,
+          10,
+          10,
+          11,
+          11,
+          12,
+          13
+        ],
+        "random": 5
+      },
+      {
+        "stat": "trp",
+        "values": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "random": 10
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10740": {
+    "id": 10740,
+    "icon": "10740",
+    "name": "Lonely Queen's Flag",
+    "limit_group": 251,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902030
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10670,
+        "with": 1010670
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          9,
+          10,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10780": {
+    "id": 10780,
+    "icon": "10780",
+    "name": "Fantastic Loop",
+    "limit_group": 349,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902200
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11520,
+        "with": 1011520
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "eva",
+        "values": [
+          9,
+          10,
+          10,
+          11,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10800": {
+    "id": 10800,
+    "icon": "10800",
+    "name": "Another Precious Thing",
+    "limit_group": 114,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 2081,
+        "with": 1090100
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          9,
+          10,
+          10,
+          11,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10820": {
+    "id": 10820,
+    "icon": "10820",
+    "name": "Prinsesstårta",
+    "limit_group": 10061,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      106180
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 106010,
+        "with": 106170
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40
+        ]
+      },
+      {
+        "stat": "fp",
+        "values": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10840": {
+    "id": 10840,
+    "icon": "10840",
+    "name": "Cream Puff",
+    "limit_group": 10062,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      106220
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 106040,
+        "with": 106210
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          33,
+          35
+        ]
+      },
+      {
+        "stat": "rld",
+        "values": [
+          7,
+          8,
+          8,
+          9,
+          9,
+          10,
+          10,
+          11,
+          11,
+          12,
+          12
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10860": {
+    "id": 10860,
+    "icon": "10860",
+    "name": "Strawberry Mille-Feuille",
+    "limit_group": 10063,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      106230
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 106060,
+        "with": 106240
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          12,
+          13,
+          15,
+          17,
+          19,
+          21,
+          22,
+          24,
+          26,
+          28,
+          30
+        ]
+      },
+      {
+        "stat": "eva",
+        "values": [
+          4,
+          4,
+          5,
+          5,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10880": {
+    "id": 10880,
+    "icon": "10880",
+    "name": "Mango Vanilla Crepe",
+    "limit_group": 10064,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      106350
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 106070,
+        "with": 106360
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          32
+        ]
+      },
+      {
+        "stat": "rld",
+        "values": [
+          13,
+          14,
+          14,
+          15,
+          15,
+          16,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10900": {
+    "id": 10900,
+    "icon": "10900",
+    "name": "Souffle Pancake",
+    "limit_group": 10065,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      106250
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 106100,
+        "with": 106260
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          35
+        ]
+      },
+      {
+        "stat": "rld",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10920": {
+    "id": 10920,
+    "icon": "10920",
+    "name": "Manjuu Bun",
+    "limit_group": 10066,
+    "type": 7,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      106270
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 106140,
+        "with": 106280
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          35
+        ]
+      },
+      {
+        "stat": "hit",
+        "values": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          17
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10940": {
+    "id": 10940,
+    "icon": "10940",
+    "name": "Papanasi",
+    "limit_group": 10067,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      106300
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 106120,
+        "with": 106290
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          32
+        ]
+      },
+      {
+        "stat": "aa",
+        "values": [
+          10,
+          12,
+          12,
+          14,
+          14,
+          16,
+          16,
+          18,
+          18,
+          20,
+          20
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10960": {
+    "id": 10960,
+    "icon": "10960",
+    "name": "Macaroon",
+    "limit_group": 10069,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      106310
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 106330,
+        "with": 106340
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28
+        ]
+      },
+      {
+        "stat": "hit",
+        "values": [
+          10,
+          12,
+          12,
+          14,
+          14,
+          16,
+          16,
+          18,
+          18,
+          20,
+          20
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "10980": {
+    "id": 10980,
+    "icon": "10980",
+    "name": "Roasted Sweet Potato",
+    "limit_group": 10068,
+    "type": 7,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      106200
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 106160,
+        "with": 106190
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40
+        ]
+      },
+      {
+        "stat": "hit",
+        "values": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "11000": {
+    "id": 11000,
+    "icon": "11000",
+    "name": "Calculations Complete!",
+    "limit_group": 249,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902030
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 2101,
+        "with": 1090110
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "11020": {
+    "id": 11020,
+    "icon": "11020",
+    "name": "The Guardian's Bestowed Sword",
+    "limit_group": 288,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11360,
+        "with": 1011360
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "11040": {
+    "id": 11040,
+    "icon": "11040",
+    "name": "What Once Was Her World",
+    "limit_group": 267,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902210
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 2081,
+        "with": 1090120
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hp",
+        "values": [
+          100,
+          110,
+          120,
+          130,
+          140,
+          150,
+          160,
+          170,
+          180,
+          190,
+          200
+        ],
+        "random": 20
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "11060": {
+    "id": 11060,
+    "icon": "11060",
+    "name": "Mutsuki's Candy!",
+    "limit_group": 271,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 2001,
+        "with": 1090130
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 10
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "11080": {
+    "id": 11080,
+    "icon": "11080",
+    "name": "Sister Sara's Magic Wand!",
+    "limit_group": 74,
+    "type": 7,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902060
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10180,
+        "with": 1090140
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          22,
+          22,
+          23,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12000": {
+    "id": 12000,
+    "icon": "12000",
+    "name": "Magie de l'Amitié",
+    "limit_group": 395,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 12350,
+        "with": 1012350
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12020": {
+    "id": 12020,
+    "icon": "12020",
+    "name": "Incanto",
+    "limit_group": 410,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902030
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 12600,
+        "with": 1012600
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          9,
+          10,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12040": {
+    "id": 12040,
+    "icon": "12040",
+    "name": "A Royal Knight's Pride",
+    "limit_group": 135,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902030
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10540,
+        "with": 1010540
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12060": {
+    "id": 12060,
+    "icon": "12060",
+    "name": "Houston's Liftoff",
+    "limit_group": 43,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902220
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10100,
+        "with": 1010100
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hp",
+        "values": [
+          80,
+          92,
+          104,
+          116,
+          128,
+          140,
+          152,
+          164,
+          176,
+          188,
+          200
+        ],
+        "random": 20
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12080": {
+    "id": 12080,
+    "icon": "12080",
+    "name": "Buster Borr Upgrade",
+    "limit_group": 10083,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      108440
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 108090,
+        "with": 108240
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          32
+        ]
+      },
+      {
+        "stat": "aa",
+        "values": [
+          10,
+          12,
+          12,
+          14,
+          14,
+          16,
+          16,
+          18,
+          18,
+          20,
+          20
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12100": {
+    "id": 12100,
+    "icon": "12100",
+    "name": "Battle Tracto Max Upgrade",
+    "limit_group": 10084,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      108430
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 108080,
+        "with": 108230
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          12,
+          13,
+          15,
+          17,
+          19,
+          21,
+          22,
+          24,
+          26,
+          28,
+          30
+        ]
+      },
+      {
+        "stat": "eva",
+        "values": [
+          4,
+          4,
+          5,
+          5,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12120": {
+    "id": 12120,
+    "icon": "12120",
+    "name": "Dyna Wing",
+    "limit_group": 10085,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      108450
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 108120,
+        "with": 108250
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          33,
+          35
+        ]
+      },
+      {
+        "stat": "eva",
+        "values": [
+          9,
+          9,
+          10,
+          10,
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          15
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12140": {
+    "id": 12140,
+    "icon": "12140",
+    "name": "Big Goldburn Zentangle",
+    "limit_group": 10086,
+    "type": 7,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      108460
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 108150,
+        "with": 108260
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40
+        ]
+      },
+      {
+        "stat": "hit",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12160": {
+    "id": 12160,
+    "icon": "12160",
+    "name": "Kaiju Seed",
+    "limit_group": 10087,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      108470
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 108170,
+        "with": 108270
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          35
+        ]
+      },
+      {
+        "stat": "rld",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12180": {
+    "id": 12180,
+    "icon": "12180",
+    "name": "Live Baton",
+    "limit_group": 10088,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      108480
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 108300,
+        "with": 108280
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          33,
+          35
+        ]
+      },
+      {
+        "stat": "avi",
+        "values": [
+          12,
+          13,
+          13,
+          14,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12200": {
+    "id": 12200,
+    "icon": "12200",
+    "name": "Dragon Ornament",
+    "limit_group": 10089,
+    "type": 5,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      108490
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 108320,
+        "with": 108290
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          30
+        ]
+      },
+      {
+        "stat": "eva",
+        "values": [
+          14,
+          15,
+          15,
+          16,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12220": {
+    "id": 12220,
+    "icon": "12220",
+    "name": "Primal Accepter",
+    "limit_group": 10081,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      108410
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 108010,
+        "with": 108210
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          32
+        ]
+      },
+      {
+        "stat": "rld",
+        "values": [
+          13,
+          14,
+          14,
+          15,
+          15,
+          16,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12240": {
+    "id": 12240,
+    "icon": "12240",
+    "name": "Confinement Program",
+    "limit_group": 10082,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      108420
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 108040,
+        "with": 108220
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          33,
+          35
+        ]
+      },
+      {
+        "stat": "rld",
+        "values": [
+          7,
+          8,
+          8,
+          9,
+          9,
+          10,
+          10,
+          11,
+          11,
+          12,
+          12
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12260": {
+    "id": 12260,
+    "icon": "12260",
+    "name": "Bludgeon of Faith",
+    "limit_group": 455,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 13270,
+        "with": 1013270
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12280": {
+    "id": 12280,
+    "icon": "12280",
+    "name": "Surcouf's Sunday",
+    "limit_group": 350,
+    "type": 8,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902070
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 3521,
+        "with": 1090150
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22
+        ],
+        "random": 10
+      },
+      {
+        "stat": "fp",
+        "values": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12300": {
+    "id": 12300,
+    "icon": "12300",
+    "name": "The Sturdiest, Strongest Shield",
+    "limit_group": 65,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10160,
+        "with": 1010160
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          5,
+          5,
+          6,
+          7,
+          8,
+          9,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12320": {
+    "id": 12320,
+    "icon": "12320",
+    "name": "Mini Lebe",
+    "limit_group": 379,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11970,
+        "with": 1011970
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          5,
+          5,
+          6,
+          7,
+          8,
+          9,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12340": {
+    "id": 12340,
+    "icon": "12340",
+    "name": "Emotion-Concealing Garb",
+    "limit_group": 343,
+    "type": 8,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902070
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11440,
+        "with": 1011440
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "eva",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12360": {
+    "id": 12360,
+    "icon": "12360",
+    "name": "The Sweetness of Cloudwatching",
+    "limit_group": 122,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 2061,
+        "with": 1090160
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "eva",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12380": {
+    "id": 12380,
+    "icon": "12380",
+    "name": "Sister's Care Package",
+    "limit_group": 188,
+    "type": 9,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 4111,
+        "with": 1090170
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22
+        ],
+        "random": 10
+      },
+      {
+        "stat": "eva",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12400": {
+    "id": 12400,
+    "icon": "12400",
+    "name": "Splendid as Sky and Sea",
+    "limit_group": 146,
+    "type": 7,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902060
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11120,
+        "with": 1011120
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12420": {
+    "id": 12420,
+    "icon": "12420",
+    "name": "Shichi-Go-San Exorcism Bells",
+    "limit_group": 208,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902030
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 2071,
+        "with": 1090180
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          4,
+          4,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          6,
+          6,
+          6
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12440": {
+    "id": 12440,
+    "icon": "12440",
+    "name": "Lance of the Golden Age",
+    "limit_group": 613,
+    "type": 10,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902250
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 17200,
+        "with": 1017200
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          110,
+          115,
+          120,
+          125,
+          130,
+          135,
+          140,
+          145,
+          150,
+          160,
+          170
+        ],
+        "random": 30
+      },
+      {
+        "stat": "hit",
+        "values": [
+          4,
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12460": {
+    "id": 12460,
+    "icon": "12460",
+    "name": "Handwritten Note",
+    "limit_group": 612,
+    "type": 10,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902240
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 17270,
+        "with": 1017270
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          4,
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12480": {
+    "id": 12480,
+    "icon": "12480",
+    "name": "Land's End Helm",
+    "limit_group": 610,
+    "type": 10,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902240
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 17250,
+        "with": 1017250
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "eva",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12500": {
+    "id": 12500,
+    "icon": "12500",
+    "name": "Ghost Ship's Scythe",
+    "limit_group": 611,
+    "type": 10,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902230
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 17160,
+        "with": 1017160
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          100,
+          105,
+          110,
+          115,
+          120,
+          125,
+          130,
+          135,
+          140,
+          145,
+          150
+        ],
+        "random": 20
+      },
+      {
+        "stat": "hit",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12520": {
+    "id": 12520,
+    "icon": "12520",
+    "name": "Portable \"Little Guys\"",
+    "limit_group": 614,
+    "type": 10,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902230
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 17210,
+        "with": 1017210
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          100,
+          105,
+          110,
+          115,
+          120,
+          125,
+          130,
+          135,
+          140,
+          145,
+          150
+        ],
+        "random": 20
+      },
+      {
+        "stat": "rld",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12540": {
+    "id": 12540,
+    "icon": "12540",
+    "name": "Bright Moon After the Rain",
+    "limit_group": 200,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 2041,
+        "with": 1090190
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "eva",
+        "values": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      },
+      {
+        "stat": "fp",
+        "values": [
+          15,
+          17,
+          19,
+          21,
+          23,
+          25,
+          27,
+          29,
+          31,
+          33,
+          35
+        ],
+        "random": 10
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12560": {
+    "id": 12560,
+    "icon": "12560",
+    "name": "The Lucky Winner",
+    "limit_group": 9,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 2051,
+        "with": 1090200
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 10
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12580": {
+    "id": 12580,
+    "icon": "12580",
+    "name": "Twin Blades - Two-Sided Winding Flash",
+    "limit_group": 10101,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      110310
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 110020,
+        "with": 110030
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "stat": "trp",
+        "values": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      }
+    ],
+    "labels": [
+      "srspw"
+    ],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12600": {
+    "id": 12600,
+    "icon": "12600",
+    "name": "Sword Draw - Phoenix's Flashing Flight",
+    "limit_group": 10102,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      110320
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 110040,
+        "with": 110060
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          12,
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32
+        ]
+      },
+      {
+        "stat": "rld",
+        "values": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      }
+    ],
+    "labels": [
+      "srspw"
+    ],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12620": {
+    "id": 12620,
+    "icon": "12620",
+    "name": "Six Swords - Homura the Pioneer",
+    "limit_group": 10103,
+    "type": 8,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      110330
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 110070,
+        "with": 110090
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          27,
+          27,
+          28,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      {
+        "stat": "hit",
+        "values": [
+          9,
+          10,
+          10,
+          11,
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          15
+        ]
+      }
+    ],
+    "labels": [
+      "srspw"
+    ],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12640": {
+    "id": 12640,
+    "icon": "12640",
+    "name": "Folding Fan - Frosty Sleeves Snow Dance",
+    "limit_group": 10104,
+    "type": 7,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      110340
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 110100,
+        "with": 110120
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40
+        ]
+      },
+      {
+        "stat": "hit",
+        "values": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    ],
+    "labels": [
+      "srspw"
+    ],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12660": {
+    "id": 12660,
+    "icon": "12660",
+    "name": "Feather Fan - Purple Ice Linked Blossoms",
+    "limit_group": 10105,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      110350
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 110140,
+        "with": 110150
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "stat": "rld",
+        "values": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      }
+    ],
+    "labels": [
+      "srspw"
+    ],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12680": {
+    "id": 12680,
+    "icon": "12680",
+    "name": "Shuriken - Full Moon Hidden in Shade",
+    "limit_group": 10106,
+    "type": 7,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      110360
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 110170,
+        "with": 110180
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          27,
+          27,
+          28,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      {
+        "stat": "aa",
+        "values": [
+          9,
+          10,
+          10,
+          11,
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          15
+        ]
+      }
+    ],
+    "labels": [
+      "srspw"
+    ],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12700": {
+    "id": 12700,
+    "icon": "12700",
+    "name": "Tachis - Hankane",
+    "limit_group": 10107,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      110370
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 110190,
+        "with": 110210
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "stat": "hit",
+        "values": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    ],
+    "labels": [
+      "srspw"
+    ],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12720": {
+    "id": 12720,
+    "icon": "12720",
+    "name": "Fabulous Fioretto",
+    "limit_group": 413,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 12620,
+        "with": 1012620
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          12,
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12740": {
+    "id": 12740,
+    "icon": "12740",
+    "name": "Explorer's Eye",
+    "limit_group": 378,
+    "type": 7,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902060
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11940,
+        "with": 1011940
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12760": {
+    "id": 12760,
+    "icon": "12760",
+    "name": "Halo of Fortune",
+    "limit_group": 92,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 4071,
+        "with": 1090210
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hp",
+        "values": [
+          100,
+          110,
+          120,
+          130,
+          140,
+          150,
+          160,
+          170,
+          180,
+          190,
+          200
+        ],
+        "random": 20
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12780": {
+    "id": 12780,
+    "icon": "12780",
+    "name": "The One and Only Style",
+    "limit_group": 233,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10380,
+        "with": 1010380
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          5,
+          5,
+          6,
+          7,
+          8,
+          9,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12800": {
+    "id": 12800,
+    "icon": "12800",
+    "name": "Teachings of the Seven Bridges",
+    "limit_group": 238,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 1032,
+        "with": 1090220
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "random": 10
+      },
+      {
+        "stat": "eva",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12820": {
+    "id": 12820,
+    "icon": "12820",
+    "name": "Knight Commander's Medal",
+    "limit_group": 134,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 12160,
+        "with": 1012160
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12840": {
+    "id": 12840,
+    "icon": "12840",
+    "name": "Li'l Smile",
+    "limit_group": 346,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 2081,
+        "with": 1090230
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12860": {
+    "id": 12860,
+    "icon": "12860",
+    "name": "Da Bao",
+    "limit_group": 258,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10480,
+        "with": 1010480
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "hit",
+        "values": [
+          6,
+          7,
+          8,
+          8,
+          9,
+          9,
+          10,
+          10,
+          11,
+          11,
+          12
+        ],
+        "random": 10
+      },
+      {
+        "stat": "fp",
+        "values": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12880": {
+    "id": 12880,
+    "icon": "12880",
+    "name": "Baobao",
+    "limit_group": 259,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10490,
+        "with": 1010490
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "hit",
+        "values": [
+          6,
+          7,
+          8,
+          8,
+          9,
+          9,
+          10,
+          10,
+          11,
+          11,
+          12
+        ],
+        "random": 10
+      },
+      {
+        "stat": "fp",
+        "values": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12900": {
+    "id": 12900,
+    "icon": "12900",
+    "name": "A Praiseworthy Weapon",
+    "limit_group": 338,
+    "type": 8,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902070
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11370,
+        "with": 1011370
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12920": {
+    "id": 12920,
+    "icon": "12920",
+    "name": "Grinding Day and Night",
+    "limit_group": 308,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 1091,
+        "with": 1090240
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "eva",
+        "values": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12940": {
+    "id": 12940,
+    "icon": "12940",
+    "name": "Don't Throw Me Away",
+    "limit_group": 107,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 12940,
+        "with": 1012940
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          14,
+          15,
+          15,
+          16,
+          17
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12960": {
+    "id": 12960,
+    "icon": "12960",
+    "name": "Flowering Courage",
+    "limit_group": 351,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 5081,
+        "with": 1005080
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          10,
+          10,
+          10,
+          11,
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          15
+        ],
+        "random": 10
+      },
+      {
+        "stat": "trp",
+        "values": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "random": 10
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "12980": {
+    "id": 12980,
+    "icon": "12980",
+    "name": "To Become Statuesque?",
+    "limit_group": 301,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10750,
+        "with": 1010750
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13000": {
+    "id": 13000,
+    "icon": "13000",
+    "name": "The White Cavalier's Reins",
+    "limit_group": 436,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 13000,
+        "with": 1013000
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          28
+        ],
+        "random": 10
+      },
+      {
+        "stat": "eva",
+        "values": [
+          8,
+          9,
+          9,
+          10,
+          10,
+          11,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13020": {
+    "id": 13020,
+    "icon": "13020",
+    "name": "Shining Comet",
+    "limit_group": 88,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 1011,
+        "with": 1090250
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hp",
+        "values": [
+          100,
+          105,
+          110,
+          115,
+          120,
+          125,
+          130,
+          135,
+          140,
+          145,
+          150
+        ],
+        "random": 20
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13040": {
+    "id": 13040,
+    "icon": "13040",
+    "name": "Wearable Uniqueness",
+    "limit_group": 63,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902030
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10980,
+        "with": 1010980
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13060": {
+    "id": 13060,
+    "icon": "13060",
+    "name": "Daredevil's Caution",
+    "limit_group": 248,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902030
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10660,
+        "with": 1010660
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13080": {
+    "id": 13080,
+    "icon": "13080",
+    "name": "Poisonous Elegance",
+    "limit_group": 394,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 12320,
+        "with": 1012320
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hp",
+        "values": [
+          100,
+          110,
+          120,
+          130,
+          140,
+          150,
+          160,
+          170,
+          180,
+          190,
+          200
+        ],
+        "random": 20
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13100": {
+    "id": 13100,
+    "icon": "13100",
+    "name": "You Don't Fear What You Don't Hear",
+    "limit_group": 17,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 2001,
+        "with": 1090260
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13120": {
+    "id": 13120,
+    "icon": "13120",
+    "name": "Muramasa and Masamune",
+    "limit_group": 20004,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902260
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 19080,
+        "with": 1019080
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          28,
+          30
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13140": {
+    "id": 13140,
+    "icon": "13140",
+    "name": "Star Blaster",
+    "limit_group": 36,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902270
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10090,
+        "with": 1010090
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "eva",
+        "values": [
+          10,
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          14,
+          15,
+          16,
+          17
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13160": {
+    "id": 13160,
+    "icon": "13160",
+    "name": "Speed S",
+    "limit_group": 328,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11170,
+        "with": 1011170
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13180": {
+    "id": 13180,
+    "icon": "13180",
+    "name": "Sylvan Dawnbreeze",
+    "limit_group": 356,
+    "type": 7,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902280
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11590,
+        "with": 1011590
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          17,
+          17,
+          18,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 10
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13200": {
+    "id": 13200,
+    "icon": "13200",
+    "name": "Guardian Fishy",
+    "limit_group": 241,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 1052,
+        "with": 1090270
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          35
+        ],
+        "random": 10
+      },
+      {
+        "stat": "aa",
+        "values": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 10
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13220": {
+    "id": 13220,
+    "icon": "13220",
+    "name": "Streamer's Secret Weapon",
+    "limit_group": 70,
+    "type": 7,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902290
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 3001,
+        "with": 1090280
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          22,
+          22,
+          23,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 10
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13240": {
+    "id": 13240,
+    "icon": "13240",
+    "name": "Special Mix (Do Not Drink)",
+    "limit_group": 467,
+    "type": 8,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902070
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 13550,
+        "with": 1013550
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13260": {
+    "id": 13260,
+    "icon": "13260",
+    "name": "Confections Making Set",
+    "limit_group": 352,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902030
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11490,
+        "with": 1011490
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13280": {
+    "id": 13280,
+    "icon": "13280",
+    "name": "The Ice Sprite's Kindness",
+    "limit_group": 433,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 12990,
+        "with": 1012990
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hp",
+        "values": [
+          130,
+          135,
+          140,
+          145,
+          150,
+          155,
+          160,
+          165,
+          170,
+          175,
+          180
+        ],
+        "random": 20
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13300": {
+    "id": 13300,
+    "icon": "13300",
+    "name": "T3 Sakura Tech Pack (Display Sample)",
+    "limit_group": 168,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 2051,
+        "with": 1090290
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          5,
+          5,
+          6,
+          7,
+          8,
+          9,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13320": {
+    "id": 13320,
+    "icon": "13320",
+    "name": "Proof of Inheritance",
+    "limit_group": 126,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 2011,
+        "with": 1090310
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13340": {
+    "id": 13340,
+    "icon": "13340",
+    "name": "Blade of the Holy Mountain",
+    "limit_group": 20003,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 19060,
+        "with": 1019060
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22,
+          23,
+          24,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "eva",
+        "values": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1010100": {
+    "id": 1010100,
+    "icon": "1010100",
+    "name": "Dual Swords",
+    "limit_group": 0,
+    "type": 1,
+    "nation": 0,
+    "rarity": 3,
+    "skills": [],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          5,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          9,
+          10,
+          11,
+          12
+        ],
+        "random": 5
+      },
+      {
+        "stat": "eva",
+        "values": [
+          3,
+          3,
+          3,
+          4,
+          4,
+          5,
+          5,
+          6,
+          6,
+          6,
+          7
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1010120": {
+    "id": 1010120,
+    "icon": "1010100",
+    "name": "Dual Swords",
+    "limit_group": 0,
+    "type": 1,
+    "nation": 0,
+    "rarity": 4,
+    "skills": [
+      901020
+    ],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          14,
+          14,
+          14,
+          15,
+          15,
+          16,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "random": 5
+      },
+      {
+        "stat": "eva",
+        "values": [
+          7,
+          8,
+          9,
+          9,
+          10,
+          10,
+          11,
+          11,
+          11,
+          12,
+          12
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1010200": {
+    "id": 1010200,
+    "icon": "1010200",
+    "name": "Hammer",
+    "limit_group": 0,
+    "type": 1,
+    "nation": 0,
+    "rarity": 3,
+    "skills": [],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "random": 5
+      },
+      {
+        "stat": "hit",
+        "values": [
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          4
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1010220": {
+    "id": 1010220,
+    "icon": "1010200",
+    "name": "Hammer",
+    "limit_group": 0,
+    "type": 1,
+    "nation": 0,
+    "rarity": 4,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "random": 5
+      },
+      {
+        "stat": "hit",
+        "values": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          6,
+          6,
+          6,
+          6,
+          6,
+          7
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1020100": {
+    "id": 1020100,
+    "icon": "1020100",
+    "name": "Sword",
+    "limit_group": 0,
+    "type": 2,
+    "nation": 0,
+    "rarity": 3,
+    "skills": [],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "hit",
+        "values": [
+          6,
+          7,
+          8,
+          8,
+          9,
+          9,
+          10,
+          10,
+          11,
+          11,
+          12
+        ],
+        "random": 5
+      },
+      {
+        "stat": "rld",
+        "values": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          3,
+          3,
+          4,
+          4,
+          5,
+          5
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1020120": {
+    "id": 1020120,
+    "icon": "1020100",
+    "name": "Sword",
+    "limit_group": 0,
+    "type": 2,
+    "nation": 0,
+    "rarity": 4,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "hit",
+        "values": [
+          14,
+          15,
+          16,
+          16,
+          17,
+          17,
+          18,
+          18,
+          19,
+          19,
+          20
+        ],
+        "random": 5
+      },
+      {
+        "stat": "rld",
+        "values": [
+          5,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          9
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1030100": {
+    "id": 1030100,
+    "icon": "1030100",
+    "name": "Crossbow",
+    "limit_group": 0,
+    "type": 3,
+    "nation": 0,
+    "rarity": 3,
+    "skills": [],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          3,
+          4,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          8,
+          9
+        ],
+        "random": 5
+      },
+      {
+        "stat": "aa",
+        "values": [
+          4,
+          4,
+          5,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1030120": {
+    "id": 1030120,
+    "icon": "1030100",
+    "name": "Crossbow",
+    "limit_group": 0,
+    "type": 3,
+    "nation": 0,
+    "rarity": 4,
+    "skills": [
+      902010
+    ],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          10,
+          10,
+          10,
+          11,
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      },
+      {
+        "stat": "aa",
+        "values": [
+          14,
+          15,
+          16,
+          17,
+          18,
+          18,
+          19,
+          19,
+          20,
+          20,
+          21
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1040100": {
+    "id": 1040100,
+    "icon": "1040100",
+    "name": "Greatsword",
+    "limit_group": 0,
+    "type": 4,
+    "nation": 0,
+    "rarity": 3,
+    "skills": [],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          7,
+          7,
+          8,
+          8,
+          9,
+          9,
+          10,
+          10,
+          11,
+          11,
+          12
+        ],
+        "random": 5
+      },
+      {
+        "stat": "trp",
+        "values": [
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          9
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1040120": {
+    "id": 1040120,
+    "icon": "1040100",
+    "name": "Greatsword",
+    "limit_group": 0,
+    "type": 4,
+    "nation": 0,
+    "rarity": 4,
+    "skills": [
+      901020
+    ],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          13,
+          14,
+          14,
+          15,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "random": 5
+      },
+      {
+        "stat": "trp",
+        "values": [
+          10,
+          11,
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          14,
+          14,
+          15
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1050100": {
+    "id": 1050100,
+    "icon": "1050100",
+    "name": "Lance",
+    "limit_group": 0,
+    "type": 5,
+    "nation": 0,
+    "rarity": 3,
+    "skills": [],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "hit",
+        "values": [
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          9,
+          10,
+          10,
+          11
+        ],
+        "random": 5
+      },
+      {
+        "stat": "aa",
+        "values": [
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          9,
+          10,
+          10
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1050120": {
+    "id": 1050120,
+    "icon": "1050100",
+    "name": "Lance",
+    "limit_group": 0,
+    "type": 5,
+    "nation": 0,
+    "rarity": 4,
+    "skills": [
+      902020
+    ],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "hit",
+        "values": [
+          12,
+          13,
+          13,
+          14,
+          14,
+          15,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "random": 5
+      },
+      {
+        "stat": "aa",
+        "values": [
+          12,
+          12,
+          13,
+          13,
+          14,
+          14,
+          15,
+          15,
+          16,
+          17,
+          18
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1060100": {
+    "id": 1060100,
+    "icon": "1060100",
+    "name": "Officer's Sword",
+    "limit_group": 0,
+    "type": 6,
+    "nation": 0,
+    "rarity": 3,
+    "skills": [],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "hit",
+        "values": [
+          4,
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9
+        ],
+        "random": 5
+      },
+      {
+        "stat": "eva",
+        "values": [
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          10
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1060120": {
+    "id": 1060120,
+    "icon": "1060100",
+    "name": "Officer's Sword",
+    "limit_group": 0,
+    "type": 6,
+    "nation": 0,
+    "rarity": 4,
+    "skills": [
+      902030
+    ],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "hit",
+        "values": [
+          10,
+          10,
+          10,
+          11,
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      },
+      {
+        "stat": "eva",
+        "values": [
+          10,
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          14,
+          15,
+          16,
+          17
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1060200": {
+    "id": 1060200,
+    "icon": "1060200",
+    "name": "Bowgun",
+    "limit_group": 0,
+    "type": 6,
+    "nation": 0,
+    "rarity": 3,
+    "skills": [],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "random": 5
+      },
+      {
+        "stat": "aa",
+        "values": [
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          9,
+          10
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1060220": {
+    "id": 1060220,
+    "icon": "1060200",
+    "name": "Bowgun",
+    "limit_group": 0,
+    "type": 6,
+    "nation": 0,
+    "rarity": 4,
+    "skills": [
+      902040
+    ],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          14,
+          14,
+          15,
+          15,
+          16,
+          16,
+          17,
+          17,
+          18,
+          19,
+          20
+        ],
+        "random": 5
+      },
+      {
+        "stat": "aa",
+        "values": [
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          14,
+          15,
+          15,
+          16,
+          17
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1070100": {
+    "id": 1070100,
+    "icon": "1070100",
+    "name": "Hunting Bow",
+    "limit_group": 0,
+    "type": 7,
+    "nation": 0,
+    "rarity": 3,
+    "skills": [],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          7,
+          8,
+          8,
+          9,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      },
+      {
+        "stat": "aa",
+        "values": [
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          9,
+          10
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1070120": {
+    "id": 1070120,
+    "icon": "1070100",
+    "name": "Hunting Bow",
+    "limit_group": 0,
+    "type": 7,
+    "nation": 0,
+    "rarity": 4,
+    "skills": [
+      902050
+    ],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          17,
+          17,
+          18,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "random": 5
+      },
+      {
+        "stat": "aa",
+        "values": [
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          14,
+          15,
+          15,
+          16,
+          17
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1070200": {
+    "id": 1070200,
+    "icon": "1070200",
+    "name": "Scepter",
+    "limit_group": 0,
+    "type": 7,
+    "nation": 0,
+    "rarity": 3,
+    "skills": [],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          7,
+          8,
+          8,
+          9,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      },
+      {
+        "stat": "eva",
+        "values": [
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          9,
+          10
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1070220": {
+    "id": 1070220,
+    "icon": "1070200",
+    "name": "Scepter",
+    "limit_group": 0,
+    "type": 7,
+    "nation": 0,
+    "rarity": 4,
+    "skills": [
+      902060
+    ],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          17,
+          17,
+          18,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "random": 5
+      },
+      {
+        "stat": "eva",
+        "values": [
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          14,
+          15,
+          15,
+          16,
+          17
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1080100": {
+    "id": 1080100,
+    "icon": "1080100",
+    "name": "Dagger",
+    "limit_group": 0,
+    "type": 8,
+    "nation": 0,
+    "rarity": 3,
+    "skills": [],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "hit",
+        "values": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          3,
+          3,
+          4
+        ],
+        "random": 5
+      },
+      {
+        "stat": "eva",
+        "values": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          9
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1080120": {
+    "id": 1080120,
+    "icon": "1080100",
+    "name": "Dagger",
+    "limit_group": 0,
+    "type": 8,
+    "nation": 0,
+    "rarity": 4,
+    "skills": [
+      902070
+    ],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "hit",
+        "values": [
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          9,
+          10
+        ],
+        "random": 5
+      },
+      {
+        "stat": "eva",
+        "values": [
+          10,
+          11,
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          14,
+          15,
+          15
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1080200": {
+    "id": 1080200,
+    "icon": "1080200",
+    "name": "Kunai",
+    "limit_group": 0,
+    "type": 8,
+    "nation": 0,
+    "rarity": 3,
+    "skills": [],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          21
+        ],
+        "random": 5
+      },
+      {
+        "stat": "hit",
+        "values": [
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "1080220": {
+    "id": 1080220,
+    "icon": "1080200",
+    "name": "Kunai",
+    "limit_group": 0,
+    "type": 8,
+    "nation": 0,
+    "rarity": 4,
+    "skills": [
+      902080
+    ],
+    "max": 10,
+    "skill_upgrades": [],
+    "craftable": true,
+    "obtainable": true,
+    "important": false,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          35
+        ],
+        "random": 5
+      },
+      {
+        "stat": "hit",
+        "values": [
+          3,
+          3,
+          3,
+          3,
+          4,
+          4,
+          4,
+          4,
+          5,
+          5,
+          5
+        ],
+        "random": 3
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  }
+}

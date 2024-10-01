@@ -1,0 +1,665 @@
+{
+  "1": {
+    "room_id": 1,
+    "name": "Microwave Oven",
+    "description": "A microwave oven Sirius bought herself. Despite seeing heavy use, it somehow looks as pristine as the day it was purchased.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item5",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "2": {
+    "room_id": 1,
+    "name": "Coffee Machine",
+    "description": "Sirius uses this to make coffee every morning.The machine still has traces of her fingerprints on it.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 2,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item6",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "3": {
+    "room_id": 1,
+    "name": "Mary Janes",
+    "description": "The pair of shoes that Sirius wears all the time. They are loved and cared for, and thus the leather retains its soft luster.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 3,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item2",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 1
+  },
+  "4": {
+    "room_id": 1,
+    "name": "Wall-Mounted Photograph",
+    "description": "The subject is an orange tabby wearing a blue necktie. Behind the apparent sophistication lies a silly but cute appeal. It's safe to say the tenant likes this particular kind of cuteness.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 4,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item8",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "5": {
+    "room_id": 1,
+    "name": "Toaster",
+    "description": "A very practical machine for the novice at-home cook. Drop in some bread slices, push down, and soon you'll have hot, crispy toast. You can of course adjust how toasty you want it.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 5,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item9",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 1
+  },
+  "6": {
+    "room_id": 1,
+    "name": "Trash Can",
+    "description": "Also known as a \"rubbish bin\" in some parts of the world. You look and you look, but you can't find anything unusual about this wholly unremarkable waste receptacle.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 6,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item10",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 1
+  },
+  "7": {
+    "room_id": 1,
+    "name": "Blue Sky Picture Frame",
+    "description": "This frame doesn't have a proper photo in it yet. The placeholder image is just there to look more appealing than a plain beige background.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 7,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item17",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "8": {
+    "room_id": 1,
+    "name": "Preserved Butterfly",
+    "description": "The pattern on its wings reminds you of a wave washing up on a shore, and of Sirius sprinting across the sea, her hair fluttering in the wind. You should invite Sirius to go on a walk on the beach the next time you're free.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 8,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item12",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "9": {
+    "room_id": 1,
+    "name": "Floor Lamp",
+    "description": "A floor lamp standing just by the couch. Sirius graciously thought ahead and picked a bulb that wouldn't strain your eyes. You could see yourself working from here every now and then.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 9,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item15",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "10": {
+    "room_id": 1,
+    "name": "Bread Plate",
+    "description": "Two sandwiches and a croissant. Baked by Sirius, from the looks of it. Although they look and smell perfectly fine, you probably shouldn't taste them until Sirius urges you to.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 10,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item16",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 1
+  },
+  "11": {
+    "room_id": 1,
+    "name": "Recreational Reading",
+    "description": "A book lying on the table by the bed. Sirius has been reading this one quite a lot lately. After flipping through a few pages, you figure out that it's a story about a forbidden love between a maid and her master.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 11,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item25",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 1
+  },
+  "12": {
+    "room_id": 1,
+    "name": "Wine Glasses",
+    "description": "They're filled not with wine, but water. A perfect illustration of the kind of service Sirius provides. Although, drinking water from a wine glass with your pinky extended is a chore. You should tell her to get some regular glasses someday.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 12,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item14",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 1
+  },
+  "13": {
+    "room_id": 1,
+    "name": "Legendary Sword Replica",
+    "description": "A replica of the hero's sword from the smash hit port virtual reality RPG. The stand says, \"For Kitchen Adventures.\" It's no wonder why the one in Sirius' room feels so much heavier.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 13,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item11",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "14": {
+    "room_id": 1,
+    "name": "Flower Arrangement 1",
+    "description": "One of the fruits of Sirius' practicing of flower arrangement. While it isn't very varied in color, the flowers are distributed well. These would look better in a more open place.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 14,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item19",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "15": {
+    "room_id": 1,
+    "name": "Bedside Books",
+    "description": "A pile of books lying by the bedside. Surprisingly, they're not all about cooking - they cover subjects like military tactics and how to provide optimal service. Sirius' personal notes are layered between the books. Judging by their contents, she's diligently studying to become an even better maid.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 15,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item20",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 1
+  },
+  "16": {
+    "room_id": 1,
+    "name": "Dresser",
+    "description": "Sirius must have been in a rush to see you, because she forgot to put the cap back on her lipstick. Be kind and do it for her!",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 16,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item22",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "17": {
+    "room_id": 1,
+    "name": "Jewelry Case",
+    "description": "An expensive piece of jewelry. Sirius hasn't worn it even once, preferring to keep it nice and safe behind the glass.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 17,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item18",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "18": {
+    "room_id": 1,
+    "name": "Flower Arrangement 2",
+    "description": "A pair of pretty yellow roses. They bring a sunny mood to whatever table they find themselves atop. You start to wonder what flower is Sirius' favorite.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 18,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item26",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "19": {
+    "room_id": 1,
+    "name": "Mystery Novel",
+    "description": "A mystery book yet to be even opened. One can assume this genre isn't Sirius' cup of tea for the time being.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 19,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item28",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 1
+  },
+  "20": {
+    "room_id": 1,
+    "name": "Stuffed Shiba Inu",
+    "description": "It has writing on its stomach that reads, \"EXPERTLY CRAFTED BY AKASHI.\" Sirius is a regular patron of hers.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 20,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item29",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 1
+  },
+  "21": {
+    "room_id": 1,
+    "name": "A Summer Memory",
+    "description": "The float ring Sirius used when you went to the beach with her. It's placed in a very eye-catching location inside her home. Being a maid, she's hesitant to ask her master to go swimming with her for fear of making a faux pas. So instead, you should be the one to ask her.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 21,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item30",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "22": {
+    "room_id": 1,
+    "name": "Box of Books",
+    "description": "A storage box for regular workbooks. Sirius says the notepads outline her maidly work schedules. You see half-faded writing on the label on the cover. \"The Ways I Want to Be --------\" it says - half of the title has been almost completely erased.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 22,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item31",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "23": {
+    "room_id": 1,
+    "name": "Watering Pot",
+    "description": "A watering can keeps the potted plants and flowers around the room happy. This is not a watering can. It's very blatantly a teapot. You wonder what bizarre thinking led Sirius to start using this in place of a proper watering can.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 23,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item27",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "24": {
+    "room_id": 1,
+    "name": "Nightlight",
+    "description": "A nightlight with an endearing design.Sirius got it so she wouldn't trip and fall when she gets up at night.Its warm light reminds you of the warmth of her smile.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 24,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item32",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "25": {
+    "room_id": 1,
+    "name": "Sunglasses",
+    "description": "The pair of sunglasses Sirius brought with her to the beach.She leaves them where they're always in reach.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 25,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item33",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "26": {
+    "room_id": 1,
+    "name": "Body Lotion",
+    "description": "Sirius uses this body lotion after her baths.Sometimes, you can smell its faint aroma even from the door to her quarters.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 26,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item34",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "27": {
+    "room_id": 1,
+    "name": "Aroma Diffuser",
+    "description": "This diffuser exudes a mild floral scent. Sirius chose it with great care.The aroma supposedly relieves stress and helps the mind relax.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 27,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item35",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "28": {
+    "room_id": 1,
+    "name": "White Towel",
+    "description": "This white towel was haphazardly left here. It's still slightly moist to the touch.Maybe Sirius just got done in the bathroom? Who knows.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 28,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item36",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "29": {
+    "room_id": 1,
+    "name": "How to Win Your Commander's Heart - Volume 2",
+    "description": "A book Sirius left by her bedside.What is this book doing here?Also, they made TWO volumes of this?",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 29,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item37",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "30": {
+    "room_id": 1,
+    "name": "Half-Drunk Milk",
+    "description": "Half full, or half empty? Either way, it's sitting on the table and has faint lip markings along its rim.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 30,
+    "icon": "dorm3d/collection/3ddrom_tianlangxing_item38",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "31": {
+    "room_id": 4,
+    "name": "Splendid Sandcastle",
+    "description": "This sandcastle shines golden under the sun. Its builder put clear effort into everything down to the smallest details.You can readily picture just how much work was put into it.Here's hoping that the waves won't wash it away.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 31,
+    "icon": "dorm3d/collection/3ddrom_beach_item1",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "32": {
+    "room_id": 4,
+    "name": "Beach Tools",
+    "description": "A shovel and a bucket lying in the sand. Looks like someone was using them until just a minute ago.You think to yourself that maybe you should have a sandcastle-building contest next time you visit the beach with someone.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 32,
+    "icon": "dorm3d/collection/3ddrom_beach_item2",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "33": {
+    "room_id": 4,
+    "name": "Seabreeze Guitar",
+    "description": "A wooden guitar, forgotten and left behind by its own. Brine lingers inside its cavity, and it smells like the sea. Its notes sound almost like the lapping of waves on a beach.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 33,
+    "icon": "dorm3d/collection/3ddrom_beach_item3",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "34": {
+    "room_id": 4,
+    "name": "Half-Consumed Drink",
+    "description": "A partially drunk beverage. It's still cold, with drops of condensation gently running down its sides. Whoever this belonged to earlier, the beached has claimed it now.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 34,
+    "icon": "dorm3d/collection/3ddrom_beach_item4",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "35": {
+    "room_id": 4,
+    "name": "Surfboards",
+    "description": "These surfboards have been casually left here. Their many scratches whisper stories about past encounters with fierce waves. Maybe you should go surfing the next time you visit the beach with someone.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 35,
+    "icon": "dorm3d/collection/3ddrom_beach_item5",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "36": {
+    "room_id": 4,
+    "name": "Cooler",
+    "description": "A cute little cooler. Someone must have packed for some sort of party, because it's stuffed full of drinks and snacks. You can't help but wonder where its owner has gone.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 36,
+    "icon": "dorm3d/collection/3ddrom_beach_item6",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "37": {
+    "room_id": 4,
+    "name": "Inner Tubes",
+    "description": "Two inner tubes, one in blue and one in yellow, silently resting on the beach. While they look pretty old, they are still able to do their job perfectly well.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 37,
+    "icon": "dorm3d/collection/3ddrom_beach_item7",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "38": {
+    "room_id": 4,
+    "name": "Trash Can",
+    "description": "A trash can with a humble design. Remember: don't litter on the beach! Keeping it clean is just as important as keeping the oceans clean.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 38,
+    "icon": "dorm3d/collection/3ddrom_beach_item8",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "39": {
+    "room_id": 4,
+    "name": "Lantern",
+    "description": "A lantern with a simple design. When it gets dark at the beach, this can be a real lifesaver. It's all but begging to be brought along on a fantastical nightly stroll along the sea.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 39,
+    "icon": "dorm3d/collection/3ddrom_beach_item9",
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "time": 0
+  }
+}
