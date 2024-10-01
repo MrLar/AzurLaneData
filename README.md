@@ -12,14 +12,12 @@ before using this data.
 Unlike the actual source of the aforementioned projects, this data may be of use to
 others. This repository exists to encourage people to use this data to build
 APIs, Applets, Websites or other Azur Lane related programms. While this repository and the
-data in it has a clear focus in mind there is no harm in expanding it further
+data in it have a clear focus in mind there is no harm in expanding it further
 (Just ask if you need something not already covered!).
 
-Additionally, providing this data allows people who spot issues to either point them out.
-Opening PRs to fix them usually does not help, as the data is built using custom parser - which at the moment remain close sourced.
-
-It is also worth mentioning that even if this repository did not exist nearly all the data would be
-easily obtainable anyway, due to how efficiently serving JSON data through the web works.
+Additionally, providing this data allows people who spot issues to point them out.
+Do note that, opening PRs to fix them usually does not help,
+as the data is built using custom parser - which at the moment remain close sourced.
 
 # Documentation
 
