@@ -289,7 +289,6 @@ number represents an in-game item type (missing values do not exit in game):
 
 | Value |       Label        |                                Description                                 |
 | :---: | :----------------: | :------------------------------------------------------------------------: |
-|   0   |     Fake Item      |                 An item that does not actual exist in game                 |
 |   1   |      Special       |                               A special item                               |
 |   2   |      Resource      |                         A usually common resource                          |
 |   3   |     Dorm Food      |                           Food for the Dormitory                           |
@@ -305,7 +304,7 @@ number represents an in-game item type (missing values do not exit in game):
 |  13   | Universal Selector |       Any form of Universal Selector item (except Gear Lab & Skins)        |
 |  14   |        N/A         |                             Does not exist yet                             |
 |  15   |      Oil Box       |                          A box that contains oil                           |
-|  16   | Gear Lab Selector  |       Any form of Selector that gives Gear Lab Materials or Designs        |
+|  16   |   Gear Selector    |       Any form of Selector that gives Gear Lab Materials or Designs        |
 |  17   |      Gift Box      |                     Gift Box that may contain anything                     |
 |  18   |  Combat Data Pack  |                          PR Combat EXP Data Pack                           |
 |  19   |        HELP        |                  High-Efficiency (Combat) Logistics Plan                   |
@@ -386,6 +385,7 @@ Represents a single research in the game. Has the following properties:
 |    **time**     |                 `number`                 |                                                        Time this research takes in seconds                                                         |
 
 # Currency
+
 Currency refers to the currency used by a shop. It provides:
 
 |   Property   |   Type    |                                                                   Description                                                                   |
@@ -394,3 +394,13 @@ Currency refers to the currency used by a shop. It provides:
 | **linkable** | `boolean` | Whether the currency item is linkable to a definition provided by this data set. If this prop is false there is no definition in this data set. |
 |   **icon**   | `string`  |                                The icon of the currency item. Available under `https://al.mrlar.dev/<icon>.png`.                                |
 |   **name**   | `string`  |                                                         The name of the currency item.                                                          |
+
+# Cruise Pass
+
+Cruise Pass refers to a single season of the in game Battle Pass:
+
+|    Property    |            Type            |        Description         |
+| :------------: | :------------------------: | :------------------------: |
+|   **season**   |          `number`          |   The season of the pass   |
+| **free_items** | [`ItemDrop[]`](#item-drop) | All items in the free tier |
+| **paid_items** | [`ItemDrop[]`](#item-drop) | All items in the paid tier |

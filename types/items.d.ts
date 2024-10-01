@@ -51,7 +51,6 @@ export type ItemDropType =
 
 // this could be an enum, but TS enums add uneccesary overhead
 export type ItemType =
-0 | // fake item
 1 | // special
 2 | // resource
 3 | // dorm food
@@ -64,7 +63,7 @@ export type ItemType =
 12 | // blueprint
 13 | // universal selector
 15 | // oil box
-16 | // gear lab selector
+16 | // gear selector
 17 | // gift box
 18 | // combat data exp pack
 19 | // heclp

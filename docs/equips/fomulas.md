@@ -61,6 +61,7 @@ any given enhancement level can be computed as follows (\\(level\\) refers to th
 - Add either \\(0\\), \\(1\\) or \\(2\\) to the result (\\(RandomDmg\\)).
 - Evaluate \\(AfterMod = RandomDmg \times armorMod_{enemyArmor}\\).
   - \\(armorMod\\) refers to the property the [Weapon](../equips/index.md#weapon-base)
+  - \\(enemyArmor\\) refers to the armor index (L = 0, M = 1,  H= 2) of the enemy
 - The final result is the damage dealt by a *single* bullet without buffs.
 
 If the equipment is a plane you additionally need to compute \\(AAModifer = \frac{150}{(150 + enemyAA)}\\) and then multiply \\(AfterMod\\) with it. If the attacking CV is hidden the

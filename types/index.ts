@@ -9,6 +9,7 @@
 import augmentCosts from '../data/augment_cost.json'
 import augmentList from '../data/augments.json'
 import barrageList from '../data/barrages.json'
+import cruiseList from '../data/cruise_passes.json'
 import defaultEquipList from '../data/default_equips.json'
 import dorm3DCharacterList from '../data/dorm3d_characters.json'
 import dorm3DCollectableList from '../data/dorm3d_collectible.json'
@@ -36,6 +37,7 @@ import specialWeaponsList from '../data/special_weapons.json'
 import fleetTechGroupData from '../data/tech_groups.json'
 import type { AugmentCost, AugmentData } from './augments'
 import type { Barrage } from './barrages'
+import { type CruisePass } from './cruise_pass'
 import {
     type Dorm3DCharacter, type Dorm3DCollectable,
     type Dorm3DFurniture, type Dorm3DGift, type Dorm3DRoom
@@ -81,9 +83,10 @@ const dorm3DCharacters = dorm3DCharacterList as Record<number, Dorm3DCharacter |
 const dorm3DCollectable = dorm3DCollectableList as Record<number, Dorm3DCollectable | undefined>
 const dorm3DFurniture = dorm3DFurnitureList as Record<number, Dorm3DFurniture | undefined>
 const dorm3DGifts = dorm3DGiftList as Record<number, Dorm3DGift | undefined>
+const cruisePasses = cruiseList as Record<number, CruisePass | undefined>
 
 export {
-    augCost, augments, barrages, defaultEquip, dorm3DCharacters, dorm3DCollectable, dorm3DFurniture,
+    augCost, augments, barrages, cruisePasses, defaultEquip, dorm3DCharacters, dorm3DCollectable, dorm3DFurniture,
     dorm3DGifts, dorm3DRooms, equipCosts, equipDrops,
     equipments, gearSkins, items, labRecipes, maps, meowabilities,
     meowfficers, researches, retroCosts, shipDrops, ships, shops, skills,
