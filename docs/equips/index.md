@@ -8,7 +8,7 @@ All equipments/augments in the provided data share the following properties:
 
 |    Property     |                  Type                  |                                                                                                                                                 Description                                                                                                                                                 |
 | :-------------: | :------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    **icon**     |                `string`                |                                                                                                           The icon this equipment uses. Available under `https://al.mrlar.dev/equips/<icon>.png`.                                                                                                           |
+|    **icon**     |                `string`                |                                                                                                          The icon this equipment uses. Available under `https://al.mrlar.dev/equips/<icon>.webp`.                                                                                                           |
 |     **id**      |                `number`                |                                                                                                           The (base) ID of this equipment (these may not line up with the ID shown on the wiki).                                                                                                            |
 |    **name**     |                `string`                |                                                                                                                                          Names this equipment has.                                                                                                                                          |
 |   **rarity**    |    [`Rarity`](../common.md#rarity)     |                                                                                                                                        The rarity of this equipment.                                                                                                                                        |
@@ -135,13 +135,13 @@ Represents a single recipe inside Gear Lab. It provides the following:
 # Gear Skin
 Represents a single gear skin of the game. Provides the following:
 
-|    Property     |                      Type                      |                                               Description                                                |
-| :-------------: | :--------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
-|     **id**      |                    `number`                    |                                             The gear skin ID                                             |
-|    **name**     |                    `string`                    |                                            Name of the skin.                                             |
-|    **icon**     |                    `string`                    | Icon this skin uses lower cased. Available under `https://al.mrlar.dev/<equips or augments>/<icon>.png`. |
-| **description** |                    `string`                    |                                         Description of the skin.                                         |
-|    **types**    | [`EquipmentType`](../common.md#equipment-type) |                                  Equipment types this skin works with.                                   |
-|   **rarity**    |              [`Rarity`](#rarity)               |                                             The skin rarity.                                             |
-|    **theme**    |                    `string`                    |                                         Name of the skin theme.                                          |
-|   **servers**   |            [`AlServer`](#al-server)            |                                       Servers this item exists on.                                       |
+|    Property     |                      Type                      |                                                Description                                                |
+| :-------------: | :--------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
+|     **id**      |                    `number`                    |                                             The gear skin ID                                              |
+|    **name**     |                    `string`                    |                                             Name of the skin.                                             |
+|    **icon**     |                    `string`                    | Icon this skin uses lower cased. Available under `https://al.mrlar.dev/<equips or augments>/<icon>.webp`. |
+| **description** |                    `string`                    |                                         Description of the skin.                                          |
+|    **types**    | [`EquipmentType`](../common.md#equipment-type) |                                   Equipment types this skin works with.                                   |
+|   **rarity**    |              [`Rarity`](#rarity)               |                                             The skin rarity.                                              |
+|    **theme**    |                    `string`                    |                                          Name of the skin theme.                                          |
+|   **servers**   |            [`AlServer`](#al-server)            |                                       Servers this item exists on.                                        |

@@ -275,7 +275,7 @@ Represents the relevant data of a single item. Provides the following:
 | :-------------: | :------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
 |     **id**      |          `number`          |                                                                      The item ID                                                                      |
 |    **name**     |          `string`          |                                                                   Name of the item                                                                    |
-|    **icon**     |          `string`          |                                 Icon this item uses (lower cased). Available under `https://al.mrlar.dev/<icon>.png`.                                 |
+|    **icon**     |          `string`          |                                Icon this item uses (lower cased). Available under `https://al.mrlar.dev/<icon>.webp`.                                 |
 | **description** |          `string`          |                                                                Description of the item                                                                |
 |    **type**     |  [`ItemType`](#item-type)  |                                                    The Item Type. Not all types are actually used                                                     |
 |   **rarity**    |    [`Rarity`](#rarity)     |                                                                    The item rarity                                                                    |
@@ -326,17 +326,17 @@ number represents an in-game item type (missing values do not exit in game):
 Item drop represens all relevant data for an item/equip/etc. being dropped from
 various sources. It provides the following:
 
-|   Property    |               Type                |                                                                                                    Description                                                                                                     |
-| :-----------: | :-------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    **id**     |             `number`              |                                                                 The relevant ID. What exactly it points to is determined by `type` and `linkable`                                                                  |
-|   **type**    | [`ItemDropType`](#item-drop-type) |                                                                           The type of item being dropped. Determines where ID points to                                                                            |
-| **linkable**  |             `boolean`             |                                       Whether the item is linkable to a definition provided by this data set. If this prop is false there is no definition in this data set                                        |
-|  **rarity**   |        [`Rarity`](#rarity)        |                                                                                        The rarity of the item being dropped                                                                                        |
-|  **amount**   |             `number`              |                                          Amount of the item to be dropped. An amount of `-1` indicates that the amount is "random" (server side) and cannot be datamined                                           |
-| **blueprint** |             `boolean`             |                                                                  Whether the item is being dropped as a blueprint. Only relevant if `type` is `1`                                                                  |
-|   **icon**    |             `string`              | The icon of the item being dropped (lower cased). Available under `https://al.mrlar.dev/<icon>.png` if it does not start with `ships/`, otherwise Available under `https://als.mrlar.dev/<icon w/o "ships/">.png`. |
-|   **name**    |             `string`              |                                                                                     The display name of the item being dropped                                                                                     |
-|  **level**?   |             `number`              |                                                               **(Optional)** Level of the item being dropped. Only relevant for equips and augments                                                                |
+|   Property    |               Type                |                                                                                                     Description                                                                                                      |
+| :-----------: | :-------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    **id**     |             `number`              |                                                                  The relevant ID. What exactly it points to is determined by `type` and `linkable`                                                                   |
+|   **type**    | [`ItemDropType`](#item-drop-type) |                                                                            The type of item being dropped. Determines where ID points to                                                                             |
+| **linkable**  |             `boolean`             |                                        Whether the item is linkable to a definition provided by this data set. If this prop is false there is no definition in this data set                                         |
+|  **rarity**   |        [`Rarity`](#rarity)        |                                                                                         The rarity of the item being dropped                                                                                         |
+|  **amount**   |             `number`              |                                           Amount of the item to be dropped. An amount of `-1` indicates that the amount is "random" (server side) and cannot be datamined                                            |
+| **blueprint** |             `boolean`             |                                                                   Whether the item is being dropped as a blueprint. Only relevant if `type` is `1`                                                                   |
+|   **icon**    |             `string`              | The icon of the item being dropped (lower cased). Available under `https://al.mrlar.dev/<icon>.webp` if it does not start with `ships/`, otherwise Available under `https://als.mrlar.dev/<icon w/o "ships/">.webp`. |
+|   **name**    |             `string`              |                                                                                      The display name of the item being dropped                                                                                      |
+|  **level**?   |             `number`              |                                                                **(Optional)** Level of the item being dropped. Only relevant for equips and augments                                                                 |
 
 # Item Drop Type
 
@@ -368,21 +368,21 @@ number represents a type of commodity drop:
 Represents a single research in the game. Has the following properties:
 
 
-|    Property     |                   Type                   |                                                                    Description                                                                     |
-| :-------------: | :--------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: |
-|     **id**      |                 `number`                 |                                                                  The research ID                                                                   |
-|    **name**     |                 `string`                 |                                                              The name of the research                                                              |
-|  **sub_name**   |                 `string`                 |                                                            The sub-name of the research                                                            |
-| **description** |                 `string`                 |                                                          The description of the research                                                           |
-|   **rarity**    |           [`Rarity`](#rarity)            | The rarity of the research. Available under `https://al.mrlar.dev/tech/<rarity name>.png`. See [here](./index.md#icons) for rarity icon name docs. |
-|    **label**    |                 `string`                 |                               The label this research uses. Available under `https://al.mrlar.dev/tech/<icon>.png`.                                |
-|  **label_bg**   |                 `string`                 |                          The label background this research uses. Available under `https://al.mrlar.dev/tech/<icon>.png`.                          |
-|  **condition**  | `string`       \|                 `null` |                                            Textual explantion of conditions that need to be met if any                                             |
-|   **version**   |                 `number`                 |                            PR version of this research. Available under `https://al.mrlar.dev/tech/version_<icon>.png`.                            |
-|     **bg**      |                 `string`                 |                         The (small) background this research uses. Available under `https://al.mrlar.dev/tech/<icon>.png`.                         |
-|    **drops**    |        [`ItemDrop[]`](#item-drop)        |    List of drops displayed on the research card<br>Some of these can be unfolded into actual drops by looking for the actual item if `linkable`    |
-|   **consume**   |        [`ItemDrop[]`](#item-drop)        |                                                      List of items consumed by this research                                                       |
-|    **time**     |                 `number`                 |                                                        Time this research takes in seconds                                                         |
+|    Property     |                   Type                   |                                                                     Description                                                                     |
+| :-------------: | :--------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
+|     **id**      |                 `number`                 |                                                                   The research ID                                                                   |
+|    **name**     |                 `string`                 |                                                              The name of the research                                                               |
+|  **sub_name**   |                 `string`                 |                                                            The sub-name of the research                                                             |
+| **description** |                 `string`                 |                                                           The description of the research                                                           |
+|   **rarity**    |           [`Rarity`](#rarity)            | The rarity of the research. Available under `https://al.mrlar.dev/tech/<rarity name>.webp`. See [here](./index.md#icons) for rarity icon name docs. |
+|    **label**    |                 `string`                 |                               The label this research uses. Available under `https://al.mrlar.dev/tech/<icon>.webp`.                                |
+|  **label_bg**   |                 `string`                 |                          The label background this research uses. Available under `https://al.mrlar.dev/tech/<icon>.webp`.                          |
+|  **condition**  | `string`       \|                 `null` |                                             Textual explantion of conditions that need to be met if any                                             |
+|   **version**   |                 `number`                 |                            PR version of this research. Available under `https://al.mrlar.dev/tech/version_<icon>.webp`.                            |
+|     **bg**      |                 `string`                 |                         The (small) background this research uses. Available under `https://al.mrlar.dev/tech/<icon>.webp`.                         |
+|    **drops**    |        [`ItemDrop[]`](#item-drop)        |    List of drops displayed on the research card<br>Some of these can be unfolded into actual drops by looking for the actual item if `linkable`     |
+|   **consume**   |        [`ItemDrop[]`](#item-drop)        |                                                       List of items consumed by this research                                                       |
+|    **time**     |                 `number`                 |                                                         Time this research takes in seconds                                                         |
 
 # Currency
 
@@ -392,7 +392,7 @@ Currency refers to the currency used by a shop. It provides:
 | :----------: | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
 |    **id**    | `number`  |                                                              The currency item ID.                                                              |
 | **linkable** | `boolean` | Whether the currency item is linkable to a definition provided by this data set. If this prop is false there is no definition in this data set. |
-|   **icon**   | `string`  |                                The icon of the currency item. Available under `https://al.mrlar.dev/<icon>.png`.                                |
+|   **icon**   | `string`  |                               The icon of the currency item. Available under `https://al.mrlar.dev/<icon>.webp`.                                |
 |   **name**   | `string`  |                                                         The name of the currency item.                                                          |
 
 # Cruise Pass

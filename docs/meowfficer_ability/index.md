@@ -6,16 +6,16 @@ title: Meowfficer Ability Documentation
 
 Represents an ability (Talent) a Meowofficer can have. Provides one of the following:
 
-|     Property     |                  Type                  |                                                 Description                                                  |
-| :--------------: | :------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-|    **icons**     |               `string[]`               | The icon to use for each level lower cased.  Available under `https://al.mrlar.dev/meow/ability/<icon>.png`. |
-|    **names**     |                `string`                |                                      Names for each level this Ability.                                      |
-| **descriptions** |                `string`                |                                   Description for each level this Ability.                                   |
-|    **effect**    | [`MeowEffect`](#meow-effect) \| `null` |                       The affect this ability has in battle if any worthwhile effect.                        |
-|      **id**      |                `number`                |                                          (Base) ID of the Ability.                                           |
-|     **max**      |                `number`                |                                        The max level of this Ability.                                        |
-|  **obtainable**  |               `boolean`                |                                 Whether this ability is possible to obtain.                                  |
-|   **servers**    | [`AlServer[]`](../common.md#al-server) |                     List of servers this Ability is (or at any point was) obtainable on.                     |
+|     Property     |                  Type                  |                                                  Description                                                  |
+| :--------------: | :------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+|    **icons**     |               `string[]`               | The icon to use for each level lower cased.  Available under `https://al.mrlar.dev/meow/ability/<icon>.webp`. |
+|    **names**     |                `string`                |                                      Names for each level this Ability.                                       |
+| **descriptions** |                `string`                |                                   Description for each level this Ability.                                    |
+|    **effect**    | [`MeowEffect`](#meow-effect) \| `null` |                        The affect this ability has in battle if any worthwhile effect.                        |
+|      **id**      |                `number`                |                                           (Base) ID of the Ability.                                           |
+|     **max**      |                `number`                |                                        The max level of this Ability.                                         |
+|  **obtainable**  |               `boolean`                |                                  Whether this ability is possible to obtain.                                  |
+|   **servers**    | [`AlServer[]`](../common.md#al-server) |                     List of servers this Ability is (or at any point was) obtainable on.                      |
 
 # Meow Effect
 

@@ -29,7 +29,7 @@ Represents a boss enemy. Provides the following properties:
 | **offense_boost**  |            `number`             |                             Enemy offensive boost value during operation siren. Always `0` if `opsi` is `false`.                              |
 | **survival_boost** |            `number`             |                              Enemy survival boost value during operation siren. Always `0` if `opsi` is `false`.                              |
 | **tactics_boost**  |            `number`             |                              Enemy tactics boost value during operation siren. Always `0` if `opsi` is `false`.                               |
-|      **icon**      |            `string`             |                       The icon the enemy uses lower cased. Available under `https://als.mrlar.dev/compact/<icon>.png`.                        |
+|      **icon**      |            `string`             |                       The icon the enemy uses lower cased. Available under `https://als.mrlar.dev/compact/<icon>.webp`.                       |
 
 # Boss Buff
 

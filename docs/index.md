@@ -84,25 +84,25 @@ All icons referenced by this data are also availabe on CDNs hosted by Cloudflare
 Please refer to the documentation of each individual icon prop on where to find them, for
 global things refer to the below list:
 
-- All nations are available under `https://al.mrlar.dev/icons/nation/<nation>.png`.    
-- Some ammo icons are available under `https://al.mrlar.dev/icons/ammo/<nation>.png`.    
-- Equipment Labels are available under `https://al.mrlar.dev/icons/equiplabel/<label id>.png`.
+- All nations are available under `https://al.mrlar.dev/icons/nation/<nation>.webp`.    
+- Some ammo icons are available under `https://al.mrlar.dev/icons/ammo/<nation>.webp`.    
+- Equipment Labels are available under `https://al.mrlar.dev/icons/equiplabel/<label id>.webp`.
   - Note that label id does not equal equipment type neccesarily.   
--  All hulls are available under `https://al.mrlar.dev/icons/hulls/<hull>.png`. 
--  All ship stats are available under `https://al.mrlar.dev/icons/stats/<stat>.png`. 
--  All equip tech nums are available under `https://al.mrlar.dev/icons/num/<num>.png`. 
--  All default equip icons are available under `https://al.mrlar.dev/defaults/<icon>.png`. 
+-  All hulls are available under `https://al.mrlar.dev/icons/hulls/<hull>.webp`. 
+-  All ship stats are available under `https://al.mrlar.dev/icons/stats/<stat>.webp`. 
+-  All equip tech nums are available under `https://al.mrlar.dev/icons/num/<num>.webp`. 
+-  All default equip icons are available under `https://al.mrlar.dev/defaults/<icon>.webp`. 
 -  Background, frames and icons for rarities follow the following:
    - They use the name of the rarity: `common`, `elite`, `rare`, `sr`, `ur`, `pr` and `dr`
-   - Large equip backgrounds are under `https://al.mrlar.dev/rarity/background/equip/<name>.png`
-   - Small equip and item backgrounds are under `https://al.mrlar.dev/rarity/background/other/<name>.png`
-   - Shipyard backgrounds are under `https://al.mrlar.dev/rarity/background/ship/<name>.png`
-   - Dorm3D item backgrouns are under `https://al.mrlar.dev/rarity/frame/dorm3d/<name>.png`
+   - Large equip backgrounds are under `https://al.mrlar.dev/rarity/background/equip/<name>.webp`
+   - Small equip and item backgrounds are under `https://al.mrlar.dev/rarity/background/other/<name>.webp`
+   - Shipyard backgrounds are under `https://al.mrlar.dev/rarity/background/ship/<name>.webp`
+   - Dorm3D item backgrouns are under `https://al.mrlar.dev/rarity/frame/dorm3d/<name>.webp`
      - Dorm3D items have no frame
-   - Small equip and item frames are under `https://al.mrlar.dev/rarity/frame/other/<name>.png`
-   - Shipyard frames are under `https://al.mrlar.dev/rarity/frame/ship/<name>.png`
-   - Rarity icons are under `https://al.mrlar.dev/rarity/icon/<name>.png`
-   - Research backgrounds are under `https://al.mrlar.dev/tech/<name>.png`
+   - Small equip and item frames are under `https://al.mrlar.dev/rarity/frame/other/<name>.webp`
+   - Shipyard frames are under `https://al.mrlar.dev/rarity/frame/ship/<name>.webp`
+   - Rarity icons are under `https://al.mrlar.dev/rarity/icon/<name>.webp`
+   - Research backgrounds are under `https://al.mrlar.dev/tech/<name>.webp`
 
 There are a few other undocumented icons. However, they are for the most part not relevant for this data.
 

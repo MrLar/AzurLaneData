@@ -16,7 +16,7 @@ Dorm3D Room represents the data associated with a room/location in the Dorm3D fe
 |   **memories**   |             `number[]`             | List of memory IDs available in this location.<br>**At the moment these are useless as the data does not provide memories yet**. |
 |   **servers**    |      [`AlServer`](#al-server)      |                                                   Servers this room exists on                                                    |
 | **collectables** |             `number[]`             |                     List of [`Dorm3DCollectable`](#dorm3d-collectable) item ids available in this location.                      |
-|    **icons**     |              `string`              |                             The icon of the room. Available under `https://al.mrlar.dev/<icon>.png`.                             |
+|    **icons**     |              `string`              |                            The icon of the room. Available under `https://al.mrlar.dev/<icon>.webp`.                             |
 
 # Dorm3D Invite
 
@@ -40,7 +40,7 @@ Dorm3D Character represents the data associated with character/ship that is avai
 |     **gid**      |            `number`             |                                     The group ID of the ship.                                     |
 |     **name**     |            `string`             |                                    The name of the character.                                     |
 |   **room_id**    |            `number`             |                                   The ID of their private room.                                   |
-|     **icon**     |            `string`             |          The icon of the character. . Available under `https://al.mrlar.dev/<icon>.png`.          |
+|     **icon**     |            `string`             |         The icon of the character. . Available under `https://al.mrlar.dev/<icon>.webp`.          |
 |   **servers**    |    [`AlServer`](#al-server)     |                                 Servers this character exists on                                  |
 |    **gifts**     |           `number[]`            |        List of [`Dorm3DGift`](#dorm3d-gift) item ids that can be given to this character.         |
 |  **furniture**   |           `number[]`            | List of [`Dorm3DFurniture`](#dorm3d-furniture) item ids that can be placed in their private room. |
