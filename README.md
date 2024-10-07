@@ -36,15 +36,6 @@ from the game assets of Azur Lane and the 3 entities named above therefore reser
 down this project
 at any time.
 
-## Riceist
-
-All the data for [barrages](data/barrages.json) comes the datamining done by Riceist. This data is (
-at the time of
-writing) publicly available
-on [their wiki page](https://azurlane.koumakan.jp/wiki/User:Riceist/BarrageDatamine).
-
-For context, I cannot be bothered to parse this data myself.
-
 # License
 
 This data is provided under the [MIT license](LICENSE.md). However, on top of following the license

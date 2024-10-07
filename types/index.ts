@@ -8,7 +8,6 @@
 
 import augmentCosts from '../data/augment_cost.json'
 import augmentList from '../data/augments.json'
-import barrageList from '../data/barrages.json'
 import cruiseList from '../data/cruise_passes.json'
 import defaultEquipList from '../data/default_equips.json'
 import dorm3DCharacterList from '../data/dorm3d_characters.json'
@@ -36,7 +35,6 @@ import skinList from '../data/skins.json'
 import specialWeaponsList from '../data/special_weapons.json'
 import fleetTechGroupData from '../data/tech_groups.json'
 import type { AugmentCost, AugmentData } from './augments'
-import type { Barrage } from './barrages'
 import { type CruisePass } from './cruise_pass'
 import {
     type Dorm3DCharacter, type Dorm3DCollectable,
@@ -63,7 +61,6 @@ const meowabilities = abilityList as Record<number, MeowfficerAbility | undefine
 const meowfficers = meowList as Record<number, MeowfficerData | undefined>
 const skills = skillList as Record<number, SkillData | undefined>
 const skins = skinList as Record<number, SkinInfo | undefined>
-const barrages = barrageList as Record<number, Barrage[] | undefined>
 const maps = mapList as Record<string, MapData | undefined>
 const defaultEquip = defaultEquipList as Record<number, EquipmentData | undefined>
 const shipDrops = shipDropList as Record<number, ShipDropData | undefined>
@@ -86,7 +83,7 @@ const dorm3DGifts = dorm3DGiftList as Record<number, Dorm3DGift | undefined>
 const cruisePasses = cruiseList as Record<number, CruisePass | undefined>
 
 export {
-    augCost, augments, barrages, cruisePasses, defaultEquip, dorm3DCharacters, dorm3DCollectable, dorm3DFurniture,
+    augCost, augments, cruisePasses, defaultEquip, dorm3DCharacters, dorm3DCollectable, dorm3DFurniture,
     dorm3DGifts, dorm3DRooms, equipCosts, equipDrops,
     equipments, gearSkins, items, labRecipes, maps, meowabilities,
     meowfficers, researches, retroCosts, shipDrops, ships, shops, skills,
