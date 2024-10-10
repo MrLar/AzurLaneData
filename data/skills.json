@@ -12894,7 +12894,7 @@
     ]
   },
   "13370": {
-    "description": "12s after the battle begins and $2 chance every 20s after that: summons an air wing that carries out a special $1 airstrike which {decreases your ships Hit Rate|Supposed to decrease enemy hit rate, however it is bugged.} by 30.0% for all enemies hit by it (this debuff will weaken over 4s until it is gone.) Special airstrike DMG is based on the skill's level.",
+    "description": "12s after the battle begins and $2 chance every 20s after that: summons an air wing that carries out a special $1 airstrike which decreases Hit Rate against your ships by 30.0% for all enemies hit by it (this debuff will weaken over 4s until it is gone.) Special airstrike DMG is based on the skill's level.",
     "opsi_description": null,
     "name": "Prayer for Love and Peace",
     "max": 10,
