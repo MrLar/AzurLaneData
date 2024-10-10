@@ -31,19 +31,16 @@ It provides the following:
 Line Condition is an object that provides conditions that need to be met in order for a voice
 line to be played. It consists of:
 
-|       Property       |                     Type                      |                                                          Description                                                           |
-| :------------------: | :-------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
-|      **oath?**       |                   `boolean`                   |                                       **(Optional)** Whether the ship needs to be oathed                                       |
-|    **affinity?**     |                   `number`                    |                                     **(Optional)** Affinity threshold that needs to be met                                     |
-|     **amount?**      |                   `number`                    |             **(Optional)** Amount of ships that need to match `ships`, `artists`, `hulls`, `nations` or `rarities`             |
-|      **ships?**      |                  `number[]`                   |                      **(Optional)** List of [`Ship IDs`](./index.md) of which `amount` need to be present                      |
-|     **artists?**     |                  `number[]`                   | **(Optional)** List of Artist IDs. In this case `amount` refers to how many ships need to be designed by one of these artists. |
-|      **hulls?**      |         [`Hull[]`](../common.md#hull)         |  **(Optional)** List of ship hulls. In this case `amount` refers to how many times that hull has to be present in the fleet.   |
-|     **nations?**     |       [`Nation[]`](../common.md#nation)       |   **(Optional)** List of nations. In this case `amount` refers to how many times that nation has to be present in the fleet.   |
-|    **rarities?**     |       [`Rarity[]`](../common.md#rarity)       |  **(Optional)** List of rarities. In this case `amount` refers to how many times that rarity has to be present in the fleet.   |
-|      **type?**       | [`FleetRowType`](../common.md#fleet-row-type) |                                      **(Optional)** What row to restrict the filters to.                                       |
-|   **impossible?**    |                   `boolean`                   |                             **(Optional)** Whether this line is *currently* impossible to trigger.                             |
-| **blacklist_ships?** |                   `boolean`                   |                                    **(Optional)** Whether to treat `ships` as an exclusion.                                    |
-|  **include_meta?**   |                   `boolean`                   |                      **(Optional)** Whether to include meta ships whose original versions match `nation`.                      |
+|    Property     |               Type                |                                                          Description                                                           |
+| :-------------: | :-------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
+|    **oath?**    |             `boolean`             |                                       **(Optional)** Whether the ship needs to be oathed                                       |
+|  **affinity?**  |             `number`              |                                     **(Optional)** Affinity threshold that needs to be met                                     |
+|   **amount?**   |             `number`              |             **(Optional)** Amount of ships that need to match `ships`, `artists`, `hulls`, `nations` or `rarities`             |
+|   **ships?**    |            `number[]`             |                      **(Optional)** List of [`Ship IDs`](./index.md) of which `amount` need to be present                      |
+|  **artists?**   |            `number[]`             | **(Optional)** List of Artist IDs. In this case `amount` refers to how many ships need to be designed by one of these artists. |
+|   **hulls?**    |   [`Hull[]`](../common.md#hull)   |  **(Optional)** List of ship hulls. In this case `amount` refers to how many times that hull has to be present in the fleet.   |
+|  **nations?**   | [`Nation[]`](../common.md#nation) |   **(Optional)** List of nations. In this case `amount` refers to how many times that nation has to be present in the fleet.   |
+|  **rarities?**  | [`Rarity[]`](../common.md#rarity) |  **(Optional)** List of rarities. In this case `amount` refers to how many times that rarity has to be present in the fleet.   |
+| **impossible?** |             `boolean`             |                             **(Optional)** Whether this line is *currently* impossible to trigger.                             |
 
 In all these cases the ship the voice line belongs to does *not* count towards `amount`.

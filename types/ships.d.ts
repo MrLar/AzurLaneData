@@ -7,7 +7,8 @@
  */
 
 import type {
-    AlServer, EquipmentType, FleetRowType, Hull, Nation,
+    AlServer, EquipmentType,
+    Hull, Nation,
     Rarity, ScalableStatKey, ShipStatKey, SkillUpgradeData
 } from './common'
 import { type ItemStack } from './items'
@@ -229,8 +230,5 @@ export interface LineConditions {
     hulls?: Hull[]
     nations?: Nation[]
     rarities?: Rarity[]
-    type?: FleetRowType
     impossible?: boolean
-    blacklist_ships?: boolean
-    include_meta?: boolean
 }

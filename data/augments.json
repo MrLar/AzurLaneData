@@ -7924,6 +7924,138 @@
       "CN"
     ]
   },
+  "13360": {
+    "id": 13360,
+    "icon": "13360",
+    "name": "Victory Bell",
+    "limit_group": 64,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11000,
+        "with": 1011000
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [
+      "bb56sp"
+    ],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13380": {
+    "id": 13380,
+    "icon": "13380",
+    "name": "My Friends A and Y",
+    "limit_group": 87,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 4071,
+        "with": 1090320
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "1010100": {
     "id": 1010100,
     "icon": "1010100",

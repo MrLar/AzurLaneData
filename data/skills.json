@@ -53003,6 +53003,53 @@
       ]
     ]
   },
+  "1011000": {
+    "description": "Increases this ship's FP by $3. Every 20s: $1 chance to fire a $2 powerful barrage. 10s after the battle starts, and every 20s after that: fires a $2 arcing barrage; the activation chance for the powerful barrage increases by 30.0% and its power is increased if any of the targets hit by the arcing barrage meets one of the following conditions: \n1) The target hit is a BB or a BC;\n2) The target hit is sunk within 3s;\nThe DMG of both these barrages is based on the skill's level.",
+    "opsi_description": null,
+    "name": "Courageous Shelling+",
+    "max": 10,
+    "id": 1011000,
+    "type": 1,
+    "icon": 11000,
+    "values": [
+      [
+        "40.0%",
+        "43.3%",
+        "46.6%",
+        "49.9%",
+        "53.2%",
+        "56.5%",
+        "59.8%",
+        "63.1%",
+        "66.4%",
+        "70.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ]
+    ]
+  },
   "1011120": {
     "description": "Increases this ship's DMG dealt to BBs by $1 and decreases her volley DMG received by $1. Increases your CVs' and CVLs' DMG dealt to BBs by $2 and increases your Flagship's DMG dealt to BBs by 5.0%. When this ship's airstrike finishes loading: increases this ship's AVI by $3 (can be stacked up to 2 times).",
     "opsi_description": null,
@@ -55682,6 +55729,53 @@
         "Lv.8",
         "Lv.9",
         "Lv.10"
+      ]
+    ]
+  },
+  "1090320": {
+    "description": "Every 20s: $1 chance for this ship to evade all attacks for 6s. 3s after the battle starts, and every 15s: fires a $2 special barrage (DMG is based on the skill's level); when this barrage activates, increases this ship's FP and TRP by $3 until the battle ends (can be stacked up to 3 times).",
+    "opsi_description": null,
+    "name": "Emergency Maneuvers - Bulldog",
+    "max": 10,
+    "id": 1090320,
+    "type": 2,
+    "icon": 4070,
+    "values": [
+      [
+        "20.0%",
+        "22.2%",
+        "24.4%",
+        "26.6%",
+        "28.8%",
+        "31.0%",
+        "33.2%",
+        "35.4%",
+        "37.6%",
+        "40.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "1.0%",
+        "1.4%",
+        "1.8%",
+        "2.2%",
+        "2.6%",
+        "3.0%",
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%"
       ]
     ]
   }
