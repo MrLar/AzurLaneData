@@ -2587,7 +2587,7 @@
     "values": []
   },
   "6580": {
-    "description": "{10 seconds after the start of the battle: If Kashino is in the same fleet as a Yamato-class Battleship at max limit break, Kashino fires a special barrage.|Technically this is not a skill that Kashino has, but rather one Musashi and Shinano have. However because this skill makes Kashino fire a barrage it is shown on her instead.}",
+    "description": "{10 seconds after the start of the battle: If Kashino is in the same fleet as a Yamato-class Ship, Kashino fires a special barrage.|Technically this is not a skill that Kashino has, but rather one Musashi and Shinano have. However because this skill makes Kashino fire a barrage it is shown on her instead.}",
     "opsi_description": null,
     "name": "I've Brought Your Cannons!",
     "max": 1,
@@ -30498,7 +30498,7 @@
     ]
   },
   "18380": {
-    "description": "When this ship launches an airstrike: $1 chance to launch an additional $2 special airstrike+ (DMG increased; DMG is based on the skill's level).",
+    "description": "When this ship launches an airstrike: $1 chance to launch an additional $2 special airstrike+ (DMG increased; DMG is based on the skill's level; {Lightning strikes cause enemies hit to take 8% more DMG for 7s.|Not clearly stated by the game.}).",
     "opsi_description": null,
     "name": "Sky-Rending Retribution+",
     "max": 10,
@@ -32125,7 +32125,7 @@
     ]
   },
   "19380": {
-    "description": "When this ship launches an Airstrike: $1 chance to launch an additional special airstrike (DMG is based on the skill's level).",
+    "description": "When this ship launches an Airstrike: $1 chance to launch an additional special airstrike (DMG is based on the skill's level; {Lightning strikes cause enemies hit to take 8% more DMG for 7s.|Not clearly stated by the game.}).",
     "opsi_description": null,
     "name": "Sky-Rending Retribution",
     "max": 10,
