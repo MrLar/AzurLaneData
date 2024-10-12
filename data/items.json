@@ -34316,7 +34316,9 @@
     "type": 99,
     "icon": "props/55000",
     "rarity": 5,
-    "locations": [],
+    "locations": [
+      "Research (Series 1)"
+    ],
     "servers": [
       "EN",
       "JP",
@@ -34808,7 +34810,7 @@
     "icon": "props/55000",
     "rarity": 5,
     "locations": [
-      "Research (Series 1/2)"
+      "Research (Series 2)"
     ],
     "servers": [
       "EN",
@@ -35912,7 +35914,7 @@
     "id": 54004,
     "name": "T1 Mystery Skill Book",
     "description": "Chance to receive a random T1 skill book",
-    "type": 98,
+    "type": 99,
     "icon": "props/54001",
     "rarity": 3,
     "locations": [
@@ -35931,7 +35933,7 @@
     "id": 54005,
     "name": "T2 Mystery Skill Book",
     "description": "Chance to receive a random T2 skill book",
-    "type": 98,
+    "type": 99,
     "icon": "props/54002",
     "rarity": 4,
     "locations": [
@@ -35953,7 +35955,7 @@
     "id": 54006,
     "name": "T3 Mystery Skill Book",
     "description": "Chance to receive a random T3 skill book",
-    "type": 98,
+    "type": 99,
     "icon": "props/54003",
     "rarity": 5,
     "locations": [
@@ -35976,7 +35978,7 @@
     "id": 54007,
     "name": "T4 Mystery Skill Book",
     "description": "Chance to receive a random T4 skill book",
-    "type": 98,
+    "type": 99,
     "icon": "props/54004",
     "rarity": 6,
     "locations": [
@@ -36297,7 +36299,7 @@
     "id": 54031,
     "name": "Mystery T1 Tech Pack",
     "description": "Chance to receive a random T1 Tech Pack",
-    "type": 98,
+    "type": 99,
     "icon": "props/30001",
     "rarity": 2,
     "locations": [
@@ -36317,7 +36319,7 @@
     "id": 54032,
     "name": "Mystery T2 Tech Pack",
     "description": "Chance to receive a random T2 Tech Pack",
-    "type": 98,
+    "type": 99,
     "icon": "props/30002",
     "rarity": 3,
     "locations": [
@@ -36337,7 +36339,7 @@
     "id": 54033,
     "name": "Mystery T3 Tech Pack",
     "description": "Chance to receive a random T3 Tech Pack",
-    "type": 98,
+    "type": 99,
     "icon": "props/30003",
     "rarity": 4,
     "locations": [
@@ -36357,7 +36359,7 @@
     "id": 54034,
     "name": "Mystery T4 Tech Pack",
     "description": "Chance to receive a random T4 Tech Pack",
-    "type": 98,
+    "type": 99,
     "icon": "props/30004",
     "rarity": 5,
     "locations": [
@@ -36376,7 +36378,7 @@
     "id": 54035,
     "name": "Mystery T5 Tech Pack",
     "description": "Chance to receive a random T5 Tech Pack",
-    "type": 98,
+    "type": 99,
     "icon": "props/30005",
     "rarity": 6,
     "locations": [
@@ -36393,7 +36395,7 @@
     "id": 54049,
     "name": "T1 Mystery Retrofit Blueprint",
     "description": "Chance to receive a random T1 Retrofit Blueprint",
-    "type": 98,
+    "type": 99,
     "icon": "props/54031",
     "rarity": 3,
     "locations": [
@@ -36412,7 +36414,7 @@
     "id": 54050,
     "name": "T2 Mystery Retrofit Blueprint",
     "description": "Chance to receive a random T2 Retrofit Blueprint",
-    "type": 98,
+    "type": 99,
     "icon": "props/54032",
     "rarity": 4,
     "locations": [
@@ -36432,7 +36434,7 @@
     "id": 54051,
     "name": "T3 Mystery Retrofit Blueprint",
     "description": "Chance to receive a random T3 Retrofit Blueprint",
-    "type": 98,
+    "type": 99,
     "icon": "props/54033",
     "rarity": 5,
     "locations": [
