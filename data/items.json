@@ -27317,7 +27317,7 @@
       {
         "id": 54033,
         "type": 0,
-        "linkable": false,
+        "linkable": true,
         "rarity": 4,
         "amount": 2,
         "blueprint": false,
@@ -28049,7 +28049,7 @@
       {
         "id": 40126,
         "type": 0,
-        "linkable": false,
+        "linkable": true,
         "rarity": 5,
         "amount": 1,
         "blueprint": false,
@@ -30217,6 +30217,23 @@
       }
     ]
   },
+  "40126": {
+    "id": 40126,
+    "name": "Instant Commander Level 70",
+    "description": "This item will instantly raise your Commander Level to 70 upon purchase. Does nothing if your Commander Level is already at or above 70.",
+    "type": 1,
+    "icon": "props/lv_70",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "40127": {
     "id": 40127,
     "name": "Limited Build Supplies (Campaign)",
@@ -30776,7 +30793,7 @@
       {
         "id": 54006,
         "type": 0,
-        "linkable": false,
+        "linkable": true,
         "rarity": 5,
         "amount": 3,
         "blueprint": false,
@@ -30786,7 +30803,7 @@
       {
         "id": 54005,
         "type": 0,
-        "linkable": false,
+        "linkable": true,
         "rarity": 4,
         "amount": 9,
         "blueprint": false,
@@ -30796,7 +30813,7 @@
       {
         "id": 54050,
         "type": 0,
-        "linkable": false,
+        "linkable": true,
         "rarity": 4,
         "amount": 8,
         "blueprint": false,
@@ -30824,7 +30841,7 @@
       {
         "id": 54007,
         "type": 0,
-        "linkable": false,
+        "linkable": true,
         "rarity": 6,
         "amount": 3,
         "blueprint": false,
@@ -30834,7 +30851,7 @@
       {
         "id": 54006,
         "type": 0,
-        "linkable": false,
+        "linkable": true,
         "rarity": 5,
         "amount": 9,
         "blueprint": false,
@@ -30844,7 +30861,7 @@
       {
         "id": 54051,
         "type": 0,
-        "linkable": false,
+        "linkable": true,
         "rarity": 5,
         "amount": 8,
         "blueprint": false,
@@ -30882,7 +30899,7 @@
       {
         "id": 54034,
         "type": 0,
-        "linkable": false,
+        "linkable": true,
         "rarity": 5,
         "amount": 4,
         "blueprint": false,
@@ -30920,7 +30937,7 @@
       {
         "id": 54034,
         "type": 0,
-        "linkable": false,
+        "linkable": true,
         "rarity": 5,
         "amount": 8,
         "blueprint": false,
@@ -34292,6 +34309,132 @@
       }
     ]
   },
+  "52002": {
+    "id": 52002,
+    "name": "Random Gear Design (PR1)",
+    "description": "Chance to receive following designs",
+    "type": 99,
+    "icon": "props/55000",
+    "rarity": 5,
+    "locations": [],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 24340,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/24300",
+        "name": "Design for T0 Twin 381mm Advanced Main Gun Mount"
+      },
+      {
+        "id": 24160,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/24160",
+        "name": "Design for T0 Prototype Triple 381mm AA Gun"
+      },
+      {
+        "id": 34160,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/34100",
+        "name": "Design for T0 Twin 410mm (Type 3 Shell) Naval Gun Mount"
+      },
+      {
+        "id": 34180,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/34180",
+        "name": "Design for T0 Prototype Triple 410mm Main Gun Mount"
+      },
+      {
+        "id": 43060,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/43060",
+        "name": "Design for T0 Prototype Triple 203mm SK C/34 Main Gun Mount"
+      },
+      {
+        "id": 7300,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/7300",
+        "name": "Design for T0 Prototype Triple 203mm AA Gun"
+      },
+      {
+        "id": 22260,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/22260",
+        "name": "Design for T0 Prototype Triple 152mm Mk XXV Main Gun Mount"
+      },
+      {
+        "id": 26600,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/26600",
+        "name": "Design for T0 Twin 40mm Bofors STAAG"
+      },
+      {
+        "id": 36560,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/36560",
+        "name": "Design for T0 Twin 100mm Type 98 AA Gun Mount"
+      },
+      {
+        "id": 1160,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/1160",
+        "name": "Design for T0 High Performance Air Radar"
+      },
+      {
+        "id": 1760,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/1760",
+        "name": "Design for T0 High Performance Hydraulic Steering Gear"
+      }
+    ]
+  },
   "52003": {
     "id": 52003,
     "name": "Random Gear Design (T3)",
@@ -34659,7 +34802,7 @@
   },
   "52012": {
     "id": 52012,
-    "name": "Random Gear Design (PR1/2)",
+    "name": "Random Gear Design (PR2)",
     "description": "You can acquire a number of the following gear designs at random:",
     "type": 99,
     "icon": "props/55000",
@@ -35764,6 +35907,545 @@
         "name": "Design for T0 Twin 40mm Bofors \"Hazemeyer\" AA Gun Mount"
       }
     ]
+  },
+  "54004": {
+    "id": 54004,
+    "name": "T1 Mystery Skill Book",
+    "description": "Chance to receive a random T1 skill book",
+    "type": 98,
+    "icon": "props/54001",
+    "rarity": 3,
+    "locations": [
+      "Commisions",
+      "Advance Daily Raid (except Lv. 95)",
+      "Shop"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "54005": {
+    "id": 54005,
+    "name": "T2 Mystery Skill Book",
+    "description": "Chance to receive a random T2 skill book",
+    "type": 98,
+    "icon": "props/54002",
+    "rarity": 4,
+    "locations": [
+      "Commisions",
+      "Advance Daily Raid (Lv. 25+)",
+      "Shop",
+      "Guild Shop",
+      "Medal Shop",
+      "Converting T1 to T2"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "54006": {
+    "id": 54006,
+    "name": "T3 Mystery Skill Book",
+    "description": "Chance to receive a random T3 skill book",
+    "type": 98,
+    "icon": "props/54003",
+    "rarity": 5,
+    "locations": [
+      "Commisions",
+      "Advance Daily Raid (Lv. 50+)",
+      "Shop",
+      "Guild Shop",
+      "Medal Shop",
+      "Cruise Pass any Season",
+      "Converting T2 to T3"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "54007": {
+    "id": 54007,
+    "name": "T4 Mystery Skill Book",
+    "description": "Chance to receive a random T4 skill book",
+    "type": 98,
+    "icon": "props/54004",
+    "rarity": 6,
+    "locations": [
+      "Advance Daily Raid (Lv. 95+)",
+      "Cruise Pass any Season",
+      "OpSi Exchange Shop"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "54014": {
+    "id": 54014,
+    "name": "T1 Mystery Gear Part",
+    "description": "Chance to receive a random T1 gear part",
+    "type": 99,
+    "icon": "props/54011",
+    "rarity": 2,
+    "locations": [
+      "Comissions",
+      "Escort Raid (except Lv. 95)",
+      "Chapter 1 to 12",
+      "Event Maps",
+      "Shop",
+      "Medal Shop"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 17001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17001",
+        "name": "T1 General Part"
+      },
+      {
+        "id": 17011,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17011",
+        "name": "T1 Main Gun Part"
+      },
+      {
+        "id": 17021,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17021",
+        "name": "T1 Torpedo Part"
+      },
+      {
+        "id": 17031,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17031",
+        "name": "T1 Anti-Air Gun Part"
+      },
+      {
+        "id": 17041,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17041",
+        "name": "T1 Aircraft Part"
+      }
+    ]
+  },
+  "54015": {
+    "id": 54015,
+    "name": "T2 Mystery Gear Part",
+    "description": "Chance to receive a random T2 gear part",
+    "type": 99,
+    "icon": "props/54012",
+    "rarity": 3,
+    "locations": [
+      "Comissions",
+      "Daily Missions",
+      "Escort Raid (Lv. 25+)",
+      "Chapter 3+",
+      "Event Maps",
+      "Shop",
+      "Medal Shop",
+      "Guild Shop"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 17002,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17002",
+        "name": "T2 General Part"
+      },
+      {
+        "id": 17012,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17012",
+        "name": "T2 Main Gun Part"
+      },
+      {
+        "id": 17022,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17022",
+        "name": "T2 Torpedo Part"
+      },
+      {
+        "id": 17032,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17032",
+        "name": "T2 Anti-Air Gun Part"
+      },
+      {
+        "id": 17042,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17042",
+        "name": "T2 Aircraft Part"
+      }
+    ]
+  },
+  "54016": {
+    "id": 54016,
+    "name": "T3 Mystery Gear Part",
+    "description": "Chance to receive a random T3 gear part",
+    "type": 99,
+    "icon": "props/54013",
+    "rarity": 4,
+    "locations": [
+      "Comissions",
+      "Weekly Missions",
+      "Escort Raid (Lv. 50+)",
+      "Chapter 6+",
+      "Event Maps",
+      "Shop",
+      "Medal Shop",
+      "Guild Shop",
+      "Event Shops",
+      "Cruise Pass any Season"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 17003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17003",
+        "name": "T3 General Part"
+      },
+      {
+        "id": 17013,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17013",
+        "name": "T3 Main Gun Part"
+      },
+      {
+        "id": 17023,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17023",
+        "name": "T3 Torpedo Part"
+      },
+      {
+        "id": 17033,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17033",
+        "name": "T3 Anti-Air Gun Part"
+      },
+      {
+        "id": 17043,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17043",
+        "name": "T3 Aircraft Part"
+      }
+    ]
+  },
+  "54018": {
+    "id": 54018,
+    "name": "T4 Mystery Gear Part",
+    "description": "Chance to receive a random T4 gear part",
+    "type": 99,
+    "icon": "props/54014",
+    "rarity": 5,
+    "locations": [
+      "Comissions",
+      "Weekly Missions",
+      "Escort Raid (Lv. 95+)",
+      "Supply Line Raid (Lv.95+)",
+      "Guild Shop",
+      "Event Shops",
+      "Cruise Pass any Season",
+      "Guild Operations",
+      "OpSi Classified Loggers",
+      "OpSi Dailies"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 17004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17004",
+        "name": "T4 General Part"
+      },
+      {
+        "id": 17014,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17014",
+        "name": "T4 Main Gun Part"
+      },
+      {
+        "id": 17024,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17024",
+        "name": "T4 Torpedo Part"
+      },
+      {
+        "id": 17034,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17034",
+        "name": "T4 Anti-Air Gun Part"
+      },
+      {
+        "id": 17044,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17044",
+        "name": "T4 Aircraft Part"
+      }
+    ]
+  },
+  "54031": {
+    "id": 54031,
+    "name": "Mystery T1 Tech Pack",
+    "description": "Chance to receive a random T1 Tech Pack",
+    "type": 98,
+    "icon": "props/30001",
+    "rarity": 2,
+    "locations": [
+      "Maps",
+      "Guild Shop",
+      "Shop",
+      "Various Missions"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "54032": {
+    "id": 54032,
+    "name": "Mystery T2 Tech Pack",
+    "description": "Chance to receive a random T2 Tech Pack",
+    "type": 98,
+    "icon": "props/30002",
+    "rarity": 3,
+    "locations": [
+      "Maps",
+      "Guild Shop",
+      "Shop",
+      "Various Missions"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "54033": {
+    "id": 54033,
+    "name": "Mystery T3 Tech Pack",
+    "description": "Chance to receive a random T3 Tech Pack",
+    "type": 98,
+    "icon": "props/30003",
+    "rarity": 4,
+    "locations": [
+      "Maps",
+      "Guild Shop",
+      "Shop",
+      "Various Missions"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "54034": {
+    "id": 54034,
+    "name": "Mystery T4 Tech Pack",
+    "description": "Chance to receive a random T4 Tech Pack",
+    "type": 98,
+    "icon": "props/30004",
+    "rarity": 5,
+    "locations": [
+      "Maps",
+      "Guild Shop",
+      "Shop"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "54035": {
+    "id": 54035,
+    "name": "Mystery T5 Tech Pack",
+    "description": "Chance to receive a random T5 Tech Pack",
+    "type": 98,
+    "icon": "props/30005",
+    "rarity": 6,
+    "locations": [
+      "Various Missions"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "54049": {
+    "id": 54049,
+    "name": "T1 Mystery Retrofit Blueprint",
+    "description": "Chance to receive a random T1 Retrofit Blueprint",
+    "type": 98,
+    "icon": "props/54031",
+    "rarity": 3,
+    "locations": [
+      "Hard Mode",
+      "Comissions",
+      "Medal Shop"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "54050": {
+    "id": 54050,
+    "name": "T2 Mystery Retrofit Blueprint",
+    "description": "Chance to receive a random T2 Retrofit Blueprint",
+    "type": 98,
+    "icon": "props/54032",
+    "rarity": 4,
+    "locations": [
+      "Hard Mode",
+      "Medal Shop",
+      "Guild Shop",
+      "Converting T1 to T2"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "54051": {
+    "id": 54051,
+    "name": "T3 Mystery Retrofit Blueprint",
+    "description": "Chance to receive a random T3 Retrofit Blueprint",
+    "type": 98,
+    "icon": "props/54033",
+    "rarity": 5,
+    "locations": [
+      "Hard Mode (Chapter 3+)",
+      "Medal Shop",
+      "Guild Shop"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
   },
   "59000": {
     "id": 59000,
