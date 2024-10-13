@@ -14,6 +14,7 @@ Structure for a boss fight in the game. Contains the following properties:
 |  **opsi**   |               `boolean`                |                                  Whether the fight is considered and operation siren fight.                                  |
 | **servers** | [`AlServer[]`](../common.md#al-server) |                              List of servers this fight is (or at any point was) available in.                               |
 |  **buffs**  |        [`BossBuff`](#boss-buff)        |                                           Buffs that are active during this fight.                                           |
+|  **type**   |         [`MapType`](#map-type)         |                                                    The type of map/fight.                                                    |
 
 # Boss Data
 
@@ -40,3 +41,23 @@ Represents a buff active during a boss fight. Provides the following:
 |  **key**   | [`BuffStatKey`](../common.md#buff-stat-keys) |                                 Stat to affect.                                  |
 | **amount** |                   `number`                   |          (Percentage) amount to increase (or descrease if negative) by.          |
 |  **self**  |                  `boolean`                   | Whether the boss affects itself. If false the players fleet is affected instead. |
+
+# Map Type
+Map Type is a numeric value with the range `[1, 14]` where each number represents a type of map:
+
+| Value |      Label      |             Description             |
+| :---: | :-------------: | :---------------------------------: |
+|   1   |     Normal      |      Normal Mode Campaign Map       |
+|   2   |      Hard       |       Hard Mode Campaign Map        |
+|   3   |  Event Nomral   |        Normal Mode Event Map        |
+|   4   |   Event Hard    |         Hard Mode Event Map         |
+|   5   |    Event SP     |            Event SP Map             |
+|   6   |    Event EX     |            Event EX Map             |
+|   7   |  Event Special  |          Special Event Map          |
+|   8   |    Event TP     |            Event TP Map             |
+|   9   |      META       |            META Showdown            |
+|  10   |      Guild      |           Guild Operation           |
+|  11   |      OpSi       |        Operation Siren Fight        |
+|  12   |  Extreme: Easy  |  Extreme Challenge Easy Difficulty  |
+|  13   | Extreme: Medium | Extreme Challenge Medium Difficulty |
+|  14   |  Extreme: Hard  |  Extreme Challenge Hard Difficulty  |

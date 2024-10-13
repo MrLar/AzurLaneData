@@ -14,6 +14,7 @@ export interface MapData {
     boss: BossData
     opsi: boolean
     buffs: BossBuff[]
+    type: MapType
 }
 
 interface BossBuff {
@@ -21,6 +22,22 @@ interface BossBuff {
     amount: number
     self: boolean
 }
+
+type MapType =
+1 | // Normal
+2 | // Hard
+3 | // Event Normal
+4 | // Event Hard
+5 | // Event SP
+6 | // Event EX
+7 | // Event Special Stage
+8 | // Event TP
+9 | // META
+10 | // Guild
+11 | // OpSi
+12 | // Extreme Challenge Easy
+13 | // Extreme Challenge Medium
+14 // Extreme Challenge Hard
 
 type EnemyStatKey = 'hp' | 'fp' | 'trp' | 'avi' | 'aa' | 'hit' | 'eva' | 'spd' | 'luck' | 'armor'
 
