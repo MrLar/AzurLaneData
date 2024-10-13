@@ -48,6 +48,7 @@ export interface ShipData {
     aliases?: string[]
     class: string | null
     upgrade_text: UpgradeText[]
+    oath_skin?: boolean
 }
 
 export interface UpgradeText {

@@ -40,6 +40,7 @@ properties:
 |       **aliases?**       |                   `string[]`                    |                                                              **(Optional)** List of all known community aliases this ship has.                                                               |
 |        **class**         |               `string` \| `null`                |                                                   Historical/Logical ship class of this ship. This is null for all Collab and meta ships.                                                    |
 |     **upgrade_text**     | [`UpgradeText[]`](./limitbreak.md#upgrade-text) |                                               Text description of what is unlocked at each limit break or development level (for PR/DR ships).                                               |
+|      **oath_skin**       |                    `boolean`                    |                                                          **(Optional)** Whether this ship has an oath skin, treat absent as false.                                                           |
 
 
 ## Ship Type
