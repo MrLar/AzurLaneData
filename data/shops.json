@@ -1373,6 +1373,18 @@
             "name": "Torricelli",
             "limit": -1,
             "cost": -1
+          },
+          {
+            "id": 528,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/u1206",
+            "name": "U-1206",
+            "limit": -1,
+            "cost": -1
           }
         ]
       },
