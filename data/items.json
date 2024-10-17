@@ -37068,6 +37068,44 @@
       }
     ]
   },
+  "59554": {
+    "id": 59554,
+    "name": "Outfit Selection Voucher (Ulrich von Hutten)",
+    "description": "Can be used from your Depot to select 1 skin of your choosing.\n(You may only choose from the skins presented. If you already own all the skins, you will instead receive a Skin Voucher.)",
+    "type": 26,
+    "icon": "props/skin_exchange_huteng",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 405031,
+        "type": 3,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "ships/compact/wuerlixi_2",
+        "name": "Mayhem Maid"
+      },
+      {
+        "id": 405032,
+        "type": 3,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "ships/compact/wuerlixi_3",
+        "name": "Ignition Matrician"
+      }
+    ]
+  },
   "59616": {
     "id": 59616,
     "name": "Homecoming Points",

@@ -14387,7 +14387,7 @@
   "525": {
     "id": 525,
     "timer": "01:20:00",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": "Tower of Transcendence",
     "special": false,
@@ -14401,7 +14401,7 @@
     "light": false,
     "heavy": false,
     "limited": "Tower of Transcendence",
-    "special": false,
+    "special": true,
     "other": [],
     "maps": [],
     "notes": []
@@ -14410,7 +14410,7 @@
     "id": 527,
     "timer": "02:05:00",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Tower of Transcendence",
     "special": false,
     "other": [],
@@ -14424,7 +14424,9 @@
     "heavy": false,
     "limited": null,
     "special": false,
-    "other": [],
+    "other": [
+      3
+    ],
     "maps": [],
     "notes": [
       "Available as point accumulation reward during Tower of Transcendence"
@@ -14434,10 +14436,12 @@
     "id": 529,
     "timer": "06:00:00",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Tower of Transcendence",
-    "special": false,
-    "other": [],
+    "special": true,
+    "other": [
+      6
+    ],
     "maps": [],
     "notes": []
   },
