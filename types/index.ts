@@ -18,6 +18,7 @@ import dorm3DRoomList from '../data/dorm3d_rooms.json'
 import equipDropList from '../data/equip_drops.json'
 import equipUpgradeCosts from '../data/equip_upgrade_cost.json'
 import equipmentList from '../data/equipments.json'
+import groupChats from '../data/fleet_chats.json'
 import gearLabRecipes from '../data/gear_lab.json'
 import gearSkilList from '../data/gear_skins.json'
 import itemData from '../data/items.json'
@@ -41,6 +42,7 @@ import {
     type Dorm3DFurniture, type Dorm3DGift, type Dorm3DRoom
 } from './dorm3d'
 import type { EquipDropData, EquipmentData, GearLabRecipe, UpgradeCost, Weapon } from './equipments'
+import { type FleetChat } from './fleet_chat'
 import { type GearSkin } from './gear_skins'
 import { type Item } from './items'
 import type { MapData } from './maps'
@@ -81,11 +83,12 @@ const dorm3DCollectable = dorm3DCollectableList as Record<number, Dorm3DCollecta
 const dorm3DFurniture = dorm3DFurnitureList as Record<number, Dorm3DFurniture | undefined>
 const dorm3DGifts = dorm3DGiftList as Record<number, Dorm3DGift | undefined>
 const cruisePasses = cruiseList as Record<number, CruisePass | undefined>
+const fleetChats = groupChats as Record<number, FleetChat | undefined>
 
 export {
     augCost, augments, cruisePasses, defaultEquip, dorm3DCharacters, dorm3DCollectable, dorm3DFurniture,
     dorm3DGifts, dorm3DRooms, equipCosts, equipDrops,
-    equipments, gearSkins, items, labRecipes, maps, meowabilities,
+    equipments, fleetChats, gearSkins, items, labRecipes, maps, meowabilities,
     meowfficers, researches, retroCosts, shipDrops, ships, shops, skills,
     skins, specialWeapons, techGroups, voiceLines
 }
