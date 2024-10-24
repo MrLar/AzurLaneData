@@ -7336,6 +7336,20 @@
         "cost": 400,
         "use_alt": true,
         "limit_type": 1
+      },
+      {
+        "id": 121,
+        "type": 10,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "dorm3d/items/3ddrom_tianlangxing_premiumfurniture2",
+        "name": "Afternoon Dreamhome",
+        "limit": 1,
+        "cost": 480,
+        "use_alt": true,
+        "limit_type": 1
       }
     ],
     "currency": {
