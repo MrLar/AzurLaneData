@@ -205,6 +205,53 @@
       "CN"
     ]
   },
+  "151": {
+    "names": [
+      "Azure Sea Affinity - Rookie",
+      "Azure Sea Affinity - Ace"
+    ],
+    "descriptions": [
+      "Your whole fleet gains 3 FP, TRP, and AVI.",
+      "Your whole fleet gains 6 FP, TRP, and AVI."
+    ],
+    "icons": [
+      "zhanlie_paoji_1",
+      "zhanlie_paoji_2"
+    ],
+    "effect": {
+      "stats": [
+        {
+          "stat": "fp",
+          "amount": [
+            3,
+            6
+          ]
+        },
+        {
+          "stat": "trp",
+          "amount": [
+            3,
+            6
+          ]
+        },
+        {
+          "stat": "avi",
+          "amount": [
+            3,
+            6
+          ]
+        }
+      ]
+    },
+    "id": 151,
+    "max": 2,
+    "obtainable": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "201": {
     "names": [
       "Torpedo Rookie - Submarines",
@@ -1268,6 +1315,43 @@
     "id": 821,
     "max": 3,
     "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "831": {
+    "names": [
+      "Tempesta Lookout - Rookie",
+      "Tempesta Lookout - Adept",
+      "Tempesta's Eyes"
+    ],
+    "descriptions": [
+      "Your whole fleet gains 1 ACC.",
+      "Your whole fleet gains 2 ACC.",
+      "Your whole fleet gains 3 ACC."
+    ],
+    "icons": [
+      "teshu_one_1",
+      "teshu_one_2",
+      "teshu_one_3"
+    ],
+    "effect": {
+      "stats": [
+        {
+          "stat": "hit",
+          "amount": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    "id": 831,
+    "max": 3,
+    "obtainable": false,
     "servers": [
       "EN",
       "JP",
@@ -2612,6 +2696,55 @@
     "id": 5151,
     "max": 1,
     "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "5161": {
+    "names": [
+      "Ready for Battle"
+    ],
+    "descriptions": [
+      "Your BBs, BCs, and IXMs gain 20 FP and your CVs gain 20 AVI."
+    ],
+    "icons": [
+      "special_one"
+    ],
+    "effect": {
+      "hulls": [
+        4,
+        5,
+        24,
+        2
+      ],
+      "stats": [
+        {
+          "stat": "fp",
+          "amount": [
+            20
+          ],
+          "restrict": [
+            7
+          ]
+        },
+        {
+          "stat": "avi",
+          "amount": [
+            20
+          ],
+          "restrict": [
+            4,
+            5,
+            24
+          ]
+        }
+      ]
+    },
+    "id": 5161,
+    "max": 1,
+    "obtainable": false,
     "servers": [
       "EN",
       "JP",

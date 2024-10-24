@@ -119349,5 +119349,274 @@
       "JP",
       "CN"
     ]
+  },
+  "150380": {
+    "icon": "150380",
+    "id": 150380,
+    "name": "Chest Full of Treasure",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60680
+    ],
+    "nation": 96,
+    "limit_group": 150380,
+    "hull_restriction": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          250,
+          280,
+          310,
+          340,
+          370,
+          400,
+          430,
+          460,
+          490,
+          520,
+          550,
+          580,
+          610,
+          640
+        ]
+      },
+      {
+        "stat": "rld",
+        "values": [
+          3,
+          3,
+          4,
+          5,
+          6,
+          6,
+          7,
+          8,
+          9,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      }
+    ],
+    "labels": [
+      "mot",
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [
+      22,
+      23,
+      24
+    ],
+    "equippable_sub": [
+      22,
+      23,
+      24
+    ],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "150400": {
+    "icon": "150400",
+    "id": 150400,
+    "name": "Grapeshot",
+    "rarity": 4,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60700
+    ],
+    "nation": 96,
+    "limit_group": 3740,
+    "hull_restriction": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "max": 11,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          35,
+          38
+        ]
+      },
+      {
+        "stat": "hit",
+        "values": [
+          4,
+          4,
+          5,
+          5,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          10,
+          10
+        ]
+      }
+    ],
+    "labels": [
+      "mot",
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [
+      22,
+      23,
+      24
+    ],
+    "equippable_sub": [
+      22,
+      23,
+      24
+    ],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "150420": {
+    "icon": "150420",
+    "id": 150420,
+    "name": "Rum Keg",
+    "rarity": 4,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60720
+    ],
+    "nation": 96,
+    "limit_group": 150420,
+    "hull_restriction": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "max": 11,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          200,
+          230,
+          260,
+          290,
+          320,
+          350,
+          380,
+          410,
+          440,
+          470,
+          500,
+          530
+        ]
+      }
+    ],
+    "labels": [
+      "mot",
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [
+      22,
+      23,
+      24
+    ],
+    "equippable_sub": [
+      22,
+      23,
+      24
+    ],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
   }
 }

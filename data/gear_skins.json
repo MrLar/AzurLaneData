@@ -18224,5 +18224,305 @@
       "JP",
       "CN"
     ]
+  },
+  "4059": {
+    "id": 4059,
+    "name": "Flaming Skull Shell",
+    "icon": "101146",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "ハロウィンホラー",
+    "description": "Well, they messed with the wrong skull this time!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4060": {
+    "id": 4060,
+    "name": "Eldritch Tentacle Shell",
+    "icon": "101147",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "ハロウィンホラー",
+    "description": "Some things are incomprehensible to the human mind. The pain this shell inflicts isn't one, though.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4061": {
+    "id": 4061,
+    "name": "Strange Potion Shell",
+    "icon": "101148",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "ハロウィンホラー",
+    "description": "Aim with care, or the liquid will splatter all over you.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4062": {
+    "id": 4062,
+    "name": "Howling Ghost Torpedo",
+    "icon": "101149",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "ハロウィンホラー",
+    "description": "Lets out the most harrowing scream as it travels. Thank goodness you can't hear it underwater!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4063": {
+    "id": 4063,
+    "name": "Pumpkin Lollipop Torpedo",
+    "icon": "101150",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "ハロウィンホラー",
+    "description": "It doesn't taste like pumpkin, just steel and explosive filler.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4064": {
+    "id": 4064,
+    "name": "Devilish Pitchfork Torpedo",
+    "icon": "101151",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "ハロウィンホラー",
+    "description": "Three pointed ends would mean three times the damage, no?",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4065": {
+    "id": 4065,
+    "name": "Eternal Sleep Shell",
+    "icon": "101152",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "ハロウィンホラー",
+    "description": "Eternal sleep is not the end.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4066": {
+    "id": 4066,
+    "name": "Eldritch Ghost Shell",
+    "icon": "101153",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "ハロウィンホラー",
+    "description": "Suitable as a pillow... if you dare.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4067": {
+    "id": 4067,
+    "name": "Cursed Spiderweb Shell",
+    "icon": "101154",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "ハロウィンホラー",
+    "description": "As if getting caught in crossfire wasn't bad enough.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4068": {
+    "id": 4068,
+    "name": "Dracjuula Plane (Torpedo)",
+    "icon": "101155",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "ハロウィンホラー",
+    "description": "Be very afraid. He has rejected his humanity and fears no garlic.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4069": {
+    "id": 4069,
+    "name": "Dracjuula Plane (Fighter)",
+    "icon": "101155",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "ハロウィンホラー",
+    "description": "Be very afraid. He has rejected his humanity and fears no garlic.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4070": {
+    "id": 4070,
+    "name": "Dracjuula Plane (Bomber)",
+    "icon": "101155",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "ハロウィンホラー",
+    "description": "Be very afraid. He has rejected his humanity and fears no garlic.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4071": {
+    "id": 4071,
+    "name": "Broomstick Witch Plane (Torpedo)",
+    "icon": "101156",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "ハロウィンホラー",
+    "description": "She has a henchman who just loves void mayonnaise.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4072": {
+    "id": 4072,
+    "name": "Broomstick Witch Plane (Fighter)",
+    "icon": "101156",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "ハロウィンホラー",
+    "description": "She has a henchman who just loves void mayonnaise.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4073": {
+    "id": 4073,
+    "name": "Broomstick Witch Plane (Bomber)",
+    "icon": "101156",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "ハロウィンホラー",
+    "description": "She has a henchman who just loves void mayonnaise.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4074": {
+    "id": 4074,
+    "name": "Ghostly Trick-or-Treater Plane (Torpedo)",
+    "icon": "101157",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "ハロウィンホラー",
+    "description": "There's something very dangerous inside that jack-o'-lantern.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4075": {
+    "id": 4075,
+    "name": "Ghostly Trick-or-Treater Plane (Fighter)",
+    "icon": "101157",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "ハロウィンホラー",
+    "description": "There's something very dangerous inside that jack-o'-lantern.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4076": {
+    "id": 4076,
+    "name": "Ghostly Trick-or-Treater Plane (Bomber)",
+    "icon": "101157",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "ハロウィンホラー",
+    "description": "There's something very dangerous inside that jack-o'-lantern.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
   }
 }

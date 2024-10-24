@@ -23409,7 +23409,7 @@
         "eva": 17,
         "spd": 18,
         "luck": 0,
-        "armor": 2
+        "armor": 1
       },
       "level": 20,
       "offense_boost": 0,
@@ -23467,7 +23467,7 @@
         "eva": 15,
         "spd": 20,
         "luck": 8,
-        "armor": 2
+        "armor": 1
       },
       "level": 40,
       "offense_boost": 0,
@@ -27302,6 +27302,238 @@
       "survival_boost": 0,
       "tactics_boost": 0,
       "icon": "chicheng_alter"
+    },
+    "buffs": [],
+    "type": 6
+  },
+  "1860001_t1_16670301": {
+    "name": "飓风与沉眠之海-T1",
+    "acv": 50,
+    "opsi": false,
+    "boss": {
+      "hull": 24,
+      "nation": 96,
+      "name": "Light of Old - Ship of the Line",
+      "stats": {
+        "hp": 7200,
+        "fp": 120,
+        "trp": 80,
+        "avi": 0,
+        "aa": 140,
+        "hit": 17,
+        "eva": 17,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fengfan_xl"
+    },
+    "buffs": [],
+    "type": 3
+  },
+  "1860001_t2_16671303": {
+    "name": "飓风与沉眠之海-T2",
+    "acv": 295,
+    "opsi": false,
+    "boss": {
+      "hull": 1,
+      "nation": 99,
+      "name": "Skelebeasts",
+      "stats": {
+        "hp": 10000,
+        "fp": 60,
+        "trp": 0,
+        "avi": 0,
+        "aa": 0,
+        "hit": 9999,
+        "eva": 0,
+        "spd": 15,
+        "luck": 0,
+        "armor": 0
+      },
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fengfan_haigu01"
+    },
+    "buffs": [],
+    "type": 3
+  },
+  "1860001_t3_16672301": {
+    "name": "飓风与沉眠之海-T3",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "hull": 24,
+      "nation": 96,
+      "name": "Light of Old - Ship of the Line",
+      "stats": {
+        "hp": 16500,
+        "fp": 160,
+        "trp": 0,
+        "avi": 0,
+        "aa": 180,
+        "hit": 24,
+        "eva": 15,
+        "spd": 20,
+        "luck": 8,
+        "armor": 1
+      },
+      "level": 40,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fengfan_ghost_xl"
+    },
+    "buffs": [],
+    "type": 3
+  },
+  "1860002_t4_16673301": {
+    "name": "飓风与沉眠之海-T4",
+    "acv": 600,
+    "opsi": false,
+    "boss": {
+      "hull": 4,
+      "nation": 96,
+      "name": "Silent Sentry - Dormant Lurker",
+      "stats": {
+        "hp": 31500,
+        "fp": 180,
+        "trp": 120,
+        "avi": 0,
+        "aa": 360,
+        "hit": 26,
+        "eva": 23,
+        "spd": 30,
+        "luck": 8,
+        "armor": 1
+      },
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fengfan_haigu02"
+    },
+    "buffs": [],
+    "type": 3
+  },
+  "1860002_t5_16674301": {
+    "name": "飓风与沉眠之海-T5",
+    "acv": 600,
+    "opsi": false,
+    "boss": {
+      "hull": 5,
+      "nation": 96,
+      "name": "Silent Sentry - Kraken's Tentacles",
+      "stats": {
+        "hp": 56200,
+        "fp": 220,
+        "trp": 0,
+        "avi": 0,
+        "aa": 225,
+        "hit": 41,
+        "eva": 42,
+        "spd": 20,
+        "luck": 18,
+        "armor": 2
+      },
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fengfan_haigu03"
+    },
+    "buffs": [],
+    "type": 3
+  },
+  "1860002_t6_16675301": {
+    "name": "飓风与沉眠之海-T6",
+    "acv": 600,
+    "opsi": false,
+    "boss": {
+      "hull": 5,
+      "nation": 96,
+      "name": "Silent Sentry - Kraken",
+      "stats": {
+        "hp": 86200,
+        "fp": 280,
+        "trp": 0,
+        "avi": 0,
+        "aa": 260,
+        "hit": 70,
+        "eva": 33,
+        "spd": 20,
+        "luck": 25,
+        "armor": 2
+      },
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fengfan_haigu06"
+    },
+    "buffs": [],
+    "type": 3
+  },
+  "1860003_sp_16676301": {
+    "name": "飓风与沉眠之海-SP",
+    "acv": 1320,
+    "opsi": false,
+    "boss": {
+      "hull": 5,
+      "nation": 96,
+      "name": "Silent Sentry - Kraken",
+      "stats": {
+        "hp": 125000,
+        "fp": 320,
+        "trp": 0,
+        "avi": 0,
+        "aa": 440,
+        "hit": 69,
+        "eva": 47,
+        "spd": 18,
+        "luck": 30,
+        "armor": 2
+      },
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fengfan_haigu06"
+    },
+    "buffs": [],
+    "type": 5
+  },
+  "1860004_ex_16677001": {
+    "name": "飓风与沉眠之海-EX",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "hull": 24,
+      "nation": 96,
+      "name": "Ganj-i-Sawai",
+      "stats": {
+        "hp": 1111111,
+        "fp": 280,
+        "trp": 0,
+        "avi": 0,
+        "aa": 400,
+        "hit": 120,
+        "eva": 25,
+        "spd": 15,
+        "luck": 66,
+        "armor": 1
+      },
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "gangyishawa"
     },
     "buffs": [],
     "type": 6

@@ -16559,6 +16559,204 @@
       }
     ]
   },
+  "30361": {
+    "id": 30361,
+    "name": "外观装备箱(恐怖狂潮)",
+    "description": "可以获得一件随机的恐怖狂潮风格外观装备",
+    "type": 11,
+    "icon": "props/appearanceboxguiguai",
+    "rarity": 5,
+    "locations": [
+      "Event"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 4059,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101146",
+        "name": "Flaming Skull Shell"
+      },
+      {
+        "id": 4060,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101147",
+        "name": "Eldritch Tentacle Shell"
+      },
+      {
+        "id": 4061,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101148",
+        "name": "Strange Potion Shell"
+      },
+      {
+        "id": 4062,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101149",
+        "name": "Howling Ghost Torpedo"
+      },
+      {
+        "id": 4063,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101150",
+        "name": "Pumpkin Lollipop Torpedo"
+      },
+      {
+        "id": 4064,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101151",
+        "name": "Devilish Pitchfork Torpedo"
+      },
+      {
+        "id": 4065,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101152",
+        "name": "Eternal Sleep Shell"
+      },
+      {
+        "id": 4066,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101153",
+        "name": "Eldritch Ghost Shell"
+      },
+      {
+        "id": 4067,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101154",
+        "name": "Cursed Spiderweb Shell"
+      },
+      {
+        "id": 4068,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101155",
+        "name": "Dracjuula Plane (Torpedo)"
+      },
+      {
+        "id": 4069,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101155",
+        "name": "Dracjuula Plane (Fighter)"
+      },
+      {
+        "id": 4070,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101155",
+        "name": "Dracjuula Plane (Bomber)"
+      },
+      {
+        "id": 4071,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101156",
+        "name": "Broomstick Witch Plane (Torpedo)"
+      },
+      {
+        "id": 4072,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101156",
+        "name": "Broomstick Witch Plane (Fighter)"
+      },
+      {
+        "id": 4073,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101156",
+        "name": "Broomstick Witch Plane (Bomber)"
+      },
+      {
+        "id": 4074,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101157",
+        "name": "Ghostly Trick-or-Treater Plane (Torpedo)"
+      },
+      {
+        "id": 4075,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101157",
+        "name": "Ghostly Trick-or-Treater Plane (Fighter)"
+      },
+      {
+        "id": 4076,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101157",
+        "name": "Ghostly Trick-or-Treater Plane (Bomber)"
+      }
+    ]
+  },
   "30401": {
     "id": 30401,
     "name": "Random Gear Skin Box (Cruise Series 3)",
@@ -26878,6 +27076,204 @@
         "blueprint": false,
         "icon": "equips/93633",
         "name": "Specter Manjuu(Bomber)"
+      }
+    ]
+  },
+  "30547": {
+    "id": 30547,
+    "name": "定向外观装备箱(恐怖狂潮)",
+    "description": "使用后可从「恐怖狂潮」主题外观装备中任意选择一种获得1个",
+    "type": 13,
+    "icon": "props/appearanceboxguiguaizixuan",
+    "rarity": 5,
+    "locations": [
+      "Event"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 4059,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101146",
+        "name": "Flaming Skull Shell"
+      },
+      {
+        "id": 4060,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101147",
+        "name": "Eldritch Tentacle Shell"
+      },
+      {
+        "id": 4061,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101148",
+        "name": "Strange Potion Shell"
+      },
+      {
+        "id": 4062,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101149",
+        "name": "Howling Ghost Torpedo"
+      },
+      {
+        "id": 4063,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101150",
+        "name": "Pumpkin Lollipop Torpedo"
+      },
+      {
+        "id": 4064,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101151",
+        "name": "Devilish Pitchfork Torpedo"
+      },
+      {
+        "id": 4065,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101152",
+        "name": "Eternal Sleep Shell"
+      },
+      {
+        "id": 4066,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101153",
+        "name": "Eldritch Ghost Shell"
+      },
+      {
+        "id": 4067,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101154",
+        "name": "Cursed Spiderweb Shell"
+      },
+      {
+        "id": 4068,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101155",
+        "name": "Dracjuula Plane (Torpedo)"
+      },
+      {
+        "id": 4069,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101155",
+        "name": "Dracjuula Plane (Fighter)"
+      },
+      {
+        "id": 4070,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101155",
+        "name": "Dracjuula Plane (Bomber)"
+      },
+      {
+        "id": 4071,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101156",
+        "name": "Broomstick Witch Plane (Torpedo)"
+      },
+      {
+        "id": 4072,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101156",
+        "name": "Broomstick Witch Plane (Fighter)"
+      },
+      {
+        "id": 4073,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101156",
+        "name": "Broomstick Witch Plane (Bomber)"
+      },
+      {
+        "id": 4074,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101157",
+        "name": "Ghostly Trick-or-Treater Plane (Torpedo)"
+      },
+      {
+        "id": 4075,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101157",
+        "name": "Ghostly Trick-or-Treater Plane (Fighter)"
+      },
+      {
+        "id": 4076,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101157",
+        "name": "Ghostly Trick-or-Treater Plane (Bomber)"
       }
     ]
   },

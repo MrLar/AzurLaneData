@@ -131,5 +131,24 @@
       "EN"
     ],
     "contains": []
+  },
+  "122": {
+    "name": "Afternoon Dreamhome",
+    "description": "A comfortable reclining couch.\n Soft, fluffy, and comes with cushions and a blanket. A relaxing spot to take a nap at any time of the day.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 5,
+    "id": 122,
+    "purchaseable": true,
+    "icon": "dorm3d/items/3ddrom_tianlangxing_premiumfurniture2",
+    "room_id": 1,
+    "furni_type": 5,
+    "exclusive": true,
+    "servers": [
+      "EN"
+    ],
+    "contains": []
   }
 }

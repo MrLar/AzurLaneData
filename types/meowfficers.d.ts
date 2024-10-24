@@ -56,6 +56,7 @@ export interface Stat {
     stat: BuffStatKey
     meow_stat: MeowStat | null
     amount: number
+    restrict?: Hull[]
 }
 
 export type MeowStat = 'command' | 'logistics' | 'tactics'

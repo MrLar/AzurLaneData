@@ -959,8 +959,7 @@
               "amount": 8
             }
           ]
-        },
-        null
+        }
       ],
       "opsi_effects": [
         null,
@@ -978,8 +977,7 @@
               "amount": 8
             }
           ]
-        },
-        null
+        }
       ],
       "default_level": 0
     }
@@ -1501,9 +1499,7 @@
               "amount": 8
             }
           ]
-        },
-        null,
-        null
+        }
       ],
       "opsi_effects": [
         {
@@ -1538,8 +1534,7 @@
               "amount": 4
             }
           ]
-        },
-        null
+        }
       ],
       "default_level": 0
     }
@@ -1596,9 +1591,7 @@
               "amount": 8
             }
           ]
-        },
-        null,
-        null
+        }
       ],
       "opsi_effects": [
         {
@@ -1620,9 +1613,7 @@
               "amount": 8
             }
           ]
-        },
-        null,
-        null
+        }
       ],
       "default_level": 0
     }
@@ -1687,8 +1678,7 @@
               "amount": 8
             }
           ]
-        },
-        null
+        }
       ],
       "opsi_effects": [
         {
@@ -1720,8 +1710,7 @@
               "amount": 8
             }
           ]
-        },
-        null
+        }
       ],
       "default_level": 0
     }
@@ -2170,6 +2159,11 @@
         },
         {
           "slot": -1,
+          "hulls": [
+            8,
+            17,
+            22
+          ],
           "stats": [
             {
               "stat": "range_level",
@@ -2177,8 +2171,7 @@
               "amount": 1
             }
           ]
-        },
-        null
+        }
       ],
       "opsi_effects": [
         {
@@ -2198,7 +2191,8 @@
         {
           "slot": 0,
           "hulls": [
-            8
+            8,
+            17
           ],
           "stats": [
             {
@@ -2207,8 +2201,7 @@
               "amount": 15
             }
           ]
-        },
-        null
+        }
       ],
       "default_level": 0
     }
@@ -2260,9 +2253,7 @@
               "amount": 8
             }
           ]
-        },
-        null,
-        null
+        }
       ],
       "opsi_effects": [
         {
@@ -2279,9 +2270,7 @@
               "amount": 8
             }
           ]
-        },
-        null,
-        null
+        }
       ],
       "default_level": 0
     }
@@ -2348,8 +2337,7 @@
               "amount": 8
             }
           ]
-        },
-        null
+        }
       ],
       "opsi_effects": [
         {
@@ -2381,8 +2369,7 @@
               "amount": 8
             }
           ]
-        },
-        null
+        }
       ],
       "default_level": 0
     }
@@ -2450,6 +2437,11 @@
         },
         {
           "slot": -1,
+          "hulls": [
+            8,
+            17,
+            22
+          ],
           "stats": [
             {
               "stat": "range_level",
@@ -2491,7 +2483,8 @@
         {
           "slot": 1,
           "hulls": [
-            8
+            8,
+            17
           ],
           "stats": [
             {
@@ -2565,8 +2558,7 @@
               "amount": 8
             }
           ]
-        },
-        null
+        }
       ],
       "opsi_effects": [
         {
@@ -2596,8 +2588,7 @@
               "amount": 8
             }
           ]
-        },
-        null
+        }
       ],
       "default_level": 0
     }
@@ -3027,9 +3018,7 @@
               "amount": 8
             }
           ]
-        },
-        null,
-        null
+        }
       ],
       "opsi_effects": [
         {
@@ -3047,9 +3036,7 @@
               "amount": 8
             }
           ]
-        },
-        null,
-        null
+        }
       ],
       "default_level": 2
     }
@@ -3098,6 +3085,11 @@
       "effects": [
         {
           "slot": -1,
+          "hulls": [
+            8,
+            17,
+            22
+          ],
           "stats": [
             {
               "stat": "range_level",
@@ -3120,17 +3112,20 @@
               "amount": 4
             }
           ]
-        },
-        null
+        }
       ],
       "opsi_effects": [
         {
           "slot": -1,
+          "hulls": [
+            8,
+            17
+          ],
           "stats": [
             {
-              "stat": "range_level",
+              "stat": "oxygen",
               "meow_stat": null,
-              "amount": 1
+              "amount": 5
             }
           ]
         },
@@ -3148,8 +3143,208 @@
               "amount": 4
             }
           ]
+        }
+      ],
+      "default_level": 2
+    }
+  },
+  "960041": {
+    "name": "Every",
+    "timer": null,
+    "nation": 96,
+    "icon": 960041,
+    "id": 960041,
+    "rarity": 5,
+    "stats": {
+      "command": 60,
+      "tactics": 67,
+      "logistics": 33
+    },
+    "fixed_abilities": [
+      5161,
+      831,
+      832,
+      151,
+      833,
+      5101,
+      152,
+      5131
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Fantastical Plunder",
+      "descriptions": [
+        "{Decreases your Vanguard's DMG taken based on the Directives stat (also works when assigned to a sub fleet.|In game states that an IX has to be present and does not mention it works from a sub fleet.}",
+        "When assigned as the Command Cat: increases your whole fleet's FP by a moderate amount based on the Tactics stat.",
+        "Once per battle, when the HP of a ship in your fleet falls below 30.0% as a result of DMG taken: restores 5.0% of that ship's HP."
+      ],
+      "opsi_descriptions": [
+        "{Decreases your Vanguard's DMG taken based on the Directives stat (also works when assigned to a sub fleet.|In game states that an IX has to be present and does not mention it works from a sub fleet.}",
+        "When assigned as the Command Cat: increases your whole fleet's FP by a moderate amount based on the Tactics stat.",
+        "Once per battle, when the HP of a ship in your fleet falls below 30.0% as a result of DMG taken: restores 5.0% of that ship's HP."
+      ],
+      "icon": 960041,
+      "id": 960041,
+      "effects": [
+        null,
+        {
+          "slot": -1,
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "tactics",
+              "amount": 8
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        null,
+        {
+          "slot": 0,
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "tactics",
+              "amount": 8
+            }
+          ]
+        }
+      ],
+      "default_level": 2
+    }
+  },
+  "960051": {
+    "name": "Roberts",
+    "timer": null,
+    "nation": 96,
+    "icon": 960051,
+    "id": 960051,
+    "rarity": 4,
+    "stats": {
+      "command": 59,
+      "tactics": 42,
+      "logistics": 31
+    },
+    "fixed_abilities": [
+      5091,
+      901,
+      902,
+      141,
+      903,
+      5111,
+      142,
+      5131
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "Honor Among Thieves",
+      "descriptions": [
+        "Increases ASR by 1.",
+        "When assigned to your Submarine Fleet: increases the FP of your IXSs and the TRP of your SSs and SSVs by a moderate amount based on the Directives stat.",
+        "When assigned to a fleet with Royal Fortune: when the battle starts, fires a special barrage."
+      ],
+      "opsi_descriptions": [
+        "When assigned to your Submarine Fleet: increases your SSs' OXY by 5.",
+        "When assigned to your Submarine Fleet: increases the FP of your IXSs and the TRP of your SSs and SSVs by a moderate amount based on the Directives stat.",
+        "When assigned to a fleet with Royal Fortune: when the battle starts, fires a special barrage."
+      ],
+      "icon": 960051,
+      "id": 960051,
+      "effects": [
+        {
+          "slot": -1,
+          "hulls": [
+            8,
+            17,
+            22
+          ],
+          "stats": [
+            {
+              "stat": "range_level",
+              "meow_stat": null,
+              "amount": 1
+            }
+          ]
         },
-        null
+        {
+          "slot": -1,
+          "hulls": [
+            8,
+            17,
+            22
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "command",
+              "amount": 8,
+              "restrict": [
+                8,
+                17
+              ]
+            },
+            {
+              "stat": "trp",
+              "meow_stat": "command",
+              "amount": 8,
+              "restrict": [
+                22
+              ]
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        {
+          "slot": -1,
+          "hulls": [
+            8,
+            17
+          ],
+          "stats": [
+            {
+              "stat": "oxygen",
+              "meow_stat": null,
+              "amount": 15
+            }
+          ]
+        },
+        {
+          "slot": -1,
+          "hulls": [
+            8,
+            17,
+            22
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "command",
+              "amount": 8,
+              "restrict": [
+                8,
+                17
+              ]
+            },
+            {
+              "stat": "trp",
+              "meow_stat": "command",
+              "amount": 8,
+              "restrict": [
+                22
+              ]
+            }
+          ]
+        }
       ],
       "default_level": 2
     }

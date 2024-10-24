@@ -1341,6 +1341,27 @@
     "custom_bgm": false,
     "dynamic_bg": true
   },
+  "101492": {
+    "id": 101492,
+    "name": "\"Head\" Investigator",
+    "type": 0,
+    "category": 8,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "bulisituoer_3",
+    "bg": "174",
+    "obtain_type": 0,
+    "price": 880,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false
+  },
   "101501": {
     "id": 101501,
     "name": "Another Rebellious Summer",
@@ -14473,6 +14494,27 @@
     "custom_bgm": false,
     "dynamic_bg": true
   },
+  "303125": {
+    "id": 303125,
+    "name": "Full Moon's Feral Wolf",
+    "type": 0,
+    "category": 8,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "aidang_6",
+    "bg": "174",
+    "obtain_type": 0,
+    "price": 980,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": false,
+    "dynamic_bg": false
+  },
   "303128": {
     "id": 303128,
     "name": "Lily-White Vow",
@@ -15646,6 +15688,27 @@
     "is_permanent": false,
     "l2d": false,
     "dynamic": true,
+    "custom_bgm": false,
+    "dynamic_bg": false
+  },
+  "305132": {
+    "id": 305132,
+    "name": "My Wish is For Love",
+    "type": 0,
+    "category": 8,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "weizhang_3",
+    "bg": "156",
+    "obtain_type": 0,
+    "price": 1180,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": true,
+    "dynamic": false,
     "custom_bgm": false,
     "dynamic_bg": false
   },
@@ -25338,6 +25401,111 @@
     ],
     "icon": "jialimaoxian_2",
     "bg": "174",
+    "obtain_type": 0,
+    "price": 780,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false
+  },
+  "9600071": {
+    "id": 9600071,
+    "name": "Mermaid in Distress",
+    "type": 0,
+    "category": 8,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "gangyishawa_2",
+    "bg": "134",
+    "obtain_type": 0,
+    "price": 980,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": false,
+    "dynamic_bg": false
+  },
+  "9600081": {
+    "id": 9600081,
+    "name": "Grave of Your Liking",
+    "type": 0,
+    "category": 8,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "huanxianghao_2",
+    "bg": "177",
+    "obtain_type": 0,
+    "price": 880,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false
+  },
+  "9600091": {
+    "id": 9600091,
+    "name": "Friendly Franken",
+    "type": 0,
+    "category": 8,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "hemuhao_2",
+    "bg": "525",
+    "obtain_type": 0,
+    "price": 980,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": false,
+    "dynamic_bg": false
+  },
+  "9600101": {
+    "id": 9600101,
+    "name": "Adventurous Surprise",
+    "type": 0,
+    "category": 8,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "pucimaosi_2",
+    "bg": "174",
+    "obtain_type": 0,
+    "price": 780,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false
+  },
+  "9600111": {
+    "id": 9600111,
+    "name": "Incantation of Revival",
+    "type": 0,
+    "category": 8,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "haitunhao_2",
+    "bg": "177",
     "obtain_type": 0,
     "price": 780,
     "currency": 59005,
