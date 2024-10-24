@@ -63,6 +63,7 @@ The name of the file links to the respective file on the GitHub Repo., while the
 |     [dord3d_furniture.json](https://github.com/MrLar/AzurLaneData/tree/main/data/dord3d_furniture.json)     |    Contains all Furniture items available in Dorm3D    | `object` |                        Item ID -> [`Dorm3dFurniture`](./dorm3d/index.md#dorm3d-furniture)                        |     `Record<number, Dorm3DFurniture      | undefined>` |             |
 |         [dorm3d_gifts.json](https://github.com/MrLar/AzurLaneData/tree/main/data/dorm3d_gifts.json)         |      Contains all Gift items available in Dorm3D       | `object` |                             Item ID -> [`Dorm3dGift`](./dorm3d/index.md#dorm3d-gift)                             |        `Record<number, Dorm3DGift        | undefined>` |             |
 |         [dorm3d_rooms.json](https://github.com/MrLar/AzurLaneData/tree/main/data/dorm3d_rooms.json)         |    Contains all Rooms/Locations available in Dorm3D    | `object` |                             Room ID -> [`Dorm3DRoom`](./dorm3d/index.md#dorm3d-room)                             |        `Record<number, Dorm3DRoom        | undefined>` |             |
+|          [fleet_chats.json](https://github.com/MrLar/AzurLaneData/tree/main/data/fleet_chats.json)          |          Contains all Fleet Chats of the game          | `object` |                            Chat ID -> [`FleetChat`](./fleet_chat/index.md#fleet-chat)                            |        `Record<number, FleetChat         | undefined>` |             |
 
 
 \*The following weapon overrides exist:
@@ -130,4 +131,5 @@ There are a few other undocumented icons. However, they are for the most part no
 - [Research Documentation](./common.md#research)
 - [Tech Group](./tech_groups/index.md)
 - [Dorm3D](./dorm3d/index.md)
+- [Fleet Chat](./fleet_chat/index.md)
   
