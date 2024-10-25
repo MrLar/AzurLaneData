@@ -1,3 +1,31 @@
+export interface JuuProfile {
+    id: number
+    name: string
+    icon: string
+    ship_id: number
+}
+
+export interface JuuPost {
+    id: number
+    user: number
+    text: string
+    image: string
+    comments: JuuPostComment[]
+    options: JuuPostOption[]
+}
+
+export interface JuuPostComment {
+    id: number
+    user: number
+    text: string
+    comments: JuuPostComment[]
+}
+
+export interface JuuPostOption {
+    text: string
+    reply: JuuPostComment
+}
+
 export interface FleetChat {
     id: number
     name: string
