@@ -8,12 +8,12 @@ title: Juustagram Documentation
 
 Structure for all ship and the commanders juustagram profile. Contains the following properties:
 
-|  Property   |   Type   |                                 Description                                  |
-| :---------: | :------: | :--------------------------------------------------------------------------: |
-|   **id**    | `number` |                               The profile ID.                                |
-|  **name**   | `string` |                            The profile username.                             |
-|  **icon**   | `string` | Icon of this chat. Available under `https://als.mrlar.dev/qicon/<icon>.png`. |
-| **ship_id** | `number` |   The ship id of the ship this profile belongs to or 0 for the commander.    |
+|  Property   |   Type   |                                  Description                                  |
+| :---------: | :------: | :---------------------------------------------------------------------------: |
+|   **id**    | `number` |                                The profile ID.                                |
+|  **name**   | `string` |                             The profile username.                             |
+|  **icon**   | `string` | Icon of this chat. Available under `https://als.mrlar.dev/qicon/<icon>.webp`. |
+| **ship_id** | `number` |    The ship id of the ship this profile belongs to or 0 for the commander.    |
 
 # Posts
 
@@ -21,14 +21,14 @@ Structure for all ship and the commanders juustagram profile. Contains the follo
 
 Structure for all juustagram posts made by ships. Contains the following properties:
 
-|   Property   |                  Type                   |                                      Description                                       |
-| :----------: | :-------------------------------------: | :------------------------------------------------------------------------------------: |
-|    **id**    |                `number`                 |                                      The post ID.                                      |
-|   **user**   |                `string`                 |          The profile ID of the [`JuuProfile`](#juu-profile) that posted this.          |
-|   **text**   |                `string`                 |                                   The post message.                                    |
-|  **image**   |                `string`                 | The image of the post. Available under `https://al.mrlar.dev/juustagrams/<image>.png`. |
-| **comments** | [`JuuPostComment[]`](#juu-post-comment) |                                Comments under the post.                                |
-| **options**  |  [`JuuPostOption[]`](#juu-post-option)  |                     Comments the user can make and their replies.                      |
+|   Property   |                  Type                   |                                       Description                                       |
+| :----------: | :-------------------------------------: | :-------------------------------------------------------------------------------------: |
+|    **id**    |                `number`                 |                                      The post ID.                                       |
+|   **user**   |                `string`                 |          The profile ID of the [`JuuProfile`](#juu-profile) that posted this.           |
+|   **text**   |                `string`                 |                                    The post message.                                    |
+|  **image**   |                `string`                 | The image of the post. Available under `https://al.mrlar.dev/juustagrams/<image>.webp`. |
+| **comments** | [`JuuPostComment[]`](#juu-post-comment) |                                Comments under the post.                                 |
+| **options**  |  [`JuuPostOption[]`](#juu-post-option)  |                      Comments the user can make and their replies.                      |
 
 ## Juu Post Comment
 
@@ -57,12 +57,12 @@ Structure for all player interactions on juustagram posts. Contains the followin
 
 Structure for a chat of the fleet chats in the game. Contains the following properties:
 
-|  Property  |             Type             |                                 Description                                  |
-| :--------: | :--------------------------: | :--------------------------------------------------------------------------: |
-|   **id**   |           `number`           |                                 The chat ID.                                 |
-|  **name**  |           `string`           |                            The name of the chat.                             |
-| **topics** | [`ChatTopic[]`](#chat-topic) |                        Topics available in this chat.                        |
-|  **icon**  |           `string`           | Icon of this chat. Available under `https://als.mrlar.dev/qicon/<icon>.png`. |
+|  Property  |             Type             |                                  Description                                  |
+| :--------: | :--------------------------: | :---------------------------------------------------------------------------: |
+|   **id**   |           `number`           |                                 The chat ID.                                  |
+|  **name**  |           `string`           |                             The name of the chat.                             |
+| **topics** | [`ChatTopic[]`](#chat-topic) |                        Topics available in this chat.                         |
+|  **icon**  |           `string`           | Icon of this chat. Available under `https://als.mrlar.dev/qicon/<icon>.webp`. |
 
 ## Chat Topic
 
@@ -91,13 +91,14 @@ Represents the condition of unlocking a topic. Provides the following properties
 
 Represents a message in a topic. Provides the following properties:
 
-|      Property      |             Type             |                                                       Description                                                       |
-| :----------------: | :--------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-|       **id**       |           `number`           |                                                     The message ID.                                                     |
-|      **user**      |           `number`           |                      The profile ID of the [`JuuProfile`](#juu-profile) that posted this message.                       |
-| **choosen_option** |           `number`           | If non zero the message is only visible if the player picked the option with `option_id` equal to this value before it. |
-|      **text**      |           `string`           |                                                The text of the message.                                                 |
-|    **options**     | [`ChatReply[]`](#chat-reply) |                                         Possible replies the user can initiate.                                         |
+|      Property      |              Type              |                                                       Description                                                       |
+| :----------------: | :----------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
+|       **id**       |            `number`            |                                                     The message ID.                                                     |
+|      **user**      |            `number`            |                      The profile ID of the [`JuuProfile`](#juu-profile) that posted this message.                       |
+| **choosen_option** |            `number`            | If non zero the message is only visible if the player picked the option with `option_id` equal to this value before it. |
+|      **text**      |            `string`            |                              The text of the message or the emote ID if the `type` is `4`.                              |
+|    **options**     |  [`ChatReply[]`](#chat-reply)  |                                         Possible replies the user can initiate.                                         |
+|      **type**      | [`MessageType`](#message-type) |                                                    The message type                                                     |
 
 
 ## Chat Reply
@@ -117,3 +118,11 @@ Topic Unlock Type is a numeric value with the range `[1, 3]` where each number r
 |   1   | Character |            Unlock the character the chat belongs to             |
 |   2   | Affinity  | Reach a certain affinity with the character the chat belongs to |
 |   3   |   Time    |      Unlocks after a specific time and may vanish later on      |
+
+## Message Type
+Message Type is a numeric value with two values where each number represents how a chat topic is unlocked:
+
+| Value | Label |                                                   Description                                                   |
+| :---: | :---: | :-------------------------------------------------------------------------------------------------------------: |
+|   1   | Text  |                                                 A text message                                                  |
+|   4   | Emote | An emoticon. Emotes are available under `https://al.mrlar.dev/emotes/<id>.webp`. All of them only have 1 frame. |

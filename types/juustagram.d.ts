@@ -54,6 +54,7 @@ export interface ChatMessage {
     text: string
     user: number
     options: ChatReply[]
+    type: MessageType
 }
 
 export interface ChatReply {
@@ -65,3 +66,7 @@ export type TopicUnlockType =
 1 | // unlock character
 2 | // reach affinity
 3 // after and/or before time
+
+export type MessageType =
+1 | // text message
+4 // emoticon
