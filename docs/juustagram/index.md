@@ -15,42 +15,6 @@ Structure for all ship and the commanders juustagram profile. Contains the follo
 |  **icon**   | `string` | Icon of this chat. Available under `https://als.mrlar.dev/qicon/<icon>.webp`. |
 | **ship_id** | `number` |    The ship id of the ship this profile belongs to or 0 for the commander.    |
 
-# Posts
-
-## Juu Post
-
-Structure for all juustagram posts made by ships. Contains the following properties:
-
-|   Property   |                  Type                   |                                       Description                                       |
-| :----------: | :-------------------------------------: | :-------------------------------------------------------------------------------------: |
-|    **id**    |                `number`                 |                                      The post ID.                                       |
-|   **user**   |                `string`                 |          The profile ID of the [`JuuProfile`](#juu-profile) that posted this.           |
-|   **text**   |                `string`                 |                                    The post message.                                    |
-|  **image**   |                `string`                 | The image of the post. Available under `https://al.mrlar.dev/juustagrams/<image>.webp`. |
-| **comments** | [`JuuPostComment[]`](#juu-post-comment) |                                Comments under the post.                                 |
-| **options**  |  [`JuuPostOption[]`](#juu-post-option)  |                      Comments the user can make and their replies.                      |
-
-## Juu Post Comment
-
-Structure for all comments made on juustagram posts. Contains the following properties:
-
-|   Property   |                  Type                   |                                 Description                                  |
-| :----------: | :-------------------------------------: | :--------------------------------------------------------------------------: |
-|    **id**    |                `number`                 |                               The comment ID.                                |
-|   **user**   |                `string`                 | The profile ID of the [`JuuProfile`](#juu-profile) that posted this message. |
-|   **text**   |                `string`                 |                              The message text.                               |
-| **comments** | [`JuuPostComment[]`](#juu-post-comment) |                          Comments under the reply.                           |
-
-## Juu Post Option
-
-Structure for all player interactions on juustagram posts. Contains the following properties:
-
-| Property  |                 Type                  |           Description            |
-| :-------: | :-----------------------------------: | :------------------------------: |
-| **text**  |               `string`                |         The option text.         |
-| **reply** | [`JuuPostComment`](#juu-post-comment) | The posters reply to the option. |
-
-
 # Chats
 
 ## Fleet Chat

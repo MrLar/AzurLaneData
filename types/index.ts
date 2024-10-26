@@ -22,7 +22,6 @@ import gearLabRecipes from '../data/gear_lab.json'
 import gearSkilList from '../data/gear_skins.json'
 import itemData from '../data/items.json'
 import groupChats from '../data/juu_chats.json'
-import shipPosts from '../data/juu_posts.json'
 import shipProfiles from '../data/juu_profiles.json'
 import mapList from '../data/maps.json'
 import abilityList from '../data/meowfficer_abilities.json'
@@ -46,7 +45,7 @@ import {
 import type { EquipDropData, EquipmentData, GearLabRecipe, UpgradeCost, Weapon } from './equipments'
 import { type GearSkin } from './gear_skins'
 import { type Item } from './items'
-import { type FleetChat, type JuuPost, type JuuProfile } from './juustagram'
+import { type FleetChat, type JuuProfile } from './juustagram'
 import type { MapData } from './maps'
 import type { MeowfficerAbility } from './meowfficer_abilities'
 import type { MeowfficerData } from './meowfficers'
@@ -87,12 +86,11 @@ const dorm3DGifts = dorm3DGiftList as Record<number, Dorm3DGift | undefined>
 const cruisePasses = cruiseList as Record<number, CruisePass | undefined>
 const fleetChats = groupChats as Record<number, FleetChat | undefined>
 const juuProfiles = shipProfiles as Record<number, JuuProfile | undefined>
-const juuPosts = shipPosts as { hidden: number[], posts: Record<number, JuuPost | undefined> }
 
 export {
     augCost, augments, cruisePasses, defaultEquip, dorm3DCharacters, dorm3DCollectable, dorm3DFurniture,
     dorm3DGifts, dorm3DRooms, equipCosts, equipDrops,
-    equipments, fleetChats, gearSkins, items, juuPosts, juuProfiles, labRecipes, maps, meowabilities,
+    equipments, fleetChats, gearSkins, items, juuProfiles, labRecipes, maps, meowabilities,
     meowfficers, researches, retroCosts, shipDrops, ships, shops, skills,
     skins, specialWeapons, techGroups, voiceLines
 }
