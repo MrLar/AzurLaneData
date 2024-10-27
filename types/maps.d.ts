@@ -15,6 +15,7 @@ export interface MapData {
     opsi: boolean
     buffs: BossBuff[]
     type: MapType
+    id: number
 }
 
 interface BossBuff {
