@@ -15,6 +15,7 @@ export interface SkillData {
     type: SkillType
     icon: number | null
     values: string[][]
+    opsi_values?: string[][]
 }
 
 // Equip, Offensive, Defensive, Support
