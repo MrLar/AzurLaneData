@@ -8056,6 +8056,136 @@
       "CN"
     ]
   },
+  "13400": {
+    "id": 13400,
+    "icon": "13400",
+    "name": "Neptune's Trident",
+    "limit_group": 20001,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 19020,
+        "with": 1019020
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "eva",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13420": {
+    "id": 13420,
+    "icon": "13420",
+    "name": "Watch Your Head!",
+    "limit_group": 163,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 1013,
+        "with": 1090330
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "13560": {
     "id": 13560,
     "icon": "13560",

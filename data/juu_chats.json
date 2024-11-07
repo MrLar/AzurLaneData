@@ -5032,6 +5032,1006 @@
     "icon": "200",
     "type": 2
   },
+  "20509": {
+    "id": 20509,
+    "name": "Howe_Cookies",
+    "topics": [
+      {
+        "id": 29,
+        "name": "Dessert-Making Course",
+        "unlock": {
+          "type": 1,
+          "ship_id": 461
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 1122,
+            "text": "Learn how to make excellent desserts! This course, taught by the expert Dunkerque, will turn you from a beginner into...",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Huh?"
+              },
+              {
+                "option_id": 2,
+                "text": "Wrong chat?"
+              },
+              {
+                "option_id": 3,
+                "text": "Take me off the mailing list."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 1123,
+            "text": "Huh?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1124,
+            "text": "Dunkerque teaches dessert-making courses?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1125,
+            "text": "Wrong chat?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1126,
+            "text": "Or are you just promoting her course to me?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1127,
+            "text": "Take me off the mailing list.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 1128,
+            "text": "What?",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 1129,
+            "text": "Oops, sorry. You see, there's a chat I use in place of a notepad...",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 1130,
+            "text": "The tab is very close to your chat icon, so I sent that to you by mistake.",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "So you want to get better at making desserts?"
+              },
+              {
+                "option_id": 5,
+                "text": "Oh, I see. No harm done."
+              },
+              {
+                "option_id": 6,
+                "text": "Take me off the mailing list."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 1131,
+            "text": "That explains it. So you want to get better at making desserts?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 1132,
+            "text": "Yes. I want to broaden my horizons from just making cookies.",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 7,
+                "text": "I can't wait to taste whatever you make."
+              }
+            ]
+          },
+          {
+            "choosen_option": 7,
+            "id": 1133,
+            "text": "I can't wait to taste whatever you make.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 1134,
+            "text": "Thanks. I promise you won't be disappointed.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 1135,
+            "text": "I'll let you know whenever there's a dessert for you to taste-test.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 1136,
+            "text": "Also, if there's a particular dessert you'd like to try, just let me know.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 1137,
+            "text": "I'll focus on making that one in particular.",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 8,
+                "text": "Sweet! You're the best."
+              }
+            ]
+          },
+          {
+            "choosen_option": 8,
+            "id": 1138,
+            "text": "Sweet! You're the best.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 1139,
+            "text": "line_part2_31",
+            "user": 20509,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 1140,
+            "text": "Oh, I see. No harm done.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 1141,
+            "text": "In fact, now I'm interested.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 1142,
+            "text": "You want to learn how to make desserts?",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 1143,
+            "text": "Alright, just give me a minute and I'll send you the details.",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 9,
+                "text": "Yeah, let's learn how to make desserts!"
+              },
+              {
+                "option_id": 10,
+                "text": "No, I meant I'm interested in the desserts."
+              }
+            ]
+          },
+          {
+            "choosen_option": 9,
+            "id": 1144,
+            "text": "Yeah, let's learn how to make desserts!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 9,
+            "id": 1145,
+            "text": "You got it.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 9,
+            "id": 1146,
+            "text": "line_part2_18",
+            "user": 20509,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 10,
+            "id": 1147,
+            "text": "No, I meant I'm interested in the desserts.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 10,
+            "id": 1148,
+            "text": "Ahh, I understand.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 10,
+            "id": 1149,
+            "text": "Well, I'll make a dessert for you once I've mastered the recipe.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 10,
+            "id": 1150,
+            "text": "I'm going to sign up for the course now.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 1151,
+            "text": "It's a spambot impersonating Howe!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 1152,
+            "text": "I'm not a bot! Sorry about this, I'll pay closer attention in the future!",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 1153,
+            "text": "imsgSticke_longisland",
+            "user": 20509,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 11,
+            "id": 1154,
+            "text": "imsgSticke_tirpitz",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 11,
+            "id": 1155,
+            "text": "imsgSticke_hammann",
+            "user": 20509,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 12,
+            "id": 1156,
+            "text": "imsgSticke_arkroyal",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 12,
+            "id": 1157,
+            "text": "Huh?",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 13,
+                "text": "Sorry, sorry..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 13,
+            "id": 1158,
+            "text": "I got a bit carried away with my teasing.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 13,
+            "id": 1159,
+            "text": "Alright then. Anyway, I'm going to sign up for the course now.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "name": "Dating Tips",
+        "unlock": {
+          "type": 2,
+          "ship_id": 461,
+          "affinity": 100
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 1160,
+            "text": "Commander, do you have a minute?",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 1161,
+            "text": "I wanted to ask you about your plans for tomorrow.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 1162,
+            "text": "Is there any place you'd like to go?",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Outside to be with nature."
+              },
+              {
+                "option_id": 2,
+                "text": "Indoors where it's comfy."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 1163,
+            "text": "Preferably somewhere where I can be surrounded by nature.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1164,
+            "text": "Yes, the weather's nice so we could go sunbathing or something.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1165,
+            "text": "Speaking of the weather, I noticed the flowers in the garden have started blooming.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1166,
+            "text": "Why don't I make some desserts and we go out on a picnic?",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1167,
+            "text": "Um wait... Maybe I shouldn't bring handmade desserts on our first date.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1168,
+            "text": "It would feel a bit too heavy-handed, wouldn't it? Based on the dating tips I got...",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "No, I think that's fine."
+              },
+              {
+                "option_id": 4,
+                "text": "Dating tips?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 1169,
+            "text": "No, I think that's fine.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1170,
+            "text": "Really?",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1171,
+            "text": "Great, then I'll get to work on those desserts.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1172,
+            "text": "I think I'll start with some cookies and muffins.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 1173,
+            "text": "What dating tips?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 1174,
+            "text": "I talked to Wales, and she gave me some pointers when I said I didn't want to mess up my first date.",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "When in doubt, do what feels right."
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 1175,
+            "text": "Theory is good, but experience is the best teacher. When in doubt, do what you feel is right.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 1176,
+            "text": "What I feel is right... I see.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 1177,
+            "text": "I'll get baking then. I think I'll start with some cookies and muffins.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1178,
+            "text": "Preferably indoors. A place you can be comfy.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1179,
+            "text": "Lovely, then our inclinations are aligned.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1180,
+            "text": "What do you say we go to a dessert café?",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1181,
+            "text": "That's another thing Wales tipped me about.",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "Sounds good to me."
+              },
+              {
+                "option_id": 7,
+                "text": "Dating tips?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 1182,
+            "text": "A dessert café sounds good to me.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 1183,
+            "text": "Which one, though?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 1184,
+            "text": "I know a lovely place. Found it just a while ago.",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 8,
+                "text": "Alright, let's go to that one."
+              }
+            ]
+          },
+          {
+            "choosen_option": 8,
+            "id": 1185,
+            "text": "Alright, let's go to that one.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 1186,
+            "text": "Perfect. I think you're going to like it.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 1187,
+            "text": "What dating tips?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 1188,
+            "text": "I talked to Wales, and she gave me some pointers when I said I didn't want to mess up my first date.",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 9,
+                "text": "So she had the same idea as us..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 9,
+            "id": 1189,
+            "text": "So she had the same idea as us... That means we might run into her tomorrow.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 9,
+            "id": 1190,
+            "text": "Now that you mention it... maybe I should ask what she's doing tomorrow.",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 10,
+                "text": "Now, about that café..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 10,
+            "id": 1191,
+            "text": "Also, which café did you have in mind?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 10,
+            "id": 1192,
+            "text": "I'll get back to you on that later!",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "name": "Dirty Clothes",
+        "unlock": {
+          "type": 2,
+          "ship_id": 461,
+          "affinity": 150
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 1193,
+            "text": "I'm done drying your clothes, love!",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 1194,
+            "text": "Thanks for letting me borrow them yesterday. Gosh, what a mess that was...",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Did you manage to clean yours?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 1195,
+            "text": "Yeah, you could say that again... Did you manage to clean yours?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1196,
+            "text": "Or are those chocolate cream stains too entrenched?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1197,
+            "text": "Probably... Bel said it's unlikely the stains will ever go away.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1198,
+            "text": "These were a favourite of mine, and making an identical set will take so long...",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1199,
+            "text": "What a pain...",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1200,
+            "text": "Are you in the office? Shall I bring your clothes to you?",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "No need. You can give them to me later."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 1201,
+            "text": "No need. You can give them to me later.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1202,
+            "text": "It's just a coat. You don't need to go out of your way for it.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1203,
+            "text": "It's about more than just the coat.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1204,
+            "text": "We didn't get to eat that chocolate cake after I dropped it, did we?",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1205,
+            "text": "Well, I made another, and I was hoping you'd enjoy it with me.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1206,
+            "text": "Your job is mentally taxing, and some sugar would give you the energy you need.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1207,
+            "text": "Then there's also the fact I want to be with you more...",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "Alright, then I'll clock out right now."
+              },
+              {
+                "option_id": 4,
+                "text": "Why don't I come to you instead?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 1208,
+            "text": "I'm close to done with my work anyway, so I'll clock out early.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1209,
+            "text": "Early? Don't you have a lot of work to do?",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "Early? Don't you have a lot of work to do?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 1210,
+            "text": "I'll finish the rest tomorrow.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 1211,
+            "text": "But then won't you have to work extra hard to make up for it?",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "Dupleix will help out."
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 1212,
+            "text": "It'll be fine. Dupleix is on secretary duty tomorrow.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 1213,
+            "text": "With her by my side, I could crunch any task in less than a day.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 1214,
+            "text": "Back on topic: what will it be? Are you coming to my office?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 1215,
+            "text": "Yes! I'll head there now, love.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 1216,
+            "text": "Just give me a minute.",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 1217,
+            "text": "I'll be there before you know it♪",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 1218,
+            "text": "Why don't I come to you instead?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 1219,
+            "text": "Pardon? Don't you still have work to do?",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 7,
+                "text": "Pardon? Don't you still have work to do?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 7,
+            "id": 1220,
+            "text": "I've wrapped up for today.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 1221,
+            "text": "THIS early?",
+            "user": 20509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 8,
+                "text": "I'll work double time tomorrow to make up for it."
+              }
+            ]
+          },
+          {
+            "choosen_option": 8,
+            "id": 1222,
+            "text": "I'll work double time tomorrow to make up for it.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 1223,
+            "text": "Forget about me, what about you? Are you ready for me to come over?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 1224,
+            "text": "Perfectly ready! I'll just bake some cookies while I wait for you♪",
+            "user": 20509,
+            "type": 1,
+            "options": []
+          }
+        ]
+      }
+    ],
+    "icon": "hao",
+    "type": 1
+  },
   "960005": {
     "id": 960005,
     "name": "Whydah",
@@ -7113,7 +8113,7 @@
           {
             "choosen_option": 2,
             "id": 99,
-            "text": "You TASTED it?",
+            "text": "Only a little.",
             "user": 960008,
             "type": 1,
             "options": []
@@ -9623,7 +10623,7 @@
           {
             "choosen_option": 9,
             "id": 359,
-            "text": "That's okay, I'll just go you and you can show me how",
+            "text": "That's okay, I'll just go see you and you can show me how",
             "user": 960011,
             "type": 1,
             "options": []

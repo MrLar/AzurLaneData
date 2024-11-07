@@ -30434,7 +30434,7 @@
   "18010": {
     "description": "Increases this ship's DMG with AP by $1.",
     "opsi_description": null,
-    "name": "MKV-Class AP Shells 194/160+",
+    "name": "MKV-Class AP Shells+",
     "max": 10,
     "id": 18010,
     "type": 1,
@@ -47085,7 +47085,7 @@
     ]
   },
   "150260": {
-    "description": "Increases this ship's FP and ACC by $1 and increases your Vichya Dominion Vanguard ships' FP and AA by $2. Enemies hit by this ship's Main Guns take 5.0% increases cannon and aircraft DMG from your Vichya Dominion ships for 6s.",
+    "description": "Increases this ship's FP and ACC by $1 and increases your Vichya Dominion Vanguard ships' FP and AA by $2. Enemies hit by this ship's Main Guns take 5.0% increasesd cannon and aircraft DMG from your Vichya Dominion ships for 6s.",
     "opsi_description": null,
     "name": "Bravery Bestowed",
     "max": 10,
@@ -53081,9 +53081,9 @@
     "values": []
   },
   "901010": {
-    "description": "The ship in the frontmost position of your Vanguard performs a slash attack. Slash attack pattern, range, and DMG are based on the number of ships equipped with slash attack gear, the ships' hull type, and the equipped module's effects.",
+    "description": "The ship in the frontmost position of your Vanguard performs a slash attack. Slash attack pattern, range, and DMG are based on the number of Vanguard ships equipped with slash attack gear, the ships' hull type, and the equipped module's effects.",
     "opsi_description": null,
-    "name": "Slash Attack - Spread",
+    "name": "Special Slash - Spread",
     "max": 1,
     "id": 901010,
     "type": 0,
@@ -55766,6 +55766,53 @@
       ]
     ]
   },
+  "1019020": {
+    "description": "Increases this ship's Crit Rate by $2. Every 10s: fires a $3 special barrage (DMG is based on the skill's level) and deploys a barrier (lasts 5s) that can negate DMG equal to 5.0% of this ship's max HP. Once per battle, when this ship's HP falls below 20.0% as a result of DMG taken: restores $1 of this ship's max HP and increases this ship's RLD by 30.0% until the battle ends.",
+    "opsi_description": null,
+    "name": "Goddess of the Sea+",
+    "max": 10,
+    "id": 1019020,
+    "type": 2,
+    "icon": 19020,
+    "values": [
+      [
+        "15.0%",
+        "16.1%",
+        "17.2%",
+        "18.3%",
+        "19.4%",
+        "20.5%",
+        "21.6%",
+        "22.7%",
+        "23.8%",
+        "25.0%"
+      ],
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
   "1019060": {
     "description": "When this ship fires her torpedoes: $1 chance to fire a $2 improved special barrage (DMG is based on the skill's level). After this barrage fires: this ship evades all attacks for 1.5s.",
     "opsi_description": null,
@@ -57134,6 +57181,41 @@
         "4.0%",
         "4.5%",
         "5.0%"
+      ]
+    ]
+  },
+  "1090330": {
+    "description": "Increases your Vanguard's TRP by $1 (does not stack with similar skills). Every 5s: fires a $2 special torpedo barrage (DMG is based on the skill's level and this ship's TRP stat).",
+    "opsi_description": null,
+    "name": "Torpedo Command - Shiratsuyu",
+    "max": 10,
+    "id": 1090330,
+    "type": 3,
+    "icon": 1010,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
       ]
     ]
   },
