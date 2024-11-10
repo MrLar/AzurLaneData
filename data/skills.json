@@ -10060,7 +10060,7 @@
     ]
   },
   "12470": {
-    "description": "Increases this boat's DMG to enemy CVs by $1. When this boat resurfaces and when it retreats: fires a special torpedo barrage $2 (DMG is based on the skill's level.) When sortied with Albacore: increases the DMG of this barrage's torpedoes by $3.",
+    "description": "Increases this boat's DMG to enemy CVs {and CVLs|Game does not mention CVLs are affected.} by $1. When this boat resurfaces and when it retreats: fires a special torpedo barrage $2 (DMG is based on the skill's level.) When sortied with Albacore or {Albacore μ|Game does not mention Albacore μ.}: increases the DMG of this barrage's torpedoes by $3.",
     "opsi_description": null,
     "name": "Double The Gato",
     "max": 10,
