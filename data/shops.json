@@ -24856,7 +24856,7 @@
         "icon": "props/icon_frame",
         "name": "Icon Frame: Black Friday Frenzy",
         "limit": 1,
-        "cost": 500
+        "cost": 1000
       },
       {
         "id": 3018,
@@ -24919,6 +24919,18 @@
         "cost": 200
       },
       {
+        "id": 3023,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/99150",
+        "name": "Super Saver Cart (Bomber)",
+        "limit": 1,
+        "cost": 200
+      },
+      {
         "id": 42060,
         "type": 0,
         "linkable": true,
@@ -24947,7 +24959,7 @@
         "type": 0,
         "linkable": true,
         "rarity": 4,
-        "amount": 5,
+        "amount": 1,
         "blueprint": false,
         "icon": "props/manhanquanxi",
         "name": "Full Course",
@@ -24987,8 +24999,8 @@
         "blueprint": false,
         "icon": "props/specialarmor_prt",
         "name": "Specialized Core",
-        "cost": 10,
-        "limit": 250
+        "cost": 250,
+        "limit": 10
       },
       {
         "id": 20001,
@@ -25030,7 +25042,7 @@
         "id": 30114,
         "type": 0,
         "linkable": true,
-        "rarity": 6,
+        "rarity": 5,
         "amount": 5,
         "blueprint": false,
         "icon": "props/30114",
