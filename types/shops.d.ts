@@ -21,7 +21,7 @@ export interface Shop {
     name: string
     id: number
     currency: Currency
-    currency_alt?: Currency
+    currency_alt?: Currency[]
     refresh_times?: string[]
     manual_refresh?: boolean
     refresh_cost?: number[]
@@ -39,7 +39,7 @@ export interface ShopItem extends ItemDrop {
     group_limit?: number
     cost: number
     ref?: string
-    use_alt?: boolean
+    use_alt?: number
 }
 
 export interface ItemPool {

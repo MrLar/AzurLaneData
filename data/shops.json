@@ -785,12 +785,14 @@
       "icon": "props/gold",
       "linkable": true
     },
-    "currency_alt": {
-      "id": 59005,
-      "name": "Gems",
-      "icon": "props/gem",
-      "linkable": true
-    }
+    "currency_alt": [
+      {
+        "id": 59005,
+        "name": "Gems",
+        "icon": "props/gem",
+        "linkable": true
+      }
+    ]
   },
   "3": {
     "id": 3,
@@ -3185,7 +3187,7 @@
         "name": "Specialized Bulin Custom MKIII",
         "limit": 0,
         "cost": 4000,
-        "use_alt": true
+        "use_alt": 0
       },
       {
         "id": 59749,
@@ -3198,7 +3200,7 @@
         "name": "Sparkling Mic",
         "limit": 1,
         "cost": 2000,
-        "use_alt": true
+        "use_alt": 0
       },
       {
         "id": 59762,
@@ -3211,7 +3213,7 @@
         "name": "The Warrior's Prowess",
         "limit": 1,
         "cost": 2000,
-        "use_alt": true
+        "use_alt": 0
       },
       {
         "id": 59844,
@@ -3224,7 +3226,7 @@
         "name": "Seal of the Azure Dragon",
         "limit": 1,
         "cost": 1000,
-        "use_alt": true
+        "use_alt": 0
       },
       {
         "id": 59845,
@@ -3237,7 +3239,7 @@
         "name": "Seal of the White Tiger",
         "limit": 1,
         "cost": 1000,
-        "use_alt": true
+        "use_alt": 0
       },
       {
         "id": 59843,
@@ -3250,7 +3252,7 @@
         "name": "Eau de Barbecue",
         "limit": 1,
         "cost": 2000,
-        "use_alt": true
+        "use_alt": 0
       },
       {
         "id": 14001,
@@ -3443,12 +3445,14 @@
       "name": "Prototype Core",
       "linkable": true
     },
-    "currency_alt": {
-      "id": 59010,
-      "icon": "props/specialarmor_prt",
-      "name": "Specialized Core",
-      "linkable": true
-    }
+    "currency_alt": [
+      {
+        "id": 59010,
+        "icon": "props/specialarmor_prt",
+        "name": "Specialized Core",
+        "linkable": true
+      }
+    ]
   },
   "7": {
     "id": 7,
@@ -7322,7 +7326,7 @@
         "name": "Cake Gift Box",
         "limit": 3,
         "cost": 30,
-        "use_alt": true
+        "use_alt": 0
       },
       {
         "id": 1021003,
@@ -7335,7 +7339,7 @@
         "name": "Cake Gift Box",
         "limit": 2,
         "cost": 60,
-        "use_alt": true
+        "use_alt": 0
       },
       {
         "id": 2022001,
@@ -7348,7 +7352,7 @@
         "name": "Cleaning Supplies Toolbox",
         "limit": 1,
         "cost": 280,
-        "use_alt": true,
+        "use_alt": 0,
         "limit_type": 1
       },
       {
@@ -7362,7 +7366,7 @@
         "name": "Sweet Secret",
         "limit": 1,
         "cost": 400,
-        "use_alt": true,
+        "use_alt": 0,
         "limit_type": 1
       },
       {
@@ -7376,7 +7380,7 @@
         "name": "Afternoon Dreamhome",
         "limit": 1,
         "cost": 480,
-        "use_alt": true,
+        "use_alt": 0,
         "limit_type": 1
       }
     ],
@@ -7386,12 +7390,14 @@
       "icon": "props/gold",
       "linkable": true
     },
-    "currency_alt": {
-      "id": 59005,
-      "name": "Gems",
-      "icon": "props/gem",
-      "linkable": true
-    }
+    "currency_alt": [
+      {
+        "id": 59005,
+        "name": "Gems",
+        "icon": "props/gem",
+        "linkable": true
+      }
+    ]
   },
   "827": {
     "type": 1,
@@ -19768,7 +19774,7 @@
         "name": "Laffey II",
         "limit": 1,
         "cost": 200,
-        "use_alt": true
+        "use_alt": 0
       },
       {
         "id": 615,
@@ -19781,7 +19787,7 @@
         "name": "Laffey II",
         "limit": 1,
         "cost": 300,
-        "use_alt": true
+        "use_alt": 0
       },
       {
         "id": 59001,
@@ -19794,7 +19800,7 @@
         "name": "Coins",
         "limit": 350,
         "cost": 1,
-        "use_alt": true
+        "use_alt": 0
       },
       {
         "id": 59516,
@@ -20141,12 +20147,14 @@
       "icon": "props/xinghai_pt1",
       "linkable": false
     },
-    "currency_alt": {
-      "id": 59516,
-      "name": "Bunbun UR Voucher",
-      "icon": "props/xinghai_pt2",
-      "linkable": false
-    },
+    "currency_alt": [
+      {
+        "id": 59516,
+        "name": "Bunbun UR Voucher",
+        "icon": "props/xinghai_pt2",
+        "linkable": false
+      }
+    ],
     "dates": [
       [
         1703142000000,
@@ -21840,7 +21848,7 @@
         "name": "Mogador",
         "limit": 1,
         "cost": 200,
-        "use_alt": true
+        "use_alt": 0
       },
       {
         "id": 642,
@@ -21853,7 +21861,7 @@
         "name": "Mogador",
         "limit": 1,
         "cost": 300,
-        "use_alt": true
+        "use_alt": 0
       },
       {
         "id": 59001,
@@ -21866,7 +21874,7 @@
         "name": "Coins",
         "limit": 350,
         "cost": 1,
-        "use_alt": true
+        "use_alt": 0
       },
       {
         "id": 59580,
@@ -22225,12 +22233,14 @@
       "icon": "props/huiguang_pt1",
       "linkable": false
     },
-    "currency_alt": {
-      "id": 59580,
-      "name": "UR Voucher",
-      "icon": "props/huiguang_pt2",
-      "linkable": false
-    },
+    "currency_alt": [
+      {
+        "id": 59580,
+        "name": "UR Voucher",
+        "icon": "props/huiguang_pt2",
+        "linkable": false
+      }
+    ],
     "dates": [
       [
         1716274800000,
@@ -25012,7 +25022,8 @@
         "icon": "props/20001",
         "name": "Wisdom Cube",
         "limit": 4,
-        "cost": 225
+        "cost": 225,
+        "use_alt": 0
       },
       {
         "id": 15003,
@@ -25024,7 +25035,8 @@
         "icon": "props/15003",
         "name": "Quick Finisher",
         "limit": 4,
-        "cost": 150
+        "cost": 150,
+        "use_alt": 0
       },
       {
         "id": 15009,
@@ -25036,7 +25048,8 @@
         "icon": "props/15009",
         "name": "Identity Change Certification",
         "limit": 1,
-        "cost": 225
+        "cost": 225,
+        "use_alt": 0
       },
       {
         "id": 30114,
@@ -25048,7 +25061,8 @@
         "icon": "props/30114",
         "name": "Universal T4 Part",
         "limit": 10,
-        "cost": 225
+        "cost": 225,
+        "use_alt": 0
       },
       {
         "id": 16502,
@@ -25060,7 +25074,8 @@
         "icon": "props/16502",
         "name": "T2 EXP Data Pack",
         "limit": 5,
-        "cost": 112
+        "cost": 112,
+        "use_alt": 0
       },
       {
         "id": 30113,
@@ -25072,7 +25087,8 @@
         "icon": "props/30113",
         "name": "Universal T3 Part",
         "limit": 10,
-        "cost": 1400
+        "cost": 1800,
+        "use_alt": 1
       },
       {
         "id": -1,
@@ -25085,7 +25101,8 @@
         "icon": "props/54003",
         "cost": 1440,
         "limit": 10,
-        "ref": "t3_skill_pool"
+        "ref": "t3_skill_pool",
+        "use_alt": 1
       },
       {
         "id": 16501,
@@ -25097,7 +25114,8 @@
         "icon": "props/16501",
         "name": "T1 EXP Data Pack",
         "limit": 20,
-        "cost": 270
+        "cost": 270,
+        "use_alt": 1
       },
       {
         "id": 30014,
@@ -25109,7 +25127,8 @@
         "icon": "props/30004",
         "name": "T4 Eagle Tech Pack",
         "limit": 2,
-        "cost": 1500
+        "cost": 1500,
+        "use_alt": 1
       },
       {
         "id": 30034,
@@ -25121,7 +25140,8 @@
         "icon": "props/30004",
         "name": "T4 Sakura Tech Pack",
         "limit": 2,
-        "cost": 1500
+        "cost": 1500,
+        "use_alt": 1
       },
       {
         "id": 30024,
@@ -25133,7 +25153,8 @@
         "icon": "props/30004",
         "name": "T4 Royal Tech Pack",
         "limit": 2,
-        "cost": 1500
+        "cost": 1500,
+        "use_alt": 1
       },
       {
         "id": 30044,
@@ -25145,7 +25166,8 @@
         "icon": "props/30004",
         "name": "T4 Iron Blood Tech Pack",
         "limit": 2,
-        "cost": 1500
+        "cost": 1500,
+        "use_alt": 1
       },
       {
         "id": 50005,
@@ -25157,7 +25179,8 @@
         "icon": "props/huangjialiaoli",
         "name": "Royal Gourmet",
         "limit": 5,
-        "cost": 460
+        "cost": 460,
+        "use_alt": 1
       }
     ],
     "pools": [
@@ -25210,6 +25233,20 @@
       "icon": "props/65046",
       "linkable": true
     },
+    "currency_alt": [
+      {
+        "id": 59005,
+        "name": "Gems",
+        "icon": "props/gem",
+        "linkable": true
+      },
+      {
+        "id": 59001,
+        "name": "Coins",
+        "icon": "props/gold",
+        "linkable": true
+      }
+    ],
     "dates": [
       [
         1731567600000,
