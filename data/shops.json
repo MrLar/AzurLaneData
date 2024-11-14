@@ -59,7 +59,7 @@
         "cost": 3000
       },
       {
-        "id": 50006,
+        "id": 50005,
         "type": 0,
         "linkable": true,
         "rarity": 4,
@@ -23867,7 +23867,7 @@
         "cost": 8000
       },
       {
-        "id": 65034,
+        "id": 59274,
         "type": 0,
         "linkable": false,
         "rarity": 5,
@@ -24245,7 +24245,7 @@
         "amount": 1,
         "blueprint": false,
         "icon": "props/appearanceboxguiguai",
-        "name": "外观装备箱(恐怖狂潮)",
+        "name": "Gear Skin Box (Halloween Horrors)",
         "limit": 10,
         "cost": 2000
       },
@@ -24537,6 +24537,671 @@
       [
         1729753200000,
         1728280799000
+      ]
+    ]
+  },
+  "5647": {
+    "type": 1,
+    "name": "Violet Tempest, Blooming Lycoris Rerun",
+    "id": 5647,
+    "items": [
+      {
+        "id": 567,
+        "type": 2,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "ships/compact/ruoyue",
+        "name": "Wakatsuki",
+        "limit": 5,
+        "cost": 8000
+      },
+      {
+        "id": 34240,
+        "level": 0,
+        "type": 1,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/34200",
+        "name": "Triple 460mm Main Gun Mount",
+        "limit": 1,
+        "cost": 10000
+      },
+      {
+        "id": 59274,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/buildticket",
+        "name": "Shipbuilding Support Ticket",
+        "limit": 10,
+        "cost": 500
+      },
+      {
+        "id": 30338,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/appearanceboxxueyuanji",
+        "name": "Gear Skin Box (Academy Festival)",
+        "limit": 10,
+        "cost": 2000
+      },
+      {
+        "id": 30014,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30004",
+        "name": "T4 Eagle Tech Pack",
+        "limit": 4,
+        "cost": 300
+      },
+      {
+        "id": 30024,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30004",
+        "name": "T4 Royal Tech Pack",
+        "limit": 4,
+        "cost": 300
+      },
+      {
+        "id": 30034,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30004",
+        "name": "T4 Sakura Tech Pack",
+        "limit": 4,
+        "cost": 300
+      },
+      {
+        "id": 30044,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30004",
+        "name": "T4 Iron Blood Tech Pack",
+        "limit": 4,
+        "cost": 300
+      },
+      {
+        "id": 15008,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 100,
+        "blueprint": false,
+        "icon": "props/15008",
+        "name": "Cognitive Chips",
+        "limit": 10,
+        "cost": 300
+      },
+      {
+        "id": 15012,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 10,
+        "blueprint": false,
+        "icon": "props/15012",
+        "name": "Cognitive Array",
+        "limit": 5,
+        "cost": 1000
+      },
+      {
+        "id": 20011,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/20011",
+        "name": "Rare Cat Box",
+        "limit": 10,
+        "cost": 250
+      },
+      {
+        "id": 20012,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/20012",
+        "name": "Elite Cat Box",
+        "limit": 5,
+        "cost": 500
+      },
+      {
+        "id": 20013,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/20013",
+        "name": "Super Rare Cat Box",
+        "limit": 2,
+        "cost": 3000
+      },
+      {
+        "id": 42040,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/42040",
+        "name": "General Blueprint - Series 5",
+        "limit": 30,
+        "cost": 500
+      },
+      {
+        "id": 42046,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/42046",
+        "name": "Special General Blueprint - Series 5",
+        "limit": 10,
+        "cost": 1000
+      },
+      {
+        "id": 17003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17003",
+        "name": "T3 General Part",
+        "limit": 30,
+        "cost": 30
+      },
+      {
+        "id": 17013,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17013",
+        "name": "T3 Main Gun Part",
+        "limit": 30,
+        "cost": 30
+      },
+      {
+        "id": 17023,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17023",
+        "name": "T3 Torpedo Part",
+        "limit": 30,
+        "cost": 30
+      },
+      {
+        "id": 17033,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17033",
+        "name": "T3 Anti-Air Gun Part",
+        "limit": 30,
+        "cost": 30
+      },
+      {
+        "id": 17043,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17043",
+        "name": "T3 Aircraft Part",
+        "limit": 30,
+        "cost": 30
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 2000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins",
+        "limit": 5,
+        "cost": 500
+      },
+      {
+        "id": 59002,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 1000,
+        "blueprint": false,
+        "icon": "props/oil",
+        "name": "Oil",
+        "limit": 5,
+        "cost": 450
+      },
+      {
+        "id": 50001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/suansukele",
+        "name": "Oxy-cola",
+        "limit": 100,
+        "cost": 15
+      }
+    ],
+    "active": false,
+    "currency": {
+      "id": 65041,
+      "name": "Violet Go Stone",
+      "icon": "props/rixiv3_pt",
+      "linkable": false
+    },
+    "dates": [
+      [
+        1731567600000,
+        1732172399000
+      ]
+    ]
+  },
+  "5650": {
+    "name": "Black Friday Shop",
+    "id": 5650,
+    "type": 1,
+    "manual_refresh": false,
+    "refresh_times": [],
+    "icon": "props/65046",
+    "icon_rarity": 5,
+    "items": [
+      {
+        "id": 608,
+        "type": 15,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/icon_frame",
+        "name": "Icon Frame: Black Friday Frenzy",
+        "limit": 1,
+        "cost": 500
+      },
+      {
+        "id": 3018,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/99147",
+        "name": "Discount Tag Shell",
+        "limit": 1,
+        "cost": 500
+      },
+      {
+        "id": 3019,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/99148",
+        "name": "Discount Bag Torpedo",
+        "limit": 1,
+        "cost": 500
+      },
+      {
+        "id": 3020,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/99149",
+        "name": "Precious Gift Shell",
+        "limit": 1,
+        "cost": 500
+      },
+      {
+        "id": 3021,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/99150",
+        "name": "Super Saver Cart (Torpedo)",
+        "limit": 1,
+        "cost": 200
+      },
+      {
+        "id": 3022,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/99150",
+        "name": "Super Saver Cart (Fighter)",
+        "limit": 1,
+        "cost": 200
+      },
+      {
+        "id": 42060,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/42060",
+        "name": "General Blueprint - Series 7",
+        "limit": 20,
+        "cost": 30
+      },
+      {
+        "id": 42066,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/42066",
+        "name": "Special General Blueprint - Series 7",
+        "limit": 5,
+        "cost": 120
+      },
+      {
+        "id": 50006,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 5,
+        "blueprint": false,
+        "icon": "props/manhanquanxi",
+        "name": "Full Course",
+        "limit": 5,
+        "cost": 30
+      },
+      {
+        "id": 2,
+        "type": 2,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "ships/compact/kin",
+        "name": "Prototype Bulin MKII",
+        "limit": 2,
+        "cost": 500
+      },
+      {
+        "id": 20013,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/20013",
+        "name": "Super Rare Cat Box",
+        "limit": 2,
+        "cost": 300
+      },
+      {
+        "id": 59010,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 100,
+        "blueprint": false,
+        "icon": "props/specialarmor_prt",
+        "name": "Specialized Core",
+        "cost": 10,
+        "limit": 250
+      },
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 10,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube",
+        "limit": 4,
+        "cost": 225
+      },
+      {
+        "id": 15003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 10,
+        "blueprint": false,
+        "icon": "props/15003",
+        "name": "Quick Finisher",
+        "limit": 4,
+        "cost": 150
+      },
+      {
+        "id": 15009,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/15009",
+        "name": "Identity Change Certification",
+        "limit": 1,
+        "cost": 225
+      },
+      {
+        "id": 30114,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 5,
+        "blueprint": false,
+        "icon": "props/30114",
+        "name": "Universal T4 Part",
+        "limit": 10,
+        "cost": 225
+      },
+      {
+        "id": 16502,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 10,
+        "blueprint": false,
+        "icon": "props/16502",
+        "name": "T2 EXP Data Pack",
+        "limit": 5,
+        "cost": 112
+      },
+      {
+        "id": 30113,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 5,
+        "blueprint": false,
+        "icon": "props/30113",
+        "name": "Universal T3 Part",
+        "limit": 10,
+        "cost": 1400
+      },
+      {
+        "id": -1,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "name": "Select one from T3 Skill Book Pool",
+        "blueprint": false,
+        "icon": "props/54003",
+        "cost": 1440,
+        "limit": 10,
+        "ref": "t3_skill_pool"
+      },
+      {
+        "id": 16501,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 5,
+        "blueprint": false,
+        "icon": "props/16501",
+        "name": "T1 EXP Data Pack",
+        "limit": 20,
+        "cost": 270
+      },
+      {
+        "id": 30014,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30004",
+        "name": "T4 Eagle Tech Pack",
+        "limit": 2,
+        "cost": 1500
+      },
+      {
+        "id": 30034,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30004",
+        "name": "T4 Sakura Tech Pack",
+        "limit": 2,
+        "cost": 1500
+      },
+      {
+        "id": 30024,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30004",
+        "name": "T4 Royal Tech Pack",
+        "limit": 2,
+        "cost": 1500
+      },
+      {
+        "id": 30044,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30004",
+        "name": "T4 Iron Blood Tech Pack",
+        "limit": 2,
+        "cost": 1500
+      },
+      {
+        "id": 50005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/huangjialiaoli",
+        "name": "Royal Gourmet",
+        "limit": 5,
+        "cost": 460
+      }
+    ],
+    "pools": [
+      {
+        "id": "t3_skill_pool",
+        "name": "T3 Skill Book Pool",
+        "items": [
+          {
+            "id": 16003,
+            "type": 0,
+            "linkable": true,
+            "rarity": 5,
+            "amount": -1,
+            "blueprint": false,
+            "icon": "props/16003",
+            "name": "T3 Offensive Skill Book",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 16013,
+            "type": 0,
+            "linkable": true,
+            "rarity": 5,
+            "amount": -1,
+            "blueprint": false,
+            "icon": "props/16013",
+            "name": "T3 Defensive Skill Book",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 16023,
+            "type": 0,
+            "linkable": true,
+            "rarity": 5,
+            "amount": -1,
+            "blueprint": false,
+            "icon": "props/16023",
+            "name": "T3 Support Skill Book",
+            "cost": -1,
+            "limit": -1
+          }
+        ]
+      }
+    ],
+    "currency": {
+      "id": 65046,
+      "name": "Black Friday PT",
+      "icon": "props/65046",
+      "linkable": true
+    },
+    "dates": [
+      [
+        1731567600000,
+        1733381999000
       ]
     ]
   },

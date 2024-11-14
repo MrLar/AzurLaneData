@@ -17191,7 +17191,8 @@
     "icon": "equips/96331",
     "rarity": 4,
     "locations": [
-      "Cruise Pass Season 7"
+      "Cruise Pass Season 7",
+      "Black Friday Event (involves real money)"
     ],
     "servers": [
       "EN",
@@ -30902,6 +30903,272 @@
       }
     ]
   },
+  "40131": {
+    "id": 40131,
+    "name": "Black Friday Daily Free Pack (Day 1, 2023 and 2024)",
+    "description": "Contains 3x High-Efficiency Combat Logistics Plans, 150x Oil.",
+    "type": 17,
+    "icon": "chargeicon/pack_free",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 61001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 3,
+        "blueprint": false,
+        "icon": "props/tebiezuozhan",
+        "name": "High-Efficiency Combat Logistics Plan"
+      },
+      {
+        "id": 59002,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 150,
+        "blueprint": false,
+        "icon": "props/oil",
+        "name": "Oil"
+      }
+    ]
+  },
+  "40132": {
+    "id": 40132,
+    "name": "Black Friday Daily Free Pack (Day 2, 2023 and 2024)",
+    "description": "Contains 3x High-Efficiency Combat Logistics Plans, 150x Oil.",
+    "type": 17,
+    "icon": "chargeicon/pack_free",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 61001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 3,
+        "blueprint": false,
+        "icon": "props/tebiezuozhan",
+        "name": "High-Efficiency Combat Logistics Plan"
+      },
+      {
+        "id": 59002,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 150,
+        "blueprint": false,
+        "icon": "props/oil",
+        "name": "Oil"
+      }
+    ]
+  },
+  "40133": {
+    "id": 40133,
+    "name": "Black Friday Daily Free Pack (Day 3, 2023 and 2024)",
+    "description": "Contains 3x High-Efficiency Combat Logistics Plans, 150x Oil.",
+    "type": 17,
+    "icon": "chargeicon/pack_free",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 61001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 3,
+        "blueprint": false,
+        "icon": "props/tebiezuozhan",
+        "name": "High-Efficiency Combat Logistics Plan"
+      },
+      {
+        "id": 59002,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 150,
+        "blueprint": false,
+        "icon": "props/oil",
+        "name": "Oil"
+      }
+    ]
+  },
+  "40134": {
+    "id": 40134,
+    "name": "Black Friday Daily Free Pack (Day 4, 2023 and 2024)",
+    "description": "Contains 3x High-Efficiency Combat Logistics Plans, 150x Oil.",
+    "type": 17,
+    "icon": "chargeicon/pack_free",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 61001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 3,
+        "blueprint": false,
+        "icon": "props/tebiezuozhan",
+        "name": "High-Efficiency Combat Logistics Plan"
+      },
+      {
+        "id": 59002,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 150,
+        "blueprint": false,
+        "icon": "props/oil",
+        "name": "Oil"
+      }
+    ]
+  },
+  "40135": {
+    "id": 40135,
+    "name": "Black Friday Daily Free Pack (Day 5, 2023 and 2024)",
+    "description": "Contains 3x High-Efficiency Combat Logistics Plans, 150x Oil.",
+    "type": 17,
+    "icon": "chargeicon/pack_free",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 61001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 3,
+        "blueprint": false,
+        "icon": "props/tebiezuozhan",
+        "name": "High-Efficiency Combat Logistics Plan"
+      },
+      {
+        "id": 59002,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 150,
+        "blueprint": false,
+        "icon": "props/oil",
+        "name": "Oil"
+      }
+    ]
+  },
+  "40136": {
+    "id": 40136,
+    "name": "Black Friday Daily Free Pack (Day 6, 2023 and 2024)",
+    "description": "Contains 3x High-Efficiency Combat Logistics Plans, 150x Oil.",
+    "type": 17,
+    "icon": "chargeicon/pack_free",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 61001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 3,
+        "blueprint": false,
+        "icon": "props/tebiezuozhan",
+        "name": "High-Efficiency Combat Logistics Plan"
+      },
+      {
+        "id": 59002,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 150,
+        "blueprint": false,
+        "icon": "props/oil",
+        "name": "Oil"
+      }
+    ]
+  },
+  "40137": {
+    "id": 40137,
+    "name": "Black Friday Daily Free Pack (Day 7, 2023 and 2024)",
+    "description": "Contains 3x High-Efficiency Combat Logistics Plans, 150x Oil.",
+    "type": 17,
+    "icon": "chargeicon/pack_free",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 61001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 3,
+        "blueprint": false,
+        "icon": "props/tebiezuozhan",
+        "name": "High-Efficiency Combat Logistics Plan"
+      },
+      {
+        "id": 59002,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 150,
+        "blueprint": false,
+        "icon": "props/oil",
+        "name": "Oil"
+      }
+    ]
+  },
   "40138": {
     "id": 40138,
     "name": "Limited Build Supplies",
@@ -32099,6 +32366,252 @@
         "blueprint": false,
         "icon": "props/oil",
         "name": "Oil"
+      }
+    ]
+  },
+  "40990": {
+    "id": 40990,
+    "name": "Black Friday Daily Paid Pack (Day 1, 2023)",
+    "description": "Contains 60x Gems, 2x Special General Blueprints - Series 5.",
+    "type": 17,
+    "icon": "props/pack_day1",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 42046,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "props/42046",
+        "name": "Special General Blueprint - Series 5"
+      },
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 60,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
+      }
+    ]
+  },
+  "40991": {
+    "id": 40991,
+    "name": "Black Friday Daily Paid Pack (Day 2, 2023)",
+    "description": "Contains 200x Gems.",
+    "type": 17,
+    "icon": "props/pack_day2",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 200,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
+      }
+    ]
+  },
+  "40992": {
+    "id": 40992,
+    "name": "Black Friday Daily Paid Pack (Day 3, 2023)",
+    "description": "Contains 1x SR Gear Development Pack, 5x Universal T4 Parts.",
+    "type": 17,
+    "icon": "props/pack_day3",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 30202,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30202",
+        "name": "SR Gear Development Pack"
+      },
+      {
+        "id": 30114,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 5,
+        "blueprint": false,
+        "icon": "props/30114",
+        "name": "Universal T4 Part"
+      }
+    ]
+  },
+  "40993": {
+    "id": 40993,
+    "name": "Black Friday Daily Paid Pack (Day 4, 2023)",
+    "description": "Contains 60x Gems, 1x Prototype Bulin MKII.",
+    "type": 17,
+    "icon": "props/pack_day4",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 2,
+        "type": 2,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "ships/compact/kin",
+        "name": "Prototype Bulin MKII"
+      },
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 60,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
+      }
+    ]
+  },
+  "40994": {
+    "id": 40994,
+    "name": "Black Friday Daily Paid Pack (Day 5, 2023)",
+    "description": "Contains 60x T2 EXP Data Packs.",
+    "type": 17,
+    "icon": "props/pack_day5",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 16502,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 60,
+        "blueprint": false,
+        "icon": "props/16502",
+        "name": "T2 EXP Data Pack"
+      }
+    ]
+  },
+  "40995": {
+    "id": 40995,
+    "name": "Black Friday Daily Paid Pack (Day 6, 2023)",
+    "description": "Contains 10x Wisdom Cubes, 5x Quick Finishers.",
+    "type": 17,
+    "icon": "props/pack_day6",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 10,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      },
+      {
+        "id": 15003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 5,
+        "blueprint": false,
+        "icon": "props/15003",
+        "name": "Quick Finisher"
+      }
+    ]
+  },
+  "40996": {
+    "id": 40996,
+    "name": "Black Friday Daily Paid Pack (Day 7, 2023)",
+    "description": "Contains 60x Gems, 2x Special General Blueprints - Series 5.",
+    "type": 17,
+    "icon": "props/pack_day7",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 42056,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "props/42056",
+        "name": "Special General Blueprint - Series 6"
+      },
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 60,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
       }
     ]
   },
@@ -37160,7 +37673,7 @@
     "icon": "props/skin_exchange_n",
     "rarity": 5,
     "locations": [
-      "Black Friday Event (involves real money)"
+      "IAP Purchase"
     ],
     "servers": [
       "EN",
@@ -37177,7 +37690,7 @@
     "icon": "props/59504",
     "rarity": 5,
     "locations": [
-      "Black Friday Event (involves real money)"
+      "IAP Purchase"
     ],
     "servers": [
       "EN",
@@ -37225,7 +37738,7 @@
     "icon": "props/59505",
     "rarity": 5,
     "locations": [
-      "Black Friday Event (involves real money)"
+      "IAP Purchase"
     ],
     "servers": [
       "EN",
@@ -37380,7 +37893,7 @@
     "icon": "props/skin_780",
     "rarity": 5,
     "locations": [
-      "Black Friday Event (involves real money)"
+      "IAP Purchase"
     ],
     "servers": [
       "EN",
@@ -37397,7 +37910,7 @@
     "icon": "props/skin_1080",
     "rarity": 5,
     "locations": [
-      "Black Friday Event (involves real money)"
+      "IAP Purchase"
     ],
     "servers": [
       "EN",
@@ -37499,6 +38012,475 @@
         "blueprint": false,
         "icon": "ships/compact/wuerlixi_3",
         "name": "Ignition Matrician"
+      }
+    ]
+  },
+  "59555": {
+    "id": 59555,
+    "name": "Choose-Your-Own Gift Pack I",
+    "description": "Can be used to obtain one of the following items: 1x Prototype Bulin MKII, 15x Wisdom Cubes.",
+    "type": 13,
+    "icon": "props/59555",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN"
+    ],
+    "contains": [
+      {
+        "id": 2,
+        "type": 2,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "ships/compact/kin",
+        "name": "Prototype Bulin MKII"
+      },
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 15,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      }
+    ]
+  },
+  "59556": {
+    "id": 59556,
+    "name": "Choose-Your-Own Gift Pack II",
+    "description": "Can be used to obtain one of the following items: 1x Promise Ring, 15x Special General Blueprints - Series 7, 20x Wisdom Cubes.",
+    "type": 13,
+    "icon": "props/59504",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN"
+    ],
+    "contains": [
+      {
+        "id": 15006,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/ring",
+        "name": "Promise Ring"
+      },
+      {
+        "id": 42066,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 15,
+        "blueprint": false,
+        "icon": "props/42066",
+        "name": "Special General Blueprint - Series 7"
+      },
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      }
+    ]
+  },
+  "59557": {
+    "id": 59557,
+    "name": "Choose-Your-Own Gift Pack III",
+    "description": "Can be used to obtain one of the following items: 1x Static Skin Voucher (2024), 25x Prototype Weapon Blueprints - Series 1, 25x Prototype Weapon Blueprints - Series 2, 25x Prototype Weapon Blueprints - Series 3, 25x Prototype Weapon Blueprints - Series 4, 25x Prototype Weapon Blueprints - Series 5, 25x Prototype Weapon Blueprints - Series 6, 30x Wisdom Cubes.",
+    "type": 13,
+    "icon": "props/59505",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN"
+    ],
+    "contains": [
+      {
+        "id": 59558,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/skin_exchange_2024",
+        "name": "Static Skin Voucher (2024)"
+      },
+      {
+        "id": 14001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 25,
+        "blueprint": false,
+        "icon": "props/14001",
+        "name": "Prototype Weapon Blueprint - Series 1"
+      },
+      {
+        "id": 14002,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 25,
+        "blueprint": false,
+        "icon": "props/14002",
+        "name": "Prototype Weapon Blueprint - Series 2"
+      },
+      {
+        "id": 14003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 25,
+        "blueprint": false,
+        "icon": "props/14003",
+        "name": "Prototype Weapon Blueprint - Series 3"
+      },
+      {
+        "id": 14004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 25,
+        "blueprint": false,
+        "icon": "props/14004",
+        "name": "Prototype Weapon Blueprint - Series 4"
+      },
+      {
+        "id": 14005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 25,
+        "blueprint": false,
+        "icon": "props/14005",
+        "name": "Prototype Weapon Blueprint - Series 5"
+      },
+      {
+        "id": 14006,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 25,
+        "blueprint": false,
+        "icon": "props/14006",
+        "name": "Prototype Weapon Blueprint - Series 6"
+      },
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 30,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      }
+    ]
+  },
+  "59558": {
+    "id": 59558,
+    "name": "Static Skin Voucher (2024)",
+    "description": "Use from your Depot to receive 1 skin of your choosing.\n(You may only choose from the offered lineup. If you already own every skin, you will instead receive an Outfit Coupon.)",
+    "type": 26,
+    "icon": "props/skin_exchange_2024",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN"
+    ],
+    "contains": []
+  },
+  "59559": {
+    "id": 59559,
+    "name": "Selection Gear Skin Box (Cruise Missions)",
+    "description": "Can be opened to receive 1 Power of the Stars or Magical Wonders-themed gear skin of your choosing.",
+    "type": 13,
+    "icon": "props/appearanceboxshijiexunyou",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN"
+    ],
+    "contains": [
+      {
+        "id": 2001,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96121",
+        "name": "Shooting Star Torpedo"
+      },
+      {
+        "id": 2002,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96111",
+        "name": "Meteor Shell"
+      },
+      {
+        "id": 2003,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96112",
+        "name": "Planet Shell"
+      },
+      {
+        "id": 2004,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96151",
+        "name": "Planet Cluster"
+      },
+      {
+        "id": 2005,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96152",
+        "name": "Satellite Moon"
+      },
+      {
+        "id": 2006,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96113",
+        "name": "Gemini Shell"
+      },
+      {
+        "id": 2007,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96153",
+        "name": "Butterfly Nebula"
+      },
+      {
+        "id": 2008,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96122",
+        "name": "Oumuamua Torpedo"
+      },
+      {
+        "id": 2009,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96123",
+        "name": "Starlight Torpedo"
+      },
+      {
+        "id": 2010,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96114",
+        "name": "Black Hole Shell"
+      },
+      {
+        "id": 2011,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96115",
+        "name": "Nebula Shell (Yellow)"
+      },
+      {
+        "id": 2012,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96154",
+        "name": "Kuiper Belt"
+      },
+      {
+        "id": 2013,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96116",
+        "name": "Nebula Shell (Blue)"
+      },
+      {
+        "id": 2014,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96241",
+        "name": "Magic Circle"
+      },
+      {
+        "id": 2015,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96211",
+        "name": "Magic Card Shell (Red)"
+      },
+      {
+        "id": 2016,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96212",
+        "name": "Magic Card Shell (Yellow)"
+      },
+      {
+        "id": 2017,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96213",
+        "name": "Magic Hat Shell"
+      },
+      {
+        "id": 2018,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96221",
+        "name": "Magic Wand Torpedo"
+      },
+      {
+        "id": 59560,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96331",
+        "name": "Fantastic Phoenix"
+      },
+      {
+        "id": 2022,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96311",
+        "name": "Balloon Shell"
+      },
+      {
+        "id": 2023,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96312",
+        "name": "Coin Shell"
+      },
+      {
+        "id": 2024,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96321",
+        "name": "Lovely Heart Torpedo"
+      },
+      {
+        "id": 2025,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96431",
+        "name": "Loaded Dice Shell"
+      },
+      {
+        "id": 2026,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96432",
+        "name": "Stacked Deck Torpedo"
+      },
+      {
+        "id": 2027,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96433",
+        "name": "Magic Mantle"
+      },
+      {
+        "id": 2028,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96434",
+        "name": "Magic Coin Shell"
       }
     ]
   },
@@ -37712,6 +38694,466 @@
       "CN"
     ],
     "contains": []
+  },
+  "81407": {
+    "id": 81407,
+    "name": "Choose-Your-Own Gift Pack I",
+    "description": "Contains 980x Gems, 1x Choose-Your-Own Gift Pack I, and loads of other valuable rewards.",
+    "type": 17,
+    "icon": "props/pack_2024_98",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 59555,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/59555",
+        "name": "Choose-Your-Own Gift Pack I"
+      },
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 980,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
+      },
+      {
+        "id": 16501,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 100,
+        "blueprint": false,
+        "icon": "props/16501",
+        "name": "T1 EXP Data Pack"
+      },
+      {
+        "id": 59010,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1000,
+        "blueprint": false,
+        "icon": "props/specialarmor_prt",
+        "name": "Specialized Core"
+      }
+    ]
+  },
+  "81408": {
+    "id": 81408,
+    "name": "Choose-Your-Own Gift Pack II",
+    "description": "Contains 1980x Gems, 1x Choose-Your-Own Gift Pack II, and loads of other valuable rewards.",
+    "type": 17,
+    "icon": "props/pack_2024_198",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 59556,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/59504",
+        "name": "Choose-Your-Own Gift Pack II"
+      },
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1980,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
+      },
+      {
+        "id": 15008,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1000,
+        "blueprint": false,
+        "icon": "props/15008",
+        "name": "Cognitive Chips"
+      },
+      {
+        "id": 30114,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 30,
+        "blueprint": false,
+        "icon": "props/30114",
+        "name": "Universal T4 Part"
+      },
+      {
+        "id": 59010,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 2000,
+        "blueprint": false,
+        "icon": "props/specialarmor_prt",
+        "name": "Specialized Core"
+      }
+    ]
+  },
+  "81409": {
+    "id": 81409,
+    "name": "Choose-Your-Own Gift Pack III",
+    "description": "Contains 3280x Gems, 1x Choose-Your-Own Gift Pack III, and loads of other valuable rewards.",
+    "type": 17,
+    "icon": "props/pack_2024_328",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 59557,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/59505",
+        "name": "Choose-Your-Own Gift Pack III"
+      },
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 3280,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
+      },
+      {
+        "id": 15012,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 150,
+        "blueprint": false,
+        "icon": "props/15012",
+        "name": "Cognitive Array"
+      },
+      {
+        "id": 15008,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 2000,
+        "blueprint": false,
+        "icon": "props/15008",
+        "name": "Cognitive Chips"
+      },
+      {
+        "id": 16004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "props/16004",
+        "name": "T4 Offensive Skill Book"
+      },
+      {
+        "id": 16014,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "props/16014",
+        "name": "T4 Defensive Skill Book"
+      },
+      {
+        "id": 16024,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "props/16024",
+        "name": "T4 Support Skill Book"
+      },
+      {
+        "id": 16032,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 30,
+        "blueprint": false,
+        "icon": "props/16032",
+        "name": "T2 META Universal Skill Book"
+      }
+    ]
+  },
+  "81410": {
+    "id": 81410,
+    "name": "Black Friday Daily Paid Pack (Day 1, 2024)",
+    "description": "Contains 60x Gems, 2x Special General Blueprints - Series 6.",
+    "type": 17,
+    "icon": "props/pack_day1",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 42056,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "props/42056",
+        "name": "Special General Blueprint - Series 6"
+      },
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 60,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
+      }
+    ]
+  },
+  "81411": {
+    "id": 81411,
+    "name": "Black Friday Daily Paid Pack (Day 2, 2024)",
+    "description": "Contains 200x Gems.",
+    "type": 17,
+    "icon": "props/pack_day2",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 200,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
+      }
+    ]
+  },
+  "81412": {
+    "id": 81412,
+    "name": "Black Friday Daily Paid Pack (Day 3, 2024)",
+    "description": "Contains 200x Cognitive Chips, 5x Universal T4 Parts.",
+    "type": 17,
+    "icon": "props/pack_day3",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 30114,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 5,
+        "blueprint": false,
+        "icon": "props/30114",
+        "name": "Universal T4 Part"
+      },
+      {
+        "id": 15008,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 200,
+        "blueprint": false,
+        "icon": "props/15008",
+        "name": "Cognitive Chips"
+      }
+    ]
+  },
+  "81413": {
+    "id": 81413,
+    "name": "Black Friday Daily Paid Pack (Day 4, 2024)",
+    "description": "Contains 60x Gems, 1x Prototype Bulin MKII.",
+    "type": 17,
+    "icon": "props/pack_day4",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 2,
+        "type": 2,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "ships/compact/kin",
+        "name": "Prototype Bulin MKII"
+      },
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 60,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
+      }
+    ]
+  },
+  "81414": {
+    "id": 81414,
+    "name": "Black Friday Daily Paid Pack (Day 5, 2024)",
+    "description": "Contains 60x T2 EXP Data Packs.",
+    "type": 17,
+    "icon": "props/pack_day5",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 16502,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 60,
+        "blueprint": false,
+        "icon": "props/16502",
+        "name": "T2 EXP Data Pack"
+      }
+    ]
+  },
+  "81415": {
+    "id": 81415,
+    "name": "Black Friday Daily Paid Pack (Day 6, 2024)",
+    "description": "Contains 10x Wisdom Cubes, 5x Quick Finishers.",
+    "type": 17,
+    "icon": "props/pack_day6",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 10,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      },
+      {
+        "id": 15003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 5,
+        "blueprint": false,
+        "icon": "props/15003",
+        "name": "Quick Finisher"
+      }
+    ]
+  },
+  "81416": {
+    "id": 81416,
+    "name": "Black Friday Daily Paid Pack (Day 7, 2024)",
+    "description": "Contains 60x Gems, 2x Special General Blueprints - Series 7.",
+    "type": 17,
+    "icon": "props/pack_day7",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 42066,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "props/42066",
+        "name": "Special General Blueprint - Series 7"
+      },
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 60,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
+      }
+    ]
   },
   "100031": {
     "id": 100031,
