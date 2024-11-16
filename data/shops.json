@@ -23453,7 +23453,6 @@
         "cost": 15
       }
     ],
-    "active": false,
     "currency": {
       "id": 65012,
       "name": "Incident Record",
@@ -23845,7 +23844,6 @@
         "cost": 15
       }
     ],
-    "active": false,
     "currency": {
       "id": 65019,
       "name": "Naraka Crystal",
@@ -24129,7 +24127,6 @@
         "cost": 15
       }
     ],
-    "active": false,
     "currency": {
       "id": 65031,
       "name": "Expo Commemorative Coin",
@@ -24536,7 +24533,6 @@
         "cost": 15
       }
     ],
-    "active": false,
     "currency": {
       "id": 65035,
       "name": "Sea Map Piece",
@@ -24881,13 +24877,18 @@
         "cost": 2500
       }
     ],
-    "active": false,
     "currency": {
       "id": 65041,
       "name": "Violet Go Stone",
       "icon": "props/rixiv3_pt",
       "linkable": false
-    }
+    },
+    "dates": [
+      [
+        1731567600000,
+        1732172399000
+      ]
+    ]
   },
   "5650": {
     "name": "Black Friday Shop",
