@@ -24831,6 +24831,54 @@
         "name": "Oxy-cola",
         "limit": 100,
         "cost": 15
+      },
+      {
+        "id": 15014,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/15014",
+        "name": "Augment Module Core",
+        "limit": 5,
+        "cost": 300
+      },
+      {
+        "id": 15016,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/15016",
+        "name": "Augment Module Stone T2",
+        "limit": 50,
+        "cost": 90
+      },
+      {
+        "id": 15020,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/15019",
+        "name": "Augment Module Conversion Stone T1",
+        "limit": 10,
+        "cost": 600
+      },
+      {
+        "id": 15021,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/15020",
+        "name": "Augment Module Conversion Stone T2",
+        "limit": 2,
+        "cost": 2500
       }
     ],
     "active": false,
@@ -24839,13 +24887,7 @@
       "name": "Violet Go Stone",
       "icon": "props/rixiv3_pt",
       "linkable": false
-    },
-    "dates": [
-      [
-        1731567600000,
-        1732172399000
-      ]
-    ]
+    }
   },
   "5650": {
     "name": "Black Friday Shop",
