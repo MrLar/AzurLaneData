@@ -24,6 +24,7 @@ properties:
 |      **min_level**       |                                                                     `number`                                                                      |                                         Minimum level to finish the entire retrofit.                                         |
 |        **min_lb**        |                                                                     `number`                                                                      |                                      Minimum limit break to finish the entire retrofit.                                      |
 |   **ghost_equipment?**   |                                                    [`GhostEquipmentData[]`](./ghost_equip.md)                                                     |                                        **(Optional)** Override for ghost equipments.                                         |
+|         **date**         |                                                                     `number`                                                                      |                                                Release date of this retrofit                                                 |
 
 ## Retrofit Stats Data
 

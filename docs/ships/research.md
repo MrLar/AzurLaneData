@@ -20,3 +20,4 @@ the following properties:
 | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------: |
 | **stats**  |     [`BasicShipStats`](./index.md#basic-ship-stats)     | Stats granted by all Fate Simulation levels up to and including FateSim5. |
 | **skills** | [`SkillUpgradeData[]`](../common.md#skill-upgrade-data) |                        List of all Skill Upgrades.                        |
+|  **date**  |                        `number`                         |                   Release date of this Fate Simulation.                   |

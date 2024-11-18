@@ -66,6 +66,7 @@ export interface PRData {
 export interface FateData {
     stats: BasicShipStats
     skills: SkillUpgradeData[]
+    date: number
 }
 
 export interface RetroData {
@@ -78,6 +79,7 @@ export interface RetroData {
     min_level: number
     min_lb: number
     ghost_equipment?: GhostEquipmentData[]
+    date: number
 }
 
 export interface RetrofitNode {
