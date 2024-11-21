@@ -46862,7 +46862,7 @@
     ]
   },
   "111170": {
-    "description": "Every $1s: $2 chance to fire a $3 special barrage (DMG is based on the skill's level). If the ruler shells from this barrage hit the same enemy 3 times: inflicts Armor Break to that enemy and increases their aircraft DMG taken by 5.0% until the battle ends; when the handcuff shells from this barrage hit an enemy: decreases that enemy's SPD by 15.0% for 3s. When this skill has inflicted Armor Break 3 times or more: increases this ship's AVI by $4 until the battle ends.",
+    "description": "Every $1s: $2 chance to fire a $3 special barrage (DMG is based on the skill's level). If the ruler shells from this barrage hit the same enemy 3 times: {increases their aircraft DMG taken|The game implies an Armor Break (FP dmg increase) and this effect both happen but only avi dmg is increased.} by 5.0% until the battle ends; when the handcuff shells from this barrage hit an enemy: decreases that enemy's SPD by 15.0% for 3s. When this skill has inflicted Armor Break 3 times or more: increases this ship's AVI by $4 until the battle ends.",
     "opsi_description": null,
     "name": "Scandalous!+",
     "max": 10,
