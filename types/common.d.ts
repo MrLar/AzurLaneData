@@ -124,7 +124,8 @@ export type Nation =
 107 | // idol master
 108 | // ssss
 109 | // ryza
-110 // senran
+110 | // senran
+111 // to love ru
 
 // this could be an enum, but TS enums add uneccesary overhead
 export type Rarity =

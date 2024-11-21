@@ -3871,6 +3871,23 @@
     ],
     "contains": []
   },
+  "21040": {
+    "id": 21040,
+    "name": "META Crystal - Giulio Cesare META",
+    "description": "An item that increases the potential of Giulio Cesare META. Used in the META Lab during Somatic Activation.",
+    "type": 4,
+    "icon": "props/21040",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 20"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "21101": {
     "id": 21101,
     "name": "Crystallized Heat-Resistant Steel",
@@ -16757,6 +16774,204 @@
       }
     ]
   },
+  "30362": {
+    "id": 30362,
+    "name": "Gear Skin Box (To LOVE-Ru)",
+    "description": "Use to obtain a random gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxtolove",
+    "rarity": 5,
+    "locations": [
+      "Dangerous Inventions Incoming!"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 1450,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96911",
+        "name": "Psychic Shell"
+      },
+      {
+        "id": 1451,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96912",
+        "name": "Spinny-Spunny Rope-kun Shell"
+      },
+      {
+        "id": 1452,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96913",
+        "name": "Gold Star Shell"
+      },
+      {
+        "id": 1453,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96914",
+        "name": "Transformation Punch Shell"
+      },
+      {
+        "id": 1454,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96915",
+        "name": "Milkea Flower Shell"
+      },
+      {
+        "id": 1455,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96916",
+        "name": "Black Rose Shell"
+      },
+      {
+        "id": 1456,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96921",
+        "name": "Space Emperor Spear Torpedo"
+      },
+      {
+        "id": 1457,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96922",
+        "name": "Schoolbound Torpedo"
+      },
+      {
+        "id": 1458,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96923",
+        "name": "Swim-Swim Dolphin-kun Torpedo"
+      },
+      {
+        "id": 1459,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96931",
+        "name": "Lunatique Aircraft (Torpedo)"
+      },
+      {
+        "id": 1460,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96931",
+        "name": "Lunatique Aircraft (Fighter)"
+      },
+      {
+        "id": 1461,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96931",
+        "name": "Lunatique Aircraft (Bomber)"
+      },
+      {
+        "id": 1462,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96932",
+        "name": "Mysterious Spaceship Aircraft (Torpedo)"
+      },
+      {
+        "id": 1463,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96932",
+        "name": "Mysterious Spaceship Aircraft (Fighter)"
+      },
+      {
+        "id": 1464,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96932",
+        "name": "Mysterious Spaceship Aircraft (Bomber)"
+      },
+      {
+        "id": 1465,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96933",
+        "name": "Mysterious UFO Aircraft (Torpedo)"
+      },
+      {
+        "id": 1466,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96933",
+        "name": "Mysterious UFO Aircraft (Fighter)"
+      },
+      {
+        "id": 1467,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96933",
+        "name": "Mysterious UFO Aircraft (Bomber)"
+      }
+    ]
+  },
   "30401": {
     "id": 30401,
     "name": "Random Gear Skin Box (Cruise Series 3)",
@@ -18197,6 +18412,64 @@
         "blueprint": false,
         "icon": "equips/96808",
         "name": "Forerunner UAV (Bomber)"
+      }
+    ]
+  },
+  "30425": {
+    "id": 30425,
+    "name": "Random Gear Skin Box (Cruise Series 20)",
+    "description": "Contains 1 random Cruise Mission gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxshijiexunyou",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 20"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 2085,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96809",
+        "name": "Water Sphere Shell"
+      },
+      {
+        "id": 2086,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96810",
+        "name": "Electric Bolt Torpedo"
+      },
+      {
+        "id": 2087,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96811",
+        "name": "Energy Arrow Shell"
+      },
+      {
+        "id": 2088,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96812",
+        "name": "Quantum Specter Drone"
       }
     ]
   },
@@ -27275,6 +27548,204 @@
         "blueprint": false,
         "icon": "equips/101157",
         "name": "Ghostly Trick-or-Treater Plane (Bomber)"
+      }
+    ]
+  },
+  "30548": {
+    "id": 30548,
+    "name": "Selection Gear Skin Box (To LOVE-Ru)",
+    "description": "Use to receive 1 To LOVE-Ru-themed gear skin of your choosing.",
+    "type": 13,
+    "icon": "props/appearanceboxtolovezixuan",
+    "rarity": 5,
+    "locations": [
+      "Dangerous Inventions Incoming!"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 1450,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96911",
+        "name": "Psychic Shell"
+      },
+      {
+        "id": 1451,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96912",
+        "name": "Spinny-Spunny Rope-kun Shell"
+      },
+      {
+        "id": 1452,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96913",
+        "name": "Gold Star Shell"
+      },
+      {
+        "id": 1453,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96914",
+        "name": "Transformation Punch Shell"
+      },
+      {
+        "id": 1454,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96915",
+        "name": "Milkea Flower Shell"
+      },
+      {
+        "id": 1455,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96916",
+        "name": "Black Rose Shell"
+      },
+      {
+        "id": 1456,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96921",
+        "name": "Space Emperor Spear Torpedo"
+      },
+      {
+        "id": 1457,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96922",
+        "name": "Schoolbound Torpedo"
+      },
+      {
+        "id": 1458,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96923",
+        "name": "Swim-Swim Dolphin-kun Torpedo"
+      },
+      {
+        "id": 1459,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96931",
+        "name": "Lunatique Aircraft (Torpedo)"
+      },
+      {
+        "id": 1460,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96931",
+        "name": "Lunatique Aircraft (Fighter)"
+      },
+      {
+        "id": 1461,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96931",
+        "name": "Lunatique Aircraft (Bomber)"
+      },
+      {
+        "id": 1462,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96932",
+        "name": "Mysterious Spaceship Aircraft (Torpedo)"
+      },
+      {
+        "id": 1463,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96932",
+        "name": "Mysterious Spaceship Aircraft (Fighter)"
+      },
+      {
+        "id": 1464,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96932",
+        "name": "Mysterious Spaceship Aircraft (Bomber)"
+      },
+      {
+        "id": 1465,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96933",
+        "name": "Mysterious UFO Aircraft (Torpedo)"
+      },
+      {
+        "id": 1466,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96933",
+        "name": "Mysterious UFO Aircraft (Fighter)"
+      },
+      {
+        "id": 1467,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96933",
+        "name": "Mysterious UFO Aircraft (Bomber)"
       }
     ]
   },

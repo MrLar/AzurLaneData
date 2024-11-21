@@ -90,3 +90,4 @@ Message Type is a numeric value with two values where each number represents how
 | :---: | :---: | :-------------------------------------------------------------------------------------------------------------: |
 |   1   | Text  |                                                 A text message                                                  |
 |   4   | Emote | An emoticon. Emotes are available under `https://al.mrlar.dev/emotes/<id>.webp`. All of them only have 1 frame. |
+|   5   | Emote |                                                 A notification.                                                 |

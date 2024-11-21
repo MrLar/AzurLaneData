@@ -40153,6 +40153,76 @@
     "icon": null,
     "values": []
   },
+  "60730": {
+    "description": "Every 20s: restores 1.0% of the wearer's max HP (can activate up to 3 times per battle).",
+    "opsi_description": null,
+    "name": "Bubbly-Boily Chef",
+    "max": 1,
+    "id": 60730,
+    "type": 0,
+    "icon": null,
+    "values": []
+  },
+  "60740": {
+    "description": "When the battle starts: increases the wearer's ACC by 3.5% for 50s.",
+    "opsi_description": null,
+    "name": "Sales Boosta-Bot",
+    "max": 1,
+    "id": 60740,
+    "type": 0,
+    "icon": null,
+    "values": []
+  },
+  "60750": {
+    "description": "Once per battle, when the wearer has taken DMG equal to a total of 25.0% of her max HP: the wearer enters Stealth mode and evades all attacks for 1.5s.",
+    "opsi_description": null,
+    "name": "Sneaky-Stealthy Prowler",
+    "max": 1,
+    "id": 60750,
+    "type": 0,
+    "icon": null,
+    "values": []
+  },
+  "60760": {
+    "description": "Every 20s: increases the wearer's DMG dealt just a little bit (can activate up to 3 times per battle).",
+    "opsi_description": null,
+    "name": "All Work, All Play Robot",
+    "max": 1,
+    "id": 60760,
+    "type": 0,
+    "icon": null,
+    "values": []
+  },
+  "60770": {
+    "description": "Might make the enemy grow a little bigger.",
+    "opsi_description": null,
+    "name": "Speedy Sprouty Botanist",
+    "max": 1,
+    "id": 60770,
+    "type": 0,
+    "icon": null,
+    "values": []
+  },
+  "60780": {
+    "description": "When the wearer fires her Main Guns: makes the mood kinda spooky.",
+    "opsi_description": null,
+    "name": "Spooky Scary Specter",
+    "max": 1,
+    "id": 60780,
+    "type": 0,
+    "icon": null,
+    "values": []
+  },
+  "60790": {
+    "description": "The wearer emits a special, charismatic aura during battle.",
+    "opsi_description": null,
+    "name": "More-y Glory Aura Booster",
+    "max": 1,
+    "id": 60790,
+    "type": 0,
+    "icon": null,
+    "values": []
+  },
   "101010": {
     "description": "If deployed with any other Neptunia ship, increases own damage by $1 and decreases own damage taken by 6.0%. For every other Neptunia ship deployed, further increases own damage by $2,and decreases own damage taken by 1.0%",
     "opsi_description": null,
@@ -46123,6 +46193,840 @@
     "icon": null,
     "values": []
   },
+  "111010": {
+    "description": "Increases this ship's EVA by $1. Every 4 times this ship fires her Main Guns: summons Go Go Vacuum-kun, decreasing this ship's DMG taken by $2 for 8s. Go Go Vacuum-kun draws in nearby enemies; affected enemies have their FP, TRP, and AA decreased by 5.0% for 8s.",
+    "opsi_description": null,
+    "name": "Go Go Vacuum-Kun!",
+    "max": 10,
+    "id": 111010,
+    "type": 2,
+    "icon": 111010,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "4.5%",
+        "5.2%",
+        "6.0%",
+        "7.0%",
+        "7.7%",
+        "8.5%",
+        "9.5%",
+        "10.2%",
+        "11.0%",
+        "12.0%"
+      ]
+    ]
+  },
+  "111020": {
+    "description": "Increases this ship's FP and ACC by $1. Every 20s after the battle starts: fires a $2 special barrage (DMG is based on the skill's level) and decreases the AA by $3 and ACC by $4 for 8s for all on-field enemies at the time of activation. 3s after this effect activates: decreases this ship's AA by 1.0% for 1s.",
+    "opsi_description": null,
+    "name": "Almighty Fighting Inventorator!",
+    "max": 10,
+    "id": 111020,
+    "type": 1,
+    "icon": 111020,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "1.0%",
+        "1.2%",
+        "1.4%",
+        "1.6%",
+        "1.8%",
+        "2.0%",
+        "2.2%",
+        "2.4%",
+        "2.7%",
+        "3.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ]
+    ]
+  },
+  "111030": {
+    "description": "Increases this ship's FP and ACC by $1. Every 20s after the battle starts: fires an improved $2 special barrage (DMG is based on the skill's level) and decreases the AA by $3 and ACC by $4 for 8s for all on-field enemies at the time of activation. 3s after this effect activates: decreases this ship's AA by 1.0% for 1s.",
+    "opsi_description": null,
+    "name": "Almighty Fighting Inventorator!+",
+    "max": 10,
+    "id": 111030,
+    "type": 1,
+    "icon": 111020,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "1.5%",
+        "1.8%",
+        "2.1%",
+        "2.5%",
+        "2.8%",
+        "3.1%",
+        "3.5%",
+        "3.9%",
+        "4.3%",
+        "5.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ]
+    ]
+  },
+  "111040": {
+    "description": "Increases this ship's TRP and ACC by $1. Every 10 times this ship fires her Main Guns: summons an alien animal friend and fires a $2 special barrage (DMG is based on the skill's level). Enemies hit by this special barrage take 10.0% more torpedo DMG from this ship.",
+    "opsi_description": null,
+    "name": "Alien Animal Friend",
+    "max": 10,
+    "id": 111040,
+    "type": 1,
+    "icon": 111040,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "111050": {
+    "description": "When this ship is attacked: $1 chance to increase this ship's Evasion Rate by $2 for 5s (8s cooldown between activations). Once per battle, when this ship's HP falls below 30.0% as a result of DMG taken: restores $3 of this ship's max HP and increases her EVA by $4 until the battle ends.",
+    "opsi_description": null,
+    "name": "Overpowering Will",
+    "max": 10,
+    "id": 111050,
+    "type": 3,
+    "icon": 111050,
+    "values": [
+      [
+        "4.0%",
+        "4.6%",
+        "5.2%",
+        "6.0%",
+        "6.6%",
+        "7.2%",
+        "8.0%",
+        "8.6%",
+        "9.2%",
+        "10.0%"
+      ],
+      [
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%"
+      ],
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ]
+    ]
+  },
+  "111060": {
+    "description": "Increases this ship's TRP and ACC by $1. Every 10 times this ship fires her Main Guns: summons an alien animal friend and fires a $2 special barrage (improved; DMG is based on the skill's level). Enemies hit by this special barrage take 10.0% more torpedo DMG from this ship.",
+    "opsi_description": null,
+    "name": "Alien Animal Friend+",
+    "max": 10,
+    "id": 111060,
+    "type": 1,
+    "icon": 111040,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "111070": {
+    "description": "Increases this ship's FP by $1. Every 8 times this ship fires her Main Guns: fires a $2 special barrage (DMG is based on the skill's level). When the battle starts, and every 20s: summons an alien plant friend. The alien plant friend persists on the field for 15s and attacks enemies using its own equipment; its stats change based on Momo's stats and the skill's level.",
+    "opsi_description": null,
+    "name": "Alien Plant Friend",
+    "max": 10,
+    "id": 111070,
+    "type": 1,
+    "icon": 111070,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "111080": {
+    "description": "Increases this ship's FP and TRP by $1. Every 8 times this ship fires her Main Guns: fires a $2 special barrage (improved; DMG is based on the skill's level). When the battle starts, and every 20s: summons an alien plant friend. The alien plant friend persists on the field for 15s and attacks enemies using its own equipment; its stats change based on Momo's stats and the skill's level. Once per battle, when this ship's HP falls below $3 as a result of DMG taken: fires a $2 special barrage (improved; DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Alien Plant Friend+",
+    "max": 10,
+    "id": 111080,
+    "type": 1,
+    "icon": 111070,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "15.0%",
+        "16.5%",
+        "18.0%",
+        "19.5%",
+        "21.5%",
+        "23.5%",
+        "26.0%",
+        "28.5%",
+        "31.5%",
+        "35.0%"
+      ]
+    ]
+  },
+  "111090": {
+    "description": "Decreases this ship's DMG taken by $1. If this ship is the frontmost ship of your Vanguard: increases this ship's AA and EVA by $1; if NOT the frontmost ship, increases RLD and ACC by $1.\nWhen the battle starts, and every 10s: picks one random other ally without the Plan Execution status and increases their EVA by $2 for 8s, then gives that ally the Plan Execution status afterward.\nEvery 20s: for 10s, increases your fleet's DMG dealt by $2 and grants Momo and all allies with the Plan Execution status the following buffs:\n1) If the recipient is in your Vanguard, restores $3 of the recipient's max HP and increases her FP and TRP by $2;\n2) If the recipient is in your Main Fleet: restores $3 of the recipient's max HP and increases her FP and AVI by $2.",
+    "opsi_description": null,
+    "name": "Secret Schemes",
+    "max": 10,
+    "id": 111090,
+    "type": 3,
+    "icon": 111090,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "1.5%",
+        "1.8%",
+        "2.1%",
+        "2.5%",
+        "2.8%",
+        "3.1%",
+        "3.5%",
+        "3.9%",
+        "4.3%",
+        "5.0%"
+      ],
+      [
+        "1.0%",
+        "1.0%",
+        "1.0%",
+        "1.0%",
+        "1.0%",
+        "1.0%",
+        "2.0%",
+        "2.0%",
+        "2.0%",
+        "2.0%"
+      ]
+    ]
+  },
+  "111100": {
+    "description": "Increases this ship's Main Gun efficiency by $1. When this ship fires her Main Guns, selects 1 random enemy and activates one of the following effects based on the enemy's Armor Type:\n1) Light Armor: fires a $2 special high-explosive shell barrage (DMG is based on the skill's level);\n2) Medium or Heavy Armor: fires a $2 armor-piercing shell special barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Armament Swap",
+    "max": 10,
+    "id": 111100,
+    "type": 1,
+    "icon": 111100,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "111110": {
+    "description": "Increases this ship's Main Gun efficiency by $1. When this ship fires her Main Guns, selects 1 random enemy and activates one of the following effects based on the enemy's Armor Type:\n1) Light Armor: fires a $2 special high-explosive shell barrage (DMG is based on the skill's level) that decreases the SPD of enemies hit by 20.0% for 6s (does not stack with similar effects);\n2) Medium or Heavy Armor: fires a $2 armor-piercing shell special barrage (DMG is based on the skill's level) that increases the cannon DMG taken of enemies hit by 5.0% for 6s (does not stack with similar effects).",
+    "opsi_description": null,
+    "name": "Armament Swap+",
+    "max": 10,
+    "id": 111110,
+    "type": 1,
+    "icon": 111100,
+    "values": [
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "111120": {
+    "description": "Increases this ship's FP and ACC by $1. 30s after the battle starts, and the first time each battle when this ship's HP falls below 50.0% as a result of DMG taken, activates the following effects: \n1) Restores $2 of this ship's max HP;\n2) Increases this ship's EVA and AA by $1 until the battle ends (can only activate once per battle).",
+    "opsi_description": null,
+    "name": "I Love Taiyaki!",
+    "max": 10,
+    "id": 111120,
+    "type": 2,
+    "icon": 111120,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%"
+      ]
+    ]
+  },
+  "111130": {
+    "description": "When the battle starts: marks the ally (excluding this ship) with the lowest current HP percentage and restores 5.0% of her max HP. The recipient of this effect has her DMG taken decreased by $1 until the battle ends and, once per battle, if her HP falls below 20.0% as a result of DMG taken: restores $2 of the recipient's HP. When a recipient of this skill receives healing from any source other than this skill: removes the mark.",
+    "opsi_description": null,
+    "name": "Love Concealed",
+    "max": 10,
+    "id": 111130,
+    "type": 2,
+    "icon": 111130,
+    "values": [
+      [
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
+  "111140": {
+    "description": "When the battle starts: marks the ally (excluding this ship) with the lowest current HP percentage and restores 5.0% of her max HP. The recipient of this effect has her DMG taken decreased by $1 until the battle ends and, once per battle, if her HP falls below 20.0% as a result of DMG taken: restores $2 of the recipient's HP. Once per battle, when a recipient of this skill receives healing from any source other than this skill: increases the recipient's DMG dealt by 5.0%.",
+    "opsi_description": null,
+    "name": "Love Concealed+",
+    "max": 10,
+    "id": 111140,
+    "type": 2,
+    "icon": 111130,
+    "values": [
+      [
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
+  "111150": {
+    "description": "When this ship fires her Main Guns: $1 chance to fire a $2 special barrage (DMG is based on the skill's level). \nOnce per battle, when this ship's HP falls below 80.0% as a result of DMG taken, or when an enemy gets within 80 units of this ship, this ship gains the following buffs until the battle ends: \n1) Decreases the loading time of this ship's Main Guns by 20.0%, decreases her Main Guns' DMG dealt by 10.0%, and increases the activation chance of the above special barrage by 30.0%;\n2) When this ship fires her Main Guns: throws an emergency fire extinguisher that inflicts Armor Break on the enemy hit.",
+    "opsi_description": null,
+    "name": "Be Still, My Heart!",
+    "max": 10,
+    "id": 111150,
+    "type": 1,
+    "icon": 111150,
+    "values": [
+      [
+        "40.0%",
+        "43.3%",
+        "46.6%",
+        "49.9%",
+        "53.2%",
+        "56.5%",
+        "59.8%",
+        "63.1%",
+        "66.4%",
+        "70.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "111160": {
+    "description": "Every $1s: $2 chance to fire a $3 special barrage (DMG is based on the skill's level). If the ruler shells from this barrage hit the same enemy 3 times: inflicts Armor Break to that enemy and increases their aircraft DMG taken by 5.0% until the battle ends; when the handcuff shells from this barrage hit an enemy: decreases that enemy's SPD by 15.0% for 3s.",
+    "opsi_description": null,
+    "name": "Scandalous!",
+    "max": 10,
+    "id": 111160,
+    "type": 1,
+    "icon": 111160,
+    "values": [
+      [
+        "20",
+        "19",
+        "18",
+        "17",
+        "16",
+        "15",
+        "14",
+        "13",
+        "12",
+        "10"
+      ],
+      [
+        "40.0%",
+        "43.3%",
+        "46.6%",
+        "49.9%",
+        "53.2%",
+        "56.5%",
+        "59.8%",
+        "63.1%",
+        "66.4%",
+        "70.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "111170": {
+    "description": "Every $1s: $2 chance to fire a $3 special barrage (DMG is based on the skill's level). If the ruler shells from this barrage hit the same enemy 3 times: inflicts Armor Break to that enemy and increases their aircraft DMG taken by 5.0% until the battle ends; when the handcuff shells from this barrage hit an enemy: decreases that enemy's SPD by 15.0% for 3s. When this skill has inflicted Armor Break 3 times or more: increases this ship's AVI by $4 until the battle ends.",
+    "opsi_description": null,
+    "name": "Scandalous!+",
+    "max": 10,
+    "id": 111170,
+    "type": 1,
+    "icon": 111160,
+    "values": [
+      [
+        "20",
+        "19",
+        "18",
+        "17",
+        "16",
+        "15",
+        "14",
+        "13",
+        "12",
+        "10"
+      ],
+      [
+        "70.0%",
+        "73.3%",
+        "76.6%",
+        "79.9%",
+        "83.2%",
+        "86.5%",
+        "89.8%",
+        "93.1%",
+        "96.4%",
+        "100.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
+  "111180": {
+    "description": "Increases this ship's AA by $1 and decreases your Vanguard's DMG taken by $2. When any other ship in your fleet is attacked: 30.0% chance to launch a $3 special airstrike (DMG is based on the skill's level; 20s cooldown between activations).",
+    "opsi_description": null,
+    "name": "Overbearing Outside, Softie Inside",
+    "max": 10,
+    "id": 111180,
+    "type": 3,
+    "icon": 111180,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "1.0%",
+        "1.4%",
+        "1.8%",
+        "2.2%",
+        "2.6%",
+        "3.0%",
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "111200": {
+    "description": "Every 15s: fires a special beam. If Nana Astar Deviluke or Momo Belia Deviluke are in your fleet: improves the special beam.",
+    "opsi_description": null,
+    "name": "Deviluke Royal Might",
+    "max": 10,
+    "id": 111200,
+    "type": 0,
+    "icon": null,
+    "values": []
+  },
+  "111210": {
+    "description": "Every 18s: fires a special beam. If Lala Satalin Deviluke or Momo Belia Deviluke are in your fleet: improves the special beam.",
+    "opsi_description": null,
+    "name": "Deviluke Royal Might",
+    "max": 10,
+    "id": 111210,
+    "type": 0,
+    "icon": null,
+    "values": []
+  },
+  "111220": {
+    "description": "Every 20s: fires a special beam. If Lala Satalin Deviluke or Nana Astar Deviluke are in your fleet: improves the special beam.",
+    "opsi_description": null,
+    "name": "Deviluke Royal Might",
+    "max": 1,
+    "id": 111220,
+    "type": 0,
+    "icon": null,
+    "values": []
+  },
+  "111230": {
+    "description": "Every 30s: performs a slashing attack.",
+    "opsi_description": null,
+    "name": "Living Weapon",
+    "max": 10,
+    "id": 111230,
+    "type": 0,
+    "icon": null,
+    "values": []
+  },
+  "111240": {
+    "description": "Every 20s: uses an emergency fire extinguisher and deploys a smokescreen that extinguishes regular Burn ailments for all your ships in it. Smokescreen lasts 5s.",
+    "opsi_description": null,
+    "name": "This Way, Girls!",
+    "max": 10,
+    "id": 111240,
+    "type": 0,
+    "icon": null,
+    "values": []
+  },
+  "111270": {
+    "description": "Increases your Vanguard's EVA and FP by 5.0% until the battle ends.",
+    "opsi_description": null,
+    "name": "Restore Discipline!",
+    "max": 1,
+    "id": 111270,
+    "type": 0,
+    "icon": null,
+    "values": []
+  },
   "150000": {
     "description": "When the battle starts, summons 6 Swords of Judgment around this ship that can negate up to 7 enemy shells each. Once per battle, when the HP of a ship in your fleet falls below 50.0% as a result of DMG taken: performs a $1 special slashing attack (DMG is based on the skill's level; if there is another Iris Libre or Vichya Dominion ship in your fleet when this attack activates: improves this attack).",
     "opsi_description": null,
@@ -49368,7 +50272,7 @@
     ]
   },
   "800291": {
-    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or boss fleets: increases this ship's Crit DMG by 5.0%",
+    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 5.0%.",
     "opsi_description": null,
     "name": "Cinders of Hope - Gneisenau I",
     "max": 1,
@@ -49378,7 +50282,7 @@
     "values": []
   },
   "800292": {
-    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or boss fleets: increases this ship's Crit DMG by 8.0%.",
+    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 8.0%.",
     "opsi_description": null,
     "name": "Cinders of Hope - Gneisenau II",
     "max": 1,
@@ -50643,7 +51547,7 @@
     ]
   },
   "800741": {
-    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG dealt by 5.0%.",
+    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 5.0%.",
     "opsi_description": null,
     "name": "Cinders of Hope - Queen Elizabeth",
     "max": 1,
@@ -50653,7 +51557,7 @@
     "values": []
   },
   "800742": {
-    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG dealt by 8.0%.",
+    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 8.0%.",
     "opsi_description": null,
     "name": "Cinders of Hope - Queen Elizabeth",
     "max": 1,
@@ -52983,7 +53887,7 @@
     ]
   },
   "801421": {
-    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG dealt by 5.0%",
+    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 5.0%.",
     "opsi_description": null,
     "name": "Cinders of Hope - Hiei I",
     "max": 1,
@@ -52993,7 +53897,7 @@
     "values": []
   },
   "801422": {
-    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG dealt by 8.0%",
+    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 8.0%.",
     "opsi_description": null,
     "name": "Cinders of Hope - Hiei II",
     "max": 1,
@@ -53078,6 +53982,108 @@
     "id": 801452,
     "type": 3,
     "icon": 801450,
+    "values": []
+  },
+  "801460": {
+    "description": "Every 18s: $1 chance to fire a $2 special barrage (DMG is based on the skill's level). Increases this ship's DMG dealt by $3 against enemies hit by this barrage.",
+    "opsi_description": null,
+    "name": "Veni, Vidi, Vici!",
+    "max": 10,
+    "id": 801460,
+    "type": 1,
+    "icon": 801460,
+    "values": [
+      [
+        "40.0%",
+        "43.3%",
+        "46.6%",
+        "49.9%",
+        "53.2%",
+        "56.5%",
+        "59.8%",
+        "63.1%",
+        "66.4%",
+        "70.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "4.0%",
+        "4.6%",
+        "5.2%",
+        "6.0%",
+        "6.6%",
+        "7.2%",
+        "8.0%",
+        "8.6%",
+        "9.2%",
+        "10.0%"
+      ]
+    ]
+  },
+  "801470": {
+    "description": "Increases this ship's FP and RLD by $1. Decreases the DMG-reducing effect of the Out of Ammo debuff by $2. Once per battle, when this ship's HP falls below 60.0% as a result of DMG taken: increases this ship's DMG dealt by $1 until the battle ends.",
+    "opsi_description": null,
+    "name": "Conqueror of the Empire",
+    "max": 10,
+    "id": 801470,
+    "type": 1,
+    "icon": 801470,
+    "values": [
+      [
+        "4.0%",
+        "4.6%",
+        "5.2%",
+        "6.0%",
+        "6.6%",
+        "7.2%",
+        "8.0%",
+        "8.6%",
+        "9.2%",
+        "10.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ]
+    ]
+  },
+  "801481": {
+    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 5.0%.",
+    "opsi_description": null,
+    "name": "Cinders of Hope - Giulio Cesare I",
+    "max": 1,
+    "id": 801481,
+    "type": 3,
+    "icon": 801480,
+    "values": []
+  },
+  "801482": {
+    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 8.0%.",
+    "opsi_description": null,
+    "name": "Cinders of Hope - Giulio Cesare II",
+    "max": 1,
+    "id": 801482,
+    "type": 3,
+    "icon": 801480,
     "values": []
   },
   "901010": {

@@ -19513,6 +19513,27 @@
     "custom_bgm": false,
     "dynamic_bg": true
   },
+  "405033": {
+    "id": 405033,
+    "name": "What Comes After the Bell",
+    "type": 0,
+    "category": 4,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "wuerlixi_4",
+    "bg": "147",
+    "obtain_type": 0,
+    "price": 980,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": false,
+    "dynamic_bg": false
+  },
   "405041": {
     "id": 405041,
     "name": "Tidying in the Moonlight",
@@ -19613,6 +19634,27 @@
     "price": 780,
     "currency": 59005,
     "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false
+  },
+  "406014": {
+    "id": 406014,
+    "name": "Offtime Cafe",
+    "type": 0,
+    "category": 17,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "weixi_5",
+    "bg": "142",
+    "obtain_type": 3,
+    "price": 0,
+    "currency": 0,
+    "is_permanent": true,
     "l2d": false,
     "dynamic": false,
     "custom_bgm": false,
@@ -20600,6 +20642,27 @@
     "is_permanent": true,
     "l2d": false,
     "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false
+  },
+  "499062": {
+    "id": 499062,
+    "name": "The Unhulde's Midday Respite",
+    "type": 0,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "aogusite_3",
+    "bg": "193",
+    "obtain_type": 0,
+    "price": 980,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
     "custom_bgm": false,
     "dynamic_bg": false
   },
@@ -26760,6 +26823,132 @@
     ],
     "icon": "xishao_2",
     "bg": "168",
+    "obtain_type": 0,
+    "price": 800,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": true,
+    "dynamic_bg": false
+  },
+  "11100011": {
+    "id": 11100011,
+    "name": "A Princess Imprisoned",
+    "type": 0,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "lala_2_tolove",
+    "bg": "185",
+    "obtain_type": 0,
+    "price": 900,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": true,
+    "dynamic_bg": false
+  },
+  "11100021": {
+    "id": 11100021,
+    "name": "High Roller",
+    "type": 0,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "nana_2_tolove",
+    "bg": "193",
+    "obtain_type": 0,
+    "price": 900,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": true,
+    "dynamic_bg": false
+  },
+  "11100031": {
+    "id": 11100031,
+    "name": "A Waking Dream",
+    "type": 0,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "mengmeng_2_tolove",
+    "bg": "193",
+    "obtain_type": 0,
+    "price": 900,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": true,
+    "dynamic_bg": false
+  },
+  "11100041": {
+    "id": 11100041,
+    "name": "Pajama Status: On",
+    "type": 0,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "jinseanying_2_tolove",
+    "bg": "193",
+    "obtain_type": 0,
+    "price": 900,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": true,
+    "dynamic_bg": false
+  },
+  "11100051": {
+    "id": 11100051,
+    "name": "On One Serene Night",
+    "type": 0,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "xiliansi_2_tolove",
+    "bg": "109",
+    "obtain_type": 0,
+    "price": 800,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": true,
+    "dynamic_bg": false
+  },
+  "11100061": {
+    "id": 11100061,
+    "name": "The Disciplinarian's Day Off",
+    "type": 0,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "gushouchuan_2_tolove",
+    "bg": "185",
     "obtain_type": 0,
     "price": 800,
     "currency": 59005,

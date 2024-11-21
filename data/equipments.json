@@ -119618,5 +119618,515 @@
       "JP",
       "CN"
     ]
+  },
+  "150440": {
+    "icon": "150440",
+    "id": 150440,
+    "name": "Bubbly-Boily Chef",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60730
+    ],
+    "nation": 111,
+    "limit_group": 150440,
+    "hull_restriction": [],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          200,
+          230,
+          260,
+          290,
+          320,
+          350,
+          380,
+          410,
+          440,
+          470,
+          500,
+          530,
+          560,
+          590
+        ]
+      },
+      {
+        "stat": "luck",
+        "values": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "150460": {
+    "icon": "150460",
+    "id": 150460,
+    "name": "Sales Boosta-Bot",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60740
+    ],
+    "nation": 111,
+    "limit_group": 150460,
+    "hull_restriction": [],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "eva",
+        "values": [
+          6,
+          7,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      {
+        "stat": "hit",
+        "values": [
+          16,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "150480": {
+    "icon": "150480",
+    "id": 150480,
+    "name": "Sneaky-Stealthy Prowler",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60750
+    ],
+    "nation": 111,
+    "limit_group": 150480,
+    "hull_restriction": [],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "eva",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          34
+        ]
+      },
+      {
+        "stat": "spd",
+        "values": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          3,
+          3,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "150500": {
+    "icon": "150500",
+    "id": 150500,
+    "name": "All Work, All Play Robot",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60760
+    ],
+    "nation": 111,
+    "limit_group": 150500,
+    "hull_restriction": [],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hit",
+        "values": [
+          10,
+          11,
+          13,
+          14,
+          16,
+          17,
+          19,
+          20,
+          22,
+          23,
+          25,
+          26,
+          28,
+          29
+        ]
+      },
+      {
+        "stat": "fp",
+        "values": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          17,
+          18,
+          19,
+          20
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "150520": {
+    "icon": "150520",
+    "id": 150520,
+    "name": "Speedy Sprouty Botanist",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60770
+    ],
+    "nation": 111,
+    "limit_group": 150520,
+    "hull_restriction": [
+      1,
+      2,
+      6,
+      7,
+      8,
+      11,
+      12,
+      17,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          10,
+          12,
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          34,
+          35
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [
+      3,
+      4,
+      5,
+      10,
+      13,
+      18,
+      19
+    ],
+    "equippable_sub": [
+      3,
+      4,
+      5,
+      10,
+      13,
+      18,
+      19
+    ],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "150540": {
+    "icon": "150540",
+    "id": 150540,
+    "name": "Spooky Scary Specter",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60780
+    ],
+    "nation": 111,
+    "limit_group": 150540,
+    "hull_restriction": [
+      1,
+      2,
+      3,
+      6,
+      7,
+      8,
+      9,
+      11,
+      12,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          18,
+          20,
+          23,
+          26,
+          28,
+          31,
+          34,
+          36,
+          39,
+          42,
+          45,
+          47,
+          50,
+          53
+        ]
+      },
+      {
+        "stat": "hit",
+        "values": [
+          4,
+          4,
+          5,
+          5,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          10,
+          10,
+          11,
+          11
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [
+      4,
+      5,
+      10,
+      13
+    ],
+    "equippable_sub": [
+      4,
+      5,
+      10,
+      13
+    ],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "150560": {
+    "icon": "150560",
+    "id": 150560,
+    "name": "More-y Glory Aura Booster",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60790
+    ],
+    "nation": 111,
+    "limit_group": 150560,
+    "hull_restriction": [],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          250,
+          280,
+          310,
+          340,
+          370,
+          400,
+          430,
+          460,
+          490,
+          520,
+          550,
+          580,
+          610,
+          640
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
   }
 }

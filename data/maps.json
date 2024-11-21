@@ -30644,6 +30644,396 @@
     "type": 6,
     "id": 998
   },
+  "1870001_t1_16680301": {
+    "name": "Dangerous Inventions Incoming!-T1",
+    "acv": 50,
+    "opsi": false,
+    "boss": {
+      "hull": 3,
+      "nation": 99,
+      "name": "Haruna, Steel Protector",
+      "stats": {
+        "hp": 2400,
+        "fp": 68,
+        "trp": 52,
+        "avi": 0,
+        "aa": 85,
+        "hit": 18,
+        "eva": 18,
+        "spd": 26,
+        "luck": 0,
+        "armor": 1
+      },
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "tolove_renxing04"
+    },
+    "buffs": [],
+    "type": 3,
+    "id": 1474
+  },
+  "1870001_t2_16681301": {
+    "name": "Dangerous Inventions Incoming!-T2",
+    "acv": 295,
+    "opsi": false,
+    "boss": {
+      "hull": 7,
+      "nation": 99,
+      "name": "Yui, Winged Vanguard",
+      "stats": {
+        "hp": 7800,
+        "fp": 55,
+        "trp": 0,
+        "avi": 85,
+        "aa": 125,
+        "hit": 21,
+        "eva": 16,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "tolove_renxing02"
+    },
+    "buffs": [],
+    "type": 3,
+    "id": 1475
+  },
+  "1870001_t3_16682301": {
+    "name": "Dangerous Inventions Incoming!-T3",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "hull": 1,
+      "nation": 99,
+      "name": "Nana, Wave Guardian",
+      "stats": {
+        "hp": 14800,
+        "fp": 75,
+        "trp": 230,
+        "avi": 0,
+        "aa": 145,
+        "hit": 24,
+        "eva": 31,
+        "spd": 20,
+        "luck": 8,
+        "armor": 0
+      },
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "tolove_renxing03"
+    },
+    "buffs": [],
+    "type": 3,
+    "id": 1476
+  },
+  "1870001_t4_16683301": {
+    "name": "Dangerous Inventions Incoming!-T4",
+    "acv": 600,
+    "opsi": false,
+    "boss": {
+      "hull": 2,
+      "nation": 99,
+      "name": "Momo, Wind Sentinel",
+      "stats": {
+        "hp": 29600,
+        "fp": 155,
+        "trp": 145,
+        "avi": 0,
+        "aa": 235,
+        "hit": 38,
+        "eva": 46,
+        "spd": 20,
+        "luck": 18,
+        "armor": 0
+      },
+      "level": 65,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "tolove_renxing01"
+    },
+    "buffs": [],
+    "type": 3,
+    "id": 1477
+  },
+  "1870001_t5_16684301": {
+    "name": "Dangerous Inventions Incoming!-T5",
+    "acv": 600,
+    "opsi": false,
+    "boss": {
+      "hull": 10,
+      "nation": 99,
+      "name": "Lala, Final Spark",
+      "stats": {
+        "hp": 56200,
+        "fp": 220,
+        "trp": 0,
+        "avi": 110,
+        "aa": 225,
+        "hit": 42,
+        "eva": 42,
+        "spd": 20,
+        "luck": 18,
+        "armor": 2
+      },
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "tolove_boss01"
+    },
+    "buffs": [],
+    "type": 3,
+    "id": 1478
+  },
+  "1870002_ttl1_16686001": {
+    "name": "Dangerous Inventions Incoming! - Challenge-TTL1",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "hull": 3,
+      "nation": 99,
+      "name": "Haruna, Steel Protector",
+      "stats": {
+        "hp": 170000,
+        "fp": 330,
+        "trp": 150,
+        "avi": 0,
+        "aa": 390,
+        "hit": 71,
+        "eva": 48,
+        "spd": 18,
+        "luck": 30,
+        "armor": 1
+      },
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "tolove_renxing04"
+    },
+    "buffs": [],
+    "type": 4,
+    "id": 1479
+  },
+  "1870002_ttl2_16686002": {
+    "name": "Dangerous Inventions Incoming! - Challenge-TTL2",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "hull": 7,
+      "nation": 99,
+      "name": "Yui, Winged Vanguard",
+      "stats": {
+        "hp": 195000,
+        "fp": 280,
+        "trp": 0,
+        "avi": 410,
+        "aa": 390,
+        "hit": 76,
+        "eva": 65,
+        "spd": 18,
+        "luck": 30,
+        "armor": 1
+      },
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "tolove_renxing02"
+    },
+    "buffs": [],
+    "type": 4,
+    "id": 1480
+  },
+  "1870002_ttl3_16686003": {
+    "name": "Dangerous Inventions Incoming! - Challenge-TTL3",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "hull": 1,
+      "nation": 99,
+      "name": "Nana, Wave Guardian",
+      "stats": {
+        "hp": 125000,
+        "fp": 206,
+        "trp": 398,
+        "avi": 0,
+        "aa": 285,
+        "hit": 54,
+        "eva": 64,
+        "spd": 18,
+        "luck": 25,
+        "armor": 0
+      },
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "tolove_renxing03"
+    },
+    "buffs": [],
+    "type": 4,
+    "id": 1481
+  },
+  "1870002_ttl4_16686004": {
+    "name": "Dangerous Inventions Incoming! - Challenge-TTL4",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "hull": 2,
+      "nation": 99,
+      "name": "Momo, Wind Sentinel",
+      "stats": {
+        "hp": 155000,
+        "fp": 310,
+        "trp": 200,
+        "avi": 0,
+        "aa": 460,
+        "hit": 76,
+        "eva": 65,
+        "spd": 18,
+        "luck": 30,
+        "armor": 0
+      },
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "tolove_renxing01"
+    },
+    "buffs": [],
+    "type": 4,
+    "id": 1482
+  },
+  "1870002_ttl5_16686005": {
+    "name": "Dangerous Inventions Incoming! - Challenge-TTL5",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "hull": 5,
+      "nation": 99,
+      "name": "Yami, Dark Smasher",
+      "stats": {
+        "hp": 225000,
+        "fp": 460,
+        "trp": 0,
+        "avi": 0,
+        "aa": 460,
+        "hit": 91,
+        "eva": 65,
+        "spd": 18,
+        "luck": 35,
+        "armor": 2
+      },
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "tolove_renxing05"
+    },
+    "buffs": [],
+    "type": 4,
+    "id": 1483
+  },
+  "1870003_sp_16685301": {
+    "name": "Dangerous Inventions Incoming!-SP",
+    "acv": 1320,
+    "opsi": false,
+    "boss": {
+      "hull": 10,
+      "nation": 99,
+      "name": "Lala, Final Spark",
+      "stats": {
+        "hp": 102000,
+        "fp": 362,
+        "trp": 0,
+        "avi": 181,
+        "aa": 470,
+        "hit": 45,
+        "eva": 38,
+        "spd": 18,
+        "luck": 25,
+        "armor": 2
+      },
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "tolove_boss01"
+    },
+    "buffs": [],
+    "type": 5,
+    "id": 1484
+  },
+  "1870004_ex_16687001": {
+    "name": "Dangerous Inventions Incoming!-EX",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "hull": 10,
+      "nation": 99,
+      "name": "Lala, Final Spark",
+      "stats": {
+        "hp": 1200000,
+        "fp": 360,
+        "trp": 0,
+        "avi": 360,
+        "aa": 400,
+        "hit": 125,
+        "eva": 25,
+        "spd": 15,
+        "luck": 66,
+        "armor": 2
+      },
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "tolove_boss01"
+    },
+    "buffs": [],
+    "type": 6,
+    "id": 1485
+  },
+  "1870004_ex_16687101": {
+    "name": "Dangerous Inventions Incoming!-EX",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "hull": 10,
+      "nation": 99,
+      "name": "Lala, Final Spark",
+      "stats": {
+        "hp": 1250000,
+        "fp": 999,
+        "trp": 0,
+        "avi": 999,
+        "aa": 500,
+        "hit": 9999,
+        "eva": 0,
+        "spd": 15,
+        "luck": 99,
+        "armor": 2
+      },
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "tolove_boss01"
+    },
+    "buffs": [],
+    "type": 6,
+    "id": 1486
+  },
   "2100000_a1_10041501": {
     "name": "Visitors Dyed in Red: Prequel-A1",
     "acv": 150,

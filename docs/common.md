@@ -19,7 +19,7 @@ Rarity is a numeric value with the range `[1, 8]` where each number represents a
 
 # Nation
 
-Rarity is a numeric value with the **three** ranges `[0, 10]`, `[94, 99]` and `[101, 110]` where each
+Rarity is a numeric value with the **three** ranges `[0, 10]`, `[94, 99]` and `[101, 111]` where each
 number represents an in-game Nation (missing values do not exit in game):
 
 | Value |   Label    |           Description            |
@@ -53,6 +53,7 @@ number represents an in-game Nation (missing values do not exit in game):
 |  108  |    SSSS    |               SSSS               |
 |  109  |    Ryza    |           Atelier Ryza           |
 |  110  |   Senran   |          Senran Kagura           |
+|  111  |   LoveRu   |            To Love Ru            |
 
 
 # Hull

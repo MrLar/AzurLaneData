@@ -70,5 +70,23 @@
     ],
     "contains": [],
     "favor": 2000
+  },
+  "2022002": {
+    "name": "Royal Tea Set",
+    "description": "A classy, elegant tea set from the Royal Islands.\nIts blue and white design feels both refreshing and relaxing, bringing grace to your teatime.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 5,
+    "id": 2022002,
+    "purchaseable": true,
+    "icon": "dorm3d/items/3ddrom_tianlangxing_fancygift1",
+    "ship": 371,
+    "servers": [
+      "EN"
+    ],
+    "contains": [],
+    "favor": 2000
   }
 }
