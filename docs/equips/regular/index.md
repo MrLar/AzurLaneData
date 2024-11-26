@@ -46,6 +46,8 @@ following:
 |       **dodge**       |  `number`  |                                                                                    RNG constant for plane dodges.                                                                                    |
 |    **dodge_limit**    |  `number`  |                                                                                     Constant for maximum dodges.                                                                                     |
 |     **crash_dmg**     |  `number`  |                                                                      End of Screen damage of this plane (enemies and PvP only).                                                                      |
+|        **id**         |  `number`  |                                                                                       The ID of the aircraft.                                                                                        |
+|   **intercept_id**    |  `number`  |                                                 **(Optional)** The ID of the aircraft used for intercepting if `is_interceptor` is `true` otherwise.                                                 |
 
 # Armament
 

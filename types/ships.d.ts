@@ -80,6 +80,7 @@ export interface RetroData {
     min_lb: number
     ghost_equipment?: GhostEquipmentData[]
     date: number
+    id?: number
 }
 
 export interface RetrofitNode {

@@ -25,6 +25,7 @@ properties:
 |        **min_lb**        |                                                                     `number`                                                                      |                                      Minimum limit break to finish the entire retrofit.                                      |
 |   **ghost_equipment?**   |                                                    [`GhostEquipmentData[]`](./ghost_equip.md)                                                     |                                        **(Optional)** Override for ghost equipments.                                         |
 |         **date**         |                                                                     `number`                                                                      |                                                Release date of this retrofit                                                 |
+|         **id?**          |                                                                     `number`                                                                      |                                          **(Optional)** GID of the retrofit if any.                                          |
 
 ## Retrofit Stats Data
 

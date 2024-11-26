@@ -9039,6 +9039,7 @@
         0,
         70
       ],
+      "id": 3680,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -9185,6 +9186,7 @@
         0,
         70
       ],
+      "id": 3700,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -9341,6 +9343,7 @@
         0,
         70
       ],
+      "id": 3720,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -10442,6 +10445,7 @@
         0,
         25
       ],
+      "id": 4000,
       "spread_angle": "0° No Spread",
       "stat": "asw",
       "ratio": 1,
@@ -10554,6 +10558,7 @@
         0,
         25
       ],
+      "id": 4020,
       "spread_angle": "0° No Spread",
       "stat": "asw",
       "ratio": 1,
@@ -10688,6 +10693,7 @@
         0,
         25
       ],
+      "id": 4040,
       "spread_angle": "0° No Spread",
       "stat": "asw",
       "ratio": 1,
@@ -10814,6 +10820,7 @@
         0,
         30
       ],
+      "id": 4100,
       "spread_angle": "0° No Spread",
       "stat": "asw",
       "ratio": 1,
@@ -10945,6 +10952,7 @@
         0,
         30
       ],
+      "id": 4120,
       "spread_angle": "0° No Spread",
       "stat": "asw",
       "ratio": 1,
@@ -11094,6 +11102,7 @@
         0,
         30
       ],
+      "id": 4140,
       "spread_angle": "0° No Spread",
       "stat": "asw",
       "ratio": 1,
@@ -11219,6 +11228,7 @@
           500
         ],
         "reload": [],
+        "id": 53100,
         "spread_angle": null,
         "name": "Depth Charge - Standard",
         "stat": "asw",
@@ -11253,6 +11263,8 @@
       ],
       "count": 1,
       "is_interceptor": true,
+      "id": 4200,
+      "intercept_id": 4200,
       "intercept_reload": [
         680,
         668,
@@ -11364,6 +11376,7 @@
           500
         ],
         "reload": [],
+        "id": 53120,
         "spread_angle": null,
         "name": "Depth Charge - Standard",
         "stat": "asw",
@@ -11401,6 +11414,8 @@
       ],
       "count": 1,
       "is_interceptor": true,
+      "id": 4220,
+      "intercept_id": 4220,
       "intercept_reload": [
         650,
         636,
@@ -11529,6 +11544,7 @@
           500
         ],
         "reload": [],
+        "id": 53140,
         "spread_angle": null,
         "name": "Depth Charge - Standard",
         "stat": "asw",
@@ -11571,6 +11587,8 @@
       ],
       "count": 1,
       "is_interceptor": true,
+      "id": 4240,
+      "intercept_id": 4240,
       "intercept_reload": [
         620,
         604,
@@ -11711,6 +11729,7 @@
           500
         ],
         "reload": [],
+        "id": 53200,
         "spread_angle": null,
         "name": "Anti-Sub Bombs - Range Up",
         "stat": "asw",
@@ -11745,6 +11764,8 @@
       ],
       "count": 1,
       "is_interceptor": true,
+      "id": 4300,
+      "intercept_id": 4300,
       "intercept_reload": [
         620,
         610,
@@ -11856,6 +11877,7 @@
           500
         ],
         "reload": [],
+        "id": 53220,
         "spread_angle": null,
         "name": "Anti-Sub Bombs - Range Up",
         "stat": "asw",
@@ -11893,6 +11915,8 @@
       ],
       "count": 1,
       "is_interceptor": true,
+      "id": 4320,
+      "intercept_id": 4320,
       "intercept_reload": [
         600,
         588,
@@ -12021,6 +12045,7 @@
           500
         ],
         "reload": [],
+        "id": 53240,
         "spread_angle": null,
         "name": "Anti-Sub Bombs - Range Up",
         "stat": "asw",
@@ -12063,6 +12088,8 @@
       ],
       "count": 1,
       "is_interceptor": true,
+      "id": 4340,
+      "intercept_id": 4340,
       "intercept_reload": [
         580,
         565,
@@ -12213,6 +12240,7 @@
           500
         ],
         "reload": [],
+        "id": 53360,
         "spread_angle": null,
         "name": "Anti-Sub Bombs - Range Up",
         "stat": "asw",
@@ -12280,6 +12308,7 @@
           67,
           67
         ],
+        "id": 53380,
         "spread_angle": null,
         "name": "2 x Cannon",
         "stat": "avi",
@@ -12324,6 +12353,8 @@
       ],
       "count": 1,
       "is_interceptor": true,
+      "id": 4360,
+      "intercept_id": 4360,
       "intercept_reload": [
         580,
         565,
@@ -12463,6 +12494,7 @@
         0,
         37
       ],
+      "id": 5000,
       "spread_angle": "40° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -12565,6 +12597,7 @@
         0,
         37
       ],
+      "id": 5020,
       "spread_angle": "40° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -12689,6 +12722,7 @@
         0,
         37
       ],
+      "id": 5040,
       "spread_angle": "40° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -12805,6 +12839,7 @@
         0,
         37
       ],
+      "id": 5100,
       "spread_angle": "48° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -12926,6 +12961,7 @@
         0,
         37
       ],
+      "id": 5120,
       "spread_angle": "48° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -13065,6 +13101,7 @@
         0,
         37
       ],
+      "id": 5140,
       "spread_angle": "48° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -13197,6 +13234,7 @@
         0,
         37
       ],
+      "id": 5200,
       "spread_angle": "60° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -13333,6 +13371,7 @@
         0,
         37
       ],
+      "id": 5220,
       "spread_angle": "60° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -13482,6 +13521,7 @@
         0,
         37
       ],
+      "id": 5240,
       "spread_angle": "60° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -13607,6 +13647,7 @@
         0,
         37
       ],
+      "id": 5300,
       "spread_angle": "30° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -13712,6 +13753,7 @@
         0,
         37
       ],
+      "id": 5320,
       "spread_angle": "30° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -13836,6 +13878,7 @@
         0,
         37
       ],
+      "id": 5340,
       "spread_angle": "30° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -13955,6 +13998,7 @@
         0,
         37
       ],
+      "id": 5400,
       "spread_angle": "40° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -14079,6 +14123,7 @@
         0,
         37
       ],
+      "id": 5420,
       "spread_angle": "40° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -14218,6 +14263,7 @@
         0,
         37
       ],
+      "id": 5440,
       "spread_angle": "40° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -14341,6 +14387,7 @@
         0,
         50
       ],
+      "id": 5500,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -14456,6 +14503,7 @@
         0,
         50
       ],
+      "id": 5520,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -14589,6 +14637,7 @@
         0,
         50
       ],
+      "id": 5540,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -14727,6 +14776,7 @@
         0,
         37
       ],
+      "id": 5600,
       "spread_angle": "48° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -14871,6 +14921,7 @@
         0,
         37
       ],
+      "id": 5620,
       "spread_angle": "48° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -15022,6 +15073,7 @@
         0,
         37
       ],
+      "id": 5640,
       "spread_angle": "48° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -15175,6 +15227,7 @@
         0,
         37
       ],
+      "id": 5660,
       "spread_angle": "30° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -15302,6 +15355,7 @@
         0,
         15
       ],
+      "id": 6000,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -15420,6 +15474,7 @@
         0,
         15
       ],
+      "id": 6020,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -15560,6 +15615,7 @@
         0,
         15
       ],
+      "id": 6040,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -15692,6 +15748,7 @@
         0,
         32
       ],
+      "id": 6100,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -15807,6 +15864,7 @@
         0,
         32
       ],
+      "id": 6120,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -15944,6 +16002,7 @@
         0,
         32
       ],
+      "id": 6140,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -16076,6 +16135,7 @@
         0,
         65
       ],
+      "id": 7000,
       "spread_angle": "40° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -16170,6 +16230,7 @@
         0,
         65
       ],
+      "id": 7020,
       "spread_angle": "40° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -16283,6 +16344,7 @@
         0,
         65
       ],
+      "id": 7040,
       "spread_angle": "40° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -16391,6 +16453,7 @@
         0,
         65
       ],
+      "id": 7100,
       "spread_angle": "40° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -16485,6 +16548,7 @@
         0,
         65
       ],
+      "id": 7120,
       "spread_angle": "40° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -16598,6 +16662,7 @@
         0,
         65
       ],
+      "id": 7140,
       "spread_angle": "40° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -16703,6 +16768,7 @@
         0,
         65
       ],
+      "id": 7200,
       "spread_angle": "22° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -16827,6 +16893,7 @@
         0,
         65
       ],
+      "id": 7220,
       "spread_angle": "22° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -16969,6 +17036,7 @@
         0,
         65
       ],
+      "id": 7240,
       "spread_angle": "22° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -17125,6 +17193,7 @@
         0,
         70
       ],
+      "id": 7300,
       "spread_angle": "10° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -17253,6 +17322,7 @@
         0,
         60
       ],
+      "id": 7320,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -17397,6 +17467,7 @@
         0,
         80
       ],
+      "id": 7340,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -17506,6 +17577,7 @@
         0,
         50
       ],
+      "id": 11000,
       "spread_angle": "5° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -17611,6 +17683,7 @@
         0,
         50
       ],
+      "id": 11020,
       "spread_angle": "5° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -17738,6 +17811,7 @@
         0,
         50
       ],
+      "id": 11040,
       "spread_angle": "5° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -17869,6 +17943,7 @@
         0,
         60
       ],
+      "id": 11060,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -17986,6 +18061,7 @@
         0,
         60
       ],
+      "id": 11100,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -18108,6 +18184,7 @@
         0,
         60
       ],
+      "id": 11120,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -18248,6 +18325,7 @@
         0,
         60
       ],
+      "id": 11140,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -18394,6 +18472,7 @@
         0,
         60
       ],
+      "id": 11160,
       "spread_angle": "30° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -18525,6 +18604,7 @@
         0,
         60
       ],
+      "id": 11200,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -18674,6 +18754,7 @@
         0,
         60
       ],
+      "id": 11220,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -18841,6 +18922,7 @@
         0,
         60
       ],
+      "id": 11240,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -19029,6 +19111,7 @@
         0,
         70
       ],
+      "id": 11260,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -19163,6 +19246,7 @@
         0,
         65
       ],
+      "id": 12000,
       "spread_angle": "21° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -19258,6 +19342,7 @@
         0,
         65
       ],
+      "id": 12020,
       "spread_angle": "21° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -19375,6 +19460,7 @@
         0,
         65
       ],
+      "id": 12040,
       "spread_angle": "21° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -19496,6 +19582,7 @@
         0,
         65
       ],
+      "id": 12060,
       "spread_angle": "21° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -19604,6 +19691,7 @@
         0,
         65
       ],
+      "id": 12100,
       "spread_angle": "45° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -19719,6 +19807,7 @@
         0,
         65
       ],
+      "id": 12120,
       "spread_angle": "45° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -19852,6 +19941,7 @@
         0,
         65
       ],
+      "id": 12140,
       "spread_angle": "45° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -19997,6 +20087,7 @@
         0,
         65
       ],
+      "id": 12160,
       "spread_angle": "20° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -20143,6 +20234,7 @@
         0,
         68
       ],
+      "id": 12200,
       "spread_angle": "16° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -20281,6 +20373,7 @@
         0,
         70
       ],
+      "id": 13000,
       "spread_angle": "30° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -20377,6 +20470,7 @@
         0,
         70
       ],
+      "id": 13020,
       "spread_angle": "30° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -20495,6 +20589,7 @@
         0,
         70
       ],
+      "id": 13040,
       "spread_angle": "30° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -20617,6 +20712,7 @@
         0,
         70
       ],
+      "id": 13060,
       "spread_angle": "30° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -20751,6 +20847,7 @@
         0,
         70
       ],
+      "id": 13080,
       "spread_angle": "22° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -20865,6 +20962,7 @@
         0,
         70
       ],
+      "id": 13100,
       "spread_angle": "30° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -20980,6 +21078,7 @@
         0,
         70
       ],
+      "id": 13120,
       "spread_angle": "30° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -21113,6 +21212,7 @@
         0,
         70
       ],
+      "id": 13140,
       "spread_angle": "30° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -21257,6 +21357,7 @@
         0,
         70
       ],
+      "id": 13160,
       "spread_angle": "22° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -21403,6 +21504,7 @@
         0,
         65
       ],
+      "id": 13180,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -21526,6 +21628,7 @@
         50,
         200
       ],
+      "id": 14000,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -21651,6 +21754,7 @@
         50,
         200
       ],
+      "id": 14020,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -21789,6 +21893,7 @@
         50,
         200
       ],
+      "id": 14040,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -21900,6 +22005,7 @@
         50,
         200
       ],
+      "id": 14100,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -21995,6 +22101,7 @@
         50,
         200
       ],
+      "id": 14120,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -22113,6 +22220,7 @@
         50,
         200
       ],
+      "id": 14140,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -22247,6 +22355,7 @@
         50,
         200
       ],
+      "id": 14160,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -22373,6 +22482,7 @@
         50,
         200
       ],
+      "id": 14180,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -22483,6 +22593,7 @@
         50,
         200
       ],
+      "id": 14200,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -22597,6 +22708,7 @@
         50,
         200
       ],
+      "id": 14220,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -22730,6 +22842,7 @@
         50,
         200
       ],
+      "id": 14240,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -22868,6 +22981,7 @@
         50,
         200
       ],
+      "id": 14260,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -22983,6 +23097,7 @@
         50,
         200
       ],
+      "id": 14300,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -23098,6 +23213,7 @@
         50,
         200
       ],
+      "id": 14320,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -23232,6 +23348,7 @@
         50,
         200
       ],
+      "id": 14340,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -23377,6 +23494,7 @@
         50,
         200
       ],
+      "id": 14360,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -23519,6 +23637,7 @@
         50,
         200
       ],
+      "id": 14380,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -23641,6 +23760,7 @@
         50,
         200
       ],
+      "id": 14400,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -23767,6 +23887,7 @@
         50,
         200
       ],
+      "id": 14420,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -23906,6 +24027,7 @@
         50,
         200
       ],
+      "id": 14440,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -24048,6 +24170,7 @@
         50,
         200
       ],
+      "id": 14460,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -24197,6 +24320,7 @@
         50,
         200
       ],
+      "id": 14500,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -24347,6 +24471,7 @@
         50,
         200
       ],
+      "id": 14520,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -24496,6 +24621,7 @@
         50,
         200
       ],
+      "id": 14540,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -24612,6 +24738,7 @@
         0,
         50
       ],
+      "id": 15000,
       "spread_angle": "0° No Spread",
       "stat": "trp",
       "ratio": 1,
@@ -24727,6 +24854,7 @@
         0,
         50
       ],
+      "id": 15020,
       "spread_angle": "0° No Spread",
       "stat": "trp",
       "ratio": 1,
@@ -24860,6 +24988,7 @@
         0,
         50
       ],
+      "id": 15040,
       "spread_angle": "0° No Spread",
       "stat": "trp",
       "ratio": 1,
@@ -24998,6 +25127,7 @@
         0,
         50
       ],
+      "id": 15060,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -25121,6 +25251,7 @@
         0,
         50
       ],
+      "id": 15100,
       "spread_angle": "0° No Spread",
       "stat": "trp",
       "ratio": 1,
@@ -25252,6 +25383,7 @@
         0,
         50
       ],
+      "id": 15120,
       "spread_angle": "0° No Spread",
       "stat": "trp",
       "ratio": 1,
@@ -25396,6 +25528,7 @@
         0,
         50
       ],
+      "id": 15140,
       "spread_angle": "0° No Spread",
       "stat": "trp",
       "ratio": 1,
@@ -25543,6 +25676,7 @@
         0,
         50
       ],
+      "id": 15160,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -25671,6 +25805,7 @@
         0,
         40
       ],
+      "id": 15200,
       "spread_angle": "40° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -25811,6 +25946,7 @@
         0,
         40
       ],
+      "id": 15220,
       "spread_angle": "48° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -25961,6 +26097,7 @@
         0,
         40
       ],
+      "id": 15240,
       "spread_angle": "60° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -26119,6 +26256,7 @@
         0,
         40
       ],
+      "id": 15300,
       "spread_angle": "8° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -26344,6 +26482,7 @@
         0,
         18
       ],
+      "id": 16000,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -26462,6 +26601,7 @@
         0,
         18
       ],
+      "id": 16020,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -26602,6 +26742,7 @@
         0,
         18
       ],
+      "id": 16040,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -26758,6 +26899,7 @@
         0,
         30
       ],
+      "id": 16060,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -26924,6 +27066,7 @@
         0,
         30
       ],
+      "id": 16080,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -27064,6 +27207,7 @@
         0,
         18
       ],
+      "id": 16100,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -27201,6 +27345,7 @@
         0,
         18
       ],
+      "id": 16120,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -27356,6 +27501,7 @@
         0,
         18
       ],
+      "id": 16140,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -27516,6 +27662,7 @@
         0,
         18
       ],
+      "id": 16160,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -27652,6 +27799,7 @@
         0,
         21
       ],
+      "id": 16200,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -27789,6 +27937,7 @@
         0,
         21
       ],
+      "id": 16220,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -27944,6 +28093,7 @@
         0,
         21
       ],
+      "id": 16240,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -28080,6 +28230,7 @@
         0,
         28
       ],
+      "id": 16300,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -28217,6 +28368,7 @@
         0,
         28
       ],
+      "id": 16320,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -28372,6 +28524,7 @@
         0,
         28
       ],
+      "id": 16340,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -28517,6 +28670,7 @@
         0,
         28
       ],
+      "id": 16400,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -28672,6 +28826,7 @@
         0,
         28
       ],
+      "id": 16420,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -28840,6 +28995,7 @@
         0,
         28
       ],
+      "id": 16440,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -29029,6 +29185,7 @@
         100,
         125
       ],
+      "id": 16460,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -29165,6 +29322,7 @@
           126,
           124
         ],
+        "id": 50300,
         "spread_angle": null,
         "name": "4 x 12.7mm Cannon",
         "stat": "avi",
@@ -29206,6 +29364,8 @@
         1924
       ],
       "intercept_count": 1,
+      "id": 17000,
+      "intercept_id": 81000,
       "speed": 45,
       "hp_growth": [
         1129,
@@ -29290,6 +29450,7 @@
           120,
           118
         ],
+        "id": 50320,
         "spread_angle": null,
         "name": "4 x 12.7mm Cannon",
         "stat": "avi",
@@ -29331,6 +29492,8 @@
         1876
       ],
       "intercept_count": 1,
+      "id": 17020,
+      "intercept_id": 81020,
       "speed": 45,
       "hp_growth": [
         1270,
@@ -29433,6 +29596,7 @@
           105,
           102
         ],
+        "id": 50340,
         "spread_angle": null,
         "name": "4 x 12.7mm Cannon",
         "stat": "avi",
@@ -29482,6 +29646,8 @@
         1758
       ],
       "intercept_count": 1,
+      "id": 17040,
+      "intercept_id": 81040,
       "speed": 45,
       "hp_growth": [
         1411,
@@ -29610,6 +29776,7 @@
           90,
           90
         ],
+        "id": 50360,
         "spread_angle": null,
         "name": "4 x 12.7mm Cannon",
         "stat": "avi",
@@ -29671,6 +29838,8 @@
         1420
       ],
       "intercept_count": 1,
+      "id": 17060,
+      "intercept_id": 81060,
       "speed": 45,
       "hp_growth": [
         1552,
@@ -29811,6 +29980,7 @@
           95,
           95
         ],
+        "id": 50340,
         "spread_angle": null,
         "name": "4 x 12.7mm Cannon",
         "stat": "avi",
@@ -29861,6 +30031,7 @@
           500
         ],
         "reload": [],
+        "id": 52140,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -29918,6 +30089,8 @@
         1768
       ],
       "intercept_count": 1,
+      "id": 17080,
+      "intercept_id": 81080,
       "speed": 45,
       "hp_growth": [
         1552,
@@ -30036,6 +30209,7 @@
           163,
           159
         ],
+        "id": 50400,
         "spread_angle": null,
         "name": "6 x 12.7mm Cannon",
         "stat": "avi",
@@ -30077,6 +30251,8 @@
         1829
       ],
       "intercept_count": 1,
+      "id": 17100,
+      "intercept_id": 81100,
       "speed": 48,
       "hp_growth": [
         1270,
@@ -30177,6 +30353,7 @@
           145,
           142
         ],
+        "id": 50420,
         "spread_angle": null,
         "name": "6 x 12.7mm Cannon",
         "stat": "avi",
@@ -30224,6 +30401,8 @@
         1720
       ],
       "intercept_count": 1,
+      "id": 17120,
+      "intercept_id": 81120,
       "speed": 48,
       "hp_growth": [
         1411,
@@ -30343,6 +30522,7 @@
           122,
           122
         ],
+        "id": 50440,
         "spread_angle": null,
         "name": "6 x 12.7mm Cannon",
         "stat": "avi",
@@ -30400,6 +30580,8 @@
         1587
       ],
       "intercept_count": 1,
+      "id": 17140,
+      "intercept_id": 81140,
       "speed": 48,
       "hp_growth": [
         1552,
@@ -30518,6 +30700,7 @@
           163,
           159
         ],
+        "id": 50400,
         "spread_angle": null,
         "name": "6 x 12.7mm Cannon",
         "stat": "avi",
@@ -30560,6 +30743,7 @@
           500
         ],
         "reload": [],
+        "id": 52300,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -30601,6 +30785,8 @@
         1791
       ],
       "intercept_count": 1,
+      "id": 17200,
+      "intercept_id": 81200,
       "speed": 48,
       "hp_growth": [
         1270,
@@ -30702,6 +30888,7 @@
           145,
           142
         ],
+        "id": 50420,
         "spread_angle": null,
         "name": "6 x 12.7mm Cannon",
         "stat": "avi",
@@ -30747,6 +30934,7 @@
           500
         ],
         "reload": [],
+        "id": 52320,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -30794,6 +30982,8 @@
         1682
       ],
       "intercept_count": 1,
+      "id": 17220,
+      "intercept_id": 81220,
       "speed": 48,
       "hp_growth": [
         1411,
@@ -30914,6 +31104,7 @@
           122,
           122
         ],
+        "id": 50440,
         "spread_angle": null,
         "name": "6 x 12.7mm Cannon",
         "stat": "avi",
@@ -30964,6 +31155,7 @@
           500
         ],
         "reload": [],
+        "id": 52340,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -31021,6 +31213,8 @@
         1558
       ],
       "intercept_count": 1,
+      "id": 17240,
+      "intercept_id": 81240,
       "speed": 48,
       "hp_growth": [
         1552,
@@ -31163,6 +31357,7 @@
           115,
           115
         ],
+        "id": 50460,
         "spread_angle": null,
         "name": "6 x 12.7mm Cannon",
         "stat": "avi",
@@ -31215,6 +31410,7 @@
           500
         ],
         "reload": [],
+        "id": 52360,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -31276,6 +31472,8 @@
         1534
       ],
       "intercept_count": 1,
+      "id": 17260,
+      "intercept_id": 81260,
       "speed": 49,
       "hp_growth": [
         1693,
@@ -31410,6 +31608,7 @@
           118,
           116
         ],
+        "id": 50300,
         "spread_angle": null,
         "name": "4 x 12.7mm Cannon",
         "stat": "avi",
@@ -31463,6 +31662,7 @@
           119,
           117
         ],
+        "id": 50500,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -31508,6 +31708,7 @@
           500
         ],
         "reload": [],
+        "id": 52300,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -31555,6 +31756,8 @@
         1663
       ],
       "intercept_count": 1,
+      "id": 17300,
+      "intercept_id": 81300,
       "speed": 50,
       "hp_growth": [
         1411,
@@ -31675,6 +31878,7 @@
           103,
           100
         ],
+        "id": 50320,
         "spread_angle": null,
         "name": "4 x 12.7mm Cannon",
         "stat": "avi",
@@ -31736,6 +31940,7 @@
           104,
           102
         ],
+        "id": 50520,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -31785,6 +31990,7 @@
           500
         ],
         "reload": [],
+        "id": 52320,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -31840,6 +32046,8 @@
         1530
       ],
       "intercept_count": 1,
+      "id": 17320,
+      "intercept_id": 81320,
       "speed": 50,
       "hp_growth": [
         1552,
@@ -31978,6 +32186,7 @@
           95,
           95
         ],
+        "id": 50340,
         "spread_angle": null,
         "name": "4 x 12.7mm Cannon",
         "stat": "avi",
@@ -32045,6 +32254,7 @@
           97,
           97
         ],
+        "id": 50540,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -32097,6 +32307,7 @@
           500
         ],
         "reload": [],
+        "id": 52340,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -32158,6 +32369,8 @@
         1492
       ],
       "intercept_count": 1,
+      "id": 17340,
+      "intercept_id": 81340,
       "speed": 50,
       "hp_growth": [
         1693,
@@ -32305,6 +32518,7 @@
           128,
           128
         ],
+        "id": 50660,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -32357,6 +32571,7 @@
           500
         ],
         "reload": [],
+        "id": 52760,
         "spread_angle": null,
         "name": "2 x 1000lb Bomb",
         "stat": "avi",
@@ -32418,6 +32633,8 @@
         1626
       ],
       "intercept_count": 1,
+      "id": 17360,
+      "intercept_id": 81360,
       "speed": 52,
       "hp_growth": [
         2032,
@@ -32564,6 +32781,7 @@
           128,
           128
         ],
+        "id": 50660,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -32616,6 +32834,7 @@
           500
         ],
         "reload": [],
+        "id": 52660,
         "spread_angle": null,
         "name": "1 x 1000lb Bomb",
         "stat": "avi",
@@ -32677,6 +32896,8 @@
         1450
       ],
       "intercept_count": 1,
+      "id": 17380,
+      "intercept_id": 81380,
       "speed": 50,
       "hp_growth": [
         1829,
@@ -32817,6 +33038,7 @@
           97,
           97
         ],
+        "id": 50540,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -32880,6 +33102,7 @@
           67,
           67
         ],
+        "id": 50740,
         "spread_angle": null,
         "name": "2 x 12.7mm Cannon",
         "stat": "avi",
@@ -32937,6 +33160,8 @@
         1350
       ],
       "intercept_count": 1,
+      "id": 17400,
+      "intercept_id": 81400,
       "speed": 47,
       "hp_growth": [
         1552,
@@ -33076,6 +33301,7 @@
           128,
           128
         ],
+        "id": 50660,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -33128,6 +33354,7 @@
           500
         ],
         "reload": [],
+        "id": 52760,
         "spread_angle": null,
         "name": "2 x 1000lb Bomb",
         "stat": "avi",
@@ -33189,6 +33416,8 @@
         1354
       ],
       "intercept_count": 1,
+      "id": 17420,
+      "intercept_id": 81420,
       "speed": 42,
       "hp_growth": [
         2371,
@@ -33334,6 +33563,7 @@
           119,
           119
         ],
+        "id": 50340,
         "spread_angle": null,
         "name": "4 x 12.7mm Cannon",
         "stat": "avi",
@@ -33401,6 +33631,7 @@
           120,
           120
         ],
+        "id": 50540,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -33453,6 +33684,7 @@
           80
         ],
         "reload": [],
+        "id": 59860,
         "spread_angle": null,
         "name": "6 x HVAR",
         "stat": "avi",
@@ -33497,6 +33729,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 17440,
       "speed": 50,
       "hp_growth": [
         1693,
@@ -33644,6 +33877,7 @@
           128,
           128
         ],
+        "id": 50660,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -33696,6 +33930,7 @@
           80
         ],
         "reload": [],
+        "id": 59980,
         "spread_angle": null,
         "name": "2 x TinyTim",
         "stat": "avi",
@@ -33757,6 +33992,8 @@
         1984
       ],
       "intercept_count": 1,
+      "id": 17460,
+      "intercept_id": 81460,
       "speed": 50,
       "hp_growth": [
         1829,
@@ -33884,6 +34121,7 @@
           75,
           74
         ],
+        "id": 50000,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -33926,6 +34164,7 @@
           75
         ],
         "reload": [],
+        "id": 51000,
         "spread_angle": null,
         "name": "2 x Torpedo-Common",
         "stat": "avi",
@@ -33960,6 +34199,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 18000,
       "speed": 48,
       "hp_growth": [
         1021,
@@ -34045,6 +34285,7 @@
           72,
           70
         ],
+        "id": 50020,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -34087,6 +34328,7 @@
           75
         ],
         "reload": [],
+        "id": 51020,
         "spread_angle": null,
         "name": "2 x Torpedo-Common",
         "stat": "avi",
@@ -34121,6 +34363,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 18020,
       "speed": 48,
       "hp_growth": [
         1149,
@@ -34224,6 +34467,7 @@
           62,
           61
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -34270,6 +34514,7 @@
           75
         ],
         "reload": [],
+        "id": 51040,
         "spread_angle": null,
         "name": "2 x Torpedo-Common",
         "stat": "avi",
@@ -34308,6 +34553,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 18040,
       "speed": 48,
       "hp_growth": [
         1277,
@@ -34437,6 +34683,7 @@
           57,
           57
         ],
+        "id": 59560,
         "spread_angle": null,
         "name": "3 x 7.7mm Cannon",
         "stat": "avi",
@@ -34489,6 +34736,7 @@
           75
         ],
         "reload": [],
+        "id": 59580,
         "spread_angle": null,
         "name": "2 x Torpedo-Common",
         "stat": "avi",
@@ -34533,6 +34781,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 18060,
       "speed": 48,
       "hp_growth": [
         1456,
@@ -34661,6 +34910,7 @@
           75,
           74
         ],
+        "id": 50000,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -34703,6 +34953,7 @@
           75
         ],
         "reload": [],
+        "id": 51100,
         "spread_angle": null,
         "name": "3 x Torpedo-Common",
         "stat": "avi",
@@ -34737,6 +34988,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 18100,
       "speed": 48,
       "hp_growth": [
         1149,
@@ -34838,6 +35090,7 @@
           67,
           66
         ],
+        "id": 50020,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -34883,6 +35136,7 @@
           75
         ],
         "reload": [],
+        "id": 51120,
         "spread_angle": null,
         "name": "3 x Torpedo-Common",
         "stat": "avi",
@@ -34920,6 +35174,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 18120,
       "speed": 48,
       "hp_growth": [
         1277,
@@ -35040,6 +35295,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -35090,6 +35346,7 @@
           75
         ],
         "reload": [],
+        "id": 51140,
         "spread_angle": null,
         "name": "3 x Torpedo-Common",
         "stat": "avi",
@@ -35132,6 +35389,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 18140,
       "speed": 48,
       "hp_growth": [
         1404,
@@ -35271,6 +35529,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -35323,6 +35582,7 @@
           75
         ],
         "reload": [],
+        "id": 59600,
         "spread_angle": null,
         "name": "3 x Torpedo-Common",
         "stat": "avi",
@@ -35367,6 +35627,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 18160,
       "speed": 48,
       "hp_growth": [
         1456,
@@ -35508,6 +35769,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -35560,6 +35822,7 @@
           75
         ],
         "reload": [],
+        "id": 59620,
         "spread_angle": null,
         "name": "3 x Torpedo-Common",
         "stat": "avi",
@@ -35604,6 +35867,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 18180,
       "speed": 48,
       "hp_growth": [
         1563,
@@ -35751,6 +36015,7 @@
           122,
           122
         ],
+        "id": 59740,
         "spread_angle": null,
         "name": "7 x 12.7mm Cannon",
         "stat": "avi",
@@ -35803,6 +36068,7 @@
           75
         ],
         "reload": [],
+        "id": 51240,
         "spread_angle": null,
         "name": "4 x Torpedo-Common",
         "stat": "avi",
@@ -35847,6 +36113,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 18220,
       "speed": 45,
       "hp_growth": [
         2129,
@@ -35974,6 +36241,7 @@
           88,
           87
         ],
+        "id": 50700,
         "spread_angle": null,
         "name": "2 x 12.7mm Cannon",
         "stat": "avi",
@@ -36016,6 +36284,7 @@
           500
         ],
         "reload": [],
+        "id": 52900,
         "spread_angle": null,
         "name": "1 x 2000lb Bomb",
         "stat": "avi",
@@ -36058,6 +36327,7 @@
           500
         ],
         "reload": [],
+        "id": 52100,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -36092,6 +36362,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 19000,
       "speed": 45,
       "hp_growth": [
         1183,
@@ -36177,6 +36448,7 @@
           84,
           83
         ],
+        "id": 50720,
         "spread_angle": null,
         "name": "2 x 12.7mm Cannon",
         "stat": "avi",
@@ -36219,6 +36491,7 @@
           500
         ],
         "reload": [],
+        "id": 52920,
         "spread_angle": null,
         "name": "1 x 2000lb Bomb",
         "stat": "avi",
@@ -36261,6 +36534,7 @@
           500
         ],
         "reload": [],
+        "id": 52120,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -36295,6 +36569,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 19020,
       "speed": 45,
       "hp_growth": [
         1331,
@@ -36398,6 +36673,7 @@
           74,
           71
         ],
+        "id": 50740,
         "spread_angle": null,
         "name": "2 x 12.7mm Cannon",
         "stat": "avi",
@@ -36444,6 +36720,7 @@
           500
         ],
         "reload": [],
+        "id": 52940,
         "spread_angle": null,
         "name": "1 x 2000lb Bomb",
         "stat": "avi",
@@ -36490,6 +36767,7 @@
           500
         ],
         "reload": [],
+        "id": 52140,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -36528,6 +36806,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 19040,
       "speed": 45,
       "hp_growth": [
         1478,
@@ -36642,6 +36921,7 @@
           500
         ],
         "reload": [],
+        "id": 52960,
         "spread_angle": null,
         "name": "1 x 2000lb Bomb",
         "stat": "avi",
@@ -36694,6 +36974,7 @@
           500
         ],
         "reload": [],
+        "id": 52160,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -36738,6 +37019,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 19060,
       "speed": 46,
       "hp_growth": [
         1774,
@@ -36865,6 +37147,7 @@
           88,
           87
         ],
+        "id": 50700,
         "spread_angle": null,
         "name": "2 x 12.7mm Cannon",
         "stat": "avi",
@@ -36907,6 +37190,7 @@
           500
         ],
         "reload": [],
+        "id": 52900,
         "spread_angle": null,
         "name": "1 x 2000lb Bomb",
         "stat": "avi",
@@ -36949,6 +37233,7 @@
           500
         ],
         "reload": [],
+        "id": 52300,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -36983,6 +37268,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 19100,
       "speed": 45,
       "hp_growth": [
         1331,
@@ -37086,6 +37372,7 @@
           79,
           77
         ],
+        "id": 50720,
         "spread_angle": null,
         "name": "2 x 12.7mm Cannon",
         "stat": "avi",
@@ -37131,6 +37418,7 @@
           500
         ],
         "reload": [],
+        "id": 52920,
         "spread_angle": null,
         "name": "1 x 2000lb Bomb",
         "stat": "avi",
@@ -37176,6 +37464,7 @@
           500
         ],
         "reload": [],
+        "id": 52320,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -37213,6 +37502,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 19120,
       "speed": 45,
       "hp_growth": [
         1478,
@@ -37335,6 +37625,7 @@
           67,
           67
         ],
+        "id": 50740,
         "spread_angle": null,
         "name": "2 x 12.7mm Cannon",
         "stat": "avi",
@@ -37385,6 +37676,7 @@
           500
         ],
         "reload": [],
+        "id": 52940,
         "spread_angle": null,
         "name": "1 x 2000lb Bomb",
         "stat": "avi",
@@ -37435,6 +37727,7 @@
           500
         ],
         "reload": [],
+        "id": 52340,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -37477,6 +37770,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 19140,
       "speed": 45,
       "hp_growth": [
         1626,
@@ -37618,6 +37912,7 @@
           135,
           135
         ],
+        "id": 50640,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -37670,6 +37965,7 @@
           500
         ],
         "reload": [],
+        "id": 52940,
         "spread_angle": null,
         "name": "1 x 2000lb Bomb",
         "stat": "avi",
@@ -37722,6 +38018,7 @@
           500
         ],
         "reload": [],
+        "id": 52340,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -37766,6 +38063,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 19160,
       "speed": 45,
       "hp_growth": [
         1916,
@@ -37901,6 +38199,7 @@
           119,
           117
         ],
+        "id": 50500,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -37946,6 +38245,7 @@
           500
         ],
         "reload": [],
+        "id": 52800,
         "spread_angle": null,
         "name": "2 x 1600lb Bomb",
         "stat": "avi",
@@ -37983,6 +38283,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 19200,
       "speed": 45,
       "hp_growth": [
         1478,
@@ -38103,6 +38404,7 @@
           104,
           102
         ],
+        "id": 50520,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -38152,6 +38454,7 @@
           500
         ],
         "reload": [],
+        "id": 52820,
         "spread_angle": null,
         "name": "2 x 1600lb Bomb",
         "stat": "avi",
@@ -38193,6 +38496,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 19220,
       "speed": 45,
       "hp_growth": [
         1626,
@@ -38331,6 +38635,7 @@
           97,
           97
         ],
+        "id": 50540,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -38383,6 +38688,7 @@
           500
         ],
         "reload": [],
+        "id": 52840,
         "spread_angle": null,
         "name": "2 x 1600lb Bomb",
         "stat": "avi",
@@ -38427,6 +38733,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 19240,
       "speed": 45,
       "hp_growth": [
         1774,
@@ -38574,6 +38881,7 @@
           128,
           128
         ],
+        "id": 50660,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -38626,6 +38934,7 @@
           500
         ],
         "reload": [],
+        "id": 52680,
         "spread_angle": null,
         "name": "1 x 1000lb Bomb",
         "stat": "avi",
@@ -38678,6 +38987,7 @@
           80
         ],
         "reload": [],
+        "id": 59880,
         "spread_angle": null,
         "name": "8 x HVAR",
         "stat": "avi",
@@ -38722,6 +39032,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 19300,
       "speed": 45,
       "hp_growth": [
         2076,
@@ -38849,6 +39160,7 @@
         0,
         52
       ],
+      "id": 21000,
       "spread_angle": "5° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -38952,6 +39264,7 @@
         0,
         52
       ],
+      "id": 21020,
       "spread_angle": "5° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -39077,6 +39390,7 @@
         0,
         52
       ],
+      "id": 21040,
       "spread_angle": "5° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -39194,6 +39508,7 @@
         0,
         52
       ],
+      "id": 21100,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -39297,6 +39612,7 @@
         0,
         52
       ],
+      "id": 21120,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -39422,6 +39738,7 @@
         0,
         52
       ],
+      "id": 21140,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -39563,6 +39880,7 @@
         0,
         52
       ],
+      "id": 21160,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -39682,6 +40000,7 @@
         0,
         52
       ],
+      "id": 21200,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -39804,6 +40123,7 @@
         0,
         52
       ],
+      "id": 21220,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -39944,6 +40264,7 @@
         0,
         52
       ],
+      "id": 21240,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -40065,6 +40386,7 @@
         0,
         55
       ],
+      "id": 21300,
       "spread_angle": "5° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -40169,6 +40491,7 @@
         0,
         55
       ],
+      "id": 21320,
       "spread_angle": "5° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -40295,6 +40618,7 @@
         0,
         55
       ],
+      "id": 21340,
       "spread_angle": "5° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -40413,6 +40737,7 @@
         0,
         55
       ],
+      "id": 21400,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -40536,6 +40861,7 @@
         0,
         55
       ],
+      "id": 21420,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -40677,6 +41003,7 @@
         0,
         55
       ],
+      "id": 21440,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -40830,6 +41157,7 @@
         0,
         55
       ],
+      "id": 21460,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -40972,6 +41300,7 @@
         0,
         62
       ],
+      "id": 21500,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -41103,6 +41432,7 @@
         0,
         62
       ],
+      "id": 21520,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -41256,6 +41586,7 @@
         0,
         62
       ],
+      "id": 21540,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -41425,6 +41756,7 @@
         0,
         50
       ],
+      "id": 21600,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -41599,6 +41931,7 @@
         0,
         55
       ],
+      "id": 21620,
       "spread_angle": "5° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -41743,6 +42076,7 @@
         0,
         65
       ],
+      "id": 22000,
       "spread_angle": "14° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -41838,6 +42172,7 @@
         0,
         65
       ],
+      "id": 22020,
       "spread_angle": "14° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -41955,6 +42290,7 @@
         0,
         65
       ],
+      "id": 22040,
       "spread_angle": "14° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -42076,6 +42412,7 @@
         0,
         65
       ],
+      "id": 22060,
       "spread_angle": "21° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -42185,6 +42522,7 @@
         0,
         65
       ],
+      "id": 22100,
       "spread_angle": "21° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -42300,6 +42638,7 @@
         0,
         65
       ],
+      "id": 22120,
       "spread_angle": "21° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -42433,6 +42772,7 @@
         0,
         65
       ],
+      "id": 22140,
       "spread_angle": "21° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -42547,6 +42887,7 @@
         0,
         65
       ],
+      "id": 22200,
       "spread_angle": "45° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -42663,6 +43004,7 @@
         0,
         65
       ],
+      "id": 22220,
       "spread_angle": "45° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -42792,6 +43134,7 @@
         0,
         65
       ],
+      "id": 22240,
       "spread_angle": "45° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -42937,6 +43280,7 @@
         0,
         68
       ],
+      "id": 22260,
       "spread_angle": "18° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -43083,6 +43427,7 @@
         0,
         68
       ],
+      "id": 22280,
       "spread_angle": "18° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -43202,6 +43547,7 @@
         0,
         70
       ],
+      "id": 23000,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -43317,6 +43663,7 @@
         0,
         70
       ],
+      "id": 23020,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -43450,6 +43797,7 @@
         0,
         70
       ],
+      "id": 23040,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -43594,6 +43942,7 @@
         0,
         70
       ],
+      "id": 23100,
       "spread_angle": "18° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -43743,6 +44092,7 @@
         0,
         70
       ],
+      "id": 23120,
       "spread_angle": "22° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -43892,6 +44242,7 @@
         0,
         70
       ],
+      "id": 23200,
       "spread_angle": "22° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -44039,6 +44390,7 @@
         0,
         70
       ],
+      "id": 23220,
       "spread_angle": "22° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -44162,6 +44514,7 @@
         50,
         200
       ],
+      "id": 24000,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -44291,6 +44644,7 @@
         50,
         200
       ],
+      "id": 24020,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -44434,6 +44788,7 @@
         50,
         200
       ],
+      "id": 24040,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -44576,6 +44931,7 @@
         50,
         200
       ],
+      "id": 24060,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -44690,6 +45046,7 @@
         50,
         200
       ],
+      "id": 24100,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -44804,6 +45161,7 @@
         50,
         200
       ],
+      "id": 24120,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -44937,6 +45295,7 @@
         50,
         200
       ],
+      "id": 24140,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -45081,6 +45440,7 @@
         50,
         200
       ],
+      "id": 24160,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -45208,6 +45568,7 @@
         50,
         200
       ],
+      "id": 24200,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -45339,6 +45700,7 @@
         50,
         200
       ],
+      "id": 24220,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -45483,6 +45845,7 @@
         50,
         200
       ],
+      "id": 24240,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -45609,6 +45972,7 @@
         50,
         200
       ],
+      "id": 24300,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -45735,6 +46099,7 @@
         50,
         200
       ],
+      "id": 24320,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -45875,6 +46240,7 @@
         50,
         200
       ],
+      "id": 24340,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -46006,6 +46372,7 @@
         0,
         35
       ],
+      "id": 25000,
       "spread_angle": "6° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -46147,6 +46514,7 @@
         0,
         35
       ],
+      "id": 25020,
       "spread_angle": "8° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -46298,6 +46666,7 @@
         0,
         35
       ],
+      "id": 25040,
       "spread_angle": "10° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -46427,6 +46796,7 @@
         0,
         50
       ],
+      "id": 25100,
       "spread_angle": "0° No Spread",
       "stat": "trp",
       "ratio": 1,
@@ -46539,6 +46909,7 @@
         0,
         50
       ],
+      "id": 25120,
       "spread_angle": "0° No Spread",
       "stat": "trp",
       "ratio": 1,
@@ -46669,6 +47040,7 @@
         0,
         50
       ],
+      "id": 25140,
       "spread_angle": "0° No Spread",
       "stat": "trp",
       "ratio": 1,
@@ -46813,6 +47185,7 @@
         0,
         60
       ],
+      "id": 25200,
       "spread_angle": "0° No Spread",
       "stat": "trp",
       "ratio": 1,
@@ -46959,6 +47332,7 @@
         0,
         50
       ],
+      "id": 25300,
       "spread_angle": "0° No Spread",
       "stat": "trp",
       "ratio": 1,
@@ -47121,6 +47495,7 @@
         8,
         50
       ],
+      "id": 25800,
       "spread_angle": "0° No Spread",
       "stat": "asw",
       "ratio": 1,
@@ -47239,6 +47614,7 @@
         0,
         25
       ],
+      "id": 26000,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -47357,6 +47733,7 @@
         0,
         25
       ],
+      "id": 26020,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -47497,6 +47874,7 @@
         0,
         25
       ],
+      "id": 26040,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -47653,6 +48031,7 @@
         0,
         28
       ],
+      "id": 26060,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -47789,6 +48168,7 @@
         0,
         25
       ],
+      "id": 26100,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -47926,6 +48306,7 @@
         0,
         25
       ],
+      "id": 26120,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -48081,6 +48462,7 @@
         0,
         25
       ],
+      "id": 26140,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -48226,6 +48608,7 @@
         0,
         25
       ],
+      "id": 26200,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -48381,6 +48764,7 @@
         0,
         25
       ],
+      "id": 26220,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -48549,6 +48933,7 @@
         0,
         25
       ],
+      "id": 26240,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -48690,6 +49075,7 @@
         0,
         30
       ],
+      "id": 26300,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -48829,6 +49215,7 @@
         0,
         30
       ],
+      "id": 26320,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -48986,6 +49373,7 @@
         0,
         30
       ],
+      "id": 26340,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -49148,6 +49536,7 @@
         0,
         17
       ],
+      "id": 26360,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -49308,6 +49697,7 @@
         0,
         17
       ],
+      "id": 26380,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -49444,6 +49834,7 @@
         0,
         32
       ],
+      "id": 26400,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -49581,6 +49972,7 @@
         0,
         32
       ],
+      "id": 26420,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -49736,6 +50128,7 @@
         0,
         32
       ],
+      "id": 26440,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -49896,6 +50289,7 @@
         0,
         32
       ],
+      "id": 26460,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -50041,6 +50435,7 @@
         0,
         35
       ],
+      "id": 26500,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -50197,6 +50592,7 @@
         0,
         35
       ],
+      "id": 26520,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -50366,6 +50762,7 @@
         0,
         35
       ],
+      "id": 26540,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -50538,6 +50935,7 @@
         0,
         30
       ],
+      "id": 26600,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -50725,6 +51123,7 @@
         0,
         30
       ],
+      "id": 26620,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -50913,6 +51312,7 @@
         0,
         35
       ],
+      "id": 26640,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -51103,6 +51503,7 @@
         0,
         28
       ],
+      "id": 26660,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -51292,6 +51693,7 @@
         105,
         135
       ],
+      "id": 26680,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -51428,6 +51830,7 @@
           75,
           74
         ],
+        "id": 50100,
         "spread_angle": null,
         "name": "4 x 7.7mm Cannon",
         "stat": "avi",
@@ -51475,6 +51878,7 @@
           128,
           125
         ],
+        "id": 50500,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -51517,6 +51921,7 @@
           500
         ],
         "reload": [],
+        "id": 52200,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -51558,6 +51963,8 @@
         1865
       ],
       "intercept_count": 1,
+      "id": 27000,
+      "intercept_id": 82000,
       "speed": 50,
       "hp_growth": [
         1210,
@@ -51658,6 +52065,7 @@
           67,
           66
         ],
+        "id": 50120,
         "spread_angle": null,
         "name": "4 x 7.7mm Cannon",
         "stat": "avi",
@@ -51711,6 +52119,7 @@
           114,
           112
         ],
+        "id": 50520,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -51756,6 +52165,7 @@
           500
         ],
         "reload": [],
+        "id": 52220,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -51803,6 +52213,8 @@
         1762
       ],
       "intercept_count": 1,
+      "id": 27020,
+      "intercept_id": 82020,
       "speed": 50,
       "hp_growth": [
         1344,
@@ -51922,6 +52334,7 @@
           57,
           57
         ],
+        "id": 50140,
         "spread_angle": null,
         "name": "4 x 7.7mm Cannon",
         "stat": "avi",
@@ -51985,6 +52398,7 @@
           97,
           97
         ],
+        "id": 50540,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -52035,6 +52449,7 @@
           500
         ],
         "reload": [],
+        "id": 52240,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -52092,6 +52507,8 @@
         1628
       ],
       "intercept_count": 1,
+      "id": 27040,
+      "intercept_id": 82040,
       "speed": 50,
       "hp_growth": [
         1478,
@@ -52230,6 +52647,7 @@
           57,
           57
         ],
+        "id": 50160,
         "spread_angle": null,
         "name": "4 x 7.7mm Cannon",
         "stat": "avi",
@@ -52297,6 +52715,7 @@
           97,
           97
         ],
+        "id": 50560,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -52349,6 +52768,7 @@
           500
         ],
         "reload": [],
+        "id": 52240,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -52410,6 +52830,8 @@
         1525
       ],
       "intercept_count": 1,
+      "id": 27060,
+      "intercept_id": 82060,
       "speed": 51,
       "hp_growth": [
         1637,
@@ -52540,6 +52962,7 @@
           168,
           165
         ],
+        "id": 50600,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -52585,6 +53008,7 @@
           500
         ],
         "reload": [],
+        "id": 52300,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -52632,6 +53056,8 @@
         1711
       ],
       "intercept_count": 1,
+      "id": 27100,
+      "intercept_id": 82100,
       "speed": 53,
       "hp_growth": [
         1344,
@@ -52749,6 +53175,7 @@
           146,
           142
         ],
+        "id": 50620,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -52798,6 +53225,7 @@
           500
         ],
         "reload": [],
+        "id": 52320,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -52853,6 +53281,8 @@
         1562
       ],
       "intercept_count": 1,
+      "id": 27120,
+      "intercept_id": 82120,
       "speed": 53,
       "hp_growth": [
         1478,
@@ -52988,6 +53418,7 @@
           135,
           135
         ],
+        "id": 50640,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -53040,6 +53471,7 @@
           500
         ],
         "reload": [],
+        "id": 52340,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -53101,6 +53533,8 @@
         1525
       ],
       "intercept_count": 1,
+      "id": 27140,
+      "intercept_id": 82140,
       "speed": 53,
       "hp_growth": [
         1613,
@@ -53225,6 +53659,7 @@
           75,
           74
         ],
+        "id": 50100,
         "spread_angle": null,
         "name": "4 x 7.7mm Cannon",
         "stat": "avi",
@@ -53266,6 +53701,8 @@
         1743
       ],
       "intercept_count": 1,
+      "id": 27200,
+      "intercept_id": 82200,
       "speed": 47,
       "hp_growth": [
         1075,
@@ -53350,6 +53787,7 @@
           72,
           70
         ],
+        "id": 50120,
         "spread_angle": null,
         "name": "4 x 7.7mm Cannon",
         "stat": "avi",
@@ -53391,6 +53829,8 @@
         1711
       ],
       "intercept_count": 1,
+      "id": 27220,
+      "intercept_id": 82220,
       "speed": 47,
       "hp_growth": [
         1210,
@@ -53493,6 +53933,7 @@
           62,
           61
         ],
+        "id": 50140,
         "spread_angle": null,
         "name": "4 x 7.7mm Cannon",
         "stat": "avi",
@@ -53542,6 +53983,8 @@
         1600
       ],
       "intercept_count": 1,
+      "id": 27240,
+      "intercept_id": 82240,
       "speed": 47,
       "hp_growth": [
         1344,
@@ -53656,6 +54099,7 @@
           62,
           61
         ],
+        "id": 50160,
         "spread_angle": null,
         "name": "4 x 7.7mm Cannon",
         "stat": "avi",
@@ -53705,6 +54149,8 @@
         1600
       ],
       "intercept_count": 1,
+      "id": 27260,
+      "intercept_id": 82260,
       "speed": 47,
       "hp_growth": [
         1344,
@@ -53831,6 +54277,7 @@
           128,
           128
         ],
+        "id": 50660,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -53883,6 +54330,7 @@
           500
         ],
         "reload": [],
+        "id": 52340,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -53944,6 +54392,8 @@
         1596
       ],
       "intercept_count": 1,
+      "id": 27300,
+      "intercept_id": 82300,
       "speed": 52,
       "hp_growth": [
         1645,
@@ -54089,6 +54539,7 @@
           128,
           128
         ],
+        "id": 50660,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -54141,6 +54592,7 @@
           500
         ],
         "reload": [],
+        "id": 52760,
         "spread_angle": null,
         "name": "2 x 1000lb Bomb",
         "stat": "avi",
@@ -54202,6 +54654,8 @@
         1596
       ],
       "intercept_count": 1,
+      "id": 27320,
+      "intercept_id": 82320,
       "speed": 60,
       "hp_growth": [
         1903,
@@ -54328,6 +54782,7 @@
           75,
           74
         ],
+        "id": 50000,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -54370,6 +54825,7 @@
           75
         ],
         "reload": [],
+        "id": 51000,
         "spread_angle": null,
         "name": "2 x Torpedo-Common",
         "stat": "avi",
@@ -54404,6 +54860,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 28000,
       "speed": 45,
       "hp_growth": [
         1094,
@@ -54505,6 +54962,7 @@
           67,
           66
         ],
+        "id": 50020,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -54550,6 +55008,7 @@
           75
         ],
         "reload": [],
+        "id": 51020,
         "spread_angle": null,
         "name": "2 x Torpedo-Common",
         "stat": "avi",
@@ -54587,6 +55046,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 28020,
       "speed": 45,
       "hp_growth": [
         1216,
@@ -54707,6 +55167,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -54757,6 +55218,7 @@
           75
         ],
         "reload": [],
+        "id": 51040,
         "spread_angle": null,
         "name": "2 x Torpedo-Common",
         "stat": "avi",
@@ -54799,6 +55261,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 28040,
       "speed": 45,
       "hp_growth": [
         1338,
@@ -54940,6 +55403,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -54992,6 +55456,7 @@
           75
         ],
         "reload": [],
+        "id": 51060,
         "spread_angle": null,
         "name": "3 x Torpedo-818 Squadron",
         "stat": "avi",
@@ -55036,6 +55501,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 28060,
       "speed": 48,
       "hp_growth": [
         1459,
@@ -55170,6 +55636,7 @@
           71,
           70
         ],
+        "id": 50000,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -55215,6 +55682,7 @@
           75
         ],
         "reload": [],
+        "id": 51100,
         "spread_angle": null,
         "name": "3 x Torpedo-Common",
         "stat": "avi",
@@ -55252,6 +55720,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 28100,
       "speed": 52,
       "hp_growth": [
         1216,
@@ -55370,6 +55839,7 @@
           61,
           60
         ],
+        "id": 50020,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -55419,6 +55889,7 @@
           75
         ],
         "reload": [],
+        "id": 51120,
         "spread_angle": null,
         "name": "3 x Torpedo-Common",
         "stat": "avi",
@@ -55460,6 +55931,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 28120,
       "speed": 52,
       "hp_growth": [
         1338,
@@ -55596,6 +56068,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -55648,6 +56121,7 @@
           75
         ],
         "reload": [],
+        "id": 51140,
         "spread_angle": null,
         "name": "3 x Torpedo-Common",
         "stat": "avi",
@@ -55692,6 +56166,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 28140,
       "speed": 52,
       "hp_growth": [
         1459,
@@ -55840,6 +56315,7 @@
           128,
           128
         ],
+        "id": 50660,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -55892,6 +56368,7 @@
           75
         ],
         "reload": [],
+        "id": 51140,
         "spread_angle": null,
         "name": "3 x Torpedo-Common",
         "stat": "avi",
@@ -55936,6 +56413,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 28200,
       "speed": 50,
       "hp_growth": [
         1459,
@@ -56081,6 +56559,7 @@
           128,
           128
         ],
+        "id": 50660,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -56133,6 +56612,7 @@
           75
         ],
         "reload": [],
+        "id": 51140,
         "spread_angle": null,
         "name": "3 x Torpedo-Common",
         "stat": "avi",
@@ -56177,6 +56657,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 28220,
       "speed": 51,
       "hp_growth": [
         1503,
@@ -56302,6 +56783,7 @@
           75,
           74
         ],
+        "id": 50000,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -56344,6 +56826,7 @@
           75
         ],
         "reload": [],
+        "id": 51000,
         "spread_angle": null,
         "name": "2 x Torpedo-Common",
         "stat": "avi",
@@ -56378,6 +56861,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 28300,
       "speed": 45,
       "hp_growth": [
         1094,
@@ -56482,6 +56966,7 @@
           67,
           66
         ],
+        "id": 50020,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -56527,6 +57012,7 @@
           75
         ],
         "reload": [],
+        "id": 51020,
         "spread_angle": null,
         "name": "2 x Torpedo-Common",
         "stat": "avi",
@@ -56564,6 +57050,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 28320,
       "speed": 45,
       "hp_growth": [
         1216,
@@ -56687,6 +57174,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -56737,6 +57225,7 @@
           75
         ],
         "reload": [],
+        "id": 51040,
         "spread_angle": null,
         "name": "2 x Torpedo-Common",
         "stat": "avi",
@@ -56779,6 +57268,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 28340,
       "speed": 45,
       "hp_growth": [
         1338,
@@ -56921,6 +57411,7 @@
           128,
           128
         ],
+        "id": 50660,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -56973,6 +57464,7 @@
           75
         ],
         "reload": [],
+        "id": 51580,
         "spread_angle": null,
         "name": "4 x Torpedo-Common",
         "stat": "avi",
@@ -57034,6 +57526,8 @@
         1750
       ],
       "intercept_count": 1,
+      "id": 28400,
+      "intercept_id": 82980,
       "speed": 52,
       "hp_growth": [
         1581,
@@ -57179,6 +57673,7 @@
           90,
           90
         ],
+        "id": 50360,
         "spread_angle": null,
         "name": "4 x 12.7mm Cannon",
         "stat": "avi",
@@ -57231,6 +57726,7 @@
           75
         ],
         "reload": [],
+        "id": 51240,
         "spread_angle": null,
         "name": "4 x Torpedo-Common",
         "stat": "avi",
@@ -57283,6 +57779,7 @@
           80
         ],
         "reload": [],
+        "id": 59940,
         "spread_angle": null,
         "name": "4 x RP-3",
         "stat": "avi",
@@ -57327,6 +57824,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 28420,
       "speed": 52,
       "hp_growth": [
         1581,
@@ -57452,6 +57950,7 @@
           75,
           74
         ],
+        "id": 50100,
         "spread_angle": null,
         "name": "4 x 7.7mm Cannon",
         "stat": "avi",
@@ -57494,6 +57993,7 @@
           500
         ],
         "reload": [],
+        "id": 52200,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -57528,6 +58028,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 29000,
       "speed": 45,
       "hp_growth": [
         1126,
@@ -57610,6 +58111,7 @@
           72,
           70
         ],
+        "id": 50120,
         "spread_angle": null,
         "name": "4 x 7.7mm Cannon",
         "stat": "avi",
@@ -57652,6 +58154,7 @@
           500
         ],
         "reload": [],
+        "id": 52220,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -57686,6 +58189,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 29020,
       "speed": 45,
       "hp_growth": [
         1267,
@@ -57786,6 +58290,7 @@
           62,
           61
         ],
+        "id": 50140,
         "spread_angle": null,
         "name": "4 x 7.7mm Cannon",
         "stat": "avi",
@@ -57832,6 +58337,7 @@
           500
         ],
         "reload": [],
+        "id": 52240,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -57870,6 +58376,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 29040,
       "speed": 45,
       "hp_growth": [
         1408,
@@ -57974,6 +58481,7 @@
           75,
           74
         ],
+        "id": 50200,
         "spread_angle": null,
         "name": "8 x 7.7mm Cannon",
         "stat": "avi",
@@ -58016,6 +58524,7 @@
           500
         ],
         "reload": [],
+        "id": 52100,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -58050,6 +58559,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 29100,
       "speed": 48,
       "hp_growth": [
         1267,
@@ -58151,6 +58661,7 @@
           67,
           66
         ],
+        "id": 50220,
         "spread_angle": null,
         "name": "8 x 7.7mm Cannon",
         "stat": "avi",
@@ -58196,6 +58707,7 @@
           500
         ],
         "reload": [],
+        "id": 52120,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -58233,6 +58745,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 29120,
       "speed": 48,
       "hp_growth": [
         1408,
@@ -58353,6 +58866,7 @@
           57,
           57
         ],
+        "id": 50240,
         "spread_angle": null,
         "name": "8 x 7.7mm Cannon",
         "stat": "avi",
@@ -58403,6 +58917,7 @@
           500
         ],
         "reload": [],
+        "id": 52140,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -58445,6 +58960,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 29140,
       "speed": 48,
       "hp_growth": [
         1549,
@@ -58584,6 +59100,7 @@
           128,
           128
         ],
+        "id": 50660,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -58636,6 +59153,7 @@
           500
         ],
         "reload": [],
+        "id": 52740,
         "spread_angle": null,
         "name": "2 x 1000lb Bomb",
         "stat": "avi",
@@ -58680,6 +59198,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 29200,
       "speed": 47,
       "hp_growth": [
         1690,
@@ -58825,6 +59344,7 @@
           128,
           128
         ],
+        "id": 50660,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -58877,6 +59397,7 @@
           500
         ],
         "reload": [],
+        "id": 52780,
         "spread_angle": null,
         "name": "2 x 1000lb Bomb",
         "stat": "avi",
@@ -58921,6 +59442,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 29220,
       "speed": 47,
       "hp_growth": [
         1723,
@@ -59065,6 +59587,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -59117,6 +59640,7 @@
           500
         ],
         "reload": [],
+        "id": 53280,
         "spread_angle": null,
         "name": "1 x 1600lb AP Bomb",
         "stat": "avi",
@@ -59161,6 +59685,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 29300,
       "speed": 52,
       "hp_growth": [
         1459,
@@ -59301,6 +59826,7 @@
         50,
         200
       ],
+      "id": 30000,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -59420,6 +59946,7 @@
         0,
         50
       ],
+      "id": 31000,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -59572,6 +60099,7 @@
         0,
         50
       ],
+      "id": 31020,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -59741,6 +60269,7 @@
         0,
         50
       ],
+      "id": 31040,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -59910,6 +60439,7 @@
         0,
         50
       ],
+      "id": 31060,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -60061,6 +60591,7 @@
         0,
         50
       ],
+      "id": 31080,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -60206,6 +60737,7 @@
         0,
         55
       ],
+      "id": 31100,
       "spread_angle": "5° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -60309,6 +60841,7 @@
         0,
         55
       ],
+      "id": 31120,
       "spread_angle": "5° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -60434,6 +60967,7 @@
         0,
         55
       ],
+      "id": 31140,
       "spread_angle": "5° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -60563,6 +61097,7 @@
         0,
         55
       ],
+      "id": 31160,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -60704,6 +61239,7 @@
         0,
         55
       ],
+      "id": 31180,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -60842,6 +61378,7 @@
         0,
         60
       ],
+      "id": 31200,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -60964,6 +61501,7 @@
         0,
         60
       ],
+      "id": 31220,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -61104,6 +61642,7 @@
         0,
         60
       ],
+      "id": 31240,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -61238,6 +61777,7 @@
         0,
         60
       ],
+      "id": 31260,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -61392,6 +61932,7 @@
         0,
         60
       ],
+      "id": 31280,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -61514,6 +62055,7 @@
         0,
         63
       ],
+      "id": 32000,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -61608,6 +62150,7 @@
         0,
         63
       ],
+      "id": 32020,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -61724,6 +62267,7 @@
         0,
         63
       ],
+      "id": 32040,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -61844,6 +62388,7 @@
         0,
         64
       ],
+      "id": 32060,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -61953,6 +62498,7 @@
         0,
         63
       ],
+      "id": 32100,
       "spread_angle": "21° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -62066,6 +62612,7 @@
         0,
         63
       ],
+      "id": 32120,
       "spread_angle": "21° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -62197,6 +62744,7 @@
         0,
         63
       ],
+      "id": 32140,
       "spread_angle": "21° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -62319,6 +62867,7 @@
         0,
         65
       ],
+      "id": 32200,
       "spread_angle": "18° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -62450,6 +62999,7 @@
         0,
         65
       ],
+      "id": 32220,
       "spread_angle": "18° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -62595,6 +63145,7 @@
         0,
         65
       ],
+      "id": 32240,
       "spread_angle": "18° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -62743,6 +63294,7 @@
         0,
         65
       ],
+      "id": 32260,
       "spread_angle": "18° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -62860,6 +63412,7 @@
         0,
         64
       ],
+      "id": 32300,
       "spread_angle": "21° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -62973,6 +63526,7 @@
         0,
         64
       ],
+      "id": 32320,
       "spread_angle": "21° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -63105,6 +63659,7 @@
         0,
         64
       ],
+      "id": 32340,
       "spread_angle": "21° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -63250,6 +63805,7 @@
         0,
         65
       ],
+      "id": 32360,
       "spread_angle": "18° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -63387,6 +63943,7 @@
         0,
         70
       ],
+      "id": 33000,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -63503,6 +64060,7 @@
         0,
         70
       ],
+      "id": 33020,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -63637,6 +64195,7 @@
         0,
         70
       ],
+      "id": 33040,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -63782,6 +64341,7 @@
         0,
         70
       ],
+      "id": 33060,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -63924,6 +64484,7 @@
         0,
         70
       ],
+      "id": 33080,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -64067,6 +64628,7 @@
         0,
         70
       ],
+      "id": 33100,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -64214,6 +64776,7 @@
         0,
         70
       ],
+      "id": 33120,
       "spread_angle": "18° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -64328,6 +64891,7 @@
         50,
         200
       ],
+      "id": 34000,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -64423,6 +64987,7 @@
         50,
         200
       ],
+      "id": 34020,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -64541,6 +65106,7 @@
         50,
         200
       ],
+      "id": 34040,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -64663,6 +65229,7 @@
         50,
         200
       ],
+      "id": 34060,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -64773,6 +65340,7 @@
         50,
         200
       ],
+      "id": 34100,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -64888,6 +65456,7 @@
         50,
         200
       ],
+      "id": 34120,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -65022,6 +65591,7 @@
         50,
         200
       ],
+      "id": 34140,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -65168,6 +65738,7 @@
         50,
         200
       ],
+      "id": 34160,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -65335,6 +65906,7 @@
         50,
         200
       ],
+      "id": 34180,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -65475,6 +66047,7 @@
         50,
         200
       ],
+      "id": 34200,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -65604,6 +66177,7 @@
         50,
         200
       ],
+      "id": 34220,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -65742,6 +66316,7 @@
         50,
         200
       ],
+      "id": 34240,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -65886,6 +66461,7 @@
         50,
         200
       ],
+      "id": 34300,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -66032,6 +66608,7 @@
         50,
         200
       ],
+      "id": 34320,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -66149,6 +66726,7 @@
         0,
         45
       ],
+      "id": 35000,
       "spread_angle": "30° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -66251,6 +66829,7 @@
         0,
         45
       ],
+      "id": 35020,
       "spread_angle": "30° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -66375,6 +66954,7 @@
         0,
         45
       ],
+      "id": 35040,
       "spread_angle": "30° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -66491,6 +67071,7 @@
         0,
         45
       ],
+      "id": 35100,
       "spread_angle": "40° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -66612,6 +67193,7 @@
         0,
         45
       ],
+      "id": 35120,
       "spread_angle": "40° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -66751,6 +67333,7 @@
         0,
         45
       ],
+      "id": 35140,
       "spread_angle": "40° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -66895,6 +67478,7 @@
         0,
         45
       ],
+      "id": 35160,
       "spread_angle": "40° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -67024,6 +67608,7 @@
         0,
         45
       ],
+      "id": 35200,
       "spread_angle": "48° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -67160,6 +67745,7 @@
         0,
         45
       ],
+      "id": 35220,
       "spread_angle": "48° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -67309,6 +67895,7 @@
         0,
         45
       ],
+      "id": 35240,
       "spread_angle": "48° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -67465,6 +68052,7 @@
         0,
         45
       ],
+      "id": 35260,
       "spread_angle": "48° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -67611,6 +68199,7 @@
         0,
         45
       ],
+      "id": 35300,
       "spread_angle": "60° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -67750,6 +68339,7 @@
         0,
         45
       ],
+      "id": 35320,
       "spread_angle": "60° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -67898,6 +68488,7 @@
         0,
         45
       ],
+      "id": 35340,
       "spread_angle": "60° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -68024,6 +68615,7 @@
         0,
         50
       ],
+      "id": 35400,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -68139,6 +68731,7 @@
         0,
         50
       ],
+      "id": 35420,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -68272,6 +68865,7 @@
         0,
         50
       ],
+      "id": 35440,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -68410,6 +69004,7 @@
         0,
         50
       ],
+      "id": 35460,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -68533,6 +69128,7 @@
         0,
         60
       ],
+      "id": 35500,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -68664,6 +69260,7 @@
         0,
         60
       ],
+      "id": 35520,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -68808,6 +69405,7 @@
         0,
         60
       ],
+      "id": 35540,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -68955,6 +69553,7 @@
         0,
         60
       ],
+      "id": 35560,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -69101,6 +69700,7 @@
         0,
         75
       ],
+      "id": 35580,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -69220,6 +69820,7 @@
         0,
         20
       ],
+      "id": 36100,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -69338,6 +69939,7 @@
         0,
         20
       ],
+      "id": 36120,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -69478,6 +70080,7 @@
         0,
         20
       ],
+      "id": 36140,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -69610,6 +70213,7 @@
         0,
         20
       ],
+      "id": 36200,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -69747,6 +70351,7 @@
         0,
         20
       ],
+      "id": 36220,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -69902,6 +70507,7 @@
         0,
         20
       ],
+      "id": 36240,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -70038,6 +70644,7 @@
         0,
         20
       ],
+      "id": 36300,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -70175,6 +70782,7 @@
         0,
         20
       ],
+      "id": 36320,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -70330,6 +70938,7 @@
         0,
         20
       ],
+      "id": 36340,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -70496,6 +71105,7 @@
         0,
         28
       ],
+      "id": 36360,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -70636,6 +71246,7 @@
         0,
         24
       ],
+      "id": 36400,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -70773,6 +71384,7 @@
         0,
         24
       ],
+      "id": 36420,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -70928,6 +71540,7 @@
         0,
         24
       ],
+      "id": 36440,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -71064,6 +71677,7 @@
         0,
         30
       ],
+      "id": 36500,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -71203,6 +71817,7 @@
         0,
         30
       ],
+      "id": 36520,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -71355,6 +71970,7 @@
         0,
         30
       ],
+      "id": 36540,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -71523,6 +72139,7 @@
         0,
         32
       ],
+      "id": 36560,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -71687,6 +72304,7 @@
         0,
         30
       ],
+      "id": 36580,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -71823,6 +72441,7 @@
         0,
         35
       ],
+      "id": 36600,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -71960,6 +72579,7 @@
         0,
         35
       ],
+      "id": 36620,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -72115,6 +72735,7 @@
         0,
         35
       ],
+      "id": 36640,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -72281,6 +72902,7 @@
         0,
         35
       ],
+      "id": 36660,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -72449,6 +73071,7 @@
         0,
         29
       ],
+      "id": 36700,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -72636,6 +73259,7 @@
         84,
         118
       ],
+      "id": 36720,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -72787,6 +73411,7 @@
         0,
         29
       ],
+      "id": 36740,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -72924,6 +73549,7 @@
           75,
           74
         ],
+        "id": 50000,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -72965,6 +73591,8 @@
         1787
       ],
       "intercept_count": 1,
+      "id": 37000,
+      "intercept_id": 83000,
       "speed": 48,
       "hp_growth": [
         1021,
@@ -73049,6 +73677,7 @@
           72,
           70
         ],
+        "id": 50020,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -73090,6 +73719,8 @@
         1760
       ],
       "intercept_count": 1,
+      "id": 37020,
+      "intercept_id": 83020,
       "speed": 48,
       "hp_growth": [
         1149,
@@ -73192,6 +73823,7 @@
           62,
           61
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -73241,6 +73873,8 @@
         1665
       ],
       "intercept_count": 1,
+      "id": 37040,
+      "intercept_id": 83040,
       "speed": 48,
       "hp_growth": [
         1277,
@@ -73347,6 +73981,7 @@
           75,
           74
         ],
+        "id": 50000,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -73394,6 +74029,7 @@
           128,
           125
         ],
+        "id": 50500,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -73436,6 +74072,7 @@
           500
         ],
         "reload": [],
+        "id": 52100,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -73477,6 +74114,8 @@
         1697
       ],
       "intercept_count": 1,
+      "id": 37100,
+      "intercept_id": 83100,
       "speed": 52,
       "hp_growth": [
         1149,
@@ -73577,6 +74216,7 @@
           67,
           66
         ],
+        "id": 50020,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -73630,6 +74270,7 @@
           114,
           112
         ],
+        "id": 50520,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -73675,6 +74316,7 @@
           500
         ],
         "reload": [],
+        "id": 52120,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -73722,6 +74364,8 @@
         1593
       ],
       "intercept_count": 1,
+      "id": 37120,
+      "intercept_id": 83120,
       "speed": 52,
       "hp_growth": [
         1277,
@@ -73841,6 +74485,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -73904,6 +74549,7 @@
           97,
           97
         ],
+        "id": 50540,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -73954,6 +74600,7 @@
           500
         ],
         "reload": [],
+        "id": 52140,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -74011,6 +74658,8 @@
         1485
       ],
       "intercept_count": 1,
+      "id": 37140,
+      "intercept_id": 83140,
       "speed": 52,
       "hp_growth": [
         1404,
@@ -74145,6 +74794,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -74208,6 +74858,7 @@
           97,
           97
         ],
+        "id": 50560,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -74258,6 +74909,7 @@
           500
         ],
         "reload": [],
+        "id": 52140,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -74315,6 +74967,8 @@
         1504
       ],
       "intercept_count": 1,
+      "id": 37160,
+      "intercept_id": 83160,
       "speed": 53,
       "hp_growth": [
         1404,
@@ -74439,6 +75093,7 @@
           71,
           70
         ],
+        "id": 50000,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -74492,6 +75147,7 @@
           119,
           117
         ],
+        "id": 50500,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -74537,6 +75193,7 @@
           500
         ],
         "reload": [],
+        "id": 52100,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -74584,6 +75241,8 @@
         1539
       ],
       "intercept_count": 1,
+      "id": 37200,
+      "intercept_id": 83200,
       "speed": 55,
       "hp_growth": [
         1277,
@@ -74702,6 +75361,7 @@
           61,
           60
         ],
+        "id": 50020,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -74763,6 +75423,7 @@
           104,
           102
         ],
+        "id": 50520,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -74812,6 +75473,7 @@
           500
         ],
         "reload": [],
+        "id": 52120,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -74867,6 +75529,8 @@
         1413
       ],
       "intercept_count": 1,
+      "id": 37220,
+      "intercept_id": 83220,
       "speed": 55,
       "hp_growth": [
         1404,
@@ -75003,6 +75667,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -75070,6 +75735,7 @@
           97,
           97
         ],
+        "id": 50540,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -75122,6 +75788,7 @@
           500
         ],
         "reload": [],
+        "id": 52140,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -75183,6 +75850,8 @@
         1377
       ],
       "intercept_count": 1,
+      "id": 37240,
+      "intercept_id": 83240,
       "speed": 55,
       "hp_growth": [
         1532,
@@ -75314,6 +75983,7 @@
           168,
           165
         ],
+        "id": 59500,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -75359,6 +76029,7 @@
           500
         ],
         "reload": [],
+        "id": 52300,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -75406,6 +76077,8 @@
         1775
       ],
       "intercept_count": 1,
+      "id": 37300,
+      "intercept_id": 83300,
       "speed": 60,
       "hp_growth": [
         1277,
@@ -75525,6 +76198,7 @@
           146,
           142
         ],
+        "id": 59520,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -75574,6 +76248,7 @@
           500
         ],
         "reload": [],
+        "id": 52320,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -75629,6 +76304,8 @@
         1618
       ],
       "intercept_count": 1,
+      "id": 37320,
+      "intercept_id": 83320,
       "speed": 60,
       "hp_growth": [
         1404,
@@ -75766,6 +76443,7 @@
           135,
           135
         ],
+        "id": 59540,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -75818,6 +76496,7 @@
           500
         ],
         "reload": [],
+        "id": 52340,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -75879,6 +76558,8 @@
         1570
       ],
       "intercept_count": 1,
+      "id": 37340,
+      "intercept_id": 83340,
       "speed": 60,
       "hp_growth": [
         1532,
@@ -76025,6 +76706,7 @@
           135,
           135
         ],
+        "id": 59540,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -76077,6 +76759,7 @@
           500
         ],
         "reload": [],
+        "id": 52340,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -76144,6 +76827,7 @@
           70,
           70
         ],
+        "id": 50860,
         "spread_angle": null,
         "name": "2 x 13mm Cannon",
         "stat": "avi",
@@ -76205,6 +76889,8 @@
         1600
       ],
       "intercept_count": 1,
+      "id": 37400,
+      "intercept_id": 83400,
       "speed": 60,
       "hp_growth": [
         1379,
@@ -76345,6 +77031,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -76408,6 +77095,7 @@
           97,
           97
         ],
+        "id": 50540,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -76458,6 +77146,7 @@
           500
         ],
         "reload": [],
+        "id": 52140,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -76515,6 +77204,8 @@
         2140
       ],
       "intercept_count": 1,
+      "id": 37420,
+      "intercept_id": 83420,
       "speed": 50,
       "hp_growth": [
         1404,
@@ -76649,6 +77340,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -76712,6 +77404,7 @@
           97,
           97
         ],
+        "id": 50560,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -76762,6 +77455,7 @@
           500
         ],
         "reload": [],
+        "id": 52140,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -76819,6 +77513,8 @@
         1812
       ],
       "intercept_count": 1,
+      "id": 37440,
+      "intercept_id": 83440,
       "speed": 50,
       "hp_growth": [
         1433,
@@ -76958,6 +77654,7 @@
           135,
           135
         ],
+        "id": 59540,
         "spread_angle": null,
         "name": "4 x 20mm Cannon",
         "stat": "avi",
@@ -77010,6 +77707,7 @@
           500
         ],
         "reload": [],
+        "id": 52340,
         "spread_angle": null,
         "name": "2 x 500lb Bomb",
         "stat": "avi",
@@ -77077,6 +77775,7 @@
           70,
           70
         ],
+        "id": 50860,
         "spread_angle": null,
         "name": "2 x 13mm Cannon",
         "stat": "avi",
@@ -77138,6 +77837,8 @@
         1400
       ],
       "intercept_count": 1,
+      "id": 37460,
+      "intercept_id": 83460,
       "speed": 60,
       "hp_growth": [
         1532,
@@ -77263,6 +77964,7 @@
           75,
           74
         ],
+        "id": 50000,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -77305,6 +78007,7 @@
           80
         ],
         "reload": [],
+        "id": 51300,
         "spread_angle": null,
         "name": "2 x Torpedo-Sakura",
         "stat": "avi",
@@ -77339,6 +78042,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 38000,
       "speed": 48,
       "hp_growth": [
         924,
@@ -77424,6 +78128,7 @@
           72,
           70
         ],
+        "id": 50020,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -77466,6 +78171,7 @@
           80
         ],
         "reload": [],
+        "id": 51320,
         "spread_angle": null,
         "name": "2 x Torpedo-Sakura",
         "stat": "avi",
@@ -77500,6 +78206,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 38020,
       "speed": 48,
       "hp_growth": [
         1040,
@@ -77603,6 +78310,7 @@
           62,
           61
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -77649,6 +78357,7 @@
           80
         ],
         "reload": [],
+        "id": 51340,
         "spread_angle": null,
         "name": "2 x Torpedo-Sakura",
         "stat": "avi",
@@ -77687,6 +78396,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 38040,
       "speed": 48,
       "hp_growth": [
         1155,
@@ -77802,6 +78512,7 @@
           62,
           61
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -77848,6 +78559,7 @@
           80
         ],
         "reload": [],
+        "id": 51340,
         "spread_angle": null,
         "name": "2 x Torpedo-Sakura",
         "stat": "avi",
@@ -77886,6 +78598,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 38060,
       "speed": 48,
       "hp_growth": [
         1155,
@@ -77993,6 +78706,7 @@
           75,
           74
         ],
+        "id": 50000,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -78035,6 +78749,7 @@
           80
         ],
         "reload": [],
+        "id": 51400,
         "spread_angle": null,
         "name": "3 x Torpedo-Sakura",
         "stat": "avi",
@@ -78069,6 +78784,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 38100,
       "speed": 48,
       "hp_growth": [
         1040,
@@ -78173,6 +78889,7 @@
           67,
           66
         ],
+        "id": 50020,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -78218,6 +78935,7 @@
           80
         ],
         "reload": [],
+        "id": 51420,
         "spread_angle": null,
         "name": "3 x Torpedo-Sakura",
         "stat": "avi",
@@ -78255,6 +78973,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 38120,
       "speed": 48,
       "hp_growth": [
         1155,
@@ -78378,6 +79097,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -78428,6 +79148,7 @@
           80
         ],
         "reload": [],
+        "id": 51440,
         "spread_angle": null,
         "name": "3 x Torpedo-Sakura",
         "stat": "avi",
@@ -78470,6 +79191,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 38140,
       "speed": 48,
       "hp_growth": [
         1271,
@@ -78608,6 +79330,7 @@
           67,
           67
         ],
+        "id": 50840,
         "spread_angle": null,
         "name": "1 x 13mm Cannon",
         "stat": "avi",
@@ -78671,6 +79394,7 @@
           44,
           44
         ],
+        "id": 59720,
         "spread_angle": null,
         "name": "1 x 7.92mm MG Cannon",
         "stat": "avi",
@@ -78721,6 +79445,7 @@
           80
         ],
         "reload": [],
+        "id": 51460,
         "spread_angle": null,
         "name": "3 x Torpedo-Sakura",
         "stat": "avi",
@@ -78763,6 +79488,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 38160,
       "speed": 48,
       "hp_growth": [
         1271,
@@ -78891,6 +79617,7 @@
           119,
           117
         ],
+        "id": 50500,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -78944,6 +79671,7 @@
           83,
           81
         ],
+        "id": 50800,
         "spread_angle": null,
         "name": "1 x 13mm Cannon",
         "stat": "avi",
@@ -78989,6 +79717,7 @@
           80
         ],
         "reload": [],
+        "id": 51420,
         "spread_angle": null,
         "name": "3 x Torpedo-Sakura",
         "stat": "avi",
@@ -79026,6 +79755,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 38200,
       "speed": 52,
       "hp_growth": [
         1155,
@@ -79145,6 +79875,7 @@
           104,
           102
         ],
+        "id": 50520,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -79206,6 +79937,7 @@
           72,
           70
         ],
+        "id": 50820,
         "spread_angle": null,
         "name": "1 x 13mm Cannon",
         "stat": "avi",
@@ -79255,6 +79987,7 @@
           80
         ],
         "reload": [],
+        "id": 51440,
         "spread_angle": null,
         "name": "3 x Torpedo-Sakura",
         "stat": "avi",
@@ -79296,6 +80029,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 38220,
       "speed": 52,
       "hp_growth": [
         1271,
@@ -79433,6 +80167,7 @@
           97,
           97
         ],
+        "id": 50540,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -79500,6 +80235,7 @@
           67,
           67
         ],
+        "id": 50840,
         "spread_angle": null,
         "name": "1 x 13mm Cannon",
         "stat": "avi",
@@ -79552,6 +80288,7 @@
           80
         ],
         "reload": [],
+        "id": 51460,
         "spread_angle": null,
         "name": "3 x Torpedo-Sakura",
         "stat": "avi",
@@ -79596,6 +80333,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 38240,
       "speed": 52,
       "hp_growth": [
         1386,
@@ -79742,6 +80480,7 @@
           44,
           44
         ],
+        "id": 59720,
         "spread_angle": null,
         "name": "1 x 7.92mm MG Cannon",
         "stat": "avi",
@@ -79794,6 +80533,7 @@
           80
         ],
         "reload": [],
+        "id": 51360,
         "spread_angle": null,
         "name": "2 x Torpedo-Sakura",
         "stat": "avi",
@@ -79838,6 +80578,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 38300,
       "speed": 66,
       "hp_growth": [
         1386,
@@ -79964,6 +80705,7 @@
           75,
           74
         ],
+        "id": 50000,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -80006,6 +80748,7 @@
           500
         ],
         "reload": [],
+        "id": 52200,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -80048,6 +80791,7 @@
           500
         ],
         "reload": [],
+        "id": 52100,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -80082,6 +80826,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 39000,
       "speed": 45,
       "hp_growth": [
         1204,
@@ -80183,6 +80928,7 @@
           67,
           66
         ],
+        "id": 50020,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -80228,6 +80974,7 @@
           500
         ],
         "reload": [],
+        "id": 52220,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -80273,6 +81020,7 @@
           500
         ],
         "reload": [],
+        "id": 52120,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -80310,6 +81058,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 39020,
       "speed": 45,
       "hp_growth": [
         1338,
@@ -80430,6 +81179,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -80480,6 +81230,7 @@
           500
         ],
         "reload": [],
+        "id": 52240,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -80530,6 +81281,7 @@
           500
         ],
         "reload": [],
+        "id": 52140,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -80572,6 +81324,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 39040,
       "speed": 45,
       "hp_growth": [
         1471,
@@ -80707,6 +81460,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -80757,6 +81511,7 @@
           500
         ],
         "reload": [],
+        "id": 52240,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -80807,6 +81562,7 @@
           500
         ],
         "reload": [],
+        "id": 52160,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -80849,6 +81605,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 39060,
       "speed": 45,
       "hp_growth": [
         1471,
@@ -80974,6 +81731,7 @@
           71,
           70
         ],
+        "id": 50000,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -81019,6 +81777,7 @@
           500
         ],
         "reload": [],
+        "id": 52600,
         "spread_angle": null,
         "name": "1 x 1000lb Bomb",
         "stat": "avi",
@@ -81064,6 +81823,7 @@
           500
         ],
         "reload": [],
+        "id": 52100,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -81101,6 +81861,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 39100,
       "speed": 48,
       "hp_growth": [
         1338,
@@ -81221,6 +81982,7 @@
           61,
           60
         ],
+        "id": 50020,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -81270,6 +82032,7 @@
           500
         ],
         "reload": [],
+        "id": 52620,
         "spread_angle": null,
         "name": "1 x 1000lb Bomb",
         "stat": "avi",
@@ -81319,6 +82082,7 @@
           500
         ],
         "reload": [],
+        "id": 52120,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -81360,6 +82124,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 39120,
       "speed": 48,
       "hp_growth": [
         1471,
@@ -81498,6 +82263,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -81550,6 +82316,7 @@
           500
         ],
         "reload": [],
+        "id": 52640,
         "spread_angle": null,
         "name": "1 x 1000lb Bomb",
         "stat": "avi",
@@ -81602,6 +82369,7 @@
           500
         ],
         "reload": [],
+        "id": 52140,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -81646,6 +82414,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 39140,
       "speed": 48,
       "hp_growth": [
         1605,
@@ -81793,6 +82562,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -81845,6 +82615,7 @@
           500
         ],
         "reload": [],
+        "id": 52660,
         "spread_angle": null,
         "name": "1 x 1000lb Bomb",
         "stat": "avi",
@@ -81897,6 +82668,7 @@
           500
         ],
         "reload": [],
+        "id": 52160,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -81941,6 +82713,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 39160,
       "speed": 48,
       "hp_growth": [
         1605,
@@ -82068,6 +82841,7 @@
           128,
           125
         ],
+        "id": 50500,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -82115,6 +82889,7 @@
           88,
           87
         ],
+        "id": 50800,
         "spread_angle": null,
         "name": "1 x 13mm Cannon",
         "stat": "avi",
@@ -82157,6 +82932,7 @@
           500
         ],
         "reload": [],
+        "id": 52200,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -82191,6 +82967,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 39200,
       "speed": 46,
       "hp_growth": [
         1023,
@@ -82292,6 +83069,7 @@
           114,
           112
         ],
+        "id": 50520,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -82345,6 +83123,7 @@
           79,
           77
         ],
+        "id": 50820,
         "spread_angle": null,
         "name": "1 x 13mm Cannon",
         "stat": "avi",
@@ -82390,6 +83169,7 @@
           500
         ],
         "reload": [],
+        "id": 52220,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -82427,6 +83207,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 39220,
       "speed": 46,
       "hp_growth": [
         1137,
@@ -82547,6 +83328,7 @@
           97,
           97
         ],
+        "id": 50540,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -82610,6 +83392,7 @@
           67,
           67
         ],
+        "id": 50840,
         "spread_angle": null,
         "name": "1 x 13mm Cannon",
         "stat": "avi",
@@ -82660,6 +83443,7 @@
           500
         ],
         "reload": [],
+        "id": 52240,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -82702,6 +83486,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 39240,
       "speed": 46,
       "hp_growth": [
         1251,
@@ -82839,6 +83624,7 @@
           67,
           67
         ],
+        "id": 50840,
         "spread_angle": null,
         "name": "1 x 13mm Cannon",
         "stat": "avi",
@@ -82889,6 +83675,7 @@
           500
         ],
         "reload": [],
+        "id": 53260,
         "spread_angle": null,
         "name": "1 x 1600lb Bomb",
         "stat": "avi",
@@ -82931,6 +83718,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 39300,
       "speed": 46,
       "hp_growth": [
         1471,
@@ -83090,6 +83878,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -83142,6 +83931,7 @@
           500
         ],
         "reload": [],
+        "id": 52640,
         "spread_angle": null,
         "name": "1 x 1000lb Bomb",
         "stat": "avi",
@@ -83194,6 +83984,7 @@
           500
         ],
         "reload": [],
+        "id": 52140,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -83238,6 +84029,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 39320,
       "speed": 48,
       "hp_growth": [
         1605,
@@ -83385,6 +84177,7 @@
           135,
           135
         ],
+        "id": 59780,
         "spread_angle": null,
         "name": "2x 20mm Type 99 Cannon",
         "stat": "avi",
@@ -83452,6 +84245,7 @@
           145,
           145
         ],
+        "id": 59800,
         "spread_angle": null,
         "name": "2x 30mm Cannon",
         "stat": "avi",
@@ -83504,6 +84298,7 @@
           500
         ],
         "reload": [],
+        "id": 53320,
         "spread_angle": null,
         "name": "3x 800kg AP Bomb",
         "stat": "avi",
@@ -83548,6 +84343,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 39340,
       "speed": 52,
       "hp_growth": [
         1739,
@@ -83677,6 +84473,7 @@
         0,
         60
       ],
+      "id": 41000,
       "spread_angle": "5° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -83781,6 +84578,7 @@
         0,
         60
       ],
+      "id": 41020,
       "spread_angle": "5° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -83907,6 +84705,7 @@
         0,
         60
       ],
+      "id": 41040,
       "spread_angle": "5° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -84049,6 +84848,7 @@
         0,
         60
       ],
+      "id": 41060,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -84171,6 +84971,7 @@
         0,
         60
       ],
+      "id": 41100,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -84305,6 +85106,7 @@
         0,
         60
       ],
+      "id": 41120,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -84460,6 +85262,7 @@
         0,
         60
       ],
+      "id": 41140,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -84631,6 +85434,7 @@
         0,
         60
       ],
+      "id": 41160,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -84776,6 +85580,7 @@
         0,
         65
       ],
+      "id": 42000,
       "spread_angle": "5° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -84891,6 +85696,7 @@
         0,
         65
       ],
+      "id": 42020,
       "spread_angle": "5° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -85024,6 +85830,7 @@
         0,
         65
       ],
+      "id": 42040,
       "spread_angle": "5° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -85162,6 +85969,7 @@
         0,
         65
       ],
+      "id": 42060,
       "spread_angle": "30° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -85305,6 +86113,7 @@
         0,
         65
       ],
+      "id": 42080,
       "spread_angle": "10° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -85422,6 +86231,7 @@
         0,
         65
       ],
+      "id": 42100,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -85536,6 +86346,7 @@
         0,
         65
       ],
+      "id": 42120,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -85668,6 +86479,7 @@
         0,
         65
       ],
+      "id": 42140,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -85805,6 +86617,7 @@
         0,
         65
       ],
+      "id": 42160,
       "spread_angle": "18° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -85918,6 +86731,7 @@
         0,
         65
       ],
+      "id": 42200,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -86036,6 +86850,7 @@
         0,
         65
       ],
+      "id": 42220,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -86172,6 +86987,7 @@
         0,
         65
       ],
+      "id": 42240,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -86289,6 +87105,7 @@
         0,
         65
       ],
+      "id": 42300,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -86418,6 +87235,7 @@
         0,
         65
       ],
+      "id": 42340,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -86563,6 +87381,7 @@
         0,
         65
       ],
+      "id": 42360,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -86690,6 +87509,7 @@
         0,
         70
       ],
+      "id": 43000,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -86817,6 +87637,7 @@
         0,
         70
       ],
+      "id": 43020,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -86957,6 +87778,7 @@
         0,
         70
       ],
+      "id": 43040,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -87104,6 +87926,7 @@
         0,
         70
       ],
+      "id": 43060,
       "spread_angle": "22° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -87252,6 +88075,7 @@
         0,
         70
       ],
+      "id": 43080,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -87363,6 +88187,7 @@
         0,
         75
       ],
+      "id": 43100,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -87481,6 +88306,7 @@
         0,
         75
       ],
+      "id": 43120,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -87617,6 +88443,7 @@
         0,
         75
       ],
+      "id": 43140,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -87766,6 +88593,7 @@
         0,
         70
       ],
+      "id": 43160,
       "spread_angle": "22° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -87882,6 +88710,7 @@
         50,
         200
       ],
+      "id": 44000,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -87997,6 +88826,7 @@
         50,
         200
       ],
+      "id": 44020,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -88130,6 +88960,7 @@
         50,
         200
       ],
+      "id": 44040,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -88253,6 +89084,7 @@
         50,
         200
       ],
+      "id": 44100,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -88382,6 +89214,7 @@
         50,
         200
       ],
+      "id": 44120,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -88525,6 +89358,7 @@
         50,
         200
       ],
+      "id": 44140,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -88671,6 +89505,7 @@
         50,
         200
       ],
+      "id": 44200,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -88820,6 +89655,7 @@
         50,
         200
       ],
+      "id": 44300,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -88973,6 +89809,7 @@
         0,
         70
       ],
+      "id": 44400,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -89116,6 +89953,7 @@
         50,
         200
       ],
+      "id": 44500,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -89232,6 +90070,7 @@
         0,
         42
       ],
+      "id": 45000,
       "spread_angle": "40° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -89356,6 +90195,7 @@
         0,
         42
       ],
+      "id": 45020,
       "spread_angle": "40° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -89498,6 +90338,7 @@
         0,
         42
       ],
+      "id": 45040,
       "spread_angle": "40° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -89630,6 +90471,7 @@
         0,
         42
       ],
+      "id": 45100,
       "spread_angle": "48° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -89771,6 +90613,7 @@
         0,
         42
       ],
+      "id": 45120,
       "spread_angle": "48° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -89925,6 +90768,7 @@
         0,
         42
       ],
+      "id": 45140,
       "spread_angle": "48° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -90083,6 +90927,7 @@
         0,
         42
       ],
+      "id": 45160,
       "spread_angle": "48° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -90229,6 +91074,7 @@
         0,
         42
       ],
+      "id": 45200,
       "spread_angle": "60° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -90375,6 +91221,7 @@
         0,
         42
       ],
+      "id": 45220,
       "spread_angle": "60° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -90530,6 +91377,7 @@
         0,
         42
       ],
+      "id": 45240,
       "spread_angle": "60° Cone Pattern",
       "stat": "trp",
       "ratio": 1,
@@ -90658,6 +91506,7 @@
         0,
         50
       ],
+      "id": 45300,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -90773,6 +91622,7 @@
         0,
         50
       ],
+      "id": 45320,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -90906,6 +91756,7 @@
         0,
         50
       ],
+      "id": 45340,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -91029,6 +91880,7 @@
         0,
         50
       ],
+      "id": 45400,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -91160,6 +92012,7 @@
         0,
         50
       ],
+      "id": 45420,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -91304,6 +92157,7 @@
         0,
         50
       ],
+      "id": 45440,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -91422,6 +92276,7 @@
         0,
         18
       ],
+      "id": 46000,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -91540,6 +92395,7 @@
         0,
         18
       ],
+      "id": 46020,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -91680,6 +92536,7 @@
         0,
         18
       ],
+      "id": 46040,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -91836,6 +92693,7 @@
         0,
         30
       ],
+      "id": 46060,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -91972,6 +92830,7 @@
         0,
         23
       ],
+      "id": 46100,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -92090,6 +92949,7 @@
         0,
         23
       ],
+      "id": 46120,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -92230,6 +93090,7 @@
         0,
         23
       ],
+      "id": 46140,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -92362,6 +93223,7 @@
         0,
         23
       ],
+      "id": 46200,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -92499,6 +93361,7 @@
         0,
         23
       ],
+      "id": 46220,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -92654,6 +93517,7 @@
         0,
         23
       ],
+      "id": 46240,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -92814,6 +93678,7 @@
         0,
         25
       ],
+      "id": 46260,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -92959,6 +93824,7 @@
         0,
         32
       ],
+      "id": 46300,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -93112,6 +93978,7 @@
         0,
         32
       ],
+      "id": 46320,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -93278,6 +94145,7 @@
         0,
         32
       ],
+      "id": 46340,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -93447,6 +94315,7 @@
         0,
         32
       ],
+      "id": 46360,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -93635,6 +94504,7 @@
         100,
         130
       ],
+      "id": 46380,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -93784,6 +94654,7 @@
         0,
         30
       ],
+      "id": 46400,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -93949,6 +94820,7 @@
         0,
         28
       ],
+      "id": 46420,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -94111,6 +94983,7 @@
         0,
         28
       ],
+      "id": 46440,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -94245,6 +95118,7 @@
           96,
           95
         ],
+        "id": 59000,
         "spread_angle": null,
         "name": "2 x MG FF 20mm Cannon",
         "stat": "avi",
@@ -94292,6 +95166,7 @@
           66,
           65
         ],
+        "id": 59400,
         "spread_angle": null,
         "name": "2 x 7.92mm MG17 Cannon",
         "stat": "avi",
@@ -94333,6 +95208,8 @@
         1831
       ],
       "intercept_count": 1,
+      "id": 47000,
+      "intercept_id": 84000,
       "speed": 50,
       "hp_growth": [
         1210,
@@ -94433,6 +95310,7 @@
           87,
           85
         ],
+        "id": 59020,
         "spread_angle": null,
         "name": "2 x MG FF 20mm Cannon",
         "stat": "avi",
@@ -94486,6 +95364,7 @@
           59,
           57
         ],
+        "id": 59420,
         "spread_angle": null,
         "name": "2 x 7.92mm MG17 Cannon",
         "stat": "avi",
@@ -94533,6 +95412,8 @@
         1722
       ],
       "intercept_count": 1,
+      "id": 47020,
+      "intercept_id": 84020,
       "speed": 50,
       "hp_growth": [
         1344,
@@ -94652,6 +95533,7 @@
           75,
           75
         ],
+        "id": 59040,
         "spread_angle": null,
         "name": "2 x MG FF 20mm Cannon",
         "stat": "avi",
@@ -94715,6 +95597,7 @@
           45,
           45
         ],
+        "id": 59440,
         "spread_angle": null,
         "name": "2 x 7.92mm MG17 Cannon",
         "stat": "avi",
@@ -94772,6 +95655,8 @@
         1590
       ],
       "intercept_count": 1,
+      "id": 47040,
+      "intercept_id": 84040,
       "speed": 50,
       "hp_growth": [
         1478,
@@ -94898,6 +95783,7 @@
           82,
           79
         ],
+        "id": 59040,
         "spread_angle": null,
         "name": "2 x MG FF 20mm Cannon",
         "stat": "avi",
@@ -94953,6 +95839,7 @@
           53,
           51
         ],
+        "id": 59440,
         "spread_angle": null,
         "name": "2 x 7.92mm MG17 Cannon",
         "stat": "avi",
@@ -94999,6 +95886,7 @@
           500
         ],
         "reload": [],
+        "id": 53040,
         "spread_angle": null,
         "name": "4 x 100lb Bomb",
         "stat": "avi",
@@ -95048,6 +95936,8 @@
         1812
       ],
       "intercept_count": 1,
+      "id": 47060,
+      "intercept_id": 84060,
       "speed": 49,
       "hp_growth": [
         1344,
@@ -95170,6 +96060,7 @@
           75,
           75
         ],
+        "id": 59040,
         "spread_angle": null,
         "name": "2 x MG FF 20mm Cannon",
         "stat": "avi",
@@ -95233,6 +96124,7 @@
           45,
           45
         ],
+        "id": 59440,
         "spread_angle": null,
         "name": "2 x 7.92mm MG17 Cannon",
         "stat": "avi",
@@ -95296,6 +96188,7 @@
           123,
           123
         ],
+        "id": 59140,
         "spread_angle": null,
         "name": "3 x MG151 20mm Cannon",
         "stat": "avi",
@@ -95353,6 +96246,8 @@
         1710
       ],
       "intercept_count": 1,
+      "id": 47080,
+      "intercept_id": 84080,
       "speed": 51,
       "hp_growth": [
         1478,
@@ -95480,6 +96375,7 @@
           145,
           143
         ],
+        "id": 59100,
         "spread_angle": null,
         "name": "3 x MG151 20mm Cannon",
         "stat": "avi",
@@ -95533,6 +96429,7 @@
           88,
           86
         ],
+        "id": 59200,
         "spread_angle": null,
         "name": "2 x MG131 13mm Cannon",
         "stat": "avi",
@@ -95580,6 +96477,8 @@
         1670
       ],
       "intercept_count": 1,
+      "id": 47100,
+      "intercept_id": 84100,
       "speed": 50,
       "hp_growth": [
         1344,
@@ -95700,6 +96599,7 @@
           130,
           128
         ],
+        "id": 59120,
         "spread_angle": null,
         "name": "3 x MG151 20mm Cannon",
         "stat": "avi",
@@ -95761,6 +96661,7 @@
           77,
           75
         ],
+        "id": 59220,
         "spread_angle": null,
         "name": "2 x MG131 13mm Cannon",
         "stat": "avi",
@@ -95816,6 +96717,8 @@
         1530
       ],
       "intercept_count": 1,
+      "id": 47120,
+      "intercept_id": 84120,
       "speed": 50,
       "hp_growth": [
         1478,
@@ -95954,6 +96857,7 @@
           123,
           123
         ],
+        "id": 59140,
         "spread_angle": null,
         "name": "3 x MG151 20mm Cannon",
         "stat": "avi",
@@ -96021,6 +96925,7 @@
           72,
           72
         ],
+        "id": 59240,
         "spread_angle": null,
         "name": "2 x MG131 13mm Cannon",
         "stat": "avi",
@@ -96082,6 +96987,8 @@
         1490
       ],
       "intercept_count": 1,
+      "id": 47140,
+      "intercept_id": 84140,
       "speed": 50,
       "hp_growth": [
         1613,
@@ -96229,6 +97136,7 @@
           123,
           123
         ],
+        "id": 59820,
         "spread_angle": null,
         "name": "1x MG151 20mm Cannon",
         "stat": "avi",
@@ -96296,6 +97204,7 @@
           45,
           45
         ],
+        "id": 59440,
         "spread_angle": null,
         "name": "2 x 7.92mm MG17 Cannon",
         "stat": "avi",
@@ -96348,6 +97257,7 @@
           80
         ],
         "reload": [],
+        "id": 59840,
         "spread_angle": null,
         "name": "4x AP Rocket",
         "stat": "avi",
@@ -96392,6 +97302,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 47160,
       "speed": 50,
       "hp_growth": [
         1613,
@@ -96540,6 +97451,7 @@
           75,
           75
         ],
+        "id": 59040,
         "spread_angle": null,
         "name": "2 x MG FF 20mm Cannon",
         "stat": "avi",
@@ -96607,6 +97519,7 @@
           45,
           45
         ],
+        "id": 59440,
         "spread_angle": null,
         "name": "2 x 7.92mm MG17 Cannon",
         "stat": "avi",
@@ -96674,6 +97587,7 @@
           123,
           123
         ],
+        "id": 59900,
         "spread_angle": null,
         "name": "2 x MG151 20mm Machine Gun",
         "stat": "avi",
@@ -96726,6 +97640,7 @@
           80
         ],
         "reload": [],
+        "id": 59920,
         "spread_angle": null,
         "name": "2 x Wfr.Gr.21",
         "stat": "avi",
@@ -96770,6 +97685,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 47180,
       "speed": 50,
       "hp_growth": [
         1613,
@@ -96904,6 +97820,7 @@
           53,
           51
         ],
+        "id": 59760,
         "spread_angle": null,
         "name": "2 x 7.92mm MGCannon",
         "stat": "avi",
@@ -96950,6 +97867,7 @@
           80
         ],
         "reload": [],
+        "id": 59660,
         "spread_angle": null,
         "name": "2 x Torpedo-Iron Blood",
         "stat": "avi",
@@ -96988,6 +97906,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 48000,
       "speed": 48,
       "hp_growth": [
         1216,
@@ -97111,6 +98030,7 @@
           45,
           45
         ],
+        "id": 59760,
         "spread_angle": null,
         "name": "2 x 7.92mm MGCannon",
         "stat": "avi",
@@ -97161,6 +98081,7 @@
           80
         ],
         "reload": [],
+        "id": 59680,
         "spread_angle": null,
         "name": "2 x Torpedo-Iron Blood",
         "stat": "avi",
@@ -97203,6 +98124,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 48020,
       "speed": 48,
       "hp_growth": [
         1338,
@@ -97342,6 +98264,7 @@
           54,
           54
         ],
+        "id": 59340,
         "spread_angle": null,
         "name": "3 x 7.92mm MG Cannon",
         "stat": "avi",
@@ -97394,6 +98317,7 @@
           80
         ],
         "reload": [],
+        "id": 59700,
         "spread_angle": null,
         "name": "3 x Torpedo-Iron Blood",
         "stat": "avi",
@@ -97438,6 +98362,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 48040,
       "speed": 51,
       "hp_growth": [
         1459,
@@ -97566,6 +98491,7 @@
           74,
           73
         ],
+        "id": 59300,
         "spread_angle": null,
         "name": "3 x 7.92mm MG Cannon",
         "stat": "avi",
@@ -97608,6 +98534,7 @@
           500
         ],
         "reload": [],
+        "id": 52600,
         "spread_angle": null,
         "name": "1 x 1000lb Bomb",
         "stat": "avi",
@@ -97650,6 +98577,7 @@
           500
         ],
         "reload": [],
+        "id": 53000,
         "spread_angle": null,
         "name": "4 x 100lb Bomb",
         "stat": "avi",
@@ -97684,6 +98612,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 49000,
       "speed": 46,
       "hp_growth": [
         1267,
@@ -97788,6 +98717,7 @@
           67,
           65
         ],
+        "id": 59320,
         "spread_angle": null,
         "name": "3 x 7.92mm MG Cannon",
         "stat": "avi",
@@ -97833,6 +98763,7 @@
           500
         ],
         "reload": [],
+        "id": 52620,
         "spread_angle": null,
         "name": "1 x 1000lb Bomb",
         "stat": "avi",
@@ -97878,6 +98809,7 @@
           500
         ],
         "reload": [],
+        "id": 53020,
         "spread_angle": null,
         "name": "4 x 100lb Bomb",
         "stat": "avi",
@@ -97915,6 +98847,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 49020,
       "speed": 46,
       "hp_growth": [
         1408,
@@ -98038,6 +98971,7 @@
           54,
           54
         ],
+        "id": 59340,
         "spread_angle": null,
         "name": "3 x 7.92mm MG Cannon",
         "stat": "avi",
@@ -98088,6 +99022,7 @@
           500
         ],
         "reload": [],
+        "id": 52640,
         "spread_angle": null,
         "name": "1 x 1000lb Bomb",
         "stat": "avi",
@@ -98138,6 +99073,7 @@
           500
         ],
         "reload": [],
+        "id": 53040,
         "spread_angle": null,
         "name": "4 x 100lb Bomb",
         "stat": "avi",
@@ -98180,6 +99116,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 49040,
       "speed": 46,
       "hp_growth": [
         1549,
@@ -98310,6 +99247,7 @@
           53,
           51
         ],
+        "id": 59760,
         "spread_angle": null,
         "name": "2 x 7.92mm MGCannon",
         "stat": "avi",
@@ -98356,6 +99294,7 @@
           500
         ],
         "reload": [],
+        "id": 52240,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -98394,6 +99333,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 49060,
       "speed": 48,
       "hp_growth": [
         1408,
@@ -98511,6 +99451,7 @@
         0,
         55
       ],
+      "id": 85000,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -98660,6 +99601,7 @@
         0,
         65
       ],
+      "id": 85040,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -98795,6 +99737,7 @@
         0,
         34
       ],
+      "id": 85060,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -98935,6 +99878,7 @@
         0,
         68
       ],
+      "id": 85120,
       "spread_angle": "18° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -99064,6 +100008,7 @@
         0,
         68
       ],
+      "id": 85140,
       "spread_angle": "18° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -99207,6 +100152,7 @@
         0,
         68
       ],
+      "id": 85160,
       "spread_angle": "18° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -99323,6 +100269,7 @@
         0,
         26
       ],
+      "id": 85180,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -99460,6 +100407,7 @@
         0,
         26
       ],
+      "id": 85200,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -99615,6 +100563,7 @@
         0,
         26
       ],
+      "id": 85220,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -99760,6 +100709,7 @@
         0,
         32
       ],
+      "id": 85260,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -99915,6 +100865,7 @@
         0,
         32
       ],
+      "id": 85280,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -100060,6 +101011,7 @@
         50,
         200
       ],
+      "id": 85300,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -100189,6 +101141,7 @@
         50,
         200
       ],
+      "id": 85320,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -100331,6 +101284,7 @@
         50,
         200
       ],
+      "id": 85340,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -100447,6 +101401,7 @@
         0,
         33
       ],
+      "id": 85360,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -100584,6 +101539,7 @@
         0,
         33
       ],
+      "id": 85380,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -100739,6 +101695,7 @@
         0,
         33
       ],
+      "id": 85400,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -100887,6 +101844,7 @@
         50,
         200
       ],
+      "id": 85420,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -101010,6 +101968,7 @@
         0,
         58
       ],
+      "id": 85440,
       "spread_angle": "21° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -101127,6 +102086,7 @@
         0,
         70
       ],
+      "id": 85460,
       "spread_angle": "18° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -101256,6 +102216,7 @@
         0,
         70
       ],
+      "id": 85480,
       "spread_angle": "18° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -101399,6 +102360,7 @@
         0,
         65
       ],
+      "id": 85520,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -101518,6 +102480,7 @@
           500
         ],
         "reload": [],
+        "id": 53060,
         "spread_angle": null,
         "name": "6 x 100lb Bomb",
         "stat": "avi",
@@ -101562,6 +102525,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 85540,
       "speed": 45,
       "hp_growth": [
         1916,
@@ -101689,6 +102653,7 @@
           75
         ],
         "reload": [],
+        "id": 51620,
         "spread_angle": null,
         "name": "6 x Torpedo - NP",
         "stat": "avi",
@@ -101733,6 +102698,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 85560,
       "speed": 45,
       "hp_growth": [
         1459,
@@ -101892,6 +102858,7 @@
         0,
         70
       ],
+      "id": 85580,
       "spread_angle": "22° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -102021,6 +102988,7 @@
           128,
           128
         ],
+        "id": 50680,
         "spread_angle": null,
         "name": "4 x 23mm Cannon",
         "stat": "avi",
@@ -102073,6 +103041,7 @@
           80
         ],
         "reload": [],
+        "id": 59960,
         "spread_angle": null,
         "name": "4 x S-21",
         "stat": "avi",
@@ -102117,6 +103086,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 85600,
       "speed": 48,
       "hp_growth": [
         1747,
@@ -102250,6 +103220,7 @@
           75
         ],
         "reload": [],
+        "id": 51640,
         "spread_angle": null,
         "name": "4 x Torpedo - NP",
         "stat": "avi",
@@ -102294,6 +103265,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 85620,
       "speed": 45,
       "hp_growth": [
         1459,
@@ -105142,6 +106114,7 @@
         0,
         50
       ],
+      "id": 90000,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -105245,6 +106218,7 @@
         0,
         50
       ],
+      "id": 90020,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -105367,6 +106341,7 @@
         0,
         50
       ],
+      "id": 90040,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -105493,6 +106468,7 @@
         0,
         60
       ],
+      "id": 90100,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -105630,6 +106606,7 @@
         0,
         60
       ],
+      "id": 90120,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -105781,6 +106758,7 @@
         0,
         60
       ],
+      "id": 90140,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -105937,6 +106915,7 @@
         0,
         60
       ],
+      "id": 90160,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -106063,6 +107042,7 @@
         0,
         65
       ],
+      "id": 90200,
       "spread_angle": "45° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -106157,6 +107137,7 @@
         0,
         65
       ],
+      "id": 90220,
       "spread_angle": "45° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -106270,6 +107251,7 @@
         0,
         65
       ],
+      "id": 90240,
       "spread_angle": "45° Cone Pattern",
       "stat": "fp",
       "ratio": 1,
@@ -106409,6 +107391,7 @@
         0,
         65
       ],
+      "id": 90260,
       "spread_angle": "18° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -106525,6 +107508,7 @@
         50,
         200
       ],
+      "id": 90300,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -106639,6 +107623,7 @@
         50,
         200
       ],
+      "id": 90320,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -106771,6 +107756,7 @@
         50,
         200
       ],
+      "id": 90340,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -106916,6 +107902,7 @@
         0,
         65
       ],
+      "id": 90360,
       "spread_angle": "25° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -107035,6 +108022,7 @@
         50,
         200
       ],
+      "id": 90400,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -107165,6 +108153,7 @@
         50,
         200
       ],
+      "id": 90420,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -107308,6 +108297,7 @@
         50,
         200
       ],
+      "id": 90440,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -107438,6 +108428,7 @@
         50,
         200
       ],
+      "id": 90460,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -107577,6 +108568,7 @@
         50,
         200
       ],
+      "id": 90480,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -107694,6 +108686,7 @@
         0,
         55
       ],
+      "id": 90500,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -107831,6 +108824,7 @@
         0,
         55
       ],
+      "id": 90540,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -107965,6 +108959,7 @@
         0,
         26
       ],
+      "id": 90560,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -108121,6 +109116,7 @@
         0,
         26
       ],
+      "id": 90580,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -108287,6 +109283,7 @@
         0,
         28
       ],
+      "id": 90600,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -108457,6 +109454,7 @@
         0,
         30
       ],
+      "id": 90620,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -108595,6 +109593,7 @@
         0,
         60
       ],
+      "id": 90700,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -108717,6 +109716,7 @@
         0,
         60
       ],
+      "id": 90720,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -108857,6 +109857,7 @@
         0,
         60
       ],
+      "id": 90740,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -108992,6 +109993,7 @@
         0,
         60
       ],
+      "id": 90760,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -109121,6 +110123,7 @@
         0,
         65
       ],
+      "id": 90780,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -109242,6 +110245,7 @@
         0,
         65
       ],
+      "id": 90800,
       "spread_angle": "15° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -109357,6 +110361,7 @@
           66,
           64
         ],
+        "id": 50020,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -109406,6 +110411,8 @@
         1720
       ],
       "intercept_count": 1,
+      "id": 90820,
+      "intercept_id": 88000,
       "speed": 48,
       "hp_growth": [
         1210,
@@ -109521,6 +110528,7 @@
           66,
           64
         ],
+        "id": 50020,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -109567,6 +110575,7 @@
           75
         ],
         "reload": [],
+        "id": 51560,
         "spread_angle": null,
         "name": "3 x Torpedo-Iris",
         "stat": "avi",
@@ -109605,6 +110614,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 90840,
       "speed": 38,
       "hp_growth": [
         1338,
@@ -109724,6 +110734,7 @@
         0,
         70
       ],
+      "id": 90860,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -109854,6 +110865,7 @@
         0,
         70
       ],
+      "id": 90880,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -109997,6 +111009,7 @@
         0,
         70
       ],
+      "id": 90900,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -110144,6 +111157,7 @@
         50,
         200
       ],
+      "id": 91000,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -110267,6 +111281,7 @@
         0,
         70
       ],
+      "id": 91100,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -110397,6 +111412,7 @@
         0,
         70
       ],
+      "id": 91140,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -110505,6 +111521,7 @@
           500
         ],
         "reload": [],
+        "id": 52200,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -110542,6 +111559,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 91180,
       "speed": 46,
       "hp_growth": [
         1137,
@@ -110645,6 +111663,7 @@
           500
         ],
         "reload": [],
+        "id": 52220,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -110687,6 +111706,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 91200,
       "speed": 46,
       "hp_growth": [
         1251,
@@ -110818,6 +111838,7 @@
           107,
           107
         ],
+        "id": 50480,
         "spread_angle": null,
         "name": "1 x 20mm Autocannon",
         "stat": "avi",
@@ -110881,6 +111902,7 @@
           63,
           63
         ],
+        "id": 50000,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -110938,6 +111960,8 @@
         1355
       ],
       "intercept_count": 1,
+      "id": 91220,
+      "intercept_id": 86140,
       "speed": 50,
       "hp_growth": [
         1478,
@@ -111074,6 +112098,7 @@
           60,
           60
         ],
+        "id": 50180,
         "spread_angle": null,
         "name": "4 x 7.5mm Machine Gun",
         "stat": "avi",
@@ -111141,6 +112166,7 @@
           107,
           107
         ],
+        "id": 50480,
         "spread_angle": null,
         "name": "1 x 20mm Autocannon",
         "stat": "avi",
@@ -111193,6 +112219,7 @@
           75
         ],
         "reload": [],
+        "id": 51600,
         "spread_angle": null,
         "name": "3 x Torpedo-Iris",
         "stat": "avi",
@@ -111254,6 +112281,8 @@
         1504
       ],
       "intercept_count": 1,
+      "id": 91240,
+      "intercept_id": 86160,
       "speed": 52,
       "hp_growth": [
         1459,
@@ -111539,6 +112568,7 @@
         50,
         200
       ],
+      "id": 95000,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -111670,6 +112700,7 @@
         50,
         200
       ],
+      "id": 95020,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -111817,6 +112848,7 @@
         50,
         200
       ],
+      "id": 95040,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -111944,6 +112976,7 @@
         0,
         31
       ],
+      "id": 95100,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -112097,6 +113130,7 @@
         0,
         31
       ],
+      "id": 95120,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -112263,6 +113297,7 @@
         0,
         31
       ],
+      "id": 95140,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -112432,6 +113467,7 @@
         0,
         31
       ],
+      "id": 95160,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -112584,6 +113620,7 @@
         0,
         70
       ],
+      "id": 95200,
       "spread_angle": "16° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -112716,6 +113753,7 @@
         0,
         70
       ],
+      "id": 95220,
       "spread_angle": "16° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -112861,6 +113899,7 @@
         0,
         70
       ],
+      "id": 95240,
       "spread_angle": "16° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -112979,6 +114018,7 @@
         0,
         70
       ],
+      "id": 95300,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -113094,6 +114134,7 @@
         0,
         70
       ],
+      "id": 95320,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -113224,6 +114265,7 @@
         0,
         70
       ],
+      "id": 95340,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -113333,6 +114375,7 @@
         0,
         55
       ],
+      "id": 95400,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -113456,6 +114499,7 @@
         0,
         55
       ],
+      "id": 95420,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -113597,6 +114641,7 @@
         0,
         55
       ],
+      "id": 95440,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -113731,6 +114776,7 @@
         0,
         55
       ],
+      "id": 95460,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -113860,6 +114906,7 @@
         50,
         200
       ],
+      "id": 95480,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -113970,6 +115017,7 @@
         0,
         24
       ],
+      "id": 95500,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -114107,6 +115155,7 @@
         0,
         24
       ],
+      "id": 95520,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -114262,6 +115311,7 @@
         0,
         24
       ],
+      "id": 95540,
       "spread_angle": "0° No Spread",
       "stat": "aa",
       "ratio": 1,
@@ -114398,6 +115448,7 @@
         0,
         55
       ],
+      "id": 95560,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -114523,6 +115574,7 @@
         0,
         65
       ],
+      "id": 95600,
       "spread_angle": "18° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -114653,6 +115705,7 @@
         0,
         65
       ],
+      "id": 95620,
       "spread_angle": "18° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -114790,6 +115843,7 @@
         0,
         65
       ],
+      "id": 95640,
       "spread_angle": "18° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -114936,6 +115990,7 @@
         0,
         65
       ],
+      "id": 95660,
       "spread_angle": "18° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -115061,6 +116116,7 @@
         0,
         60
       ],
+      "id": 95700,
       "spread_angle": "0° Random Aim",
       "stat": "trp",
       "ratio": 1,
@@ -115168,6 +116224,7 @@
           75,
           74
         ],
+        "id": 50000,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -115215,6 +116272,7 @@
           128,
           125
         ],
+        "id": 50500,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -115257,6 +116315,7 @@
           500
         ],
         "reload": [],
+        "id": 52100,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -115298,6 +116357,8 @@
         1697
       ],
       "intercept_count": 1,
+      "id": 95720,
+      "intercept_id": 86000,
       "speed": 50,
       "hp_growth": [
         1270,
@@ -115398,6 +116459,7 @@
           67,
           66
         ],
+        "id": 50020,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -115451,6 +116513,7 @@
           114,
           112
         ],
+        "id": 50520,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -115496,6 +116559,7 @@
           500
         ],
         "reload": [],
+        "id": 52120,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -115543,6 +116607,8 @@
         1593
       ],
       "intercept_count": 1,
+      "id": 95740,
+      "intercept_id": 86020,
       "speed": 50,
       "hp_growth": [
         1411,
@@ -115662,6 +116728,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -115725,6 +116792,7 @@
           97,
           97
         ],
+        "id": 50540,
         "spread_angle": null,
         "name": "2 x 20mm Cannon",
         "stat": "avi",
@@ -115775,6 +116843,7 @@
           500
         ],
         "reload": [],
+        "id": 52140,
         "spread_angle": null,
         "name": "2 x 100lb Bomb",
         "stat": "avi",
@@ -115832,6 +116901,8 @@
         1485
       ],
       "intercept_count": 1,
+      "id": 95760,
+      "intercept_id": 86040,
       "speed": 50,
       "hp_growth": [
         1552,
@@ -115950,6 +117021,7 @@
           75,
           74
         ],
+        "id": 50000,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -115997,6 +117069,7 @@
           88,
           87
         ],
+        "id": 50700,
         "spread_angle": null,
         "name": "2 x 12.7mm Cannon",
         "stat": "avi",
@@ -116039,6 +117112,7 @@
           500
         ],
         "reload": [],
+        "id": 52200,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -116080,6 +117154,8 @@
         1885
       ],
       "intercept_count": 1,
+      "id": 95800,
+      "intercept_id": 86060,
       "speed": 46,
       "hp_growth": [
         1149,
@@ -116180,6 +117256,7 @@
           67,
           66
         ],
+        "id": 50020,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -116233,6 +117310,7 @@
           79,
           77
         ],
+        "id": 50720,
         "spread_angle": null,
         "name": "2 x 12.7mm Cannon",
         "stat": "avi",
@@ -116278,6 +117356,7 @@
           500
         ],
         "reload": [],
+        "id": 52220,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -116325,6 +117404,8 @@
         1784
       ],
       "intercept_count": 1,
+      "id": 95820,
+      "intercept_id": 86080,
       "speed": 46,
       "hp_growth": [
         1277,
@@ -116444,6 +117525,7 @@
           57,
           57
         ],
+        "id": 50040,
         "spread_angle": null,
         "name": "2 x 7.7mm Cannon",
         "stat": "avi",
@@ -116507,6 +117589,7 @@
           67,
           67
         ],
+        "id": 50740,
         "spread_angle": null,
         "name": "2 x 12.7mm Cannon",
         "stat": "avi",
@@ -116557,6 +117640,7 @@
           500
         ],
         "reload": [],
+        "id": 52240,
         "spread_angle": null,
         "name": "1 x 500lb Bomb",
         "stat": "avi",
@@ -116614,6 +117698,8 @@
         1650
       ],
       "intercept_count": 1,
+      "id": 95840,
+      "intercept_id": 86100,
       "speed": 46,
       "hp_growth": [
         1404,
@@ -116778,6 +117864,7 @@
         50,
         200
       ],
+      "id": 95900,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -116906,6 +117993,7 @@
         0,
         50
       ],
+      "id": 95920,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -117056,6 +118144,7 @@
         0,
         50
       ],
+      "id": 95940,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -117224,6 +118313,7 @@
         0,
         50
       ],
+      "id": 95960,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -117412,6 +118502,7 @@
         0,
         200
       ],
+      "id": 96000,
       "spread_angle": "0° No Spread",
       "stat": "trp",
       "ratio": 1,
@@ -117572,6 +118663,7 @@
         0,
         200
       ],
+      "id": 96040,
       "spread_angle": "0° No Spread",
       "stat": "trp",
       "ratio": 1,
@@ -117721,6 +118813,7 @@
         0,
         70
       ],
+      "id": 96100,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -117892,6 +118985,7 @@
         0,
         70
       ],
+      "id": 96120,
       "spread_angle": "22° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -118131,6 +119225,7 @@
         0,
         70
       ],
+      "id": 150040,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -118283,6 +119378,7 @@
         0,
         70
       ],
+      "id": 150080,
       "spread_angle": "12° Random Aim",
       "stat": "fp",
       "ratio": 1,
@@ -118423,6 +119519,7 @@
         50,
         200
       ],
+      "id": 150100,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,
@@ -118572,6 +119669,7 @@
         50,
         200
       ],
+      "id": 150140,
       "spread_angle": "0° No Spread",
       "stat": "fp",
       "ratio": 1,

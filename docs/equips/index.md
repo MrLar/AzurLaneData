@@ -64,6 +64,7 @@ Weapon provides the basic properties for all weapons and aircrafts. It provides:
 |   **ratio**   |                   `number`                    |                                                                      The ratio to scale with.                                                                       |
 | **armor_mod** |                  `number[]`                   |                          A 3 value array where each entry represents the effectiveness against Light, Medium and Heavy armor respectively.                          |
 |   **ammo**    |           [`AmmoType`](#ammo-type)            |                                                                    The ammo type of the weapon.                                                                     |
+|    **id**     |                   `number`                    |                                                                        The ID of the weapon.                                                                        |
 
 # Extended Weapon
 

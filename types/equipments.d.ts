@@ -49,6 +49,7 @@ export interface WeaponBase {
     ratio: number
     armor_mod: number[]
     ammo: AmmoType
+    id: number
 }
 
 export interface ExtendedWeapon extends WeaponBase {
@@ -65,6 +66,8 @@ export interface ExtendedWeapon extends WeaponBase {
 }
 
 export interface Aircraft extends ReloadableWeapon {
+    id: number
+    intercept_id: number
     is_interceptor: boolean
     intercept_reload?: number[]
     intercept_count?: number
