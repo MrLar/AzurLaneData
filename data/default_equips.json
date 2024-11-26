@@ -30,10 +30,13 @@
         0,
         60
       ],
+      "id": 100,
       "spread_angle": "5° Random Aim",
+      "barrage_id": 1000,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 1000,
       "armor_mod": [
         1,
         0.5,
@@ -105,10 +108,13 @@
         0,
         65
       ],
+      "id": 101,
       "spread_angle": "14° Cone Pattern",
+      "barrage_id": 1100,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 0,
+      "bullet_id": 1001,
       "armor_mod": [
         1,
         0.75,
@@ -180,10 +186,13 @@
         0,
         120
       ],
+      "id": 102,
       "spread_angle": "15° Random Aim",
+      "barrage_id": 1200,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 1400,
       "armor_mod": [
         1,
         0.9,
@@ -255,10 +264,13 @@
         50,
         200
       ],
+      "id": 103,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1300,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 1500,
       "armor_mod": [
         0.7,
         1,
@@ -330,10 +342,13 @@
         0,
         20
       ],
+      "id": 104,
       "spread_angle": "0° No Spread",
+      "barrage_id": 2000,
       "stat": "aa",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 2000,
       "armor_mod": [
         1,
         1,
@@ -405,10 +420,13 @@
         0,
         50
       ],
+      "id": 105,
       "spread_angle": "30° Cone Pattern",
+      "barrage_id": 1401,
       "stat": "trp",
       "ratio": 1,
       "aim_type": 0,
+      "bullet_id": 1800,
       "armor_mod": [
         0.8,
         1,
@@ -481,10 +499,13 @@
         0,
         50
       ],
+      "id": 106,
       "spread_angle": "40° Cone Pattern",
+      "barrage_id": 1402,
       "stat": "trp",
       "ratio": 1,
       "aim_type": 0,
+      "bullet_id": 1800,
       "armor_mod": [
         0.8,
         1,
@@ -557,10 +578,13 @@
         0,
         50
       ],
+      "id": 107,
       "spread_angle": "48° Cone Pattern",
+      "barrage_id": 1403,
       "stat": "trp",
       "ratio": 1,
       "aim_type": 0,
+      "bullet_id": 1800,
       "armor_mod": [
         0.8,
         1,
@@ -633,10 +657,13 @@
         0,
         50
       ],
+      "id": 108,
       "spread_angle": "60° Cone Pattern",
+      "barrage_id": 1404,
       "stat": "trp",
       "ratio": 1,
       "aim_type": 0,
+      "bullet_id": 1800,
       "armor_mod": [
         0.8,
         1,
@@ -710,11 +737,14 @@
         "reload": [
           60
         ],
+        "id": 131,
         "spread_angle": null,
         "name": "Unnamed Armament (AA Gun)",
+        "barrage_id": 2100,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 1,
+        "bullet_id": 2100,
         "ammo": 5,
         "spread": [
           0,
@@ -745,6 +775,8 @@
         1800
       ],
       "intercept_count": 1,
+      "id": 109,
+      "intercept_id": 112,
       "speed": 50,
       "hp_growth": [
         1129
@@ -803,11 +835,14 @@
           35
         ],
         "reload": [],
+        "id": 135,
         "spread_angle": null,
         "name": "Unnamed Armament (Torpedo)",
+        "barrage_id": 2110,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 1,
+        "bullet_id": 2111,
         "ammo": 4,
         "spread": [
           0,
@@ -834,6 +869,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 110,
       "speed": 48,
       "hp_growth": [
         1021
@@ -892,11 +928,14 @@
           10
         ],
         "reload": [],
+        "id": 139,
         "spread_angle": null,
         "name": "Unnamed Armament (Bomb)",
+        "barrage_id": 2120,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 0,
+        "bullet_id": 2125,
         "ammo": 6,
         "spread": [
           42,
@@ -923,6 +962,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 111,
       "speed": 46,
       "hp_growth": [
         1183
@@ -983,11 +1023,14 @@
         "reload": [
           85
         ],
+        "id": 132,
         "spread_angle": null,
         "name": "Unnamed Armament (AA Gun)",
+        "barrage_id": 2100,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 1,
+        "bullet_id": 2100,
         "ammo": 5,
         "spread": [
           0,
@@ -1018,6 +1061,8 @@
         1900
       ],
       "intercept_count": 1,
+      "id": 113,
+      "intercept_id": 116,
       "speed": 50,
       "hp_growth": [
         1075
@@ -1076,11 +1121,14 @@
           35
         ],
         "reload": [],
+        "id": 135,
         "spread_angle": null,
         "name": "Unnamed Armament (Torpedo)",
+        "barrage_id": 2110,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 1,
+        "bullet_id": 2111,
         "ammo": 4,
         "spread": [
           0,
@@ -1107,6 +1155,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 114,
       "speed": 48,
       "hp_growth": [
         973
@@ -1165,11 +1214,14 @@
           10
         ],
         "reload": [],
+        "id": 139,
         "spread_angle": null,
         "name": "Unnamed Armament (Bomb)",
+        "barrage_id": 2120,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 0,
+        "bullet_id": 2125,
         "ammo": 6,
         "spread": [
           42,
@@ -1196,6 +1248,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 115,
       "speed": 46,
       "hp_growth": [
         1126
@@ -1256,11 +1309,14 @@
         "reload": [
           50
         ],
+        "id": 133,
         "spread_angle": null,
         "name": "Unnamed Armament (AA Gun)",
+        "barrage_id": 2100,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 1,
+        "bullet_id": 2100,
         "ammo": 5,
         "spread": [
           0,
@@ -1291,6 +1347,8 @@
         1600
       ],
       "intercept_count": 1,
+      "id": 117,
+      "intercept_id": 120,
       "speed": 50,
       "hp_growth": [
         1021
@@ -1349,11 +1407,14 @@
           35
         ],
         "reload": [],
+        "id": 135,
         "spread_angle": null,
         "name": "Unnamed Armament (Torpedo)",
+        "barrage_id": 2110,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 1,
+        "bullet_id": 2111,
         "ammo": 4,
         "spread": [
           0,
@@ -1380,6 +1441,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 118,
       "speed": 48,
       "hp_growth": [
         924
@@ -1438,11 +1500,14 @@
           10
         ],
         "reload": [],
+        "id": 139,
         "spread_angle": null,
         "name": "Unnamed Armament (Bomb)",
+        "barrage_id": 2120,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 0,
+        "bullet_id": 2125,
         "ammo": 6,
         "spread": [
           42,
@@ -1469,6 +1534,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 119,
       "speed": 46,
       "hp_growth": [
         1070
@@ -1529,11 +1595,14 @@
         "reload": [
           80
         ],
+        "id": 134,
         "spread_angle": null,
         "name": "Unnamed Armament (AA Gun)",
+        "barrage_id": 2100,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 1,
+        "bullet_id": 2100,
         "ammo": 5,
         "spread": [
           0,
@@ -1564,6 +1633,8 @@
         1800
       ],
       "intercept_count": 1,
+      "id": 121,
+      "intercept_id": 124,
       "speed": 50,
       "hp_growth": [
         1075
@@ -1622,11 +1693,14 @@
           10
         ],
         "reload": [],
+        "id": 139,
         "spread_angle": null,
         "name": "Unnamed Armament (Bomb)",
+        "barrage_id": 2120,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 0,
+        "bullet_id": 2125,
         "ammo": 6,
         "spread": [
           42,
@@ -1653,6 +1727,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 123,
       "speed": 46,
       "hp_growth": [
         1126
@@ -1713,11 +1788,14 @@
         "reload": [
           80
         ],
+        "id": 134,
         "spread_angle": null,
         "name": "Unnamed Armament (AA Gun)",
+        "barrage_id": 2100,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 1,
+        "bullet_id": 2100,
         "ammo": 5,
         "spread": [
           0,
@@ -1748,6 +1826,8 @@
         1800
       ],
       "intercept_count": 1,
+      "id": 125,
+      "intercept_id": 128,
       "speed": 50,
       "hp_growth": [
         1075
@@ -1806,11 +1886,14 @@
           35
         ],
         "reload": [],
+        "id": 135,
         "spread_angle": null,
         "name": "Unnamed Armament (Torpedo)",
+        "barrage_id": 2110,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 1,
+        "bullet_id": 2111,
         "ammo": 4,
         "spread": [
           0,
@@ -1837,6 +1920,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 126,
       "speed": 48,
       "hp_growth": [
         973
@@ -1895,11 +1979,14 @@
           10
         ],
         "reload": [],
+        "id": 139,
         "spread_angle": null,
         "name": "Unnamed Armament (Bomb)",
+        "barrage_id": 2120,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 0,
+        "bullet_id": 2125,
         "ammo": 6,
         "spread": [
           42,
@@ -1926,6 +2013,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 127,
       "speed": 46,
       "hp_growth": [
         1126
@@ -1985,10 +2073,13 @@
         0,
         50
       ],
+      "id": 140,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1400,
       "stat": "trp",
       "ratio": 1,
       "aim_type": 0,
+      "bullet_id": 1821,
       "armor_mod": [
         0.7,
         1,
@@ -2060,10 +2151,13 @@
         0,
         15
       ],
+      "id": 141,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1800,
       "stat": "asw",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 1819,
       "armor_mod": [
         1,
         0.5,
@@ -2134,11 +2228,14 @@
           500
         ],
         "reload": [],
+        "id": 145,
         "spread_angle": null,
         "name": "Unnamed Armament (Bomb)",
+        "barrage_id": 2120,
         "stat": "avi",
         "ratio": 0.8,
         "aim_type": 0,
+        "bullet_id": 2122,
         "ammo": 6,
         "spread": [
           36,
@@ -2165,6 +2262,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 144,
       "speed": 46,
       "hp_growth": [
         1023
@@ -2222,10 +2320,13 @@
         0,
         15
       ],
+      "id": 147,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1800,
       "stat": "asw",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 1820,
       "armor_mod": [
         1,
         0.5,
@@ -2298,11 +2399,14 @@
         "reload": [
           85
         ],
+        "id": 132,
         "spread_angle": null,
         "name": "Unnamed Armament (AA Gun)",
+        "barrage_id": 2100,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 1,
+        "bullet_id": 2100,
         "ammo": 5,
         "spread": [
           0,
@@ -2333,6 +2437,8 @@
         1800
       ],
       "intercept_count": 1,
+      "id": 148,
+      "intercept_id": 151,
       "speed": 50,
       "hp_growth": [
         1075
@@ -2391,11 +2497,14 @@
           35
         ],
         "reload": [],
+        "id": 136,
         "spread_angle": null,
         "name": "Unnamed Armament (Torpedo)",
+        "barrage_id": 2110,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 1,
+        "bullet_id": 2111,
         "ammo": 4,
         "spread": [
           0,
@@ -2422,6 +2531,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 149,
       "speed": 48,
       "hp_growth": [
         973
@@ -2480,11 +2590,14 @@
           10
         ],
         "reload": [],
+        "id": 139,
         "spread_angle": null,
         "name": "Unnamed Armament (Bomb)",
+        "barrage_id": 2120,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 0,
+        "bullet_id": 2125,
         "ammo": 6,
         "spread": [
           42,
@@ -2511,6 +2624,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 150,
       "speed": 46,
       "hp_growth": [
         1126
@@ -2569,11 +2683,14 @@
           500
         ],
         "reload": [],
+        "id": 145,
         "spread_angle": null,
         "name": "Unnamed Armament (Bomb)",
+        "barrage_id": 2120,
         "stat": "avi",
         "ratio": 0.8,
         "aim_type": 0,
+        "bullet_id": 2122,
         "ammo": 6,
         "spread": [
           36,
@@ -2600,6 +2717,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 152,
       "speed": 46,
       "hp_growth": [
         1023
@@ -2658,11 +2776,14 @@
         "reload": [
           80
         ],
+        "id": 134,
         "spread_angle": null,
         "name": "Unnamed Armament (AA Gun)",
+        "barrage_id": 2100,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 1,
+        "bullet_id": 2100,
         "ammo": 5,
         "spread": [
           0,
@@ -2693,6 +2814,8 @@
         1800
       ],
       "intercept_count": 1,
+      "id": 153,
+      "intercept_id": 156,
       "speed": 50,
       "hp_growth": [
         1075
@@ -2751,11 +2874,14 @@
           35
         ],
         "reload": [],
+        "id": 135,
         "spread_angle": null,
         "name": "Unnamed Armament (Torpedo)",
+        "barrage_id": 2110,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 1,
+        "bullet_id": 2111,
         "ammo": 4,
         "spread": [
           0,
@@ -2782,6 +2908,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 154,
       "speed": 48,
       "hp_growth": [
         973
@@ -2840,11 +2967,14 @@
           10
         ],
         "reload": [],
+        "id": 139,
         "spread_angle": null,
         "name": "Unnamed Armament (Bomb)",
+        "barrage_id": 2120,
         "stat": "avi",
         "ratio": 1,
         "aim_type": 0,
+        "bullet_id": 2125,
         "ammo": 6,
         "spread": [
           42,
@@ -2871,6 +3001,7 @@
       ],
       "count": 1,
       "is_interceptor": false,
+      "id": 155,
       "speed": 46,
       "hp_growth": [
         1126
@@ -2930,10 +3061,13 @@
         50,
         200
       ],
+      "id": 158,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1300,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 1351,
       "armor_mod": [
         1.4,
         1.1,
@@ -3014,10 +3148,13 @@
         0,
         60
       ],
+      "id": 201,
       "spread_angle": "15° Random Aim",
+      "barrage_id": 1007,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 1006,
       "armor_mod": [
         1.2,
         0.6,
@@ -3098,10 +3235,13 @@
         0,
         52
       ],
+      "id": 211,
       "spread_angle": "15° Random Aim",
+      "barrage_id": 1007,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 1100,
       "armor_mod": [
         1,
         0.5,
@@ -3182,10 +3322,13 @@
         0,
         55
       ],
+      "id": 221,
       "spread_angle": "15° Random Aim",
+      "barrage_id": 1007,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 1206,
       "armor_mod": [
         1.2,
         0.6,
@@ -3266,10 +3409,13 @@
         0,
         60
       ],
+      "id": 231,
       "spread_angle": "15° Random Aim",
+      "barrage_id": 1007,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 1303,
       "armor_mod": [
         0.9,
         0.7,
@@ -3350,10 +3496,13 @@
         0,
         60
       ],
+      "id": 251,
       "spread_angle": "15° Random Aim",
+      "barrage_id": 1007,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 2306,
       "armor_mod": [
         1.2,
         0.6,
@@ -3434,10 +3583,13 @@
         0,
         60
       ],
+      "id": 261,
       "spread_angle": "15° Random Aim",
+      "barrage_id": 1007,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 1006,
       "armor_mod": [
         1.2,
         0.6,
@@ -3518,10 +3670,13 @@
         0,
         55
       ],
+      "id": 271,
       "spread_angle": "15° Random Aim",
+      "barrage_id": 1007,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 2206,
       "armor_mod": [
         1.2,
         0.6,
@@ -3602,10 +3757,13 @@
         0,
         60
       ],
+      "id": 301,
       "spread_angle": "25° Random Aim",
+      "barrage_id": 1003,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 1006,
       "armor_mod": [
         1.2,
         0.6,
@@ -3686,10 +3844,13 @@
         0,
         52
       ],
+      "id": 311,
       "spread_angle": "25° Random Aim",
+      "barrage_id": 1003,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 1100,
       "armor_mod": [
         1,
         0.5,
@@ -3770,10 +3931,13 @@
         0,
         55
       ],
+      "id": 321,
       "spread_angle": "25° Random Aim",
+      "barrage_id": 1003,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 1206,
       "armor_mod": [
         1.2,
         0.6,
@@ -3854,10 +4018,13 @@
         0,
         60
       ],
+      "id": 331,
       "spread_angle": "25° Random Aim",
+      "barrage_id": 1003,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 1303,
       "armor_mod": [
         0.9,
         0.7,
@@ -3938,10 +4105,13 @@
         0,
         60
       ],
+      "id": 351,
       "spread_angle": "25° Random Aim",
+      "barrage_id": 1003,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 2306,
       "armor_mod": [
         1.2,
         0.6,
@@ -4022,10 +4192,13 @@
         0,
         60
       ],
+      "id": 371,
       "spread_angle": "25° Random Aim",
+      "barrage_id": 1003,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 2206,
       "armor_mod": [
         1.2,
         0.6,
@@ -4107,10 +4280,13 @@
         0,
         60
       ],
+      "id": 391,
       "spread_angle": "25° Random Aim",
+      "barrage_id": 1003,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 1700,
       "armor_mod": [
         1,
         0.55,
@@ -4182,10 +4358,13 @@
         0,
         90
       ],
+      "id": 430,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1001,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 19397,
       "armor_mod": [
         1,
         0.8,
@@ -4257,10 +4436,13 @@
         0,
         90
       ],
+      "id": 431,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1001,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 19148,
       "armor_mod": [
         1,
         1,
@@ -4333,10 +4515,13 @@
         0,
         65
       ],
+      "id": 432,
       "spread_angle": "10° Cone Pattern",
+      "barrage_id": 1026,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 19149,
       "armor_mod": [
         1,
         1,
@@ -4409,10 +4594,13 @@
         0,
         90
       ],
+      "id": 436,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1001,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 19247,
       "armor_mod": [
         1,
         1,
@@ -4485,10 +4673,13 @@
         0,
         25
       ],
+      "id": 437,
       "spread_angle": "0° No Spread",
+      "barrage_id": 2000,
       "stat": "aa",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 2000,
       "armor_mod": [
         1,
         1,
@@ -4560,10 +4751,13 @@
         0,
         90
       ],
+      "id": 438,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1001,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 19327,
       "armor_mod": [
         1.35,
         0.95,
@@ -4636,10 +4830,13 @@
         0,
         90
       ],
+      "id": 439,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1001,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 19542,
       "armor_mod": [
         1,
         1,
@@ -4710,10 +4907,13 @@
         0,
         105
       ],
+      "id": 446,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1001,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 19556,
       "armor_mod": [
         1,
         1,
@@ -4786,10 +4986,13 @@
         0,
         90
       ],
+      "id": 447,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1001,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 19247,
       "armor_mod": [
         1,
         1,
@@ -4862,10 +5065,13 @@
         0,
         50
       ],
+      "id": 448,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1400,
       "stat": "trp",
       "ratio": 1,
       "aim_type": 0,
+      "bullet_id": 1800,
       "armor_mod": [
         0.8,
         1,
@@ -4938,10 +5144,13 @@
         0,
         90
       ],
+      "id": 465,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1001,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 2206,
       "armor_mod": [
         1.2,
         0.6,
@@ -5014,10 +5223,13 @@
         8,
         50
       ],
+      "id": 468,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1801,
       "stat": "asw",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 1816,
       "armor_mod": [
         1,
         0.65,
@@ -5087,10 +5299,13 @@
         0,
         15
       ],
+      "id": 470,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1804,
       "stat": "asw",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 1812,
       "armor_mod": [
         1,
         0.5,
@@ -5162,10 +5377,13 @@
         0,
         38
       ],
+      "id": 472,
       "spread_angle": "0° No Spread",
+      "barrage_id": 2000,
       "stat": "aa",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 2000,
       "armor_mod": [
         1,
         1,
@@ -5233,10 +5451,13 @@
         0,
         65
       ],
+      "id": 491,
       "spread_angle": "0° No Spread",
+      "barrage_id": 164761,
       "stat": "avi",
       "ratio": 0.8,
       "aim_type": 1,
+      "bullet_id": 1710,
       "armor_mod": [
         1,
         0.55,
@@ -5308,10 +5529,13 @@
         8,
         50
       ],
+      "id": 492,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1801,
       "stat": "asw",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 1816,
       "armor_mod": [
         1,
         0.65,
@@ -5408,10 +5632,13 @@
         0,
         80
       ],
+      "id": 62351,
       "spread_angle": "15° Random Aim",
+      "barrage_id": 1021,
       "stat": "aa",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 19656,
       "armor_mod": [
         1.2,
         0.6,
@@ -5506,10 +5733,13 @@
         0,
         10
       ],
+      "id": 62431,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1804,
       "stat": "asw",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 19454,
       "armor_mod": [
         1,
         0.5,
@@ -5604,10 +5834,13 @@
         0,
         100
       ],
+      "id": 62531,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1001,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 19423,
       "armor_mod": [
         1,
         1,
@@ -5703,10 +5936,13 @@
         0,
         30
       ],
+      "id": 65861,
       "spread_angle": "0° No Spread",
+      "barrage_id": 2000,
       "stat": "aa",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 2000,
       "armor_mod": [
         1,
         1,
@@ -5801,10 +6037,13 @@
         0,
         80
       ],
+      "id": 160861,
       "spread_angle": "0° No Spread",
+      "barrage_id": 80293,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 19700,
       "armor_mod": [
         1,
         1,
@@ -5900,10 +6139,13 @@
         0,
         30
       ],
+      "id": 161471,
       "spread_angle": "0° No Spread",
+      "barrage_id": 2000,
       "stat": "aa",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 2000,
       "armor_mod": [
         1,
         1,
@@ -5998,10 +6240,13 @@
         0,
         100
       ],
+      "id": 163001,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1001,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 19423,
       "armor_mod": [
         1,
         1,
@@ -6097,10 +6342,13 @@
         0,
         30
       ],
+      "id": 163791,
       "spread_angle": "0° No Spread",
+      "barrage_id": 2000,
       "stat": "aa",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 2000,
       "armor_mod": [
         1,
         1,
@@ -6168,10 +6416,13 @@
         0,
         55
       ],
+      "id": 164811,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1028,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 2312,
       "armor_mod": [
         0.95,
         0.95,
@@ -6240,10 +6491,13 @@
         0,
         55
       ],
+      "id": 164811,
       "spread_angle": "0° No Spread",
+      "barrage_id": 1001,
       "stat": "fp",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 2312,
       "armor_mod": [
         0.95,
         0.95,
@@ -6339,10 +6593,13 @@
         0,
         30
       ],
+      "id": 165031,
       "spread_angle": "0° No Spread",
+      "barrage_id": 2000,
       "stat": "aa",
       "ratio": 1,
       "aim_type": 1,
+      "bullet_id": 2000,
       "armor_mod": [
         1,
         1,

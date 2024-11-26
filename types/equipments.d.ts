@@ -63,12 +63,14 @@ export interface ExtendedWeapon extends WeaponBase {
     volley_info: number[]
     spread_angle: string | null
     aim_type: AimType
+    barrage_id: number
+    bullet_id: number
 }
 
 export interface Aircraft extends ReloadableWeapon {
     id: number
-    intercept_id: number
     is_interceptor: boolean
+    intercept_id?: number
     intercept_reload?: number[]
     intercept_count?: number
     speed: number

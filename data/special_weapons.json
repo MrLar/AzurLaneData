@@ -55,10 +55,13 @@
       0,
       68
     ],
+    "id": 450,
     "spread_angle": "18° Random Aim",
+    "barrage_id": 1110,
     "stat": "fp",
     "ratio": 1,
     "aim_type": 1,
+    "bullet_id": 19554,
     "armor_mod": [
       1.45,
       1.05,
@@ -138,10 +141,13 @@
       0,
       42
     ],
+    "id": 455,
     "spread_angle": "48° Cone Pattern",
+    "barrage_id": 1403,
     "stat": "trp",
     "ratio": 1,
     "aim_type": 1,
+    "bullet_id": 19555,
     "armor_mod": [
       0.8,
       1,
@@ -221,10 +227,13 @@
       0,
       28
     ],
+    "id": 460,
     "spread_angle": "0° No Spread",
+    "barrage_id": 2000,
     "stat": "aa",
     "ratio": 1,
     "aim_type": 1,
+    "bullet_id": 2000,
     "armor_mod": [
       1,
       1,
@@ -244,7 +253,7 @@
     ],
     "angle": 360,
     "volley_info": [
-      2,
+      1,
       1
     ]
   },
@@ -304,10 +313,13 @@
       0,
       42
     ],
+    "id": 466,
     "spread_angle": "48° Cone Pattern",
+    "barrage_id": 1403,
     "stat": "trp",
     "ratio": 1,
     "aim_type": 1,
+    "bullet_id": 1803,
     "armor_mod": [
       0.8,
       1,
@@ -387,10 +399,13 @@
       0,
       28
     ],
+    "id": 467,
     "spread_angle": "0° No Spread",
+    "barrage_id": 2000,
     "stat": "aa",
     "ratio": 1,
     "aim_type": 1,
+    "bullet_id": 2000,
     "armor_mod": [
       1,
       1,
@@ -410,7 +425,7 @@
     ],
     "angle": 360,
     "volley_info": [
-      2,
+      1,
       1
     ]
   }
