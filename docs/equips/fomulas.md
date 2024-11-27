@@ -72,7 +72,7 @@ AAModifier is increased by \\(0.1\\).
 Start wirth \\(AfterMod\\) and:
 
 - Compute all DamageRatioBullet buffs (\\(TotalDRB\\)):
-    - These are multiplicative.
+    - These are additive.
     - More Info can be found on the [wiki](https://azurlane.koumakan.jp/wiki/Damage_Calculations)
 - Compute all InjureRatio debuffs on the enemy (\\(TotalInjureRatio\\)):
     - These are multiplicative.
@@ -90,6 +90,7 @@ Start wirth \\(AfterMod\\) and:
   the [Level Advantage Modifer](https://azurlane.koumakan.jp/wiki/Damage_Calculations#Level_Advantage) (\\(LvlAdvantage\\))
 - Compute
   the [Threat Level Modifer](https://azurlane.koumakan.jp/wiki/Damage_Calculations#Threat_Level) (\\(ThreatModifier\\))
+  - Only relevant/applied to your own ships, effectively reduces damage taken.
 - Once you have those value evaluate:
   \\(AfterBuffs = AfterMod \times TotalDRB \times TotalDRT \times TotalInjureRatio \times TotalHunter \times LvlAdvantage \times ThreatModifier\\).
 - If the shot is manually aimed:
@@ -102,7 +103,7 @@ Start wirth \\(AfterMod\\) and:
     - \\(AfterBuffs = AfterBuffs \times CritMod\\)
 - The final result is the damage dealt by a *single* bullet.
 
-## Accounting for all bulelts and mounts
+## Accounting for all bullets and mounts
 
 Assuming all shots/bullets/mounts/etc. are affected by the same buffs:
  - Simply multiply the above result by the [\\(base\\) of the slot](../ships/index.md#ship-slot-data),
