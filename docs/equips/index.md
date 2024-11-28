@@ -83,7 +83,8 @@ following:
 | **volley_info**  |       `number[]`       | Amount of volleys (index 0) and amount of shells per volley (index 1). |
 | **spread_angle** |        `string`        |            Textual description of the weapon spread angle.             |
 |   **aim_type**   | [`AimType`](#aim-type) |                      The aim type of the weapon.                       |
-
+|  **barrage_id**  |        `number`        |           The ID of the (first) barrage used by this weapon.           |
+|  **bullet_id**   |        `number`        |           The ID of the (first) bullet used by this weapon.            |
 # Ammo Type
 
 Ammo Type is a numeric value with the **two** ranges `[0, 8]` and `[100, 101]` 

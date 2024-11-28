@@ -41974,5 +41974,33 @@
         "name": "Iridescent Fantasy"
       }
     ]
+  },
+  "9999999104": {
+    "id": 9999999104,
+    "name": "Neon Battle UI",
+    "description": "The Neon themed Battle UI",
+    "type": 97,
+    "icon": "props/ui_104",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 20 (Paid Only)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 104,
+        "type": 99,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": false,
+        "rarity": 5,
+        "icon": "uipreview/104",
+        "name": "Iridescent Fantasy"
+      }
+    ]
   }
 }
