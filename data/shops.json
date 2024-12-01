@@ -3200,7 +3200,8 @@
         "name": "Sparkling Mic",
         "limit": 1,
         "cost": 2000,
-        "use_alt": 0
+        "use_alt": 0,
+        "limit_type": 1
       },
       {
         "id": 59762,
@@ -3213,7 +3214,8 @@
         "name": "The Warrior's Prowess",
         "limit": 1,
         "cost": 2000,
-        "use_alt": 0
+        "use_alt": 0,
+        "limit_type": 1
       },
       {
         "id": 59844,
@@ -3226,7 +3228,8 @@
         "name": "Seal of the Azure Dragon",
         "limit": 1,
         "cost": 1000,
-        "use_alt": 0
+        "use_alt": 0,
+        "limit_type": 1
       },
       {
         "id": 59845,
@@ -3239,7 +3242,8 @@
         "name": "Seal of the White Tiger",
         "limit": 1,
         "cost": 1000,
-        "use_alt": 0
+        "use_alt": 0,
+        "limit_type": 1
       },
       {
         "id": 59843,
@@ -3252,7 +3256,8 @@
         "name": "Eau de Barbecue",
         "limit": 1,
         "cost": 2000,
-        "use_alt": 0
+        "use_alt": 0,
+        "limit_type": 1
       },
       {
         "id": 14001,
@@ -6718,6 +6723,19 @@
         "limit_type": 1
       },
       {
+        "id": 300010,
+        "type": 2,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 4,
+        "icon": "ships/compact/shancheng_alter",
+        "name": "Yamashiro META",
+        "limit": 1,
+        "cost": 60,
+        "limit_type": 1
+      },
+      {
         "id": 21005,
         "type": 0,
         "linkable": true,
@@ -6752,6 +6770,19 @@
         "blueprint": false,
         "icon": "props/21008",
         "name": "META Crystal - Junyou",
+        "limit": 4,
+        "cost": 30,
+        "limit_type": 1
+      },
+      {
+        "id": 21010,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/21010",
+        "name": "META Crystal - Yamashiro",
         "limit": 4,
         "cost": 30,
         "limit_type": 1
@@ -7177,6 +7208,19 @@
         "limit_type": 1
       },
       {
+        "id": 107067,
+        "type": 3,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "ships/compact/qiye_8",
+        "name": "Bon Voyage",
+        "limit": 1,
+        "cost": 880,
+        "limit_type": 1
+      },
+      {
         "id": 2001,
         "type": 4,
         "linkable": true,
@@ -7230,6 +7274,66 @@
         "blueprint": false,
         "icon": "equips/96151",
         "name": "Planet Cluster",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
+      },
+      {
+        "id": 2005,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96152",
+        "name": "Satellite Moon",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
+      },
+      {
+        "id": 2006,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96113",
+        "name": "Gemini Shell",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
+      },
+      {
+        "id": 2007,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96153",
+        "name": "Butterfly Nebula",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
+      },
+      {
+        "id": 2008,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96122",
+        "name": "Oumuamua Torpedo",
         "limit": 9,
         "cost": 100,
         "limit_group": 1,
