@@ -6032,6 +6032,869 @@
     "icon": "hao",
     "type": 1
   },
+  "40404": {
+    "id": 40404,
+    "name": "Lützow ",
+    "topics": [
+      {
+        "id": 38,
+        "name": "Oversleeping",
+        "unlock": {
+          "type": 1,
+          "ship_id": 544
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 1403,
+            "text": "hey, commander",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 1404,
+            "text": "the secretary work shift has ended, hasn't it?",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 1405,
+            "text": "and there shouldn't be any important work to do",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 1406,
+            "text": "so if you don't mind i'm gonna have myself a nap",
+            "user": 40404,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "There IS important work."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 1407,
+            "text": "There IS important work. We need to organize the list of supplies.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1408,
+            "text": "ohh right, that",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1409,
+            "text": "but you've already started on that sooo...",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1410,
+            "text": "i don't need to get involved, do i?",
+            "user": 40404,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Yes, you do."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 1411,
+            "text": "Yes, you do. It's your duty as the secretary.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1412,
+            "text": "come ooon don't be such a stickler...",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1413,
+            "text": "just thinking about the numbers on that list... ugh it's giving me a headache",
+            "user": 40404,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "Are you still in bed?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 1414,
+            "text": "You're still lying in bed, aren't you?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1415,
+            "text": "guilty as charged...",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1416,
+            "text": "what can i say? i'm snug as a bug",
+            "user": 40404,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Get over here already!"
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 1417,
+            "text": "Get over here already! There are piles of paperwork to do!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 1418,
+            "text": "aww you really can't handle it by yourself?",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 1419,
+            "text": "well fine, if you want my help that badly...",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 1420,
+            "text": "but first! i'm gonna go get changed then i'll be right there!",
+            "user": 40404,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "Just don't go right back to sleep."
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 1421,
+            "text": "Just don't go right back to sleep.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 1422,
+            "text": "i won't, i won't",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 1423,
+            "text": "uhh can you give me like 30 minutes?",
+            "user": 40404,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "You have 10."
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 1424,
+            "text": "You have 10. Please be here before then.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 1425,
+            "text": "geesh someone's awfully strict...",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 1426,
+            "text": "part3_cl",
+            "user": 40404,
+            "type": 4,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Meeting Spot",
+        "unlock": {
+          "type": 2,
+          "ship_id": 544,
+          "affinity": 100
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 1427,
+            "text": "guess what, commander",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 1428,
+            "text": "i went for a walk after dinner right, and i found a pretty nice spot",
+            "user": 40404,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Oh boy, let me guess..."
+              },
+              {
+                "option_id": 2,
+                "text": "it's a place where you can smell the sea breeze and it's sooo comfy"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 1429,
+            "text": "Let me guess... Another place for you to slack off?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1430,
+            "text": "nope",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1431,
+            "text": "it's a place where you can smell the sea breeze and it's sooo comfy",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1432,
+            "text": "A walk? At this hour? You should watch yourself.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1433,
+            "text": "don't say that... you're scaring me...",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1434,
+            "text": "it's just a place i happened to come across",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1435,
+            "text": "it's got a great view, you don't love it",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 1436,
+            "text": "ooh! i just saw a shooting star",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 1437,
+            "text": "haiwangxing",
+            "user": 40404,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "It's late. You should come back."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 1438,
+            "text": "It's late. You should come back and sleep.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1439,
+            "text": "lafei",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1440,
+            "text": "yeah i dunno, this sea breeze is just so nice i think it'll keep me up all night!",
+            "user": 40404,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "That's just because you slept in the noon."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 1441,
+            "text": "That's just because you slept in the noon.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 1442,
+            "text": "I guess you'll just have to wander around the whole night, huh?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 1443,
+            "text": "owch, that's a mean way of putting it...",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 1444,
+            "text": "oh, i know",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 1445,
+            "text": "you should come here. who knows, another shooting star might appear?",
+            "user": 40404,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "I'll pass."
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 1446,
+            "text": "It's too late for me. I'll pass.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 1447,
+            "text": "I have work to do tomorrow.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 1448,
+            "text": "work this, work that...",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 1449,
+            "text": "fine, i'll just watch the stars solo!",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 1450,
+            "text": "and if you miss out on seeing any shooting stars...",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 1451,
+            "text": "well, you only have yourself to blame",
+            "user": 40404,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "Fine, I'm coming..."
+              },
+              {
+                "option_id": 7,
+                "text": "We can do it tomorrow instead."
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 1452,
+            "text": "Fine. You really leave me no choice.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 1453,
+            "text": "I'm coming. I'll bring a coat for you.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 1454,
+            "text": "We can watch the stars tomorrow instead. Come home for tonight.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 1455,
+            "text": "there's no guarantee there'll be any shooting stars tomorrow...",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 1456,
+            "text": "plus you just HAVE to experience how nice this breeze is",
+            "user": 40404,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 8,
+                "text": "Fine, I'll come..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 8,
+            "id": 1457,
+            "text": "Fine, I'm coming...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 1458,
+            "text": "heh. i knew you would",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 1459,
+            "text": "waiting for you at the usual spot",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "How to Arrange a Date",
+        "unlock": {
+          "type": 2,
+          "ship_id": 544,
+          "affinity": 150
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 1460,
+            "text": "oops!",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 1461,
+            "text": "part2_brcr",
+            "user": 40404,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "What's up?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 1462,
+            "text": "What's up?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1463,
+            "text": "yeah uh, about your task list...",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1464,
+            "text": "i might've accidentally erased it",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1465,
+            "text": "part2_brcr",
+            "user": 40404,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Not again…"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 1466,
+            "text": "Not again...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1467,
+            "text": "What's your excuse this time?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1468,
+            "text": "silly, you already know why",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1469,
+            "text": "because you've been sick with too-busy disease lately",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1470,
+            "text": "and the doctor's orders were to get rid of all your lame work",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1471,
+            "text": "besides, you can just do it tomorrow, right?",
+            "user": 40404,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "It doesn't work like that…"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 1472,
+            "text": "It doesn't work like that...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1473,
+            "text": "Sure, I can postpone it if it's not urgent, but I have documents I need to finish before the day's end.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1474,
+            "text": "I need to get my schedule back in order...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1475,
+            "text": "don't bother, you'd just be wasting your time",
+            "user": 40404,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "What do you mean?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 1476,
+            "text": "What do you mean?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 1477,
+            "text": "those urgent papers of yours? i've already processed them for you",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 1478,
+            "text": "that means i get to decide how you spend this day",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 1479,
+            "text": "word of advice? accept your fate, heheh",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 1480,
+            "text": "you've got some catching up to do for not slacking off with me",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 1481,
+            "text": "part2_crb",
+            "user": 40404,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "Okay... What are you planning?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 1482,
+            "text": "Okay... What are you planning?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 1483,
+            "text": "hmm... well, i'm at this cafe in the shopping district right now",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 1484,
+            "text": "ordered some tiramisu and a cup of coffee and man, they're so good",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 1485,
+            "text": "buuut... sitting here alone, it just feels like something's missing",
+            "user": 40404,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "Was this your plan from the very start?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 1486,
+            "text": "Was this your plan from the very start?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 1487,
+            "text": "maybe. there's an open seat for you, you know...",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 1488,
+            "text": "i'm getting kinda sleepy now... you gotta be quick...",
+            "user": 40404,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 7,
+                "text": "I'll be right there."
+              }
+            ]
+          },
+          {
+            "choosen_option": 7,
+            "id": 1489,
+            "text": "I'll be right there.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 1490,
+            "text": "heheh, i knew you'd say that",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 1491,
+            "text": "i'll wait for you and try to keep my sleepiness at bay",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 1492,
+            "text": "and as a reminder... desserts today are on you!",
+            "user": 40404,
+            "type": 1,
+            "options": []
+          }
+        ]
+      }
+    ],
+    "icon": "lvzuofu",
+    "type": 1
+  },
   "40503": {
     "id": 40503,
     "name": "U.V.Hutten",

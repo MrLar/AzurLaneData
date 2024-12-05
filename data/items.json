@@ -548,12 +548,12 @@
   "2057": {
     "id": 2057,
     "name": "Classified Files Mission Logger X8",
-    "description": "Purchasing this item will grant you access to new zones",
+    "description": "Purchasing this item will grant you access to new zones where you can complete File Missions to unlock confidential files. The X8 can only be purchased once, and you cannot purchase another Classified Files Mission Logger until you've completed all of its associated missions.",
     "type": 100,
     "icon": "props/wdanganluopan8",
     "rarity": 5,
     "locations": [
-      "Unobtainable"
+      "OpSi Exchange Shop"
     ],
     "servers": [
       "EN",
@@ -41869,7 +41869,7 @@
     "description": "The classic default Battle UI",
     "type": 97,
     "icon": "icons/ui_0",
-    "rarity": 5,
+    "rarity": 3,
     "locations": [
       "Default"
     ],
@@ -41897,7 +41897,7 @@
     "description": "The new default Battle UI",
     "type": 97,
     "icon": "icons/ui_101",
-    "rarity": 5,
+    "rarity": 3,
     "locations": [
       "Default"
     ],
@@ -41925,7 +41925,7 @@
     "description": "The Cyber themed Battle UI",
     "type": 97,
     "icon": "props/ui_102",
-    "rarity": 5,
+    "rarity": 4,
     "locations": [
       "Cruise Pass Season 19 (Paid Only)"
     ],
@@ -41981,7 +41981,7 @@
     "description": "The Neon themed Battle UI",
     "type": 97,
     "icon": "props/ui_104",
-    "rarity": 5,
+    "rarity": 4,
     "locations": [
       "Cruise Pass Season 20 (Paid Only)"
     ],
@@ -41999,7 +41999,7 @@
         "linkable": false,
         "rarity": 5,
         "icon": "uipreview/104",
-        "name": "Iridescent Fantasy"
+        "name": "Neon"
       }
     ]
   }

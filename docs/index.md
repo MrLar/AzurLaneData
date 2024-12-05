@@ -85,7 +85,7 @@ Please refer to the documentation of each individual icon prop on where to find 
 global things refer to the below list:
 
 - All nations are available under `https://al.mrlar.dev/icons/nation/<nation>.webp`.    
-- Some ammo icons are available under `https://al.mrlar.dev/icons/ammo/<nation>.webp`.    
+- Some ammo icons are available under `https://al.mrlar.dev/icons/ammo/<ammo id>.webp`.    
 - Equipment Labels are available under `https://al.mrlar.dev/icons/equiplabel/<label id>.webp`.
   - Note that label id does not equal equipment type neccesarily.   
 -  All hulls are available under `https://al.mrlar.dev/icons/hulls/<hull>.webp`. 
