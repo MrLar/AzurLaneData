@@ -3178,12 +3178,12 @@
     "skill": {
       "name": "Fantastical Plunder",
       "descriptions": [
-        "{Decreases your Vanguard's DMG taken based on the Directives stat (also works when assigned to a sub fleet).|In game states that an IX has to be present and does not mention it works from a sub fleet.}",
+        "When assigned to a fleet with at least 1 IX: decreases your Vanguard's DMG taken based on the Directives stat. {(also works when assigned to a sub fleet).|Game does not mention it works from a sub fleet.}",
         "When assigned as the Command Cat: increases your whole fleet's FP by a moderate amount based on the Tactics stat.",
         "Once per battle, when the HP of a ship in your fleet falls below 30.0% as a result of DMG taken: restores 5.0% of that ship's HP."
       ],
       "opsi_descriptions": [
-        "{Decreases your Vanguard's DMG taken based on the Directives stat (also works when assigned to a sub fleet).|In game states that an IX has to be present and does not mention it works from a sub fleet.}",
+        "When assigned to a fleet with at least 1 IX: decreases your Vanguard's DMG taken based on the Directives stat. {(also works when assigned to a sub fleet).|Game does not mention it works from a sub fleet.}",
         "When assigned as the Command Cat: increases your whole fleet's FP by a moderate amount based on the Tactics stat.",
         "Once per battle, when the HP of a ship in your fleet falls below 30.0% as a result of DMG taken: restores 5.0% of that ship's HP."
       ],
