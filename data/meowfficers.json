@@ -158,7 +158,7 @@
             {
               "stat": "damage",
               "meow_stat": "command",
-              "amount": 8
+              "amount": 12
             }
           ]
         },
@@ -615,12 +615,12 @@
       "descriptions": [
         "When assigned as the Staff Cat: increases the FP and AA of your BBs, BCs, and BBVs by a moderate amount based on the Directives stat.",
         "When assigned as the Staff Cat and when in a coastal battle (i.e. fighting on a tile adjacent to impassable land): increases the entire fleet's FP by a moderate amount based on the Tactics stat.",
-        "Increases the DMG your BBs, BCs, and BBVs deal based on the Tactics stat."
+        "{Increase your whole fleet's DMG dealt against BB, BC and BBV enemies based on the Tactics stat.|Game incorrectly states your BB/BC/BBVs deal more damage against all enemies.}"
       ],
       "opsi_descriptions": [
         "When assigned as the Staff Cat: increases the FP and AA of your BBs, BCs, and BBVs by a moderate amount based on the Directives stat.",
         "When assigned as the Staff Cat: for 30s after the battle starts, increases your entire fleet's FP by a moderate amount based on the Tactics stat.",
-        "Increases the DMG your BBs, BCs, and BBVs deal based on the Tactics stat."
+        "{Increase your whole fleet's DMG dealt against BB, BC and BBV enemies based on the Tactics stat.|Game incorrectly states your BB/BC/BBVs deal more damage against all enemies.}"
       ],
       "icon": 20011,
       "id": 20011,
@@ -648,14 +648,14 @@
         null,
         {
           "slot": 1,
-          "hulls": [
-            4,
-            5,
-            10
-          ],
           "stats": [
             {
               "stat": "damage",
+              "against_hulls": [
+                4,
+                5,
+                10
+              ],
               "meow_stat": "tactics",
               "amount": 4
             }
@@ -686,14 +686,14 @@
         null,
         {
           "slot": 1,
-          "hulls": [
-            4,
-            5,
-            10
-          ],
           "stats": [
             {
               "stat": "damage",
+              "against_hulls": [
+                4,
+                5,
+                10
+              ],
               "meow_stat": "tactics",
               "amount": 4
             }
