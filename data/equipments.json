@@ -91022,10 +91022,7 @@
       "Triple 305mm (SK C/39 Prototype)",
       "Odin Gun",
       "Prototype Triple 305",
-      "Triple 305 SKC",
-      "Ägir Gun",
-      "Aegir Gun",
-      "Agir Gun"
+      "Triple 305 SKC"
     ],
     "servers": [
       "EN",
@@ -91172,7 +91169,10 @@
     "obtainable": true,
     "important": true,
     "aliases": [
-      "Triple 305mm (SK C/39 Prototype)"
+      "Triple 305mm (SK C/39 Prototype)",
+      "Ägir Gun",
+      "Aegir Gun",
+      "Agir Gun"
     ],
     "servers": [
       "EN",
@@ -122948,6 +122948,54 @@
       "EN",
       "JP",
       "CN"
+    ]
+  },
+  "150580": {
+    "icon": "150580",
+    "id": 150580,
+    "name": "Precious Handkerchief",
+    "rarity": 4,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60800
+    ],
+    "nation": 1,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 11,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          200,
+          230,
+          260,
+          290,
+          320,
+          350,
+          380,
+          410,
+          440,
+          470,
+          500,
+          530
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP"
     ]
   }
 }

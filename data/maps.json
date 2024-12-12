@@ -42716,6 +42716,36 @@
     "type": 9,
     "id": 1385
   },
+  "meta_show_255_295255": {
+    "name": "Meta Showdown: Taihou META",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "hull": 7,
+      "nation": 97,
+      "name": "Taihou META",
+      "stats": {
+        "hp": 1600000,
+        "fp": 242,
+        "trp": 0,
+        "avi": 492,
+        "aa": 346,
+        "hit": 110,
+        "eva": 75,
+        "spd": 20,
+        "luck": 50,
+        "armor": 2
+      },
+      "level": 126,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "dafeng_alter"
+    },
+    "buffs": [],
+    "type": 9,
+    "id": 1487
+  },
   "guild_70002": {
     "name": "Guild Boss: Explorer I",
     "acv": -1,

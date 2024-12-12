@@ -3888,6 +3888,22 @@
     ],
     "contains": []
   },
+  "21041": {
+    "id": 21041,
+    "name": "META Crystal - Taihou META",
+    "description": "An item that increases the potential of Taihou META. Used in the META Lab during Somatic Activation.",
+    "type": 4,
+    "icon": "props/21041",
+    "rarity": 5,
+    "locations": [
+      "META Showdown"
+    ],
+    "servers": [
+      "EN",
+      "JP"
+    ],
+    "contains": []
+  },
   "21101": {
     "id": 21101,
     "name": "Crystallized Heat-Resistant Steel",
@@ -38682,7 +38698,7 @@
   "59559": {
     "id": 59559,
     "name": "Selection Gear Skin Box (Cruise Missions)",
-    "description": "Can be opened to receive 1 Power of the Stars or Magical Wonders-themed gear skin of your choosing.",
+    "description": "Can be used to receive 1 gear skin of your choosing from the Power of the Stars or the Magical Wonders set. Note: You may only possess up to 9 copies of any given gear skin.",
     "type": 13,
     "icon": "props/appearanceboxshijiexunyou",
     "rarity": 5,
