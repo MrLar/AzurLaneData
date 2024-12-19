@@ -49808,7 +49808,7 @@
     ]
   },
   "150730": {
-    "description": "Every 20s: deploys 2 shields (lasting $1s) that can negate up to 6 enemy shells. When the battle starts, if there is another Iron Blood ship in your Vanguard: increases your Vanguard's FP by $2 and TRP by $3 until the battle ends.",
+    "description": "Every 20s: deploys 2 shields (lasting $1s) that can negate up to 6 enemy shells. When the battle starts, if there is another Iron Blood ship in your Vanguard: increases your Vanguard's FP by $2 and TRP by $2 until the battle ends.",
     "opsi_description": null,
     "name": "Shocking Shield",
     "max": 10,
@@ -49914,7 +49914,7 @@
   },
   "150760": {
     "description": "Every 10s: fires a $2 special barrage (DMG is based on the skill's level).\n If this ship has a CL Main Gun equipped in her third weapon slot: sets that CL Main Gun's Detection Range and Range to $1 and makes its shells penetrate enemy shields. \nThis ship gains a special CA Main Gun. When this CA Main Gun hits the same enemy 8 times: increases that enemy's DMG taken by 8.0%.",
-    "opsi_description": "Every 10s: fires a $2 special barrage (DMG is based on the skill's level).\nIf this ship has a CL Main Gun equipped in her third weapon slot: sets that CL Main Gun's Detection Range and Range to $1 and makes its shells penetrate enemy shields. \nThis ship gains a special CA Main Gun. When this CA Main Gun hits the same enemy 8 times: increases that enemy's DMG taken by 8.0%.",
+    "opsi_description": "Every 10s: fires a $2 special barrage (DMG is based on the skill's level).\nIf this ship has a CL Main Gun equipped in her third weapon slot: sets that CL Main Gun's Detection Range and Range to $1 and makes its shells penetrate enemy shields. \nThis ship gains a special CA Main Gun. When this CA Main Gun hits the same enemy 8 times: increases that enemy's DMG taken by 8.0% (this effect is unaffected by the Tolls of War debuff).",
     "name": "Ruinous Blade of the Slayer",
     "max": 10,
     "id": 150760,
@@ -54838,7 +54838,7 @@
   },
   "801561": {
     "description": "Every 9 times this ship fires her Main Guns: fires a special barrage.",
-    "opsi_description": "Every 9 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases your META ships' DMG taken by 3.0%",
+    "opsi_description": "Every 9 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 3.0%.",
     "name": "Cinders of Hope - Admiral Hipper I",
     "max": 1,
     "id": 801561,

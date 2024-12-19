@@ -5574,80 +5574,6 @@
       "CN"
     ]
   },
-  "503": {
-    "icon": "default_3",
-    "id": 503,
-    "name": "CA Ghost Gun (Fritz Rumey)",
-    "rarity": 2,
-    "tech": 0,
-    "type": 3,
-    "description": "",
-    "skills": [],
-    "nation": 4,
-    "limit_group": 0,
-    "hull_restriction": [],
-    "max": 0,
-    "armaments": null,
-    "weapon": {
-      "aircraft": false,
-      "reload": [
-        600
-      ],
-      "damage": [
-        53
-      ],
-      "coefficient": [
-        1
-      ],
-      "count": 8,
-      "delay": 0.1,
-      "range": [
-        0,
-        120
-      ],
-      "id": 503,
-      "spread_angle": "6° Random Aim",
-      "barrage_id": 167015,
-      "stat": "fp",
-      "ratio": 1,
-      "aim_type": 1,
-      "bullet_id": 167016,
-      "armor_mod": [
-        0.85,
-        1.2,
-        0.85
-      ],
-      "ammo": 2,
-      "spread": [
-        0,
-        0
-      ],
-      "splash": 0,
-      "velocity": 28,
-      "pierce": 1,
-      "shell_range": [
-        190,
-        210
-      ],
-      "angle": 360,
-      "volley_info": [
-        2,
-        4
-      ]
-    },
-    "stats": [],
-    "labels": [],
-    "speciality": "",
-    "equippable_main": [],
-    "equippable_sub": [],
-    "obtainable": false,
-    "important": false,
-    "servers": [
-      "EN",
-      "JP",
-      "CN"
-    ]
-  },
   "11240": {
     "icon": "default_1",
     "id": 11240,
@@ -6910,6 +6836,80 @@
     "stats": [],
     "labels": [],
     "speciality": "",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "180000": {
+    "icon": "default_3",
+    "id": 180000,
+    "name": "CA Ghost Gun (Fritz Rumey)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 3,
+    "description": "默认装备",
+    "skills": [],
+    "nation": 4,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        600
+      ],
+      "damage": [
+        53
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 8,
+      "delay": 0.1,
+      "range": [
+        0,
+        120
+      ],
+      "id": 180000,
+      "spread_angle": "6° Random Aim",
+      "barrage_id": 167015,
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "bullet_id": 167016,
+      "armor_mod": [
+        0.85,
+        1.2,
+        0.85
+      ],
+      "ammo": 2,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 28,
+      "pierce": 1,
+      "shell_range": [
+        190,
+        210
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        4
+      ]
+    },
+    "stats": [],
+    "labels": [],
+    "speciality": "Lock",
     "equippable_main": [],
     "equippable_sub": [],
     "obtainable": false,
