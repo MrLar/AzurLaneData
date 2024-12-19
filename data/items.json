@@ -42446,10 +42446,10 @@
   },
   "9999999103": {
     "id": 9999999103,
-    "name": "Christmas UI",
-    "description": "The Christmas themed Battle UI",
+    "name": "Iridescent Fantasy UI",
+    "description": "The Iridescent Fantasy themed Battle UI",
     "type": 97,
-    "icon": "props/ui_201",
+    "icon": "props/ui_103",
     "rarity": 5,
     "locations": [
       "IAP Purchase"
@@ -42461,14 +42461,14 @@
     ],
     "contains": [
       {
-        "id": 201,
+        "id": 103,
         "type": 99,
         "amount": 1,
         "blueprint": false,
         "linkable": false,
         "rarity": 5,
-        "icon": "uipreview/201",
-        "name": "Christmas"
+        "icon": "uipreview/103",
+        "name": "Iridescent Fantasy"
       }
     ]
   },
@@ -42497,6 +42497,34 @@
         "rarity": 5,
         "icon": "uipreview/104",
         "name": "Neon"
+      }
+    ]
+  },
+  "9999999201": {
+    "id": 9999999201,
+    "name": "Christmas UI",
+    "description": "The Christmas themed Battle UI",
+    "type": 97,
+    "icon": "props/ui_201",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 201,
+        "type": 99,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": false,
+        "rarity": 5,
+        "icon": "uipreview/201",
+        "name": "Christmas"
       }
     ]
   }
