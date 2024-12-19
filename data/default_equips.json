@@ -5574,6 +5574,189 @@
       "CN"
     ]
   },
+  "503": {
+    "icon": "default_3",
+    "id": 503,
+    "name": "CA Ghost Gun (Fritz Rumey)",
+    "rarity": 2,
+    "tech": 0,
+    "type": 3,
+    "description": "",
+    "skills": [],
+    "nation": 4,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        600
+      ],
+      "damage": [
+        53
+      ],
+      "coefficient": [
+        1
+      ],
+      "count": 8,
+      "delay": 0.1,
+      "range": [
+        0,
+        120
+      ],
+      "id": 503,
+      "spread_angle": "6° Random Aim",
+      "barrage_id": 167015,
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "bullet_id": 167016,
+      "armor_mod": [
+        0.85,
+        1.2,
+        0.85
+      ],
+      "ammo": 2,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 28,
+      "pierce": 1,
+      "shell_range": [
+        190,
+        210
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        4
+      ]
+    },
+    "stats": [],
+    "labels": [],
+    "speciality": "",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "11240": {
+    "icon": "default_1",
+    "id": 11240,
+    "name": "Ghost DD Gun (Kearsarge)",
+    "rarity": 5,
+    "tech": 3,
+    "type": 1,
+    "description": "No description",
+    "skills": [],
+    "nation": 1,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 10,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        280,
+        275,
+        270,
+        265,
+        260,
+        255,
+        250,
+        245,
+        240,
+        235,
+        230
+      ],
+      "damage": [
+        4,
+        4,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "coefficient": [
+        1.1,
+        1.1,
+        1.1,
+        1.1,
+        1.1,
+        1.1,
+        1.1,
+        1.1,
+        1.1,
+        1.1,
+        1.1
+      ],
+      "count": 4,
+      "delay": 0.1,
+      "range": [
+        0,
+        60
+      ],
+      "id": 11240,
+      "spread_angle": "0° No Spread",
+      "barrage_id": 1001,
+      "stat": "fp",
+      "ratio": 1,
+      "aim_type": 1,
+      "bullet_id": 1006,
+      "armor_mod": [
+        1.2,
+        0.6,
+        0.6
+      ],
+      "ammo": 3,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 15,
+      "pierce": 0,
+      "shell_range": [
+        40,
+        60
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        2
+      ]
+    },
+    "stats": [],
+    "labels": [
+      "uss",
+      "dd",
+      "mg",
+      "he"
+    ],
+    "speciality": "Lock",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "62351": {
     "icon": "default_2",
     "id": 62351,
@@ -6594,6 +6777,107 @@
         30
       ],
       "id": 165031,
+      "spread_angle": "0° No Spread",
+      "barrage_id": 2000,
+      "stat": "aa",
+      "ratio": 1,
+      "aim_type": 1,
+      "bullet_id": 2000,
+      "armor_mod": [
+        1,
+        1,
+        1
+      ],
+      "ammo": 5,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 100,
+      "pierce": 0,
+      "shell_range": [
+        30,
+        70
+      ],
+      "angle": 360,
+      "volley_info": [
+        1,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [],
+    "speciality": "",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "167061": {
+    "icon": "default_6",
+    "id": 167061,
+    "name": "AA Ghost Gun (Z52)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 6,
+    "description": "",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 9,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        68,
+        68,
+        68,
+        68,
+        68,
+        68,
+        68,
+        68,
+        68,
+        68
+      ],
+      "damage": [
+        120,
+        129,
+        138,
+        147,
+        156,
+        165,
+        174,
+        183,
+        192,
+        204
+      ],
+      "coefficient": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "count": 1,
+      "delay": 0,
+      "range": [
+        0,
+        28
+      ],
+      "id": 167061,
       "spread_angle": "0° No Spread",
       "barrage_id": 2000,
       "stat": "aa",

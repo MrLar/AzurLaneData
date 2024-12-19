@@ -119,7 +119,7 @@ each number represents an in-game equipment type (missing values do not exit in 
 |   3   |     CA Gun      |        Heavy Cruiser Gun        |
 |   4   |     BB Gun      |         Battleship Gun          |
 |   5   |     Torpedo     |         Surface Torpedo         |
-|   5   | AA Gun (Normal) |    Short-Range Anti-Air Gun     |
+|   6   | AA Gun (Normal) |    Short-Range Anti-Air Gun     |
 |   7   |     Fighter     |          Fighter Plane          |
 |   8   | Torpedo Bomber  |      Torpedo Bomber Plane       |
 |   9   |   Dive Bomber   |        Dive Bomber Plane        |

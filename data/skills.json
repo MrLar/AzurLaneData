@@ -39633,6 +39633,46 @@
     "icon": 30380,
     "values": []
   },
+  "30391": {
+    "description": "Activates All Out Assault I: Z52 once every 15 times the Main Guns are fired. Every 2 times this barrage is fired: additionally fires a torpedo barrage.",
+    "opsi_description": null,
+    "name": "All Out Assault I",
+    "max": 1,
+    "id": 30391,
+    "type": 1,
+    "icon": 30390,
+    "values": []
+  },
+  "30392": {
+    "description": "Activates All Out Assault II: Z52 once every 10 times the Main Guns are fired. Every 2 times this barrage is fired: additionally fires a torpedo barrage.",
+    "opsi_description": null,
+    "name": "All Out Assault II",
+    "max": 1,
+    "id": 30392,
+    "type": 1,
+    "icon": 30390,
+    "values": []
+  },
+  "30401": {
+    "description": "Activates All Out Assault I: Duisburg once every 12 times the Main Guns are fired.",
+    "opsi_description": null,
+    "name": "All Out Assault I",
+    "max": 1,
+    "id": 30401,
+    "type": 1,
+    "icon": 30400,
+    "values": []
+  },
+  "30402": {
+    "description": "Activates All Out Assault II: Duisburg once every 8 times the Main Guns are fired.",
+    "opsi_description": null,
+    "name": "All Out Assault II",
+    "max": 1,
+    "id": 30402,
+    "type": 1,
+    "icon": 30400,
+    "values": []
+  },
   "60100": {
     "description": "When equipped by a Royal Navy ship: increases that ship's Evasion Rate by 5.0%.",
     "opsi_description": null,
@@ -49486,6 +49526,476 @@
       ]
     ]
   },
+  "150650": {
+    "description": "When the battle starts, and every 15s: deploys $1 sea mines (DMG is based on the skill's level). When this ship fires her torpedoes: $2 chance to fire another wave of torpedoes.",
+    "opsi_description": null,
+    "name": "Tearful Torpedo Tactics",
+    "max": 10,
+    "id": 150650,
+    "type": 1,
+    "icon": 150650,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "15.0%",
+        "16.6%",
+        "18.2%",
+        "19.8%",
+        "21.4%",
+        "23.0%",
+        "24.6%",
+        "26.4%",
+        "28.2%",
+        "30.0%"
+      ]
+    ]
+  },
+  "150660": {
+    "description": "When this ship equips a Main Gun that fires AP ammo: increases this ship's Main Gun DMG dealt by $1 and decreases her DMG taken by $2. While this ship is afloat: decreases your BCs' and BBs' DMG taken by $3.",
+    "opsi_description": null,
+    "name": "Spirited Defense",
+    "max": 10,
+    "id": 150660,
+    "type": 3,
+    "icon": 150660,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
+  "150670": {
+    "description": "Grants this ship the Thunderheart. Every time this ship fires her Main Guns: Thunderheart gains 1 counter. \nEvery time Thunderheart gains 1 counter: performs a $1 special attack (DMG is based on the skill's level) that inflicts the Thunderseal status on enemies hit. \nWhen the topmost ship in your Main Fleet fires her Main Guns or launches an airstrike: removes all Thunderseal statuses; enemies who had their Thunderseal statuses removed by this effect take $2 more DMG for 10s (this effect does not stack).",
+    "opsi_description": null,
+    "name": "Thundering Seal",
+    "max": 10,
+    "id": 150670,
+    "type": 1,
+    "icon": 150670,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "1.5%",
+        "1.8%",
+        "2.1%",
+        "2.5%",
+        "2.8%",
+        "3.1%",
+        "3.5%",
+        "3.9%",
+        "4.3%",
+        "5.0%"
+      ]
+    ]
+  },
+  "150680": {
+    "description": "Increases this ship's FP and TRP by $1. Every time the Thunderheart gains 3 counters: increases this ship's AA by $2 (can be stacked up to 5 times; upon reaching the stack limit, this ship gains a special Anti-Air Gun). While this ship is afloat, for the first 5 battles of each sortie fought by a fleet this ship is NOT in: 25s after the battle starts, launches a supporting barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Soaring Heart",
+    "max": 10,
+    "id": 150680,
+    "type": 3,
+    "icon": 150680,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
+  "150690": {
+    "description": "Decreases this ship's DMG taken by $1. Every time the Thunderheart gains 6 counters: restores 1.0% of this ship's max HP. Every 2 times this HP recovery effect activates, performs a special slashing attack (DMG and range are based on the skill's level). The first 3 times this slashing attack is performed each battle: the ship in your fleet with the lowest current HP percentage recovers 2.0% of her max HP.\nGrants this ship the Flagship Cover skill; while this ship is afloat: decreases your Flagship's DMG taken by $2. If there are multiple ships in your fleet with the Flagship Cover skill, only the one with the strongest effect activates.",
+    "opsi_description": null,
+    "name": "Thunder Guardian",
+    "max": 10,
+    "id": 150690,
+    "type": 2,
+    "icon": 150690,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "15.0%",
+        "16.1%",
+        "17.2%",
+        "18.3%",
+        "19.4%",
+        "20.5%",
+        "21.6%",
+        "22.7%",
+        "23.8%",
+        "25.0%"
+      ]
+    ]
+  },
+  "150710": {
+    "description": "When the battle starts, and every 15s: summons a $1 Pterosaur-model ornithopter that lasts for 12s. The ornithopter fights in the battle (DMG is based on the skill's level) and increases this ship's AA by $2 and Evasion Rate by $3 for 12s.",
+    "opsi_description": null,
+    "name": "Ornithopter Counterattack",
+    "max": 10,
+    "id": 150710,
+    "type": 1,
+    "icon": 150710,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "5.0%",
+        "6.6%",
+        "8.2%",
+        "10.0%",
+        "11.6%",
+        "13.2%",
+        "15.0%",
+        "16.6%",
+        "18.2%",
+        "20.0%"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
+  "150720": {
+    "description": "Increases this ship's FP and TRP by $1. Every 20s: fires a $2 special barrage (DMG is based on the skill's level). When the fleet this ship is in gains the Out of Ammo debuff: decreases the DMG reduction effect of this debuff by $3 for this ship alone.",
+    "opsi_description": null,
+    "name": "Leisurely Battleplan",
+    "max": 10,
+    "id": 150720,
+    "type": 3,
+    "icon": 150720,
+    "values": [
+      [
+        "5.0%",
+        "5.9%",
+        "6.8%",
+        "8.0%",
+        "8.9%",
+        "9.8%",
+        "11.0%",
+        "12.2%",
+        "13.4%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ]
+    ]
+  },
+  "150730": {
+    "description": "Every 20s: deploys 2 shields (lasting $1s) that can negate up to 6 enemy shells. When the battle starts, if there is another Iron Blood ship in your Vanguard: increases your Vanguard's FP by $2 and TRP by $3 until the battle ends.",
+    "opsi_description": null,
+    "name": "Shocking Shield",
+    "max": 10,
+    "id": 150730,
+    "type": 2,
+    "icon": 150730,
+    "values": [
+      [
+        "6",
+        "6",
+        "6",
+        "7",
+        "7",
+        "7",
+        "8",
+        "8",
+        "8",
+        "8"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
+  "150740": {
+    "description": "When this ship fires her torpedoes: $1 chance to fire another wave of torpedoes. If this effect does not activate: deploys $2 sea mines at this ship's current location (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Simple-Yet-Flashy DIY",
+    "max": 10,
+    "id": 150740,
+    "type": 1,
+    "icon": 150740,
+    "values": [
+      [
+        "30.0%",
+        "32.2%",
+        "34.4%",
+        "36.6%",
+        "38.8%",
+        "41.0%",
+        "43.2%",
+        "45.4%",
+        "47.6%",
+        "50.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "150750": {
+    "description": "When this ship launches an airstrike: $1 chance to launch an additional $2 special airstrike (DMG is based on the skill's level) that reduces the SPD of enemies hit by 30.0% for 6s; when an afflicted enemy is affected by a pulling effect, the SPD reduction effect is increased to 60.0%. \nWhile this ship is afloat, 16s after a fleet this ship is NOT in enters battle: fires a $2 supporting barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Dauntless Wings of the Hero",
+    "max": 10,
+    "id": 150750,
+    "type": 1,
+    "icon": 150750,
+    "values": [
+      [
+        "50.0%",
+        "55.5%",
+        "61%",
+        "66.5%",
+        "72.0%",
+        "77.5%",
+        "83.0%",
+        "88.5%",
+        "94.0%",
+        "100.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "150760": {
+    "description": "Every 10s: fires a $2 special barrage (DMG is based on the skill's level).\n If this ship has a CL Main Gun equipped in her third weapon slot: sets that CL Main Gun's Detection Range and Range to $1 and makes its shells penetrate enemy shields. \nThis ship gains a special CA Main Gun. When this CA Main Gun hits the same enemy 8 times: increases that enemy's DMG taken by 8.0%.",
+    "opsi_description": "Every 10s: fires a $2 special barrage (DMG is based on the skill's level).\nIf this ship has a CL Main Gun equipped in her third weapon slot: sets that CL Main Gun's Detection Range and Range to $1 and makes its shells penetrate enemy shields. \nThis ship gains a special CA Main Gun. When this CA Main Gun hits the same enemy 8 times: increases that enemy's DMG taken by 8.0%.",
+    "name": "Ruinous Blade of the Slayer",
+    "max": 10,
+    "id": 150760,
+    "type": 1,
+    "icon": 150760,
+    "values": [
+      [
+        "80",
+        "82",
+        "85",
+        "87",
+        "90",
+        "92",
+        "95",
+        "97",
+        "100",
+        "105"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ],
+    "opsi_values": [
+      [
+        "80",
+        "82",
+        "85",
+        "87",
+        "90",
+        "92",
+        "95",
+        "97",
+        "100",
+        "105"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "150770": {
+    "description": "Increases this ship's AVI and ACC by $1. When this ship sinks an enemy while she is Detected: sets this ship's Detection Gauge to 0 (this effect can activate up to 3 times per battle).",
+    "opsi_description": null,
+    "name": "Immovable Heart of the Juggernaut",
+    "max": 10,
+    "id": 150770,
+    "type": 3,
+    "icon": 150770,
+    "values": [
+      [
+        "5.0%",
+        "5.9%",
+        "6.8%",
+        "8.0%",
+        "8.9%",
+        "9.8%",
+        "11.0%",
+        "12.2%",
+        "13.4%",
+        "15.0%"
+      ]
+    ]
+  },
   "800010": {
     "description": "Every 20s: launches a $1 special barrage that decreases the Speed of all enemies hit by 20.0% (DMG is based on the skill's level).",
     "opsi_description": null,
@@ -54195,6 +54705,155 @@
     "id": 801522,
     "type": 3,
     "icon": 801520,
+    "values": []
+  },
+  "801530": {
+    "description": "Increases this ship's FP by $1. Every 4 times this ship's Main Guns hit the same enemy: inflicts the Coiling Flames status on that enemy. Every 20s: removes all Coiling Flames statuses; when this effect removes the Coiling Flames status on an enemy, decreases that enemy's SPD by $2 and EVA by 5.0% for 4s.",
+    "opsi_description": null,
+    "name": "Coiling Flames",
+    "max": 10,
+    "id": 801530,
+    "type": 3,
+    "icon": 801530,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "15.0%",
+        "16.6%",
+        "18.2%",
+        "19.8%",
+        "21.4%",
+        "23.0%",
+        "24.6%",
+        "26.4%",
+        "28.2%",
+        "30.0%"
+      ]
+    ]
+  },
+  "801540": {
+    "description": "When the battle starts, and every 20s: deploys 2 shields (lasting $1s) that can negate up to 6 enemy shells. While a shield created by this effect exists on the field: increases this ship's Evasion Rate by $2 and DMG dealt by $3. If all shields created by this skill expire or are destroyed: fires a $4 special barrage that inflicts the Coiling Flames status to enemies hit (barrage DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Hot-and-Cold Armaments",
+    "max": 10,
+    "id": 801540,
+    "type": 1,
+    "icon": 801540,
+    "values": [
+      [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "15"
+      ],
+      [
+        "1.5%",
+        "2.0%",
+        "2.5%",
+        "3.0%",
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "801550": {
+    "description": "Increases this ship's TRP by $1. When the battle starts, if this ship is your frontmost Vanguard ship: when this ship takes DMG, there is a $2 chance to halve the DMG received; if this ship is NOT your frontmost Vanguard ship: deploys 2 shields (lasting until the battle ends) that can negate up to 10 enemy shells around your frontmost Vanguard ship.",
+    "opsi_description": null,
+    "name": "The Grumbling Ally",
+    "max": 10,
+    "id": 801550,
+    "type": 2,
+    "icon": 801550,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "10.0%",
+        "11.5%",
+        "13%",
+        "14.5%",
+        "16.1%",
+        "17.7%",
+        "19.4%",
+        "21.2%",
+        "23%",
+        "25.0%"
+      ]
+    ]
+  },
+  "801561": {
+    "description": "Every 9 times this ship fires her Main Guns: fires a special barrage.",
+    "opsi_description": "Every 9 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases your META ships' DMG taken by 3.0%",
+    "name": "Cinders of Hope - Admiral Hipper I",
+    "max": 1,
+    "id": 801561,
+    "type": 3,
+    "icon": 801560,
+    "values": []
+  },
+  "801562": {
+    "description": "Every 6 times this ship fires her Main Guns: fires a special barrage. Inflicts the Coiling Flames status to enemies hit by this barrage.",
+    "opsi_description": "Every 6 times this ship fires her Main Guns: fires a special barrage. Inflicts the Coiling Flames status to enemies hit by this barrage. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 8.0%.",
+    "name": "Cinders of Hope - Admiral Hipper II",
+    "max": 1,
+    "id": 801562,
+    "type": 3,
+    "icon": 801560,
     "values": []
   },
   "901010": {

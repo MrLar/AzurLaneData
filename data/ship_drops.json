@@ -16051,8 +16051,67 @@
     "other": [],
     "maps": [],
     "notes": [
-      "Available as point accumulation reward and map drop during Tempesta and the Sleeping Sea"
+      "Available as point accumulation reward during Tempesta and the Sleeping Sea"
     ]
+  },
+  "669": {
+    "id": 669,
+    "timer": "04:40:00",
+    "light": false,
+    "heavy": false,
+    "limited": "Substellar Crepuscule",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": []
+  },
+  "670": {
+    "id": 670,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available in the Event shop during Substellar Crepuscule"
+    ]
+  },
+  "671": {
+    "id": 671,
+    "timer": "01:20:00",
+    "light": false,
+    "heavy": false,
+    "limited": "Substellar Crepuscule",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": []
+  },
+  "672": {
+    "id": 672,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available as point accumulation reward during Substellar Crepuscule"
+    ]
+  },
+  "673": {
+    "id": 673,
+    "timer": "00:28:00",
+    "light": false,
+    "heavy": false,
+    "limited": "Substellar Crepuscule",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": []
   },
   "10001": {
     "id": 10001,
@@ -17887,6 +17946,19 @@
     "maps": [],
     "notes": [
       "Available in META Showdown"
+    ]
+  },
+  "30042": {
+    "id": 30042,
+    "timer": "02:00:00",
+    "light": false,
+    "heavy": false,
+    "limited": "Substellar Crepuscule",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available as Map drop and in the Event shop during Substellar Crepuscule"
     ]
   }
 }

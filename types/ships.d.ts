@@ -149,7 +149,6 @@ export interface FleetTechBonusShip extends FleetTechBonus {
 export interface GhostEquipmentData {
     id: number
     level: number
-    obtainable: boolean
     efficiency: number
     skill?: number
     level_override?: number[]

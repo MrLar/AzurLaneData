@@ -17811,6 +17811,70 @@
       "CN"
     ]
   },
+  "3030": {
+    "id": 3030,
+    "name": "Echo of the Eternal Stars",
+    "icon": "99155",
+    "types": [
+      10
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "A device that imitates the mighty visual of the Eternal Stars' mass attack.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "3031": {
+    "id": 3031,
+    "name": "\"Pterosaur\" Ornithopter (Torpedo)",
+    "icon": "99156",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "A reliable, remote-controlled ornithopter that boasts stable performance.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "3032": {
+    "id": 3032,
+    "name": "\"Pterosaur\" Ornithopter (Fighter)",
+    "icon": "99156",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "A reliable, remote-controlled ornithopter that boasts stable performance.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "3033": {
+    "id": 3033,
+    "name": "\"Pterosaur\" Ornithopter (Bomber)",
+    "icon": "99156",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "A reliable, remote-controlled ornithopter that boasts stable performance.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "4001": {
     "id": 4001,
     "name": "Little Blocks Shell",
@@ -19069,6 +19133,306 @@
     "rarity": 4,
     "theme": "Halloween Horrors",
     "description": "There's something very dangerous inside that jack-o'-lantern.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4077": {
+    "id": 4077,
+    "name": "Rusty Pliers Shell",
+    "icon": "101158",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "Great for holding your enemy in place or just fastening bolts.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4078": {
+    "id": 4078,
+    "name": "Weather-Worn Shell",
+    "icon": "101159",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "The paint has worn off over time, but it's still as lethal as ever.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4079": {
+    "id": 4079,
+    "name": "Molotov Cocktail Shell",
+    "icon": "101160",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "Gangut! For the last time, stop drinking our weapons!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4080": {
+    "id": 4080,
+    "name": "Exhaust Pipe Torpedo",
+    "icon": "101161",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "Beware the roaring pipes!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4081": {
+    "id": 4081,
+    "name": "Valve Torpedo",
+    "icon": "101162",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "It looks a bit like a fire hydrant, only it burns.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4082": {
+    "id": 4082,
+    "name": "Single-Shot Gun Torpedo",
+    "icon": "101163",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "Much like a torpedo, you have to make your one-shot count.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4083": {
+    "id": 4083,
+    "name": "Steel Gauntlet Shell",
+    "icon": "101164",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "Throwing DOWN the gauntlet? No, we're throwing the gauntlet AT them!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4084": {
+    "id": 4084,
+    "name": "Runaway Tire Shell",
+    "icon": "101165",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "Fire in the hole!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4085": {
+    "id": 4085,
+    "name": "Pressurized Boiler Shell",
+    "icon": "101166",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "Get ready for the steam blast!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4086": {
+    "id": 4086,
+    "name": "Wilderness Hunter (Torpedo)",
+    "icon": "101167",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "♪ We were born, born to be wild ♪",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4087": {
+    "id": 4087,
+    "name": "Wilderness Hunter (Fighter)",
+    "icon": "101167",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "♪ We were born, born to be wild ♪",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4088": {
+    "id": 4088,
+    "name": "Wilderness Hunter (Bomber)",
+    "icon": "101167",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "♪ We were born, born to be wild ♪",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4089": {
+    "id": 4089,
+    "name": "Road Tyrant (Torpedo)",
+    "icon": "101168",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "If I'm gonna die, I'm gonna die historic on the fury road!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4090": {
+    "id": 4090,
+    "name": "Road Tyrant (Fighter)",
+    "icon": "101168",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "If I'm gonna die, I'm gonna die historic on the fury road!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4091": {
+    "id": 4091,
+    "name": "Road Tyrant (Bomber)",
+    "icon": "101168",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "If I'm gonna die, I'm gonna die historic on the fury road!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4092": {
+    "id": 4092,
+    "name": "Two-Wheeled Devil (Torpedo)",
+    "icon": "101169",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "If only it were painted red.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4093": {
+    "id": 4093,
+    "name": "Two-Wheeled Devil (Fighter)",
+    "icon": "101169",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "If only it were painted red.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4094": {
+    "id": 4094,
+    "name": "Two-Wheeled Devil (Bomber)",
+    "icon": "101169",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "If only it were painted red.",
     "servers": [
       "EN",
       "JP",

@@ -14,7 +14,9 @@
     "furni_type": 6,
     "exclusive": false,
     "servers": [
-      "EN"
+      "EN",
+      "JP",
+      "CN"
     ],
     "contains": []
   },
@@ -33,7 +35,9 @@
     "furni_type": 3,
     "exclusive": false,
     "servers": [
-      "EN"
+      "EN",
+      "JP",
+      "CN"
     ],
     "contains": []
   },
@@ -52,7 +56,9 @@
     "furni_type": 5,
     "exclusive": false,
     "servers": [
-      "EN"
+      "EN",
+      "JP",
+      "CN"
     ],
     "contains": []
   },
@@ -71,7 +77,9 @@
     "furni_type": 4,
     "exclusive": false,
     "servers": [
-      "EN"
+      "EN",
+      "JP",
+      "CN"
     ],
     "contains": []
   },
@@ -90,7 +98,9 @@
     "furni_type": 3,
     "exclusive": false,
     "servers": [
-      "EN"
+      "EN",
+      "JP",
+      "CN"
     ],
     "contains": []
   },
@@ -109,7 +119,9 @@
     "furni_type": 3,
     "exclusive": false,
     "servers": [
-      "EN"
+      "EN",
+      "JP",
+      "CN"
     ],
     "contains": []
   },
@@ -128,7 +140,9 @@
     "furni_type": 4,
     "exclusive": true,
     "servers": [
-      "EN"
+      "EN",
+      "JP",
+      "CN"
     ],
     "contains": []
   },
@@ -147,7 +161,30 @@
     "furni_type": 5,
     "exclusive": true,
     "servers": [
-      "EN"
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "151": {
+    "name": "Christmas Eve Sleigh Sofa",
+    "description": "The snowflakes dance, the fireplace glows warmly, and the promise of Christmas resounds.\nAn adorable reindeer sleigh sofa featuring soft cushions and blankets. Underneath the starlight, your heart thumps expectantly at the blessings and surprises awaiting you.\nGather 'round with jovial spirits and a full belly from the feast, and who knows? You might just write your very own Christmas miracle.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 6,
+    "id": 151,
+    "purchaseable": true,
+    "icon": "dorm3d/items/3ddrom_tianlangxing_premiumfurniture5",
+    "room_id": 1,
+    "furni_type": 5,
+    "exclusive": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
     ],
     "contains": []
   }
