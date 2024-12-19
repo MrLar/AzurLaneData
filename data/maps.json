@@ -31034,6 +31034,456 @@
     "type": 6,
     "id": 1486
   },
+  "1880001_a1_16690303": {
+    "name": "Substellar Crepuscule-A1",
+    "acv": 100,
+    "opsi": false,
+    "boss": {
+      "hull": 1,
+      "nation": 99,
+      "name": "Extradimensional Horde",
+      "stats": {
+        "hp": 2340,
+        "fp": 40,
+        "trp": 110,
+        "avi": 0,
+        "aa": 85,
+        "hit": 19,
+        "eva": 20,
+        "spd": 20,
+        "luck": 0,
+        "armor": 0
+      },
+      "level": 25,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_crystal_quzhu"
+    },
+    "buffs": [],
+    "type": 3,
+    "id": 1488
+  },
+  "1880001_a2_16690313": {
+    "name": "Substellar Crepuscule-A2",
+    "acv": 130,
+    "opsi": false,
+    "boss": {
+      "hull": 2,
+      "nation": 99,
+      "name": "Extradimensional Horde",
+      "stats": {
+        "hp": 3600,
+        "fp": 40,
+        "trp": 60,
+        "avi": 0,
+        "aa": 125,
+        "hit": 20,
+        "eva": 16,
+        "spd": 20,
+        "luck": 0,
+        "armor": 0
+      },
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_crystal_qingxun"
+    },
+    "buffs": [],
+    "type": 3,
+    "id": 1489
+  },
+  "1880001_a3_16690321": {
+    "name": "Substellar Crepuscule-A3",
+    "acv": 165,
+    "opsi": false,
+    "boss": {
+      "hull": 3,
+      "nation": 95,
+      "name": "Extradimensional - Hyolitha",
+      "stats": {
+        "hp": 7200,
+        "fp": 80,
+        "trp": 120,
+        "avi": 0,
+        "aa": 140,
+        "hit": 21,
+        "eva": 21,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_crystal_zhongxun"
+    },
+    "buffs": [],
+    "type": 3,
+    "id": 1490
+  },
+  "1880002_b1_16691301": {
+    "name": "Substellar Crepuscule-B1",
+    "acv": 210,
+    "opsi": false,
+    "boss": {
+      "hull": 5,
+      "nation": 95,
+      "name": "Extradimensional - Hallucigenia",
+      "stats": {
+        "hp": 16500,
+        "fp": 160,
+        "trp": 0,
+        "avi": 0,
+        "aa": 180,
+        "hit": 25,
+        "eva": 16,
+        "spd": 20,
+        "luck": 8,
+        "armor": 2
+      },
+      "level": 45,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_crystal_zhanlie"
+    },
+    "buffs": [],
+    "type": 3,
+    "id": 1491
+  },
+  "1880002_b2_16691302": {
+    "name": "Substellar Crepuscule-B2",
+    "acv": 270,
+    "opsi": false,
+    "boss": {
+      "hull": 7,
+      "nation": 95,
+      "name": "Extradimensional - Hydra",
+      "stats": {
+        "hp": 22800,
+        "fp": 120,
+        "trp": 0,
+        "avi": 165,
+        "aa": 240,
+        "hit": 25,
+        "eva": 19,
+        "spd": 20,
+        "luck": 8,
+        "armor": 1
+      },
+      "level": 55,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_crystal_hangmu"
+    },
+    "buffs": [],
+    "type": 3,
+    "id": 1492
+  },
+  "1880002_b3_16691303": {
+    "name": "Substellar Crepuscule-B3",
+    "acv": 330,
+    "opsi": false,
+    "boss": {
+      "hull": 10,
+      "nation": 95,
+      "name": "Star Beast",
+      "stats": {
+        "hp": 25600,
+        "fp": 150,
+        "trp": 0,
+        "avi": 105,
+        "aa": 240,
+        "hit": 26,
+        "eva": 27,
+        "spd": 16,
+        "luck": 8,
+        "armor": 2
+      },
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_star"
+    },
+    "buffs": [],
+    "type": 3,
+    "id": 1493
+  },
+  "1880011_c1_16692303": {
+    "name": "Substellar Crepuscule-C1",
+    "acv": 455,
+    "opsi": false,
+    "boss": {
+      "hull": 1,
+      "nation": 99,
+      "name": "Extradimensional Horde",
+      "stats": {
+        "hp": 32000,
+        "fp": 125,
+        "trp": 280,
+        "avi": 0,
+        "aa": 210,
+        "hit": 44,
+        "eva": 45,
+        "spd": 18,
+        "luck": 18,
+        "armor": 0
+      },
+      "level": 75,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_crystal_quzhu"
+    },
+    "buffs": [],
+    "type": 4,
+    "id": 1494
+  },
+  "1880011_c2_16692313": {
+    "name": "Substellar Crepuscule-C2",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "hull": 2,
+      "nation": 99,
+      "name": "Extradimensional Horde",
+      "stats": {
+        "hp": 36500,
+        "fp": 120,
+        "trp": 180,
+        "avi": 0,
+        "aa": 125,
+        "hit": 46,
+        "eva": 53,
+        "spd": 20,
+        "luck": 18,
+        "armor": 0
+      },
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_crystal_qingxun"
+    },
+    "buffs": [],
+    "type": 4,
+    "id": 1495
+  },
+  "1880011_c3_16692321": {
+    "name": "Substellar Crepuscule-C3",
+    "acv": 775,
+    "opsi": false,
+    "boss": {
+      "hull": 3,
+      "nation": 95,
+      "name": "Extradimensional - Hyolitha",
+      "stats": {
+        "hp": 56000,
+        "fp": 220,
+        "trp": 120,
+        "avi": 0,
+        "aa": 225,
+        "hit": 48,
+        "eva": 44,
+        "spd": 18,
+        "luck": 18,
+        "armor": 1
+      },
+      "level": 85,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_crystal_zhongxun"
+    },
+    "buffs": [],
+    "type": 4,
+    "id": 1496
+  },
+  "1880012_d1_16693301": {
+    "name": "Substellar Crepuscule-D1",
+    "acv": 850,
+    "opsi": false,
+    "boss": {
+      "hull": 5,
+      "nation": 95,
+      "name": "Extradimensional - Hallucigenia",
+      "stats": {
+        "hp": 86200,
+        "fp": 280,
+        "trp": 0,
+        "avi": 0,
+        "aa": 260,
+        "hit": 69,
+        "eva": 32,
+        "spd": 20,
+        "luck": 25,
+        "armor": 2
+      },
+      "level": 95,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_crystal_zhanlie"
+    },
+    "buffs": [],
+    "type": 4,
+    "id": 1497
+  },
+  "1880012_d2_16693302": {
+    "name": "Substellar Crepuscule-D2",
+    "acv": 1100,
+    "opsi": false,
+    "boss": {
+      "hull": 7,
+      "nation": 95,
+      "name": "Extradimensional - Hydra",
+      "stats": {
+        "hp": 91000,
+        "fp": 160,
+        "trp": 0,
+        "avi": 300,
+        "aa": 390,
+        "hit": 43,
+        "eva": 53,
+        "spd": 20,
+        "luck": 25,
+        "armor": 1
+      },
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_crystal_hangmu"
+    },
+    "buffs": [],
+    "type": 4,
+    "id": 1498
+  },
+  "1880012_d3_16693303": {
+    "name": "Substellar Crepuscule-D3",
+    "acv": 1410,
+    "opsi": false,
+    "boss": {
+      "hull": 10,
+      "nation": 95,
+      "name": "Star Beast",
+      "stats": {
+        "hp": 115000,
+        "fp": 280,
+        "trp": 0,
+        "avi": 210,
+        "aa": 460,
+        "hit": 52,
+        "eva": 40,
+        "spd": 18,
+        "luck": 25,
+        "armor": 2
+      },
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_star"
+    },
+    "buffs": [],
+    "type": 4,
+    "id": 1499
+  },
+  "1880025_sp_16694301": {
+    "name": "Substellar Crepuscule-SP",
+    "acv": 1820,
+    "opsi": false,
+    "boss": {
+      "hull": 10,
+      "nation": 95,
+      "name": "Star Beast",
+      "stats": {
+        "hp": 155000,
+        "fp": 315,
+        "trp": 0,
+        "avi": 320,
+        "aa": 460,
+        "hit": 59,
+        "eva": 45,
+        "spd": 18,
+        "luck": 30,
+        "armor": 2
+      },
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_star"
+    },
+    "buffs": [],
+    "type": 5,
+    "id": 1500
+  },
+  "1880026_extra_16695001": {
+    "name": "Substellar Crepuscule-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "hull": 10,
+      "nation": 95,
+      "name": "Star Beast",
+      "stats": {
+        "hp": 1250000,
+        "fp": 333,
+        "trp": 0,
+        "avi": 333,
+        "aa": 333,
+        "hit": 66,
+        "eva": 48,
+        "spd": 15,
+        "luck": 25,
+        "armor": 2
+      },
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_star"
+    },
+    "buffs": [],
+    "type": 6,
+    "id": 1501
+  },
+  "1880026_extra_16695002": {
+    "name": "Substellar Crepuscule-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "hull": 10,
+      "nation": 95,
+      "name": "Star Beast",
+      "stats": {
+        "hp": 999999,
+        "fp": 888,
+        "trp": 0,
+        "avi": 888,
+        "aa": 400,
+        "hit": 9999,
+        "eva": 0,
+        "spd": 15,
+        "luck": 99,
+        "armor": 2
+      },
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_star"
+    },
+    "buffs": [],
+    "type": 6,
+    "id": 1502
+  },
   "2100000_a1_10041501": {
     "name": "Visitors Dyed in Red: Prequel-A1",
     "acv": 150,
