@@ -205,7 +205,12 @@ export type UnlockType =
 7 | // weekly missions
 8 | // monthly login
 9 | // returnee
-10 // memento
+10 | // memento
+11 | // cruise
+12 | // meta shop
+13 |// meta showdown
+14 |// dossier
+15 // shipyard
 
 export interface SkinWords {
     id: number

@@ -260,6 +260,11 @@ Unlock Type is a numeric value with the range `[0, 10]` where each number repres
 |   8   |         Monthly Login Reward          |
 |   9   |            Returnee Reward            |
 |  10   |      Collection (Memento) Reward      |
+|  11   |              Cruise Pass              |
+|  12   |               META Shop               |
+|  13   |             META Showdown             |
+|  14   |           Dossier Analysis            |
+|  15   |               Shipyard                |
 
 # Item Stack
 Item Stack provides properties relevant when refering to x amount of an item. It provides exactly 2 properties:
