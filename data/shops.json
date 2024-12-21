@@ -6659,6 +6659,30 @@
         "limit_type": 1
       },
       {
+        "id": 21042,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/21042",
+        "name": "META Crystal - Admiral Hipper META",
+        "limit": 4,
+        "cost": 2000
+      },
+      {
+        "id": 21033,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/21033",
+        "name": "META Crystal - Béarn META",
+        "limit": 4,
+        "cost": 2000
+      },
+      {
         "id": 16033,
         "type": 0,
         "linkable": true,
@@ -23608,30 +23632,6 @@
         "blueprint": false,
         "icon": "props/21038",
         "name": "META Crystal - Hiei META",
-        "limit": 4,
-        "cost": 2000
-      },
-      {
-        "id": 21042,
-        "type": 0,
-        "linkable": true,
-        "rarity": 5,
-        "amount": 1,
-        "blueprint": false,
-        "icon": "props/21042",
-        "name": "META Crystal - Admiral Hipper META",
-        "limit": 4,
-        "cost": 2000
-      },
-      {
-        "id": 21033,
-        "type": 0,
-        "linkable": true,
-        "rarity": 5,
-        "amount": 1,
-        "blueprint": false,
-        "icon": "props/21033",
-        "name": "META Crystal - Béarn META",
         "limit": 4,
         "cost": 2000
       },
