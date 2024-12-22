@@ -37,7 +37,7 @@ The name of the file links to the respective file on the GitHub Repo., while the
 |                                                    File                                                     |                       Description                        |   Type   |                                                     Mapping                                                      |          Typescript Equivelant           |   Credits   |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------: | :---------: |
 |             [augments.json](https://github.com/MrLar/AzurLaneData/tree/main/data/augments.json)             |            Contains all augments in the game             | `object` |                            Augment ID -> [`AugmentData`](./equips/augments/index.md)                             |       `Record<number, AugmentData        | undefined>` |             |
-|         [augment_cost.json](https://github.com/MrLar/AzurLaneData/tree/main/data/augment_cost.json)         |   Contains info about costs to upgrade a given augment   | `object` |                      Augment ID -> [`AugmentCost`](./equips/augmentsindex.md#augment-cost)                       |       `Record<number, AugmentCost        | undefined>` |             |
+|         [augment_cost.json](https://github.com/MrLar/AzurLaneData/tree/main/data/augment_cost.json)         |   Contains info about costs to upgrade a given augment   | `object` |                      Augment ID -> [`AugmentCost`](./equips/augments/index.md#augment-cost)                      |       `Record<number, AugmentCost        | undefined>` |             |
 |       [default_equips.json](https://github.com/MrLar/AzurLaneData/tree/main/data/default_equips.json)       |    Contains all default and ghost weapons in the game    | `object` |                             Equip ID -> [`EquipmentData`](./equips/regular/index.md)                             |      `Record<number, EquipmentData       | undefined>` |             |
 |           [equipments.json](https://github.com/MrLar/AzurLaneData/tree/main/data/equipments.json)           |           Contains all equipments in the game            | `object` |                             Equip ID -> [`EquipmentData`](./equips/regular/index.md)                             |      `Record<number, EquipmentData       | undefined>` |             |
 |          [equip_drops.json](https://github.com/MrLar/AzurLaneData/tree/main/data/equip_drops.json)          |       Contains info on how equipments are obtained       | `object` |                        Equip ID -> [`EquipDropData`](./equips/regular/index.md#drop-data)                        |      `Record<number, EquipDropData       | undefined>` |             |
@@ -84,7 +84,10 @@ All icons referenced by this data are also availabe on CDNs hosted by Cloudflare
 Please refer to the documentation of each individual icon prop on where to find them, for
 global things refer to the below list:
 
-- All nations are available under `https://al.mrlar.dev/icons/nation/<nation>.webp`.    
+- Some nations are available under `https://al.mrlar.dev/icons/nation/<nation>.webp`.
+  - Nations with an ID above 102 do not have an icon and use the fallback ID of 100 instead.
+  - Nations 94 and 95 do not have an icon at all.
+  - Nation 98 uses the same icon as 0.
 - Some ammo icons are available under `https://al.mrlar.dev/icons/ammo/<ammo id>.webp`.    
 - Equipment Labels are available under `https://al.mrlar.dev/icons/equiplabel/<label id>.webp`.
   - Note that label id does not equal equipment type neccesarily.   

@@ -12,6 +12,8 @@ an [`AugmentType`](../../common.md#augment-type). It aditionally provides the fo
 | **skill_upgrades** | [`SkillUpgradeData[]`](../../common.md#skill-upgrade-data) | Skill upgrades this augment grants of enhanced to +10. |
 |   **craftable**    |                         `boolean`                          |      Whether this augment can freely be crafted.       |
 
+Note: To determine if an augment is unique to a ship you can use the `limit_group` from BaseEquipData as it will point to that ships ID. Otherwise it is always 0.
+
 # Augment Cost
 Represents the cost to craft, upgrade and uncap an augment by one enhance level. Provides the following:
 

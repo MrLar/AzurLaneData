@@ -45309,7 +45309,7 @@
     "values": []
   },
   "110010": {
-    "description": "When the battle starts: increases this ship's Crit DMG by $1 for every Senran Kagura collab character in your fleet(can be stacked up to 3 times).\nEvery 12s: applies a debuff to the enemy with the lowest HP remaining, increasing their DMG taken from Senran Kagura collab characters by $2, and performs a $3 special attack - Twin Blades - Followup Slash (DMG is based on the skill's level and this ship's FP and TRP stats). When this attack activates, if there is only 1 enemy on the battlefield: this attack deals guaranteed Crit DMG. $4",
+    "description": "When the battle starts: increases this ship's Crit DMG by $1 for every Senran Kagura collab character in your fleet(can be stacked up to 3 times).\nEvery 12s: applies a debuff to the enemy with the lowest HP remaining, increasing their DMG taken from Senran Kagura collab characters by $2, and performs a $3 special attack - Twin Blades - Followup Slash (DMG is based on the skill's level and this ship's FP and TRP stats). When this attack activates, if there is only 1 enemy on the battlefield: this attack deals guaranteed Crit DMG. $4\n{If this special attack sinks an enemy: performs Twin Blades Combo Strike and Followup - Hanzō-Style Full Bloom (does not restore HP) (10s cooldown between activations)|The game describes this effect almost completely wrong and also implies it only happens at skill level 10 which is not the case.}",
     "opsi_description": null,
     "name": "Twin Blades - Followup Slash",
     "max": 10,
@@ -45352,18 +45352,6 @@
         "Lv.8",
         "Lv.9",
         "Lv.10"
-      ],
-      [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ",If this special attack sinks an enemy: performs Twin Blades - Followup Slash again (10s cooldown between activations)."
       ]
     ]
   },
@@ -45415,7 +45403,7 @@
     ]
   },
   "110030": {
-    "description": "Increases this ship's FP and TRP by $1. When the battle starts, if there is another Senran Kagura collab character in your fleet: increases this ship's EVA by $1.\nOnce per battle, when this ship's HP falls below 30.0% as a result of DMG taken: increases this ship's Evasion Rate by $2 and performs a $3 Secret Ninja Art: Hanzō-Style Full Bloom (DMG is based on the skill's level and this ship's FP and TRP stats). Restores this ship's HP equal to 15.0% of the DMG dealt by this Secret Ninja Art.\nWhen this Secret Ninja Art activates, if there is only 1 enemy on the battlefield: this attack deals guaranteed Crit DMG. $4",
+    "description": "Increases this ship's FP and TRP by $1. When the battle starts, if there is another Senran Kagura collab character in your fleet: increases this ship's EVA by $1.\nOnce per battle, when this ship's HP falls below 30.0% as a result of DMG taken: increases this ship's Evasion Rate by $2 and performs a $3 Secret Ninja Art: Hanzō-Style Full Bloom (DMG is based on the skill's level and this ship's FP and TRP stats). Restores this ship's HP equal to 15.0% of the DMG dealt by this Secret Ninja Art.\nWhen this Secret Ninja Art activates, if there is only 1 enemy on the battlefield: this attack deals guaranteed Crit DMG. $4\n{If Hanzō-Style Full Bloom sinks an enemy: additionally performs Twin Blades - Followup Slash 3 times (10s cooldown between activations from Followup - Hanzō-Style Full Bloom only).|The game describes this effect slightly wrong and also applies it only happens at skill level 10 which is not the case.}",
     "opsi_description": null,
     "name": "Twin Blades Combo Strike+",
     "max": 10,
@@ -45458,18 +45446,6 @@
         "Lv.8",
         "Lv.9",
         "Lv.10"
-      ],
-      [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ",If Hanzō-Style Full Bloom sinks an enemy: additionally performs Twin Blades - Followup Slash 3 times."
       ]
     ]
   },
@@ -49562,7 +49538,7 @@
     ]
   },
   "150660": {
-    "description": "When this ship equips a Main Gun that fires AP ammo: increases this ship's Main Gun DMG dealt by $1 and decreases her DMG taken by $2. While this ship is afloat: decreases your BCs' and BBs' DMG taken by $3.",
+    "description": "When this ship equips a Main Gun that fires AP ammo: increases this ship's Main Gun DMG dealt {with AP|Game does not mention this only applies to AP, it may appear as if this did not matter but it is a difference calculation wise.} by $1 and decreases her DMG taken by $2. While this ship is afloat: decreases your BCs' and BBs' DMG taken by $3.",
     "opsi_description": null,
     "name": "Spirited Defense",
     "max": 10,
