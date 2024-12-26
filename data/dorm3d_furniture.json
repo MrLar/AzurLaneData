@@ -187,5 +187,257 @@
       "CN"
     ],
     "contains": []
+  },
+  "201": {
+    "name": "Fluffy Futon",
+    "description": "A simple futon on the tatami. It's refreshing, soothing, soft, and comfortable.\nAll your fatigue fades away the moment you lie down.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 201,
+    "purchaseable": false,
+    "icon": "dorm3d/items/3ddrom_nengdai_commonfurniture1",
+    "room_id": 2,
+    "furni_type": 4,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "202": {
+    "name": "Gentle Snack Time",
+    "description": "Two people sat across from each other. A carefree conversation. An appetizing smell.\nEven the passage of time seems to mellow in the grace of her smile.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 202,
+    "purchaseable": false,
+    "icon": "dorm3d/items/3ddrom_nengdai_commonfurniture2",
+    "room_id": 2,
+    "furni_type": 6,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "203": {
+    "name": "Breezy Leisure",
+    "description": "The comforting, natural material invites you to a leisurely moment of rest.\nA refreshing breeze carries a delicate fragrance and the gentle jingle of wind chimes, weaving together a perfect afternoon.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 203,
+    "purchaseable": false,
+    "icon": "dorm3d/items/3ddrom_nengdai_commonfurniture3",
+    "room_id": 2,
+    "furni_type": 5,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "204": {
+    "name": "A Branch of Spring",
+    "description": "This vase, with its fine porcelain and beautiful lines, is the perfect complement to flowers in bloom.\nThe fragrance of the blossoms and the vase's graceful shape come together brilliantly, exuding vitality and elegance.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 204,
+    "purchaseable": false,
+    "icon": "dorm3d/items/3ddrom_nengdai_commonfurniture4",
+    "room_id": 2,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "205": {
+    "name": "Manjuu Plushie",
+    "description": "This cuddly creature brings a smile to your face with its detailed craftsmanship that evokes special memories.\nEven when standing silently in a corner, it warms up the room more than anything else.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 205,
+    "purchaseable": false,
+    "icon": "dorm3d/items/3ddrom_nengdai_commonfurniture5",
+    "room_id": 2,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "206": {
+    "name": "Tea for the Pinkish Bloom",
+    "description": "The pink petals gently touch the tray's rim - a graceful spring sight.\nIt evokes memories of moments shared with her, amidst swirling cherry blossom breezes and the breath of fresh greenery.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 206,
+    "purchaseable": false,
+    "icon": "dorm3d/items/3ddrom_nengdai_commonfurniture6",
+    "room_id": 2,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "207": {
+    "name": "Blue Skies, Stout Pine",
+    "description": "Its barky arms extend toward the sky with grace.\nThe leaves and branches are exquisitely pruned, in the posture of a life yearning for contentment and ease.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 207,
+    "purchaseable": false,
+    "icon": "dorm3d/items/3ddrom_nengdai_commonfurniture7",
+    "room_id": 2,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "208": {
+    "name": "Tranquil Pause",
+    "description": "The understated ceramic and the verdant plant together display the art of simplicity.\nIts reserved vitality contributes a Zen-like serenity to the whole space.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 208,
+    "purchaseable": false,
+    "icon": "dorm3d/items/3ddrom_nengdai_commonfurniture8",
+    "room_id": 2,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "209": {
+    "name": "Vernal Vase",
+    "description": "The vase is vividly colored in the season's palette, and the branches are naturally spread out, flowing like in a picture scroll.\nEvery time flowers are arranged, their beauty is interpreted anew.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 209,
+    "purchaseable": false,
+    "icon": "dorm3d/items/3ddrom_nengdai_commonfurniture9",
+    "room_id": 2,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "210": {
+    "name": "Good Fortjuune Hanging Scroll",
+    "description": "May your wishes come true and good fortune grace you.\nThe manjuu's round, endearing shape warms your heart.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 210,
+    "purchaseable": false,
+    "icon": "dorm3d/items/3ddrom_nengdai_commonfurniture10",
+    "room_id": 2,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "221": {
+    "name": "Tanuki Cushion",
+    "description": "Its soft texture and pleasant warmth gently wrap around your body.\nWhether you choose to cuddle it or hug it, the cushion will accept you.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 221,
+    "purchaseable": true,
+    "icon": "dorm3d/items/3ddrom_nengdai_premiumfurniture1",
+    "room_id": 2,
+    "furni_type": 4,
+    "exclusive": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "251": {
+    "name": "Where Warmth Lingers",
+    "description": "The warmth of a kotatsu makes you think of a lazy afternoon in the winter.\nSunlight streams through the window and onto the tatami mat, mingling with the kotatsu's warmth to melt away all your stress.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 6,
+    "id": 251,
+    "purchaseable": true,
+    "icon": "dorm3d/items/3ddrom_nengdai_premiumfurniture251",
+    "room_id": 2,
+    "furni_type": 5,
+    "exclusive": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
   }
 }

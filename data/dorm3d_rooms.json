@@ -55,6 +55,56 @@
       30
     ]
   },
+  "2": {
+    "id": 2,
+    "name": "Room of Noshiro",
+    "type": 2,
+    "characters": [
+      322
+    ],
+    "invitable": [],
+    "memories": [
+      21,
+      22,
+      23,
+      31
+    ],
+    "icon": "dorm3d/rooms/room_icon_nengdai",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "collectables": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      70,
+      71,
+      72,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79
+    ]
+  },
   "4": {
     "id": 4,
     "name": "Beach",
@@ -71,6 +121,17 @@
           "linkable": true
         },
         "discount": 100
+      },
+      {
+        "id": 322,
+        "cost": 800,
+        "currency": {
+          "id": 59005,
+          "name": "Gems",
+          "icon": "props/gem",
+          "linkable": true
+        },
+        "discount": 0
       }
     ],
     "memories": [],

@@ -739,5 +739,518 @@
     ],
     "contains": [],
     "time": 0
+  },
+  "51": {
+    "room_id": 2,
+    "name": "Hanami Dango Plate",
+    "description": "The delectable dango rest quietly on a ceramic plate,\nperfectly complementing the tablecloth's design.\nEnjoy them with her later.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 51,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item1",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "52": {
+    "room_id": 2,
+    "name": "Tri-Color Mochi",
+    "description": "Green grass, white snow, peach blossoms;\nhealth, purity, protection;\nsoft and chewy, filled with her heartfelt wishes...",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 52,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item2",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "53": {
+    "room_id": 2,
+    "name": "Opened Book",
+    "description": "A book on traditional Sakuran tea ceremonies,\nits corners slightly weathered.\nNoshiro appears to revisit this book often,\nleaving many neat notes on the last pages.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 53,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item3",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 1
+  },
+  "54": {
+    "room_id": 2,
+    "name": "Bedding",
+    "description": "Neatly folded bedding.\nThe precise corners are a testament to its owner's diligence.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 54,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item4",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "55": {
+    "room_id": 2,
+    "name": "Uniform",
+    "description": "The uniform hanging on the wall is the same as the one she is wearing.\nLooks like this is the outfit she likes the most.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 55,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item5",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "56": {
+    "room_id": 2,
+    "name": "Sakuran Sweets",
+    "description": "A beautifully arranged assortment of Sakuran sweets, each handmade by Noshiro.\nThough they may almost be too pretty to eat,\nbe sure to savor them later - lest her hard work will go to waste!",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 56,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item6",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "57": {
+    "room_id": 2,
+    "name": "Wind Chime",
+    "description": "A wind chime hangs by the window,\nproducing a clear melody as the breeze passes through.\nAccording to Noshiro, it's one of the best ways to beat the summer heat.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 57,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item7",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "58": {
+    "room_id": 2,
+    "name": "Wind Chime 2",
+    "description": "This wind chime produces a deeper tone than the glass one.\nNoshiro has purposefully hung it up elsewhereso the different notes interweave, creating a unique mood.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 58,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item8",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "59": {
+    "room_id": 2,
+    "name": "Shopping Bag",
+    "description": "A paper bag bearing a coffee shop logo.\nNoshiro treats it with great care,\nmore than you'd expect for a regular paper bag.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 59,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item9",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "60": {
+    "room_id": 2,
+    "name": "Sakuran Kimono",
+    "description": "The gold-thread embroidery on this kimono's sleeves speaks of its elegance.\nIt's Noshiro's favorite.\nShe always conducts herself carefully when she wears it outside.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 60,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item10",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "61": {
+    "room_id": 2,
+    "name": "Preserved Flowers",
+    "description": "Yellow roses carefully preserved inside a bell jar.\nThe petals retain their vivid color even to this day.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 61,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item11",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "62": {
+    "room_id": 2,
+    "name": "Pine Bonsai",
+    "description": "A small pine tree bonsai.\nThe branches have been trimmed in a plain yet tasteful way.\nNoshiro tends to it daily, preserving its natural beauty in perfect form.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 62,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item12",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "63": {
+    "room_id": 2,
+    "name": "Water Ornament",
+    "description": "A Sakuran ornament that typically goes in the garden but, in this case, has been placed in a corner of the room.\nWhen water flows in, it produces a clear and pleasant sound.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 63,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item13",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "64": {
+    "room_id": 2,
+    "name": "Sakuran Umbrella",
+    "description": "This folded umbrella rests against the wall.\nNoshiro often carries it with her when she goes outside.\nWhen it's raining, obviously.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 64,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item14",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "65": {
+    "room_id": 2,
+    "name": "Round Cushion",
+    "description": "A round cushion in a bright color.\nWhile it looks firm at a glance, it's surprisingly comfy to sit on.\nMaybe you should put one in your office too?",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 65,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item15",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "66": {
+    "room_id": 2,
+    "name": "Sushi Platter",
+    "description": "A tray lined with hand-formed sushi and other delicacies.\nEvery item is meticulously placed,\nand even the decorative elements are well-thought-out.\nSurprisingly, sushi rolls are even included.\nTurns out Noshiro isn't a stickler for tradition.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 66,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item16",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "67": {
+    "room_id": 2,
+    "name": "Cherry Blossom Branch",
+    "description": "A cherry blossom branch left on the table.\nThe pink petals almost glow on the branch, lending a touch of spring mood.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 67,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item17",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "68": {
+    "room_id": 2,
+    "name": "Stack of Books",
+    "description": "A stack of books piled atop one another.\nThe subjects covered range from tea ceremonies to flower arrangement and traditional etiquette.\nBased on where the bookmark is, Noshiro is studying a new flower arrangement technique.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 68,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item18",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "70": {
+    "room_id": 2,
+    "name": "Kettle",
+    "description": "An unremarkable kettle.\nNoshiro often uses it when making tea.\nDespite its signs of heavy use, it's still in good condition thanks to diligent care.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 70,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item19",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "71": {
+    "room_id": 2,
+    "name": "Stone Lantern",
+    "description": "A lantern made of stone, inspired by traditional Sakuran garden lanterns.\nIt lends an air of tranquility to wherever it's placed.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 71,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item21",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 1
+  },
+  "72": {
+    "room_id": 2,
+    "name": "Tied Hanging Scrolls",
+    "description": "These scrolls rest quietly in the corner of the study,\ntheir knots perfectly tied.\nThough not unfurled, they still convey Noshiro's meticulous care.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 72,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item20",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "74": {
+    "room_id": 2,
+    "name": "Wooden Lantern",
+    "description": "A square, wooden lantern that's been placed in a corner.\nA soft light glows through the translucent paper.\nNoshiro picked this furnishing after careful deliberation.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 74,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item23",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "75": {
+    "room_id": 2,
+    "name": "Floor Lamp",
+    "description": "An austere Sakuran-style floor lamp. It glows with a soft light.\nBeneath its shade hangs a delicate wind chime ornament.\nIt creates a quiet, serene space where you can spend a peaceful time with Noshiro.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 75,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item22",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "76": {
+    "room_id": 2,
+    "name": "Humidifier",
+    "description": "This white humidifier operates silently most of the time,\nonly sometimes making a faint hum.\nNoshiro placed it in a corner where it can slowly release moist air.\nShe says it's good for her skin.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 76,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item24",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "77": {
+    "room_id": 2,
+    "name": "Skincare Oil",
+    "description": "The oil inside the bottle emits a delicate fragrance.\nAccording to Noshiro, it's extracted from camellias.\nIt's one of her favorite skincare products.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 77,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item25",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "78": {
+    "room_id": 2,
+    "name": "Perfume Bottle",
+    "description": "A bottle of perfume with a simple design.\nLight softly reflects off its glass surface.\nUpon closer inspection, you notice that this is the very bottle you gifted her.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 78,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item26",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "79": {
+    "room_id": 2,
+    "name": "Reed Diffuser",
+    "description": "A diffuser with a delicate fragrance.\nIts subtle aroma fills the room.\nIt's the scent that always lingers around Noshiro.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 79,
+    "icon": "dorm3d/collection/3ddrom_nengdai_item27",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 2
   }
 }

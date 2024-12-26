@@ -98,5 +98,25 @@
     ],
     "contains": [],
     "favor": 2000
+  },
+  "3022101": {
+    "name": "Sincere Loafers",
+    "description": "A simple design with a simple color scheme. Easy and comfortable to wear. \nThey fit perfectly around the heel and welcome your feet every time you put them on.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 5,
+    "id": 3022101,
+    "purchaseable": true,
+    "icon": "dorm3d/items/3ddrom_nengdai_fancygift1",
+    "ship": 322,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "favor": 2000
   }
 }
