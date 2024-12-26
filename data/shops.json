@@ -7395,7 +7395,8 @@
         "icon": "dorm3d/items/3ddrom_tianlangxing_premiumfurniture5",
         "name": "Christmas Eve Sleigh Sofa",
         "limit": 4,
-        "cost": 680
+        "cost": 680,
+        "use_alt": 0
       },
       {
         "id": 1021002,
@@ -7543,7 +7544,7 @@
         "id": 221,
         "type": 10,
         "linkable": true,
-        "rarity": 5,
+        "rarity": 4,
         "amount": 1,
         "blueprint": false,
         "icon": "dorm3d/items/3ddrom_nengdai_premiumfurniture1",
@@ -7557,7 +7558,7 @@
         "id": 221,
         "type": 10,
         "linkable": true,
-        "rarity": 5,
+        "rarity": 6,
         "amount": 1,
         "blueprint": false,
         "icon": "dorm3d/items/3ddrom_nengdai_premiumfurniture251",
