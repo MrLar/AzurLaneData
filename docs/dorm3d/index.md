@@ -63,22 +63,24 @@ Favor Level represents the data associated with a single favor level of a Dorm3D
 Dorm3D Gift represents the data associated with a gift item in Dorm3D it.
 It extends [`Item`](../common.md#item) with `type=27` and additionally provides: 
 
-|     Property     |   Type    |                            Description                             |
-| :--------------: | :-------: | :----------------------------------------------------------------: |
-| **purchaseable** | `boolean` |             Whether this item can be bought on demand.             |
-|     **ship**     | `number`  | ID of the ship this gift is exclusive to, or 0 if it is universal. |
+|     Property     |   Type    |                                                       Description                                                        |
+| :--------------: | :-------: | :----------------------------------------------------------------------------------------------------------------------: |
+| **purchaseable** | `boolean` |                                        Whether this item can be bought on demand.                                        |
+|   **expires**    | `number`  | UNIX timestamp after which this gift cannot be bought anymore, 0 if it can always be bought, -1 if it cannot be bought.. |
+|     **ship**     | `number`  |                            ID of the ship this gift is exclusive to, or 0 if it is universal.                            |
 
 # Dorm3D Furniture
 
 Dorm3D Furniture represents the data associated with a furniture item in Dorm3D it.
 It extends [`Item`](../common.md#item) with `type=27` and additionally provides: 
 
-|     Property     |                Type                |                                                        Description                                                        |
-| :--------------: | :--------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
-| **purchaseable** |             `boolean`              |                                        Whether this item can be bought on demand.                                         |
-|   **room_id**    |              `number`              |                                    The ID of the room this furniture can be placed in.                                    |
-|  **furni_type**  | [`FurnitureType`](#furniture-type) |                                        The type of furniture this item represents.                                        |
-|  **exclusive**   |             `boolean`              | Whether this furniture is exclusive to a specific character.<br>This only really makes the game UI tell you it's valuable |
+|     Property     |                Type                |                                                         Description                                                          |
+| :--------------: | :--------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
+| **purchaseable** |             `boolean`              |                                          Whether this item can be bought on demand.                                          |
+|   **expires**    |              `number`              | UNIX timestamp after which this furniture cannot be bought anymore, 0 if it can always be bought, -1 if it cannot be bought. |
+|   **room_id**    |              `number`              |                                     The ID of the room this furniture can be placed in.                                      |
+|  **furni_type**  | [`FurnitureType`](#furniture-type) |                                         The type of furniture this item represents.                                          |
+|  **exclusive**   |             `boolean`              |  Whether this furniture is exclusive to a specific character.<br>This only really makes the game UI tell you it's valuable   |
 
 # Dorm3D Collectable
 

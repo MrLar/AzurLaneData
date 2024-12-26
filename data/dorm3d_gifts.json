@@ -9,6 +9,7 @@
     "rarity": 3,
     "id": 1021001,
     "purchaseable": false,
+    "expires": -1,
     "icon": "dorm3d/items/3ddrom_everyone_commongift3",
     "ship": 0,
     "servers": [
@@ -29,6 +30,7 @@
     "rarity": 4,
     "id": 1021002,
     "purchaseable": true,
+    "expires": 0,
     "icon": "dorm3d/items/3ddrom_everyone_commongift2",
     "ship": 0,
     "servers": [
@@ -49,6 +51,7 @@
     "rarity": 5,
     "id": 1021003,
     "purchaseable": true,
+    "expires": 0,
     "icon": "dorm3d/items/3ddrom_everyone_commongift1",
     "ship": 0,
     "servers": [
@@ -69,6 +72,7 @@
     "rarity": 5,
     "id": 2022001,
     "purchaseable": true,
+    "expires": 0,
     "icon": "dorm3d/items/3ddrom_tianlangxing_fancygift2",
     "ship": 371,
     "servers": [
@@ -89,6 +93,7 @@
     "rarity": 5,
     "id": 2022002,
     "purchaseable": true,
+    "expires": 0,
     "icon": "dorm3d/items/3ddrom_tianlangxing_fancygift1",
     "ship": 371,
     "servers": [
@@ -109,6 +114,7 @@
     "rarity": 5,
     "id": 3022101,
     "purchaseable": true,
+    "expires": 0,
     "icon": "dorm3d/items/3ddrom_nengdai_fancygift1",
     "ship": 322,
     "servers": [
