@@ -14,7 +14,7 @@ export interface MapData {
     boss: BossData
     opsi: boolean
     buffs: BossBuff[]
-    buffs_display?: DisplayOnlyBuff[]
+    buffs_display?: DisplayOnlyBuff[][]
     type: MapType
     id: number
 }
