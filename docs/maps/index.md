@@ -53,6 +53,7 @@ Represents a buff for displaying purposes only. It provides:
 |    **name**     | `string` |                                                 Name of the buff.                                                 |
 | **description** | `string` |                                             Description of the buff.                                              |
 |   **month?**    | `number` | **(Optional)** Month this buff is choosen in, if absent for all buffs in the same list, one is choosen at random. |
+|    **icon**     | `number` |                 The icon for this buff. Available under `https://al.mrlar.dev/buffs/<icon>.wepb`.                 |
 
 
 # Map Type

@@ -51627,6 +51627,18 @@
       "icon": "gecheng"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Ever-Changing Light",
+        "description": "When the battle starts, this ships gains the Morning Star's Light status. While in the Morning Star's Light status, this ship's DMG taken is decreased by 40.0% and, when this ship gains this status: deploys 5 rotating shields capable of blocking 30 non-volley shells; when any shield is destroyed, this ship gains the Darkness of Dawn status. While in the Darkness of Dawn status, increases this ship's DMG dealt (up to 20.0%) the lower her HP is; while in this status, if this ship takes more than 30.0% of her HP in DMG: this ship regains the Light of Dawn status.",
+        "icon": "gecheng_1"
+      },
+      {
+        "name": "Domain of the Stars",
+        "description": "Actives one of the following effects based on this ship's active status condition: 1) While in the Morning Star's Light status, recovers 0.5% of this ship's max HP every second; 2) While in the Light of Dawn status, your fleet loses 0.5% of its max HP every 20s.",
+        "icon": "gecheng_2"
+      }
+    ],
     "type": 12,
     "id": 1390
   },
@@ -51662,6 +51674,18 @@
       "icon": "gecheng"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Ever-Changing Light",
+        "description": "When the battle starts, this ships gains the Morning Star's Light status. While in the Morning Star's Light status, this ship's DMG taken is decreased by 60.0% and, when this ship gains this status: deploys 5 rotating shields capable of blocking 50 non-volley shells; when any shield is destroyed, this ship gains the Darkness of Dawn status. While in the Darkness of Dawn status, increases this ship's DMG dealt (up to 40.0%) the lower her HP is; while in this status, if this ship takes more than 30.0% of her HP in DMG: this ship regains the Light of Dawn status.",
+        "icon": "gecheng_1"
+      },
+      {
+        "name": "Domain of the Stars",
+        "description": "Actives one of the following effects based on this ship's active status condition: 1) While in the Morning Star's Light status, recovers 0.75% of this ship's max HP every second; 2) While in the Light of Dawn status, your fleet loses 0.75% of its max HP every 20s.",
+        "icon": "gecheng_2"
+      }
+    ],
     "type": 13,
     "id": 1391
   },
@@ -51697,6 +51721,18 @@
       "icon": "gecheng"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Ever-Changing Light",
+        "description": "When the battle starts, this ships gains the Morning Star's Light status. While in the Morning Star's Light status, this ship's DMG taken is decreased by 80.0% and, when this ship gains this status: deploys 5 rotating shields capable of blocking 70 non-volley shells; when any shield is destroyed, this ship gains the Darkness of Dawn status. While in the Darkness of Dawn status, increases this ship's DMG dealt (up to 60.0%) the lower her HP is; while in this status, if this ship takes more than 30.0% of her HP in DMG: this ship regains the Light of Dawn status.",
+        "icon": "gecheng_1"
+      },
+      {
+        "name": "Domain of the Stars",
+        "description": "Actives one of the following effects based on this ship's active status condition: 1) While in the Morning Star's Light status, recovers 1.0% of this ship's max HP every second; 2) While in the Light of Dawn status, your fleet loses 1.0% of its max HP every 20s.",
+        "icon": "gecheng_2"
+      }
+    ],
     "type": 14,
     "id": 1392
   },
@@ -51732,6 +51768,18 @@
       "icon": "niukasier"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Jug of Sweet Wine ",
+        "description": "When the battle starts: summons a Jug of Sweet Wine. While this summon is on the battlefield, it recovers 2.0% of its max HP every second. When the Jug of Sweet Wine's HP is maxed out, the enemy Newcastle recovers 1.0% of her max HP. 6s after the Jug of Sweet Wine is destroyed, it is resummoned.",
+        "icon": "niukasier_1"
+      },
+      {
+        "name": "Fountain of Youth",
+        "description": "While the Jug of Sweet Wine is on the battlefield, the enemy Newcastle's DMG taken is decreased by 80.0%. When the Jug of Sweet Wine is destroyed: increases the enemy Newcastle's DMG dealt by 2.0%.",
+        "icon": "niukasier_2"
+      }
+    ],
     "type": 12,
     "id": 1393
   },
@@ -51767,6 +51815,18 @@
       "icon": "niukasier"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Jug of Sweet Wine ",
+        "description": "When the battle starts: summons a Jug of Sweet Wine. While this summon is on the battlefield, it recovers 1.0% of its max HP every second. When the Jug of Sweet Wine's HP is maxed out, the enemy Newcastle recovers 1.0% of her max HP. 6s after the Jug of Sweet Wine is destroyed, it is resummoned.",
+        "icon": "niukasier_1"
+      },
+      {
+        "name": "Fountain of Youth",
+        "description": "While the Jug of Sweet Wine is on the battlefield, the enemy Newcastle's DMG taken is decreased by 60.0%. When the Jug of Sweet Wine is destroyed: increases the enemy Newcastle's DMG dealt by 1.0%.",
+        "icon": "niukasier_2"
+      }
+    ],
     "type": 13,
     "id": 1394
   },
@@ -51802,6 +51862,18 @@
       "icon": "niukasier"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Jug of Sweet Wine ",
+        "description": "When the battle starts: summons a Jug of Sweet Wine. While this summon is on the battlefield, it recovers 2.0% of its max HP every second. When the Jug of Sweet Wine's HP is maxed out, the enemy Newcastle recovers 1.0% of her max HP. 6s after the Jug of Sweet Wine is destroyed, it is resummoned.",
+        "icon": "niukasier_1"
+      },
+      {
+        "name": "Fountain of Youth",
+        "description": "While the Jug of Sweet Wine is on the battlefield, the enemy Newcastle's DMG taken is decreased by 80.0%. When the Jug of Sweet Wine is destroyed: increases the enemy Newcastle's DMG dealt by 2.0%.",
+        "icon": "niukasier_2"
+      }
+    ],
     "type": 14,
     "id": 1395
   },
@@ -51837,6 +51909,18 @@
       "icon": "qiaozhiwushi"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Sentinels of Gardiane",
+        "description": "Every 20s, Duke of York fires a barrage, decreasing the SPD of targets hit by 40.0% for 6s. Every 20s, King George V restores 1.0% of Duke of York's max HP.",
+        "icon": "yuekegongjue_1"
+      },
+      {
+        "name": "The Bond of Ichthys",
+        "description": "If Duke of York and King George V are present on the battlefield at the same time, their DMG taken is decreased by 10.0%. If Duke of York is sunk, King George V immediately recovers 2.0% of her max HP; every 20s after that, she recovers 2.0% of her max HP, and her DMG taken is decreased by 10.0% until the battle ends. If King George V is sunk, Duke of York's DMG dealt increases by 10.0% and her barrage gains the following buff: barrages are fired at the targets closest to and furthest from Duke of York, and targets hit by the barrages take 4.0% more DMG until the battle ends.",
+        "icon": "yuekegongjue_2"
+      }
+    ],
     "type": 12,
     "id": 1396
   },
@@ -51872,6 +51956,18 @@
       "icon": "yuekegongjue"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Sentinels of Gardiane",
+        "description": "Every 20s, Duke of York fires a barrage, decreasing the SPD of targets hit by 40.0% for 6s. Every 20s, King George V restores 1.0% of Duke of York's max HP.",
+        "icon": "yuekegongjue_1"
+      },
+      {
+        "name": "The Bond of Ichthys",
+        "description": "If Duke of York and King George V are present on the battlefield at the same time, their DMG taken is decreased by 10.0%. If Duke of York is sunk, King George V immediately recovers 2.0% of her max HP; every 20s after that, she recovers 2.0% of her max HP, and her DMG taken is decreased by 10.0% until the battle ends. If King George V is sunk, Duke of York's DMG dealt increases by 10.0% and her barrage gains the following buff: barrages are fired at the targets closest to and furthest from Duke of York, and targets hit by the barrages take 4.0% more DMG until the battle ends.",
+        "icon": "yuekegongjue_2"
+      }
+    ],
     "type": 12,
     "id": 1397
   },
@@ -51907,6 +52003,18 @@
       "icon": "qiaozhiwushi"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Sentinels of Gardiane",
+        "description": "Every 20s, Duke of York fires a barrage, decreasing the SPD of targets hit by 40.0% for 6s. Every 20s, King George V restores 2.0% of Duke of York's max HP.",
+        "icon": "yuekegongjue_1"
+      },
+      {
+        "name": "The Bond of Ichthys",
+        "description": "If Duke of York and King George V are present on the battlefield at the same time, their DMG taken is decreased by 20.0%. If Duke of York is sunk, King George V immediately recovers 4.0% of her max HP; every 20s after that, she recovers 4.0% of her max HP, and her DMG taken is decreased by 20.0% until the battle ends. If King George V is sunk, Duke of York's DMG dealt increases by 20.0% and her barrage gains the following buff: barrages are fired at the targets closest to and furthest from Duke of York, and targets hit by the barrages take 6.0% more DMG until the battle ends.",
+        "icon": "yuekegongjue_2"
+      }
+    ],
     "type": 13,
     "id": 1398
   },
@@ -51942,6 +52050,18 @@
       "icon": "yuekegongjue"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Sentinels of Gardiane",
+        "description": "Every 20s, Duke of York fires a barrage, decreasing the SPD of targets hit by 40.0% for 6s. Every 20s, King George V restores 2.0% of Duke of York's max HP.",
+        "icon": "yuekegongjue_1"
+      },
+      {
+        "name": "The Bond of Ichthys",
+        "description": "If Duke of York and King George V are present on the battlefield at the same time, their DMG taken is decreased by 20.0%. If Duke of York is sunk, King George V immediately recovers 4.0% of her max HP; every 20s after that, she recovers 4.0% of her max HP, and her DMG taken is decreased by 20.0% until the battle ends. If King George V is sunk, Duke of York's DMG dealt increases by 20.0% and her barrage gains the following buff: barrages are fired at the targets closest to and furthest from Duke of York, and targets hit by the barrages take 6.0% more DMG until the battle ends.",
+        "icon": "yuekegongjue_2"
+      }
+    ],
     "type": 13,
     "id": 1399
   },
@@ -51977,6 +52097,18 @@
       "icon": "qiaozhiwushi"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Sentinels of Gardiane",
+        "description": "Every 20s, Duke of York fires a barrage, decreasing the SPD of targets hit by 40.0% for 6s. Every 20s, King George V restores 3.0% of Duke of York's max HP.",
+        "icon": "yuekegongjue_1"
+      },
+      {
+        "name": "The Bond of Ichthys",
+        "description": "If Duke of York and King George V are present on the battlefield at the same time, their DMG taken is decreased by 30.0%. If Duke of York is sunk, King George V immediately recovers 6.0% of her max HP; every 20s after that, she recovers 6.0% of her max HP, and her DMG taken is decreased by 30.0% until the battle ends. If King George V is sunk, Duke of York's DMG dealt increases by 30.0% and her barrage gains the following buff: barrages are fired at the targets closest to and furthest from Duke of York, and targets hit by the barrages take 8.0% more DMG until the battle ends.",
+        "icon": "yuekegongjue_2"
+      }
+    ],
     "type": 14,
     "id": 1400
   },
@@ -52012,6 +52144,18 @@
       "icon": "yuekegongjue"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Sentinels of Gardiane",
+        "description": "Every 20s, Duke of York fires a barrage, decreasing the SPD of targets hit by 40.0% for 6s. Every 20s, King George V restores 3.0% of Duke of York's max HP.",
+        "icon": "yuekegongjue_1"
+      },
+      {
+        "name": "The Bond of Ichthys",
+        "description": "If Duke of York and King George V are present on the battlefield at the same time, their DMG taken is decreased by 30.0%. If Duke of York is sunk, King George V immediately recovers 6.0% of her max HP; every 20s after that, she recovers 6.0% of her max HP, and her DMG taken is decreased by 30.0% until the battle ends. If King George V is sunk, Duke of York's DMG dealt increases by 30.0% and her barrage gains the following buff: barrages are fired at the targets closest to and furthest from Duke of York, and targets hit by the barrages take 8.0% more DMG until the battle ends.",
+        "icon": "yuekegongjue_2"
+      }
+    ],
     "type": 14,
     "id": 1401
   },
@@ -52047,6 +52191,18 @@
       "icon": "xuefeng"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "I Am Unsinkable",
+        "description": "Every 20s: Yukikaze fires a special barrage at the nearest enemy. 15s after the battle starts, and every 20s after that: the next 40 hits on Yukikaze have their DMG dealt set to 1.",
+        "icon": "xuefeng_1"
+      },
+      {
+        "name": "Multiple Lifelines",
+        "description": "20s after the battle starts, and every 40s after that: summons 3 lifebuoys that last for 20s. Every 0.3s, the lifebuoys heal Yukikaze and themselves for 100.0% of their max HP. When a lifebuoy is destroyed or vanishes, Yukikaze's DMG dealt increases by 1.0% until the battle ends.",
+        "icon": "xuefeng_2"
+      }
+    ],
     "type": 12,
     "id": 1402
   },
@@ -52082,6 +52238,18 @@
       "icon": "xuefeng"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "I Am Unsinkable",
+        "description": "Every 20s: Yukikaze fires a special barrage at the nearest enemy. 15s after the battle starts, and every 20s after that: the next 70 hits on Yukikaze have their DMG dealt set to 1.",
+        "icon": "xuefeng_1"
+      },
+      {
+        "name": "Multiple Lifelines",
+        "description": "20s after the battle starts, and every 40s after that: summons 3 lifebuoys that last for 20s. Every 0.3s, the lifebuoys heal Yukikaze and themselves for 100.0% of their max HP. When a lifebuoy is destroyed or vanishes, Yukikaze's DMG dealt increases by 2.0% until the battle ends.",
+        "icon": "xuefeng_2"
+      }
+    ],
     "type": 13,
     "id": 1403
   },
@@ -52117,6 +52285,18 @@
       "icon": "xuefeng"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "I Am Unsinkable",
+        "description": "Every 20s: Yukikaze fires a special barrage at the nearest enemy. 15s after the battle starts, and every 20s after that: the next 100 hits on Yukikaze have their DMG dealt set to 1.",
+        "icon": "xuefeng_1"
+      },
+      {
+        "name": "Multiple Lifelines",
+        "description": "20s after the battle starts, and every 40s after that: summons 3 lifebuoys that last for 20s. Every 0.3s, the lifebuoys heal Yukikaze and themselves for 100.0% of their max HP. When a lifebuoy is destroyed or vanishes, Yukikaze's DMG dealt increases by 3.0% until the battle ends.",
+        "icon": "xuefeng_2"
+      }
+    ],
     "type": 14,
     "id": 1404
   },
@@ -52152,6 +52332,18 @@
       "icon": "gaoxiong"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Steel Blade Stance",
+        "description": "When the battle starts, Takao gains the Steel Blade Stance status; while in this status, her DMG taken from cannons, torpedoes, and aircraft is reduced by 30.0%. Dealing enough DMG to Takao removes this status, but she will regain it after 10s.",
+        "icon": "gaoxiong_1"
+      },
+      {
+        "name": "Silver Reflection",
+        "description": "When the Steel Blade Stance status is removed, Takao performs a special slashing attack on the closest enemy. Ships hit by this attack have their DMG taken increased by 2.0% until the battle ends. This debuff can stack.",
+        "icon": "gaoxiong_2"
+      }
+    ],
     "type": 12,
     "id": 1405
   },
@@ -52187,6 +52379,18 @@
       "icon": "gaoxiong"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Steel Blade Stance",
+        "description": "When the battle starts, Takao gains the Steel Blade Stance status; while in this status, her DMG taken from cannons, torpedoes, and aircraft is reduced by 60.0%. Dealing enough DMG to Takao removes this status, but she will regain it after 10s.",
+        "icon": "gaoxiong_1"
+      },
+      {
+        "name": "Silver Reflection",
+        "description": "When the Steel Blade Stance status is removed, Takao performs a special slashing attack on the closest enemy. Ships hit by this attack have their DMG taken increased by 4.0% until the battle ends. This debuff can stack.",
+        "icon": "gaoxiong_2"
+      }
+    ],
     "type": 13,
     "id": 1406
   },
@@ -52222,6 +52426,18 @@
       "icon": "gaoxiong"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Steel Blade Stance",
+        "description": "When the battle starts, Takao gains the Steel Blade Stance status; while in this status, her DMG taken from cannons, torpedoes, and aircraft is reduced by 90.0%. Dealing enough DMG to Takao removes this status, but she will regain it after 10s.",
+        "icon": "gaoxiong_1"
+      },
+      {
+        "name": "Silver Reflection",
+        "description": "When the Steel Blade Stance status is removed, Takao performs a special slashing attack on the closest enemy. Ships hit by this attack have their DMG taken increased by 6.0% until the battle ends. This debuff can stack.",
+        "icon": "gaoxiong_2"
+      }
+    ],
     "type": 14,
     "id": 1407
   },
@@ -52257,6 +52473,18 @@
       "icon": "huashengdun"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Unstoppable Duo",
+        "description": "During battle, the Extreme Challenge bosses - South Dakota and Washington - gain the following effect: When this ship would take lethal DMG, if her partner is not in the [Recovery] state, nullifies that instance of DMG and enters the [Recovery] state for 8s (this effect can be triggered a maximum of 3 times, shared between South Dakota and Washington). If her partner is in the [Recovery] state, both this ship and her partner will be defeated. While in the [Recovery] state, this ship dodges all incoming DMG.",
+        "icon": "huashengdun_1"
+      },
+      {
+        "name": "Unbreakable Bonds",
+        "description": "When the effects of \"Unstoppable Duo\" are activated: South Dakota and Washington stop attacking and rejoin at the center of the battlefield after 6s. 2s after they rejoin, restores the HP of the ship that triggered the \"Unstoppable Duo\" effect. This recovery effect can be activated up to 3 times, and the recovery amount decreases with each activation, from 60.0% Max HP to 40.0% to 20.0%.",
+        "icon": "huashengdun_2"
+      }
+    ],
     "type": 12,
     "id": 1408
   },
@@ -52292,6 +52520,18 @@
       "icon": "nandaketa"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Unstoppable Duo",
+        "description": "During battle, the Extreme Challenge bosses - South Dakota and Washington - gain the following effect: When this ship would take lethal DMG, if her partner is not in the [Recovery] state, nullifies that instance of DMG and enters the [Recovery] state for 8s (this effect can be triggered a maximum of 3 times, shared between South Dakota and Washington). If her partner is in the [Recovery] state, both this ship and her partner will be defeated. While in the [Recovery] state, this ship dodges all incoming DMG.",
+        "icon": "huashengdun_1"
+      },
+      {
+        "name": "Unbreakable Bonds",
+        "description": "When the effects of \"Unstoppable Duo\" are activated: South Dakota and Washington stop attacking and rejoin at the center of the battlefield after 6s. 2s after they rejoin, restores the HP of the ship that triggered the \"Unstoppable Duo\" effect. This recovery effect can be activated up to 3 times, and the recovery amount decreases with each activation, from 60.0% Max HP to 40.0% to 20.0%.",
+        "icon": "huashengdun_2"
+      }
+    ],
     "type": 12,
     "id": 1409
   },
@@ -52327,6 +52567,18 @@
       "icon": "huashengdun"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Unstoppable Duo",
+        "description": "During battle, the Extreme Challenge bosses - South Dakota and Washington - gain the following effect: When this ship would take lethal DMG, if her partner is not in the [Recovery] state, nullifies that instance of DMG and enters the [Recovery] state for 8s (this effect can be triggered a maximum of 3 times, shared between South Dakota and Washington). If her partner is in the [Recovery] state, both this ship and her partner will be defeated. While in the [Recovery] state, this ship dodges all incoming DMG.",
+        "icon": "huashengdun_1"
+      },
+      {
+        "name": "Unbreakable Bonds",
+        "description": "When the effects of \"Unstoppable Duo\" are activated: South Dakota and Washington stop attacking and rejoin at the center of the battlefield after 6s. 2s after they rejoin, restores the HP of the ship that triggered the \"Unstoppable Duo\" effect. This recovery effect can be activated up to 3 times, and the recovery amount decreases with each activation, from 60.0% Max HP to 40.0% to 20.0%.",
+        "icon": "huashengdun_2"
+      }
+    ],
     "type": 13,
     "id": 1410
   },
@@ -52362,6 +52614,18 @@
       "icon": "nandaketa"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Unstoppable Duo",
+        "description": "During battle, the Extreme Challenge bosses - South Dakota and Washington - gain the following effect: When this ship would take lethal DMG, if her partner is not in the [Recovery] state, nullifies that instance of DMG and enters the [Recovery] state for 8s (this effect can be triggered a maximum of 3 times, shared between South Dakota and Washington). If her partner is in the [Recovery] state, both this ship and her partner will be defeated. While in the [Recovery] state, this ship dodges all incoming DMG.",
+        "icon": "huashengdun_1"
+      },
+      {
+        "name": "Unbreakable Bonds",
+        "description": "When the effects of \"Unstoppable Duo\" are activated: South Dakota and Washington stop attacking and rejoin at the center of the battlefield after 6s. 2s after they rejoin, restores the HP of the ship that triggered the \"Unstoppable Duo\" effect. This recovery effect can be activated up to 3 times, and the recovery amount decreases with each activation, from 60.0% Max HP to 40.0% to 20.0%.",
+        "icon": "huashengdun_2"
+      }
+    ],
     "type": 13,
     "id": 1411
   },
@@ -52397,6 +52661,18 @@
       "icon": "huashengdun"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Unstoppable Duo",
+        "description": "During battle, the Extreme Challenge bosses - South Dakota and Washington - gain the following effect: When this ship would take lethal DMG, if her partner is not in the [Recovery] state, nullifies that instance of DMG and enters the [Recovery] state for 8s (this effect can be triggered a maximum of 3 times, shared between South Dakota and Washington). If her partner is in the [Recovery] state, both this ship and her partner will be defeated. While in the [Recovery] state, this ship dodges all incoming DMG.",
+        "icon": "huashengdun_1"
+      },
+      {
+        "name": "Unbreakable Bonds",
+        "description": "When the effects of \"Unstoppable Duo\" are activated: South Dakota and Washington stop attacking and rejoin at the center of the battlefield after 6s. 2s after they rejoin, restores the HP of the ship that triggered the \"Unstoppable Duo\" effect. This recovery effect can be activated up to 3 times, and the recovery amount decreases with each activation, from 60.0% Max HP to 40.0% to 20.0%.",
+        "icon": "huashengdun_2"
+      }
+    ],
     "type": 14,
     "id": 1412
   },
@@ -52432,6 +52708,18 @@
       "icon": "nandaketa"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Unstoppable Duo",
+        "description": "During battle, the Extreme Challenge bosses - South Dakota and Washington - gain the following effect: When this ship would take lethal DMG, if her partner is not in the [Recovery] state, nullifies that instance of DMG and enters the [Recovery] state for 8s (this effect can be triggered a maximum of 3 times, shared between South Dakota and Washington). If her partner is in the [Recovery] state, both this ship and her partner will be defeated. While in the [Recovery] state, this ship dodges all incoming DMG.",
+        "icon": "huashengdun_1"
+      },
+      {
+        "name": "Unbreakable Bonds",
+        "description": "When the effects of \"Unstoppable Duo\" are activated: South Dakota and Washington stop attacking and rejoin at the center of the battlefield after 6s. 2s after they rejoin, restores the HP of the ship that triggered the \"Unstoppable Duo\" effect. This recovery effect can be activated up to 3 times, and the recovery amount decreases with each activation, from 60.0% Max HP to 40.0% to 20.0%.",
+        "icon": "huashengdun_2"
+      }
+    ],
     "type": 14,
     "id": 1413
   },
@@ -52467,6 +52755,18 @@
       "icon": "sipeibojue"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Chitinous Shield",
+        "description": "When the battle starts: the Incarnation of Cancer generates a cluster of [Chitinous Shields] around itself (includes 5 Anti-Torpedo shields that can block 4 torpedoes, and 5 Anti-Shelling shields that can block 20 bullets), lasting for 25s. After 25s, the shields will be regenerated.",
+        "icon": "sipeibojue_1"
+      },
+      {
+        "name": "Chelae",
+        "description": "27s after the battle starts: marks an area of the battlefield and Channels; while Channeling, the Movement Speed of your ships will be reduced by 10. After the Channel duration finishes, [Chelae] will spawn, dealing DMG to all ships in your Vanguard within the marked area and immobilizing them for 9s. [Chelae] will only inflict and receive 20.0% collision DMG. When [Chelae] misses its attack or is broken, the Incarnation of Cancer will lose its [Chitinous Shield] and take 100.0% more DMG from your Vanguard for 12s. [Chelae] that are not defeated within 9s will restore 5.0% Max HP to the Incarnation of Cancer and then leave the battlefield.",
+        "icon": "sipeibojue_2"
+      }
+    ],
     "type": 12,
     "id": 1414
   },
@@ -52502,6 +52802,18 @@
       "icon": "sipeibojue"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Chitinous Shield",
+        "description": "When the battle starts: the Incarnation of Cancer generates a cluster of [Chitinous Shields] around itself (includes 5 Anti-Torpedo shields that can block 4 torpedoes, and 5 Anti-Shelling shields that can block 20 bullets), lasting for 25s. After 25s, the shields will be regenerated.",
+        "icon": "sipeibojue_1"
+      },
+      {
+        "name": "Chelae",
+        "description": "27s after the battle starts: marks an area of the battlefield and Channels; while Channeling, the Movement Speed of your ships will be reduced by 10. After the Channel duration finishes, [Chelae] will spawn, dealing DMG to all ships in your Vanguard within the marked area and immobilizing them for 9s. [Chelae] will only inflict and receive 20.0% collision DMG. When [Chelae] misses its attack or is broken, the Incarnation of Cancer will lose its [Chitinous Shield] and take 100.0% more DMG from your Vanguard for 12s. [Chelae] that are not defeated within 9s will restore 5.0% Max HP to the Incarnation of Cancer and then leave the battlefield.",
+        "icon": "sipeibojue_2"
+      }
+    ],
     "type": 13,
     "id": 1415
   },
@@ -52537,6 +52849,18 @@
       "icon": "sipeibojue"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Chitinous Shield",
+        "description": "When the battle starts: the Incarnation of Cancer generates a cluster of [Chitinous Shields] around itself (includes 5 Anti-Torpedo shields that can block 4 torpedoes, and 5 Anti-Shelling shields that can block 20 bullets), lasting for 25s. After 25s, the shields will be regenerated.",
+        "icon": "sipeibojue_1"
+      },
+      {
+        "name": "Chelae",
+        "description": "27s after the battle starts: marks an area of the battlefield and Channels; while Channeling, the Movement Speed of your ships will be reduced by 10. After the Channel duration finishes, [Chelae] will spawn, dealing DMG to all ships in your Vanguard within the marked area and immobilizing them for 9s. [Chelae] will only inflict and receive 20.0% collision DMG. When [Chelae] misses its attack or is broken, the Incarnation of Cancer will lose its [Chitinous Shield] and take 100.0% more DMG from your Vanguard for 12s. [Chelae] that are not defeated within 9s will restore 5.0% Max HP to the Incarnation of Cancer and then leave the battlefield.",
+        "icon": "sipeibojue_2"
+      }
+    ],
     "type": 14,
     "id": 1416
   },
@@ -52572,6 +52896,18 @@
       "icon": "shengdiyage"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Song of the Stars",
+        "description": "Every 18s: this ship sings a loud song, knocking back your Vanguard and decreasing the loading progress of your airstrikes by 5.0%, torpedoes by 10.0%, and main guns by 15.0% (does not affect weapons/aircraft that have already finished loading).",
+        "icon": "shengdiyage_1"
+      },
+      {
+        "name": "Starry Stage",
+        "description": "2s after Song of the Stars activates: spawns a special stage on the battlefield that lasts for 5s. All ships on the stage gain 20 SPD and 20.0% EVA.",
+        "icon": "shengdiyage_2"
+      }
+    ],
     "type": 12,
     "id": 1417
   },
@@ -52607,6 +52943,18 @@
       "icon": "shengdiyage"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Song of the Stars",
+        "description": "Every 18s: this ship sings a loud song, knocking back your Vanguard and decreasing the loading progress of your airstrikes by 10.0%, torpedoes by 15.0%, and main guns by 20.0% (does not affect weapons/aircraft that have already finished loading).",
+        "icon": "shengdiyage_1"
+      },
+      {
+        "name": "Starry Stage",
+        "description": "2s after Song of the Stars activates: spawns a special stage on the battlefield that lasts for 5s. All ships on the stage gain 20 SPD and 20.0% EVA.",
+        "icon": "shengdiyage_2"
+      }
+    ],
     "type": 13,
     "id": 1418
   },
@@ -52642,6 +52990,18 @@
       "icon": "shengdiyage"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Song of the Stars",
+        "description": "Every 18s: this ship sings a loud song, knocking back your Vanguard and decreasing the loading progress of your airstrikes by 15.0%, torpedoes by 20.0%, and main guns by 30.0% (does not affect weapons/aircraft that have already finished loading).",
+        "icon": "shengdiyage_1"
+      },
+      {
+        "name": "Starry Stage",
+        "description": "2s after Song of the Stars activates: spawns a special stage on the battlefield that lasts for 5s. All ships on the stage gain 20 SPD and 20.0% EVA.",
+        "icon": "shengdiyage_2"
+      }
+    ],
     "type": 14,
     "id": 1419
   },
@@ -52677,6 +53037,18 @@
       "icon": "hailunna"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Threat Detection",
+        "description": "Every 20s: decreases this ship's DMG taken by 40.0% for 6s, after which the following is determined: decreases this ship's DMG taken by 40.0% from whichever source (cannons, torpedoes, or aircraft) that inflicted the most DMG to this ship during the 6s period, lasting until the next time \"Threat Detection\" activates. If a ship in your fleet has an SG Radar equipped: \"Threat Detection\" instead activates for the first time 16s after the battle starts.",
+        "icon": "hailunna_1"
+      },
+      {
+        "name": "Scanner Approach",
+        "description": "After \"Threat Detection\" activates: increases this ship's ACC and Evasion Rate by 20.0% for 10s.",
+        "icon": "hailunna_2"
+      }
+    ],
     "type": 12,
     "id": 1420
   },
@@ -52712,6 +53084,18 @@
       "icon": "hailunna"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Threat Detection",
+        "description": "Every 20s: decreases this ship's DMG taken by 40.0% for 6s, after which the following is determined: decreases this ship's DMG taken by 60.0% from whichever source (cannons, torpedoes, or aircraft) that inflicted the most DMG to this ship during the 6s period, lasting until the next time \"Threat Detection\" activates. If a ship in your fleet has an SG Radar equipped: \"Threat Detection\" instead activates for the first time 16s after the battle starts.",
+        "icon": "hailunna_1"
+      },
+      {
+        "name": "Scanner Approach",
+        "description": "After \"Threat Detection\" activates: increases this ship's ACC and Evasion Rate by 30.0% for 10s.",
+        "icon": "hailunna_2"
+      }
+    ],
     "type": 13,
     "id": 1421
   },
@@ -52747,6 +53131,18 @@
       "icon": "hailunna"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Threat Detection",
+        "description": "Every 20s: decreases this ship's DMG taken by 40.0% for 6s, after which the following is determined: decreases this ship's DMG taken by 80.0% from whichever source (cannons, torpedoes, or aircraft) that inflicted the most DMG to this ship during the 6s period, lasting until the next time \"Threat Detection\" activates. If a ship in your fleet has an SG Radar equipped: \"Threat Detection\" instead activates for the first time 16s after the battle starts.",
+        "icon": "hailunna_1"
+      },
+      {
+        "name": "Scanner Approach",
+        "description": "After \"Threat Detection\" activates: increases this ship's ACC and Evasion Rate by 40.0% for 10s.",
+        "icon": "hailunna_2"
+      }
+    ],
     "type": 14,
     "id": 1422
   },
@@ -52782,6 +53178,18 @@
       "icon": "qiye"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Weights of Equilibrium",
+        "description": "18s after the battle starts: this ship summons red and blue weights, and evades all attacks for 8s. After this effect's first activation, it activates again every 40s.",
+        "icon": "qiye_1"
+      },
+      {
+        "name": "Maintain the Balance",
+        "description": "15s after \"Weights of Equilibrium\" activates: all red and blue weights are removed, and for 25s, decreases this ship's DMG taken in 10.0% increments based on the number disparity between the red and blue weights. This DMG-decreasing effect can apply up to 3 times.",
+        "icon": "qiye_2"
+      }
+    ],
     "type": 12,
     "id": 1423
   },
@@ -52817,6 +53225,18 @@
       "icon": "qiye"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Weights of Equilibrium",
+        "description": "18s after the battle starts: this ship summons red and blue weights, and evades all attacks for 8s. After this effect's first activation, it activates again every 40s.",
+        "icon": "qiye_1"
+      },
+      {
+        "name": "Maintain the Balance",
+        "description": "15s after \"Weights of Equilibrium\" activates: all red and blue weights are removed, and for 25s, decreases this ship's DMG taken in 20.0% increments based on the number disparity between the red and blue weights. This DMG-decreasing effect can apply up to 3 times.",
+        "icon": "qiye_2"
+      }
+    ],
     "type": 13,
     "id": 1424
   },
@@ -52852,6 +53272,18 @@
       "icon": "qiye"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Weights of Equilibrium",
+        "description": "18s after the battle starts: this ship summons red and blue weights, and evades all attacks for 8s. After this effect's first activation, it activates again every 40s.",
+        "icon": "qiye_1"
+      },
+      {
+        "name": "Maintain the Balance",
+        "description": "15s after \"Weights of Equilibrium\" activates: all red and blue weights are removed, and for 25s, decreases this ship's DMG taken in 30.0% increments based on the number disparity between the red and blue weights. This DMG-decreasing effect can apply up to 3 times.",
+        "icon": "qiye_2"
+      }
+    ],
     "type": 14,
     "id": 1425
   },
@@ -52887,6 +53319,18 @@
       "icon": "aierbin"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Scorpion's Mist ",
+        "description": "18s after the battle starts and every 40s after the first activation: creates a noxious mist on the battlefield, increasing this ship's Evasion Rate by 20.0% for 20s. Other ships that enter the mist suffer the Scorpion's Venom status effect, reducing their Evasion Rate by 40.0%, but increasing their DMG dealt by 20.0%. Any kind of healing effect cancels out Scorpion's Venom.",
+        "icon": "aierbin_1"
+      },
+      {
+        "name": "Fatal Sting",
+        "description": "3s after Scorpion's Mist activates: fires a special barrage. If a ship hit by this barrage has the Scorpion's Venom status effect, this attack inflicts additional DMG equal to 10.0% of that ship's HP.",
+        "icon": "aierbin_2"
+      }
+    ],
     "type": 12,
     "id": 1426
   },
@@ -52922,6 +53366,18 @@
       "icon": "aierbin"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Scorpion's Mist ",
+        "description": "18s after the battle starts and every 40s after the first activation: creates a noxious mist on the battlefield, increasing this ship's Evasion Rate by 20.0% for 20s. Other ships that enter the mist suffer the Scorpion's Venom status effect, reducing their Evasion Rate by 60.0%, but increasing their DMG dealt by 40.0%. Any kind of healing effect cancels out Scorpion's Venom.",
+        "icon": "aierbin_1"
+      },
+      {
+        "name": "Fatal Sting",
+        "description": "3s after Scorpion's Mist activates: fires a special barrage. If a ship hit by this barrage has the Scorpion's Venom status effect, this attack inflicts additional DMG equal to 20.0% of that ship's HP.",
+        "icon": "aierbin_2"
+      }
+    ],
     "type": 13,
     "id": 1427
   },
@@ -52957,6 +53413,18 @@
       "icon": "aierbin"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Scorpion's Mist ",
+        "description": "18s after the battle starts and every 40s after the first activation: creates a noxious mist on the battlefield, increasing this ship's Evasion Rate by 20.0% for 20s. Other ships that enter the mist suffer the Scorpion's Venom status effect, reducing their Evasion Rate by 80.0%, but increasing their DMG dealt by 60.0%. Any kind of healing effect cancels out Scorpion's Venom.",
+        "icon": "aierbin_1"
+      },
+      {
+        "name": "Fatal Sting",
+        "description": "3s after Scorpion's Mist activates: fires a special barrage. If a ship hit by this barrage has the Scorpion's Venom status effect, this attack inflicts additional DMG equal to 30.0% of that ship's HP.",
+        "icon": "aierbin_2"
+      }
+    ],
     "type": 14,
     "id": 1428
   },
@@ -52992,6 +53460,18 @@
       "icon": "yanzhan"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Blinding Burst ",
+        "description": "12s after the battle starts, and every 20s after that: performs a charge attack. If successfully charged: fires a special barrage; if this barrage hits even once: inflicts the Darkness ailment on your fleet for 10s; if the charge is interrupted: instead increases this ship's DMG dealt by 3.0% (can stack up to 20 times).",
+        "icon": "yanzhan_1"
+      },
+      {
+        "name": "Surefire Shot",
+        "description": "Every 20s: targets your Main Fleet ship that most recently launched an airstrike or fired her Main Guns and fires a special barrage at her (if no one in your Main Fleet has fired her Main Guns or launched an airstrike, this ship will target your whole Main Fleet). If the ship hit by this barrage has the Darkness ailment: additionally deals 10.0% of that shipgirl's HP in DMG.",
+        "icon": "yanzhan_2"
+      }
+    ],
     "type": 12,
     "id": 1429
   },
@@ -53027,6 +53507,18 @@
       "icon": "yanzhan"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Blinding Burst ",
+        "description": "12s after the battle starts, and every 20s after that: performs a charge attack. If successfully charged: fires a special barrage; if this barrage hits even once: inflicts the Darkness ailment on your fleet for 10s; if the charge is interrupted: instead increases this ship's DMG dealt by 4.0% (can stack up to 20 times).",
+        "icon": "yanzhan_1"
+      },
+      {
+        "name": "Surefire Shot",
+        "description": "Every 20s: targets your Main Fleet ship that most recently launched an airstrike or fired her Main Guns and fires a special barrage at her (if no one in your Main Fleet has fired her Main Guns or launched an airstrike, this ship will target your whole Main Fleet). If the ship hit by this barrage has the Darkness ailment: additionally deals 20.0% of that shipgirl's HP in DMG.",
+        "icon": "yanzhan_2"
+      }
+    ],
     "type": 13,
     "id": 1430
   },
@@ -53062,6 +53554,18 @@
       "icon": "yanzhan"
     },
     "buffs": [],
+    "buffs_display": [
+      {
+        "name": "Blinding Burst ",
+        "description": "12s after the battle starts, and every 20s after that: performs a charge attack. If successfully charged: fires a special barrage; if this barrage hits even once: inflicts the Darkness ailment on your fleet for 10s; if the charge is interrupted: instead increases this ship's DMG dealt by 5.0% (can stack up to 20 times).",
+        "icon": "yanzhan_1"
+      },
+      {
+        "name": "Surefire Shot",
+        "description": "Every 20s: targets your Main Fleet ship that most recently launched an airstrike or fired her Main Guns and fires a special barrage at her (if no one in your Main Fleet has fired her Main Guns or launched an airstrike, this ship will target your whole Main Fleet). If the ship hit by this barrage has the Darkness ailment: additionally deals 30.0% of that shipgirl's HP in DMG.",
+        "icon": "yanzhan_2"
+      }
+    ],
     "type": 14,
     "id": 1431
   }
