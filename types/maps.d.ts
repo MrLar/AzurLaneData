@@ -14,6 +14,7 @@ export interface MapData {
     boss: BossData
     opsi: boolean
     buffs: BossBuff[]
+    buffs_display?: DisplayOnlyBuff[]
     type: MapType
     id: number
 }
@@ -22,6 +23,13 @@ interface BossBuff {
     key: BuffStatKey
     amount: number
     self: boolean
+}
+
+interface DisplayOnlyBuff {
+    name: string
+    description: string
+    // 0 indexed
+    month?: number
 }
 
 type MapType =
@@ -52,4 +60,6 @@ interface BossData {
     survival_boost: number
     tactics_boost: number
     icon: string
+    // width, height, length
+    cld: number[]
 }

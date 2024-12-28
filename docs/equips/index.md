@@ -23,6 +23,8 @@ All equipments/augments in the provided data share the following properties:
 | **speciality**  |                `string`                |                                                                                                                                          In game speciality text.                                                                                                                                           |
 | **obtainable**  |               `boolean`                |                                                                                                                               Whether this equipment is currently obtainable.                                                                                                                               |
 |  **important**  |               `boolean`                |                                                                                                                 Whether this equipment will show a warning before being scrapped/consumed.                                                                                                                  |
+|  **aliases?**   |               `string[]`               |                                                                            **(Optional)** List of all known community aliases this equipment/augment has. For augments this is only an alias that includes the name of the ship.                                                                            |
+
 
 ## Generics
 

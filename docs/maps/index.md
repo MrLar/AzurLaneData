@@ -6,15 +6,16 @@ title: Map Documentation
 
 Structure for a boss fight in the game. Contains the following properties:
 
-|  Property   |                  Type                  |                                                         Description                                                          |
-| :---------: | :------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
-|  **name**   |                `string`                |       The name of the map (for non campaign maps this is often the boss name + associated event or another descriptor)       |
-|   **acv**   |                `number`                | Enemy Airspace control value used to determine Airspace control buffs. -1 indicates the Airspace should be considered empty. |
-|  **boss**   |        [`BossData`](#boss-data)        |                                                   Data of the boss enemy.                                                    |
-|  **opsi**   |               `boolean`                |                                  Whether the fight is considered and operation siren fight.                                  |
-| **servers** | [`AlServer[]`](../common.md#al-server) |                              List of servers this fight is (or at any point was) available in.                               |
-|  **buffs**  |        [`BossBuff`](#boss-buff)        |                                           Buffs that are active during this fight.                                           |
-|  **type**   |         [`MapType`](#map-type)         |                                                    The type of map/fight.                                                    |
+|     Property      |                    Type                     |                                                                          Description                                                                          |
+| :---------------: | :-----------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|     **name**      |                  `string`                   |                       The name of the map (for non campaign maps this is often the boss name + associated event or another descriptor)                        |
+|      **acv**      |                  `number`                   |                 Enemy Airspace control value used to determine Airspace control buffs. -1 indicates the Airspace should be considered empty.                  |
+|     **boss**      |          [`BossData`](#boss-data)           |                                                                    Data of the boss enemy.                                                                    |
+|     **opsi**      |                  `boolean`                  |                                                  Whether the fight is considered and operation siren fight.                                                   |
+|    **servers**    |   [`AlServer[]`](../common.md#al-server)    |                                               List of servers this fight is (or at any point was) available in.                                               |
+|    **buffs?**     |          [`BossBuff`](#boss-buff)           |                                                           Buffs that are active during this fight.                                                            |
+| **buffs_display** | [`DisplayOnlyBuff[][]`](#display-only-buff) | **(Optional)** Buffs that should be displayed along side the enemy. These *can* be handled if one desires but one would have to parse the actual description. |
+|     **type**      |           [`MapType`](#map-type)            |                                                                    The type of map/fight.                                                                     |
 
 # Boss Data
 
@@ -31,6 +32,7 @@ Represents a boss enemy. Provides the following properties:
 | **survival_boost** |            `number`             |                              Enemy survival boost value during operation siren. Always `0` if `opsi` is `false`.                              |
 | **tactics_boost**  |            `number`             |                              Enemy tactics boost value during operation siren. Always `0` if `opsi` is `false`.                               |
 |      **icon**      |            `string`             |                       The icon the enemy uses lower cased. Available under `https://als.mrlar.dev/compact/<icon>.webp`.                       |
+|      **cld**       |           `number[]`            |             The bosses hitbox size in x,y,z coordinates (In the game code the y coordinate is actually called z and vice versa.).             |
 
 # Boss Buff
 
@@ -41,6 +43,17 @@ Represents a buff active during a boss fight. Provides the following:
 |  **key**   | [`BuffStatKey`](../common.md#buff-stat-keys) |                                 Stat to affect.                                  |
 | **amount** |                   `number`                   |          (Percentage) amount to increase (or descrease if negative) by.          |
 |  **self**  |                  `boolean`                   | Whether the boss affects itself. If false the players fleet is affected instead. |
+
+# Display Only Buff 
+
+Represents a buff for displaying purposes only. It provides:
+
+|    Property     |   Type   |                                                    Description                                                    |
+| :-------------: | :------: | :---------------------------------------------------------------------------------------------------------------: |
+|    **name**     | `string` |                                                 Name of the buff.                                                 |
+| **description** | `string` |                                             Description of the buff.                                              |
+|   **month?**    | `number` | **(Optional)** Month this buff is choosen in, if absent for all buffs in the same list, one is choosen at random. |
+
 
 # Map Type
 Map Type is a numeric value with the range `[1, 14]` where each number represents a type of map:

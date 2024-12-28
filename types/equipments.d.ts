@@ -25,13 +25,13 @@ export interface BaseEquipData<T> {
     speciality: string
     obtainable: boolean
     important: boolean
+    aliases?: string[]
 }
 export interface EquipmentData extends BaseEquipData<EquipmentType> {
     tech: number
     hull_restriction: Hull[]
     armaments: Armament[] | null
     weapon: Weapon | Aircraft | null
-    aliases?: string[]
     equippable_main: Hull[]
     equippable_sub: Hull[]
 }
