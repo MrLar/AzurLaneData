@@ -48,13 +48,13 @@ Represents a buff active during a boss fight. Provides the following:
 
 Represents a buff for displaying purposes only. It provides:
 
-|    Property     |   Type   |                                                                      Description                                                                      |
-| :-------------: | :------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    **name**     | `string` |                                                                   Name of the buff.                                                                   |
-| **description** | `string` |                                                               Description of the buff.                                                                |
-|   **month?**    | `number` |      **(Optional)** Month this buff is choosen in, if absent for all buffs in the same list, one is choosen at random. This is 0 indexed (0-11).      |
-|    **icon?**    | `number` | **(Optional)** The icon for this buff. Available under `https://al.mrlar.dev/buffs/<icon>.wepb`. If null, you will have to create your own fall back. |
-|   **color?**    | `number` |                                                     **(Optional)** The skill color for this buff.                                                     |
+|    Property     |                     Type                     |                                                                      Description                                                                      |
+| :-------------: | :------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    **name**     |                   `string`                   |                                                                   Name of the buff.                                                                   |
+| **description** |                   `string`                   |                                                               Description of the buff.                                                                |
+|   **month?**    |                   `number`                   |      **(Optional)** Month this buff is choosen in, if absent for all buffs in the same list, one is choosen at random. This is 0 indexed (0-11).      |
+|    **icon?**    |                   `number`                   | **(Optional)** The icon for this buff. Available under `https://al.mrlar.dev/buffs/<icon>.wepb`. If null, you will have to create your own fall back. |
+|   **color?**    | [`SkillType`](../skills/index.md#skill-type) |                                                     **(Optional)** The skill color for this buff.                                                     |
 
 
 # Map Type

@@ -7,6 +7,7 @@
  */
 
 import type { BuffStatKey, Hull, Nation } from './common'
+import { type SkillType } from './skills'
 
 export interface MapData {
     name: string
@@ -31,6 +32,7 @@ interface DisplayOnlyBuff {
     // 0 indexed
     month?: number
     icon?: string
+    color?: SkillType
 }
 
 type MapType =
