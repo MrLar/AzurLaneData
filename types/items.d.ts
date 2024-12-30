@@ -10,6 +10,7 @@ export interface ItemDrop {
     icon: string
     name: string
     level?: number
+    ship_id?: number
 }
 
 export interface ItemStack {
