@@ -30,7 +30,7 @@ interface DisplayOnlyBuff {
     description: string
     // 0 indexed
     month?: number
-    icon: string
+    icon?: string
 }
 
 type MapType =

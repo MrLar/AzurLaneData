@@ -50826,6 +50826,24 @@
         "self": true
       }
     ],
+    "buffs_display": [
+      [
+        {
+          "name": "[Cards of Light and Dark]",
+          "description": "This ship can lay down special light and dark cards. The cards inflict area of effect damage.",
+          "icon": null,
+          "color": 3
+        }
+      ],
+      [
+        {
+          "name": "[Silvergrass and the Pale Moon]",
+          "description": "This ship can generate a special field that fires high-damage energy balls.",
+          "icon": null,
+          "color": 1
+        }
+      ]
+    ],
     "type": 9,
     "id": 1370
   },
@@ -50866,6 +50884,24 @@
         "amount": 0.2,
         "self": true
       }
+    ],
+    "buffs_display": [
+      [
+        {
+          "name": "[Renegade Sniper]",
+          "description": "This ship can conjure hovering cannons that fire at you.",
+          "icon": null,
+          "color": 2
+        }
+      ],
+      [
+        {
+          "name": "[Shadow Skirmisher]",
+          "description": "This ship can spawn phantoms of mass-produced destroyers that fight alongside her.",
+          "icon": null,
+          "color": 1
+        }
+      ]
     ],
     "type": 9,
     "id": 1371
@@ -50908,6 +50944,24 @@
         "self": true
       }
     ],
+    "buffs_display": [
+      [
+        {
+          "name": "[Scanner Hacking]",
+          "description": "This ship can generate a special field. Ships within this field take more damage.",
+          "icon": null,
+          "color": 1
+        }
+      ],
+      [
+        {
+          "name": "[Zeroth Quadrant Expansion -5%]",
+          "description": "This ship can generate a special field that affects the entire battlefield, increasing the damage both sides take.",
+          "icon": null,
+          "color": 2
+        }
+      ]
+    ],
     "type": 9,
     "id": 1372
   },
@@ -50948,6 +51002,24 @@
         "amount": 0.2,
         "self": true
       }
+    ],
+    "buffs_display": [
+      [
+        {
+          "name": "Akatan of Blossoming Flame",
+          "description": "This ship can lay down special cards that form chains of fire and explode.",
+          "icon": null,
+          "color": 3
+        }
+      ],
+      [
+        {
+          "name": "Scorching Seas",
+          "description": "This ship can conjure flames across the screen, inflicting the Burn ailment to ships they come in contact with.",
+          "icon": null,
+          "color": 1
+        }
+      ]
     ],
     "type": 9,
     "id": 1373
@@ -50990,6 +51062,24 @@
         "self": true
       }
     ],
+    "buffs_display": [
+      [
+        {
+          "name": "Seething Chains",
+          "description": "This ship can conjure binding chains, decreasing the SPD of ships they come in contact with.",
+          "icon": null,
+          "color": 1
+        }
+      ],
+      [
+        {
+          "name": "Kaiser Torpedoes",
+          "description": "This ship can fire supermassive underwater torpedoes that inflict huge damage to Main Fleet ships they come in contact with.",
+          "icon": null,
+          "color": 2
+        }
+      ]
+    ],
     "type": 9,
     "id": 1374
   },
@@ -51030,6 +51120,24 @@
         "amount": 0.2,
         "self": true
       }
+    ],
+    "buffs_display": [
+      [
+        {
+          "name": "Iron Whip",
+          "description": "This ship can fire a special spinning barrage.",
+          "icon": null,
+          "color": 1
+        }
+      ],
+      [
+        {
+          "name": "Kaiser Torpedoes",
+          "description": "This ship can fire supermassive underwater torpedoes that inflict huge damage to Main Fleet ships they come in contact with.",
+          "icon": null,
+          "color": 2
+        }
+      ]
     ],
     "type": 9,
     "id": 1375
@@ -51072,6 +51180,32 @@
         "self": true
       }
     ],
+    "buffs_display": [
+      [
+        {
+          "name": "Repulsing Pyrotechnics",
+          "description": "When the battle starts, this ship can create 3 barriers that reduce the damage she takes. \nEvery time your ships fire torpedoes, a main gun volley, or launch an airstrike, the barrier counter increases by 1, 2, and 2, respectively. Every time the barrier counter reaches 6, 1 barrier is negated.",
+          "icon": null,
+          "color": 3
+        }
+      ],
+      [
+        {
+          "name": "Repulse's Resolve",
+          "description": "Each time a \"Repulsing Pyrotechnics\" barrier is negated, this ship's damage dealt increases and her attack pattern changes. \nOnce all barriers have been negated, this ship will enter a ferocious attack phase.",
+          "icon": null,
+          "color": 2
+        }
+      ],
+      [
+        {
+          "name": "Heart of Lava",
+          "description": "This ship can launch huge lava projectiles, inflicting huge damage to Main Fleet ships they come in contact with as well as rendering aircraft carriers Detected.",
+          "icon": null,
+          "color": 1
+        }
+      ]
+    ],
     "type": 9,
     "id": 1376
   },
@@ -51112,6 +51246,40 @@
         "amount": 0.2,
         "self": true
       }
+    ],
+    "buffs_display": [
+      [
+        {
+          "name": "Meteor Shower",
+          "description": "This ship can launch a special barrage consisting of meteors.",
+          "icon": null,
+          "color": 3
+        }
+      ],
+      [
+        {
+          "name": "Ashen Might - Storm",
+          "description": "This ship can execute a charged attack. Every time this attack goes off without being interrupted, this ship's damage dealt increases. \nThe second time this attack is successfully executed, this ship's attack pattern changes and her ACC and damage dealt increases, but her damage taken increases.",
+          "icon": null,
+          "color": 2
+        }
+      ],
+      [
+        {
+          "name": "Ashen Might - Lull",
+          "description": "Every time this ship's charged attack is interrupted as a result of damage from your ships, a portion of this ship's HP is restored and her damage taken is decreased. \nThe second time this attack is interrupted, this ship's attack pattern changes and her damage taken decreases, but her ACC and damage dealt decreases.",
+          "icon": null,
+          "color": 2
+        }
+      ],
+      [
+        {
+          "name": "Heart of Lava",
+          "description": "This ship can launch huge lava projectiles, inflicting huge damage to Main Fleet ships they come in contact with as well as rendering aircraft carriers Detected.",
+          "icon": null,
+          "color": 1
+        }
+      ]
     ],
     "type": 9,
     "id": 1377
@@ -51154,6 +51322,24 @@
         "self": true
       }
     ],
+    "buffs_display": [
+      [
+        {
+          "name": "Contagious Lament",
+          "description": "This ship summons a blue fog during battle. Ships inside this fog have reduced SPD and take more DMG.\nThe fog's debuffs become stronger the longer your ships remain inside the fog. The debuffs gradually disappear once your ships exit the fog.",
+          "icon": null,
+          "color": 1
+        }
+      ],
+      [
+        {
+          "name": "Sea of Black Tears",
+          "description": "When an enemy ship's max HP falls below 50.0%, she begins recovering HP for the rest of the battle.\nWhen an enemy ship's max HP falls below 20.0%, all her HP recovery will instead be dealt as DMG.",
+          "icon": null,
+          "color": 2
+        }
+      ]
+    ],
     "type": 9,
     "id": 1378
   },
@@ -51194,6 +51380,24 @@
         "amount": 0.2,
         "self": true
       }
+    ],
+    "buffs_display": [
+      [
+        {
+          "name": "Dominion Expansion",
+          "description": "This ship exerts a field of dominion and summons Phantom Knights during battle. The Phantom Knights are resistant to attacks from non-META ships. \nOnce all Phantom Knights have been defeated, this ship becomes weaker and permanently takes increased DMG.",
+          "icon": null,
+          "color": 2
+        }
+      ],
+      [
+        {
+          "name": "META Affinity",
+          "description": "This ship takes more DMG from your META ships, but also deals more DMG to your non-META ships.",
+          "icon": null,
+          "color": 1
+        }
+      ]
     ],
     "type": 9,
     "id": 1379
@@ -51236,6 +51440,24 @@
         "self": true
       }
     ],
+    "buffs_display": [
+      [
+        {
+          "name": "Pillar of Sin",
+          "description": "When the battle starts: summons 4 [Pillars of Sin] that reduces DMG taken by Algérie META by 40.0%.\nWhen any [Pillar of Sin] takes DMG: 20.0% of that DMG is instead redirected to Algérie META.",
+          "icon": null,
+          "color": 3
+        }
+      ],
+      [
+        {
+          "name": "Expurgating Flame",
+          "description": "Algérie META's attacks inflict a special [Expurgating Flame] Burn status that deals high fixed DMG over a short duration.\nAdditionally, every 8s: inflicts [Expurgating Flame] on the target with the lowest HP percentage. This effect ignores the Main Fleet's Detection status.",
+          "icon": null,
+          "color": 2
+        }
+      ]
+    ],
     "type": 9,
     "id": 1380
   },
@@ -51277,6 +51499,32 @@
         "self": true
       }
     ],
+    "buffs_display": [
+      [
+        {
+          "name": "Ironclad Ultimatum",
+          "description": "10s after the battle starts: decreases this ship's DMG taken by 20.0% until the battle ends.",
+          "icon": null,
+          "color": 1
+        }
+      ],
+      [
+        {
+          "name": "Fragmented Alliance",
+          "description": "If you have ships from 2 or more different factions in your fleet: for each unique faction after the 1st, increases this ship's every stat by 5.0%. \nCollab ships, except for blueprint ships, are not counted.",
+          "icon": null,
+          "color": 3
+        }
+      ],
+      [
+        {
+          "name": "Inevitable Fate",
+          "description": "50s after the battle starts: until the battle ends, increases this ship's DMG taken by 10.0% for every 4s passed.",
+          "icon": null,
+          "color": 2
+        }
+      ]
+    ],
     "type": 9,
     "id": 1381
   },
@@ -51312,6 +51560,24 @@
       "icon": "jiluofu_alter"
     },
     "buffs": [],
+    "buffs_display": [
+      [
+        {
+          "name": "Mechanized Support",
+          "description": "Kirov META summons 2 combat support units, Vspyshka and Kometa.\nVspyshka is a unit with Heavy Armor, close-range electric weapons, and homing bomb launchers, and takes increased torpedo DMG.Kometa is a unit with Medium Armor, long-range laser weapons, and bombs that cause freezing, and takes increased cannon DMG.\nWhen a support unit is destroyed, it respawns after 3s.",
+          "icon": null,
+          "color": 1
+        }
+      ],
+      [
+        {
+          "name": "Live and Die by Teamwork",
+          "description": "Increases Kirov META's FP, TRP, and ACC for each active support unit. When a support unit is destroyed: decreases Kirov META's defense until the battle ends.",
+          "icon": null,
+          "color": 2
+        }
+      ]
+    ],
     "type": 9,
     "id": 1382
   },
@@ -51347,6 +51613,32 @@
       "icon": "luodeni_alter"
     },
     "buffs": [],
+    "buffs_display": [
+      [
+        {
+          "name": "Dimensional Transcendence",
+          "description": "When your fleet fires a main gun salvo or launches an airstrike consecutively within 1.5 seconds of each other, Rodney META enters the Dimensional Transcendence state, increasing her SPD and making her untargetable and immune to DMG for 4s.",
+          "icon": null,
+          "color": 2
+        }
+      ],
+      [
+        {
+          "name": "My Phantoms",
+          "description": "When the battle starts: summons 7 phantoms of Rodney. \nThe phantoms do not attack and their DMG taken is set to 1. When a phantom is eliminated, Rodney META's DMG dealt increases and her DMG taken decreases. \nWhen the battle is at 10s remaining: all phantoms are eliminated.",
+          "icon": null,
+          "color": 3
+        }
+      ],
+      [
+        {
+          "name": "Rodney's Demise",
+          "description": "When all Rodney phantoms are eliminated, Rodney META enters the Dimensional Transcendence state; when this state ends, Rodney METAfires the final shot, ending the battle.",
+          "icon": null,
+          "color": 1
+        }
+      ]
+    ],
     "type": 9,
     "id": 1383
   },
@@ -51382,6 +51674,32 @@
       "icon": "weiqita_alter"
     },
     "buffs": [],
+    "buffs_display": [
+      [
+        {
+          "name": "Tooth and Nail",
+          "description": "Every time this ship loses 5.0% of her max HP in total, her DMG dealt increases by 5.0%.",
+          "icon": null,
+          "color": 3
+        }
+      ],
+      [
+        {
+          "name": "Chains of Flickering Flames",
+          "description": "When this ship hits one of your ships with her chain, that ship will be restrained, temporarily rendering her unable to attack or move and increases her DMG taken by 20.0%.",
+          "icon": null,
+          "color": 1
+        }
+      ],
+      [
+        {
+          "name": "The Final Strike",
+          "description": "When the battle is nearly over, this ship deploys the Council-Style MK XIII Orbital Cannon, dealing massive damage to all targets on the battlefield.",
+          "icon": null,
+          "color": 2
+        }
+      ]
+    ],
     "type": 9,
     "id": 1384
   },
@@ -51417,6 +51735,24 @@
       "icon": "changmen_alter"
     },
     "buffs": [],
+    "buffs_display": [
+      [
+        {
+          "name": "The Moon Waxes and Wanes",
+          "description": "The battlefield cycles between the Waxing Moon and Waning Moon states every 15s.\nIn the Waxing Moon state, Nagato META's DMG dealt increases by 20%, and the potency of your fleet's healing effects increases by 100%.\nIn the Waning Moon state, Nagato META's DMG dealt decreases by 20%, and the potency of your fleet's healing effects decreases by 50%.",
+          "icon": null,
+          "color": 2
+        }
+      ],
+      [
+        {
+          "name": "The Flowers Bloom and Fall",
+          "description": "Creates a barrier around the battlefield which has different effects depending on if the Waxing Moon or Waning Moon state is active.\nIn the Waxing Moon state, all your ships inside the barrier take less DMG.\nIn the Waning Moon state, all your ships inside the barrier gradually lose HP.",
+          "icon": null,
+          "color": 1
+        }
+      ]
+    ],
     "type": 9,
     "id": 1385
   },
@@ -51452,6 +51788,24 @@
       "icon": "dafeng_alter"
     },
     "buffs": [],
+    "buffs_display": [
+      [
+        {
+          "name": "Otherworldly Domain",
+          "description": "Upon losing 50% of her max HP in a single battle, Taihou META will deploy a special domain on the battlefield.\nWithin this domain, Taihou META and her summons deal 20.0% more DMG, and all healing effects from your ships are converted into damage.\nAs long as the domain remains activated, Taihou META deals increased DMG each time one of your ships sinks.",
+          "icon": null,
+          "color": 1
+        }
+      ],
+      [
+        {
+          "name": "Spiritshadow Procession",
+          "description": "During battle, Taihou META will summon Spiritshadows at regular intervals to assist her. All damage dealt to Spiritshadows will also be dealt to Taihou META.\nSpiritshadows will despawn after a period of time.",
+          "icon": null,
+          "color": 2
+        }
+      ]
+    ],
     "type": 9,
     "id": 1487
   },
