@@ -342,7 +342,8 @@ various sources. It provides the following:
 | **blueprint** |             `boolean`             |                                                                   Whether the item is being dropped as a blueprint. Only relevant if `type` is `1`                                                                   |
 |   **icon**    |             `string`              | The icon of the item being dropped (lower cased). Available under `https://al.mrlar.dev/<icon>.webp` if it does not start with `ships/`, otherwise Available under `https://als.mrlar.dev/<icon w/o "ships/">.webp`. |
 |   **name**    |             `string`              |                                                                                      The display name of the item being dropped                                                                                      |
-|  **level**?   |             `number`              |                                                                **(Optional)** Level of the item being dropped. Only relevant for equips and augments                                                                 |
+|  **level?**   |             `number`              |                                                                **(Optional)** Level of the item being dropped. Only relevant for equips and augments                                                                 |
+| **ship_id?**  |             `number`              |                                                                        **(Optional)** ID of the ship the skin (if this is a skin) belongs to.                                                                        |
 
 # Item Drop Type
 
