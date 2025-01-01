@@ -97,7 +97,7 @@ MLB. Its is a `nullable string` and takes on one of the following:
 
 |  Value   |                Description                 |
 | :------: | :----------------------------------------: |
-| `"gnr"`  |   Half the count required to rigger AoA    |
+| `"gnr"`  |   Half the count required to trigger AoA   |
 | `"torp"` |           Reduced torpedo spread           |
 | `"aux"`  | +30% stats gained from auxiliary equipment |
 |  `null`  |              No buff granted               |
@@ -123,7 +123,7 @@ each number represents an in-game equipment type (missing values do not exit in 
 |   7   |     Fighter     |          Fighter Plane          |
 |   8   | Torpedo Bomber  |      Torpedo Bomber Plane       |
 |   9   |   Dive Bomber   |        Dive Bomber Plane        |
-|  10   |   Auxiliariy    |       Auxiliary Equipment       |
+|  10   |    Auxiliary    |       Auxiliary Equipment       |
 |  11   |     CB Gun      |        Large Cruiser Gun        |
 |  12   |    Seaplane     |            Seaplane             |
 |  13   |   Sub Torpedo   |        Submarine Torpedo        |
@@ -154,7 +154,7 @@ augment type:
 |   9   | Cruiser |               Equippable by CL and CA               |
 |  10   |   IX    |           Equippable by IXs, IXv and IXm            |
 
-Note: The type of the augment should be ignored for the purpose of equippability if `limit` of the augment is non-zero.
+Note: The type of the augment should be ignored for the purpose of equippability if `limit_group` of the augment is non-zero.
 
 # Stat Keys
 
