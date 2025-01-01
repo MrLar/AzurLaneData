@@ -94,11 +94,11 @@ represents the base stats of the ship.
 
 Used to determine stats at any given level. Contains the following:
 
-|      Property      |   Type   |                                                                                                                                                                                                                                                                                                                  Description                                                                                                                                                                                                                                                                                                                   |
-| :----------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    **scaling?**    | `object` |                                                                                                                                                                                                                                 **(Optional)** Scalars used to determine stats at each level. Contains one **optional** property of type `number` for each [ScalableStatKey](../common.md#scalable-stat-keys).                                                                                                                                                                                                                                 |
-| **scaling_extra?** | `object` |                                                                                                                                                                                                             **(Optional)** Extra stats granted at each level. Contains one **optional** property of type `number` for each [ScalableStatKey](../common.md#scalable-stat-keys). **At the time of writting no ship-girl uses this.**                                                                                                                                                                                                             |
-|  **strengthen?**   | `object` | **(Optional)** Stats gained from enhancing or PR/DR/META development. Contains one **optional** property of type `number` for each [ScalableStatKey](../common.md#scalable-stat-keys).<br>For non-research, non-meta ships this is the **maximum** gainable and therefore is only accurate if level >= 100.<br>For research ships this is at Dev0, Dev10, Dev20 and Dev30 respectively. It does not include miltestones, those are in [`PRData`](./research.md#pr-data).<br>For META ships it is also the maximum possible (including milestones), but since META development can be finished at any point it can freely be used at any level. |
+|      Property      |   Type   |                                                                                                                                                                                                                                                                                                                               Description                                                                                                                                                                                                                                                                                                                                |
+| :----------------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    **scaling?**    | `object` |                                                                                                                                                                                                                                              **(Optional)** Scalars used to determine stats at each level. Contains one **optional** property of type `number` for each [ScalableStatKey](../common.md#scalable-stat-keys).                                                                                                                                                                                                                                              |
+| **scaling_extra?** | `object` |                                                                                                                                                                                                                          **(Optional)** Extra stats granted at each level. Contains one **optional** property of type `number` for each [ScalableStatKey](../common.md#scalable-stat-keys). **At the time of writting no ship-girl uses this.**                                                                                                                                                                                                                          |
+|  **strengthen?**   | `object` | **(Optional)** Stats gained from enhancing or PR/DR/META development. Contains one **optional** property of type `number` for each [ScalableStatKey](../common.md#scalable-stat-keys).<br>For non-research, non-meta ships this is the **maximum** gainable at level 100. To calculate other levels refer to [here](#all-other-keys).<br>For research ships this is at Dev0, Dev10, Dev20 and Dev30 respectively. It does not include miltestones, those are in [`PRData`](./research.md#pr-data).<br>For META ships it is also the maximum possible (including milestones), but since META development can be finished at any point it can freely be used at any level. |
 
 ## Computing Base Stats
 
@@ -124,7 +124,8 @@ Where:
 - extra: The extra scalar provided by `ShipStatsData.scaling_extra[key]` (or 0)
 - lvl: The Level of the ship
 - strengthen: strengthen values as provided by `ShipStatsData.strengthen[key]`.
-    - For non-research non-meta ships this is only accurate if lvl is >= 100.
+    - For non-research non-meta non-research ships this max attainable at level 100.
+      - You can compute how much the actual maximum at any given level is using the formula at the end.
     - For PR ships it includes all bonuses up to and including the maximum possible Dev level at that
     limit break (Dev0, Dev10, Dev20, Dev30 respectively). Meaning their numbers may be floats and should
     neither be rounded nor floored and just be used as is.
@@ -138,6 +139,13 @@ to [Computing Retrofit Stats](./retrofit.md#computing-retrofit-stats).
 
 If the ship has a fate simulation the stat value
 in [`PRData.fate.stats[key]`](./research.md#fate-data) may be added on top of the computed value.
+
+#### Determine Max Strengthen
+
+To determine max strengthen value at any given level calculate the following:
+$$
+  \lfloor ((3 + 7 \times (\frac{min(100, lvl)}{100}) * total * 0.1) \rfloor
+$$
 
 ## Computing Hunting Range
 
