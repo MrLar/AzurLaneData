@@ -144,7 +144,7 @@ in [`PRData.fate.stats[key]`](./research.md#fate-data) may be added on top of th
 
 To determine max strengthen value at any given level calculate the following:
 $$
-  \lfloor ((3 + 7 \times (\frac{min(100, lvl)}{100})) \times total \times 0.1 \rfloor
+  \lfloor (3 + 7 \times (\frac{min(100, lvl)}{100})) \times total \times 0.1 \rfloor
 $$
 
 ## Computing Hunting Range
