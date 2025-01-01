@@ -13,7 +13,7 @@ Rarity is a numeric value with the range `[1, 8]` where each number represents a
 |   3   |    Rare     |      Rarity for rare ships and equipment      |
 |   4   |    Elite    |     Rarity for elite ships and equipment      |
 |   5   | Super Rare  |   Rarity for super rare ships and equipment   |
-|   6   | Super Rare  |   Rarity for ultra rare ships and equipment   |
+|   6   | Ultra Rare  |   Rarity for ultra rare ships and equipment   |
 |   7   |  Priority   |        Rarity for priority (PR) ships         |
 |   8   |  Decisive   |        Rarity for decisive (DR) ships         |
 
@@ -88,7 +88,7 @@ in-game Ship Hull (missing values do not exit in game):
 |  22   |   IXs   |                                      Frigate (Sub)                                      |
 |  23   |   IXv   |                                   Frigate (Vanguard)                                    |
 |  24   |   IXm   |                                     Frigate (Main)                                      |
-|  25   | Special |                               Catch all for Special hull                                |
+|  25   | Special |                             Defined by the game but unused                              |
 
 # Specific Buff
 
@@ -153,6 +153,8 @@ augment type:
 |   8   |   SS    |              Equippable by SS and SSV               |
 |   9   | Cruiser |               Equippable by CL and CA               |
 |  10   |   IX    |           Equippable by IXs, IXv and IXm            |
+
+Note: The type of the augment should be ignored for the purpose of equippability if `limit` of the augment is non-zero.
 
 # Stat Keys
 

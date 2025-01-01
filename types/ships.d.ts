@@ -49,6 +49,7 @@ export interface ShipData {
     class: string | null
     upgrade_text: UpgradeText[]
     oath_skin?: boolean
+    unique_aug?: number
 }
 
 export interface UpgradeText {

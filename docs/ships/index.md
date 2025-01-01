@@ -40,7 +40,8 @@ properties:
 |       **aliases?**       |                   `string[]`                    |                                                              **(Optional)** List of all known community aliases this ship has.                                                               |
 |        **class**         |               `string` \| `null`                |                                                   Historical/Logical ship class of this ship. This is null for all Collab and meta ships.                                                    |
 |     **upgrade_text**     | [`UpgradeText[]`](./limitbreak.md#upgrade-text) |                                               Text description of what is unlocked at each limit break or development level (for PR/DR ships).                                               |
-|      **oath_skin**       |                    `boolean`                    |                                                          **(Optional)** Whether this ship has an oath skin, treat absent as false.                                                           |
+|      **oath_skin?**      |                    `boolean`                    |                                                          **(Optional)** Whether this ship has an oath skin, treat absent as false.                                                           |
+|     **unique_aug?**      |                     `numer`                     |                                           **(Optional)** The ID of this ships unique augment if any. If absent (or 0) the ship does not have one.                                            |
 
 
 ## Ship Type
@@ -185,7 +186,7 @@ following properties:
 
 Represents data for a ship map drop. Provides 2 properties:
 
-|  Property  |     Type     |                         Description                         |
-| :--------: | :----------: | :---------------------------------------------------------: |
-|  **maps**  |   `number`   |       The map the ship drops on, either 1, 2, 3 or 4.       |
-| - **type** | `0` \|   `1` | The drop type, 0 means any node and 1 means boss node only. |
+| Property |     Type     |                         Description                         |
+| :------: | :----------: | :---------------------------------------------------------: |
+| **maps** |   `number`   |       The map the ship drops on, either 1, 2, 3 or 4.       |
+| **type** | `0` \|   `1` | The drop type, 0 means any node and 1 means boss node only. |
