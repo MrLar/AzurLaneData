@@ -5268,6 +5268,80 @@
       "CN"
     ]
   },
+  "469": {
+    "icon": "default_6",
+    "id": 469,
+    "name": "AA Ghost Gun (Maya Augment)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 6,
+    "description": "",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        226
+      ],
+      "damage": [
+        124
+      ],
+      "coefficient": [
+        1.18
+      ],
+      "count": 1,
+      "delay": 0,
+      "range": [
+        0,
+        35
+      ],
+      "id": 469,
+      "spread_angle": "0° No Spread",
+      "barrage_id": 2000,
+      "stat": "aa",
+      "ratio": 1,
+      "aim_type": 1,
+      "bullet_id": 2000,
+      "armor_mod": [
+        1,
+        1,
+        1
+      ],
+      "ammo": 5,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 100,
+      "pierce": 0,
+      "shell_range": [
+        30,
+        70
+      ],
+      "angle": 360,
+      "volley_info": [
+        1,
+        1
+      ]
+    },
+    "stats": [],
+    "labels": [],
+    "speciality": "",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "470": {
     "icon": "default_14",
     "id": 470,
