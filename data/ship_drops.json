@@ -10732,13 +10732,11 @@
     "timer": "02:00:00",
     "light": false,
     "heavy": false,
-    "limited": null,
+    "limited": "Operation Convergence",
     "special": false,
     "other": [],
     "maps": [],
-    "notes": [
-      "Available as point accumulation reward during Operation Convergence"
-    ]
+    "notes": []
   },
   "244": {
     "id": 244,
@@ -14856,7 +14854,9 @@
     "special": false,
     "other": [],
     "maps": [],
-    "notes": []
+    "notes": [
+      "Available as point accumulation reward during Operation Convergence"
+    ]
   },
   "566": {
     "id": 566,

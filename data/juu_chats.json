@@ -13210,6 +13210,899 @@
     "icon": "aogusite",
     "type": 1
   },
+  "50105": {
+    "id": 50105,
+    "name": "Lung Wu",
+    "topics": [
+      {
+        "id": 56,
+        "name": "Taste Survey",
+        "unlock": {
+          "type": 1,
+          "ship_id": 623
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 1973,
+            "text": "Commander, I noticed you've been very busy of late.",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 1974,
+            "text": "Have you been eating on time?",
+            "user": 50105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "I try to..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 1975,
+            "text": "I try to. I've just had so much to do lately.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1976,
+            "text": "If time is the issue, do you want me to cook for you?",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1977,
+            "text": "I know many recipes like the back of my hand. If you have a favorite dish, I can make it for you!",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1978,
+            "text": "Also, could you tell me how well you like your food seasoned these days?",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 1979,
+            "text": "It'd be good to know for reference!",
+            "user": 50105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "I prefer it lightly seasoned recently."
+              },
+              {
+                "option_id": 3,
+                "text": "I've been fond of heavy seasoning lately."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 1980,
+            "text": "I've found myself mostly eating lightly-seasoned foods these days.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1981,
+            "text": "There is a world of depth even to light dishes. Take boiled cabbage, for instance.",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1982,
+            "text": "It's a dish with an unassuming name, but it requires a very careful technique to make.",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1983,
+            "text": "It's not simply boiled in water, but rather simmered in a soup. Furthermore, only the freshest and sweetest part of the cabbage core will be used.",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1984,
+            "text": "It takes time to carefully balance the flavors, and you also need a keen eye to present the cabbage and soup beautifully.",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1985,
+            "text": "...Sorry, I'm rambling. I just wanted to explain how that dish is made.",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1986,
+            "text": "If you trust my cooking skills, feel free to request more intricate dishes.",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1987,
+            "text": "I'll fulfill all your wishes as best as I can.",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 1988,
+            "text": "As long as they're related to the kitchen, that is...",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1989,
+            "text": "I've found myself enjoying some heavy seasoning for a while.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1990,
+            "text": "Being so busy has made my taste buds crave intense flavors.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1991,
+            "text": "Commander, you have... excellent taste!",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1992,
+            "text": "From fresh, numbing spices, to rich, intense sauces and vibrant, explosive chili flavors...",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1993,
+            "text": "And when it comes to stir-frying, it's my number one specialty!",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1994,
+            "text": "Ahh, the flipping turners, ingredients dancing in the air, and a roar of a big flame!",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1995,
+            "text": "To make a dish bursting with flavor, you need a kitchen and a chef bursting with energy!",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1996,
+            "text": "Whatever kind of flavors you like, I'm ready to try my hand at them all.",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 1997,
+            "text": "...Ahem. Feel free to ask for any dish you like. I will not let you down.",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 1998,
+            "text": "Oh, it's almost dinnertime. I need to head to the kitchen.",
+            "user": 50105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "What, right now?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 1999,
+            "text": "What, right now?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2000,
+            "text": "It's nowhere near dinnertime yet. Do you need to prepare that early?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2001,
+            "text": "No, but I want to carefully consider what I'm going to make for you.",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2002,
+            "text": "Starting today, my special cooking service begins!",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "name": "A Battle in the Kitchen",
+        "unlock": {
+          "type": 2,
+          "ship_id": 623,
+          "affinity": 100
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 2003,
+            "text": "Commander, was that you standing by the kitchen door just now?",
+            "user": 50105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Yeah. I saw you down in the trenches!"
+              },
+              {
+                "option_id": 2,
+                "text": "It was an amazing performance."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 2004,
+            "text": "Yeah. I saw you down in the trenches!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 2005,
+            "text": "\"In the trenches\"... Does me cooking in the kitchen look like a battle to you, Commander?",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 2006,
+            "text": "Does seeing it make you... stressed?",
+            "user": 50105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "Not really."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 2007,
+            "text": "Not really. No stress here.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2008,
+            "text": "I mean, what kind of battlefield smells like savory happiness, right?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2009,
+            "text": "I remember you once saying that the kitchen is like a battlefield. Seeing you there was really fun.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2010,
+            "text": "Heheh...",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2011,
+            "text": "The stove's temperature is like an enemy: You must always be vigilant.",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2012,
+            "text": "Time is your ally and your indispensable partner.",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2013,
+            "text": "The cooking utensils are your trusty weapons, and seasoning is the secret ace up your sleeve.",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2014,
+            "text": "Once you're in position, all that's left is to cook the perfect meal!",
+            "user": 50105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "Honestly, it's wonderful."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 2015,
+            "text": "Sure was, and what an amazing performance you put on. It looked and smelled incredible.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 2016,
+            "text": "Thank you...",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 2017,
+            "text": "part2_brcr",
+            "user": 50105,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "You were like a martial arts master in their element."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 2018,
+            "text": "When you cook, you have the aura of a martial arts master in their element.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2019,
+            "text": "Your movements in the kitchen flow like water. It's so cool!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2020,
+            "text": "You really think so? People often tell me I look terrifying in the kitchen...",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2021,
+            "text": "Wait, it's precisely because I look like a martial arts master, isn't it?",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2022,
+            "text": "I might take my cooking a bit too seriously...",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2023,
+            "text": "But I can't help it! I love making food! It makes me feel free and uninhibited.",
+            "user": 50105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "Honestly, it's wonderful."
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 2024,
+            "text": "I honestly think it's wonderful. I almost clapped in awe when you stirred that pan like that.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 2025,
+            "text": "I'm excited to taste whatever you made.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 2026,
+            "text": "I promise, you won't be disappointed.",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 2027,
+            "text": "I made quite a lot of stir-fried food today, so you'll definitely want some extra rice to go with it.",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 2028,
+            "text": "We should eat together. Eat A LOT together.",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 2029,
+            "text": "I'll arrive at your office in just a minute.",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 2030,
+            "text": "I hope you're ready for a hearty meal!",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "name": "Sweet and Soft?",
+        "unlock": {
+          "type": 2,
+          "ship_id": 623,
+          "affinity": 150
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 2031,
+            "text": "Commander? Commander!",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2032,
+            "text": "Hello are you there?",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2033,
+            "text": "COMMANDER PLEASE ANSWER",
+            "user": 50105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Yes, hello?"
+              },
+              {
+                "option_id": 2,
+                "text": "You don't usually type like this..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 2034,
+            "text": "Yes, hello?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 2035,
+            "text": "I should remind you that this is FleetChat, not a phone call.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 2036,
+            "text": "Shh! I'm messaging the commander here",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 2037,
+            "text": "U knwo there's something sweet and soft in the air where I m",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 2038,
+            "text": "It's just like when I'm with u",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 2039,
+            "text": "A lot of fun, I love itt",
+            "user": 50105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "Okay, you're definitely drunk..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 2040,
+            "text": "You don't usually type like this...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 2041,
+            "text": "Did you just drink alcohol?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 2042,
+            "text": "Alcohol? Uh no it's kychere wunw",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 2043,
+            "text": "Lychee wine....",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 2044,
+            "text": "I wanna feed it 2 u",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 2045,
+            "text": "Its a sweet a nd soft drink",
+            "user": 50105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "Okay, you're definitely drunk..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 2046,
+            "text": "Okay, you're definitely drunk... and yet, still capable of sending messages.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2047,
+            "text": "Are you in the kitchen right now?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2048,
+            "text": "Off coarse!!!",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2049,
+            "text": "I lov ether kitchen",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2050,
+            "text": "Butt if u want me I can love the office too",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2051,
+            "text": "Okay I love it now",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2052,
+            "text": "I want my own kitchen in the office",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2053,
+            "text": "Commander can u please doo something for me??!!!",
+            "user": 50105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Off coarse I can!"
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 2054,
+            "text": "Off coarse I can!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2055,
+            "text": "Heyy",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2056,
+            "text": "Don't imitate me like that!!",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2057,
+            "text": "No talking just eat my food",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2058,
+            "text": "I made sooooooooo much",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2059,
+            "text": "Its so good, perfect for just us 2 eating",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2060,
+            "text": "Let me tell u a secret",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2061,
+            "text": "The lychee wine I made, in the empery it's",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2062,
+            "text": "Its this",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2063,
+            "text": "13",
+            "user": 50105,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "Yeah, it's definitely the best."
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 2064,
+            "text": "Yeah, it's definitely the best.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 2065,
+            "text": "I'll be right over in a minute, so just wait.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 2066,
+            "text": "Wait??",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 2067,
+            "text": "I don't wanna wait",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 2068,
+            "text": "Mee, I want u to eat",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 2069,
+            "text": "Taste like happiness",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          }
+        ]
+      }
+    ],
+    "icon": "longwu",
+    "type": 1
+  },
   "960005": {
     "id": 960005,
     "name": "Whydah",
