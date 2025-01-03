@@ -57308,7 +57308,7 @@
     ]
   },
   "1014070": {
-    "description": "Increases this ship's FP and AA by $1, Main Gun efficiency by $3, and Anti-Air Gun efficiency by $4. Grants this ship a $2 special Anti-Air Gun (DMG is based on the skill's level). Every 20s: fires a $2 improved special barrage (DMG is based on the skill's level).",
+    "description": "Increases this ship's FP and AA by $1, Main Gun efficiency by $3, and {Anti-Air Gun efficiency by $4|Due to the way the skill works this currently does not affect either the built-in AA Gun nor the AA Gun granted by this skill.}. Grants this ship a $2 special Anti-Air Gun (DMG is based on the skill's level). Every 20s: fires a $2 improved special barrage (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Purge Evil+",
     "max": 10,
@@ -57367,7 +57367,7 @@
     ]
   },
   "1014090": {
-    "description": "Increases this ship's FP, AA, and ASW by $1, Main Gun efficiency by $3, and Anti-Air Gun efficiency by $4. Grants this ship a $2 special Anti-Air Gun (DMG is based on the skill's level). Every 20s: fires a $2 improved special barrage (DMG is based on the skill's level).",
+    "description": "Increases this ship's FP, AA, and ASW by $1, Main Gun efficiency by $3, and {Anti-Air Gun efficiency by $4|Due to the way the skill works this currently does not affect either the built-in AA Gun nor the AA Gun granted by this skill.}. Grants this ship a $2 special Anti-Air Gun (DMG is based on the skill's level). Every 20s: fires a $2 improved special barrage (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Cleanse Impurity+",
     "max": 10,
