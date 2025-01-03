@@ -247,7 +247,7 @@ Refers to either the string `van` for Vanguard or `main` for Main Fleet.
 
 # Unlock Type
 
-Unlock Type is a numeric value with the range `[0, 10]` where each number represents a way to obtain a ship:
+Unlock Type is a numeric value with the range `[0, 15]` where each number represents a way to obtain a ship:
 
 | Value |                 Label                 |
 | :---: | :-----------------------------------: |

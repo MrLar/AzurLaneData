@@ -29,9 +29,8 @@ Tech Group level represents a single level of a Tech Group:
 Represents the bonus and points granted for a single fleet technology task. Contains the following
 properties:
 
-| Property  |                     Type                     |                                          Description                                           |
-| :-------: | :------------------------------------------: | :--------------------------------------------------------------------------------------------: |
-|  **pts**  |                   `number`                   | Amount of tech points granted. To establish what nation these go towards use the ships nation. |
-| **stat**  | [`TechStatKey`](../common.md#tech-stat-keys) |                             The stat that gains a permanent bonus.                             |
-| **hulls** |        [`Hull[]`](../common.md#Hull)         |                        The hulls that benefit from the permanent bonus.                        |
-| **value** |                   `number`                   |                               The amount of the permanent bonus.                               |
+| Property  |                     Type                     |                   Description                    |
+| :-------: | :------------------------------------------: | :----------------------------------------------: |
+| **stat**  | [`TechStatKey`](../common.md#tech-stat-keys) |      The stat that gains a permanent bonus.      |
+| **hulls** |        [`Hull[]`](../common.md#Hull)         | The hulls that benefit from the permanent bonus. |
+| **value** |                   `number`                   |        The amount of the permanent bonus.        |

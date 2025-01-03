@@ -192,6 +192,7 @@ following properties:
 |  **other**  | [`UnlockType[]`](../common.md#unlock-type) |                                                   From which other common sources this ship can be obtained.                                                   |
 |  **maps**   |         [`MapDrop[][]`](#map-drop)         | Maps this ship can be dropped on. The outer array has length 15 and indicates the chapter and the inner array contains info about what map and what drop type. |
 |  **notes**  |                 `string[]`                 |                                              Additional information that does not fit into the other properties.                                               |
+| **events**  |                 `string[]`                 |                                     Names of events this ship was part of, whether that be gacha, map drop or event shop.                                      |
 
 ## Map Drop
 
