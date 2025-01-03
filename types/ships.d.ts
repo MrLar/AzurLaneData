@@ -183,6 +183,7 @@ export interface ShipDropData {
     other: UnlockType[]
     maps: MapDrop[][]
     notes: string[]
+    events: string[]
 }
 
 export interface RetroCost {
