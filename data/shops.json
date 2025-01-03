@@ -858,7 +858,7 @@
         "type": 0,
         "amount": 1,
         "limit": 1,
-        "cost": 8000,
+        "cost": -1,
         "blueprint": false,
         "linkable": false,
         "rarity": 4,
@@ -1086,7 +1086,7 @@
             "icon": "ships/compact/gelunweier",
             "name": "Grenville",
             "limit": -1,
-            "cost": -1
+            "cost": 4000
           },
           {
             "id": 421,
@@ -1098,7 +1098,7 @@
             "icon": "ships/compact/xiefeierde_idol",
             "name": "Sheffield μ",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 487,
@@ -1110,7 +1110,7 @@
             "icon": "ships/compact/z24",
             "name": "Z24",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 466,
@@ -1122,7 +1122,7 @@
             "icon": "ships/compact/z26",
             "name": "Z26",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 388,
@@ -1134,7 +1134,7 @@
             "icon": "ships/compact/z36",
             "name": "Z36",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 465,
@@ -1146,7 +1146,7 @@
             "icon": "ships/compact/yikaluosi",
             "name": "Icarus",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 359,
@@ -1158,7 +1158,7 @@
             "icon": "ships/compact/lumang",
             "name": "Le Téméraire",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 415,
@@ -1170,7 +1170,7 @@
             "icon": "ships/compact/longqibing",
             "name": "Carabiniere",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 403,
@@ -1182,7 +1182,7 @@
             "icon": "ships/compact/badan",
             "name": "Bataan",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 223,
@@ -1194,7 +1194,7 @@
             "icon": "ships/compact/longxiang",
             "name": "Ryuujou",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 186,
@@ -1206,7 +1206,7 @@
             "icon": "ships/compact/guinu",
             "name": "Kinu",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 160,
@@ -1218,7 +1218,7 @@
             "icon": "ships/compact/xiang",
             "name": "Hibiki",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 488,
@@ -1230,7 +1230,7 @@
             "icon": "ships/compact/z28",
             "name": "Z28",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 446,
@@ -1242,7 +1242,7 @@
             "icon": "ships/compact/lansaiyu",
             "name": "Bluegill",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 458,
@@ -1254,19 +1254,19 @@
             "icon": "ships/compact/beiyaen",
             "name": "Béarn",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
-            "id": 30020,
+            "id": 456,
             "type": 2,
             "amount": -1,
             "blueprint": false,
             "linkable": true,
             "rarity": 4,
-            "icon": "ships/compact/jialisuoniye_alter",
-            "name": "La Galissonnière META",
+            "icon": "ships/compact/jialisuoniye",
+            "name": "La Galissonnière",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 437,
@@ -1278,7 +1278,7 @@
             "icon": "ships/compact/gangute",
             "name": "Gangut",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 432,
@@ -1290,7 +1290,7 @@
             "icon": "ships/compact/mingsike",
             "name": "Minsk",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 148,
@@ -1302,7 +1302,7 @@
             "icon": "ships/compact/guangrong",
             "name": "Glorious",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 189,
@@ -1314,7 +1314,7 @@
             "icon": "ships/compact/sanwei",
             "name": "Mikuma",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 469,
@@ -1326,7 +1326,7 @@
             "icon": "ships/compact/xiongye",
             "name": "Kumano",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 515,
@@ -1338,7 +1338,7 @@
             "icon": "ships/compact/molisen",
             "name": "Morrison",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 499,
@@ -1350,7 +1350,7 @@
             "icon": "ships/compact/hongliang",
             "name": "Gromky",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 287,
@@ -1362,7 +1362,7 @@
             "icon": "ships/compact/shanfeng",
             "name": "Yamakaze",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 503,
@@ -1374,7 +1374,7 @@
             "icon": "ships/compact/tuolichaili",
             "name": "Torricelli",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           },
           {
             "id": 528,
@@ -1386,7 +1386,7 @@
             "icon": "ships/compact/u1206",
             "name": "U-1206",
             "limit": -1,
-            "cost": -1
+            "cost": 8000
           }
         ]
       },
