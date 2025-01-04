@@ -8765,7 +8765,7 @@
     "timer": null,
     "light": false,
     "heavy": false,
-    "limited": "Visitors Dyed in Red",
+    "limited": "Visitors Dyed in Red Rerun",
     "special": false,
     "other": [
       1,
@@ -8776,7 +8776,7 @@
       "Used to be in Light Construction"
     ],
     "events": [
-      "Visitors Dyed in Red"
+      "Visitors Dyed in Red Rerun"
     ]
   },
   "167": {
@@ -9191,7 +9191,7 @@
     "timer": null,
     "light": false,
     "heavy": false,
-    "limited": "Visitors Dyed in Red",
+    "limited": "Visitors Dyed in Red Rerun",
     "special": false,
     "other": [
       4,
@@ -9220,7 +9220,7 @@
     ],
     "notes": [],
     "events": [
-      "Visitors Dyed in Red"
+      "Visitors Dyed in Red Rerun"
     ]
   },
   "189": {
@@ -9236,10 +9236,10 @@
     "maps": [],
     "notes": [
       "Used to be in Light Construction",
-      "Available as point accumulation reward during Visitors Dyed in Red"
+      "Available as point accumulation reward during Visitors Dyed in Red Rerun"
     ],
     "events": [
-      "Visitors Dyed in Red"
+      "Visitors Dyed in Red Rerun"
     ]
   },
   "190": {
@@ -9875,7 +9875,7 @@
     "timer": "04:30:00",
     "light": false,
     "heavy": false,
-    "limited": "Crimson Echoes",
+    "limited": "Crimson Echoes Rerun",
     "special": false,
     "other": [
       1,
@@ -9884,7 +9884,7 @@
     "maps": [],
     "notes": [],
     "events": [
-      "Crimson Echoes"
+      "Crimson Echoes Rerun"
     ]
   },
   "217": {
@@ -13188,13 +13188,13 @@
     "timer": "00:34:00",
     "light": false,
     "heavy": false,
-    "limited": "Ink-Stained Steel Sakura",
+    "limited": "Ink-Stained Steel Sakura Rerun",
     "special": true,
     "other": [],
     "maps": [],
     "notes": [],
     "events": [
-      "Ink-Stained Steel Sakura"
+      "Ink-Stained Steel Sakura Rerun"
     ]
   },
   "382": {
@@ -13202,13 +13202,13 @@
     "timer": "01:48:00",
     "light": false,
     "heavy": true,
-    "limited": "Ink-Stained Steel Sakura",
+    "limited": "Ink-Stained Steel Sakura Rerun",
     "special": false,
     "other": [],
     "maps": [],
     "notes": [],
     "events": [
-      "Ink-Stained Steel Sakura"
+      "Ink-Stained Steel Sakura Rerun"
     ]
   },
   "383": {
@@ -13372,7 +13372,7 @@
     "timer": null,
     "light": false,
     "heavy": false,
-    "limited": "Iris of Light and Dark",
+    "limited": "Iris of Light and Dark Rerun",
     "special": false,
     "other": [
       1,
@@ -13383,7 +13383,7 @@
       "Used to be in Light Construction"
     ],
     "events": [
-      "Iris of Light and Dark"
+      "Iris of Light and Dark Rerun"
     ]
   },
   "395": {
@@ -13391,7 +13391,7 @@
     "timer": null,
     "light": false,
     "heavy": false,
-    "limited": "Iris of Light and Dark",
+    "limited": "Iris of Light and Dark Rerun",
     "special": false,
     "other": [
       4,
@@ -13400,7 +13400,7 @@
     "maps": [],
     "notes": [],
     "events": [
-      "Iris of Light and Dark"
+      "Iris of Light and Dark Rerun"
     ]
   },
   "396": {
@@ -13408,60 +13408,70 @@
     "timer": "00:30:00",
     "light": false,
     "heavy": false,
-    "limited": null,
+    "limited": "Air Raid Drills with Essex Rerun",
     "special": true,
     "other": [],
     "maps": [],
     "notes": [],
-    "events": []
+    "events": [
+      "Air Raid Drills with Essex Rerun"
+    ]
   },
   "397": {
     "id": 397,
     "timer": "00:30:00",
     "light": false,
     "heavy": false,
-    "limited": null,
+    "limited": "Air Raid Drills with Essex Rerun",
     "special": true,
     "other": [],
     "maps": [],
     "notes": [],
-    "events": []
+    "events": [
+      "Air Raid Drills with Essex Rerun"
+    ]
   },
   "398": {
     "id": 398,
     "timer": "00:30:00",
     "light": false,
     "heavy": false,
-    "limited": null,
+    "limited": "Air Raid Drills with Essex Rerun",
     "special": true,
     "other": [],
     "maps": [],
     "notes": [],
-    "events": []
+    "events": [
+      "Air Raid Drills with Essex Rerun"
+    ]
   },
   "399": {
     "id": 399,
     "timer": "00:12:00",
     "light": false,
     "heavy": false,
-    "limited": null,
+    "limited": "Air Raid Drills with Essex Rerun",
     "special": true,
     "other": [],
     "maps": [],
     "notes": [],
-    "events": []
+    "events": [
+      "Air Raid Drills with Essex Rerun"
+    ]
   },
   "400": {
     "id": 400,
     "timer": "00:11:00",
     "light": false,
     "heavy": false,
-    "limited": null,
+    "limited": "Air Raid Drills with Essex Rerun",
     "special": true,
     "other": [],
     "maps": [],
     "notes": [],
-    "events": []
+    "events": [
+      "Air Raid Drills with Essex Rerun"
+    ]
   },
   "401": {
     "id": 401,
@@ -14180,7 +14190,7 @@
     "timer": "00:29:00",
     "light": false,
     "heavy": false,
-    "limited": "Crimson Echoes",
+    "limited": "Crimson Echoes Rerun",
     "special": false,
     "other": [
       4,
@@ -14189,7 +14199,7 @@
     "maps": [],
     "notes": [],
     "events": [
-      "Crimson Echoes"
+      "Crimson Echoes Rerun"
     ]
   },
   "450": {
@@ -14197,7 +14207,7 @@
     "timer": "00:27:00",
     "light": false,
     "heavy": false,
-    "limited": "Crimson Echoes",
+    "limited": "Crimson Echoes Rerun",
     "special": false,
     "other": [
       4,
@@ -14206,7 +14216,7 @@
     "maps": [],
     "notes": [],
     "events": [
-      "Crimson Echoes"
+      "Crimson Echoes Rerun"
     ]
   },
   "451": {
