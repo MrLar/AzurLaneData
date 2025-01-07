@@ -86,6 +86,7 @@ const dorm3DGifts = dorm3DGiftList as Record<number, Dorm3DGift | undefined>
 const cruisePasses = cruiseList as Record<number, CruisePass | undefined>
 const fleetChats = groupChats as Record<number, FleetChat | undefined>
 const juuProfiles = shipProfiles as Record<number, JuuProfile | undefined>
+// const barrageData = barrages as Record<number, Barrage[] | undefined>
 
 export {
     augCost, augments, cruisePasses, defaultEquip, dorm3DCharacters, dorm3DCollectable, dorm3DFurniture,

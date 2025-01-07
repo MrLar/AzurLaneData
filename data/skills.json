@@ -59255,7 +59255,7 @@
     ]
   },
   "1090350": {
-    "description": "Every 20s: deploys one of various $1 in-development devices (effect is based on the skill's level) and, with a $2 chance, increases this ship's FP by $3 for 10s.",
+    "description": "Every 20s: deploys {serveral|The game claims it picks one of many but in reality all of them are triggered.} $1 in-development devices (effect is based on the skill's level) and, with a $2 chance, increases this ship's FP by $3 for 10s.",
     "opsi_description": null,
     "name": "Full Firepower - Yuubari",
     "max": 10,

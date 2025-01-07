@@ -10037,7 +10037,9 @@
     "notes": [
       "Available in Special Construction during Whence Flowers Bear No Fruit"
     ],
-    "events": []
+    "events": [
+      "Whence Flowers Bear No Fruit"
+    ]
   },
   "222": {
     "id": 222,
@@ -10352,7 +10354,9 @@
     "heavy": false,
     "limited": null,
     "special": false,
-    "other": [],
+    "other": [
+      16
+    ],
     "maps": [],
     "notes": [
       "Available through a special hidden questline"
@@ -11223,7 +11227,13 @@
       "Available as task reward during Lunar New Year events"
     ],
     "events": [
-      "Lunar New Year events"
+      "The Big Adventures of the Four Devas",
+      "Lunar New Year 2019",
+      "Spring Festival",
+      "Happy Lunar New Year 2021",
+      "Happy Lunar New Year 2022",
+      "Happy Lunar New Year 2023",
+      "Happy Lunar New Year 2024"
     ]
   },
   "254": {
@@ -11239,7 +11249,13 @@
       "Available as task reward during Lunar New Year events"
     ],
     "events": [
-      "Lunar New Year events"
+      "The Big Adventures of the Four Devas",
+      "Lunar New Year 2019",
+      "Spring Festival",
+      "Happy Lunar New Year 2021",
+      "Happy Lunar New Year 2022",
+      "Happy Lunar New Year 2023",
+      "Happy Lunar New Year 2024"
     ]
   },
   "255": {
@@ -11247,7 +11263,7 @@
     "timer": null,
     "light": false,
     "heavy": false,
-    "limited": "Lunar New Year",
+    "limited": "Lunar New Year 2018",
     "special": false,
     "other": [
       4,
@@ -11258,7 +11274,8 @@
       "Used to be in Light Construction"
     ],
     "events": [
-      "Lunar New Year"
+      "Lunar New Year 2018",
+      "Lunar New Year 2019"
     ]
   },
   "256": {
@@ -11266,7 +11283,7 @@
     "timer": null,
     "light": false,
     "heavy": false,
-    "limited": "Lunar New Year",
+    "limited": "Lunar New Year 2018",
     "special": false,
     "other": [
       4,
@@ -11277,7 +11294,8 @@
       "Used to be in Light Construction"
     ],
     "events": [
-      "Lunar New Year"
+      "Lunar New Year 2018",
+      "Lunar New Year 2019"
     ]
   },
   "257": {
@@ -11285,7 +11303,7 @@
     "timer": "00:40:00",
     "light": true,
     "heavy": false,
-    "limited": null,
+    "limited": "Lunar New Year 2019",
     "special": false,
     "other": [],
     "maps": [],
@@ -11293,6 +11311,7 @@
       "Available as task reward during Lead Color Remembrance"
     ],
     "events": [
+      "Lunar New Year 2019",
       "Lead Color Remembrance"
     ]
   },
@@ -15485,12 +15504,14 @@
     "timer": "02:00:00",
     "light": false,
     "heavy": false,
-    "limited": null,
+    "limited": "Happy Lunar New Year 2022",
     "special": true,
     "other": [],
     "maps": [],
     "notes": [],
-    "events": []
+    "events": [
+      "Happy Lunar New Year 2022"
+    ]
   },
   "535": {
     "id": 535,
@@ -16119,13 +16140,13 @@
     "timer": "02:30:00",
     "light": false,
     "heavy": false,
-    "limited": "Winter Pathfinder",
+    "limited": "Happy Lunar New Year 2023",
     "special": true,
     "other": [],
     "maps": [],
     "notes": [],
     "events": [
-      "Winter Pathfinder"
+      "Happy Lunar New Year 2023"
     ]
   },
   "579": {
@@ -16133,13 +16154,13 @@
     "timer": "02:10:00",
     "light": false,
     "heavy": false,
-    "limited": "Winter Pathfinder",
+    "limited": "Happy Lunar New Year 2023",
     "special": true,
     "other": [],
     "maps": [],
     "notes": [],
     "events": [
-      "Winter Pathfinder"
+      "Happy Lunar New Year 2023"
     ]
   },
   "580": {
@@ -16152,10 +16173,10 @@
     "other": [],
     "maps": [],
     "notes": [
-      "Available as task reward during Winter Pathfinder"
+      "Available as task reward during Happy Lunar New Year 2023"
     ],
     "events": [
-      "Winter Pathfinder"
+      "Happy Lunar New Year 2023"
     ]
   },
   "581": {
@@ -16774,48 +16795,56 @@
     "timer": "04:10:00",
     "light": false,
     "heavy": false,
-    "limited": null,
+    "limited": "Happy Lunar New Year 2024",
     "special": false,
     "other": [],
     "maps": [],
     "notes": [],
-    "events": []
+    "events": [
+      "Happy Lunar New Year 2024"
+    ]
   },
   "622": {
     "id": 622,
     "timer": "00:38:00",
     "light": false,
     "heavy": false,
-    "limited": null,
+    "limited": "Happy Lunar New Year 2024",
     "special": false,
     "other": [],
     "maps": [],
     "notes": [],
-    "events": []
+    "events": [
+      "Happy Lunar New Year 2024"
+    ]
   },
   "623": {
     "id": 623,
     "timer": "00:33:00",
     "light": false,
     "heavy": false,
-    "limited": null,
+    "limited": "Happy Lunar New Year 2024",
     "special": false,
     "other": [],
     "maps": [],
     "notes": [],
-    "events": []
+    "events": [
+      "Happy Lunar New Year 2024"
+    ]
   },
   "624": {
     "id": 624,
     "timer": "00:33:00",
     "light": false,
     "heavy": false,
-    "limited": null,
+    "limited": "Happy Lunar New Year 2024",
     "special": false,
     "other": [],
     "maps": [],
     "notes": [],
-    "events": []
+    "events": [
+      "Happy Lunar New Year 2024"
+    ]
   },
   "625": {
     "id": 625,
@@ -16827,7 +16856,9 @@
     "other": [],
     "maps": [],
     "notes": [],
-    "events": []
+    "events": [
+      "Fei Yuen's Spring Adventure"
+    ]
   },
   "626": {
     "id": 626,
@@ -17614,24 +17645,28 @@
     "timer": null,
     "light": false,
     "heavy": false,
-    "limited": null,
+    "limited": "Battery Support Plan (CN)",
     "special": false,
     "other": [],
     "maps": [],
     "notes": [],
-    "events": []
+    "events": [
+      "Battery Support Plan"
+    ]
   },
   "10022": {
     "id": 10022,
     "timer": null,
     "light": false,
     "heavy": false,
-    "limited": null,
+    "limited": "Battery Support Plan (CN)",
     "special": false,
     "other": [],
     "maps": [],
     "notes": [],
-    "events": []
+    "events": [
+      "Battery Support Plan"
+    ]
   },
   "10031": {
     "id": 10031,
@@ -17698,8 +17733,12 @@
     "special": false,
     "other": [],
     "maps": [],
-    "notes": [],
-    "events": []
+    "notes": [
+      "Available as task reward during Utawarerumono Collab"
+    ],
+    "events": [
+      "Utawarerumono Collab"
+    ]
   },
   "10036": {
     "id": 10036,
@@ -17710,8 +17749,12 @@
     "special": false,
     "other": [],
     "maps": [],
-    "notes": [],
-    "events": []
+    "notes": [
+      "Available as task reward during Utawarerumono Collab"
+    ],
+    "events": [
+      "Utawarerumono Collab"
+    ]
   },
   "10041": {
     "id": 10041,

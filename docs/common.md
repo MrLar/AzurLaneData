@@ -247,7 +247,7 @@ Refers to either the string `van` for Vanguard or `main` for Main Fleet.
 
 # Unlock Type
 
-Unlock Type is a numeric value with the range `[0, 15]` where each number represents a way to obtain a ship:
+Unlock Type is a numeric value with the range `[0, 16]` where each number represents a way to obtain a ship:
 
 | Value |                 Label                 |
 | :---: | :-----------------------------------: |
@@ -267,6 +267,7 @@ Unlock Type is a numeric value with the range `[0, 15]` where each number repres
 |  13   |             META Showdown             |
 |  14   |           Dossier Analysis            |
 |  15   |               Shipyard                |
+|  16   |                 Quest                 |
 
 # Item Stack
 Item Stack provides properties relevant when refering to x amount of an item. It provides exactly 2 properties:

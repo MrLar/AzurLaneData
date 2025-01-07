@@ -212,7 +212,8 @@ export type UnlockType =
 12 | // meta shop
 13 |// meta showdown
 14 |// dossier
-15 // shipyard
+15 | // shipyard
+16 // quest
 
 export interface SkinWords {
     id: number
