@@ -13,9 +13,10 @@ Structure for a boss fight in the game. Contains the following properties:
 |     **boss**      |          [`BossData`](#boss-data)           |                                                                                                Data of the boss enemy.                                                                                                 |
 |     **opsi**      |                  `boolean`                  |                                                                               Whether the fight is considered and operation siren fight.                                                                               |
 |    **servers**    |   [`AlServer[]`](../common.md#al-server)    |                                                                           List of servers this fight is (or at any point was) available in.                                                                            |
-|    **buffs?**     |          [`BossBuff`](#boss-buff)           |                                                                                        Buffs that are active during this fight.                                                                                        |
+|    **buffs?**     |         [`BossBuff[]`](#boss-buff)          |                                                                                        Buffs that are active during this fight.                                                                                        |
 | **buffs_display** | [`DisplayOnlyBuff[][]`](#display-only-buff) | **(Optional)** Buffs that should be displayed along side the enemy. These *can* be handled if one desires but one would have to parse the actual description.<br>These may contain corrections formatted as `{new text | explanation}` |
 |     **type**      |           [`MapType`](#map-type)            |                                                                                                 The type of map/fight.                                                                                                 |
+|      **id**       |                  `number`                   |                                                             The map ID. These are not in chronological order nor do they reflect any ID used by the game.                                                              |
 
 # Boss Data
 
@@ -32,7 +33,7 @@ Represents a boss enemy. Provides the following properties:
 | **survival_boost** |            `number`             |                              Enemy survival boost value during operation siren. Always `0` if `opsi` is `false`.                              |
 | **tactics_boost**  |            `number`             |                              Enemy tactics boost value during operation siren. Always `0` if `opsi` is `false`.                               |
 |      **icon**      |            `string`             |                       The icon the enemy uses lower cased. Available under `https://als.mrlar.dev/compact/<icon>.webp`.                       |
-|      **cld**       |           `number[]`            |             The bosses hitbox size in x,y,z coordinates (In the game code the y coordinate is actually called z and vice versa.).             |
+|      **cld**       |           `number[]`            |                                                 The bosses hitbox size in x,y,z coordinates.                                                  |
 
 # Boss Buff
 
