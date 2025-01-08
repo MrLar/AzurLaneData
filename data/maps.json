@@ -51172,7 +51172,7 @@
       [
         {
           "name": "Repulsing Pyrotechnics",
-          "description": "When the battle starts, this ship can create 3 barriers that reduce the damage she takes. \nEvery time your ships fire torpedoes, a main gun volley, or launch an airstrike, the barrier counter increases by 1, 2, and 2, respectively. Every time the barrier counter reaches 6, 1 barrier is negated.",
+          "description": "When the battle starts, this ship can create 3 barriers that reduce the damage she takes. \nEvery time your ships fire torpedoes, a main gun volley, or launch an airstrike, the barrier counter increases by 1, 2, and 2, respectively. Every time the barrier counter reaches {8|In game description icorrectly states 6.}, 1 barrier is negated.",
           "color": 3
         }
       ],
@@ -51421,7 +51421,7 @@
       [
         {
           "name": "Pillar of Sin",
-          "description": "When the battle starts: summons 4 [Pillars of Sin] that reduces DMG taken by Algérie META by 40.0%.\nWhen any [Pillar of Sin] takes DMG: 20.0% of that DMG is instead redirected to Algérie META.",
+          "description": "When the battle starts: summons 4 [Pillars of Sin] that reduces DMG taken by Algérie META by {30.0%|In game incorrectly states 40.0%}.\nWhen any [Pillar of Sin] takes DMG: 20.0% of that DMG is instead redirected to Algérie META.",
           "color": 3
         }
       ],
@@ -51543,7 +51543,7 @@
       [
         {
           "name": "Live and Die by Teamwork",
-          "description": "Increases Kirov META's FP, TRP, and ACC for each active support unit. When a support unit is destroyed: decreases Kirov META's defense until the battle ends.",
+          "description": "Increases Kirov META's FP, TRP, and ACC for each active support unit {by 10%|Not mentioned by the game at all}. {Kirov META initally only takes 40% damage and for every support unit destroyed her damage taken is increases by 10% (additively).|The game does not properly explain how this part of the skill works.}.",
           "color": 2
         }
       ]
