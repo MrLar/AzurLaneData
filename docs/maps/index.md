@@ -6,16 +6,16 @@ title: Map Documentation
 
 Structure for a boss fight in the game. Contains the following properties:
 
-|     Property      |                    Type                     |                                                                          Description                                                                          |
-| :---------------: | :-----------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|     **name**      |                  `string`                   |                       The name of the map (for non campaign maps this is often the boss name + associated event or another descriptor)                        |
-|      **acv**      |                  `number`                   |                 Enemy Airspace control value used to determine Airspace control buffs. -1 indicates the Airspace should be considered empty.                  |
-|     **boss**      |          [`BossData`](#boss-data)           |                                                                    Data of the boss enemy.                                                                    |
-|     **opsi**      |                  `boolean`                  |                                                  Whether the fight is considered and operation siren fight.                                                   |
-|    **servers**    |   [`AlServer[]`](../common.md#al-server)    |                                               List of servers this fight is (or at any point was) available in.                                               |
-|    **buffs?**     |          [`BossBuff`](#boss-buff)           |                                                           Buffs that are active during this fight.                                                            |
-| **buffs_display** | [`DisplayOnlyBuff[][]`](#display-only-buff) | **(Optional)** Buffs that should be displayed along side the enemy. These *can* be handled if one desires but one would have to parse the actual description. |
-|     **type**      |           [`MapType`](#map-type)            |                                                                    The type of map/fight.                                                                     |
+|     Property      |                    Type                     |                                                                                                      Description                                                                                                       |
+| :---------------: | :-----------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|     **name**      |                  `string`                   |                                                    The name of the map (for non campaign maps this is often the boss name + associated event or another descriptor)                                                    |
+|      **acv**      |                  `number`                   |                                              Enemy Airspace control value used to determine Airspace control buffs. -1 indicates the Airspace should be considered empty.                                              |
+|     **boss**      |          [`BossData`](#boss-data)           |                                                                                                Data of the boss enemy.                                                                                                 |
+|     **opsi**      |                  `boolean`                  |                                                                               Whether the fight is considered and operation siren fight.                                                                               |
+|    **servers**    |   [`AlServer[]`](../common.md#al-server)    |                                                                           List of servers this fight is (or at any point was) available in.                                                                            |
+|    **buffs?**     |          [`BossBuff`](#boss-buff)           |                                                                                        Buffs that are active during this fight.                                                                                        |
+| **buffs_display** | [`DisplayOnlyBuff[][]`](#display-only-buff) | **(Optional)** Buffs that should be displayed along side the enemy. These *can* be handled if one desires but one would have to parse the actual description.<br>These may contain corrections formatted as `{new text | explanation}` |
+|     **type**      |           [`MapType`](#map-type)            |                                                                                                 The type of map/fight.                                                                                                 |
 
 # Boss Data
 
