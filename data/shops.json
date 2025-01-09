@@ -9015,12 +9015,14 @@
       "icon": "props/wdashijiezhanbeiwuzi",
       "linkable": true
     },
-    "currency_alt": {
-      "id": 59002,
-      "name": "Oil",
-      "icon": "props/oil",
-      "linkable": true
-    }
+    "currency_alt": [
+      {
+        "id": 59002,
+        "name": "Oil",
+        "icon": "props/oil",
+        "linkable": true
+      }
+    ]
   },
   "15": {
     "name": "Gem Shop",
