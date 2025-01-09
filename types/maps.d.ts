@@ -49,7 +49,9 @@ type MapType =
 11 | // OpSi
 12 | // Extreme Challenge Easy
 13 | // Extreme Challenge Medium
-14 // Extreme Challenge Hard
+14 | // Extreme Challenge Hard
+15 | // Event Normal (WA)
+16 // Event Hard (WA)
 
 type EnemyStatKey = 'hp' | 'fp' | 'trp' | 'avi' | 'aa' | 'hit' | 'eva' | 'spd' | 'luck' | 'armor'
 
