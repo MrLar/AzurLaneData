@@ -9406,7 +9406,9 @@
     "id": 16,
     "type": 16,
     "manual_refresh": false,
-    "refresh_times": [],
+    "refresh_times": [
+      "varies per item"
+    ],
     "icon": "chargeicon/6",
     "icon_rarity": 5,
     "items": [
@@ -9513,7 +9515,7 @@
         "rarity": 4,
         "amount": 4800,
         "blueprint": false,
-        "name": "Chest Box of Gems",
+        "name": "Doubled Box of Gems",
         "icon": "props/gem",
         "limit": 1,
         "cost": 39.99
@@ -9537,7 +9539,7 @@
         "rarity": 4,
         "amount": 9800,
         "blueprint": false,
-        "name": "Chest Ship of Gems",
+        "name": "Doubled Ship of Gems",
         "icon": "props/gem",
         "limit": 1,
         "cost": 79.99
@@ -9576,20 +9578,6 @@
         "blueprint": false,
         "name": "Novice sailing supplies",
         "icon": "chargeicon/boxnewplayer",
-        "limit": 1,
-        "cost": 0.99,
-        "note": "Contains 60 gems, 2 Cubes and 2 Quick Finishers",
-        "limit_type": 2
-      },
-      {
-        "id": 2,
-        "type": 101,
-        "linkable": false,
-        "rarity": 4,
-        "amount": 1,
-        "blueprint": false,
-        "name": "Novice sailing supplies",
-        "icon": "chargeicon/boxNewplayer",
         "limit": 1,
         "cost": 0.99,
         "note": "Contains 60 gems, 2 Cubes and 2 Quick Finishers",
