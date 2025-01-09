@@ -15516,7 +15516,7 @@
   "535": {
     "id": 535,
     "timer": "00:42:00",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": "Abyssal Refrain",
     "special": false,
@@ -15533,7 +15533,7 @@
     "id": 536,
     "timer": "04:10:00",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Abyssal Refrain",
     "special": false,
     "other": [],
@@ -15550,7 +15550,9 @@
     "heavy": false,
     "limited": null,
     "special": false,
-    "other": [],
+    "other": [
+      3
+    ],
     "maps": [],
     "notes": [
       "Available as point accumulation reward during Abyssal Refrain"
@@ -15565,7 +15567,7 @@
     "light": false,
     "heavy": false,
     "limited": "Abyssal Refrain",
-    "special": false,
+    "special": true,
     "other": [],
     "maps": [],
     "notes": [],
@@ -15577,10 +15579,12 @@
     "id": 539,
     "timer": "04:42:50",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Abyssal Refrain",
-    "special": false,
-    "other": [],
+    "special": true,
+    "other": [
+      6
+    ],
     "maps": [],
     "notes": [],
     "events": [

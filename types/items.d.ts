@@ -79,4 +79,5 @@ export type ItemType =
 97 | // battle ui
 98 | // other
 99 | // display only
-100 // opsi
+100 | // opsi
+101 // iap purchase

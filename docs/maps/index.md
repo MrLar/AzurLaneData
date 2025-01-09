@@ -61,19 +61,21 @@ Represents a buff for displaying purposes only. It provides:
 # Map Type
 Map Type is a numeric value with the range `[1, 14]` where each number represents a type of map:
 
-| Value |      Label      |             Description             |
-| :---: | :-------------: | :---------------------------------: |
-|   1   |     Normal      |      Normal Mode Campaign Map       |
-|   2   |      Hard       |       Hard Mode Campaign Map        |
-|   3   |  Event Nomral   |        Normal Mode Event Map        |
-|   4   |   Event Hard    |         Hard Mode Event Map         |
-|   5   |    Event SP     |            Event SP Map             |
-|   6   |    Event EX     |            Event EX Map             |
-|   7   |  Event Special  |          Special Event Map          |
-|   8   |    Event TP     |            Event TP Map             |
-|   9   |      META       |            META Showdown            |
-|  10   |      Guild      |           Guild Operation           |
-|  11   |      OpSi       |        Operation Siren Fight        |
-|  12   |  Extreme: Easy  |  Extreme Challenge Easy Difficulty  |
-|  13   | Extreme: Medium | Extreme Challenge Medium Difficulty |
-|  14   |  Extreme: Hard  |  Extreme Challenge Hard Difficulty  |
+| Value |      Label      |             Description              |
+| :---: | :-------------: | :----------------------------------: |
+|   1   |     Normal      |       Normal Mode Campaign Map       |
+|   2   |      Hard       |        Hard Mode Campaign Map        |
+|   3   |  Event Nomral   |        Normal Mode Event Map         |
+|   4   |   Event Hard    |         Hard Mode Event Map          |
+|   5   |    Event SP     |             Event SP Map             |
+|   6   |    Event EX     |             Event EX Map             |
+|   7   |  Event Special  |          Special Event Map           |
+|   8   |    Event TP     |             Event TP Map             |
+|   9   |      META       |            META Showdown             |
+|  10   |      Guild      |           Guild Operation            |
+|  11   |      OpSi       |        Operation Siren Fight         |
+|  12   |  Extreme: Easy  |  Extreme Challenge Easy Difficulty   |
+|  13   | Extreme: Medium | Extreme Challenge Medium Difficulty  |
+|  14   |  Extreme: Hard  |  Extreme Challenge Hard Difficulty   |
+|  15   | WA Event Nomral | Normal Mode Event Map in War Archive |
+|  16   |  WA Event Hard  |  Hard Mode Event Map in War Archive  |

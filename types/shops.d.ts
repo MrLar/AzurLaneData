@@ -14,7 +14,11 @@ export type ShopType =
 9 | // meta
 10 | // prize
 11 | // cruise
-12 // dorm3d
+12 | // dorm3d
+13 |// opsi port
+14 | // opsi exchange
+15 | // gem shop
+16 // iap purchase shop
 
 export interface Shop {
     type: ShopType
@@ -40,6 +44,7 @@ export interface ShopItem extends ItemDrop {
     cost: number
     ref?: string
     use_alt?: number
+    note?: string
 }
 
 export interface ItemPool {

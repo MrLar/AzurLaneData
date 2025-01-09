@@ -40,7 +40,7 @@ export type AlServer = 'EN' | 'JP' | 'CN'
 export interface Currency {
     id: number
     name: string
-    icon: string
+    icon: string | null
     linkable: boolean
 }
 

@@ -293,43 +293,44 @@ Represents the relevant data of a single item. Provides the following:
 |  **contains**   | [`ItemDrop[]`](#item-drop) | List of items that can be obtained via this item.<br>Note: The item does **not** have to drop *all* of them. Some only drop one or a handful of them. |
 
 # Item Type
-Item Type is a numeric value with the **five** ranges `[0, 5]`, `[7]`, `[9, 13]` and `[15, 26]` and `[98, 100]` where each
+Item Type is a numeric value with the **five** ranges `[0, 5]`, `[7]`, `[9, 13]` and `[15, 26]` and `[98, 101]` where each
 number represents an in-game item type (missing values do not exit in game):
 
-| Value |       Label        |                                Description                                 |
-| :---: | :----------------: | :------------------------------------------------------------------------: |
-|   1   |      Special       |                               A special item                               |
-|   2   |      Resource      |                         A usually common resource                          |
-|   3   |     Dorm Food      |                           Food for the Dormitory                           |
-|   4   |    Upgrade Item    |                Item used to enhance gear, augments or ships                |
-|   5   |      Tech Box      |                             Any equipment Box                              |
-|   6   |        N/A         |                             Does not exist yet                             |
-|   7   |   Retrofit Item    |                    Item used to purchase retrofit nodes                    |
-|   8   |        N/A         |                             Does not exist yet                             |
-|   9   |    Gear Design     |               Gear Crafting Design<br>These are not provided               |
-|  10   |   Skill EXP Book   |               Book used to level Skills (except META Books)                |
-|  11   |   Equip Skin Box   |                        Box that contains Gear Skins                        |
-|  12   |     Blueprint      |                            A PR or DR Blueprint                            |
-|  13   | Universal Selector |       Any form of Universal Selector item (except Gear Lab & Skins)        |
-|  14   |        N/A         |                             Does not exist yet                             |
-|  15   |      Oil Box       |                          A box that contains oil                           |
-|  16   |   Gear Selector    |       Any form of Selector that gives Gear Lab Materials or Designs        |
-|  17   |      Gift Box      |                     Gift Box that may contain anything                     |
-|  18   |  Combat Data Pack  |                          PR Combat EXP Data Pack                           |
-|  19   |        HELP        |                  High-Efficiency (Combat) Logistics Plan                   |
-|  20   | Guild Restore Item |       Item used to restore either Contribution or Operation attempts       |
-|  21   |    Ship Invite     | Any form of Item that grants a selection of ship<br>These are not provided |
-|  22   |   Ship EXP Book    |                        Experience Packs for Ships.                         |
-|  23   |    Love Letter     |     Valentines Gift Message/Commerative Item<br>These are not provided     |
-|  24   |  Augment Material  |                    Any form of item related to Augments                    |
-|  25   |  Meta Skill Book   |                      A Book used to level META skills                      |
-|  26   |   Skin Selector    |                         A selector for ship skins                          |
-|  27   |       Dorm3D       |             An Item for the Private Quarters (Dorm3D) Feature              |
-| 27-96 |        N/A         |                              Do not exist yet                              |
-|  97   |     Battle UI      |                               Battle UI Skin                               |
-|  98   |       Other        |                               Any other item                               |
-|  99   |      Display       |                   An item only used for displaying drops                   |
-|  100  |     OpSi Iten      |                            Operation Siren Item                            |
+| Value |        Label         |                                Description                                 |
+| :---: | :------------------: | :------------------------------------------------------------------------: |
+|   1   |       Special        |                               A special item                               |
+|   2   |       Resource       |                         A usually common resource                          |
+|   3   |      Dorm Food       |                           Food for the Dormitory                           |
+|   4   |     Upgrade Item     |                Item used to enhance gear, augments or ships                |
+|   5   |       Tech Box       |                             Any equipment Box                              |
+|   6   |         N/A          |                             Does not exist yet                             |
+|   7   |    Retrofit Item     |                    Item used to purchase retrofit nodes                    |
+|   8   |         N/A          |                             Does not exist yet                             |
+|   9   |     Gear Design      |               Gear Crafting Design<br>These are not provided               |
+|  10   |    Skill EXP Book    |               Book used to level Skills (except META Books)                |
+|  11   |    Equip Skin Box    |                        Box that contains Gear Skins                        |
+|  12   |      Blueprint       |                            A PR or DR Blueprint                            |
+|  13   |  Universal Selector  |       Any form of Universal Selector item (except Gear Lab & Skins)        |
+|  14   |         N/A          |                             Does not exist yet                             |
+|  15   |       Oil Box        |                          A box that contains oil                           |
+|  16   |    Gear Selector     |       Any form of Selector that gives Gear Lab Materials or Designs        |
+|  17   |       Gift Box       |                     Gift Box that may contain anything                     |
+|  18   |   Combat Data Pack   |                          PR Combat EXP Data Pack                           |
+|  19   |         HELP         |                  High-Efficiency (Combat) Logistics Plan                   |
+|  20   |  Guild Restore Item  |       Item used to restore either Contribution or Operation attempts       |
+|  21   |     Ship Invite      | Any form of Item that grants a selection of ship<br>These are not provided |
+|  22   |    Ship EXP Book     |                        Experience Packs for Ships.                         |
+|  23   |     Love Letter      |     Valentines Gift Message/Commerative Item<br>These are not provided     |
+|  24   |   Augment Material   |                    Any form of item related to Augments                    |
+|  25   |   Meta Skill Book    |                      A Book used to level META skills                      |
+|  26   |    Skin Selector     |                         A selector for ship skins                          |
+|  27   |        Dorm3D        |             An Item for the Private Quarters (Dorm3D) Feature              |
+| 27-96 |         N/A          |                              Do not exist yet                              |
+|  97   |      Battle UI       |                               Battle UI Skin                               |
+|  98   |        Other         |                               Any other item                               |
+|  99   |       Display        |                   An item only used for displaying drops                   |
+|  100  |      OpSi Item       |                            Operation Siren Item                            |
+|  101  | IAP Purchase Display |            Only used for item displays in the IAP purcahse shop            |
 
 # Item Drop
 Item drop represens all relevant data for an item/equip/etc. being dropped from
@@ -398,12 +399,12 @@ Represents a single research in the game. Has the following properties:
 
 Currency refers to the currency used by a shop. It provides:
 
-|   Property   |   Type    |                                                                   Description                                                                   |
-| :----------: | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
-|    **id**    | `number`  |                                                              The currency item ID.                                                              |
-| **linkable** | `boolean` | Whether the currency item is linkable to a definition provided by this data set. If this prop is false there is no definition in this data set. |
-|   **icon**   | `string`  |                               The icon of the currency item. Available under `https://al.mrlar.dev/<icon>.webp`.                                |
-|   **name**   | `string`  |                                                         The name of the currency item.                                                          |
+|   Property   |        Type        |                                                                   Description                                                                   |
+| :----------: | :----------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
+|    **id**    |      `number`      |                                                              The currency item ID.                                                              |
+| **linkable** |     `boolean`      | Whether the currency item is linkable to a definition provided by this data set. If this prop is false there is no definition in this data set. |
+|   **icon**   | `string` \| `null` |                               The icon of the currency item. Available under `https://al.mrlar.dev/<icon>.webp`.                                |
+|   **name**   |      `string`      |                                                         The name of the currency item.                                                          |
 
 # Cruise Pass
 
