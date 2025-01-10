@@ -9419,10 +9419,11 @@
         "rarity": 4,
         "amount": 120,
         "blueprint": false,
-        "name": "Doubled Handful of Gems",
+        "name": "Gems (Handful of Gems, First Purchase)",
         "icon": "props/gem",
         "limit": 1,
-        "cost": 0.99
+        "cost": 0.99,
+        "note": "First time top up bonus resets every anniversary (August)"
       },
       {
         "id": 59005,
@@ -9431,7 +9432,7 @@
         "rarity": 4,
         "amount": 60,
         "blueprint": false,
-        "name": "Handful of Gems",
+        "name": "Gems (Handful of Gems, Second+ Purchase)",
         "icon": "props/gem",
         "limit": 0,
         "cost": 0.99
@@ -9443,10 +9444,11 @@
         "rarity": 4,
         "amount": 600,
         "blueprint": false,
-        "name": "Doubled Pile of Gems",
+        "name": "Gems (Pile of Gems, First Purchase)",
         "icon": "props/gem",
         "limit": 1,
-        "cost": 4.99
+        "cost": 4.99,
+        "note": "First time top up bonus resets every anniversary (August)"
       },
       {
         "id": 59005,
@@ -9455,7 +9457,7 @@
         "rarity": 4,
         "amount": 330,
         "blueprint": false,
-        "name": "Pile of Gems",
+        "name": "Gems (Pile of Gems, Second+ Purchase)",
         "icon": "props/gem",
         "limit": 0,
         "cost": 4.99
@@ -9467,10 +9469,11 @@
         "rarity": 4,
         "amount": 1200,
         "blueprint": false,
-        "name": "Doubled Sack of Gems",
+        "name": "Gems (Sack of Gems, First Purchase)",
         "icon": "props/gem",
         "limit": 1,
-        "cost": 9.99
+        "cost": 9.99,
+        "note": "First time top up bonus resets every anniversary (August)"
       },
       {
         "id": 59005,
@@ -9479,7 +9482,7 @@
         "rarity": 4,
         "amount": 750,
         "blueprint": false,
-        "name": "Sack of Gems",
+        "name": "Gems (Sack of Gems, Second+ Purchase)",
         "icon": "props/gem",
         "limit": 0,
         "cost": 9.99
@@ -9491,10 +9494,11 @@
         "rarity": 4,
         "amount": 2400,
         "blueprint": false,
-        "name": "Doubled Box of Gems",
+        "name": "Gems (Box of Gems, First Purchase)",
         "icon": "props/gem",
         "limit": 1,
-        "cost": 19.99
+        "cost": 19.99,
+        "note": "First time top up bonus resets every anniversary (August)"
       },
       {
         "id": 59005,
@@ -9503,7 +9507,7 @@
         "rarity": 4,
         "amount": 1560,
         "blueprint": false,
-        "name": "Box of Gems",
+        "name": "Gems (Box of Gems, Second+ Purchase)",
         "icon": "props/gem",
         "limit": 0,
         "cost": 19.99
@@ -9515,10 +9519,11 @@
         "rarity": 4,
         "amount": 4800,
         "blueprint": false,
-        "name": "Doubled Box of Gems",
+        "name": "Gems (Chest of Gems, First Purchase)",
         "icon": "props/gem",
         "limit": 1,
-        "cost": 39.99
+        "cost": 39.99,
+        "note": "First time top up bonus resets every anniversary (August)"
       },
       {
         "id": 59005,
@@ -9527,7 +9532,7 @@
         "rarity": 4,
         "amount": 3280,
         "blueprint": false,
-        "name": "Chest of Gems",
+        "name": "Gems (Chest of Gems, Second+ Purchase)",
         "icon": "props/gem",
         "limit": 0,
         "cost": 39.99
@@ -9539,10 +9544,11 @@
         "rarity": 4,
         "amount": 9800,
         "blueprint": false,
-        "name": "Doubled Ship of Gems",
+        "name": "Gems (Ship of Gems, First Purchase)",
         "icon": "props/gem",
         "limit": 1,
-        "cost": 79.99
+        "cost": 79.99,
+        "note": "First time top up bonus resets every anniversary (August)"
       },
       {
         "id": 59005,
@@ -9551,7 +9557,7 @@
         "rarity": 4,
         "amount": 5400,
         "blueprint": false,
-        "name": "Ship of Gems",
+        "name": "Gems (Handful of Gems, Second+ Purchase)",
         "icon": "props/gem",
         "limit": 0,
         "cost": 79.99
@@ -28544,7 +28550,7 @@
       {
         "id": 59274,
         "type": 0,
-        "linkable": false,
+        "linkable": true,
         "rarity": 5,
         "amount": 1,
         "blueprint": false,
