@@ -79,3 +79,4 @@ Map Type is a numeric value with the range `[1, 14]` where each number represent
 |  14   |  Extreme: Hard  |  Extreme Challenge Hard Difficulty   |
 |  15   | WA Event Nomral | Normal Mode Event Map in War Archive |
 |  16   |  WA Event Hard  |  Hard Mode Event Map in War Archive  |
+|  17   |    Raid Map     |     Map is part of a raid event      |

@@ -54470,5 +54470,180 @@
     ],
     "type": 14,
     "id": 1431
+  },
+  "raid_1889001_16699101": {
+    "name": "Spring Fashion Festa (Easy)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "hull": 20,
+      "nation": 5,
+      "name": "Fu Shun",
+      "stats": {
+        "hp": 7200,
+        "fp": 20,
+        "trp": 92,
+        "avi": 0,
+        "aa": 109,
+        "hit": 20,
+        "eva": 31,
+        "spd": 30,
+        "luck": 10,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fushun_g"
+    },
+    "buffs": [],
+    "type": 17,
+    "id": 1515
+  },
+  "raid_1889002_16699201": {
+    "name": "Spring Fashion Festa (Normal)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "hull": 2,
+      "nation": 5,
+      "name": "Hai Yung",
+      "stats": {
+        "hp": 23800,
+        "fp": 125,
+        "trp": 160,
+        "avi": 0,
+        "aa": 240,
+        "hit": 38,
+        "eva": 32,
+        "spd": 27,
+        "luck": 20,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "hairong"
+    },
+    "buffs": [],
+    "type": 17,
+    "id": 1516
+  },
+  "raid_1889003_16699301": {
+    "name": "Spring Fashion Festa (Hard)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "hull": 3,
+      "nation": 5,
+      "name": "Chien Wu",
+      "stats": {
+        "hp": 90000,
+        "fp": 208,
+        "trp": 168,
+        "avi": 0,
+        "aa": 300,
+        "hit": 54,
+        "eva": 46,
+        "spd": 27,
+        "luck": 30,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 90,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "jianwu"
+    },
+    "buffs": [],
+    "type": 17,
+    "id": 1517
+  },
+  "raid_1889004_16699401": {
+    "name": "Spring Fashion Festa (EX)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "hull": 3,
+      "nation": 5,
+      "name": "Chien Wu",
+      "stats": {
+        "hp": 550000,
+        "fp": 218,
+        "trp": 188,
+        "avi": 0,
+        "aa": 320,
+        "hit": 76,
+        "eva": 50,
+        "spd": 27,
+        "luck": 50,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 128,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "jianwu"
+    },
+    "buffs": [],
+    "type": 17,
+    "id": 1518
+  },
+  "raid_1889005_16699401": {
+    "name": "Spring Fashion Festa (Custom)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "hull": 3,
+      "nation": 5,
+      "name": "Chien Wu",
+      "stats": {
+        "hp": 550000,
+        "fp": 218,
+        "trp": 188,
+        "avi": 0,
+        "aa": 320,
+        "hit": 76,
+        "eva": 50,
+        "spd": 27,
+        "luck": 50,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 128,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "jianwu"
+    },
+    "buffs": [],
+    "type": 17,
+    "id": 1519
   }
 }

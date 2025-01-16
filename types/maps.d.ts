@@ -51,7 +51,8 @@ type MapType =
 13 | // Extreme Challenge Medium
 14 | // Extreme Challenge Hard
 15 | // Event Normal (WA)
-16 // Event Hard (WA)
+16 | // Event Hard (WA)
+17 // raid map
 
 type EnemyStatKey = 'hp' | 'fp' | 'trp' | 'avi' | 'aa' | 'hit' | 'eva' | 'spd' | 'luck' | 'armor'
 
