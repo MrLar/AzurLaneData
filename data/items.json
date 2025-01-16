@@ -1014,6 +1014,74 @@
       }
     ]
   },
+  "14007": {
+    "id": 14007,
+    "name": "Prototype Weapon Blueprint - Series 7",
+    "description": "Can be converted to one of the following SR gear blueprints:\nPrototype VIT-2 (Mode Change) T0 Design\nPrototype Triple 254mm Model 1939 Main Gun Mount T0 Design\nPrototype Triple 152mm Model 1936 Main Gun Mount T0 Design\nPrototype F8F Bearcat (Float) T0 Design\nPrototype Twin 410mm mod.A Main Gun Mount T0 Design",
+    "type": 13,
+    "icon": "props/14007",
+    "rarity": 5,
+    "locations": [
+      "Prototype Shop"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 85620,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/85620",
+        "name": "Design for T0 Prototype VIT-2 (Mode Change)"
+      },
+      {
+        "id": 96120,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/56120",
+        "name": "Design for T0 Prototype Triple 254mm Model 1939 Main Gun Mount"
+      },
+      {
+        "id": 95660,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/55660",
+        "name": "Design for T0 Prototype Triple 152mm Model 1936 Main Gun Mount"
+      },
+      {
+        "id": 17460,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/17460",
+        "name": "Design for T0 Prototype F8F Bearcat (Float)"
+      },
+      {
+        "id": 34320,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/34320",
+        "name": "Design for T0 Prototype Twin 410mm mod.A Main Gun Mount"
+      }
+    ]
+  },
   "15001": {
     "id": 15001,
     "name": "Medal of Honor",
@@ -3175,6 +3243,23 @@
     "rarity": 5,
     "locations": [
       "PR Catch Up (Series 5)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "20106": {
+    "id": 20106,
+    "name": "Combat Data Pack - Series 6",
+    "description": "A compilation of experimental data from the Research Department, can be used to add 10,000 EXP towards PR Series 6 Combat Data Collection missions.(Can be converted into Prototype Cores).",
+    "type": 18,
+    "icon": "props/20106",
+    "rarity": 5,
+    "locations": [
+      "PR Catch Up (Series 6)"
     ],
     "servers": [
       "EN",
@@ -17204,6 +17289,204 @@
       }
     ]
   },
+  "30364": {
+    "id": 30364,
+    "name": "Gear Skin Box (Spring Auspices)",
+    "description": "Contains a random (Spring Auspices-themed gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxruiguangyingsui",
+    "rarity": 5,
+    "locations": [
+      "Event"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 4095,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101170",
+        "name": "Peace and Longevity Shell"
+      },
+      {
+        "id": 4096,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101171",
+        "name": "Dreamweave Loom Shell"
+      },
+      {
+        "id": 4097,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101172",
+        "name": "Prayer Bell Shell"
+      },
+      {
+        "id": 4098,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101173",
+        "name": "Auspicious Knot Torpedo"
+      },
+      {
+        "id": 4099,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101174",
+        "name": "Thousand-Blade Umbrella Torpedo"
+      },
+      {
+        "id": 4100,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101175",
+        "name": "Feather Duster Torpedo"
+      },
+      {
+        "id": 4101,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101176",
+        "name": "Swordsman Hat Shell"
+      },
+      {
+        "id": 4102,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101177",
+        "name": "Embroidered Fan Shell"
+      },
+      {
+        "id": 4103,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101178",
+        "name": "Golden Fiery Button Shell"
+      },
+      {
+        "id": 4104,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101179",
+        "name": "Goldfish Lantern (Torpedo)"
+      },
+      {
+        "id": 4105,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101179",
+        "name": "Goldfish Lantern (Fighter)"
+      },
+      {
+        "id": 4106,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101179",
+        "name": "Goldfish Lantern (Bomber)"
+      },
+      {
+        "id": 4107,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101180",
+        "name": "Rainbow-Feathered Raiment Manjuu (Torpedo)"
+      },
+      {
+        "id": 4108,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101180",
+        "name": "Rainbow-Feathered Raiment Manjuu (Fighter)"
+      },
+      {
+        "id": 4109,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101180",
+        "name": "Rainbow-Feathered Raiment Manjuu (Bomber)"
+      },
+      {
+        "id": 4110,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101181",
+        "name": "Guardian Swordsman Manjuu (Torpedo)"
+      },
+      {
+        "id": 4111,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101181",
+        "name": "Guardian Swordsman Manjuu (Fighter)"
+      },
+      {
+        "id": 4112,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101181",
+        "name": "Guardian Swordsman Manjuu (Bomber)"
+      }
+    ]
+  },
   "30401": {
     "id": 30401,
     "name": "Random Gear Skin Box (Cruise Series 3)",
@@ -28179,6 +28462,204 @@
       }
     ]
   },
+  "30551": {
+    "id": 30551,
+    "name": "Selection Gear Skin Box (Spring Auspices)",
+    "description": "Can be opened to receive 1 Spring Auspices-themed gear skin of your choosing.",
+    "type": 13,
+    "icon": "props/appearanceboxruiguangyingsuizixuan",
+    "rarity": 5,
+    "locations": [
+      "Event"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 4095,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101170",
+        "name": "Peace and Longevity Shell"
+      },
+      {
+        "id": 4096,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101171",
+        "name": "Dreamweave Loom Shell"
+      },
+      {
+        "id": 4097,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101172",
+        "name": "Prayer Bell Shell"
+      },
+      {
+        "id": 4098,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101173",
+        "name": "Auspicious Knot Torpedo"
+      },
+      {
+        "id": 4099,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101174",
+        "name": "Thousand-Blade Umbrella Torpedo"
+      },
+      {
+        "id": 4100,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101175",
+        "name": "Feather Duster Torpedo"
+      },
+      {
+        "id": 4101,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101176",
+        "name": "Swordsman Hat Shell"
+      },
+      {
+        "id": 4102,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101177",
+        "name": "Embroidered Fan Shell"
+      },
+      {
+        "id": 4103,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101178",
+        "name": "Golden Fiery Button Shell"
+      },
+      {
+        "id": 4104,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101179",
+        "name": "Goldfish Lantern (Torpedo)"
+      },
+      {
+        "id": 4105,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101179",
+        "name": "Goldfish Lantern (Fighter)"
+      },
+      {
+        "id": 4106,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101179",
+        "name": "Goldfish Lantern (Bomber)"
+      },
+      {
+        "id": 4107,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101180",
+        "name": "Rainbow-Feathered Raiment Manjuu (Torpedo)"
+      },
+      {
+        "id": 4108,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101180",
+        "name": "Rainbow-Feathered Raiment Manjuu (Fighter)"
+      },
+      {
+        "id": 4109,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101180",
+        "name": "Rainbow-Feathered Raiment Manjuu (Bomber)"
+      },
+      {
+        "id": 4110,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101181",
+        "name": "Guardian Swordsman Manjuu (Torpedo)"
+      },
+      {
+        "id": 4111,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101181",
+        "name": "Guardian Swordsman Manjuu (Fighter)"
+      },
+      {
+        "id": 4112,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101181",
+        "name": "Guardian Swordsman Manjuu (Bomber)"
+      }
+    ]
+  },
   "30911": {
     "id": 30911,
     "name": "T1 Custom Gear Lab Material Pack",
@@ -39062,7 +39543,8 @@
       "IAP Purchase"
     ],
     "servers": [
-      "EN"
+      "EN",
+      "CN"
     ],
     "contains": [
       {
@@ -39098,7 +39580,8 @@
       "IAP Purchase"
     ],
     "servers": [
-      "EN"
+      "EN",
+      "CN"
     ],
     "contains": [
       {
@@ -39144,7 +39627,8 @@
       "IAP Purchase"
     ],
     "servers": [
-      "EN"
+      "EN",
+      "CN"
     ],
     "contains": [
       {
@@ -39240,7 +39724,8 @@
       "IAP Purchase"
     ],
     "servers": [
-      "EN"
+      "EN",
+      "CN"
     ],
     "contains": []
   },
@@ -39665,7 +40150,8 @@
     "icon": "props/symbolxuanwu",
     "rarity": 5,
     "locations": [
-      "Event"
+      "Event",
+      "Prototype Shop"
     ],
     "servers": [
       "EN",
@@ -39680,6 +40166,23 @@
     "description": "\"Electrical output... rising...\" - Retrofit material for Eldridge.",
     "type": 7,
     "icon": "props/electboostdevice",
+    "rarity": 5,
+    "locations": [
+      "Event"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "59854": {
+    "id": 59854,
+    "name": "Seal of the Vermilion Bird",
+    "description": "A jade talisman engraved with the image of Zhuque, one of the Four Divine Beasts of the Dragon Empery. It seems to pulsate with power. —An item required to retrofit Fu Shun.",
+    "type": 7,
+    "icon": "props/symbolzhuque",
     "rarity": 5,
     "locations": [
       "Event"

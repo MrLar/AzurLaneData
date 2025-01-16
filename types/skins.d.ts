@@ -34,7 +34,8 @@ export type SkinType =
 2 | // retrofit
 3 | // original
 4 | // promo
-5 // valentine
+5 | // valentine
+6 // dual form alt
 
 // this could be an enum, but TS enums add uneccesary overhead
 export type SkinCategory =
@@ -78,4 +79,5 @@ export type SkinObtainType =
 5 | // prize shop
 6 | // oath
 7 | // retrofit
-8 // promotional (IRL)
+8 | // promotional (IRL)
+9 // dual form switching

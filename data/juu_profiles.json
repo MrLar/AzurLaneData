@@ -281,6 +281,12 @@
     "icon": "shengdiyage_younv",
     "ship_id": 392
   },
+  "10222": {
+    "id": 10222,
+    "name": "San Juan",
+    "icon": "shenghuan",
+    "ship_id": 404
+  },
   "10223": {
     "id": 10223,
     "name": "Cleve-FC.4",
@@ -2258,7 +2264,7 @@
   "50102": {
     "id": 50102,
     "name": "Fushun2",
-    "icon": "fushun",
+    "icon": "fushun_g",
     "ship_id": 254
   },
   "50103": {
@@ -2290,6 +2296,18 @@
     "name": "Fei Yuen",
     "icon": "feiyun",
     "ship_id": 625
+  },
+  "50108": {
+    "id": 50108,
+    "name": "Chang Feng",
+    "icon": "changfeng",
+    "ship_id": 676
+  },
+  "50109": {
+    "id": 50109,
+    "name": "Fu Po",
+    "icon": "fubo",
+    "ship_id": 677
   },
   "50201": {
     "id": 50201,
@@ -2339,6 +2357,18 @@
     "icon": "jian",
     "ship_id": 622
   },
+  "50210": {
+    "id": 50210,
+    "name": "Hai Yung",
+    "icon": "hairong",
+    "ship_id": 675
+  },
+  "50301": {
+    "id": 50301,
+    "name": "Chien Wu",
+    "icon": "jianwu",
+    "ship_id": 674
+  },
   "50401": {
     "id": 50401,
     "name": "Huan Ch'ang",
@@ -2354,7 +2384,7 @@
   "50602": {
     "id": 50602,
     "name": "Hua Jia",
-    "icon": "huajia_2",
+    "icon": "huajia_g",
     "ship_id": 579
   },
   "51901": {

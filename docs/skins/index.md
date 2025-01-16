@@ -23,21 +23,23 @@ Skin Info contains relevant information of a ship skin. Provides the following p
 |   **dynamic**    |               `boolean`                |                                              Whether this skin is dynamic.                                               |
 |  **custom_bgm**  |               `boolean`                |                                      Whether this skin has custom background music.                                      |
 |  **dynamic_bg**  |               `boolean`                |                                       Whether this skin has a dynamic background.                                        |
+|  **dual_form**   |               `boolean`                |                                          Whether this skin is a dual form skin.                                          |
 
 # Skin Type
 
-Skin Type is a numeric value with the range `[-1, 5]` where each number represents an in-game skin
+Skin Type is a numeric value with the range `[-1, 6]` where each number represents an in-game skin
 type:
 
-| Value |   Label   |            Description             |
-| :---: | :-------: | :--------------------------------: |
-|  -1   |  Default  |     Type of all default skins.     |
-|   0   |  Normal   |      Type for regular skins.       |
-|   1   |   Oath    |      Type for all Oath skins.      |
-|   2   | Retrofit  |    Type for all Retrofit skins.    |
-|   3   |    Old    | Type for all Old (Original) skins. |
-|   4   |   Promo   |     Type for all Promo skins.      |
-|   5   | Valentine |   Type for most Valentine skins.   |
+| Value |     Label     |               Description                |
+| :---: | :-----------: | :--------------------------------------: |
+|  -1   |    Default    |        Type of all default skins.        |
+|   0   |    Normal     |         Type for regular skins.          |
+|   1   |     Oath      |         Type for all Oath skins.         |
+|   2   |   Retrofit    |       Type for all Retrofit skins.       |
+|   3   |      Old      |    Type for all Old (Original) skins.    |
+|   4   |     Promo     |        Type for all Promo skins.         |
+|   5   |   Valentine   |      Type for most Valentine skins.      |
+|   6   | Dual Form Alt | Alternative version of a dual form skin. |
 
 # Skin Category
 
@@ -80,18 +82,19 @@ each number represents an in-game skin type (missing values do not exit in game)
 
 # Skin Obtain Type
 
-Skin Type is a numeric value with the range `[-1, 8]` where each number represents how a skin
+Skin Type is a numeric value with the range `[-1, 9]` where each number represents how a skin
 is attainable:
 
-| Value |       Label        |
-| :---: | :----------------: |
-|  -1   |    Unobtainable    |
-|   0   |  Skin Shop (Gems)  |
-|   1   | Any Core Data Shop |
-|   2   |       Events       |
-|   3   | Cruise Pass (Paid) |
-|   4   |     Quest Line     |
-|   5   |     Prize Shop     |
-|   6   |        Oath        |
-|   7   |      Retrofit      |
-|   8   |   IRL Promotion    |
+| Value |        Label        |
+| :---: | :-----------------: |
+|  -1   |    Unobtainable     |
+|   0   |  Skin Shop (Gems)   |
+|   1   | Any Core Data Shop  |
+|   2   |       Events        |
+|   3   | Cruise Pass (Paid)  |
+|   4   |     Quest Line      |
+|   5   |     Prize Shop      |
+|   6   |        Oath         |
+|   7   |      Retrofit       |
+|   8   |    IRL Promotion    |
+|   9   | Dual Form Switching |

@@ -122998,5 +122998,55 @@
       "JP",
       "CN"
     ]
+  },
+  "150600": {
+    "icon": "150600",
+    "id": 150600,
+    "name": "Fu Po's Battleplan",
+    "rarity": 4,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60810
+    ],
+    "nation": 5,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 11,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          200,
+          230,
+          260,
+          290,
+          320,
+          350,
+          380,
+          410,
+          440,
+          470,
+          500,
+          530
+        ]
+      }
+    ],
+    "labels": [
+      "pran",
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
   }
 }

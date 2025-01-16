@@ -951,6 +951,18 @@
         "name": "SR Pool",
         "items": [
           {
+            "id": 322,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 5,
+            "icon": "ships/compact/nengdai",
+            "name": "Noshiro",
+            "limit": -1,
+            "cost": -1
+          },
+          {
             "id": 65,
             "type": 2,
             "amount": -1,
@@ -1076,6 +1088,18 @@
         "id": "elite_pool",
         "name": "Elite Pool",
         "items": [
+          {
+            "id": 416,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/u110",
+            "name": "U-110",
+            "limit": -1,
+            "cost": 4000
+          },
           {
             "id": 93,
             "type": 2,
@@ -1764,6 +1788,20 @@
     "type": 4,
     "manual_refresh": false,
     "items": [
+      {
+        "id": 3800,
+        "level": 0,
+        "type": 1,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/3800",
+        "name": "Plum-Petal Poetry",
+        "limit": 2,
+        "cost": 800,
+        "limit_type": 1
+      },
       {
         "id": 640,
         "level": 0,
@@ -2761,6 +2799,30 @@
         "cost": 1200
       },
       {
+        "id": 580,
+        "type": 2,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 4,
+        "icon": "ships/compact/dingan",
+        "name": "Ting An",
+        "limit": 1,
+        "cost": 1200
+      },
+      {
+        "id": 625,
+        "type": 2,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 4,
+        "icon": "ships/compact/feiyun",
+        "name": "Fei Yuen",
+        "limit": 1,
+        "cost": 1200
+      },
+      {
         "id": 960,
         "level": 0,
         "type": 1,
@@ -3274,6 +3336,20 @@
         "limit_type": 1
       },
       {
+        "id": 59851,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/symbolxuanwu",
+        "name": "Seal of the Black Tortoise",
+        "limit": 1,
+        "cost": 2000,
+        "use_alt": 0,
+        "limit_type": 1
+      },
+      {
         "id": 14001,
         "type": 0,
         "linkable": true,
@@ -3323,18 +3399,6 @@
         "cost": 15
       },
       {
-        "id": 42036,
-        "type": 0,
-        "linkable": true,
-        "rarity": 6,
-        "amount": 1,
-        "blueprint": false,
-        "icon": "props/42036",
-        "name": "Special General Blueprint - Series 4",
-        "limit": 10,
-        "cost": 120
-      },
-      {
         "id": 14004,
         "type": 0,
         "linkable": true,
@@ -3358,18 +3422,6 @@
         "limit": 50,
         "cost": 60,
         "limit_type": 2
-      },
-      {
-        "id": 42040,
-        "type": 0,
-        "linkable": true,
-        "rarity": 5,
-        "amount": 1,
-        "blueprint": false,
-        "icon": "props/42040",
-        "name": "General Blueprint - Series 5",
-        "limit": 30,
-        "cost": 30
       },
       {
         "id": 42046,
@@ -3456,6 +3508,55 @@
         "limit": 50,
         "cost": 60,
         "limit_type": 2
+      },
+      {
+        "id": 42060,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/42060",
+        "name": "General Blueprint - Series 7",
+        "limit": 30,
+        "cost": 30
+      },
+      {
+        "id": 42066,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/42066",
+        "name": "Special General Blueprint - Series 7",
+        "limit": 10,
+        "cost": 120
+      },
+      {
+        "id": 43160,
+        "type": 1,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/43160",
+        "name": "Design for T0 Prototype Triple 203mm SKC Main Gun Mount",
+        "limit": 50,
+        "cost": 60,
+        "limit_type": 2
+      },
+      {
+        "id": 14007,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/14007",
+        "name": "Prototype Weapon Blueprint - Series 7",
+        "limit": 20,
+        "cost": 15
       }
     ],
     "currency": {
@@ -4642,6 +4743,150 @@
         "name": "Elite Ship Pool",
         "items": [
           {
+            "id": 477,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/daqinghuayu_idol",
+            "name": "Albacore μ",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 412,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/kaisa",
+            "name": "Giulio Cesare",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 422,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/xipeier_idol",
+            "name": "Admiral Hipper μ",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 478,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/baerdimo_idol",
+            "name": "Baltimore μ",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 494,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/zhaohe",
+            "name": "Chao Ho",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 493,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/yingrui",
+            "name": "Ying Swei",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 424,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/xia",
+            "name": "Kasumi",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 152,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/baixue",
+            "name": "Shirayuki",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 495,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/peineiluopo",
+            "name": "Penelope",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 420,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/kelifulan_idol",
+            "name": "Cleveland μ",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 405,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/bominghan",
+            "name": "Birmingham",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 509,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/shidifenbote",
+            "name": "Stephen Potter",
+            "cost": -1,
+            "limit": -1
+          },
+          {
             "id": 33,
             "type": 2,
             "amount": -1,
@@ -5611,30 +5856,6 @@
         "limit": 2
       },
       {
-        "id": 42030,
-        "type": 0,
-        "linkable": true,
-        "rarity": 5,
-        "amount": 1,
-        "blueprint": false,
-        "icon": "props/42030",
-        "name": "General Blueprint - Series 4",
-        "cost": 20,
-        "limit": 15
-      },
-      {
-        "id": 42036,
-        "type": 0,
-        "linkable": true,
-        "rarity": 6,
-        "amount": 1,
-        "blueprint": false,
-        "icon": "props/42036",
-        "name": "Special General Blueprint - Series 4",
-        "cost": 20,
-        "limit": 5
-      },
-      {
         "id": 50005,
         "type": 0,
         "linkable": true,
@@ -5683,30 +5904,6 @@
         "limit": 10
       },
       {
-        "id": 42020,
-        "type": 0,
-        "linkable": true,
-        "rarity": 5,
-        "amount": 1,
-        "blueprint": false,
-        "icon": "props/42020",
-        "name": "General Blueprint - Series 3",
-        "cost": 20,
-        "limit": 15
-      },
-      {
-        "id": 42026,
-        "type": 0,
-        "linkable": true,
-        "rarity": 6,
-        "amount": 1,
-        "blueprint": false,
-        "icon": "props/42026",
-        "name": "Special General Blueprint - Series 3",
-        "cost": 20,
-        "limit": 5
-      },
-      {
         "id": 30205,
         "type": 0,
         "linkable": true,
@@ -5719,52 +5916,28 @@
         "limit": 20
       },
       {
-        "id": 42040,
+        "id": 42060,
         "type": 0,
         "linkable": true,
         "rarity": 5,
         "amount": 1,
         "blueprint": false,
-        "icon": "props/42040",
-        "name": "General Blueprint - Series 5",
-        "cost": 20,
-        "limit": 15
+        "icon": "props/42060",
+        "name": "General Blueprint - Series 7",
+        "limit": 30,
+        "cost": 30
       },
       {
-        "id": 42046,
+        "id": 42066,
         "type": 0,
         "linkable": true,
         "rarity": 6,
         "amount": 1,
         "blueprint": false,
-        "icon": "props/42046",
-        "name": "Special General Blueprint - Series 5",
-        "cost": 20,
-        "limit": 5
-      },
-      {
-        "id": 42050,
-        "type": 0,
-        "linkable": true,
-        "rarity": 5,
-        "amount": 1,
-        "blueprint": false,
-        "icon": "props/42050",
-        "name": "General Blueprint - Series 6",
-        "cost": 20,
-        "limit": 15
-      },
-      {
-        "id": 42056,
-        "type": 0,
-        "linkable": true,
-        "rarity": 6,
-        "amount": 1,
-        "blueprint": false,
-        "icon": "props/42056",
-        "name": "Special General Blueprint - Series 6",
-        "cost": 20,
-        "limit": 5
+        "icon": "props/42066",
+        "name": "Special General Blueprint - Series 7",
+        "limit": 10,
+        "cost": 120
       },
       {
         "id": 59010,
@@ -6229,6 +6402,42 @@
         "name": "SR DD Pool",
         "items": [
           {
+            "id": 475,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 5,
+            "icon": "ships/compact/tashigan_idol",
+            "name": "Tashkent μ",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 517,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 5,
+            "icon": "ships/compact/fengyun",
+            "name": "Kazagumo",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 508,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 5,
+            "icon": "ships/compact/ailunsamuna",
+            "name": "Allen M. Summer",
+            "cost": -1,
+            "limit": -1
+          },
+          {
             "id": 166,
             "type": 2,
             "amount": -1,
@@ -6282,6 +6491,18 @@
         "id": "cl_pool",
         "name": "SR CL Pool",
         "items": [
+          {
+            "id": 476,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 5,
+            "icon": "ships/compact/daiduo_idol",
+            "name": "Dido μ",
+            "cost": -1,
+            "limit": -1
+          },
           {
             "id": 36,
             "type": 2,
@@ -6337,6 +6558,42 @@
         "name": "SR CA Pool",
         "items": [
           {
+            "id": 489,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 5,
+            "icon": "ships/compact/bola",
+            "name": "Pola",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 413,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 5,
+            "icon": "ships/compact/zhala",
+            "name": "Zara",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 50,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 5,
+            "icon": "ships/compact/baerdimo",
+            "name": "Baltimore",
+            "cost": -1,
+            "limit": -1
+          },
+          {
             "id": 200,
             "type": 2,
             "amount": -1,
@@ -6390,6 +6647,42 @@
         "id": "bb_pool",
         "name": "SR BB Pool",
         "items": [
+          {
+            "id": 418,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 5,
+            "icon": "ships/compact/jiasikenie_idol",
+            "name": "Gascogne μ",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 425,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 5,
+            "icon": "ships/compact/junhe",
+            "name": "Suruga",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 401,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 5,
+            "icon": "ships/compact/alabama",
+            "name": "Alabama",
+            "cost": -1,
+            "limit": -1
+          },
           {
             "id": 129,
             "type": 2,
@@ -6552,6 +6845,54 @@
         "id": "cv_pool",
         "name": "SR CV Pool",
         "items": [
+          {
+            "id": 474,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 5,
+            "icon": "ships/compact/dafeng_idol",
+            "name": "Taihou μ",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 419,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 5,
+            "icon": "ships/compact/chicheng_idol",
+            "name": "Akagi μ",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 426,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 5,
+            "icon": "ships/compact/longfeng",
+            "name": "Ryuuhou",
+            "cost": -1,
+            "limit": -1
+          },
+          {
+            "id": 147,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 5,
+            "icon": "ships/compact/kewei",
+            "name": "Formidable",
+            "cost": -1,
+            "limit": -1
+          },
           {
             "id": 77,
             "type": 2,

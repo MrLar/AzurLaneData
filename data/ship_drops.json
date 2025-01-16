@@ -3237,12 +3237,17 @@
     "id": 50,
     "timer": "02:00:00",
     "light": false,
-    "heavy": true,
+    "heavy": false,
     "limited": "Ashen Simulacrum",
     "special": false,
-    "other": [],
+    "other": [
+      1,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Heavy Construction"
+    ],
     "events": [
       "Ashen Simulacrum"
     ]
@@ -8342,10 +8347,15 @@
     "light": false,
     "heavy": false,
     "limited": "Empyreal Tragicomedy and Virtual Tower",
-    "special": true,
-    "other": [],
+    "special": false,
+    "other": [
+      1,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Special Construction"
+    ],
     "events": [
       "Empyreal Tragicomedy",
       "Virtual Tower"
@@ -8472,13 +8482,18 @@
   "152": {
     "id": 152,
     "timer": "00:23:00",
-    "light": true,
+    "light": false,
     "heavy": false,
     "limited": "Swirling Cherry Blossoms",
     "special": false,
-    "other": [],
+    "other": [
+      0,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Light Construction"
+    ],
     "events": [
       "Swirling Cherry Blossoms"
     ]
@@ -11233,7 +11248,8 @@
       "Happy Lunar New Year 2021",
       "Happy Lunar New Year 2022",
       "Happy Lunar New Year 2023",
-      "Happy Lunar New Year 2024"
+      "Happy Lunar New Year 2024",
+      "Happy Lunar New Year 2025"
     ]
   },
   "254": {
@@ -11255,7 +11271,8 @@
       "Happy Lunar New Year 2021",
       "Happy Lunar New Year 2022",
       "Happy Lunar New Year 2023",
-      "Happy Lunar New Year 2024"
+      "Happy Lunar New Year 2024",
+      "Happy Lunar New Year 2025"
     ]
   },
   "255": {
@@ -12253,13 +12270,17 @@
   "322": {
     "id": 322,
     "timer": "01:20:00",
-    "light": true,
+    "light": false,
     "heavy": false,
     "limited": "Swirling Cherry Blossoms",
     "special": false,
-    "other": [],
+    "other": [
+      3
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Light Construction"
+    ],
     "events": [
       "Swirling Cherry Blossoms"
     ]
@@ -13496,12 +13517,17 @@
     "id": 401,
     "timer": "05:00:00",
     "light": false,
-    "heavy": true,
+    "heavy": false,
     "limited": "Ashen Simulacrum",
     "special": false,
-    "other": [],
+    "other": [
+      1,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Heavy Construction"
+    ],
     "events": [
       "Ashen Simulacrum"
     ]
@@ -13561,13 +13587,18 @@
   "405": {
     "id": 405,
     "timer": "01:25:00",
-    "light": true,
+    "light": false,
     "heavy": false,
     "limited": "Ashen Simulacrum",
     "special": false,
-    "other": [],
+    "other": [
+      0,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Light Construction"
+    ],
     "events": [
       "Ashen Simulacrum"
     ]
@@ -13633,7 +13664,7 @@
     "id": 410,
     "timer": "05:15:00",
     "light": false,
-    "heavy": true,
+    "heavy": false,
     "limited": "Empyreal Tragicomedy",
     "special": false,
     "other": [
@@ -13641,7 +13672,8 @@
     ],
     "maps": [],
     "notes": [
-      "Available in the Event shop during Empyreal Tragicomedy"
+      "Available in the Event shop during Empyreal Tragicomedy",
+      "Used to be in Heavy Construction"
     ],
     "events": [
       "Empyreal Tragicomedy"
@@ -13669,12 +13701,17 @@
     "id": 412,
     "timer": "04:15:00",
     "light": false,
-    "heavy": true,
+    "heavy": false,
     "limited": "Empyreal Tragicomedy",
     "special": false,
-    "other": [],
+    "other": [
+      0,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Heavy Construction"
+    ],
     "events": [
       "Empyreal Tragicomedy"
     ]
@@ -13683,12 +13720,17 @@
     "id": 413,
     "timer": "01:55:00",
     "light": false,
-    "heavy": true,
+    "heavy": false,
     "limited": "Empyreal Tragicomedy",
     "special": false,
-    "other": [],
+    "other": [
+      1,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Heavy Construction"
+    ],
     "events": [
       "Empyreal Tragicomedy"
     ]
@@ -13735,10 +13777,14 @@
     "light": false,
     "heavy": false,
     "limited": null,
-    "special": true,
-    "other": [],
+    "special": false,
+    "other": [
+      3
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Special Construction"
+    ],
     "events": []
   },
   "417": {
@@ -13757,12 +13803,17 @@
     "id": 418,
     "timer": "05:50:00",
     "light": false,
-    "heavy": true,
+    "heavy": false,
     "limited": "Passionate Polaris",
     "special": false,
-    "other": [],
+    "other": [
+      1,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Heavy Construction"
+    ],
     "events": [
       "Passionate Polaris"
     ]
@@ -13773,10 +13824,15 @@
     "light": false,
     "heavy": false,
     "limited": "Passionate Polaris",
-    "special": true,
-    "other": [],
+    "special": false,
+    "other": [
+      1,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Special Construction"
+    ],
     "events": [
       "Passionate Polaris"
     ]
@@ -13784,13 +13840,18 @@
   "420": {
     "id": 420,
     "timer": "01:25:00",
-    "light": true,
+    "light": false,
     "heavy": false,
     "limited": "Passionate Polaris",
     "special": false,
-    "other": [],
+    "other": [
+      0,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Light Construction"
+    ],
     "events": [
       "Passionate Polaris"
     ]
@@ -13817,12 +13878,17 @@
     "id": 422,
     "timer": "02:00:00",
     "light": false,
-    "heavy": true,
+    "heavy": false,
     "limited": "Passionate Polaris",
     "special": false,
-    "other": [],
+    "other": [
+      0,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Heavy Construction"
+    ],
     "events": [
       "Passionate Polaris"
     ]
@@ -13842,13 +13908,18 @@
   "424": {
     "id": 424,
     "timer": "00:28:00",
-    "light": true,
+    "light": false,
     "heavy": false,
     "limited": "Swirling Cherry Blossoms",
     "special": false,
-    "other": [],
+    "other": [
+      0,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Light Construction"
+    ],
     "events": [
       "Swirling Cherry Blossoms"
     ]
@@ -13857,12 +13928,17 @@
     "id": 425,
     "timer": "04:20:00",
     "light": false,
-    "heavy": true,
+    "heavy": false,
     "limited": "Swirling Cherry Blossoms",
     "special": false,
-    "other": [],
+    "other": [
+      1,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Heavy Construction"
+    ],
     "events": [
       "Swirling Cherry Blossoms"
     ]
@@ -13873,10 +13949,15 @@
     "light": false,
     "heavy": false,
     "limited": "Swirling Cherry Blossoms",
-    "special": true,
-    "other": [],
+    "special": false,
+    "other": [
+      1,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Special Construction"
+    ],
     "events": [
       "Swirling Cherry Blossoms"
     ]
@@ -14595,10 +14676,15 @@
     "light": false,
     "heavy": false,
     "limited": "Universe in Unison",
-    "special": true,
-    "other": [],
+    "special": false,
+    "other": [
+      1,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Special Construction"
+    ],
     "events": [
       "Universe in Unison"
     ]
@@ -14606,13 +14692,17 @@
   "475": {
     "id": 475,
     "timer": "00:42:00",
-    "light": true,
+    "light": false,
     "heavy": false,
     "limited": "Universe in Unison",
     "special": false,
-    "other": [],
+    "other": [
+      2
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Light Construction"
+    ],
     "events": [
       "Universe in Unison"
     ]
@@ -14620,13 +14710,17 @@
   "476": {
     "id": 476,
     "timer": "00:55:00",
-    "light": true,
+    "light": false,
     "heavy": false,
     "limited": "Universe in Unison",
     "special": false,
-    "other": [],
+    "other": [
+      2
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Light Construction"
+    ],
     "events": [
       "Universe in Unison"
     ]
@@ -14637,10 +14731,15 @@
     "light": false,
     "heavy": false,
     "limited": "Universe in Unison",
-    "special": true,
-    "other": [],
+    "special": false,
+    "other": [
+      0,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Special Construction"
+    ],
     "events": [
       "Universe in Unison"
     ]
@@ -14649,12 +14748,17 @@
     "id": 478,
     "timer": "02:00:00",
     "light": false,
-    "heavy": true,
+    "heavy": false,
     "limited": "Universe in Unison",
     "special": false,
-    "other": [],
+    "other": [
+      0,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Heavy Construction"
+    ],
     "events": [
       "Universe in Unison"
     ]
@@ -14827,12 +14931,17 @@
     "id": 489,
     "timer": "01:55:00",
     "light": false,
-    "heavy": true,
+    "heavy": false,
     "limited": "Empyreal Tragicomedy",
     "special": false,
-    "other": [],
+    "other": [
+      1,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Heavy Construction"
+    ],
     "events": [
       "Empyreal Tragicomedy"
     ]
@@ -14884,37 +14993,52 @@
   "493": {
     "id": 493,
     "timer": "00:38:00",
-    "light": true,
+    "light": false,
     "heavy": false,
     "limited": null,
     "special": false,
-    "other": [],
+    "other": [
+      0,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Light Construction"
+    ],
     "events": []
   },
   "494": {
     "id": 494,
     "timer": "00:38:00",
-    "light": true,
+    "light": false,
     "heavy": false,
     "limited": null,
     "special": false,
-    "other": [],
+    "other": [
+      0,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Light Construction"
+    ],
     "events": []
   },
   "495": {
     "id": 495,
     "timer": "01:20:00",
-    "light": true,
+    "light": false,
     "heavy": false,
     "limited": null,
     "special": false,
-    "other": [],
+    "other": [
+      0,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Light Construction"
+    ],
     "events": []
   },
   "496": {
@@ -15098,13 +15222,18 @@
   "508": {
     "id": 508,
     "timer": "00:29:00",
-    "light": true,
+    "light": false,
     "heavy": false,
     "limited": "Ashen Simulacrum",
     "special": false,
-    "other": [],
+    "other": [
+      1,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Light Construction"
+    ],
     "events": [
       "Ashen Simulacrum"
     ]
@@ -15112,13 +15241,18 @@
   "509": {
     "id": 509,
     "timer": "00:28:00",
-    "light": true,
+    "light": false,
     "heavy": false,
     "limited": "Ashen Simulacrum",
     "special": false,
-    "other": [],
+    "other": [
+      0,
+      4
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Light Construction"
+    ],
     "events": [
       "Ashen Simulacrum"
     ]
@@ -15234,13 +15368,17 @@
   "517": {
     "id": 517,
     "timer": "00:27:00",
-    "light": true,
+    "light": false,
     "heavy": false,
     "limited": "Swirling Cherry Blossoms",
     "special": false,
-    "other": [],
+    "other": [
+      2
+    ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Used to be in Light Construction"
+    ],
     "events": [
       "Swirling Cherry Blossoms"
     ]
@@ -16178,7 +16316,9 @@
     "heavy": false,
     "limited": null,
     "special": false,
-    "other": [],
+    "other": [
+      2
+    ],
     "maps": [],
     "notes": [
       "Available as task reward during Happy Lunar New Year 2023"
@@ -16802,7 +16942,7 @@
     "id": 621,
     "timer": "04:10:00",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Happy Lunar New Year 2024",
     "special": false,
     "other": [],
@@ -16815,7 +16955,7 @@
   "622": {
     "id": 622,
     "timer": "00:38:00",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": "Happy Lunar New Year 2024",
     "special": false,
@@ -16829,7 +16969,7 @@
   "623": {
     "id": 623,
     "timer": "00:33:00",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": "Happy Lunar New Year 2024",
     "special": false,
@@ -16843,7 +16983,7 @@
   "624": {
     "id": 624,
     "timer": "00:33:00",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": "Happy Lunar New Year 2024",
     "special": false,
@@ -16861,7 +17001,9 @@
     "heavy": false,
     "limited": null,
     "special": false,
-    "other": [],
+    "other": [
+      2
+    ],
     "maps": [],
     "notes": [],
     "events": [
@@ -17530,6 +17672,69 @@
     "notes": [],
     "events": [
       "Substellar Crepuscule"
+    ]
+  },
+  "674": {
+    "id": 674,
+    "timer": "01:30:00",
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available in Light Construction during Spring Fashion Festa"
+    ],
+    "events": [
+      "Spring Fashion Festa"
+    ]
+  },
+  "675": {
+    "id": 675,
+    "timer": "00:40:00",
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available in Light Construction during Spring Fashion Festa"
+    ],
+    "events": [
+      "Spring Fashion Festa"
+    ]
+  },
+  "676": {
+    "id": 676,
+    "timer": "00:33:00",
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available in Light Construction during Spring Fashion Festa"
+    ],
+    "events": [
+      "Spring Fashion Festa"
+    ]
+  },
+  "677": {
+    "id": 677,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [],
+    "events": [
+      "Spring Fashion Festa",
+      "Fu Po's Flawless Plan"
     ]
   },
   "10001": {
