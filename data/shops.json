@@ -1098,7 +1098,7 @@
             "icon": "ships/compact/u110",
             "name": "U-110",
             "limit": -1,
-            "cost": 4000
+            "cost": 8000
           },
           {
             "id": 93,
@@ -1793,7 +1793,7 @@
         "level": 0,
         "type": 1,
         "linkable": true,
-        "rarity": 6,
+        "rarity": 5,
         "amount": 1,
         "blueprint": false,
         "icon": "equips/3800",
@@ -4742,6 +4742,18 @@
         "id": "elite_pool",
         "name": "Elite Ship Pool",
         "items": [
+          {
+            "id": 416,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/u110",
+            "name": "U-110",
+            "cost": -1,
+            "limit": -1
+          },
           {
             "id": 477,
             "type": 2,
