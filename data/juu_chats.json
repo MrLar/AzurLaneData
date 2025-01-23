@@ -1431,6 +1431,585 @@
             "options": []
           }
         ]
+      },
+      {
+        "id": 71,
+        "name": "New Year's Red Envelopes",
+        "unlock": {
+          "type": 3,
+          "after": 1738134000000,
+          "before": 0
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 2442,
+            "text": "Happy new year!",
+            "user": 50103,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2443,
+            "text": "aww yeah! it's the new year! happy new year, everybody!",
+            "user": 50106,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2444,
+            "text": "biaoqiang",
+            "user": 50106,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2445,
+            "text": "Happy New Year, everyone.",
+            "user": 50601,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2446,
+            "text": "dujiaoshou",
+            "user": 50210,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2447,
+            "text": "[Goodies]",
+            "user": 51901,
+            "type": 3,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2448,
+            "text": "Holy cow! A red envelope!",
+            "user": 50102,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2449,
+            "text": "Thank you for that, Ting An!",
+            "user": 50101,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Happy New Year, girls!"
+              },
+              {
+                "option_id": 2,
+                "text": "Thanks for the envelope!"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 2450,
+            "text": "Happy New Year, girls!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 2451,
+            "text": "Thanks for the envelope!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 2452,
+            "text": "Also, happy New Year, girls!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2453,
+            "text": "And a happy New Year to you too, Commander.",
+            "user": 50601,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2454,
+            "text": "I hope that the New Year may be smooth sailing for us all.",
+            "user": 50201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2455,
+            "text": "Good news, everyone. I just divined and it said that your collective luck in the new year is only going to get better and better.",
+            "user": 50401,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "What an auspicious omen."
+              },
+              {
+                "option_id": 4,
+                "text": "Allow me to wish you..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 2456,
+            "text": "What an auspicious omen. This is sure to be a lucky year!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2457,
+            "text": "Likewise, I hope you'll all receive what you wish for and that everything goes your way!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2458,
+            "text": "Ah, it's past midnight. Was wondering why my notifs were exploding!",
+            "user": 59901,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2459,
+            "text": "Happy new year, everybody!",
+            "user": 59901,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2460,
+            "text": "Here comes another red envelope!",
+            "user": 59901,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2461,
+            "text": "[Goodies]",
+            "user": 59901,
+            "type": 3,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2462,
+            "text": "Whoever's the luckiest person here, now it's your turn!",
+            "user": 59901,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2463,
+            "text": "kedie",
+            "user": 59901,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2464,
+            "text": "dang it! i didn't get it again!",
+            "user": 50202,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2465,
+            "text": "You all react so quickly...",
+            "user": 50203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2466,
+            "text": "z23",
+            "user": 50208,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2467,
+            "text": "So who was the luckiest?",
+            "user": 50102,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2468,
+            "text": "Me, Lady Yuen!",
+            "user": 50107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2469,
+            "text": "Well, you know what to do, Yuen!",
+            "user": 50204,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2470,
+            "text": "Hang on! I'm still figuring out how to send red envelopes!",
+            "user": 50107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2471,
+            "text": "Hahaha! You still need my help, huh? I'm on it!",
+            "user": 50109,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2472,
+            "text": "Are you done yet, Yuen?",
+            "user": 50205,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2473,
+            "text": "buli",
+            "user": 50205,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2474,
+            "text": "[Goodies]",
+            "user": 50108,
+            "type": 3,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2475,
+            "text": "Fei Yuen couldn't quite figure it out, so I sent it on her behalf.",
+            "user": 50108,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2476,
+            "text": "What the heck is this?! I only got 6! There's less and less each time!",
+            "user": 50102,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2477,
+            "text": "line_part2_14",
+            "user": 50102,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2478,
+            "text": "Some are lucky, others are not.",
+            "user": 50401,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "That's a lucky number in the Empery, though!"
+              },
+              {
+                "option_id": 6,
+                "text": "Thanks for the red envelopes, everyone!"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 2479,
+            "text": "Six is considered lucky in the Empery, though!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 2480,
+            "text": "That is true. It bodes well for you, Fu Shun.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 2481,
+            "text": "On the subject, you got some lucky numbers too, didn't you, Commander? We consider 8 to be lucky as well.",
+            "user": 50201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 2482,
+            "text": "Thanks for the red envelopes, everyone!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 2483,
+            "text": "You're welcome. Sharing the fortune with others on Lunar New Year is so much fun.",
+            "user": 50108,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2484,
+            "text": "Since I was the luckiest one this time, now it's my turn.",
+            "user": 50602,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2485,
+            "text": "[Goodies]",
+            "user": 50602,
+            "type": 3,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2486,
+            "text": "It all went to the Commander... That's no coincidence or mistake, is it, Hwah Jah?",
+            "user": 50204,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2487,
+            "text": "It's somewhere in between. I made a mistake on purpose!",
+            "user": 50602,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2488,
+            "text": "An exclusive envelope, I see... What a great idea!",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2489,
+            "text": "I've prepared a red envelope as well, only in real life.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2490,
+            "text": "I'm coming to you to deliver it in person, Commander ♪",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2491,
+            "text": "Same here. I've prepared one of my own.",
+            "user": 50207,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2492,
+            "text": "Me too! Got one with a nice, trendy design and everything!",
+            "user": 50210,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2493,
+            "text": "Since we've each prepared one for the Commander, shall we all go and deliver them now?",
+            "user": 51901,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2494,
+            "text": "Good idea! Give your new year's wishes while you're at it, hah!",
+            "user": 59901,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2495,
+            "text": "Coming at midnight to wish someone a happy New Year? That's certainly a concept...",
+            "user": 50301,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2496,
+            "text": "Not a bad one, though. The start of the year should be exciting.",
+            "user": 50301,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2497,
+            "text": "I just finished making a late-night meal too! I'll bring it with me!",
+            "user": 50105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2498,
+            "text": "Whaaat? You got food ready? No way!",
+            "user": 50109,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2499,
+            "text": "yeah way! it's her new year surprise for all of us!",
+            "user": 50106,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2500,
+            "text": "part3_gbbb",
+            "user": 50106,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2501,
+            "text": "Yes, Lung Wu cooked up a lavish New Year's feast for us.",
+            "user": 50601,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2502,
+            "text": "thanks, lung wu!",
+            "user": 50202,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 7,
+                "text": "Thanks, Lung Wu, and the rest of you as well."
+              }
+            ]
+          },
+          {
+            "choosen_option": 7,
+            "id": 2503,
+            "text": "You're awesome, Lung Wu. Thank you. And thank you to the rest of you as well.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 2504,
+            "text": "I'm glad I get to spend the exciting first day of the new year together with all of you!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 2505,
+            "text": "Come to my place and we'll enjoy a late dinner together!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 2506,
+            "text": "part3_ynp",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 2507,
+            "text": "Yeah! We'll be right there!",
+            "user": 50103,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 2508,
+            "text": "Lessgo! Time to celebrate!",
+            "user": 50102,
+            "type": 1,
+            "options": []
+          }
+        ]
       }
     ],
     "icon": "103",

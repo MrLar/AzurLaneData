@@ -19547,7 +19547,8 @@
     "limited": null,
     "special": false,
     "other": [
-      11
+      11,
+      12
     ],
     "maps": [],
     "notes": [
@@ -20055,5 +20056,21 @@
     "events": [
       "Substellar Crepuscule"
     ]
+  },
+  "30043": {
+    "id": 30043,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [
+      11
+    ],
+    "maps": [],
+    "notes": [
+      "Available as a Reward from Cruise Pass Season 21"
+    ],
+    "events": []
   }
 }

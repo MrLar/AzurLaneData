@@ -439,6 +439,28 @@
     ],
     "contains": []
   },
+  "222": {
+    "name": "Podcast Table",
+    "description": "A spacious table full of joy and anticipation for great conversations.\nAll that remains is for two minds to meet.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 222,
+    "purchaseable": true,
+    "expires": 0,
+    "icon": "dorm3d/items/3ddrom_nengdai_premiumfurniture2",
+    "room_id": 2,
+    "furni_type": 6,
+    "exclusive": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "251": {
     "name": "Where Warmth Lingers",
     "description": "The warmth of a kotatsu makes you think of a lazy afternoon in the winter.\nSunlight streams through the window and onto the tatami mat, mingling with the kotatsu's warmth to melt away all your stress.",

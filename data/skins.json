@@ -3929,6 +3929,28 @@
     "dynamic_bg": false,
     "dual_form": false
   },
+  "105173": {
+    "id": 105173,
+    "name": "Dancing in the Moonlight",
+    "type": 0,
+    "category": 3,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "xinzexi_4",
+    "bg": "302",
+    "obtain_type": 0,
+    "price": 980,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "105178": {
     "id": 105178,
     "name": "Snow-White Ceremony",
@@ -8855,6 +8877,28 @@
     "dynamic_bg": false,
     "dual_form": false
   },
+  "204021": {
+    "id": 204021,
+    "name": "Dance of Spring Blooms",
+    "type": 0,
+    "category": 3,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "fanji_3",
+    "bg": "157",
+    "obtain_type": 3,
+    "price": 0,
+    "currency": 0,
+    "is_permanent": true,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "204031": {
     "id": 204031,
     "name": "Lady of the Shining Sun",
@@ -11863,6 +11907,28 @@
     "dynamic": false,
     "custom_bgm": false,
     "dynamic_bg": false,
+    "dual_form": false
+  },
+  "301132": {
+    "id": 301132,
+    "name": "Thawing Snow, Fireworks Alight",
+    "type": 0,
+    "category": 3,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "bailu_3",
+    "bg": "152",
+    "obtain_type": 0,
+    "price": 800,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": true,
     "dual_form": false
   },
   "301141": {
@@ -21871,6 +21937,28 @@
     "dynamic_bg": false,
     "dual_form": false
   },
+  "499033": {
+    "id": 499033,
+    "name": "A Blend of Serenity",
+    "type": 0,
+    "category": 3,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "meiyinci_3",
+    "bg": "302",
+    "obtain_type": 0,
+    "price": 1180,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": true,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "499041": {
     "id": 499041,
     "name": "Black Strokes upon Blank Snow",
@@ -23827,6 +23915,28 @@
     "dynamic_bg": false,
     "dual_form": false
   },
+  "603043": {
+    "id": 603043,
+    "name": "A Brush of Springtime Ink",
+    "type": 0,
+    "category": 3,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "diliyasite_4",
+    "bg": "302",
+    "obtain_type": 0,
+    "price": 780,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "603051": {
     "id": 603051,
     "name": "A Flutter in the Moment",
@@ -25015,6 +25125,28 @@
     "dynamic_bg": false,
     "dual_form": false
   },
+  "702062": {
+    "id": 702062,
+    "name": "Chamber of Fragrance",
+    "type": 0,
+    "category": 3,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "moermansike_3",
+    "bg": "157",
+    "obtain_type": 0,
+    "price": 880,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "702071": {
     "id": 702071,
     "name": "Devoted as the Warm Snow",
@@ -25805,6 +25937,28 @@
     "dynamic": false,
     "custom_bgm": false,
     "dynamic_bg": false,
+    "dual_form": false
+  },
+  "802022": {
+    "id": 802022,
+    "name": "Patron Saintess of Celebration",
+    "type": 0,
+    "category": 3,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "shengnvzhende_3",
+    "bg": "128",
+    "obtain_type": 0,
+    "price": 900,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": true,
     "dual_form": false
   },
   "802031": {
@@ -26989,6 +27143,28 @@
     "price": 1180,
     "currency": 59005,
     "is_permanent": true,
+    "l2d": true,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "905014": {
+    "id": 905014,
+    "name": "Springlight Étoiles",
+    "type": 0,
+    "category": 3,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "rangbaer_5",
+    "bg": "302",
+    "obtain_type": 0,
+    "price": 1180,
+    "currency": 59005,
+    "is_permanent": false,
     "l2d": true,
     "dynamic": false,
     "custom_bgm": false,

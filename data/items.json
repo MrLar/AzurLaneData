@@ -4007,6 +4007,23 @@
     ],
     "contains": []
   },
+  "21043": {
+    "id": 21043,
+    "name": "META Crystal - Bolzano META",
+    "description": "An item that increases the potential of Bolzano META. Used in the META Lab during Somatic Activation.",
+    "type": 4,
+    "icon": "props/21043",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 21"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "21101": {
     "id": 21101,
     "name": "Crystallized Heat-Resistant Steel",
@@ -18988,6 +19005,64 @@
       }
     ]
   },
+  "30426": {
+    "id": 30426,
+    "name": "Gear Skin Box (Cruise Missions)",
+    "description": "Contains 1 random Cruise Mission gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxshijiexunyou",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 20"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 2089,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96813",
+        "name": "Radiant Feather Shell"
+      },
+      {
+        "id": 2090,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96814",
+        "name": "Dawn Thunder Torpedo"
+      },
+      {
+        "id": 2091,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96815",
+        "name": "Angelic Sphere Shell"
+      },
+      {
+        "id": 2092,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96816",
+        "name": "Halo of Revelations"
+      }
+    ]
+  },
   "30501": {
     "id": 30501,
     "name": "Gear Skin Development Pack (Late Summer)",
@@ -28261,6 +28336,204 @@
         "blueprint": false,
         "icon": "equips/96933",
         "name": "Mysterious UFO Aircraft (Bomber)"
+      }
+    ]
+  },
+  "30549": {
+    "id": 30549,
+    "name": "Selection Gear Skin Box (Empery Chic)",
+    "description": "Can be opened to receive 1 Empery Chic event gear skin of your choosing.",
+    "type": 13,
+    "icon": "props/appearanceboxdonghuangshishangzixuan",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 20"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 560,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/93711",
+        "name": "Xiangqi Shell"
+      },
+      {
+        "id": 561,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/93712",
+        "name": "Go Shell"
+      },
+      {
+        "id": 562,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/93713",
+        "name": "Peach Blossom Shell"
+      },
+      {
+        "id": 563,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/93714",
+        "name": "Soup Dumpling Shell"
+      },
+      {
+        "id": 564,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/93715",
+        "name": "Stone Lion Shell"
+      },
+      {
+        "id": 565,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/93716",
+        "name": "Porcelain Manjuu Shell"
+      },
+      {
+        "id": 566,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/93721",
+        "name": "Hairpin Torpedo"
+      },
+      {
+        "id": 567,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/93722",
+        "name": "Suona Torpedo"
+      },
+      {
+        "id": 568,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/93723",
+        "name": "Gourd Torpedo"
+      },
+      {
+        "id": 569,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/93731",
+        "name": "Parasol Manjuu(Torpedo)"
+      },
+      {
+        "id": 570,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/93731",
+        "name": "Parasol Manjuu(Fighter)"
+      },
+      {
+        "id": 571,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/93731",
+        "name": "Parasol Manjuu(Bomber)"
+      },
+      {
+        "id": 572,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/93732",
+        "name": "Paper Kite Manjuu(Torpedo)"
+      },
+      {
+        "id": 573,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/93732",
+        "name": "Paper Kite Manjuu(Fighter)"
+      },
+      {
+        "id": 574,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/93732",
+        "name": "Paper Kite Manjuu(Bomber)"
+      },
+      {
+        "id": 575,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/93733",
+        "name": "Leaf Boat Manjuu(Torpedo)"
+      },
+      {
+        "id": 576,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/93733",
+        "name": "Leaf Boat Manjuu(Fighter)"
+      },
+      {
+        "id": 577,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/93733",
+        "name": "Leaf Boat Manjuu(Bomber)"
       }
     ]
   },
@@ -43039,7 +43312,7 @@
         "amount": 1,
         "blueprint": false,
         "linkable": false,
-        "rarity": 5,
+        "rarity": 4,
         "icon": "uipreview/102",
         "name": "Cyber"
       }
@@ -43095,9 +43368,37 @@
         "amount": 1,
         "blueprint": false,
         "linkable": false,
-        "rarity": 5,
+        "rarity": 4,
         "icon": "uipreview/104",
         "name": "Neon"
+      }
+    ]
+  },
+  "9999999105": {
+    "id": 9999999105,
+    "name": "Holy Light UI",
+    "description": "The Holy Light themed Battle UI",
+    "type": 97,
+    "icon": "props/ui_105",
+    "rarity": 4,
+    "locations": [
+      "Cruise Pass Season 21 (Paid Only)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 105,
+        "type": 99,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": false,
+        "rarity": 4,
+        "icon": "uipreview/105",
+        "name": "Holy Light"
       }
     ]
   },

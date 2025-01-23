@@ -51977,7 +51977,7 @@
     ]
   },
   "800531": {
-    "description": "Every 9 times this ship fires her Main Guns: fires a special barrage.",
+    "description": "Activates All Out Assault every 9 times the Main Guns are fired.",
     "opsi_description": "Every 9 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 2.0%.",
     "name": "Flickering Light - Trento",
     "max": 1,
@@ -51987,7 +51987,7 @@
     "values": []
   },
   "800532": {
-    "description": "Every 6 times this ship fires her Main Guns: fires a special barrage.",
+    "description": "Activates All Out Assault every 6 times the Main Guns are fired.",
     "opsi_description": "Every 6 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 6.0%.",
     "name": "Flickering Light - Trento",
     "max": 1,
@@ -53114,8 +53114,8 @@
     ]
   },
   "800881": {
-    "description": "Every 9 times this ship fires her Main Guns: fires a special barrage.",
-    "opsi_description": "Every 9 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases your META ships' DMG taken by 3.0%",
+    "description": "Activates All Out Assault every 9 times the Main Guns are fired.",
+    "opsi_description": "Activates All-Out Assault I every 9 times the Main Guns are fired. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 3.0%.",
     "name": "Cinders of Hope - Algérie I",
     "max": 1,
     "id": 800881,
@@ -53124,8 +53124,8 @@
     "values": []
   },
   "800882": {
-    "description": "Every 6 times this ship fires her Main Guns: fires a special barrage.",
-    "opsi_description": "Every 6 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases your META ships' DMG taken by 8.0%",
+    "description": "Activates All Out Assault every 6 times the Main Guns are fired.",
+    "opsi_description": "Activates All-Out Assault II every 6 times the Main Guns are fired. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 8.0%.",
     "name": "Cinders of Hope - Algérie II",
     "max": 1,
     "id": 800882,
@@ -54401,7 +54401,7 @@
     ]
   },
   "801261": {
-    "description": "Every 9 times this ship fires her Main Guns: fires a special barrage.",
+    "description": "Activates All Out Assault every 9 times the Main Guns are fired.",
     "opsi_description": "Every 9 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 2.0%.",
     "name": "Cinders of Hope - Foch",
     "max": 1,
@@ -54411,7 +54411,7 @@
     "values": []
   },
   "801262": {
-    "description": "Every 6 times this ship fires her Main Guns: fires a special barrage.",
+    "description": "Activates All Out Assault every 6 times the Main Guns are fired.",
     "opsi_description": "Every 6 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 6.0%.",
     "name": "Cinders of Hope - Foch",
     "max": 1,
@@ -55380,8 +55380,8 @@
     ]
   },
   "801561": {
-    "description": "Every 9 times this ship fires her Main Guns: fires a special barrage.",
-    "opsi_description": "Every 9 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 3.0%.",
+    "description": "Activates All Out Assault every 9 times the Main Guns are fired.",
+    "opsi_description": "Activates All-Out Assault I every 9 times the Main Guns are fired. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 3.0%.",
     "name": "Cinders of Hope - Admiral Hipper I",
     "max": 1,
     "id": 801561,
@@ -55397,6 +55397,120 @@
     "id": 801562,
     "type": 1,
     "icon": 801560,
+    "values": []
+  },
+  "801570": {
+    "description": "When this ship is attacked: $1 chance to activate a special slash attack (inflicts Armor Break to enemies hit; can only be triggered once every 10s). Every 15s: fires a $2 special barrage (DMG is based on the skill's level) that inflicts a special Burn ailment to enemies hit, dealing 50 DMG every 1.5s for 8s.",
+    "opsi_description": null,
+    "name": "Flame and Fulminance",
+    "max": 10,
+    "id": 801570,
+    "type": 1,
+    "icon": 801570,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "801580": {
+    "description": "Increases this ship's FP by $1 and RLD by $2. If your Vanguard consists only of this ship when the battle starts: increases this ship's EVA by $3 and AA by $4. The first time this ship's HP falls below 25.0% as a result of DMG taken: restores $3 HP.",
+    "opsi_description": null,
+    "name": "The Lone Knight",
+    "max": 10,
+    "id": 801580,
+    "type": 3,
+    "icon": 801580,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "10.0%",
+        "12.2%",
+        "14.4%",
+        "16.6%",
+        "18.8%",
+        "21.0%",
+        "23.2%",
+        "25.4%",
+        "27.6%",
+        "30.0%"
+      ],
+      [
+        "4.0%",
+        "4.6%",
+        "5.2%",
+        "6.0%",
+        "6.6%",
+        "7.2%",
+        "8.0%",
+        "8.6%",
+        "9.2%",
+        "10.0%"
+      ],
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ]
+    ]
+  },
+  "801591": {
+    "description": "Activates All Out Assault every 9 times the Main Guns are fired.",
+    "opsi_description": "Activates All-Out Assault I every 9 times the Main Guns are fired. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 3.0%.",
+    "name": "Cinders of Hope - Bolzano I",
+    "max": 1,
+    "id": 801591,
+    "type": 3,
+    "icon": 801590,
+    "values": []
+  },
+  "801592": {
+    "description": "Activates All Out Assault every 6 times the Main Guns are fired.",
+    "opsi_description": "Activates All-Out Assault II every 6 times the Main Guns are fired. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 8.0%.",
+    "name": "Cinders of Hope - Bolzano II",
+    "max": 1,
+    "id": 801592,
+    "type": 3,
+    "icon": 801590,
     "values": []
   },
   "901010": {
