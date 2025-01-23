@@ -84,10 +84,11 @@ Topic Unlock Type is a numeric value with the range `[1, 3]` where each number r
 |   3   |   Time    |      Unlocks after a specific time and may vanish later on      |
 
 ## Message Type
-Message Type is a numeric value with two values where each number represents how a chat topic is unlocked:
+Message Type is a numeric value with four values where each number represents how a chat topic is unlocked:
 
-| Value | Label |                                                   Description                                                   |
-| :---: | :---: | :-------------------------------------------------------------------------------------------------------------: |
-|   1   | Text  |                                                 A text message                                                  |
-|   4   | Emote | An emoticon. Emotes are available under `https://al.mrlar.dev/emotes/<id>.webp`. All of them only have 1 frame. |
-|   5   | Emote |                                                 A notification.                                                 |
+| Value |    Label     |                                                   Description                                                   |
+| :---: | :----------: | :-------------------------------------------------------------------------------------------------------------: |
+|   1   |     Text     |                                                 A text message                                                  |
+|   3   |   Goodies    |                   A message containing some rewards. No reward data is exposed at the moment.                   |
+|   4   |    Emote     | An emoticon. Emotes are available under `https://al.mrlar.dev/emotes/<id>.webp`. All of them only have 1 frame. |
+|   5   | Notification |                                                 A notification.                                                 |

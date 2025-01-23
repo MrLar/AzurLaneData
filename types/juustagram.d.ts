@@ -48,5 +48,6 @@ export type TopicUnlockType =
 
 export type MessageType =
 1 | // text message
+3 | // goodies
 4 | // emoticon
 5 // notification
