@@ -11,11 +11,11 @@ It consists of the following:
 Skin Lines is an object that contains all the voice lines of a single skin.
 It consists of the following:
 
-| Property  |             Type             |                                                      Description                                                      |
-| :-------: | :--------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
-|  **id**   |           `number`           |                                        The skin ID, or `-1` for default skins                                         |
-| **lines** | [`VoiceLine[]`](#voice-line) |                                                    The voice lines                                                    |
-|  **ex?**  | [`VoiceLine[]`](#voice-line) | **(Optional)** The extra (post-oath) voice lines<br>If their `type` matching a voice line in `lines` it is overriden. |
+| Property  |             Type             |                                                          Description                                                          |
+| :-------: | :--------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+|  **id**   |           `number`           |                                            The skin ID, or `-1` for default skins                                             |
+| **lines** | [`VoiceLine[]`](#voice-line) |                                                        The voice lines                                                        |
+|  **ex?**  | [`VoiceLine[]`](#voice-line) | **(Optional)** The extra (usually post-oath) voice lines<br>If their `type` matching a voice line in `lines` it is overriden. |
 
 # Voice Line
 Voice is an object that contains information about a **single** voice line.

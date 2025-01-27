@@ -19,10 +19,10 @@ Special Secretary contains relevant information of a special secretary it provid
 
 Special Sec skin contains all relevant information of a special secretaries skin, it provides:
 
-|  Property  |                    Type                     |                                                Description                                                 |
-| :--------: | :-----------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-|   **id**   |                  `number`                   |                                          The ID of the secretary.                                          |
-|  **name**  |                  `string`                   |                                         Names this secretary has.                                          |
-| **unlock** |                  `string`                   |                                          How to unlock this skin.                                          |
-|  **icon**  |                  `string`                   | Icon of this skin. Available under `https://al.mrlar.dev/special_secretary/<compact or full>/<icon>.webp`. |
-| **lines**  | [`VoiceLine`](../ships/words.md#voice-line) |                                         Voice lines of this skin.                                          |
+|  Property  |                     Type                      |                                                Description                                                 |
+| :--------: | :-------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+|   **id**   |                   `number`                    |                                          The ID of the secretary.                                          |
+|  **name**  |                   `string`                    |                                         Names this secretary has.                                          |
+| **unlock** |                   `string`                    |                                          How to unlock this skin.                                          |
+|  **icon**  |                   `string`                    | Icon of this skin. Available under `https://al.mrlar.dev/special_secretary/<compact or full>/<icon>.webp`. |
+| **lines**  | [`VoiceLine[]`](../ships/words.md#voice-line) |                                         Voice lines of this skin.                                          |
