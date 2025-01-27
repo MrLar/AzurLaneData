@@ -13,7 +13,7 @@ export interface SkillData {
     max: number
     id: number
     type: SkillType
-    icon: number | null
+    icon: number | string | null
     values: string[][]
     opsi_values?: string[][]
 }
