@@ -65,6 +65,8 @@ The name of the file links to the respective file on the GitHub Repo., while the
 |         [dorm3d_rooms.json](https://github.com/MrLar/AzurLaneData/tree/main/data/dorm3d_rooms.json)         |     Contains all Rooms/Locations available in Dorm3D     | `object` |                             Room ID -> [`Dorm3DRoom`](./dorm3d/index.md#dorm3d-room)                             |        `Record<number, Dorm3DRoom        | undefined>` |             |
 |            [juu_chats.json](https://github.com/MrLar/AzurLaneData/tree/main/data/juu_chats.json)            |           Contains all Fleet Chats of the game           | `object` |                            Chat ID -> [`FleetChat`](./juustagram/index.md#fleet-chat)                            |        `Record<number, FleetChat         | undefined>` |             |
 |         [juu_profiles.json](https://github.com/MrLar/AzurLaneData/tree/main/data/juu_profiles.json)         | Contains all Ship and the Commanders Juustagram profile. | `object` |                         Profile ID -> [`JuuProfile`](./juustagram/index.md#juu-profile)                          |        `Record<number, JuuProfile        | undefined>` |             |
+|  [special_secretaries.json](https://github.com/MrLar/AzurLaneData/tree/main/data/special_secretaries.json)  |      Contains all special secretaries of the game.       | `object` |              Secretary ID -> [`SpecialSecretary`](./special_secretaries/index.md#special-secretary)              |     `Record<number, SpecialSecretary     | undefined>` |             |
+|             [barrages.json](https://github.com/MrLar/AzurLaneData/tree/main/data/barrages.json)             |          Contains (most) barrages of the game.           | `object` |                              Skill ID -> [`Barrage[]`](./barrages/index.md#barrage)                              |        `Record<number, Barrage[]         | undefined>` |             |
 
 \*The following weapon overrides exist:
 
@@ -135,4 +137,6 @@ There are a few other undocumented icons. However, they are for the most part no
 - [Tech Group](./tech_groups/index.md)
 - [Dorm3D](./dorm3d/index.md)
 - [Juustagram](./juustagram/index.md)
+- [Special Secretary](./special_secretaries/index.md)
+- [Barrages](./barrages/index.md)
   

@@ -8,6 +8,7 @@
 
 import augmentCosts from '../data/augment_cost.json'
 import augmentList from '../data/augments.json'
+import barrages from '../data/barrages.json'
 import cruiseList from '../data/cruise_passes.json'
 import defaultEquipList from '../data/default_equips.json'
 import dorm3DCharacterList from '../data/dorm3d_characters.json'
@@ -34,9 +35,11 @@ import skinVoiceLines from '../data/ships_words.json'
 import shopList from '../data/shops.json'
 import skillList from '../data/skills.json'
 import skinList from '../data/skins.json'
+import specialSecretaryList from '../data/special_secretaries.json'
 import specialWeaponsList from '../data/special_weapons.json'
 import fleetTechGroupData from '../data/tech_groups.json'
 import type { AugmentCost, AugmentData } from './augments'
+import { type Barrage } from './barrages'
 import { type CruisePass } from './cruise_pass'
 import {
     type Dorm3DCharacter, type Dorm3DCollectable,
@@ -54,6 +57,7 @@ import type { RetroCost, ShipData, ShipDropData, SkinWords } from './ships'
 import { type Shop } from './shops'
 import type { SkillData } from './skills'
 import type { SkinInfo } from './skins'
+import { type SpecialSecretary } from './special_secretaries'
 import { type TechGroup } from './tech_groups'
 
 const augments = augmentList as Record<number, AugmentData | undefined>
@@ -86,12 +90,13 @@ const dorm3DGifts = dorm3DGiftList as Record<number, Dorm3DGift | undefined>
 const cruisePasses = cruiseList as Record<number, CruisePass | undefined>
 const fleetChats = groupChats as Record<number, FleetChat | undefined>
 const juuProfiles = shipProfiles as Record<number, JuuProfile | undefined>
-// const barrageData = barrages as Record<number, Barrage[] | undefined>
+const specialSecretaries = specialSecretaryList as Record<number, SpecialSecretary | undefined>
+const barrageData = barrages as Record<number, Barrage[] | undefined>
 
 export {
-    augCost, augments, cruisePasses, defaultEquip, dorm3DCharacters, dorm3DCollectable, dorm3DFurniture,
+    augCost, augments, barrageData, cruisePasses, defaultEquip, dorm3DCharacters, dorm3DCollectable, dorm3DFurniture,
     dorm3DGifts, dorm3DRooms, equipCosts, equipDrops,
     equipments, fleetChats, gearSkins, items, juuProfiles, labRecipes, maps, meowabilities,
     meowfficers, researches, retroCosts, shipDrops, ships, shops, skills,
-    skins, specialWeapons, techGroups, voiceLines
+    skins, specialSecretaries, specialWeapons, techGroups, voiceLines
 }
