@@ -32013,81 +32013,6 @@
   ],
   "23022": [
     {
-      "name": "All Out Assault II",
-      "parts": [
-        {
-          "damage": 10,
-          "coefficient": 1.25,
-          "count": 16,
-          "stat": "fp",
-          "ratio": 1,
-          "armor_mod": [
-            0.9,
-            0.75,
-            0.4
-          ],
-          "ammo": 2,
-          "is_critical": false,
-          "notes": [],
-          "shrapnel": false,
-          "ignore_shield": false,
-          "targeting": "Normal",
-          "range": [
-            0,
-            50
-          ],
-          "aim_type": 0,
-          "angle": 360,
-          "splash": 0,
-          "velocity": 16,
-          "pierce": 0,
-          "shell_range": [
-            90,
-            110
-          ],
-          "spread": [
-            0,
-            0
-          ]
-        },
-        {
-          "damage": 10,
-          "coefficient": 1.25,
-          "count": 16,
-          "stat": "fp",
-          "ratio": 1,
-          "armor_mod": [
-            0.9,
-            0.75,
-            0.4
-          ],
-          "ammo": 2,
-          "is_critical": false,
-          "notes": [],
-          "shrapnel": false,
-          "ignore_shield": false,
-          "targeting": "Normal",
-          "range": [
-            0,
-            50
-          ],
-          "aim_type": 0,
-          "angle": 360,
-          "splash": 0,
-          "velocity": 16,
-          "pierce": 0,
-          "shell_range": [
-            90,
-            110
-          ],
-          "spread": [
-            0,
-            0
-          ]
-        }
-      ]
-    },
-    {
       "name": "All Out Assault - Type 1934A II",
       "parts": [
         {
@@ -32811,7 +32736,7 @@
   ],
   "24012": [
     {
-      "name": "All Out Assault - An Shan class II",
+      "name": "All Out Assault - An Shan-class II (no s4g)",
       "parts": [
         {
           "damage": 12,
@@ -32851,7 +32776,7 @@
       ]
     },
     {
-      "name": "All Out Assault - An Shan class II (s4g)",
+      "name": "All Out Assault - An Shan-class II (s4g)",
       "parts": [
         {
           "damage": 18,
@@ -37148,7 +37073,7 @@
   ],
   "29612": [
     {
-      "name": "All Out Assault II",
+      "name": "All Out Assault - Roon μ II",
       "parts": [
         {
           "damage": 30,
@@ -37425,7 +37350,7 @@
   ],
   "29652": [
     {
-      "name": "All Out Assault II",
+      "name": "All Out Assault - Albacore μ II",
       "parts": [
         {
           "damage": 35,
@@ -37469,7 +37394,7 @@
   ],
   "29662": [
     {
-      "name": "All Out Assault II",
+      "name": "All Out Assault - Baltimore μ II",
       "parts": [
         {
           "damage": 35,
@@ -38495,7 +38420,7 @@
   ],
   "29801": [
     {
-      "name": "All Out Assault - An Shan class III (no s4g)",
+      "name": "All Out Assault - An Shan III (no s4g, vanguard)",
       "parts": [
         {
           "damage": 12,
@@ -38535,7 +38460,7 @@
       ]
     },
     {
-      "name": "All Out Assault - An Shan class III (s4g)",
+      "name": "All Out Assault - An Shan III (s4g, vanguard)",
       "parts": [
         {
           "damage": 20,
@@ -38577,7 +38502,7 @@
   ],
   "29802": [
     {
-      "name": "All Out Assault - An Shan class III (no s4g)",
+      "name": "All Out Assault - An Shan III (no s4g, main fleet)",
       "parts": [
         {
           "damage": 12,
@@ -38617,7 +38542,7 @@
       ]
     },
     {
-      "name": "All Out Assault - An Shan class III (s4g)",
+      "name": "All Out Assault - An Shan III (s4g, main fleet)",
       "parts": [
         {
           "damage": 20,
@@ -38659,7 +38584,7 @@
   ],
   "29811": [
     {
-      "name": "All Out Assault - An Shan class III (no s4g)",
+      "name": "All Out Assault - Chang Chung III (no s4g, vanguard)",
       "parts": [
         {
           "damage": 12,
@@ -38699,7 +38624,7 @@
       ]
     },
     {
-      "name": "All Out Assault - An Shan class III (s4g)",
+      "name": "All Out Assault - Chang Chung III (s4g, vanguard)",
       "parts": [
         {
           "damage": 20,
@@ -38741,7 +38666,7 @@
   ],
   "29812": [
     {
-      "name": "All Out Assault - An Shan class III (no s4g)",
+      "name": "All Out Assault - Chang Chung III (no s4g, main fleet)",
       "parts": [
         {
           "damage": 12,
@@ -38781,7 +38706,7 @@
       ]
     },
     {
-      "name": "All Out Assault - An Shan class III (s4g)",
+      "name": "All Out Assault - Chang Chung III (s4g, main fleet)",
       "parts": [
         {
           "damage": 20,
@@ -41031,7 +40956,7 @@
   ],
   "30191": [
     {
-      "name": "All Out Assault - An Shan-class III (no s4g)",
+      "name": "All Out Assault - Tai Yuan III (no s4g, vanguard)",
       "parts": [
         {
           "damage": 12,
@@ -41071,7 +40996,7 @@
       ]
     },
     {
-      "name": "All Out Assault - An Shan-class III (s4g)",
+      "name": "All Out Assault - Tai Yuan III (s4g, vanguard)",
       "parts": [
         {
           "damage": 20,
@@ -41113,7 +41038,7 @@
   ],
   "30192": [
     {
-      "name": "All Out Assault - An Shan-class III (no s4g)",
+      "name": "All Out Assault - Tai Yuan III (no s4g, main fleet)",
       "parts": [
         {
           "damage": 12,
@@ -41153,7 +41078,7 @@
       ]
     },
     {
-      "name": "All Out Assault - An Shan-class III (s4g)",
+      "name": "All Out Assault - Tai Yuan III (s4g, main fleet)",
       "parts": [
         {
           "damage": 20,
@@ -42237,7 +42162,7 @@
   ],
   "30392": [
     {
-      "name": "All Out Assault II",
+      "name": "All Out Assault - Z52 II",
       "parts": [
         {
           "damage": 20,
@@ -42355,7 +42280,7 @@
   ],
   "30402": [
     {
-      "name": "All Out Assault II",
+      "name": "All Out Assault - Duisburg II",
       "parts": [
         {
           "damage": 25,
@@ -42432,7 +42357,7 @@
   ],
   "30411": [
     {
-      "name": "All Out Assault - An Shan-class III (no s4g)",
+      "name": "All Out Assault - Fu Shun III (no s4g, vanguard)",
       "parts": [
         {
           "damage": 12,
@@ -42472,7 +42397,7 @@
       ]
     },
     {
-      "name": "All Out Assault - An Shan-class III (s4g)",
+      "name": "All Out Assault - Fu Shun III (s4g, vanguard)",
       "parts": [
         {
           "damage": 20,
@@ -42514,7 +42439,7 @@
   ],
   "30412": [
     {
-      "name": "All Out Assault - An Shan-class III (no s4g)",
+      "name": "All Out Assault - Fu Shun III (no s4g, main fleet)",
       "parts": [
         {
           "damage": 12,
@@ -42554,7 +42479,7 @@
       ]
     },
     {
-      "name": "All Out Assault - An Shan-class III (s4g)",
+      "name": "All Out Assault - Fu Shun III (s4g, main fleet)",
       "parts": [
         {
           "damage": 20,
