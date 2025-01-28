@@ -39,5 +39,7 @@ Barrage Part provides information about a single part of a barrage. These parts 
 |    **piece?**     |                            `number`                             |            **(Optional)** Amount of targets pierced.            |
 |    **buffs?**     |                           `string[]`                            | **(Optional)** Textual explanation of (de)buffs applied on hit. |
 | **buff_chance?**  |                            `number`                             |       **(Optional)** Chance for (de)buffs to be applied.        |
+| **shell_range?**  |                           `number[]`                            |     **(Optional)** Min and max Range of the bullet/torpedo.     |
+
 
 Note: This interface shares a lot in common with regular weapons, however the overlap is not exactly 1:1 therefore it does not directly extend Weapon or any of it's sub-types.

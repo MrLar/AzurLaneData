@@ -1745,8 +1745,8 @@
     ]
   },
   "4161": {
-    "description": "The following buffs are active as long as this ship is afloat: 1) At the start of the battle, increases AVI by $1 and RLD by $2 for all CVs and CVLs in the same fleet this ship is in, and decreases the load time of this ship's first Airstrike by $3. 2) At the start of the battle, increases RLD and AVI by $4 for all CVs and CVLs in the fleet this ship is NOT in. Effect does not stack with the same skill.",
-    "opsi_description": "The following buffs are active as long as this ship is afloat: 1) At the start of the battle, increases AVI by $1 and RLD by $2 for all CVs and CVLs in the same fleet this ship is in, and decreases the load time of this ship's first Airstrike by $3. 2) At the start of the battle, increases RLD and AVI by $4 for all CVs and CVLs in the fleet this ship is NOT in. Effect does not stack with the same skill.",
+    "description": "The following buffs are active as long as this ship is afloat:\n- At the start of the battle, increases AVI by $1 and RLD by $2 for all CVs and CVLs in the same fleet this ship is in, and decreases the load time of this ship's first Airstrike by $3.\n- At the start of the battle, increases RLD and AVI by $4 for all CVs and CVLs in the fleet this ship is NOT in. Effect does not stack with the same skill.",
+    "opsi_description": "The following buffs are active as long as this ship is afloat:\n- At the start of the battle, increases AVI by $1 and RLD by $2 for all CVs and CVLs in the same fleet this ship is in, and decreases the load time of this ship's first Airstrike by $3.\n- At the start of the battle, increases RLD and AVI by $4 for all CVs and CVLs in the fleet this ship is NOT in. Effect does not stack with the same skill.",
     "name": "Supporting Wings",
     "max": 10,
     "id": 4161,
@@ -12141,7 +12141,7 @@
     ]
   },
   "13090": {
-    "description": "Once per battle, when this ship's HP falls below 20.0%, activates the following buffs: 1) Decreases this ship's DMG taken by $1 for 20s. 2) This ship takes 0 Burn DMG for 30s.",
+    "description": "Once per battle, when this ship's HP falls below 20.0%, activates the following buffs:\n- Decreases this ship's DMG taken by $1 for 20s.\n- This ship takes 0 Burn DMG for 30s.",
     "opsi_description": null,
     "name": "The Fearless Fighting I",
     "max": 10,
@@ -12164,7 +12164,7 @@
     ]
   },
   "13100": {
-    "description": "1) When this ship fires its Main Guns: $1 chance to increase this ship's Main Gun DMG to 130.0% for 3s (this buff has a 5s cooldown between activations.) 2) When this ship fires its Main Guns: $2 chance to fire a special HE barrage (this barrage has a 10s cooldown between activations.) Barrage DMG is based on the skill's level.",
+    "description": "When this ship fires its Main Guns: $1 chance to increase this ship's Main Gun DMG to 130.0% for 3s (this buff has a 5s cooldown between activations.)\nWhen this ship fires its Main Guns: $2 chance to fire a special HE barrage (this barrage has a 10s cooldown between activations.) Barrage DMG is based on the skill's level.",
     "opsi_description": null,
     "name": "Blazing Burst Wings",
     "max": 10,
@@ -12471,8 +12471,8 @@
     ]
   },
   "13170": {
-    "description": "1) When: a) this ship is afloat, b) the fleet this ship is NOT in has a BB as its Flagship, and c) said fleet is engaging in its 3rd, 4th, or 5th battle: launches a special barrage 20s after the other fleet's battle begins. 2) When this ship is in combat and takes DMG or when an enemy comes within close range of this ship: fires a special $1 barrage. Barrage DMG is based on the skill's level and has a cooldown of 15s between activations.",
-    "opsi_description": "1) When: a) this ship is afloat, b) a fleet this ship is NOT in has a BB as its Flagship, and c) said fleet is engaging in its 3rd or 4th battle: your Tosa fires a covering barrage 20s after said fleet's battle begins. 2) When this ship is in combat and takes DMG or when an enemy comes within close range of this ship: fires a special $1 barrage. Barrage DMG is based on the skill's level and has a cooldown of 15s between activations. [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
+    "description": "When this ship is afloat and the fleet this ship is NOT in has a BB as its Flagship and said fleet is engaging in its 3rd, 4th, or 5th battle: launches a special barrage 20s after the other fleet's battle begins.\nWhen this ship is in combat and takes DMG or when an enemy comes within close range of this ship: fires a special $1 barrage. Barrage DMG is based on the skill's level and has a cooldown of 15s between activations.",
+    "opsi_description": "When this ship is afloat and a fleet this ship is NOT in has a BB as its Flagship and said fleet is engaging in its 3rd or 4th battle: your Tosa fires a covering barrage 20s after said fleet's battle begins.\nWhen this ship is in combat and takes DMG or when an enemy comes within close range of this ship: fires a special $1 barrage. Barrage DMG is based on the skill's level and has a cooldown of 15s between activations. [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
     "name": "Crush Any Contender!",
     "max": 10,
     "id": 13170,
@@ -14522,7 +14522,7 @@
     ]
   },
   "13790": {
-    "description": "When this ship finishes loading its Airstrike: decreases the Speed of all enemies by $1 for 4s and randomly activates one of the following effects: a) Decreases all enemies' EVA by $2 for 10s, b) For 10s, increases your Vanguard's DMG dealt by $4 and decreases your Main Fleet's DMG taken by $3, c) For 10s, increases your Main Fleet's DMG dealt by $3 and decreases your Vanguard's DMG taken by $3.",
+    "description": "When this ship finishes loading its Airstrike: decreases the Speed of all enemies by $1 for 4s and randomly activates one of the following effects:\n- Decreases all enemies' EVA by $2 for 10s,\n- For 10s, increases your Vanguard's DMG dealt by $4 and decreases your Main Fleet's DMG taken by $3,\n- For 10s, increases your Main Fleet's DMG dealt by $3 and decreases your Vanguard's DMG taken by $3.",
     "opsi_description": null,
     "name": "Auspice of the Stars",
     "max": 10,
@@ -14967,7 +14967,7 @@
     ]
   },
   "13920": {
-    "description": "Every 20s after the battle starts: fires a $1 special barrage (DMG is based on the skill's level) and deploys one of the following 2 types of shields, both lasting for $2s, chosen at random: 1) blocks 2 torpedoes, 2) blocks 10 shells.",
+    "description": "Every 20s after the battle starts: fires a $1 special barrage (DMG is based on the skill's level) and deploys one of the following 2 types of shields, both lasting for $2s, chosen at random:\n- blocks 2 torpedoes,\n- blocks 10 shells.",
     "opsi_description": null,
     "name": "Heinrich's Hunch Punch",
     "max": 10,
@@ -17099,7 +17099,7 @@
     ]
   },
   "14500": {
-    "description": "$1 chance to activate one of the following effects (chosen at random) when this ship launches an Airstrike:\n1) Doubles this ship's DMG dealt to all enemies for 6s.\n2)Grants this ship 100% Evasion Rate for 5s.\n3)Decreases the Speed of all enemies by $2 for 4s.",
+    "description": "$1 chance to activate one of the following effects (chosen at random) when this ship launches an Airstrike:\n- Doubles this ship's DMG dealt to all enemies for 6s.\n- Grants this ship 100% Evasion Rate for 5s.\n- Decreases the Speed of all enemies by $2 for 4s.",
     "opsi_description": null,
     "name": "Lucky Little E",
     "max": 10,
@@ -17415,7 +17415,7 @@
     ]
   },
   "14580": {
-    "description": "Increases this ship's EVA and AA by $1. Activates one of the following effects based on this ship's position in your Vanguard during battle:\n1) Front (and also when this ship is your last afloat Vanguard ship): increases this ship's EVA and AA by $2, and decreases her DMG taken by $3.\n2) Middle: heals all ships in your Vanguard for $4 of their max HP 20s after the battle starts.\n3) Rear: increases this ship's FP by $3 and AA by $1, and also increases your whole Vanguard's DMG dealt to enemies by 5.0%.",
+    "description": "Increases this ship's EVA and AA by $1. Activates one of the following effects based on this ship's position in your Vanguard during battle:\n- Front (and also when this ship is your last afloat Vanguard ship): increases this ship's EVA and AA by $2, and decreases her DMG taken by $3.\n- Middle: heals all ships in your Vanguard for $4 of their max HP 20s after the battle starts.\n- Rear: increases this ship's FP by $3 and AA by $1, and also increases your whole Vanguard's DMG dealt to enemies by 5.0%.",
     "opsi_description": null,
     "name": "Right Place at the Right Time",
     "max": 10,
@@ -17650,8 +17650,8 @@
     ]
   },
   "14630": {
-    "description": "Improves the \"Knight of the Sky\" TBF Avenger airstrike. Additionally, the following buffs are active as long as this ship is afloat (does not stack with the \"Supporting Wings\" skill):\n1) At the start of the battle, increases AVI by $1 and RLD by $2 for all CVs and CVLs in the same fleet this ship is in, and decreases the load time of this ship's first Airstrike by $3.\n2) At the start of the battle, increases RLD and AVI by $4 for all CVs and CVLs in the fleet this ship is NOT in.",
-    "opsi_description": "Improves the \"Knight of the Sky\" TBF Avenger airstrike. Additionally, the following buffs are active as long as this ship is afloat (does not stack with the \"Supporting Wings\" skill):\n1) At the start of the battle, increases AVI by $1 and RLD by $2 for all CVs and CVLs in the same fleet this ship is in, and decreases the load time of this ship's first Airstrike by $3.\n2) At the start of the battle, increases RLD and AVI by $4 for all CVs and CVLs in the fleet this ship is NOT in.",
+    "description": "Improves the \"Knight of the Sky\" TBF Avenger airstrike. Additionally, the following buffs are active as long as this ship is afloat (does not stack with the \"Supporting Wings\" skill):\n- At the start of the battle, increases AVI by $1 and RLD by $2 for all CVs and CVLs in the same fleet this ship is in, and decreases the load time of this ship's first Airstrike by $3.\n- At the start of the battle, increases RLD and AVI by $4 for all CVs and CVLs in the fleet this ship is NOT in.",
+    "opsi_description": "Improves the \"Knight of the Sky\" TBF Avenger airstrike. Additionally, the following buffs are active as long as this ship is afloat (does not stack with the \"Supporting Wings\" skill):\n- At the start of the battle, increases AVI by $1 and RLD by $2 for all CVs and CVLs in the same fleet this ship is in, and decreases the load time of this ship's first Airstrike by $3.\n- At the start of the battle, increases RLD and AVI by $4 for all CVs and CVLs in the fleet this ship is NOT in.",
     "name": "Supporting Wings - Independence",
     "max": 10,
     "id": 14630,
@@ -18005,7 +18005,7 @@
     ]
   },
   "14720": {
-    "description": "3s after the battle starts and every 20s: summons a support robot for 10s. When summoned, the robot: 1) fires a $1 special barrage (DMG is based on the skill's level) and spawns 2 shields that can each block up to 10 enemy shells, lasting for up to 5s; 2) heals the ship in your Vanguard with the lowest % of HP left for 0.5% of her max HP 3 times over 10s; 3) increases your fleet's AA by $2 while it is deployed.",
+    "description": "3s after the battle starts and every 20s: summons a support robot for 10s. When summoned, the robot:\n- fires a $1 special barrage (DMG is based on the skill's level) and spawns 2 shields that can each block up to 10 enemy shells, lasting for up to 5s;\n- heals the ship in your Vanguard with the lowest % of HP left for 0.5% of her max HP 3 times over 10s;\n- increases your fleet's AA by $2 while it is deployed.",
     "opsi_description": null,
     "name": "Support Robot Mk IV",
     "max": 10,
@@ -18227,7 +18227,7 @@
     ]
   },
   "14780": {
-    "description": "At the start of the battle and every 20s: decreases this ship's Speed by 5.0% for 3s and fires a $4 special barrage (DMG is based on the skill's level and this ship's FP stat). Enemies hit by seaplanes launched from this barrage have their Speed decreased by $1 for 5s, and both the following effects activate: 1) if there is a Sakura Empire CV afloat in your Main Fleet when this barrage fires: 50.0% chance to inflict a $3 aircraft DMG taken debuff for 8s to enemies hit by the barrage; 2) $2 chance to inflict 1 of the following randomly chosen debuffs for 10s: a) decreases EVA by 10.0%; b) decreases Accuracy by 10.0%; c) decreases the enemy's DMG dealt by 10.0%.",
+    "description": "At the start of the battle and every 20s: decreases this ship's Speed by 5.0% for 3s and fires a $4 special barrage (DMG is based on the skill's level and this ship's FP stat). Enemies hit by seaplanes launched from this barrage have their Speed decreased by $1 for 5s, and both the following effects activate:\n- if there is a Sakura Empire CV afloat in your Main Fleet when this barrage fires: 50.0% chance to inflict a $3 aircraft DMG taken debuff for 8s to enemies hit by the barrage;\n- $2 chance to inflict 1 of the following randomly chosen debuffs for 10s:\na) decreases EVA by 10.0%;\nb) decreases Accuracy by 10.0%;\nc) decreases the enemy's DMG dealt by 10.0%.",
     "opsi_description": null,
     "name": "All-Seeing Eye",
     "max": 10,
@@ -18578,7 +18578,7 @@
     ]
   },
   "14870": {
-    "description": "Increases this ship's Accuracy by $1 and decreases her torpedo DMG taken by 10.0%. While this ship is afloat, when a fleet this ship is NOT in starts a battle, that fleet gains the following buffs: 1) 30s after the battle starts: fires a $2 supporting torpedo barrage (DMG is based on the skill's level); 2) If the fleet Shimakaze is NOT in has 1 or more DDs: increases your DDs' TRP by $3 until the battle ends.",
+    "description": "Increases this ship's Accuracy by $1 and decreases her torpedo DMG taken by 10.0%. While this ship is afloat, when a fleet this ship is NOT in starts a battle, that fleet gains the following buffs:\n- 30s after the battle starts: fires a $2 supporting torpedo barrage (DMG is based on the skill's level);\n- If the fleet Shimakaze is NOT in has 1 or more DDs: increases your DDs' TRP by $3 until the battle ends.",
     "opsi_description": null,
     "name": "Within the Thunder's Roar",
     "max": 10,
@@ -19413,7 +19413,7 @@
     ]
   },
   "15070": {
-    "description": "Increases this ship's Crit DMG dealt by $1. While this ship is afloat, for the first 5 battles of a sortie fought by a fleet this ship is NOT in, the following buffs apply to that fleet: \n1) Decreases DMG taken by your Iron Blood ships by 5.0%; \n2) Increases Crit DMG dealt by your Iron Blood ships by $2; \n3) When an enemy gets within close proximity of your ships: fires a $3 supporting barrage (DMG is based on the skill's level; can only activate up to 6 times per battle; has a 5s cooldown between activations).",
+    "description": "Increases this ship's Crit DMG dealt by $1. While this ship is afloat, for the first 5 battles of a sortie fought by a fleet this ship is NOT in, the following buffs apply to that fleet:\n- Decreases DMG taken by your Iron Blood ships by 5.0%;\n- Increases Crit DMG dealt by your Iron Blood ships by $2;\n- When an enemy gets within close proximity of your ships: fires a $3 supporting barrage (DMG is based on the skill's level; can only activate up to 6 times per battle; has a 5s cooldown between activations).",
     "opsi_description": null,
     "name": "Revolutionary's Prosaic",
     "max": 10,
@@ -19741,7 +19741,7 @@
     ]
   },
   "15160": {
-    "description": "Every 20s: summons Data 857. When summoned, Data 857: 1) fires a $1 special barrage (DMG is based on the skill's level); 2) for 10s, increases this ship's ACC and Crit Rate by $2. During battle, increases the DMG your Allen M. Sumner-class ships deal to enemies that have been Illuminated at least twice by $4. After the first time this skill is activated, increases the DMG your Allen M. Sumner-class ships deal by $3 until the end of that battle.",
+    "description": "Every 20s: summons Data 857. When summoned, Data 857:\n- fires a $1 special barrage (DMG is based on the skill's level);\n- for 10s, increases this ship's ACC and Crit Rate by $2. During battle, increases the DMG your Allen M. Sumner-class ships deal to enemies that have been Illuminated at least twice by $4. After the first time this skill is activated, increases the DMG your Allen M. Sumner-class ships deal by $3 until the end of that battle.",
     "opsi_description": null,
     "name": "Let's Go, Data 857!",
     "max": 10,
@@ -19800,7 +19800,7 @@
     ]
   },
   "15170": {
-    "description": "Every 8s: fires a $1 special barrage (DMG is based on the skill's level). When 4 same-colored shots in a row from this barrage hit the same enemy, one of the following debuffs are inflicted: 1) if the shots were black, the enemy's SPD is decreased by $2 for 2s; 2) if the shots were white, the enemy's DMG dealt is decreased by $3 for 2s.",
+    "description": "Every 8s: fires a $1 special barrage (DMG is based on the skill's level). When 4 same-colored shots in a row from this barrage hit the same enemy, one of the following debuffs are inflicted:\n- if the shots were black, the enemy's SPD is decreased by $2 for 2s;\n- if the shots were white, the enemy's DMG dealt is decreased by $3 for 2s.",
     "opsi_description": null,
     "name": "Star-Studded Formation",
     "max": 10,
@@ -20116,7 +20116,7 @@
     ]
   },
   "15250": {
-    "description": "Increases this ship's ACC by $1. When the battle starts: 1) if there are 3 ships afloat in your Vanguard, or there is 1 other Northern Parliament ship in your Vanguard: increases this ship's FP and TRP by $2; if this ship is your sole Vanguard ship: instead increases this ship's AA and EVA by $3.",
+    "description": "Increases this ship's ACC by $1. When the battle starts:\n- if there are 3 ships afloat in your Vanguard, or there is 1 other Northern Parliament ship in your Vanguard: increases this ship's FP and TRP by $2;\n- if this ship is your sole Vanguard ship: instead increases this ship's AA and EVA by $3.",
     "opsi_description": null,
     "name": "Hang in There? Sure...",
     "max": 10,
@@ -20362,7 +20362,7 @@
     ]
   },
   "15310": {
-    "description": "During a battle, when this ship's HP falls below 10.0% as a result of DMG taken:decreases this ship's Burn DMG taken by 50.0% and recovers 1.0% of her max HP every second for $1s. While this ship is afloat, when a fleet this ship is NOT in starts a battle: 1) if that fleet's Flagship is a BB: decreases the Main Gun Spread of all your BBs by 2; 2) 20s after the battle starts: fires a $2 special barrage that decreases the SPD of enemies hit by 40.0% for 5s (DMG is based on the skill's level).",
+    "description": "During a battle, when this ship's HP falls below 10.0% as a result of DMG taken:decreases this ship's Burn DMG taken by 50.0% and recovers 1.0% of her max HP every second for $1s. While this ship is afloat, when a fleet this ship is NOT in starts a battle:\n- if that fleet's Flagship is a BB: decreases the Main Gun Spread of all your BBs by 2;\n- 20s after the battle starts: fires a $2 special barrage that decreases the SPD of enemies hit by 40.0% for 5s (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Strong-Willed Support",
     "max": 10,
@@ -20596,7 +20596,7 @@
     ]
   },
   "15380": {
-    "description": "Increases this ship's DMG dealt by $2. \n10s after the battle starts, and every 20s after that, while a ship in your Main Fleet has between 20.0% and 90.0% HP remaining: \n1) If this ship has the highest percentage HP of all ships in your Main Fleet, and there are at least 2 ships in your Main Fleet, deducts $1 HP from this ship and heals your Main Fleet ship with the lowest percentage HP (except this ship) for the amount of HP deducted from this ship; \n2) If this ship does NOT have the highest percentage HP, deducts $1 HP from your Main Fleet ship with the highest percentage HP and heals this ship for the amount of HP deducted from the other ship. \nWhichever ship is healed as a result of this skill has her EVA increased by $2 for 5s. If the ship healed is from the Sardegna Empire, the amount healed is increased by 183.",
+    "description": "Increases this ship's DMG dealt by $2.\n10s after the battle starts, and every 20s after that, while a ship in your Main Fleet has between 20.0% and 90.0% HP remaining:\n- If this ship has the highest percentage HP of all ships in your Main Fleet, and there are at least 2 ships in your Main Fleet, deducts $1 HP from this ship and heals your Main Fleet ship with the lowest percentage HP (except this ship) for the amount of HP deducted from this ship;\n- If this ship does NOT have the highest percentage HP, deducts $1 HP from your Main Fleet ship with the highest percentage HP and heals this ship for the amount of HP deducted from the other ship.\nWhichever ship is healed as a result of this skill has her EVA increased by $2 for 5s. If the ship healed is from the Sardegna Empire, the amount healed is increased by 183.",
     "opsi_description": null,
     "name": "Impero is Charitable",
     "max": 10,
@@ -20982,7 +20982,7 @@
     ]
   },
   "15480": {
-    "description": "Increases this ship's DMG dealt to BBs and BCs by $1. When an enemy sinks within 5s of taking DMG from this ship, this ship is also treated as the one who sank that enemy. If this ship has an AP or SAP Main Gun equipped, when she hits an enemy: \n1) That enemy's ACC and FP decreases by $2 for 3s; \n2) After 3s, there's a 10.0% chance to inflict 3,000 DMG to that enemy.",
+    "description": "Increases this ship's DMG dealt to BBs and BCs by $1. When an enemy sinks within 5s of taking DMG from this ship, this ship is also treated as the one who sank that enemy. If this ship has an AP or SAP Main Gun equipped, when she hits an enemy:\n- That enemy's ACC and FP decreases by $2 for 3s;\n- After 3s, there's a 10.0% chance to inflict 3,000 DMG to that enemy.",
     "opsi_description": null,
     "name": "Marvels of History - Lützow",
     "max": 10,
@@ -21122,7 +21122,7 @@
     ]
   },
   "15520": {
-    "description": "When the battle starts, increases your Emden's EVA by $1 and: \n1) If your Vanguard consists of only Emden, Emden is unaffected by the Out of Ammo debuff; \n2) If there are other Iron Blood ships in your fleet, after 5s, lowers your Iron Blood ships' HP by 11 and increases their FP by $3. \nEvery battle, when Emden sinks an enemy: increases Emden's EVA by $2 (can be stacked up to 3 times).",
+    "description": "When the battle starts, increases your Emden's EVA by $1 and:\n- If your Vanguard consists of only Emden, Emden is unaffected by the Out of Ammo debuff;\n- If there are other Iron Blood ships in your fleet, after 5s, lowers your Iron Blood ships' HP by 11 and increases their FP by $3.\nEvery battle, when Emden sinks an enemy: increases Emden's EVA by $2 (can be stacked up to 3 times).",
     "opsi_description": null,
     "name": "Marvels of History - Emden(?)",
     "max": 10,
@@ -21204,7 +21204,7 @@
     ]
   },
   "15540": {
-    "description": "When the battle starts, and every 30s: deploys 3 types of shields that each last $1s: \n1) A blue shield which can block up to 4 enemy shots; \n2) A purple shield which can block up to 2 enemy torpedoes; \n3) A red shield which inflicts DMG up to 6 times to an enemy it comes in contact with.",
+    "description": "When the battle starts, and every 30s: deploys 3 types of shields that each last $1s:\n- A blue shield which can block up to 4 enemy shots;\n- A purple shield which can block up to 2 enemy torpedoes;\n- A red shield which inflicts DMG up to 6 times to an enemy it comes in contact with.",
     "opsi_description": null,
     "name": "Shields! More Shields!",
     "max": 10,
@@ -21507,7 +21507,7 @@
     ]
   },
   "15640": {
-    "description": "Increases your Illustrious-class CVs' DMG dealt by $1. When the battle starts: \n1) Increases AVI and ACC by $2 for all your Illustrious-class CVs except this ship; \n2) If sortied with Prince of Wales or Repulse: increases this ship's AVI by $2 and ACC by $3; \n3) If sortied with neither of the above ships, and if this ship is the only Illustrious-class CV in your fleet: increases this ship's AVI by $2.",
+    "description": "Increases your Illustrious-class CVs' DMG dealt by $1. When the battle starts:\n- Increases AVI and ACC by $2 for all your Illustrious-class CVs except this ship;\n- If sortied with Prince of Wales or Repulse: increases this ship's AVI by $2 and ACC by $3;\n- If sortied with neither of the above ships, and if this ship is the only Illustrious-class CV in your fleet: increases this ship's AVI by $2.",
     "opsi_description": null,
     "name": "Together We Shine Brighter",
     "max": 10,
@@ -21706,7 +21706,7 @@
     ]
   },
   "15690": {
-    "description": "Increases this ship's ACC by $1 and RLD by $2. During battle, 2s after an enemy spawns in: increases the enemy's DMG taken from your ships by $3. While this ship is afloat, when a fleet this ship is NOT in starts a battle: \n1) Increases FP by $3 for all Royal Navy ships in that Vanguard Fleet; 2) 30s after the battle starts: fires a special barrage and, for 15s, increases AA by $3 for all ships in that fleet.",
+    "description": "Increases this ship's ACC by $1 and RLD by $2. During battle, 2s after an enemy spawns in: increases the enemy's DMG taken from your ships by $3. While this ship is afloat, when a fleet this ship is NOT in starts a battle:\n- Increases FP by $3 for all Royal Navy ships in that Vanguard Fleet;\n- 30s after the battle starts: fires a special barrage and, for 15s, increases AA by $3 for all ships in that fleet.",
     "opsi_description": null,
     "name": "Scatter, Minions of Darkness!",
     "max": 10,
@@ -21953,7 +21953,7 @@
     ]
   },
   "15750": {
-    "description": "Increases this ship's EVA by $1. When this ship takes DMG that would sink her, she becomes unsinkable for 2.5s and randomly gains one of the following buffs:\n1) Increases this ship's FP by $2;\n2) Increases this ship's TRP by $3;\n3) Increases this ship's ACC by $4;\n4) Increases this ship's RLD by $5.\nOnce per battle, when a ship in your Vanguard (other than this ship) falls below 30.0% max HP as a result of DMG taken: this ship gains one of the above buffs and restores $6 max HP to that ship (restores an additional 5.0% if the ship is a Le Fantasque class). When this ship gains one of the above buffs: restores $7 of this ship's max HP, but if she gets 2 stacks of the same buff, she sinks after 2.5s.",
+    "description": "Increases this ship's EVA by $1. When this ship takes DMG that would sink her, she becomes unsinkable for 2.5s and randomly gains one of the following buffs:\n- Increases this ship's FP by $2;\n- Increases this ship's TRP by $3;\n- Increases this ship's ACC by $4;\n- Increases this ship's RLD by $5.\nOnce per battle, when a ship in your Vanguard (other than this ship) falls below 30.0% max HP as a result of DMG taken: this ship gains one of the above buffs and restores $6 max HP to that ship (restores an additional 5.0% if the ship is a Le Fantasque class). When this ship gains one of the above buffs: restores $7 of this ship's max HP, but if she gets 2 stacks of the same buff, she sinks after 2.5s.",
     "opsi_description": null,
     "name": "I Will Not Yield!",
     "max": 10,
@@ -22879,7 +22879,7 @@
     ]
   },
   "15980": {
-    "description": "Decreases this ship's torpedo DMG taken by $1. When the battle starts, and every 20s: 1) Once per battle, if this ship's HP is below 25.0%: restores $2 of this ship's max HP; 2) If this ship's HP is above 25.0%: fires a $4 special barrage (DMG is based on the skill's level) and increases this ship's Crit Rate by $3 for 15s; 3) If this ship has sunk 3 or more enemy ships in the battle: decreases this ship's DMG taken by $1 for 15s.",
+    "description": "Decreases this ship's torpedo DMG taken by $1. When the battle starts, and every 20s:\n- Once per battle, if this ship's HP is below 25.0%: restores $2 of this ship's max HP;\n- If this ship's HP is above 25.0%: fires a $4 special barrage (DMG is based on the skill's level) and increases this ship's Crit Rate by $3 for 15s;\n- If this ship has sunk 3 or more enemy ships in the battle: decreases this ship's DMG taken by $1 for 15s.",
     "opsi_description": null,
     "name": "Adaptive Bladework",
     "max": 10,
@@ -23067,7 +23067,7 @@
     ]
   },
   "16020": {
-    "description": "Once when the battle starts, and with a $2 chance when this ship takes DMG: fires a $3 special barrage that restores 1.0% max HP to each ship in your Vanguard (DMG is based on the skill's level; 18s cooldown between activations). When this ship sinks: 1) Outside of an Exercise, restores $1 max HP to all other ships in your fleet; 2) During an Exercise: this ship instead will not sink, and restores $1 max HP to all ships in your fleet (can only activate once per battle; if the Eagle Union Elite Damage Control is also equipped, the effects from this skill take precedence).",
+    "description": "Once when the battle starts, and with a $2 chance when this ship takes DMG: fires a $3 special barrage that restores 1.0% max HP to each ship in your Vanguard (DMG is based on the skill's level; 18s cooldown between activations). When this ship sinks:\n- Outside of an Exercise, restores $1 max HP to all other ships in your fleet;\n- During an Exercise: this ship instead will not sink, and restores $1 max HP to all ships in your fleet (can only activate once per battle; if the Eagle Union Elite Damage Control is also equipped, the effects from this skill take precedence).",
     "opsi_description": null,
     "name": "Martyr+",
     "max": 10,
@@ -23208,7 +23208,7 @@
     ]
   },
   "16050": {
-    "description": "When the battle starts, if this ship is NOT your Flagship OR your Airspace Control status is not Air Incapability or Air Denial: reduces this ship's DMG taken by $1 in that battle.\nIf this ship is afloat, when a fleet this ship is NOT in enters a battle: fires a $2 supporting barrage 15s and 35s after the battle starts (DMG is based on the skill's level).\n[Non-Exercise Only] While this ship is above 40.0% HP: grants the \"Musashi's Guardianship\" status to all your other Main Fleet ships. Ships with this status: 1) No longer take Ramming DMG; 2) Force Musashi to become Detected as well if they become Detected; 3) Cause Musashi to be prioritized by enemy attacks if they are both valid targets.",
+    "description": "When the battle starts, if this ship is NOT your Flagship OR your Airspace Control status is not Air Incapability or Air Denial: reduces this ship's DMG taken by $1 in that battle.\nIf this ship is afloat, when a fleet this ship is NOT in enters a battle: fires a $2 supporting barrage 15s and 35s after the battle starts (DMG is based on the skill's level).\n[Non-Exercise Only] While this ship is above 40.0% HP: grants the \"Musashi's Guardianship\" status to all your other Main Fleet ships. Ships with this status:\n- No longer take Ramming DMG;\n- Force Musashi to become Detected as well if they become Detected;\n- Cause Musashi to be prioritized by enemy attacks if they are both valid targets.",
     "opsi_description": null,
     "name": "Musashi's Guardianship",
     "max": 10,
@@ -23511,7 +23511,7 @@
     ]
   },
   "16150": {
-    "description": "When this ship launches an airstrike: 1) launches a recon squadron consisting of Skyraider AEW planes, detecting enemy SSs for 6s. Additionally, selects 1 enemy at random (humanoid enemies are prioritized) and increases this ship's DMG dealt to that enemy by $1 (does not stack); 2) launches a $2 special airstrike that can hit enemy SSs (DMG is based on the skill's level).",
+    "description": "When this ship launches an airstrike:\n- launches a recon squadron consisting of Skyraider AEW planes, detecting enemy SSs for 6s. Additionally, selects 1 enemy at random (humanoid enemies are prioritized) and increases this ship's DMG dealt to that enemy by $1 (does not stack);\n- launches a $2 special airstrike that can hit enemy SSs (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Skyraiders, Advance!",
     "max": 10,
@@ -23581,7 +23581,7 @@
     ]
   },
   "16170": {
-    "description": "Increases your Main Fleet's maximum Detection Gauge value by 10. As long as this ship is afloat: 1) decreases your Main Fleet's Burn DMG taken by $1; 2) when a ship in your Vanguard recovers HP, 50.0% of any excess HP recovered beyond the maximum is converted into a barrier that can negate DMG equal to that amount, lasting up to 5s; 3) while this barrier is active, the barrier's recipient deals $2 increased DMG.",
+    "description": "Increases your Main Fleet's maximum Detection Gauge value by 10. As long as this ship is afloat:\n- decreases your Main Fleet's Burn DMG taken by $1;\n- when a ship in your Vanguard recovers HP, 50.0% of any excess HP recovered beyond the maximum is converted into a barrier that can negate DMG equal to that amount, lasting up to 5s;\n- while this barrier is active, the barrier's recipient deals $2 increased DMG.",
     "opsi_description": null,
     "name": "Guardian Faerie",
     "max": 10,
@@ -23880,7 +23880,7 @@
     ]
   },
   "16230": {
-    "description": "When this ship launches an airstrike: decreases your Yorktown-class CVs' airstrike loading time by $1 and decreases it by $2 for your other Essex-class CVs (only affects the currently loading airstrike once; effect does not stack). \nYour Yorktown-class and Essex-class CVs gain the following effects during battle: \n1) increases their DMG dealt by $1; \n2) when they launch an airstrike: also launches a $3 interceptive airstrike (DMG is based on the skill's level).",
+    "description": "When this ship launches an airstrike: decreases your Yorktown-class CVs' airstrike loading time by $1 and decreases it by $2 for your other Essex-class CVs (only affects the currently loading airstrike once; effect does not stack).\nYour Yorktown-class and Essex-class CVs gain the following effects during battle:\n- increases their DMG dealt by $1;\n- when they launch an airstrike: also launches a $3 interceptive airstrike (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "The Eagle Soars Free",
     "max": 10,
@@ -24418,7 +24418,7 @@
     ]
   },
   "16380": {
-    "description": "When the battle starts, if there are any other ships in your Vanguard: increases this ship's SPD by 10. Every 20s: targets 2 random ships in your fleet and grants them a buff for 8s based on their hull classification; \n1) DD: increases TRP by $1; 2) CL, CA, or CB: increases FP by $2; 3) BB, BC, or BBV: increases ACC by $3; 4) CV or CVL: increases AVI by $4; 5) any other hull classification: increases AA by $5.",
+    "description": "When the battle starts, if there are any other ships in your Vanguard: increases this ship's SPD by 10. Every 20s: targets 2 random ships in your fleet and grants them a buff for 8s based on their hull classification;\n- DD: increases TRP by $1;\n- CL, CA, or CB: increases FP by $2;\n- BB, BC, or BBV: increases ACC by $3;\n- CV or CVL: increases AVI by $4;\n- any other hull classification: increases AA by $5.",
     "opsi_description": null,
     "name": "All-Knowledgeable Appraiser",
     "max": 10,
@@ -24771,8 +24771,8 @@
     ]
   },
   "16450": {
-    "description": "When this ship launches an airstrike: $1 chance to lower the SPD of all enemies to 0 over 2s, keep it at 0 for 2s, then gradually restore their SPD to normal over 2s; when this effect activates: targets 1 random enemy (prioritizing humanoid enemies) and lowers their EVA by $2 for 6s. \nEach sortie, for the first 3 battles fought by a fleet this ship is NOT in: when that fleet's Flagship fires her first Main Gun volley or launches an airstrike: expends all stacks of No Mercy and, after 2s, activates one of the following effects based on the number of No Mercy stacks expended: \n1) 3 to 5: decreases the SPD of all enemies by 20.0% for 2s; \n2) 6 to 8: decreases the SPD of all enemies by 60.0% for 2s; \n3) 9: decreases the SPD of all enemies by 100.0% for 2s.",
-    "opsi_description": "When this ship launches an airstrike: $1 chance to lower the SPD of all enemies to 0 over 2s, keep it at 0 for 2s, then gradually restore their SPD to normal over 2s; when this effect activates: targets 1 random enemy (prioritizing humanoid enemies) and lowers their EVA by $2 for 6s. \nEach sortie, for the first 3 battles fought by a fleet this ship is NOT in: when that fleet's Flagship fires her first Main Gun volley or launches an airstrike: expends all stacks of No Mercy and, after 2s, activates one of the following effects based on the number of No Mercy stacks expended: \n1) 3 to 5: decreases the SPD of all enemies by 20.0% for 2s; \n2) 6 to 8: decreases the SPD of all enemies by 60.0% for 2s; \n3) 9: decreases the SPD of all enemies by 100.0% for 2s.\n[In Operation Siren, the battle count resets when the fleets enter a new zone or when the Fleet Deployment order is issued.]",
+    "description": "When this ship launches an airstrike: $1 chance to lower the SPD of all enemies to 0 over 2s, keep it at 0 for 2s, then gradually restore their SPD to normal over 2s; when this effect activates: targets 1 random enemy (prioritizing humanoid enemies) and lowers their EVA by $2 for 6s.\nEach sortie, for the first 3 battles fought by a fleet this ship is NOT in: when that fleet's Flagship fires her first Main Gun volley or launches an airstrike: expends all stacks of No Mercy and, after 2s, activates one of the following effects based on the number of No Mercy stacks expended:\n- 3 to 5: decreases the SPD of all enemies by 20.0% for 2s;\n- 6 to 8: decreases the SPD of all enemies by 60.0% for 2s;\n- 9: decreases the SPD of all enemies by 100.0% for 2s.",
+    "opsi_description": "When this ship launches an airstrike: $1 chance to lower the SPD of all enemies to 0 over 2s, keep it at 0 for 2s, then gradually restore their SPD to normal over 2s; when this effect activates: targets 1 random enemy (prioritizing humanoid enemies) and lowers their EVA by $2 for 6s.\nEach sortie, for the first 3 battles fought by a fleet this ship is NOT in: when that fleet's Flagship fires her first Main Gun volley or launches an airstrike: expends all stacks of No Mercy and, after 2s, activates one of the following effects based on the number of No Mercy stacks expended:\n- 3 to 5: decreases the SPD of all enemies by 20.0% for 2s;\n- 6 to 8: decreases the SPD of all enemies by 60.0% for 2s;\n- 9: decreases the SPD of all enemies by 100.0% for 2s.\n[In Operation Siren, the battle count resets when the fleets enter a new zone or when the Fleet Deployment order is issued.]",
     "name": "You Can't Escape♪",
     "max": 10,
     "id": 16450,
@@ -24832,7 +24832,7 @@
     ]
   },
   "16460": {
-    "description": "While this ship is afloat, when the fleet this ship is in starts a battle, and for the first 3 battles of a sortie a fleet this ship is NOT in: when a ship in your fleet takes DMG, she gains a stack of No Mercy (can be stacked up to 9 times). \nWhen this ship launches an airstrike: launches an additional $1 special airstrike (DMG is based on the skill's level) and expends all stacks of No Mercy. Activates the following effects based on the number of No Mercy stacks expended: \n1) 3 or more: increases this ship's DMG dealt by $2 for 5s; \n2) 6 or more: negates the Detection Gauge value gained from launching this airstrike; \n3) 9: this airstrike is guaranteed to deal Critical Damage.",
+    "description": "While this ship is afloat, when the fleet this ship is in starts a battle, and for the first 3 battles of a sortie a fleet this ship is NOT in: when a ship in your fleet takes DMG, she gains a stack of No Mercy (can be stacked up to 9 times).\nWhen this ship launches an airstrike: launches an additional $1 special airstrike (DMG is based on the skill's level) and expends all stacks of No Mercy. Activates the following effects based on the number of No Mercy stacks expended:\n- 3 or more: increases this ship's DMG dealt by $2 for 5s;\n- 6 or more: negates the Detection Gauge value gained from launching this airstrike;\n- 9: this airstrike is guaranteed to deal Critical Damage.",
     "opsi_description": null,
     "name": "May God Forgive You, For I Shall Not",
     "max": 10,
@@ -25008,8 +25008,8 @@
     ]
   },
   "16510": {
-    "description": "When the HP of a CV or CVL in your fleet falls below 20.0% as a result of DMG taken: restores 10.0% of that ship's max HP (can only activate once per ship). While this ship is afloat: \n1) When the fleet this ship is in starts a battle, increases your CVs' and CVLs' AVI by $1 and RLD by $2, and decreases the loading time of this ship's first airstrike by $3; \n2) When the battle starts for the fleet this ship is NOT in, increases your CVs' and CVLs' AVI and RLD by $4. Does not stack with the skill \"Supporting Wings.\"",
-    "opsi_description": "When the HP of a CV or CVL in your fleet falls below 20.0% as a result of DMG taken: restores 10.0% of that ship's max HP (can only activate once per ship). While this ship is afloat:\n1) When the fleet this ship is in starts a battle, increases your CVs' and CVLs' AVI by $1 and RLD by $2, and decreases the loading time of this ship's first airstrike by $3;\n2) When the battle starts for the fleet this ship is NOT in, increases your CVs' and CVLs' AVI and RLD by $4. Does not stack with the skill \"Supporting Wings.\"",
+    "description": "When the HP of a CV or CVL in your fleet falls below 20.0% as a result of DMG taken: restores 10.0% of that ship's max HP (can only activate once per ship). While this ship is afloat:\n- When the fleet this ship is in starts a battle, increases your CVs' and CVLs' AVI by $1 and RLD by $2, and decreases the loading time of this ship's first airstrike by $3;\n- When the battle starts for the fleet this ship is NOT in, increases your CVs' and CVLs' AVI and RLD by $4. Does not stack with the skill \"Supporting Wings.\"",
+    "opsi_description": "When the HP of a CV or CVL in your fleet falls below 20.0% as a result of DMG taken: restores 10.0% of that ship's max HP (can only activate once per ship). While this ship is afloat:\n- When the fleet this ship is in starts a battle, increases your CVs' and CVLs' AVI by $1 and RLD by $2, and decreases the loading time of this ship's first airstrike by $3;\n- When the battle starts for the fleet this ship is NOT in, increases your CVs' and CVLs' AVI and RLD by $4. Does not stack with the skill \"Supporting Wings.\"",
     "name": "Supporting Wings - Argus",
     "max": 10,
     "id": 16510,
@@ -25983,7 +25983,7 @@
     ]
   },
   "16750": {
-    "description": "Increases this ship's FP by $1 and RLD by $2. When this ship fires her Main Guns: 1) The first volley of the salvo is guaranteed to critically hit, and 2) fires a $3 special barrage (DMG is based on the skill's level) that creates zones on the battlefield that enemies are drawn to.",
+    "description": "Increases this ship's FP by $1 and RLD by $2. When this ship fires her Main Guns:\n- The first volley of the salvo is guaranteed to critically hit, and\n- fires a $3 special barrage (DMG is based on the skill's level) that creates zones on the battlefield that enemies are drawn to.",
     "opsi_description": null,
     "name": "Calamitous Voidflame",
     "max": 10,
@@ -26030,7 +26030,7 @@
     ]
   },
   "16760": {
-    "description": "During battle, the autonomous rigging Geryon will switch between two modes to provide support. The support mode toggles each time Bismarck Zwei fires her Main Guns:\n1) Synchron-Link: Reduces DMG received by Bismarck Zwei by $1, and increases the power of the next \"Calamitous Voidflame\" special barrage. Geryon starts battle in Synchron-Link mode.\n2) Synchron-Release: Geryon will separate from Bismarck Zwei, move to a different location, and begin attacking with special weapons (Geryon's stats are based on the skill's level as well as Bismarck Zwei's stats). After Geryon completes deployment as a result of this skill, it will perform another special attack $2.",
+    "description": "During battle, the autonomous rigging Geryon will switch between two modes to provide support. The support mode toggles each time Bismarck Zwei fires her Main Guns:\n- Synchron-Link: Reduces DMG received by Bismarck Zwei by $1, and increases the power of the next \"Calamitous Voidflame\" special barrage. Geryon starts battle in Synchron-Link mode.\n- Synchron-Release: Geryon will separate from Bismarck Zwei, move to a different location, and begin attacking with special weapons (Geryon's stats are based on the skill's level as well as Bismarck Zwei's stats). After Geryon completes deployment as a result of this skill, it will perform another special attack $2.",
     "opsi_description": null,
     "name": "Geryon, the Ruin-Eater",
     "max": 10,
@@ -26544,7 +26544,7 @@
     ]
   },
   "16910": {
-    "description": "Increases this ship's AA and ASW by $1. Every 20s, activates one of the following effects, chosen at random: 1) Increases this ship's FP and TRP by $2 for 10s; 2) Increases this ship's Crit Rate and Crit DMG by $2 for 10s; 3) Restores $3 max HP to the Iris Libre or Vichya Dominion ship in your fleet with the lowest max HP remaining.",
+    "description": "Increases this ship's AA and ASW by $1. Every 20s, activates one of the following effects, chosen at random:\n- Increases this ship's FP and TRP by $2 for 10s;\n- Increases this ship's Crit Rate and Crit DMG by $2 for 10s;\n- Restores $3 max HP to the Iris Libre or Vichya Dominion ship in your fleet with the lowest max HP remaining.",
     "opsi_description": null,
     "name": "Liturgia Horarum",
     "max": 10,
@@ -26591,7 +26591,7 @@
     ]
   },
   "16920": {
-    "description": "Increases this ship's SPD by 3, EVA by $2, and Evasion Rate by 8.0%. When this ship fires her Main Guns 6 times, activates one of the following randomly chosen effects: 1) Fires a $1 special barrage (DMG is based on the skill's level); 2) Uses this ship's Main Guns to fire 2 times.",
+    "description": "Increases this ship's SPD by 3, EVA by $2, and Evasion Rate by 8.0%. When this ship fires her Main Guns 6 times, activates one of the following randomly chosen effects:\n- Fires a $1 special barrage (DMG is based on the skill's level);\n- Uses this ship's Main Guns to fire 2 times.",
     "opsi_description": null,
     "name": "Shells or Sorcery?",
     "max": 10,
@@ -26696,7 +26696,7 @@
     ]
   },
   "16950": {
-    "description": "Increases this ship's FP by $1. When the battle starts, if there is another BB or BC in your fleet: increases this ship's ACC and AA by $2, improves the special barrage fired by the skill \"Big Seven - West Virginia,\" and applies the following two effects: 1) Enemies hit by the special barrage have their SPD reduced by 30.0% for 5s; 2) Increases your BBs' and BCs' DMG dealt to enemies slowed by this skill by 8.0%.",
+    "description": "Increases this ship's FP by $1. When the battle starts, if there is another BB or BC in your fleet: increases this ship's ACC and AA by $2, improves the special barrage fired by the skill \"Big Seven - West Virginia,\" and applies the following two effects:\n- Enemies hit by the special barrage have their SPD reduced by 30.0% for 5s;\n-Increases your BBs' and BCs' DMG dealt to enemies slowed by this skill by 8.0%.",
     "opsi_description": null,
     "name": "Leyte Gulf's Witness",
     "max": 10,
@@ -26848,7 +26848,7 @@
     ]
   },
   "16990": {
-    "description": "Every 18s, activates one of the following effects, chosen at random: 1) Increases this ship's and your Flagship's DMG dealt by $1 for 8s (if this ship is your Flagship, the effect does not stack); 2) Increases this ship's AVI by $2 and decreases your frontmost Vanguard ship's DMG taken by $3 for 10s.",
+    "description": "Every 18s, activates one of the following effects, chosen at random:\n- Increases this ship's and your Flagship's DMG dealt by $1 for 8s (if this ship is your Flagship, the effect does not stack);\n- Increases this ship's AVI by $2 and decreases your frontmost Vanguard ship's DMG taken by $3 for 10s.",
     "opsi_description": null,
     "name": "Morningstar's Guidance",
     "max": 10,
@@ -27094,7 +27094,7 @@
     ]
   },
   "17060": {
-    "description": "When the battle starts, and every 20s: gives a random other ship in your fleet the Best Buds trait. While a ship with the Best Buds trait is afloat, Owari's FP, ACC, and RLD are increased by $4. When a ship with the Best Buds trait sinks, or when the trait expires: Owari fires a $3 torpedo barrage (DMG is based on the skill's level). The Best Buds trait grants additional buffs based on the recipient's position:\n1) Main Fleet: increases that ship's AA by $1 and decreases her DMG taken by $2;\n2) Vanguard: increases that ship's FP and TRP by $1.",
+    "description": "When the battle starts, and every 20s: gives a random other ship in your fleet the Best Buds trait. While a ship with the Best Buds trait is afloat, Owari's FP, ACC, and RLD are increased by $4. When a ship with the Best Buds trait sinks, or when the trait expires: Owari fires a $3 torpedo barrage (DMG is based on the skill's level). The Best Buds trait grants additional buffs based on the recipient's position:\n- Main Fleet: increases that ship's AA by $1 and decreases her DMG taken by $2;\n- Vanguard: increases that ship's FP and TRP by $1.",
     "opsi_description": null,
     "name": "Power o' Friendship",
     "max": 10,
@@ -27153,7 +27153,7 @@
     ]
   },
   "17070": {
-    "description": "When this ship fires her Main Guns: $1 chance to fire a $3 special barrage (DMG is based on the skill's level). When this special barrage fires: increases your Kii-class BBs' DMG dealt by $2 for 10s. If your Flagship meets any one of the following criteria, this barrage's activation chance increases by 25.0%:\n1) She is a Sakura Empire ship;\n2) She is a BB, BC, or BBV;\n3) She has received the Best Buds trait at least once during the battle.",
+    "description": "When this ship fires her Main Guns: $1 chance to fire a $3 special barrage (DMG is based on the skill's level). When this special barrage fires: increases your Kii-class BBs' DMG dealt by $2 for 10s. If your Flagship meets any one of the following criteria, this barrage's activation chance increases by 25.0%:\n- She is a Sakura Empire ship;\n- She is a BB, BC, or BBV;\n- She has received the Best Buds trait at least once during the battle.",
     "opsi_description": null,
     "name": "Don't Mess With My Best Buds!",
     "max": 10,
@@ -28148,7 +28148,7 @@
     ]
   },
   "17340": {
-    "description": "Decreases this ship's aircraft DMG taken by $1. When this ship attacks with large-caliber Main Guns:\n1) Deploys a barrier (lasts 5s) able to negate up to 1.0% of this ship's max HP in DMG;\n2) Performs a $2 special attack (DMG is based on the skill's level).",
+    "description": "Decreases this ship's aircraft DMG taken by $1. When this ship attacks with large-caliber Main Guns:\n- Deploys a barrier (lasts 5s) able to negate up to 1.0% of this ship's max HP in DMG;\n- Performs a $2 special attack (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Guest Incoming!",
     "max": 10,
@@ -28358,7 +28358,7 @@
     ]
   },
   "17410": {
-    "description": "When this boat's equipped torpedoes hit an enemy (skill effects can only affect the same enemy once every 10s):\n1) Decreases that enemy's SPD by $1 for 4s. When this boat's torpedoes hit an enemy affected by this skill's SPD debuff: fires a $2 special barrage (DMG is based on the skill's level; 10s cooldown between activations).\n2) With a 50.0% chance, increases this boat's DMG dealt to the enemy hit by $3 for 10s.",
+    "description": "When this boat's equipped torpedoes hit an enemy (skill effects can only affect the same enemy once every 10s):\n- Decreases that enemy's SPD by $1 for 4s. When this boat's torpedoes hit an enemy affected by this skill's SPD debuff: fires a $2 special barrage (DMG is based on the skill's level; 10s cooldown between activations).\n- With a 50.0% chance, increases this boat's DMG dealt to the enemy hit by $3 for 10s.",
     "opsi_description": null,
     "name": "Teary-Eyed Huntress",
     "max": 10,
@@ -28837,7 +28837,7 @@
     ]
   },
   "17570": {
-    "description": "When the battle starts: performs Strategic Divination and applies a buff to either your Vanguard or Main Fleet: \nIf your Vanguard is chosen, applies one of the following buffs at random: 1) Increases FP, TRP, and RLD by $1; 2) Decreases DMG taken from enemies by $2. \nIf your Main Fleet is chosen, applies one of the following buffs at random: 1) Increases FP, AVI, and ACC by $1; 2) Increases AA by $2 and decreases DMG taken from enemies by $1.",
+    "description": "When the battle starts: performs Strategic Divination and applies a buff to either your Vanguard or Main Fleet:\nIf your Vanguard is chosen, applies one of the following buffs at random:\n- Increases FP, TRP, and RLD by $1;\n- Decreases DMG taken from enemies by $2.\nIf your Main Fleet is chosen, applies one of the following buffs at random:\n- Increases FP, AVI, and ACC by $1;\n- Increases AA by $2 and decreases DMG taken from enemies by $1.",
     "opsi_description": null,
     "name": "From Information Into Insight",
     "max": 10,
@@ -28931,7 +28931,7 @@
     ]
   },
   "17590": {
-    "description": "When this ship finishes loading her Main Guns: $1 chance to fire a $2 special barrage (DMG is based on the skill's level). Inflicts the following effects for 6s to enemies hit by this barrage: 1) Decreases SPD by 40.0%; 2) Increases DMG taken by 8.0%; 3) When Sovetsky Soyuz attacks the enemy, increases her Crit Rate by $3.",
+    "description": "When this ship finishes loading her Main Guns: $1 chance to fire a $2 special barrage (DMG is based on the skill's level). Inflicts the following effects for 6s to enemies hit by this barrage:\n- Decreases SPD by 40.0%;\n- Increases DMG taken by 8.0%;\n- When Sovetsky Soyuz attacks the enemy, increases her Crit Rate by $3.",
     "opsi_description": null,
     "name": "Sublimation, to Sunder All Storms",
     "max": 10,
@@ -30231,7 +30231,7 @@
     ]
   },
   "17940": {
-    "description": "Every 12s: performs a $1 special slashing attack on 1 random enemy; if that enemy did not sink, additionally performs a $1 special stabbing attack on the enemy (DMG is based on the skill's level). These attacks prioritize humanoid enemies. \nInflicts the Slashed status to enemies hit by these attacks for 12s, increasing their DMG taken from submarine, surface, and aircraft torpedoes by $2. \nWhen the stabbing attack activates, if {no ship in your fleet is|Game implies only Mogador is checked.} affected by Burn, the attack deals {guaranteed Crit DMG. Additionally while stabbing she gains the Axe of Judgment status|In Game description implies that Mogador only gains Axe of Judgment if she is not burning. She just always gets it.} for 2.5s, granting the following buffs:\n1) Decreases her ramming DMG taken by 80.0%;\n2) She cannot take more than 5.0% of her max HP in DMG at once; if she takes this much DMG, she evades all enemy shells and cannot take ramming DMG until the buff wears off.",
+    "description": "Every 12s: performs a $1 special slashing attack on 1 random enemy; if that enemy did not sink, additionally performs a $1 special stabbing attack on the enemy (DMG is based on the skill's level). These attacks prioritize humanoid enemies. \nInflicts the Slashed status to enemies hit by these attacks for 12s, increasing their DMG taken from submarine, surface, and aircraft torpedoes by $2. \nWhen the stabbing attack activates, if {no ship in your fleet is|Game implies only Mogador is checked.} affected by Burn, the attack deals {guaranteed Crit DMG. Additionally while stabbing she gains the Axe of Judgment status|In Game description implies that Mogador only gains Axe of Judgment if she is not burning. She just always gets it.} for 2.5s, granting the following buffs:\n- Decreases her ramming DMG taken by 80.0%;\n- She cannot take more than 5.0% of her max HP in DMG at once; if she takes this much DMG, she evades all enemy shells and cannot take ramming DMG until the buff wears off.",
     "opsi_description": null,
     "name": "Cleaver of All Sin",
     "max": 10,
@@ -31540,7 +31540,7 @@
     ]
   },
   "18760": {
-    "description": "When the battle starts: this ship gains a $1 special AA Gun (DMG is based on the skill's level). Increases the efficiency of this ship's 1st weapon slot by 15.0% and the efficiency of her 3rd weapon slot by 30.0%.\nEvery 10s, or when a ship in your fleet fires her AA Gun: increases your Vanguard's AA by $2 (stacks up to 3 times). When this effect activates 3 times, activates the following effects:\n1) Restores 4.0% of your Vanguard's max HP;\n2) The ship in your fleet with the lowest current HP percentage restores 4.0% of her max HP over 8s;\n3) Shimanto's DMG taken decreases by $3 until the battle ends;\n4) Deploys 2 shields that can negate up to 6 enemy shells as well as 2 shields that can negate up to 2 enemy torpedoes; these shields last 10s.",
+    "description": "When the battle starts: this ship gains a $1 special AA Gun (DMG is based on the skill's level). Increases the efficiency of this ship's 1st weapon slot by 15.0% and the efficiency of her 3rd weapon slot by 30.0%.\nEvery 10s, or when a ship in your fleet fires her AA Gun: increases your Vanguard's AA by $2 (stacks up to 3 times). When this effect activates 3 times, activates the following effects:\n- Restores 4.0% of your Vanguard's max HP;\n- The ship in your fleet with the lowest current HP percentage restores 4.0% of her max HP over 8s;\n- Shimanto's DMG taken decreases by $3 until the battle ends;\n- Deploys 2 shields that can negate up to 6 enemy shells as well as 2 shields that can negate up to 2 enemy torpedoes; these shields last 10s.",
     "opsi_description": null,
     "name": "Divine Presence+",
     "max": 10,
@@ -34087,7 +34087,7 @@
     ]
   },
   "19710": {
-    "description": "Increases this ship's FP by 5.0% and EVA and ACC by $1. \nOne of the following two effects apply based on what type of weapon this ship has equipped in her third weapon slot:\n 1): Main Gun: increases this ship's FP by $2 and DMG dealt by 5.0%. Shells fired from this ship's Main Guns ignore enemy shields.\n 2): AA Gun: increases this ship's EVA by $3 and decreases her DMG taken by 8.0%. When the battle starts, and every 30s: deploys 2 shields (last 15s; can each block up to 8 shells).",
+    "description": "Increases this ship's FP by 5.0% and EVA and ACC by $1.\nOne of the following two effects apply based on what type of weapon this ship has equipped in her third weapon slot:\n- Main Gun: increases this ship's FP by $2 and DMG dealt by 5.0%. Shells fired from this ship's Main Guns ignore enemy shields.\n- AA Gun: increases this ship's EVA by $3 and decreases her DMG taken by 8.0%. When the battle starts, and every 30s: deploys 2 shields (last 15s; can each block up to 8 shells).",
     "opsi_description": null,
     "name": "The Most Dangerous Game",
     "max": 10,
@@ -34426,7 +34426,7 @@
     ]
   },
   "19800": {
-    "description": "Increases this ship's EVA by $1. If this ship does NOT have a Seaplane equipped: increases this ship's TRP and AA by $3, decreases her DMG taken by $4, and, every 15s, fires a $5 special barrage (DMG is based on the skill's level).\nIf this ship has a Seaplane equipped, activates the following effects:1) When this ship launches an odd number of airstrikes: deploys a smokescreen (lasts 5s) that increases Evasion Rate by $2 for all your ships in it (does not stack with other smokescreen skills);2) When this ship launches an even number of airstrikes: restores 4.0% of this ship's max HP and extinguishes any Burn this ship is afflicted with.",
+    "description": "Increases this ship's EVA by $1. If this ship does NOT have a Seaplane equipped: increases this ship's TRP and AA by $3, decreases her DMG taken by $4, and, every 15s, fires a $5 special barrage (DMG is based on the skill's level).\nIf this ship has a Seaplane equipped, activates the following effects:\n- When this ship launches an odd number of airstrikes: deploys a smokescreen (lasts 5s) that increases Evasion Rate by $2 for all your ships in it (does not stack with other smokescreen skills);\n- When this ship launches an even number of airstrikes: restores 4.0% of this ship's max HP and extinguishes any Burn this ship is afflicted with.",
     "opsi_description": null,
     "name": "Pedigree of Perfection",
     "max": 10,
@@ -34672,7 +34672,7 @@
     ]
   },
   "19860": {
-    "description": "When the battle starts: increases this ship's FP and TRP by $1. When this ship fires her Main Guns: fires a $2 special barrage (DMG is based on the skill's level) and alternatingly activates one of these two effects: \n 1) Inflicts a special Burn ailment to enemies hit by the special barrage, lasting 15s;\n 2) When firing the special barrage, also fires a $2 torpedo barrage (DMG is based on the skill's level);\n If this ship has a Sakura Empire Anti-Air Gun equipped, the above effects activate in the opposite order.\n When this ship's HP falls below 30.0% as a result of DMG taken: when this skill activates, both effects 1 and 2 will activate simultaneously until the battle ends.",
+    "description": "When the battle starts: increases this ship's FP and TRP by $1. When this ship fires her Main Guns: fires a $2 special barrage (DMG is based on the skill's level) and alternatingly activates one of these two effects:\n- Inflicts a special Burn ailment to enemies hit by the special barrage, lasting 15s;\n- When firing the special barrage, also fires a $2 torpedo barrage (DMG is based on the skill's level);\n If this ship has a Sakura Empire Anti-Air Gun equipped, the above effects activate in the opposite order.\n When this ship's HP falls below 30.0% as a result of DMG taken: when this skill activates, both effects 1 and 2 will activate simultaneously until the battle ends.",
     "opsi_description": null,
     "name": "Causality Anchor",
     "max": 10,
@@ -40742,7 +40742,7 @@
     ]
   },
   "101120": {
-    "description": "Every 15 seconds, switches between the following effects: 1) Reduces damage taken by $1, 2) Increases damage dealt by $2, 3) Restores $3 HP every 3 seconds.",
+    "description": "Every 15 seconds, switches between the following effects:\n- Reduces damage taken by $1,\n- Increases damage dealt by $2,\n- Restores $3 HP every 3 seconds.",
     "opsi_description": null,
     "name": "Darjeeling Rotation",
     "max": 10,
@@ -43329,7 +43329,7 @@
     ]
   },
   "107100": {
-    "description": "As long as this ship is afloat: decreases your Main Fleet's DMG taken by $1. At the start of the battle: tells a fortune and receives one of the following effects: 1) Increases this ship's EVA by $2; 2) Increases this ship's Accuracy by $3; 3) Increases this ship's FP by $4; 4) Heals this ship for $5 HP.",
+    "description": "As long as this ship is afloat: decreases your Main Fleet's DMG taken by $1. At the start of the battle: tells a fortune and receives one of the following effects:\n- Increases this ship's EVA by $2;\n- Increases this ship's Accuracy by $3;\n- Increases this ship's FP by $4;\n- Heals this ship for $5 HP.",
     "opsi_description": null,
     "name": "Healing Augury",
     "max": 10,
@@ -46155,7 +46155,7 @@
     ]
   },
   "110190": {
-    "description": "When this ship's Main or Secondary Gun hits an enemy: $1 chance to increase this ship's RLD by 5.0% (can be stacked up to 3 times). When this buff reaches its max stacks, the following effects activate: \n1) Performs a $2 slash attack; \n2) Increases this ship's Main Gun DMG dealt by 10.0% until the battle ends; \n3) Until the battle ends, if the skill Enka Tuypa's special barrage activates: performs an additional $1 special slash attack (slash attack DMG is based on the skill's level).",
+    "description": "When this ship's Main or Secondary Gun hits an enemy: $1 chance to increase this ship's RLD by 5.0% (can be stacked up to 3 times). When this buff reaches its max stacks, the following effects activate:\n- Performs a $2 slash attack;\n- Increases this ship's Main Gun DMG dealt by 10.0% until the battle ends;\n- Until the battle ends, if the skill Enka Tuypa's special barrage activates: performs an additional $1 special slash attack (slash attack DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Soul of Tohno",
     "max": 10,
@@ -46225,7 +46225,7 @@
     ]
   },
   "110210": {
-    "description": "When this ship's Main or Secondary Gun hits an enemy: $1 chance to increase this ship's RLD by 5.0% (can be stacked up to 3 times). When this buff reaches its max stacks, the following effects activate:\n1) Performs a $2 Secret Ninja Art: Poro Kamuyasi;\n2) Increases this ship's Main Gun DMG dealt by 10.0% until the battle ends;\n3) Until the battle ends, if the skill Enka Tuypa's special barrage activates: performs an additional $2 Secret Ninja Art: Poro Kamuyasi (DMG is based on the skill's level).",
+    "description": "When this ship's Main or Secondary Gun hits an enemy: $1 chance to increase this ship's RLD by 5.0% (can be stacked up to 3 times). When this buff reaches its max stacks, the following effects activate:\n- Performs a $2 Secret Ninja Art: Poro Kamuyasi;\n- Increases this ship's Main Gun DMG dealt by 10.0% until the battle ends;\n- Until the battle ends, if the skill Enka Tuypa's special barrage activates: performs an additional $2 Secret Ninja Art: Poro Kamuyasi (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Soul of Tohno+",
     "max": 10,
@@ -46704,7 +46704,7 @@
     ]
   },
   "111090": {
-    "description": "Decreases this ship's DMG taken by $1. If this ship is the frontmost ship of your Vanguard: increases this ship's AA and EVA by $1; if NOT the frontmost ship, increases RLD and ACC by $1.\nWhen the battle starts, and every 10s: picks one random other ally without the Plan Execution status and increases their EVA by $2 for 8s, then gives that ally the Plan Execution status afterward.\nEvery 20s: for 10s, increases your fleet's DMG dealt by $2 and grants Momo and all allies with the Plan Execution status the following buffs:\n1) If the recipient is in your Vanguard, restores $3 of the recipient's max HP and increases her FP and TRP by $2;\n2) If the recipient is in your Main Fleet: restores $3 of the recipient's max HP and increases her FP and AVI by $2.",
+    "description": "Decreases this ship's DMG taken by $1. If this ship is the frontmost ship of your Vanguard: increases this ship's AA and EVA by $1; if NOT the frontmost ship, increases RLD and ACC by $1.\nWhen the battle starts, and every 10s: picks one random other ally without the Plan Execution status and increases their EVA by $2 for 8s, then gives that ally the Plan Execution status afterward.\nEvery 20s: for 10s, increases your fleet's DMG dealt by $2 and grants Momo and all allies with the Plan Execution status the following buffs:\n- If the recipient is in your Vanguard, restores $3 of the recipient's max HP and increases her FP and TRP by $2;\n- If the recipient is in your Main Fleet: restores $3 of the recipient's max HP and increases her FP and AVI by $2.",
     "opsi_description": null,
     "name": "Secret Schemes",
     "max": 10,
@@ -46751,7 +46751,7 @@
     ]
   },
   "111100": {
-    "description": "Increases this ship's Main Gun efficiency by $1. When this ship fires her Main Guns, selects 1 random enemy and activates one of the following effects based on the enemy's Armor Type:\n1) Light Armor: fires a $2 special high-explosive shell barrage (DMG is based on the skill's level);\n2) Medium or Heavy Armor: fires a $2 armor-piercing shell special barrage (DMG is based on the skill's level).",
+    "description": "Increases this ship's Main Gun efficiency by $1. When this ship fires her Main Guns, selects 1 random enemy and activates one of the following effects based on the enemy's Armor Type:\n- Light Armor: fires a $2 special high-explosive shell barrage (DMG is based on the skill's level);\n- Medium or Heavy Armor: fires a $2 armor-piercing shell special barrage (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Armament Swap",
     "max": 10,
@@ -46786,7 +46786,7 @@
     ]
   },
   "111110": {
-    "description": "Increases this ship's Main Gun efficiency by $1. When this ship fires her Main Guns, selects 1 random enemy and activates one of the following effects based on the enemy's Armor Type:\n1) Light Armor: fires a $2 special high-explosive shell barrage (DMG is based on the skill's level) that decreases the SPD of enemies hit by 20.0% for 6s (does not stack with similar effects);\n2) Medium or Heavy Armor: fires a $2 armor-piercing shell special barrage (DMG is based on the skill's level) that increases the cannon DMG taken of enemies hit by 5.0% for 6s (does not stack with similar effects).",
+    "description": "Increases this ship's Main Gun efficiency by $1. When this ship fires her Main Guns, selects 1 random enemy and activates one of the following effects based on the enemy's Armor Type:\n- Light Armor: fires a $2 special high-explosive shell barrage (DMG is based on the skill's level) that decreases the SPD of enemies hit by 20.0% for 6s;\n- Medium or Heavy Armor: fires a $2 armor-piercing shell special barrage (DMG is based on the skill's level) that increases the cannon DMG taken of enemies hit by 5.0% for 6s.",
     "opsi_description": null,
     "name": "Armament Swap+",
     "max": 10,
@@ -46821,7 +46821,7 @@
     ]
   },
   "111120": {
-    "description": "Increases this ship's FP and ACC by $1. 30s after the battle starts, and the first time each battle when this ship's HP falls below 50.0% as a result of DMG taken, activates the following effects: \n1) Restores $2 of this ship's max HP;\n2) Increases this ship's EVA and AA by $1 until the battle ends (can only activate once per battle).",
+    "description": "Increases this ship's FP and ACC by $1. 30s after the battle starts, and the first time each battle when this ship's HP falls below 50.0% as a result of DMG taken, activates the following effects:\n- Restores $2 of this ship's max HP;\n- Increases this ship's EVA and AA by $1 until the battle ends (can only activate once per battle).",
     "opsi_description": null,
     "name": "I Love Taiyaki!",
     "max": 10,
@@ -46926,7 +46926,7 @@
     ]
   },
   "111150": {
-    "description": "When this ship fires her Main Guns: $1 chance to fire a $2 special barrage (DMG is based on the skill's level). \nOnce per battle, when this ship's HP falls below 80.0% as a result of DMG taken, or when an enemy gets within 80 units of this ship, this ship gains the following buffs until the battle ends: \n1) Decreases the loading time of this ship's Main Guns by 20.0%, decreases her Main Guns' DMG dealt by 10.0%, and increases the activation chance of the above special barrage by 30.0%;\n2) When this ship fires her Main Guns: throws an emergency fire extinguisher that inflicts Armor Break on the enemy hit.",
+    "description": "When this ship fires her Main Guns: $1 chance to fire a $2 special barrage (DMG is based on the skill's level).\nOnce per battle, when this ship's HP falls below 80.0% as a result of DMG taken, or when an enemy gets within 80 units of this ship, this ship gains the following buffs until the battle ends:\n- Decreases the loading time of this ship's Main Guns by 20.0%, decreases her Main Guns' DMG dealt by 10.0%, and increases the activation chance of the above special barrage by 30.0%;\n- When this ship fires her Main Guns: throws an emergency fire extinguisher that inflicts Armor Break on the enemy hit.",
     "opsi_description": null,
     "name": "Be Still, My Heart!",
     "max": 10,
@@ -47197,7 +47197,7 @@
     ]
   },
   "150010": {
-    "description": "When the battle starts: grants this ship the Allegro status, increasing this ship's DMG dealt by $1. \nEvery 20s:\n1) If there are any Swords of Judgment around this ship: removes all Swords of Judgment and fires a $2 special barrage (DMG is based on the skill's level and the number of swords deleted). \n2) If there are no Swords of Judgment around this ship: grants this ship the Lento status, decreasing this ship's DMG taken by $1. This ship regains the Allegro status after 20s. \n5s after either one of the above two effects activates: summons 6 Swords of Judgment.",
+    "description": "When the battle starts: grants this ship the Allegro status, increasing this ship's DMG dealt by $1.\nEvery 20s:\n- If there are any Swords of Judgment around this ship: removes all Swords of Judgment and fires a $2 special barrage (DMG is based on the skill's level and the number of swords deleted).\n- If there are no Swords of Judgment around this ship: grants this ship the Lento status, decreasing this ship's DMG taken by $1. This ship regains the Allegro status after 20s.\n5s after either one of the above two effects activates: summons 6 Swords of Judgment.",
     "opsi_description": null,
     "name": "Sword of a New Era",
     "max": 10,
@@ -47232,7 +47232,7 @@
     ]
   },
   "150020": {
-    "description": "When this ship fires her Main Guns: inflicts $1 Holy Judgment on a random enemy. While this ship is afloat, 16s after a fleet this ship is NOT in enters a battle: activates $1 Holy Judgment. \nWhen $1 Holy Judgment activates, the following occurs: \n1) For 10s, the target takes $2 more DMG; \n2) Fires a $1 special barrage that inflicts a special Burn ailment to enemies hit for 30s (DMG is based on the skill's level).",
+    "description": "When this ship fires her Main Guns: inflicts $1 Holy Judgment on a random enemy. While this ship is afloat, 16s after a fleet this ship is NOT in enters a battle: activates $1 Holy Judgment.\nWhen $1 Holy Judgment activates, the following occurs:\n- For 10s, the target takes $2 more DMG;\n- Fires a $1 special barrage that inflicts a special Burn ailment to enemies hit for 30s (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Attack Command: Holy Judgment",
     "max": 10,
@@ -47267,7 +47267,7 @@
     ]
   },
   "150030": {
-    "description": "Increases this ship's FP by $1. \nWhen this ship hits an enemy with her Secondary Guns, or when an Iris Libre or Vichya Dominion Vanguard ship in your fleet hits an enemy with her Main Guns: gains 1 stack of Divine Sanction; when 12 stacks are reached, improves the effect of Holy Judgment in the following ways: \n1) The increased DMG taken debuff lasts until the battle ends rather than 10s;\n2) When a target is chosen for the DMG taken debuff, enemies which do not have a similar debuff applied will be prioritized.",
+    "description": "Increases this ship's FP by $1.\nWhen this ship hits an enemy with her Secondary Guns, or when an Iris Libre or Vichya Dominion Vanguard ship in your fleet hits an enemy with her Main Guns: gains 1 stack of Divine Sanction; when 12 stacks are reached, improves the effect of Holy Judgment in the following ways:\n- The increased DMG taken debuff lasts until the battle ends rather than 10s;\n- When a target is chosen for the DMG taken debuff, enemies which do not have a similar debuff applied will be prioritized.",
     "opsi_description": null,
     "name": "Combat Protocol: Divine Sanction",
     "max": 10,
@@ -48311,7 +48311,7 @@
     ]
   },
   "150300": {
-    "description": "Increases this ship's AA by $1 and decreases her DMG taken by $1.\nWhen this ship fires her Main Guns, the following effects activate: \n1) 5s later, deploys a shield (lasts 2s) around your frontmost Vanguard ship that can negate up to 3 enemy shells;\n2) When this shield is destroyed or when it expires: fires a $2 special shell (DMG is based on the skill's level);\n3) 1.5s after this shell is fired, redeploys the above shield around your frontmost Vanguard ship;\n4) The shield can be deployed up to 3 times in total; the number of times it can be redeployed resets when this ship fires her Main Guns.",
+    "description": "Increases this ship's AA by $1 and decreases her DMG taken by $1.\nWhen this ship fires her Main Guns, the following effects activate:\n- 5s later, deploys a shield (lasts 2s) around your frontmost Vanguard ship that can negate up to 3 enemy shells;\n- When this shield is destroyed or when it expires: fires a $2 special shell (DMG is based on the skill's level);\n- 1.5s after this shell is fired, redeploys the above shield around your frontmost Vanguard ship;\n- The shield can be deployed up to 3 times in total; the number of times it can be redeployed resets when this ship fires her Main Guns.",
     "opsi_description": null,
     "name": "Defensive Stance",
     "max": 10,
@@ -48650,7 +48650,7 @@
     ]
   },
   "150400": {
-    "description": "Every 10s: launches a $3 special airstrike (DMG is based on the skill's level). When this ship launches an airstrike, the following effects activate:\n1) Restores HP 3 times over 3 seconds; the first 2 restore the HP of the lowest current HP percentage ship in your Vanguard while the third restores the HP of a random ship in your Vanguard. The HP restored is an amount equal to $1 of Zuihou's max HP.\n2) Restores the HP of the ship with the lowest current HP percentage in your Main Fleet 3 times. This effect can only activate once every second and the HP restores is an amount equal to $2 of the target's max HP.",
+    "description": "Every 10s: launches a $3 special airstrike (DMG is based on the skill's level). When this ship launches an airstrike, the following effects activate:\n- Restores HP 3 times over 3 seconds; the first 2 restore the HP of the lowest current HP percentage ship in your Vanguard while the third restores the HP of a random ship in your Vanguard. The HP restored is an amount equal to $1 of Zuihou's max HP.\n- Restores the HP of the ship with the lowest current HP percentage in your Main Fleet 3 times. This effect can only activate once every second and the HP restores is an amount equal to $2 of the target's max HP.",
     "opsi_description": null,
     "name": "I'll Share My Luck With You, Chirp!",
     "max": 10,
@@ -50492,7 +50492,7 @@
     ]
   },
   "150880": {
-    "description": "Increases this ship's TRP by $1. Every 20s: 70.0% chance to fire a $2 special barrage (DMG is based on the skill's level; if there is another Dragon Empery ship in your fleet, the barrage's activation chance increases to 100.0%). When this barrage fires, selects 1 random enemy and applies 1 of the following debuffs to them, lasting 8s: 1) Decreases FP and TRP by 10.0%; 2) Decreases AA and EVA by 10.0%; 3) Inflicts a special Armor Break.",
+    "description": "Increases this ship's TRP by $1. Every 20s: 70.0% chance to fire a $2 special barrage (DMG is based on the skill's level; if there is another Dragon Empery ship in your fleet, the barrage's activation chance increases to 100.0%). When this barrage fires, selects 1 random enemy and applies 1 of the following debuffs to them, lasting 8s:\n- Decreases FP and TRP by 10.0%;\n- Decreases AA and EVA by 10.0%;\n- Inflicts a special Armor Break.",
     "opsi_description": null,
     "name": "Fu Po's \"Masterstroke\"",
     "max": 10,
@@ -52143,7 +52143,7 @@
     ]
   },
   "800590": {
-    "description": "Increases this ship's FP and TRP by $1. Every 20s, actives one of the following effects chosen at random: 1) This ship recovers 50 HP; 2) Increases this ship's AA by $2 for 20s.",
+    "description": "Increases this ship's FP and TRP by $1. Every 20s, actives one of the following effects chosen at random:\n- This ship recovers 50 HP;\n- Increases this ship's AA by $2 for 20s.",
     "opsi_description": null,
     "name": "Forbidden Knowledge",
     "max": 10,
@@ -54224,7 +54224,7 @@
     ]
   },
   "801220": {
-    "description": "Increases this ship's DMG dealt by $1 and decreases the loading time of her first airstrike by 20.0%. \nActivates one of the following 2 effects based on what weapon this ship has equipped in her Secondary Weapon slot: \n1) Main Gun: increases this weapon's Detection Range and Range and increases its efficiency by $2. Improves the special cannon barrage fired by the skill \"Keeper of the Grimoire.\" Every 10s: fires a $3 special cannon barrage (DMG is based on the skill's level).\n2): Dive Bomber: further decreases the loading time of this ship's first airstrike by $2. Improves the special airstrike fired by the skill \"Keeper of the Grimoire.\"",
+    "description": "Increases this ship's DMG dealt by $1 and decreases the loading time of her first airstrike by 20.0%.\nActivates one of the following 2 effects based on what weapon this ship has equipped in her Secondary Weapon slot:\n- Main Gun: increases this weapon's Detection Range and Range and increases its efficiency by $2. Improves the special cannon barrage fired by the skill \"Keeper of the Grimoire.\" Every 10s: fires a $3 special cannon barrage (DMG is based on the skill's level).\n- Dive Bomber: further decreases the loading time of this ship's first airstrike by $2. Improves the special airstrike fired by the skill \"Keeper of the Grimoire.\"",
     "opsi_description": null,
     "name": "Sacrament's Empowering Rite",
     "max": 10,
@@ -56805,7 +56805,7 @@
     ]
   },
   "1011000": {
-    "description": "Increases this ship's FP by $3. Every 20s: $1 chance to fire a $2 powerful barrage. 10s after the battle starts, and every 20s after that: fires a $2 arcing barrage; the activation chance for the next powerful barrage increases by 30.0% and its power is increased if any of the targets hit by the arcing barrage meets one of the following conditions: \n1) The target hit is a BB or a BC;\n2) The target hit is sunk within 3s;\nThe DMG of both these barrages is based on the skill's level.",
+    "description": "Increases this ship's FP by $3. Every 20s: $1 chance to fire a $2 powerful barrage. 10s after the battle starts, and every 20s after that: fires a $2 arcing barrage; the activation chance for the next powerful barrage increases by 30.0% and its power is increased if any of the targets hit by the arcing barrage meets one of the following conditions:\n- The target hit is a BB or a BC;\n- The target hit is sunk within 3s;\nThe DMG of both these barrages is based on the skill's level.",
     "opsi_description": null,
     "name": "Courageous Shelling+",
     "max": 10,
@@ -57074,7 +57074,7 @@
     ]
   },
   "1011490": {
-    "description": "When this ship fires her Main Guns: $1 chance to fire a frontal barrage (DMG and barrage pattern are based on the skill's level; this barrage is guaranteed to fire after this ship's first Main Gun volley); when this barrage fires, treats the fleet to a random handmade confection, applying 1 of the following 3 buffs for 8s and restoring $2 of all targets' max HP:\n1) Donuts: increases the FP, Crit Rate, and Crit DMG of this ship and a random ship in your Vanguard by $3;\n2) Mont Blancs: increases the FP and RLD of this ship and a random other ship in your Main Fleet by $3;\n3) Macarons: increases the FP and ACC of this ship and a random surface ship in your fleet by $3.",
+    "description": "When this ship fires her Main Guns: $1 chance to fire a frontal barrage (DMG and barrage pattern are based on the skill's level; this barrage is guaranteed to fire after this ship's first Main Gun volley); when this barrage fires, treats the fleet to a random handmade confection, applying 1 of the following 3 buffs for 8s and restoring $2 of all targets' max HP:\n- Donuts: increases the FP, Crit Rate, and Crit DMG of this ship and a random ship in your Vanguard by $3;\n- Mont Blancs: increases the FP and RLD of this ship and a random other ship in your Main Fleet by $3;\n- Macarons: increases the FP and ACC of this ship and a random surface ship in your fleet by $3.",
     "opsi_description": null,
     "name": "Frontal Fire+",
     "max": 10,
@@ -57437,7 +57437,7 @@
     ]
   },
   "1011900": {
-    "description": "When this ship launches an airstrike: 1) performs a scan, revealing the location of enemy SSs, decreasing their SPD by 40.0%, and increasing their DMG taken by 10.0% for $1s; 2) launches an additional airstrike consisting of Swordfishes armed with anti-sub and anti-surface torpedoes (DMG is based on the skill's level).",
+    "description": "When this ship launches an airstrike:\n- performs a scan, revealing the location of enemy SSs, decreasing their SPD by 40.0%, and increasing their DMG taken by 10.0% for $1s;\n- launches an additional airstrike consisting of Swordfishes armed with anti-sub and anti-surface torpedoes (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Protector of the North Passage+",
     "max": 10,
@@ -59020,7 +59020,7 @@
     ]
   },
   "1090120": {
-    "description": "Increases this ship's AP DMG by $1. If this ship has an AP Main Gun equipped: 1) increases this ship's Crit Rate by $2; 2) increases the {Main Gun Ammo Modifier against all armor types|Game incorrectly states Main Gun damage.} by $3; 3) improves this ship's All Out Assault.",
+    "description": "Increases this ship's AP DMG by $1. If this ship has an AP Main Gun equipped:\n- increases this ship's Crit Rate by $2;\n- increases the {Main Gun Ammo Modifier against all armor types|Game incorrectly states Main Gun damage.} by $3;\n- improves this ship's All Out Assault.",
     "opsi_description": null,
     "name": "Piercing Shells - Z46",
     "max": 10,
