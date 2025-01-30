@@ -1487,7 +1487,42 @@
             "text": "[Goodies]",
             "user": 51901,
             "type": 3,
-            "options": []
+            "options": [],
+            "goodies": [
+              {
+                "to": 254,
+                "id": 59001,
+                "type": 0,
+                "linkable": true,
+                "rarity": 2,
+                "amount": 46,
+                "blueprint": false,
+                "icon": "props/gold",
+                "name": "Coins"
+              },
+              {
+                "to": 0,
+                "id": 59001,
+                "type": 0,
+                "linkable": true,
+                "rarity": 2,
+                "amount": 648,
+                "blueprint": false,
+                "icon": "props/gold",
+                "name": "Coins"
+              },
+              {
+                "to": 253,
+                "id": 59001,
+                "type": 0,
+                "linkable": true,
+                "rarity": 2,
+                "amount": 300,
+                "blueprint": false,
+                "icon": "props/gold",
+                "name": "Coins"
+              }
+            ]
           },
           {
             "choosen_option": 0,
@@ -1617,7 +1652,53 @@
             "text": "[Goodies]",
             "user": 59901,
             "type": 3,
-            "options": []
+            "options": [],
+            "goodies": [
+              {
+                "to": 254,
+                "id": 59001,
+                "type": 0,
+                "linkable": true,
+                "rarity": 2,
+                "amount": 15,
+                "blueprint": false,
+                "icon": "props/gold",
+                "name": "Coins"
+              },
+              {
+                "to": 0,
+                "id": 59001,
+                "type": 0,
+                "linkable": true,
+                "rarity": 2,
+                "amount": 233,
+                "blueprint": false,
+                "icon": "props/gold",
+                "name": "Coins"
+              },
+              {
+                "to": 625,
+                "id": 59001,
+                "type": 0,
+                "linkable": true,
+                "rarity": 2,
+                "amount": 320,
+                "blueprint": false,
+                "icon": "props/gold",
+                "name": "Coins"
+              },
+              {
+                "to": 256,
+                "id": 59001,
+                "type": 0,
+                "linkable": true,
+                "rarity": 2,
+                "amount": 100,
+                "blueprint": false,
+                "icon": "props/gold",
+                "name": "Coins"
+              }
+            ]
           },
           {
             "choosen_option": 0,
@@ -1721,7 +1802,42 @@
             "text": "[Goodies]",
             "user": 50108,
             "type": 3,
-            "options": []
+            "options": [],
+            "goodies": [
+              {
+                "to": 254,
+                "id": 59001,
+                "type": 0,
+                "linkable": true,
+                "rarity": 2,
+                "amount": 6,
+                "blueprint": false,
+                "icon": "props/gold",
+                "name": "Coins"
+              },
+              {
+                "to": 0,
+                "id": 59001,
+                "type": 0,
+                "linkable": true,
+                "rarity": 2,
+                "amount": 88,
+                "blueprint": false,
+                "icon": "props/gold",
+                "name": "Coins"
+              },
+              {
+                "to": 579,
+                "id": 59001,
+                "type": 0,
+                "linkable": true,
+                "rarity": 2,
+                "amount": 426,
+                "blueprint": false,
+                "icon": "props/gold",
+                "name": "Coins"
+              }
+            ]
           },
           {
             "choosen_option": 0,
@@ -1818,7 +1934,20 @@
             "text": "[Goodies]",
             "user": 50602,
             "type": 3,
-            "options": []
+            "options": [],
+            "goodies": [
+              {
+                "to": 0,
+                "id": 59001,
+                "type": 0,
+                "linkable": true,
+                "rarity": 2,
+                "amount": 888,
+                "blueprint": false,
+                "icon": "props/gold",
+                "name": "Coins"
+              }
+            ]
           },
           {
             "choosen_option": 0,
