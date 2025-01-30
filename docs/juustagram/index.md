@@ -63,6 +63,15 @@ Represents a message in a topic. Provides the following properties:
 |      **text**      |            `string`            |                              The text of the message or the emote ID if the `type` is `4`.                              |
 |    **options**     |  [`ChatReply[]`](#chat-reply)  |                                         Possible replies the user can initiate.                                         |
 |      **type**      | [`MessageType`](#message-type) |                                                    The message type                                                     |
+|    **goodies?**    | [`ChatReward[]`](#chat-reward) |                                            **(Optional)** Attached rewards.                                             |
+
+# Chat Reward
+
+Represents an attached reward on a message extends [`ItemDrop`](../common.md#item-drop) and additionally provides:
+
+| Property |   Type   |                  Description                  |
+| :------: | :------: | :-------------------------------------------: |
+|  **to**  | `number` | The receipient of the reward (juuprofile id). |
 
 
 ## Chat Reply

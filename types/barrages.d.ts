@@ -30,4 +30,5 @@ interface BarragePart {
     buffs?: string[]
     buff_chance?: number
     notes: string[]
+    is_air?: boolean
 }

@@ -1,3 +1,5 @@
+import { type ItemDrop } from './items'
+
 export interface JuuProfile {
     id: number
     name: string
@@ -34,6 +36,11 @@ export interface ChatMessage {
     user: number
     options: ChatReply[]
     type: MessageType
+    goodies?: ChatReward[]
+}
+
+export interface ChatReward extends ItemDrop {
+    to: number
 }
 
 export interface ChatReply {
