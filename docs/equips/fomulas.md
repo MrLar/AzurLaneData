@@ -125,6 +125,12 @@ The reload of AA guns is determined by the average reload of all AA guns with th
 
 \* Short Range vs Long Range
 
+<sub>
+  Absolute cooldown is much more complicated than just being a single number
+  due to how the game checks when to fire AA guns, however 0.7667s gives a rough
+  estimate in most cases.
+</sub>
+
 ## Damage
 
 The damage of AA Guns of all AA guns with the same AA gun type\* is combined into a single burst (including ghost AA guns):
