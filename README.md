@@ -36,6 +36,14 @@ from the game assets of Azur Lane and the 3 entities named above therefore reser
 down this project
 at any time.
 
+# Barrages
+
+Data for barrages before Feburary 2025 is *partially* based on data from previous mining done by Riceist. Said
+data can be found [here](https://azurlane.koumakan.jp/wiki/User:Riceist/BarrageDatamine).
+
+The data found here provides additional info, corrects some oddities and maps barrages by skill ids rather
+than ships. Descriptions (especially buff descriptions) have mostly been altered.
+
 # License
 
 This data is provided under the [MIT license](LICENSE.md). However, on top of following the license

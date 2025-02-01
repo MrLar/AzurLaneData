@@ -69,7 +69,7 @@ AAModifier is increased by \\(0.1\\).
 
 ## Buffs
 
-Start wirth \\(AfterMod\\) and:
+Start with \\(AfterMod\\) and:
 
 - Compute all DamageRatioBullet buffs (\\(TotalDRB\\)):
     - These are additive.
@@ -105,45 +105,50 @@ Start wirth \\(AfterMod\\) and:
 
 ## Accounting for all bullets and mounts
 
-Assuming all shots/bullets/mounts/etc. are affected by the same buffs:
+Assuming all shots/bullets/mounts/etc. are affected by the same buffs, have the same RNG and everything:
  - Simply multiply the above result by the [\\(base\\) of the slot](../ships/index.md#ship-slot-data),
 the \\(count\\) of the weapon and the [\\(parallel\\) of the slot](../ships/index.md#ship-slot-data). If
 you are calculating the damage of an interceptive plane launch use \\(intercept_count\\) instead.
 
-In the event that they are not, simply go through the same calculation for each
+In the event that they are not identical (they usually aren't), simply go through the same calculation for each
 shots/bullets/mounts/etc. individually.
 
 # Anti-Air Mechanics
 
 ## Reload
 
-The reload of AA guns is determined by the average reload of all AA guns with the same type (including ghost AA guns):
+The reload of AA guns is determined by the average reload of all AA guns with the same AA gun type\* (including ghost AA guns):
 
 - Sum up the individual AA gun reload. Calculated the same way as any other equipment.
 - Divide the result by the number of total AA guns (sum of all slot bases)
-- Pad the value by \\(0.8667s\\) (absolute cooldown).
+- Pad the value by \\(0.7667s\\) (absolute cooldown).
+
+\* Short Range vs Long Range
 
 ## Damage
 
-The damage of AA Guns is combined into a single burst (including ghost AA guns):
+The damage of AA Guns of all AA guns with the same AA gun type\* is combined into a single burst (including ghost AA guns):
 
-- For ship (\\(level\\) refers to the enhance level):
-    - Of the equipping ship: Compute
+- For each ship (\\(level\\) refers to the enhance level):
+    - Compute
       the [final aa stat value](../ships/index.md#computing-final-stats) of the
-      stat (\\(FinalShipStat\\))
+      ship (\\(FinalShipStat\\))
     - Multiply \\(FinalShipStat\\) by \\(ratio\\) (\\(AdjustedShipStat\\))
     - Divide \\(AdjustedShipStat\\) by 100 (\\(WeaponScalar\\))
-    - Then for each equip compute the
+    - Then for each aa equip of the same AA gun type\* compute the
       following: \\(IndividualEquipDmg = damage_{level} \times coefficient_{level} \times efficiency \times (1 + WeaponScalar) \times base\\)
       - \\(base\\) refers to the [`base` of the slot](../ships/index.md#ship-slot-data)
       - Efficiency refers to the [`efficiency` of the slot](../ships/index.md#ship-slot-data)
-    - Calculate the sum of all equips of a ship as \\(IndividualShipDmg = \sum{IndividualEquipDmg}\\)
+    - Calculate the sum of all \\(IndividualEquipDmg\\) \\(IndividualShipDmg = \sum{IndividualEquipDmg}\\)
 - Calculate the sum of ships \\(\sum IndividualShipDmg\\) and the result is the final damage.
 
 To note:
 
 - AA Guns are not affected by any buffs.
 - Ratio of all AA guns is usually 1.
+
+
+\* Short Range vs Long Range
 
 # Absolute Cooldown
 
@@ -156,11 +161,13 @@ Explained in the respective sections.
 
 ## Guns
 
-These are the theorized values for each gun type:
+These are the theorized/averaged values for each gun type:
 
 - DD, CL, CA, CB guns: Roughly \\(0.3s\\)
 - BB Guns: Roughly \\(0.2s\\)
 - All other: Assumed to be \\(0s\\)
+
+In reality absolute cooldown is much more complicated and may vary.
 
 
 # Volley Time
