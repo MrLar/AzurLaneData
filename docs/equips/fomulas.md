@@ -111,7 +111,7 @@ the \\(count\\) of the weapon and the [\\(parallel\\) of the slot](../ships/inde
 you are calculating the damage of an interceptive plane launch use \\(intercept_count\\) instead.
 
 In the event that they are not identical (they usually aren't), simply go through the same calculation for each
-shots/bullets/mounts/etc. individually.
+shot/bullet/mount/etc. individually.
 
 # Anti-Air Mechanics
 
@@ -139,7 +139,7 @@ The damage of AA Guns of all AA guns with the same AA gun type\* is combined int
       following: \\(IndividualEquipDmg = damage_{level} \times coefficient_{level} \times efficiency \times (1 + WeaponScalar) \times base\\)
       - \\(base\\) refers to the [`base` of the slot](../ships/index.md#ship-slot-data)
       - Efficiency refers to the [`efficiency` of the slot](../ships/index.md#ship-slot-data)
-    - Calculate the sum of all \\(IndividualEquipDmg\\) \\(IndividualShipDmg = \sum{IndividualEquipDmg}\\)
+    - Calculate the sum of all \\(IndividualEquipDmg\\) as \\(IndividualShipDmg = \sum{IndividualEquipDmg}\\)
 - Calculate the sum of ships \\(\sum IndividualShipDmg\\) and the result is the final damage.
 
 To note:
