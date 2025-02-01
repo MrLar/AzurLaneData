@@ -36,7 +36,7 @@ from the game assets of Azur Lane and the 3 entities named above therefore reser
 down this project
 at any time.
 
-# Barrages
+## Barrages
 
 Data for barrages before Feburary 2025 is *partially* based on data from previous mining done by Riceist. Said
 data can be found [here](https://azurlane.koumakan.jp/wiki/User:Riceist/BarrageDatamine).
