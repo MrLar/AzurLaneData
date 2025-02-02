@@ -1038,7 +1038,7 @@
     ]
   },
   "3011": {
-    "description": "When this ship launches an Airstrike: $1 chance {to increase this ship's damage dealt by 100% for 10s|Game incorrectly states that the airstrike deals double damage, correcting this a bit pedantic but it technically does mean other things fired by the ship also deal more damage.}.",
+    "description": "When this ship launches an Airstrike: $1 chance {to increase this ship's damage dealt by 100% for 10s|Game incorrectly states that the airstrike deals double damage, correcting this a bit pedantic because planes snapshot buffs on launch, but it technically does mean other things fired by the ship also deal more damage.}.",
     "opsi_description": null,
     "name": "Assault Carrier",
     "max": 10,
@@ -3538,7 +3538,7 @@
     ]
   },
   "10200": {
-    "description": "When this ship launches an Airstrike: $1 chance for the Airstrike to deal double DMG and for this ship to evade all enemy attacks for 8s.",
+    "description": "When this ship launches an Airstrike: $1 chance {to increase this ship's damage dealt by 100% for 8s|Game incorrectly states that the airstrike deals double damage, correcting this a bit pedantic because planes snapshot buffs on launch, but it technically does mean other things fired by the ship also deal more damage.} and for this ship to evade all enemy attacks for 8s.",
     "opsi_description": null,
     "name": "Lucky E",
     "max": 10,

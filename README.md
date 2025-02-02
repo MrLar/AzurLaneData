@@ -28,7 +28,7 @@ You can find your way around the JSON files using the [documentation](https://az
 ## Azur Lane
 
 Azur Lane and all related
-copyrights/assets used on this in this repository and its files
+copyrights/assets used in this repository and its files
 are the property of Manjuu, Xiamen Yongshi and Yostar Inc. respectively.
 
 All data provided by the JSON files are derived directly
@@ -38,7 +38,7 @@ at any time.
 
 ## Barrages
 
-Data for barrages before Feburary 2025 is *partially* based on data from previous mining done by Riceist. Said
+Data for barrages before Feburary 2025 is *partially* derived from previous mining done by Riceist. The original
 data can be found [here](https://azurlane.koumakan.jp/wiki/User:Riceist/BarrageDatamine).
 
 The data found here provides additional info, corrects some oddities and maps barrages by skill ids rather
