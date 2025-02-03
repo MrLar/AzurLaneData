@@ -12894,7 +12894,7 @@
     ]
   },
   "13290": {
-    "description": "Increases this ship's DMG against Royal Navy ships by $1. When this ship is Burned: increases its FP, TRP, AA, and EVA by $2 for as long as it is Burning. This ship will catch fire at the start of the battle, taking 8 DMG every 3s for 30s; all non-Burn DMG has a 10.0% chance to refresh this Burn duration.",
+    "description": "Increase own damage dealt to Royal Navy ships by $1. Upon entering battle, inflict a special burn on self that lasts for 30s. It has the following properties:\n• The special burn deals 8 damage to this ship every 3s.\n• When hit, 10% chance to refresh the special burn's duration, or re-ignite it if inactive.\n• While the special burn is active, increase this ship's Firepower, Torpedo, Anti-Air, and Evasion stats by $2\n• The special burn lasts 30s if not re-applied and can be re-applied after it expires\n• The special burn does not interact with anything that would affect normal burns.",
     "opsi_description": null,
     "name": "La Pucelle",
     "max": 10,
