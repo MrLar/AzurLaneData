@@ -22689,6 +22689,97 @@
       ]
     }
   ],
+  "17610": [
+    {
+      "name": "Sublimation, to Sunder All Storms (crossfleet)",
+      "parts": [
+        {
+          "damage": 300,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.4,
+            1.1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Priority",
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 0,
+          "angle": 16,
+          "splash": 35,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Slow by 40% for 6s",
+            "Attach \"Slowed by Northern Parliament\" tag for 6s",
+            "Increase damage taken by 8% for 6s",
+            "Increase crit rate of attack by 10% if attacker is Sovetsky Soyuz"
+          ],
+          "buff_chance": 1
+        },
+        {
+          "damage": 200,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.4,
+            1.1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Same",
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 0,
+          "angle": 16,
+          "splash": 30,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Slow by 40% for 6s",
+            "Attach \"Slowed by Northern Parliament\" tag for 6s",
+            "Increase damage taken by 8% for 6s",
+            "Increase crit rate of attack by 10% if attacker is Sovetsky Soyuz"
+          ],
+          "buff_chance": 1
+        }
+      ]
+    }
+  ],
   "17630": [
     {
       "name": "Firepower Overload!",
@@ -54894,6 +54985,84 @@
       ]
     }
   ],
+  "150680": [
+    {
+      "name": "Soaring Heart",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 36,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": true,
+          "targeting": "Normal",
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 10,
+          "pierce": 0,
+          "shell_range": [
+            25,
+            25
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 36,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "reaim": true,
+          "targeting": "Normal",
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 0,
+          "shell_range": [
+            100,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
   "150710": [
     {
       "name": "Ornithopter Counterattack (Summon)",
@@ -55707,7 +55876,47 @@
             0
           ],
           "buffs": [
-            "Special Burn (102 DMG with 1 tick every second for 15s, ID: 150875)"
+            "Special Burn (coeff=0, dmg=102, 15s, FP, 1t/1s, ID: 150875)"
+          ],
+          "buff_chance": 1
+        },
+        {
+          "damage": 25,
+          "coefficient": 1,
+          "count": 32,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "targeting": "Normal",
+          "reaim": true,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            100,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Special Burn (coeff=0, dmg=102, 15s, FP, 1t/1s, ID: 150875)"
           ],
           "buff_chance": 1
         }
@@ -61500,6 +61709,129 @@
             "Attach Coiling Flames status to enemy"
           ],
           "buff_chance": 1
+        }
+      ]
+    }
+  ],
+  "801570": [
+    {
+      "name": "Flame and Fulminance",
+      "parts": [
+        {
+          "damage": 140,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.95,
+            0.7
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "targeting": "Normal",
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 8,
+          "pierce": 3,
+          "shell_range": [
+            140,
+            160
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Special Burn (50 DMG with 1 tick every 1.5s for 8s, ID: 801573)"
+          ],
+          "buff_chance": 1
+        }
+      ]
+    }
+  ],
+  "801592": [
+    {
+      "name": "Cinders of Hope - Bolzano",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.65,
+            1.25,
+            0.65
+          ],
+          "ammo": 7,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": true,
+          "targeting": "Normal",
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            1,
+            1
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 20,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.65,
+            1.25,
+            0.65
+          ],
+          "ammo": 7,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Normal",
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            70,
+            90
+          ],
+          "spread": [
+            0,
+            0
+          ]
         }
       ]
     }
