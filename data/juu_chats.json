@@ -16590,6 +16590,826 @@
     "icon": "fubo",
     "type": 1
   },
+  "50209": {
+    "id": 50209,
+    "name": "Chi An",
+    "topics": [
+      {
+        "id": 72,
+        "name": "Trouble on My Mind",
+        "unlock": {
+          "type": 1,
+          "ship_id": 622
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 2509,
+            "text": "Commander, I was just passing by and I saw you in a daze.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2510,
+            "text": "Your brow was furrowed and your eyes were wandering... I've seldom seen you like that before.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2511,
+            "text": "What is troubling you, our wise Commander? Could you share it with me?",
+            "user": 50209,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "I forgot…"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 2512,
+            "text": "I forgot. It probably wasn't that important.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 2513,
+            "text": "By the way, you don't have to speak so formally over FleetChat.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 2514,
+            "text": "Formally? Ah, you mean my writing style.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 2515,
+            "text": "We may be chatting via text, but I still feel like I should be serious when talking to you, so I started writing like this without really thinking about it. You don't mind, do you?",
+            "user": 50209,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Of course not."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 2516,
+            "text": "Of course not.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 2517,
+            "text": "It's no big deal one way or the other. You might even argue this way has more personality.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 2518,
+            "text": "That's a relief to hear. I'll continue writing like this then, if you don't mind.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 2519,
+            "text": "Anyway, as I was going to say: I keep an eye on everything related to you.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 2520,
+            "text": "If you ever want to talk, whether it's about something happy or troubling, you're always free to come speak to me.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 2521,
+            "text": "I'll be there for you and listen to every word you have to say.",
+            "user": 50209,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "If nothing's bothering me…"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 2522,
+            "text": "Can I still talk to you even when nothing's bothering me?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2523,
+            "text": "line_part2_34",
+            "user": 50209,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2524,
+            "text": "Of course! You can always chat with me anytime you want.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2525,
+            "text": "In fact, I would love nothing more than if you lived every day without any woes.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2526,
+            "text": "If you're free of troubles right now, would you mind hearing out one of mine?",
+            "user": 50209,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "There's something troubling you?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 2527,
+            "text": "There's something troubling you?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2528,
+            "text": "Don't tell me you were barred from entering the kitchen again...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2529,
+            "text": "ruyue",
+            "user": 50209,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2530,
+            "text": "I was, yes... but that's not the thing I wanted to tell you about!",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2531,
+            "text": "No, this trouble of mine is something much simpler, which is to say...",
+            "user": 50209,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "Which is to say...?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 2532,
+            "text": "Which is to say...?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 2533,
+            "text": "The fact that you and I have had so little time to spend together lately...",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 2534,
+            "text": "I can't fault you for being busy with your job, but... people naturally are a little selfish. I'm no exception.",
+            "user": 50209,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "There's an easy solution to your problem."
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 2535,
+            "text": "There's an easy solution to your problem.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 2536,
+            "text": "Can we meet? Like, right now? I just finished work and have some time.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 2537,
+            "text": "Really? Do you mean it?",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 2538,
+            "text": "Wonderful! Then I'll head to your office at once.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "name": "To the Kitchen",
+        "unlock": {
+          "type": 2,
+          "ship_id": 622,
+          "affinity": 100
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 2539,
+            "text": "27",
+            "user": 50209,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "What's the matter?"
+              },
+              {
+                "option_id": 2,
+                "text": "[！？]"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 2540,
+            "text": "What's the matter?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 2541,
+            "text": "25",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2542,
+            "text": "I saw a notice when I passed by the kitchen...",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2543,
+            "text": "It said, \"If you see Chi An trying to enter the kitchen, stop her\"...",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2544,
+            "text": "I fired up the stove last week while cooking and accidentally caused an explosion inside the kitchen, that's all...",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2545,
+            "text": "Isn't that cruel? I even helped rebuild it after the fact!",
+            "user": 50209,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "So that explosion was you…"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 2546,
+            "text": "So that explosion I heard last week was you blowing up the kitchen...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2547,
+            "text": "Hang on, you say you \"fired up the stove\"... Do you mean literally? As in you shot it with your cannons?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2548,
+            "text": "32",
+            "user": 50209,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2549,
+            "text": "Don't you know that cooking requires creativity and a brave spirit? So I took a brave, creative approach!",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2550,
+            "text": "Plus, I take notes on the things I've learned!",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2551,
+            "text": "You have to be careful when lighting a fire. You also shouldn't go for speed and aim directly at the stove.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2552,
+            "text": "Learning from your mistakes is one way toward proficiency.",
+            "user": 50209,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Making mistakes is one thing…"
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 2553,
+            "text": "Making mistakes is one thing, but you need to be careful.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2554,
+            "text": "We can rebuild a kitchen, but we can't rebuild people.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2555,
+            "text": "Aww, you're so considerate, Commander.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2556,
+            "text": "In truth, I know more or less what level my cooking ability is at...",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2557,
+            "text": "I try and try to improve, but I'm not making the kind of progress I'd like to.",
+            "user": 50209,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "Do you want my help?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 2558,
+            "text": "Do you want my help?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 2559,
+            "text": "I know a thing or two about cooking.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 2560,
+            "text": "You'd do that? Yes, please!",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 2561,
+            "text": "With your assistance, I'm confident I'll be able to clear my name!",
+            "user": 50209,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "Alright. We'll cook and eat something together."
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 2562,
+            "text": "Alright. We'll cook and eat something together.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 2563,
+            "text": "line_part2_2",
+            "user": 50209,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 2564,
+            "text": "I just said I'm confident, but just in case...",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 2565,
+            "text": "I repeat: just in case something tastes a little off, I hope you'll...",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 2566,
+            "text": "...",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 2567,
+            "text": "On second thought, never mind. It should be fine.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 2568,
+            "text": "I have a plan B ready if the need arises.",
+            "user": 50209,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 7,
+                "text": "What's plan B?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 7,
+            "id": 2569,
+            "text": "What's plan B?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 2570,
+            "text": "That's a secret! I can give you a hint, though.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 2571,
+            "text": "It's something special and even TASTIER!",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "name": "It's the Little Things",
+        "unlock": {
+          "type": 2,
+          "ship_id": 622,
+          "affinity": 150
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 2572,
+            "text": "You know those small things that aren't much on their own, but make you really happy?",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2573,
+            "text": "Like for instance, saying good night to someone you love before bed, or giving them a hug when you part ways.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 2574,
+            "text": "It's like that saying: \"It's the little things.\"",
+            "user": 50209,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "What brings that up all of a sudden?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 2575,
+            "text": "What brings that up all of a sudden? Are you looking to enjoy the little pleasures of life?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 2576,
+            "text": "imsgSticke_tirpitz",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 2577,
+            "text": "Ah, you figured me out at once.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 2578,
+            "text": "Yes. I mean, those little things are another way to show someone how much they mean to you.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 2579,
+            "text": "Even the smallest gesture can be precious if you put your feelings into it.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 2580,
+            "text": "To get to the point, I want there to be something small but special between just us two. To express our affection.",
+            "user": 50209,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Something small but special?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 2581,
+            "text": "Something small but special? Could you give me an example?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 2582,
+            "text": "How about cute nicknames for each other? Or maybe a goodnight kissヾ(･ε･｀*)?",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 2583,
+            "text": "It's just something I recently thought of. I don't have anything specific in mind yet.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 2584,
+            "text": "That's why I'm hoping we can find those special things together. Something that suits us perfectly.",
+            "user": 50209,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "Ah, I see…"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 2585,
+            "text": "Ah, I see. You're looking for a small ritual that would hold special meaning for us, right?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2586,
+            "text": "Sort of... but not necessarily.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2587,
+            "text": "You know what? Allow me to come up with something!",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2588,
+            "text": "It was my idea, so I think I should take the initiative here.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 2589,
+            "text": "That is, assuming you're okay with this, of course. Will you indulge my little wish?",
+            "user": 50209,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Of course…"
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 2590,
+            "text": "Of course. I'm on board with anything you wish for.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2591,
+            "text": "Out of curiosity, when are you going to start looking for that little special thing just for us?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2592,
+            "text": "Why, starting from this very moment, of course! Please wait for me in your office.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2593,
+            "text": "I'll think long and hard about it on my way over as well.",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2594,
+            "text": "Yes, long and hard...",
+            "user": 50209,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 2595,
+            "text": "part2_brcr",
+            "user": 50209,
+            "type": 4,
+            "options": []
+          }
+        ]
+      }
+    ],
+    "icon": "jian",
+    "type": 1
+  },
   "50210": {
     "id": 50210,
     "name": "Hai Yung",

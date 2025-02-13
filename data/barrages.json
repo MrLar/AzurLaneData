@@ -6825,7 +6825,7 @@
             42
           ],
           "buffs": [
-            "Standard Armor Break (5% for 6s, ID: 401) if BB/BC/BBV"
+            "Standard Armor Break (8% for 6s, ID: 401) if BB/BC/BBV"
           ],
           "buff_chance": 1
         },
@@ -6865,7 +6865,7 @@
             36
           ],
           "buffs": [
-            "Standard Armor Break (5% for 6s, ID: 401) if BB/BC/BBV"
+            "Standard Armor Break (8% for 6s, ID: 401) if BB/BC/BBV"
           ],
           "buff_chance": 1
         }
@@ -7993,7 +7993,7 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "targeting": "None",
+          "targeting": "Normal",
           "range": [
             0,
             50
@@ -8028,7 +8028,7 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "targeting": "None",
+          "targeting": "Normal",
           "range": [
             0,
             50
@@ -8116,7 +8116,7 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "targeting": "None",
+          "targeting": "Normal",
           "range": [
             0,
             90
@@ -8155,7 +8155,7 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "targeting": "None",
+          "targeting": "Normal",
           "range": [
             0,
             90
@@ -8484,7 +8484,7 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "targeting": "None",
+          "targeting": "Normal",
           "range": [
             0,
             90
@@ -8596,7 +8596,7 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "targeting": "None",
+          "targeting": "Normal",
           "range": [
             0,
             90
@@ -8631,7 +8631,7 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "targeting": "None",
+          "targeting": "Normal",
           "range": [
             0,
             90
@@ -8749,7 +8749,7 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "targeting": "None",
+          "targeting": "Normal",
           "range": [
             0,
             120
@@ -14809,7 +14809,7 @@
           ],
           "shrapnel": true,
           "ignore_shield": true,
-          "targeting": "None",
+          "targeting": "Normal",
           "range": [
             0,
             120
@@ -17138,7 +17138,7 @@
             0
           ],
           "buffs": [
-            "Standard Armor Break (5% for 6s, ID: 401) if DD/CL/DDG"
+            "Standard Armor Break (8% for 6s, ID: 401) if DD/CL/DDG"
           ],
           "buff_chance": 1
         }
@@ -45002,7 +45002,7 @@
             9
           ],
           "buffs": [
-            "Standard Armor Break (5% for 6s, ID: 401) if Heavy Armor"
+            "Standard Armor Break (8% for 6s, ID: 401) if Heavy Armor"
           ],
           "buff_chance": 0.2
         }
@@ -45152,7 +45152,7 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "targeting": "None",
+          "targeting": "Normal",
           "range": [
             0,
             90
@@ -45549,7 +45549,7 @@
             9
           ],
           "buffs": [
-            "Standard Armor Break (5% for 6s, ID: 401) if Heavy Armor"
+            "Standard Armor Break (8% for 6s, ID: 401) if Heavy Armor"
           ],
           "buff_chance": 0.2
         }
@@ -46859,7 +46859,7 @@
             0
           ],
           "buffs": [
-            "Standard Armor Break (5% for 6s, ID: 401) if Heavy Armor"
+            "Standard Armor Break (8% for 6s, ID: 401) if Heavy Armor"
           ],
           "buff_chance": 1
         }
@@ -47545,7 +47545,7 @@
             0
           ],
           "buffs": [
-            "Standard Armor Break (5% for 6s, ID: 401) if Heavy Armor"
+            "Standard Armor Break (8% for 6s, ID: 401) if Heavy Armor"
           ],
           "buff_chance": 1
         }
@@ -48149,7 +48149,7 @@
             0
           ],
           "buffs": [
-            "Standard Armor Break (5% for 6s, ID: 401) if Heavy Armor"
+            "Standard Armor Break (8% for 6s, ID: 401) if Heavy Armor"
           ],
           "buff_chance": 1
         }
@@ -66454,7 +66454,7 @@
             0
           ],
           "buffs": [
-            "Standard Armor Break (5% for 6s, ID: 401) if hit 4 times"
+            "Standard Armor Break (8% for 6s, ID: 401) if hit 4 times"
           ],
           "buff_chance": 1
         }
@@ -66774,7 +66774,7 @@
             19
           ],
           "buffs": [
-            "Standard Armor Break (5% for 6s, ID: 401) if Heavy Armor"
+            "Standard Armor Break (8% for 6s, ID: 401) if Heavy Armor"
           ],
           "buff_chance": 0.25
         }
@@ -66820,6 +66820,96 @@
             0,
             0
           ]
+        }
+      ]
+    }
+  ],
+  "1090380": [
+    {
+      "name": "Double Torpedo - Atago",
+      "parts": [
+        {
+          "damage": 180,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "is_air": false,
+          "targeting": "Priority",
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            160
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "1090390": [
+    {
+      "name": "Anti-Air Mode - Columbia",
+      "parts": [
+        {
+          "damage": 36,
+          "coefficient": 1,
+          "count": 32,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "is_air": false,
+          "targeting": "Normal",
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 1,
+          "pierce": 0,
+          "shell_range": [
+            70,
+            90
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Standard Armor Break (8% for 6s, ID: 401) if hit 4 times"
+          ],
+          "buff_chance": 1
         }
       ]
     }

@@ -7051,6 +7051,24 @@
     "dynamic_bg": false,
     "dual_form": false
   },
+  "201372": {
+    "id": 201372,
+    "name": "The Modern-Day Clumsy Maid Escapade",
+    "type": 0,
+    "category": 17,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "nubiyaren_3",
+    "bg": "166",
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "202019": {
     "id": 202019,
     "name": "Leander (Retrofit)",
@@ -13865,6 +13883,28 @@
     "dynamic_bg": true,
     "dual_form": false
   },
+  "301834": {
+    "id": 301834,
+    "name": "Heartmelting Warmth",
+    "type": 0,
+    "category": 9,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "changbo_5",
+    "bg": "109",
+    "obtain_type": 0,
+    "price": 780,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "301838": {
     "id": 301838,
     "name": "Waves of Eternal Love",
@@ -15134,7 +15174,7 @@
     "obtain_type": 0,
     "price": 780,
     "currency": 59005,
-    "is_permanent": false,
+    "is_permanent": true,
     "l2d": false,
     "dynamic": false,
     "custom_bgm": false,
@@ -21008,7 +21048,7 @@
     "obtain_type": 0,
     "price": 1080,
     "currency": 59005,
-    "is_permanent": false,
+    "is_permanent": true,
     "l2d": true,
     "dynamic": false,
     "custom_bgm": false,
@@ -24898,7 +24938,7 @@
     "obtain_type": 0,
     "price": 780,
     "currency": 59005,
-    "is_permanent": false,
+    "is_permanent": true,
     "l2d": false,
     "dynamic": false,
     "custom_bgm": false,

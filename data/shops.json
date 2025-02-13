@@ -7840,21 +7840,6 @@
         "limit_group": 1,
         "group_limit": 4,
         "limit_type": 1
-      },
-      {
-        "id": 2013,
-        "type": 4,
-        "linkable": true,
-        "rarity": 4,
-        "amount": 1,
-        "blueprint": false,
-        "icon": "equips/96116",
-        "name": "Nebula Shell (Blue)",
-        "limit": 9,
-        "cost": 100,
-        "limit_group": 1,
-        "group_limit": 4,
-        "limit_type": 1
       }
     ],
     "currency": {
@@ -9726,7 +9711,7 @@
         "type": 0,
         "linkable": true,
         "rarity": 5,
-        "amount": 1,
+        "amount": 300,
         "blueprint": false,
         "icon": "props/15008",
         "name": "Cognitive Chips",
@@ -10055,7 +10040,7 @@
         "icon": "chargeicon/month",
         "limit": 0,
         "cost": 7.99,
-        "note": "Contains 500 gems upfront and 1 and 200 oil per day for 30 days"
+        "note": "Contains 500 gems upfront and 1 Wisdom Cube and 200 oil per day for 30 days"
       },
       {
         "id": 2,
