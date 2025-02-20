@@ -1072,7 +1072,19 @@
       "Core Data Exchange",
       "Opposite-Colored Rerun"
     ],
-    "lab_from": [],
+    "lab_from": [
+      4240
+    ],
+    "lab_to": [
+      4260
+    ]
+  },
+  "4260": {
+    "id": 4260,
+    "locations": [],
+    "lab_from": [
+      4260
+    ],
     "lab_to": []
   },
   "4300": {
@@ -2055,7 +2067,9 @@
     "lab_from": [
       16080
     ],
-    "lab_to": []
+    "lab_to": [
+      16480
+    ]
   },
   "16100": {
     "id": 16100,
@@ -2200,6 +2214,14 @@
     "locations": [],
     "lab_from": [
       16460
+    ],
+    "lab_to": []
+  },
+  "16480": {
+    "id": 16480,
+    "locations": [],
+    "lab_from": [
+      16480
     ],
     "lab_to": []
   },
@@ -2444,14 +2466,6 @@
     "lab_from": [],
     "lab_to": []
   },
-  "18160": {
-    "id": 18160,
-    "locations": [
-      "Cannot be equipped or obtained directly, replaces the TBD Devastator (VT-8 Squadron) after its first airstrike."
-    ],
-    "lab_from": [],
-    "lab_to": []
-  },
   "18100": {
     "id": 18100,
     "locations": [
@@ -2483,6 +2497,14 @@
       4340,
       18221
     ]
+  },
+  "18160": {
+    "id": 18160,
+    "locations": [
+      "Cannot be equipped or obtained directly, replaces the TBD Devastator (VT-8 Squadron) after its first airstrike."
+    ],
+    "lab_from": [],
+    "lab_to": []
   },
   "18180": {
     "id": 18180,
@@ -3629,7 +3651,8 @@
       28040
     ],
     "lab_to": [
-      28340
+      28340,
+      4240
     ]
   },
   "28060": {
@@ -5035,7 +5058,9 @@
     "lab_from": [
       38240
     ],
-    "lab_to": []
+    "lab_to": [
+      38300
+    ]
   },
   "38300": {
     "id": 38300,
@@ -5043,7 +5068,9 @@
       "Research (Series 4)",
       "Prototype Shop (Blueprints)"
     ],
-    "lab_from": [],
+    "lab_from": [
+      38300
+    ],
     "lab_to": []
   },
   "39000": {
@@ -5125,7 +5152,9 @@
     "lab_from": [
       39160
     ],
-    "lab_to": []
+    "lab_to": [
+      39340
+    ]
   },
   "39200": {
     "id": 39200,
@@ -5180,7 +5209,9 @@
       "Research (Series 4)",
       "Prototype Shop (50 Blueprints once)"
     ],
-    "lab_from": [],
+    "lab_from": [
+      39340
+    ],
     "lab_to": []
   },
   "41000": {
@@ -5561,7 +5592,8 @@
       44300
     ],
     "lab_to": [
-      44500
+      44500,
+      44400
     ]
   },
   "44400": {
@@ -5570,7 +5602,9 @@
       "Research (Series 4)",
       "Prototype Shop (Blueprints)"
     ],
-    "lab_from": [],
+    "lab_from": [
+      44400
+    ],
     "lab_to": []
   },
   "44500": {
@@ -5939,7 +5973,8 @@
     ],
     "lab_to": [
       47080,
-      47140
+      47140,
+      47160
     ]
   },
   "47060": {
@@ -5959,7 +5994,8 @@
       47080
     ],
     "lab_to": [
-      47180
+      47180,
+      47200
     ]
   },
   "47100": {
@@ -5997,7 +6033,9 @@
       "Research (Series 4)",
       "Prototype Shop (Blueprints)"
     ],
-    "lab_from": [],
+    "lab_from": [
+      47160
+    ],
     "lab_to": []
   },
   "47180": {
@@ -6005,6 +6043,14 @@
     "locations": [],
     "lab_from": [
       47180
+    ],
+    "lab_to": []
+  },
+  "47200": {
+    "id": 47200,
+    "locations": [],
+    "lab_from": [
+      47200
     ],
     "lab_to": []
   },
@@ -7066,8 +7112,12 @@
       "Empyreal Tragicomedy",
       "The Flame-Touched Dagger"
     ],
-    "lab_from": [],
-    "lab_to": []
+    "lab_from": [
+      95040
+    ],
+    "lab_to": [
+      95900
+    ]
   },
   "95100": {
     "id": 95100,
@@ -7090,8 +7140,12 @@
     "locations": [
       "Empyreal Tragicomedy"
     ],
-    "lab_from": [],
-    "lab_to": []
+    "lab_from": [
+      95140
+    ],
+    "lab_to": [
+      95160
+    ]
   },
   "95160": {
     "id": 95160,
@@ -7099,7 +7153,9 @@
       "Research (Series 4)",
       "Prototype Shop (Blueprints)"
     ],
-    "lab_from": [],
+    "lab_from": [
+      95160
+    ],
     "lab_to": []
   },
   "95200": {
@@ -7155,17 +7211,24 @@
       "The Flame-Touched Dagger",
       "Empyreal Tragicomedy"
     ],
-    "lab_from": [],
-    "lab_to": []
+    "lab_from": [
+      95440
+    ],
+    "lab_to": [
+      95960
+    ]
   },
   "95460": {
     "id": 95460,
     "locations": [
       "Stock equipment (Conte di Cavour-class)",
-      "Empyreal Tragicomedy"
+      "Empyreal Tragicomedy",
+      "Sardegna Empire Gear Development Pack"
     ],
     "lab_from": [],
-    "lab_to": []
+    "lab_to": [
+      95580
+    ]
   },
   "95480": {
     "id": 95480,
@@ -7173,7 +7236,9 @@
       "Stock equipment (Conte di Cavour-class)",
       "Empyreal Tragicomedy"
     ],
-    "lab_from": [],
+    "lab_from": [
+      95480
+    ],
     "lab_to": []
   },
   "95500": {
@@ -7197,8 +7262,12 @@
     "locations": [
       "Empyreal Tragicomedy"
     ],
-    "lab_from": [],
-    "lab_to": []
+    "lab_from": [
+      95540
+    ],
+    "lab_to": [
+      96200
+    ]
   },
   "95560": {
     "id": 95560,
@@ -7207,6 +7276,16 @@
     ],
     "lab_from": [],
     "lab_to": []
+  },
+  "95580": {
+    "id": 95580,
+    "locations": [],
+    "lab_from": [
+      95580
+    ],
+    "lab_to": [
+      95440
+    ]
   },
   "95600": {
     "id": 95600,
@@ -7292,7 +7371,9 @@
       "Research (Series 4)",
       "Prototype Shop (Blueprints)"
     ],
-    "lab_from": [],
+    "lab_from": [
+      95900
+    ],
     "lab_to": []
   },
   "95920": {
@@ -7316,7 +7397,9 @@
     "locations": [
       "Virtual Tower"
     ],
-    "lab_from": [],
+    "lab_from": [
+      95960
+    ],
     "lab_to": []
   },
   "96000": {
@@ -7352,6 +7435,56 @@
       "Prototype Shop (Blueprints)"
     ],
     "lab_from": [],
+    "lab_to": []
+  },
+  "96140": {
+    "id": 96140,
+    "locations": [
+      "Sardegna Empire Gear Development Pack"
+    ],
+    "lab_from": [],
+    "lab_to": [
+      95480,
+      96160
+    ]
+  },
+  "96160": {
+    "id": 96160,
+    "locations": [],
+    "lab_from": [
+      96160
+    ],
+    "lab_to": [
+      95040
+    ]
+  },
+  "96180": {
+    "id": 96180,
+    "locations": [
+      "Sardegna Empire Gear Development Pack"
+    ],
+    "lab_from": [],
+    "lab_to": [
+      95540,
+      96220
+    ]
+  },
+  "96200": {
+    "id": 96200,
+    "locations": [],
+    "lab_from": [
+      96200
+    ],
+    "lab_to": [
+      95140
+    ]
+  },
+  "96220": {
+    "id": 96220,
+    "locations": [],
+    "lab_from": [
+      96220
+    ],
     "lab_to": []
   },
   "150000": {
@@ -7578,6 +7711,14 @@
     "id": 150580,
     "locations": [
       "Fu Po's Flawless Plan"
+    ],
+    "lab_from": [],
+    "lab_to": []
+  },
+  "150620": {
+    "id": 150620,
+    "locations": [
+      "Path of the Choosen"
     ],
     "lab_from": [],
     "lab_to": []

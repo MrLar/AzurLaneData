@@ -767,6 +767,18 @@
         "cost": 900
       },
       {
+        "id": 30207,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30207",
+        "name": "Sardegna Empire Gear Development Pack",
+        "limit": 1,
+        "cost": 900
+      },
+      {
         "id": 20001,
         "type": 0,
         "linkable": true,
@@ -1757,6 +1769,18 @@
             "blueprint": false,
             "icon": "props/30205",
             "name": "Iris Orthodoxy Gear Development Pack",
+            "limit": 1,
+            "cost": 400
+          },
+          {
+            "id": 30207,
+            "type": 0,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/30207",
+            "name": "Sardegna Empire Gear Development Pack",
             "limit": 1,
             "cost": 400
           },
@@ -5926,6 +5950,18 @@
         "name": "Iris Orthodoxy Gear Development Pack",
         "cost": 15,
         "limit": 20
+      },
+      {
+        "id": 30207,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30207",
+        "name": "Sardegna Empire Gear Development Pack",
+        "limit": 15,
+        "cost": 20
       },
       {
         "id": 42060,

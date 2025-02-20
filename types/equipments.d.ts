@@ -34,6 +34,7 @@ export interface EquipmentData extends BaseEquipData<EquipmentType> {
     weapon: Weapon | Aircraft | null
     equippable_main: Hull[]
     equippable_sub: Hull[]
+    skill_levels?: number[][]
 }
 
 export interface ReloadableWeapon {
