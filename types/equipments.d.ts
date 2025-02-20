@@ -58,6 +58,7 @@ export interface ExtendedWeapon extends WeaponBase {
     spread: number[]
     range: number[]
     velocity: number
+    falloff?: number
     pierce: number
     angle: number
     shell_range: number[]
@@ -75,11 +76,17 @@ export interface Aircraft extends ReloadableWeapon {
     intercept_reload?: number[]
     intercept_count?: number
     speed: number
+    int_speed?: number
     hp: number[]
+    int_hp?: number[]
     hp_growth: number[]
+    int_hp_growth?: number[]
     dodge: number
+    int_dodge?: number
     dodge_limit: number
+    int_dodge_limit?: number
     crash_dmg: number
+    int_crash_dmg?: number
     aircraft: true
 }
 

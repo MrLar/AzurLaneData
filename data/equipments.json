@@ -10489,6 +10489,7 @@
         4
       ],
       "splash": 10,
+      "falloff": 0.5,
       "velocity": 3,
       "pierce": 0,
       "shell_range": [
@@ -10604,6 +10605,7 @@
         4
       ],
       "splash": 10,
+      "falloff": 0.5,
       "velocity": 3,
       "pierce": 0,
       "shell_range": [
@@ -10741,6 +10743,7 @@
         4
       ],
       "splash": 10,
+      "falloff": 0.5,
       "velocity": 3,
       "pierce": 0,
       "shell_range": [
@@ -10870,6 +10873,7 @@
         4
       ],
       "splash": 10,
+      "falloff": 0.5,
       "velocity": 3,
       "pierce": 0,
       "shell_range": [
@@ -11004,6 +11008,7 @@
         4
       ],
       "splash": 10,
+      "falloff": 0.5,
       "velocity": 3,
       "pierce": 0,
       "shell_range": [
@@ -11156,6 +11161,7 @@
         4
       ],
       "splash": 10,
+      "falloff": 0.5,
       "velocity": 3,
       "pierce": 0,
       "shell_range": [
@@ -11280,6 +11286,7 @@
           4
         ],
         "splash": 5,
+        "falloff": 0.6,
         "velocity": 1.5,
         "pierce": 0,
         "shell_range": [
@@ -11430,6 +11437,7 @@
           4
         ],
         "splash": 5,
+        "falloff": 0.6,
         "velocity": 1.5,
         "pierce": 0,
         "shell_range": [
@@ -11600,6 +11608,7 @@
           4
         ],
         "splash": 5,
+        "falloff": 0.6,
         "velocity": 1.5,
         "pierce": 0,
         "shell_range": [
@@ -11799,6 +11808,7 @@
           1
         ],
         "splash": 5,
+        "falloff": 0.6,
         "velocity": 1.5,
         "pierce": 0,
         "shell_range": [
@@ -12011,6 +12021,7 @@
           4
         ],
         "splash": 6,
+        "falloff": 0.5,
         "velocity": 1.5,
         "pierce": 0,
         "shell_range": [
@@ -12161,6 +12172,7 @@
           4
         ],
         "splash": 6,
+        "falloff": 0.5,
         "velocity": 1.5,
         "pierce": 0,
         "shell_range": [
@@ -12331,6 +12343,7 @@
           4
         ],
         "splash": 6,
+        "falloff": 0.5,
         "velocity": 1.5,
         "pierce": 0,
         "shell_range": [
@@ -12528,6 +12541,7 @@
           4
         ],
         "splash": 6,
+        "falloff": 0.5,
         "velocity": 1.5,
         "pierce": 0,
         "shell_range": [
@@ -30104,7 +30118,8 @@
       ],
       "dodge": 0.375,
       "dodge_limit": 8,
-      "crash_dmg": 88
+      "crash_dmg": 88,
+      "int_crash_dmg": 42
     },
     "stats": [],
     "labels": [
@@ -30234,7 +30249,8 @@
       ],
       "dodge": 0.363,
       "dodge_limit": 8.5,
-      "crash_dmg": 88
+      "crash_dmg": 88,
+      "int_crash_dmg": 42
     },
     "stats": [
       {
@@ -30398,7 +30414,8 @@
       ],
       "dodge": 0.351,
       "dodge_limit": 9,
-      "crash_dmg": 88
+      "crash_dmg": 88,
+      "int_crash_dmg": 42
     },
     "stats": [
       {
@@ -30604,7 +30621,8 @@
       ],
       "dodge": 0.327,
       "dodge_limit": 10,
-      "crash_dmg": 88
+      "crash_dmg": 88,
+      "int_dodge": 0.333
     },
     "stats": [
       {
@@ -31003,7 +31021,8 @@
       ],
       "dodge": 0.357,
       "dodge_limit": 9,
-      "crash_dmg": 116
+      "crash_dmg": 116,
+      "int_crash_dmg": 56
     },
     "stats": [
       {
@@ -31161,7 +31180,8 @@
       ],
       "dodge": 0.345,
       "dodge_limit": 9.5,
-      "crash_dmg": 116
+      "crash_dmg": 116,
+      "int_crash_dmg": 56
     },
     "stats": [
       {
@@ -31352,7 +31372,8 @@
       ],
       "dodge": 0.333,
       "dodge_limit": 10,
-      "crash_dmg": 116
+      "crash_dmg": 116,
+      "int_crash_dmg": 56
     },
     "stats": [
       {
@@ -31545,7 +31566,8 @@
       ],
       "dodge": 0.357,
       "dodge_limit": 9,
-      "crash_dmg": 132
+      "crash_dmg": 132,
+      "int_crash_dmg": 66
     },
     "stats": [
       {
@@ -31752,7 +31774,8 @@
       ],
       "dodge": 0.345,
       "dodge_limit": 9.5,
-      "crash_dmg": 132
+      "crash_dmg": 132,
+      "int_crash_dmg": 66
     },
     "stats": [
       {
@@ -31997,7 +32020,8 @@
       ],
       "dodge": 0.333,
       "dodge_limit": 10,
-      "crash_dmg": 132
+      "crash_dmg": 132,
+      "int_crash_dmg": 66
     },
     "stats": [
       {
@@ -32540,7 +32564,8 @@
       ],
       "dodge": 0.339,
       "dodge_limit": 10,
-      "crash_dmg": 156
+      "crash_dmg": 156,
+      "int_crash_dmg": 80
     },
     "stats": [
       {
@@ -32844,7 +32869,8 @@
       ],
       "dodge": 0.327,
       "dodge_limit": 10.5,
-      "crash_dmg": 156
+      "crash_dmg": 156,
+      "int_crash_dmg": 80
     },
     "stats": [
       {
@@ -33179,7 +33205,8 @@
       ],
       "dodge": 0.315,
       "dodge_limit": 11,
-      "crash_dmg": 156
+      "crash_dmg": 156,
+      "int_crash_dmg": 80
     },
     "stats": [
       {
@@ -48542,6 +48569,7 @@
         4
       ],
       "splash": 12,
+      "falloff": 0.75,
       "velocity": 5,
       "pierce": 0,
       "shell_range": [
@@ -53071,7 +53099,8 @@
       ],
       "dodge": 0.357,
       "dodge_limit": 9,
-      "crash_dmg": 100
+      "crash_dmg": 100,
+      "int_crash_dmg": 52
     },
     "stats": [
       {
@@ -53333,7 +53362,8 @@
       ],
       "dodge": 0.345,
       "dodge_limit": 9.5,
-      "crash_dmg": 100
+      "crash_dmg": 100,
+      "int_crash_dmg": 52
     },
     "stats": [
       {
@@ -53643,7 +53673,8 @@
       ],
       "dodge": 0.333,
       "dodge_limit": 10,
-      "crash_dmg": 100
+      "crash_dmg": 100,
+      "int_crash_dmg": 52
     },
     "stats": [
       {
@@ -54192,7 +54223,8 @@
       ],
       "dodge": 0.357,
       "dodge_limit": 9,
-      "crash_dmg": 156
+      "crash_dmg": 156,
+      "int_crash_dmg": 63
     },
     "stats": [
       {
@@ -54429,7 +54461,8 @@
       ],
       "dodge": 0.345,
       "dodge_limit": 9.5,
-      "crash_dmg": 156
+      "crash_dmg": 156,
+      "int_crash_dmg": 63
     },
     "stats": [
       {
@@ -54691,7 +54724,8 @@
       ],
       "dodge": 0.333,
       "dodge_limit": 10,
-      "crash_dmg": 156
+      "crash_dmg": 156,
+      "int_crash_dmg": 63
     },
     "stats": [
       {
@@ -75042,7 +75076,8 @@
       ],
       "dodge": 0.357,
       "dodge_limit": 7,
-      "crash_dmg": 86
+      "crash_dmg": 86,
+      "int_crash_dmg": 40
     },
     "stats": [],
     "labels": [
@@ -75172,7 +75207,8 @@
       ],
       "dodge": 0.345,
       "dodge_limit": 7.5,
-      "crash_dmg": 86
+      "crash_dmg": 86,
+      "int_crash_dmg": 40
     },
     "stats": [
       {
@@ -75336,7 +75372,8 @@
       ],
       "dodge": 0.333,
       "dodge_limit": 8,
-      "crash_dmg": 86
+      "crash_dmg": 86,
+      "int_crash_dmg": 40
     },
     "stats": [
       {
@@ -75575,7 +75612,8 @@
       ],
       "dodge": 0.339,
       "dodge_limit": 8,
-      "crash_dmg": 106
+      "crash_dmg": 106,
+      "int_crash_dmg": 52
     },
     "stats": [
       {
@@ -75837,7 +75875,8 @@
       ],
       "dodge": 0.327,
       "dodge_limit": 8.5,
-      "crash_dmg": 106
+      "crash_dmg": 106,
+      "int_crash_dmg": 52
     },
     "stats": [
       {
@@ -76147,7 +76186,8 @@
       ],
       "dodge": 0.315,
       "dodge_limit": 9,
-      "crash_dmg": 106
+      "crash_dmg": 106,
+      "int_crash_dmg": 52
     },
     "stats": [
       {
@@ -76732,7 +76772,8 @@
       ],
       "dodge": 0.339,
       "dodge_limit": 8,
-      "crash_dmg": 140
+      "crash_dmg": 140,
+      "int_crash_dmg": 70
     },
     "stats": [
       {
@@ -77034,7 +77075,8 @@
       ],
       "dodge": 0.327,
       "dodge_limit": 8.5,
-      "crash_dmg": 140
+      "crash_dmg": 140,
+      "int_crash_dmg": 70
     },
     "stats": [
       {
@@ -77367,7 +77409,8 @@
       ],
       "dodge": 0.315,
       "dodge_limit": 9,
-      "crash_dmg": 140
+      "crash_dmg": 140,
+      "int_crash_dmg": 70
     },
     "stats": [
       {
@@ -99792,7 +99835,9 @@
       ],
       "dodge": 0.339,
       "dodge_limit": 10,
-      "crash_dmg": 65
+      "crash_dmg": 65,
+      "int_speed": 50,
+      "int_dodge": 0.315
     },
     "stats": [
       {
@@ -119649,7 +119694,8 @@
       ],
       "dodge": 0.339,
       "dodge_limit": 8,
-      "crash_dmg": 148
+      "crash_dmg": 148,
+      "int_crash_dmg": 52
     },
     "stats": [
       {
@@ -119911,7 +119957,8 @@
       ],
       "dodge": 0.327,
       "dodge_limit": 8.5,
-      "crash_dmg": 148
+      "crash_dmg": 148,
+      "int_crash_dmg": 52
     },
     "stats": [
       {
@@ -120221,7 +120268,8 @@
       ],
       "dodge": 0.315,
       "dodge_limit": 9,
-      "crash_dmg": 148
+      "crash_dmg": 148,
+      "int_crash_dmg": 52
     },
     "stats": [
       {

@@ -73,20 +73,21 @@ Weapon provides the basic properties for all weapons and aircrafts. It provides:
 Extended Base Weapon is an extension of [`WeaponBase`](#weapon-base) and additionally provides the
 following:
 
-|     Property     |          Type          |                              Description                               |
-| :--------------: | :--------------------: | :--------------------------------------------------------------------: |
-|    **splash**    |        `number`        |                     Splash radious in game units.                      |
-|    **spread**    |       `number[]`       |                  X and Z spread radius in game units.                  |
-|    **range**     |       `number[]`       |                Minimum and maximum range of the weapon.                |
-|   **velocity**   |        `number`        |            Bullet/Torpedo velocity (**not** plane speed!).             |
-|    **piece**     |        `number`        |                       Amount of targets pierced.                       |
-|    **angle**     |        `number`        |                        Effective firing angle.                         |
-| **shell_range**  |       `number[]`       |                Min and max Range of the bullet/torpedo.                |
-| **volley_info**  |       `number[]`       | Amount of volleys (index 0) and amount of shells per volley (index 1). |
-| **spread_angle** |        `string`        |            Textual description of the weapon spread angle.             |
-|   **aim_type**   | [`AimType`](#aim-type) |                      The aim type of the weapon.                       |
-|  **barrage_id**  |        `number`        |           The ID of the (first) barrage used by this weapon.           |
-|  **bullet_id**   |        `number`        |           The ID of the (first) bullet used by this weapon.            |
+|     Property     |          Type          |                                                          Description                                                           |
+| :--------------: | :--------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
+|    **splash**    |        `number`        |                                                 Splash radious in game units.                                                  |
+|    **spread**    |       `number[]`       |                                              X and Z spread radius in game units.                                              |
+|    **range**     |       `number[]`       |                                            Minimum and maximum range of the weapon.                                            |
+|   **velocity**   |        `number`        |                                        Bullet/Torpedo velocity (**not** plane speed!).                                         |
+|   **falloff?**   |        `number`        | **(Optional)** AoE/Splash Damage falloff. A falloff of 0.75 would mean the far edges of the splash would at most deal 25% dmg. |
+|    **piece**     |        `number`        |                                                   Amount of targets pierced.                                                   |
+|    **angle**     |        `number`        |                                                    Effective firing angle.                                                     |
+| **shell_range**  |       `number[]`       |                                            Min and max Range of the bullet/torpedo.                                            |
+| **volley_info**  |       `number[]`       |                             Amount of volleys (index 0) and amount of shells per volley (index 1).                             |
+| **spread_angle** |        `string`        |                                        Textual description of the weapon spread angle.                                         |
+|   **aim_type**   | [`AimType`](#aim-type) |                                                  The aim type of the weapon.                                                   |
+|  **barrage_id**  |        `number`        |                                       The ID of the (first) barrage used by this weapon.                                       |
+|  **bullet_id**   |        `number`        |                                       The ID of the (first) bullet used by this weapon.                                        |
 # Ammo Type
 
 Ammo Type is a numeric value with the **two** ranges `[0, 8]` and `[100, 101]` 
