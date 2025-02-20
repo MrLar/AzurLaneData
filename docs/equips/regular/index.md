@@ -52,7 +52,7 @@ following:
 | **int_dodge_limit?**  |  `number`  |                           **(Optional)** Constant for maximum dodges of the intercept-plane, if absent the plane is either not an interceptor or the constant is the same as `dodge_limit`.                           |
 |     **crash_dmg**     |  `number`  |                                                                              End of Screen damage of this plane (enemies and PvP only).                                                                               |
 |        **id**         |  `number`  |                                                                                                The ID of the aircraft.                                                                                                |
-|   **intercept_id?**   |  `number`  |                                                         **(Optional)** The ID of the aircraft used for intercepting if `is_interceptor` is `true` otherwise.                                                          |
+|   **intercept_id?**   |  `number`  |                                                              **(Optional)** The ID of the aircraft used for intercepting if `is_interceptor` is `true`.                                                               |
 
 # Armament
 

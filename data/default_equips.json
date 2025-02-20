@@ -2169,6 +2169,7 @@
         3
       ],
       "splash": 9,
+      "falloff": 0.4,
       "velocity": 1.5,
       "pierce": 0,
       "shell_range": [
@@ -2338,6 +2339,7 @@
         3
       ],
       "splash": 9,
+      "falloff": 0.4,
       "velocity": 1.5,
       "pierce": 0,
       "shell_range": [
@@ -5138,6 +5140,7 @@
         4
       ],
       "splash": 12,
+      "falloff": 0.75,
       "velocity": 5,
       "pierce": 0,
       "shell_range": [
@@ -5288,6 +5291,7 @@
         4
       ],
       "splash": 10,
+      "falloff": 0.5,
       "velocity": 3,
       "pierce": 0,
       "shell_range": [
@@ -5514,6 +5518,7 @@
         4
       ],
       "splash": 12,
+      "falloff": 0.75,
       "velocity": 5,
       "pierce": 0,
       "shell_range": [
@@ -5820,6 +5825,7 @@
         3
       ],
       "splash": 9,
+      "falloff": 0.4,
       "velocity": 1.5,
       "pierce": 0,
       "shell_range": [
