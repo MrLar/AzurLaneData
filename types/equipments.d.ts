@@ -87,8 +87,6 @@ export interface Aircraft extends ReloadableWeapon {
     int_dodge_limit?: number
     crash_dmg: number
     int_crash_dmg?: number
-    coefficient?: number[]
-    int_coefficient?: number[]
     aircraft: true
 }
 

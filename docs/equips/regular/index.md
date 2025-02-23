@@ -53,8 +53,6 @@ following:
 |     **crash_dmg**     |  `number`  |                                                                              End of Screen damage of this plane (enemies and PvP only).                                                                               |
 |        **id**         |  `number`  |                                                                                                The ID of the aircraft.                                                                                                |
 |   **intercept_id?**   |  `number`  |                                                              **(Optional)** The ID of the aircraft used for intercepting if `is_interceptor` is `true`.                                                               |
-|   **coefficient?**    | `number[]` |                                    **(Optional)** Weapon coefficient at each enhancement level (i.E. index 0 is +0, and so on), if absent treat as 1, only used for crash damage.                                     |
-| **int_coefficient?**  | `number[]` |                         **(Optional)** Weapon coefficient of the intercept plane, if different, at each enhancement level (i.E. index 0 is +0, and so on), if absent treat use `coefficient`.                         |
 
 # Armament
 
