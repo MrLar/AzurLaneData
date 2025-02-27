@@ -43,7 +43,7 @@ type:
 
 # Skin Category
 
-Skin Category is a numeric value with **three** range `[0, 4]`, `[6, 24]` and `[9997, 9999]` where 
+Skin Category is a numeric value with **three** range `[0, 4]`, `[6, 27]` and `[9997, 9999]` where 
 each number represents an in-game skin type (missing values do not exit in game):
 
 |  Value  |          Label           |
@@ -75,7 +75,8 @@ each number represents an in-game skin type (missing values do not exit in game)
 |   24    |           RPG            |
 |   25    |        Wild West         |
 |   26    |      Dreamland Park      |
-| 27-9996 |  N/A (Do not exist yet)  |
+|   27    |       Nile Colors        |
+| 28-9996 |  N/A (Do not exist yet)  |
 |  9997   |         Retrofit         |
 |  9998   |           Oath           |
 |  9999   |          Other           |
