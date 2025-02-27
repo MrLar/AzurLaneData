@@ -56052,6 +56052,787 @@
       ]
     }
   ],
+  "150910": [
+    {
+      "name": "Strict Flower of Sardegna",
+      "parts": [
+        {
+          "damage": 25,
+          "coefficient": 1,
+          "count": 36,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Normal",
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            160
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        },
+        {
+          "damage": 180,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "targeting": "Priority",
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            160
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "150920": [
+    {
+      "name": "Odi Barbare",
+      "parts": [
+        {
+          "damage": 36,
+          "coefficient": 1,
+          "count": 15,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.6
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Normal",
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 10,
+          "pierce": 0,
+          "shell_range": [
+            110,
+            130
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Special Burn (5 + 0.6 * TRP DMG with 1 tick every 3 seconds for 9s, ID: 150929)"
+          ],
+          "buff_chance": 1
+        },
+        {
+          "damage": 15,
+          "coefficient": 1,
+          "count": 20,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.6
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Normal",
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 10,
+          "pierce": 0,
+          "shell_range": [
+            110,
+            130
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Special Burn (5 + 0.6 * TRP DMG with 1 tick every 3 seconds for 9s, ID: 150929)"
+          ],
+          "buff_chance": 1
+        }
+      ]
+    }
+  ],
+  "150930": [
+    {
+      "name": "Il Canto di Marzo",
+      "parts": [
+        {
+          "damage": 15,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": true,
+          "targeting": "Nearest",
+          "range": [
+            0,
+            60
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 30,
+          "pierce": 0,
+          "shell_range": [
+            70,
+            70
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        },
+        {
+          "damage": 15,
+          "coefficient": 1,
+          "count": 35,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "targeting": "Nearest",
+          "range": [
+            0,
+            60
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 3,
+          "velocity": 1,
+          "pierce": 0,
+          "shell_range": [
+            0.1,
+            0.1
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            ""
+          ],
+          "buff_chance": 1
+        },
+        {
+          "damage": 15,
+          "coefficient": 1,
+          "count": 35,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.95,
+            0.75,
+            0.45
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Nearest",
+          "range": [
+            0,
+            60
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 6,
+          "velocity": 1,
+          "pierce": 0,
+          "shell_range": [
+            0.1,
+            0.1
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.75,
+            0.4
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Normal",
+          "range": [
+            0,
+            60
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 10,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        },
+        {
+          "damage": 40,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.7,
+            0.9,
+            1.2
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Normal",
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 3,
+          "velocity": 5,
+          "pierce": 0,
+          "shell_range": [
+            130,
+            170
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "150960": [
+    {
+      "name": "Apex Artist",
+      "parts": [
+        {
+          "damage": 32,
+          "coefficient": 1,
+          "count": 64,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1.15,
+            0.9
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Normal",
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 12,
+          "pierce": 1,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        },
+        {
+          "damage": 141,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1.15,
+            0.9
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Priority",
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 20,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            15,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Apex Artist (Enhanced, Once)",
+      "parts": [
+        {
+          "damage": 32,
+          "coefficient": 1,
+          "count": 64,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1.15,
+            0.9
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [
+            "Gains 50% additional crit rate."
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Normal",
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 12,
+          "pierce": 1,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        },
+        {
+          "damage": 141,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1.15,
+            0.9
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [
+            "Gains 50% additional crit rate."
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Priority",
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 20,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            15,
+            15
+          ]
+        },
+        {
+          "damage": 141,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1.15,
+            0.9
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [
+            "Gains 50% additional crit rate."
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Debuff",
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 20,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            15,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Apex Artist (Enhanced, Twice)",
+      "parts": [
+        {
+          "damage": 32,
+          "coefficient": 1,
+          "count": 64,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1.15,
+            0.9
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [
+            "Gains 50% additional crit rate and 20% additional crit damage."
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Normal",
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 12,
+          "pierce": 1,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        },
+        {
+          "damage": 141,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1.15,
+            0.9
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [
+            "Gains 50% additional crit rate and 20% additional crit damage."
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Priority",
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 20,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            15,
+            15
+          ]
+        },
+        {
+          "damage": 141,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1.15,
+            0.9
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [
+            "Gains 50% additional crit rate and 20% additional crit damage."
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Debuff",
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 20,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            15,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Apex Artist (crossfleet)",
+      "parts": [
+        {
+          "damage": 141,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1.15,
+            0.9
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Priority",
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 20,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            15,
+            15
+          ]
+        }
+      ]
+    }
+  ],
+  "150980": [
+    {
+      "name": "Thrill-Seeker",
+      "parts": [
+        {
+          "damage": 35,
+          "coefficient": 1,
+          "count": 10,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1.3,
+            0.8,
+            1
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Normal",
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 3,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            100,
+            140
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "150990": [
+    {
+      "name": "Born Adventurer",
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Priority",
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 0,
+          "angle": 60,
+          "splash": 3,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            70,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
   "800010": [
     {
       "name": "Shadowflame Torch",
@@ -61872,6 +62653,166 @@
           "shell_range": [
             70,
             90
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "801600": [
+    {
+      "name": "Shadow of Eternal Night (fire)",
+      "parts": [
+        {
+          "damage": 210,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.4,
+            1.1,
+            0.9
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Priority",
+          "range": [
+            35,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 15,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            19,
+            19
+          ],
+          "buffs": [
+            "Decrease HIT by 15% for 8s"
+          ],
+          "buff_chance": 1
+        },
+        {
+          "damage": 35,
+          "coefficient": 1,
+          "count": 44,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1,
+            0.9
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Normal",
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 5.5,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            160
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Decrease HIT by 15% for 8s"
+          ],
+          "buff_chance": 1
+        }
+      ]
+    },
+    {
+      "name": "Shadow of Eternal Night (proximity)",
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 32,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "targeting": "Normal",
+          "range": [
+            0,
+            95
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 14,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            160
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        },
+        {
+          "damage": 60,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1,
+            0.9
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "targeting": "Normal",
+          "range": [
+            0,
+            95
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 10,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            160
           ],
           "spread": [
             0,

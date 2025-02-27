@@ -54645,5 +54645,530 @@
     "buffs": [],
     "type": 17,
     "id": 1519
+  },
+  "1890001_a1_16700301": {
+    "name": "Paradiso of Shackled Light-A1",
+    "acv": 100,
+    "opsi": false,
+    "boss": {
+      "hull": 2,
+      "nation": 6,
+      "name": "Bartolomeo Colleoni",
+      "stats": {
+        "hp": 3600,
+        "fp": 40,
+        "trp": 60,
+        "avi": 0,
+        "aa": 125,
+        "hit": 19,
+        "eva": 15,
+        "spd": 20,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 25,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "batuoluomeiao"
+    },
+    "buffs": [],
+    "type": 3,
+    "id": 1520
+  },
+  "1890001_a2_16700302": {
+    "name": "Paradiso of Shackled Light-A2",
+    "acv": 130,
+    "opsi": false,
+    "boss": {
+      "hull": 3,
+      "nation": 97,
+      "name": "Trento META",
+      "stats": {
+        "hp": 6450,
+        "fp": 75,
+        "trp": 55,
+        "avi": 0,
+        "aa": 85,
+        "hit": 20,
+        "eva": 20,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "teluntuo_alter"
+    },
+    "buffs": [],
+    "type": 3,
+    "id": 1521
+  },
+  "1890001_a3_16700303": {
+    "name": "Paradiso of Shackled Light-A3",
+    "acv": 165,
+    "opsi": false,
+    "boss": {
+      "hull": 3,
+      "nation": 97,
+      "name": "Bolzano META",
+      "stats": {
+        "hp": 7200,
+        "fp": 80,
+        "trp": 120,
+        "avi": 0,
+        "aa": 140,
+        "hit": 21,
+        "eva": 21,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "boerzhanuo_alter"
+    },
+    "buffs": [],
+    "type": 3,
+    "id": 1522
+  },
+  "1890002_b1_16701301": {
+    "name": "Paradiso of Shackled Light-B1",
+    "acv": 210,
+    "opsi": false,
+    "boss": {
+      "hull": 5,
+      "nation": 97,
+      "name": "Andrea Doria META",
+      "stats": {
+        "hp": 16500,
+        "fp": 160,
+        "trp": 0,
+        "avi": 0,
+        "aa": 180,
+        "hit": 25,
+        "eva": 16,
+        "spd": 20,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 45,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "andelieyaduoliya_alter"
+    },
+    "buffs": [],
+    "type": 3,
+    "id": 1523
+  },
+  "1890002_b2_16701302": {
+    "name": "Paradiso of Shackled Light-B2",
+    "acv": 270,
+    "opsi": false,
+    "boss": {
+      "hull": 18,
+      "nation": 99,
+      "name": "Enforcer VII: Pulverization",
+      "stats": {
+        "hp": 23400,
+        "fp": 125,
+        "trp": 120,
+        "avi": 0,
+        "aa": 165,
+        "hit": 25,
+        "eva": 22,
+        "spd": 120,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        10,
+        15,
+        15
+      ],
+      "level": 55,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss25"
+    },
+    "buffs": [],
+    "type": 3,
+    "id": 1524
+  },
+  "1890002_b3_16701303": {
+    "name": "Paradiso of Shackled Light-B3",
+    "acv": 330,
+    "opsi": false,
+    "boss": {
+      "hull": 5,
+      "nation": 99,
+      "name": "MECHArbiter: The Chariot VII",
+      "stats": {
+        "hp": 31500,
+        "fp": 180,
+        "trp": 150,
+        "avi": 0,
+        "aa": 280,
+        "hit": 26,
+        "eva": 24,
+        "spd": 70,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        25,
+        32,
+        32
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss24_jijia"
+    },
+    "buffs": [],
+    "type": 3,
+    "id": 1525
+  },
+  "1890011_c1_16702301": {
+    "name": "Paradiso of Shackled Light-C1",
+    "acv": 455,
+    "opsi": false,
+    "boss": {
+      "hull": 2,
+      "nation": 6,
+      "name": "Bartolomeo Colleoni",
+      "stats": {
+        "hp": 36500,
+        "fp": 120,
+        "trp": 180,
+        "avi": 0,
+        "aa": 125,
+        "hit": 45,
+        "eva": 51,
+        "spd": 20,
+        "luck": 18,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 75,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "batuoluomeiao"
+    },
+    "buffs": [],
+    "type": 4,
+    "id": 1526
+  },
+  "1890011_c2_16702302": {
+    "name": "Paradiso of Shackled Light-C2",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "hull": 3,
+      "nation": 97,
+      "name": "Trento META",
+      "stats": {
+        "hp": 39800,
+        "fp": 220,
+        "trp": 120,
+        "avi": 0,
+        "aa": 225,
+        "hit": 46,
+        "eva": 43,
+        "spd": 20,
+        "luck": 18,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "teluntuo_alter"
+    },
+    "buffs": [],
+    "type": 4,
+    "id": 1527
+  },
+  "1890011_c3_16702303": {
+    "name": "Paradiso of Shackled Light-C3",
+    "acv": 775,
+    "opsi": false,
+    "boss": {
+      "hull": 3,
+      "nation": 97,
+      "name": "Bolzano META",
+      "stats": {
+        "hp": 56000,
+        "fp": 220,
+        "trp": 120,
+        "avi": 0,
+        "aa": 225,
+        "hit": 48,
+        "eva": 44,
+        "spd": 18,
+        "luck": 18,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 85,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "boerzhanuo_alter"
+    },
+    "buffs": [],
+    "type": 4,
+    "id": 1528
+  },
+  "1890012_d1_16703301": {
+    "name": "Paradiso of Shackled Light-D1",
+    "acv": 850,
+    "opsi": false,
+    "boss": {
+      "hull": 5,
+      "nation": 97,
+      "name": "Andrea Doria META",
+      "stats": {
+        "hp": 86200,
+        "fp": 280,
+        "trp": 0,
+        "avi": 0,
+        "aa": 260,
+        "hit": 69,
+        "eva": 32,
+        "spd": 20,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 95,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "andelieyaduoliya_alter"
+    },
+    "buffs": [],
+    "type": 4,
+    "id": 1529
+  },
+  "1890012_d2_16703302": {
+    "name": "Paradiso of Shackled Light-D2",
+    "acv": 1100,
+    "opsi": false,
+    "boss": {
+      "hull": 18,
+      "nation": 99,
+      "name": "Enforcer VII: Pulverization",
+      "stats": {
+        "hp": 98260,
+        "fp": 240,
+        "trp": 190,
+        "avi": 0,
+        "aa": 265,
+        "hit": 68,
+        "eva": 45,
+        "spd": 120,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        10,
+        15,
+        15
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss25"
+    },
+    "buffs": [],
+    "type": 4,
+    "id": 1530
+  },
+  "1890012_d3_16703303": {
+    "name": "Paradiso of Shackled Light-D3",
+    "acv": 1410,
+    "opsi": false,
+    "boss": {
+      "hull": 5,
+      "nation": 99,
+      "name": "MECHArbiter: The Chariot VII",
+      "stats": {
+        "hp": 115000,
+        "fp": 300,
+        "trp": 0,
+        "avi": 0,
+        "aa": 440,
+        "hit": 69,
+        "eva": 48,
+        "spd": 70,
+        "luck": 30,
+        "armor": 2
+      },
+      "cld": [
+        25,
+        32,
+        32
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss24_jijia"
+    },
+    "buffs": [],
+    "type": 4,
+    "id": 1531
+  },
+  "1890025_sp_16704301": {
+    "name": "Paradiso of Shackled Light-SP",
+    "acv": 1820,
+    "opsi": false,
+    "boss": {
+      "hull": 5,
+      "nation": 99,
+      "name": "Super Marco Polo",
+      "stats": {
+        "hp": 155000,
+        "fp": 320,
+        "trp": 0,
+        "avi": 0,
+        "aa": 440,
+        "hit": 71,
+        "eva": 49,
+        "spd": 18,
+        "luck": 30,
+        "armor": 2
+      },
+      "cld": [
+        21,
+        10.5,
+        10.5
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "makeboluo"
+    },
+    "buffs": [],
+    "type": 5,
+    "id": 1532
+  },
+  "1890026_extra_16705001": {
+    "name": "Paradiso of Shackled Light-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "hull": 5,
+      "nation": 99,
+      "name": "MECHArbiter: The Chariot VII",
+      "stats": {
+        "hp": 1280000,
+        "fp": 500,
+        "trp": 0,
+        "avi": 0,
+        "aa": 320,
+        "hit": 73,
+        "eva": 48,
+        "spd": 20,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        25,
+        32,
+        32
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss24_jijia"
+    },
+    "buffs": [],
+    "type": 6,
+    "id": 1533
+  },
+  "1890026_extra_16705002": {
+    "name": "Paradiso of Shackled Light-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "hull": 5,
+      "nation": 99,
+      "name": "MECHArbiter: The Chariot VII",
+      "stats": {
+        "hp": 1280000,
+        "fp": 1200,
+        "trp": 0,
+        "avi": 0,
+        "aa": 666,
+        "hit": 9999,
+        "eva": 0,
+        "spd": 20,
+        "luck": 99,
+        "armor": 2
+      },
+      "cld": [
+        25,
+        32,
+        32
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss24_jijia"
+    },
+    "buffs": [],
+    "type": 6,
+    "id": 1534
   }
 }

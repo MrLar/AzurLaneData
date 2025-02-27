@@ -3932,7 +3932,8 @@
     "icon": "props/21038",
     "rarity": 5,
     "locations": [
-      "Ode of Everblooming Crimson"
+      "Ode of Everblooming Crimson",
+      "META Shop"
     ],
     "servers": [
       "EN",
@@ -4000,7 +4001,8 @@
     "icon": "props/21042",
     "rarity": 5,
     "locations": [
-      "Substellar Crepuscule"
+      "Substellar Crepuscule",
+      "META Shop"
     ],
     "servers": [
       "EN",
@@ -4018,6 +4020,24 @@
     "rarity": 5,
     "locations": [
       "Cruise Pass Season 21"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "21044": {
+    "id": 21044,
+    "name": "META Crystal - Andrea Doria META",
+    "description": "An item that increases the potential of Andrea Doria META. Used in the META Lab during Somatic Activation.",
+    "type": 4,
+    "icon": "props/21044",
+    "rarity": 5,
+    "locations": [
+      "Paradiso of Shackled Light",
+      "META Shop"
     ],
     "servers": [
       "EN",
@@ -17525,6 +17545,23 @@
       }
     ]
   },
+  "30365": {
+    "id": 30365,
+    "name": "Gear Skin Box (Pharaoh)",
+    "description": "Contains a random Pharaoh-themed gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxaiji",
+    "rarity": 5,
+    "locations": [
+      "Paradiso of Shackled Light"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "30401": {
     "id": 30401,
     "name": "Random Gear Skin Box (Cruise Series 3)",
@@ -28954,6 +28991,23 @@
       }
     ]
   },
+  "30552": {
+    "id": 30552,
+    "name": "Selection Gear Skin Box (Pharaoh)",
+    "description": "Can be opened to receive 1 Pharaoh-themed gear skin of your choosing.",
+    "type": 13,
+    "icon": "props/appearanceboxaijizixuan",
+    "rarity": 5,
+    "locations": [
+      "Paradiso of Shackled Light"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "30911": {
     "id": 30911,
     "name": "T1 Custom Gear Lab Material Pack",
@@ -32047,6 +32101,72 @@
         "blueprint": false,
         "icon": "props/16502",
         "name": "T2 EXP Data Pack"
+      }
+    ]
+  },
+  "40055": {
+    "id": 40055,
+    "name": "Battle UI Pack - Pharaoh (Basic)",
+    "description": "Contains the Battle UI - Pharaoh theme.",
+    "type": 17,
+    "icon": "chargeicon/ui3",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 9999999202,
+        "type": 8,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "props/ui_202",
+        "name": "Battle UI - Pharaoh"
+      }
+    ]
+  },
+  "40056": {
+    "id": 40056,
+    "name": "Battle UI Pack - Pharaoh (Premium)",
+    "description": "Contains the Battle UI - Pharaoh theme and 3,060 Gems.",
+    "type": 17,
+    "icon": "chargeicon/ui3",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 9999999202,
+        "type": 8,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "props/ui_202",
+        "name": "Battle UI - Pharaoh"
+      },
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 3060,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
       }
     ]
   },
@@ -39838,6 +39958,7 @@
     ],
     "servers": [
       "EN",
+      "JP",
       "CN"
     ],
     "contains": [
@@ -39875,6 +39996,7 @@
     ],
     "servers": [
       "EN",
+      "JP",
       "CN"
     ],
     "contains": [
@@ -40025,7 +40147,7 @@
   },
   "59559": {
     "id": 59559,
-    "name": "Selection Gear Skin Box (Cruise Missions)",
+    "name": "Selection Gear Skin Box (Cruise Pass)",
     "description": "Can be used to receive 1 gear skin of your choosing from the Power of the Stars or the Magical Wonders set. Note: You may only possess up to 9 copies of any given gear skin.",
     "type": 13,
     "icon": "props/appearanceboxshijiexunyou",
@@ -40035,6 +40157,7 @@
     ],
     "servers": [
       "EN",
+      "JP",
       "CN"
     ],
     "contains": [
@@ -40570,6 +40693,7 @@
     ],
     "servers": [
       "EN",
+      "JP",
       "CN"
     ],
     "contains": [
@@ -40627,6 +40751,7 @@
     ],
     "servers": [
       "EN",
+      "JP",
       "CN"
     ],
     "contains": [
@@ -40791,6 +40916,7 @@
     ],
     "servers": [
       "EN",
+      "JP",
       "CN"
     ],
     "contains": [
@@ -40828,6 +40954,7 @@
     ],
     "servers": [
       "EN",
+      "JP",
       "CN"
     ],
     "contains": [
@@ -40855,6 +40982,7 @@
     ],
     "servers": [
       "EN",
+      "JP",
       "CN"
     ],
     "contains": [
@@ -40892,6 +41020,7 @@
     ],
     "servers": [
       "EN",
+      "JP",
       "CN"
     ],
     "contains": [
@@ -40929,6 +41058,7 @@
     ],
     "servers": [
       "EN",
+      "JP",
       "CN"
     ],
     "contains": [
@@ -40956,6 +41086,7 @@
     ],
     "servers": [
       "EN",
+      "JP",
       "CN"
     ],
     "contains": [
@@ -40993,6 +41124,7 @@
     ],
     "servers": [
       "EN",
+      "JP",
       "CN"
     ],
     "contains": [
@@ -43364,6 +43496,34 @@
         "rarity": 5,
         "icon": "uipreview/103",
         "name": "Iridescent Fantasy"
+      }
+    ]
+  },
+  "9999999202": {
+    "id": 9999999202,
+    "name": "Pharaoh UI",
+    "description": "The Pharaoh themed Battle UI",
+    "type": 97,
+    "icon": "props/ui_202",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 202,
+        "type": 99,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": false,
+        "rarity": 5,
+        "icon": "uipreview/202",
+        "name": "Pharaoh"
       }
     ]
   },

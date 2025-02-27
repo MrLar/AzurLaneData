@@ -8547,6 +8547,28 @@
     "dynamic_bg": true,
     "dual_form": false
   },
+  "202333": {
+    "id": 202333,
+    "name": "A Maid's Judgment",
+    "type": 0,
+    "category": 27,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "sikula_4",
+    "bg": "304",
+    "obtain_type": 0,
+    "price": 980,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "202341": {
     "id": 202341,
     "name": "Breeze of Blessings",
@@ -23255,6 +23277,28 @@
     "dynamic_bg": true,
     "dual_form": false
   },
+  "502092": {
+    "id": 502092,
+    "name": "Exotic Dreamland",
+    "type": 0,
+    "category": 27,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "jian_3",
+    "bg": "303",
+    "obtain_type": 0,
+    "price": 1080,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": true,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "502101": {
     "id": 502101,
     "name": "Maple Impressions",
@@ -23805,6 +23849,28 @@
     "dynamic_bg": false,
     "dual_form": false
   },
+  "601111": {
+    "id": 601111,
+    "name": "Verses in Balance",
+    "type": 0,
+    "category": 27,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "jiaosuai_2",
+    "bg": "303",
+    "obtain_type": 0,
+    "price": 780,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "602011": {
     "id": 602011,
     "name": "Lustrous Onyx Sirenetta",
@@ -23847,6 +23913,28 @@
     "dynamic": false,
     "custom_bgm": false,
     "dynamic_bg": true,
+    "dual_form": false
+  },
+  "602031": {
+    "id": 602031,
+    "name": "The Empress' Romantic Ambush",
+    "type": 0,
+    "category": 27,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "batuoluomeiao_2",
+    "bg": "304",
+    "obtain_type": 0,
+    "price": 780,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
     "dual_form": false
   },
   "603011": {
@@ -24289,6 +24377,28 @@
     "dynamic_bg": false,
     "dual_form": false
   },
+  "605081": {
+    "id": 605081,
+    "name": "Protector of Love and Beauty",
+    "type": 0,
+    "category": 27,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "lafeier_2",
+    "bg": "303",
+    "obtain_type": 0,
+    "price": 1180,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": true,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "607011": {
     "id": 607011,
     "name": "Sardegnian Shallows and Sunshine",
@@ -24395,6 +24505,28 @@
     "is_permanent": false,
     "l2d": false,
     "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "608031": {
+    "id": 608031,
+    "name": "The God Craves Punishment",
+    "type": 0,
+    "category": 27,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "balaka_2",
+    "bg": "303",
+    "obtain_type": 0,
+    "price": 980,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
     "custom_bgm": false,
     "dynamic_bg": false,
     "dual_form": false

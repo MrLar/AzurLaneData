@@ -17959,6 +17959,100 @@
       "CN"
     ]
   },
+  "3035": {
+    "id": 3035,
+    "name": "Discount Tag Shell",
+    "icon": "99158",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "It's the power of discount!",
+    "servers": [
+      "JP",
+      "CN"
+    ]
+  },
+  "3036": {
+    "id": 3036,
+    "name": "Free Gift Shopping Bag Torpedo",
+    "icon": "99159",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "This is a free gift, please take it!",
+    "servers": [
+      "JP",
+      "CN"
+    ]
+  },
+  "3037": {
+    "id": 3037,
+    "name": "Selected Gift Box Shells",
+    "icon": "99160",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "What's inside? You'll know after it explodes.",
+    "servers": [
+      "JP",
+      "CN"
+    ]
+  },
+  "3038": {
+    "id": 3038,
+    "name": "Super Saver Cart (Torpedo)",
+    "icon": "99161",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "If you buy the whole vehicle, you can get an additional discount!",
+    "servers": [
+      "JP",
+      "CN"
+    ]
+  },
+  "3039": {
+    "id": 3039,
+    "name": "Super Saver Cart (Fighter)",
+    "icon": "99161",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "If you buy the whole vehicle, you can get an additional discount!",
+    "servers": [
+      "JP",
+      "CN"
+    ]
+  },
+  "3040": {
+    "id": 3040,
+    "name": "Super Saver Cart (Bomber)",
+    "icon": "99161",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "If you buy the whole vehicle, you can get an additional discount!",
+    "servers": [
+      "JP",
+      "CN"
+    ]
+  },
   "4001": {
     "id": 4001,
     "name": "Little Blocks Shell",
@@ -19817,6 +19911,306 @@
     "rarity": 4,
     "theme": "Halloween Horrors",
     "description": "Stand back! This fight is mine alone, peep!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4113": {
+    "id": 4113,
+    "name": "Golden Earring Shell",
+    "icon": "101182",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "Brimming with an ancient power that may or may not turn you into a snake.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4114": {
+    "id": 4114,
+    "name": "Solar Sapphire Shell",
+    "icon": "101183",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "Owch! Pointy! But precious!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4115": {
+    "id": 4115,
+    "name": "Golden Scarab Shell",
+    "icon": "101184",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "You were warned about incurring the pharaoh's wrath...",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4116": {
+    "id": 4116,
+    "name": "Pharaoh's Wand Torpedo",
+    "icon": "101185",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "Abracadabra, pharaoh's curse upon ye!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4117": {
+    "id": 4117,
+    "name": "Sun God's Spear Torpedo",
+    "icon": "101186",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "If you fling it, is it still a spear or does it become a javelin? Either way, look out.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4118": {
+    "id": 4118,
+    "name": "Ceremonial Dagger Torpedo",
+    "icon": "101187",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "The curse has been set. Now we feast... I mean, begin the purge!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4119": {
+    "id": 4119,
+    "name": "Eternal Pyramid Shell",
+    "icon": "101188",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "The triangle is the most perfect shape. No matter what angle it hits at, it's going to hurt.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4120": {
+    "id": 4120,
+    "name": "Golden Ankh Shell",
+    "icon": "101189",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "How ironic. It's usually meant to symbolize life.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4121": {
+    "id": 4121,
+    "name": "Sealing Pot Shell",
+    "icon": "101190",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "Draw two cards... then draw your last breath!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4122": {
+    "id": 4122,
+    "name": "Nile Queen Manjuu (Torpedo)",
+    "icon": "101191",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "Don't mind the regal dress - it won't affect her combat ability.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4123": {
+    "id": 4123,
+    "name": "Nile Queen Manjuu (Torpedo)",
+    "icon": "101191",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "Don't mind the regal dress - it won't affect her combat ability.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4124": {
+    "id": 4124,
+    "name": "Nile Queen Manjuu (Torpedo)",
+    "icon": "101191",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "Don't mind the regal dress - it won't affect her combat ability.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4125": {
+    "id": 4125,
+    "name": "Son of the Sun Manjuu (Torpedo)",
+    "icon": "101192",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "In the name of the pharaoh, I shall vanquish thee!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4126": {
+    "id": 4126,
+    "name": "Son of the Sun Manjuu (Fighter)",
+    "icon": "101192",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "In the name of the pharaoh, I shall vanquish thee!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4127": {
+    "id": 4127,
+    "name": "Son of the Sun Manjuu (Bomber)",
+    "icon": "101192",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "In the name of the pharaoh, I shall vanquish thee!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4128": {
+    "id": 4128,
+    "name": "Undead Manjuu (Torpedo)",
+    "icon": "101193",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "You've unleashed an ancient fury!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4129": {
+    "id": 4129,
+    "name": "Undead Manjuu (Fighter)",
+    "icon": "101193",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "You've unleashed an ancient fury!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4130": {
+    "id": 4130,
+    "name": "Undead Manjuu (Bomber)",
+    "icon": "101193",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Halloween Horrors",
+    "description": "You've unleashed an ancient fury!",
     "servers": [
       "EN",
       "JP",
