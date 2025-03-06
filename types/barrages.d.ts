@@ -23,7 +23,7 @@ interface BarragePart {
     spread?: number[]
     reaim?: boolean
     stat: WeaponStat | 'fleetpower'
-    targeting: string
+    stat_cap?: number
     ratio: number
     range: number[]
     angle: number
