@@ -62,6 +62,27 @@
     "contains": [],
     "favor": 300
   },
+  "1990301": {
+    "name": "Heart in Crayon",
+    "description": "An adorably colored canvas that seems to capture all of Anchorage's world within. Every line reflects her innocence.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 5,
+    "id": 1990301,
+    "purchaseable": true,
+    "expires": 0,
+    "icon": "dorm3d/items/3ddrom_ankeleiqi_fancygift1",
+    "ship": 20018,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "favor": 2000
+  },
   "2022001": {
     "name": "Cleaning Supplies Toolbox",
     "description": "A toolbox of must-have items for cleaning and tidying up both at home and at the workplace. It's built with durable and resilient materials to protect the tools inside from damage.",

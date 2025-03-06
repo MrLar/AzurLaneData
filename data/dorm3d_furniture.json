@@ -482,5 +482,181 @@
       "CN"
     ],
     "contains": []
+  },
+  "301": {
+    "name": "Beary Comfy Bed",
+    "description": "The headboard, shaped like a teddy bear cookie, is simple yet cute.\nWhen you lie down in this bed, you can practically smell sea salt cookies, forgetting your fatigue and falling into the sweetest of dreams.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 301,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_ankeleiqi_commonfurniture2",
+    "room_id": 3,
+    "furni_type": 4,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "302": {
+    "name": "Blue Corner",
+    "description": "The colorful decorations and imaginative design fill this little corner with wonder and adventure.\nEven if it rained outside, this would put you in a sunny mood.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 302,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_ankeleiqi_commonfurniture3",
+    "room_id": 3,
+    "furni_type": 6,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "303": {
+    "name": "Warm Sofa",
+    "description": "A couch with an aroma reminiscent of fresh-baked cookies.\nEvery nook and cranny is as adorable as can be, providing a truly comforting rest.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 303,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_ankeleiqi_commonfurniture1",
+    "room_id": 3,
+    "furni_type": 5,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "304": {
+    "name": "Sacabambaspis Plushies",
+    "description": "Soft plushies modeled after an adorable aquatic creature.\nWhat could be more comforting?",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 304,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_ankeleiqi_commonfurniture5",
+    "room_id": 3,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "305": {
+    "name": "Breath of Fresh Air",
+    "description": "Layers on layers of little foliage.\nAnywhere you put it, natural comfort follows.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 305,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_ankeleiqi_commonfurniture4",
+    "room_id": 3,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "306": {
+    "name": "Records of Time",
+    "description": "Stylish picture frames hold whimsical artwork.\nSomeday, these frames may display the most precious memories of all.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 306,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_ankeleiqi_commonfurniture6",
+    "room_id": 3,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "307": {
+    "name": "Marine Adventure",
+    "description": "More than just a decoration, it's like a switch.\nOne touch turns the window into a magical portal into the sea.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 307,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_ankeleiqi_commonfurniture7",
+    "room_id": 3,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "321": {
+    "name": "Teatime Indulgence",
+    "description": "This coffee cup holds the contentment and comfort of indulging in a moment of fantasy.\nAnyone here can experience what it would be like to have a fairy-tale tea party.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 5,
+    "id": 321,
+    "purchaseable": true,
+    "expires": 0,
+    "icon": "dorm3d/items/3ddrom_ankeleiqi_premiumfurniture1",
+    "room_id": 3,
+    "furni_type": 6,
+    "exclusive": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
   }
 }

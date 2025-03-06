@@ -1252,5 +1252,537 @@
     ],
     "contains": [],
     "time": 2
+  },
+  "101": {
+    "room_id": 3,
+    "name": "Balloons and Photo",
+    "description": "A framed photo decorated with carefully selected balloons.\nAnchorage loves this little combo.\nThe bunny bow is still crinkled from the last time she tied it.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 101,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item1",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "102": {
+    "room_id": 3,
+    "name": "Bunny Tea Set",
+    "description": "A bunny-themed teapot and tiny cups to match.\nAnchorage takes good care of them.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 102,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item2",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "103": {
+    "room_id": 3,
+    "name": "Wish List",
+    "description": "A chalkboard hanging on the wall.\nAnchorage often writes her little goals on it.\nSometimes, you can see cute little doodles.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 103,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item3",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "104": {
+    "room_id": 3,
+    "name": "Trove of Knowledge",
+    "description": "Fairy tale books are neatly arranged in the bookcase.\nAll of them are wrapped, labeled, and sorted \nunder Anchorage's personal system.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 104,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item4",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "105": {
+    "room_id": 3,
+    "name": "Castle Storage",
+    "description": "A file storage container modeled after a fairy-tale castle.\nAnchorage uses it to store various notes and important documents.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 105,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item5",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "106": {
+    "room_id": 3,
+    "name": "Classic Piano",
+    "description": "A classic piano in the corner of the room.\nThe last score that Anchorage was learning is open on it, \nwith careful notes taken here and there.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 106,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item6",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "107": {
+    "room_id": 3,
+    "name": "Crayon Drawing",
+    "description": "Some crayon art left on Anchorage's desk.\nIt depicts the most beautiful thing she's ever seen, \nwhich seems to be... the Commander?",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 107,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item7",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "108": {
+    "room_id": 3,
+    "name": "Alarm Clock",
+    "description": "An alarm clock with a traditional, if not plain, design.\nIt sits on Anchorage's nightstand, \nensuring that she never misses an important moment.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 108,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item8",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "109": {
+    "room_id": 3,
+    "name": "Storage Box",
+    "description": "A storage box with a cute design.\nAnchorage keeps all kinds of odds and ends inside.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 109,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item9",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "110": {
+    "room_id": 3,
+    "name": "Floatie",
+    "description": "A swim ring adorned with stars.\nAnchorage considers it a summer must-have.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 110,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item10",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "111": {
+    "room_id": 3,
+    "name": "Safety Knife",
+    "description": "A beginner's kitchen knife that won't cut through skin.\nAnchorage has been learning how to cut veggies, \nno doubt dreaming of making delicious dishes someday.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 111,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item11",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "112": {
+    "room_id": 3,
+    "name": "Fairy Tale Picture Book",
+    "description": "A hardcover picture book.\nAnchorage keeps it safely stored, \nthough you can see the traces of her rapt reading on the pages.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 112,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item12",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "113": {
+    "room_id": 3,
+    "name": "Fluffy Plushie",
+    "description": "A penguin plushie wearing a little nightcap.\nAnchorage gives it pride of place on the sofa, \nperhaps hoping that the penguin will watch over her as she dreams.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 113,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item13",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "114": {
+    "room_id": 3,
+    "name": "Cactus",
+    "description": "An adorable cactus.\nAnchorage has given it a colorful pot, \nadding some warmth to its life.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 114,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item14",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "115": {
+    "room_id": 3,
+    "name": "Kitchenware",
+    "description": "A kitchenware set for playing house.\nAnchorage has arranged them neatly on the wall.\nIt's a little early for her to start cooking for real...",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 115,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item15",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "116": {
+    "room_id": 3,
+    "name": "Orca Chair",
+    "description": "A rocking chair made to look like a killer whale.\nIt's one of Anchorage's favorite places.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 116,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item16",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "117": {
+    "room_id": 3,
+    "name": "Basket",
+    "description": "A storage basket woven with rattan.\nAnchorage keeps her daily necessities in it.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 117,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item17",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "118": {
+    "room_id": 3,
+    "name": "Whale Plushie",
+    "description": "A blue whale plushie with round eyes and a friendly smile.\nShe must like collecting plushies.\nWhy not bring her a few some time?",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 118,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item18",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "119": {
+    "room_id": 3,
+    "name": "Small Blackboard",
+    "description": "On the blackboard is Anchorage's cute handwriting.\nBut what is this equation supposed to mean, exactly...?",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 119,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item19",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "120": {
+    "room_id": 3,
+    "name": "Cube Cushion",
+    "description": "A light-blue cushion in the shape of a die.\nOne side features a cute manta ray, \nand its soft colors add a hint of peace to the room.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 120,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item20",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "121": {
+    "room_id": 3,
+    "name": "Adorned Photos",
+    "description": "Rope and wooden clips hold up various beloved photos.\nEach of them is filled with warm memories of Anchorage.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 121,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item21",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "122": {
+    "room_id": 3,
+    "name": "Umbrella Stand",
+    "description": "A simple umbrella stand.\nAnchorage diligently stores her umbrellas inside, \nready for a rainy day.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 122,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item22",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 1
+  },
+  "123": {
+    "room_id": 3,
+    "name": "Thermos",
+    "description": "A brightly-colored thermos bottle.\nWhen it's cold out, Anchorage puts a hot drink inside.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 123,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item23",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 1
+  },
+  "124": {
+    "room_id": 3,
+    "name": "Stickers",
+    "description": "One sticker is a star, and the other is a manjuu.\nThey're put up in an inconspicuous place, \nbut it adds life to the room.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 124,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item24",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 1
+  },
+  "125": {
+    "room_id": 3,
+    "name": "Bedside Lamp",
+    "description": "A delicate bedside lamp.\nAnchorage sets it at the softest setting before bed, \nletting the warm light lull her into sweet dreams.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 125,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item25",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "126": {
+    "room_id": 3,
+    "name": "Whale Pendant Light",
+    "description": "A huge ceiling lamp shaped like a humpback whale.\nAnchorage gazes up at it from her bed, \nimagining herself deep in a dreamy underwater world.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 126,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item26",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "127": {
+    "room_id": 3,
+    "name": "Manjuu Mug",
+    "description": "A mug that looks like a manjuu.\nAnchorage's love for it is evident from \nhow she places it in the most conspicuous spot.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 127,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item27",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "128": {
+    "room_id": 3,
+    "name": "Bath Towels",
+    "description": "Perfectly folded bath towels.\nThey look like little clouds drifting across the sky together.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 128,
+    "icon": "dorm3d/collection/3ddrom_ankeleiqi_item28",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 2
   }
 }

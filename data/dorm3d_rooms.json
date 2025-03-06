@@ -105,6 +105,57 @@
       79
     ]
   },
+  "3": {
+    "id": 3,
+    "name": "Room of Anchorage",
+    "type": 2,
+    "characters": [
+      20018
+    ],
+    "invitable": [],
+    "memories": [
+      41,
+      42,
+      43,
+      51
+    ],
+    "icon": "dorm3d/rooms/room_icon_ankeleiqi",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "collectables": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128
+    ]
+  },
   "4": {
     "id": 4,
     "name": "Beach",
@@ -124,6 +175,17 @@
       },
       {
         "id": 322,
+        "cost": 800,
+        "currency": {
+          "id": 59005,
+          "name": "Gems",
+          "icon": "props/gem",
+          "linkable": true
+        },
+        "discount": 0
+      },
+      {
+        "id": 20018,
         "cost": 800,
         "currency": {
           "id": 59005,

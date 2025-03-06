@@ -7241,6 +7241,19 @@
         "limit": 4,
         "cost": 30,
         "limit_type": 1
+      },
+      {
+        "id": 21044,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/21044",
+        "name": "META Crystal - Andrea Doria META",
+        "limit": 4,
+        "cost": 30,
+        "limit_type": 1
       }
     ],
     "pools": [
@@ -7983,6 +7996,34 @@
         "use_alt": 0
       },
       {
+        "id": 1990301,
+        "type": 9,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "dorm3d/items/3ddrom_ankeleiqi_fancygift1",
+        "name": "Heart in Crayon",
+        "limit": 1,
+        "cost": 280,
+        "use_alt": 0,
+        "limit_type": 1
+      },
+      {
+        "id": 321,
+        "type": 10,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "dorm3d/items/3ddrom_ankeleiqi_premiumfurniture1",
+        "name": "Teatime Indulgence",
+        "limit": 1,
+        "cost": 480,
+        "use_alt": 0,
+        "limit_type": 1
+      },
+      {
         "id": 2022001,
         "type": 9,
         "linkable": true,
@@ -8006,7 +8047,7 @@
         "icon": "dorm3d/items/3ddrom_tianlangxing_premiumfurniture4",
         "name": "Sweet Secret",
         "limit": 1,
-        "cost": 400,
+        "cost": 480,
         "use_alt": 0,
         "limit_type": 1
       },

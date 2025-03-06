@@ -626,5 +626,305 @@
         ]
       }
     ]
+  },
+  "20018": {
+    "id": 20018,
+    "gid": 19903,
+    "name": "Anchorage",
+    "room_id": 3,
+    "icon": "dorm3d/char/ankeleiqi_db",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "gifts": [
+      1021001,
+      1021002,
+      1021003,
+      1990301
+    ],
+    "furniture": [
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      321
+    ],
+    "rarity": 7,
+    "favor_levels": [
+      {
+        "needed": 0,
+        "level": 1,
+        "items": []
+      },
+      {
+        "needed": 40,
+        "level": 2,
+        "items": [
+          {
+            "id": 1021001,
+            "type": 9,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_everyone_commongift3",
+            "name": "Bunny Plushie"
+          },
+          {
+            "id": 100301,
+            "type": 11,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/drom3d_camera1003",
+            "name": "HQ Tablet Cover: Delicious Amusement"
+          }
+        ]
+      },
+      {
+        "needed": 200,
+        "level": 3,
+        "items": [
+          {
+            "id": 304,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_ankeleiqi_commonfurniture5",
+            "name": "Sacabambaspis Plushies"
+          }
+        ]
+      },
+      {
+        "needed": 400,
+        "level": 4,
+        "items": [
+          {
+            "id": 1021002,
+            "type": 9,
+            "linkable": true,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_everyone_commongift2",
+            "name": "Romantic's Bouquet"
+          },
+          {
+            "id": 41,
+            "type": 14,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "dorm3d/recall/recall_41_icon",
+            "name": "Dorm3D Event: Let's Play!"
+          }
+        ]
+      },
+      {
+        "needed": 800,
+        "level": 5,
+        "items": [
+          {
+            "id": 1005,
+            "type": 15,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/icon_frame",
+            "name": "Icon Frame: Angelic Light"
+          }
+        ]
+      },
+      {
+        "needed": 1000,
+        "level": 6,
+        "items": [
+          {
+            "id": 1021002,
+            "type": 9,
+            "linkable": true,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_everyone_commongift2",
+            "name": "Romantic's Bouquet"
+          }
+        ]
+      },
+      {
+        "needed": 1500,
+        "level": 7,
+        "items": [
+          {
+            "id": 305,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_ankeleiqi_commonfurniture4",
+            "name": "Breath of Fresh Air"
+          }
+        ]
+      },
+      {
+        "needed": 2000,
+        "level": 8,
+        "items": [
+          {
+            "id": 1021002,
+            "type": 9,
+            "linkable": true,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_everyone_commongift2",
+            "name": "Romantic's Bouquet"
+          },
+          {
+            "id": 42,
+            "type": 14,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "dorm3d/recall/recall_42_icon",
+            "name": "Dorm3D Event: Hide and Seek"
+          }
+        ]
+      },
+      {
+        "needed": 3000,
+        "level": 9,
+        "items": [
+          {
+            "id": 100302,
+            "type": 11,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/drom3d_camera1003",
+            "name": "HQ Tablet Cover: Story Time"
+          }
+        ]
+      },
+      {
+        "needed": 4000,
+        "level": 10,
+        "items": [
+          {
+            "id": 1021002,
+            "type": 9,
+            "linkable": true,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_everyone_commongift2",
+            "name": "Romantic's Bouquet"
+          }
+        ]
+      },
+      {
+        "needed": 5000,
+        "level": 11,
+        "items": [
+          {
+            "id": 306,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_ankeleiqi_commonfurniture6",
+            "name": "Records of Time"
+          }
+        ]
+      },
+      {
+        "needed": 6000,
+        "level": 12,
+        "items": [
+          {
+            "id": 1021002,
+            "type": 9,
+            "linkable": true,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_everyone_commongift2",
+            "name": "Romantic's Bouquet"
+          },
+          {
+            "id": 43,
+            "type": 14,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "dorm3d/recall/recall_43_icon",
+            "name": "Dorm3D Event: Morning Kiss"
+          }
+        ]
+      },
+      {
+        "needed": 7000,
+        "level": 13,
+        "items": [
+          {
+            "id": 100303,
+            "type": 11,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/drom3d_camera1003",
+            "name": "HQ Tablet Cover: World of Drawing"
+          }
+        ]
+      },
+      {
+        "needed": 8000,
+        "level": 14,
+        "items": [
+          {
+            "id": 307,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_ankeleiqi_commonfurniture7",
+            "name": "Marine Adventure"
+          }
+        ]
+      },
+      {
+        "needed": 9000,
+        "level": 15,
+        "items": [
+          {
+            "id": 1006,
+            "type": 15,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/icon_frame",
+            "name": "Icon Frame: Adventure on the Blue Seas"
+          }
+        ]
+      }
+    ]
   }
 }
