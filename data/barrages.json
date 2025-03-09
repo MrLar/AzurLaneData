@@ -245,7 +245,8 @@
           "spread": [
             10,
             25
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -276,7 +277,7 @@
             0,
             200
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 360,
           "splash": 15,
           "velocity": 0,
@@ -288,7 +289,8 @@
           "spread": [
             0,
             0
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 400,
@@ -312,7 +314,7 @@
             0,
             200
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 360,
           "splash": 1,
           "velocity": 0,
@@ -324,7 +326,8 @@
           "spread": [
             0,
             0
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -399,7 +402,8 @@
           "spread": [
             0,
             0
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -556,7 +560,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 13,
           "splash": 28,
           "velocity": 1.5,
@@ -568,7 +572,8 @@
           "spread": [
             42,
             42
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 111,
@@ -591,7 +596,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -603,7 +608,8 @@
           "spread": [
             33,
             33
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -633,7 +639,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 180,
           "splash": 15,
           "velocity": 0,
@@ -645,7 +651,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 222,
@@ -668,7 +675,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 180,
           "splash": 15,
           "velocity": 0,
@@ -680,7 +687,8 @@
           "spread": [
             0,
             0
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -1019,7 +1027,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -1031,7 +1039,8 @@
           "spread": [
             33,
             33
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -1294,7 +1303,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -1306,7 +1315,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -1818,7 +1828,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 28,
           "velocity": 1.5,
@@ -1834,7 +1844,8 @@
           "buffs": [
             "Special Burn (5 + 0.1 * AVI DMG with 1 tick every 3 seconds for 15s, ID: 317)"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         },
         {
           "damage": 121,
@@ -1857,7 +1868,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -1873,7 +1884,8 @@
           "buffs": [
             "Special Burn (5 + 0.1 * AVI DMG with 1 tick every 3 seconds for 15s, ID: 317)"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         }
       ]
     }
@@ -2195,7 +2207,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 19,
           "splash": 22,
           "velocity": 1.5,
@@ -2207,7 +2219,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 138,
@@ -2230,7 +2243,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -2242,7 +2255,8 @@
           "spread": [
             32,
             32
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -2286,7 +2300,8 @@
           "spread": [
             1,
             1
-          ]
+          ],
+          "airdrop": true
         }
       ]
     },
@@ -2492,7 +2507,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 19,
           "splash": 22,
           "velocity": 1.5,
@@ -2504,7 +2519,8 @@
           "spread": [
             40,
             40
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 138,
@@ -2527,7 +2543,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -2539,7 +2555,8 @@
           "spread": [
             33,
             33
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -2832,7 +2849,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -2844,7 +2861,8 @@
           "spread": [
             23,
             23
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 226,
@@ -2867,7 +2885,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -2879,7 +2897,8 @@
           "spread": [
             26,
             26
-          ]
+          ],
+          "airdrop": true
         }
       ]
     },
@@ -2906,7 +2925,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -2918,7 +2937,8 @@
           "spread": [
             23,
             23
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 226,
@@ -2940,7 +2960,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -2952,7 +2972,8 @@
           "spread": [
             26,
             26
-          ]
+          ],
+          "airdrop": true
         }
       ]
     },
@@ -2979,7 +3000,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -2991,7 +3012,8 @@
           "spread": [
             23,
             23
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 226,
@@ -3013,7 +3035,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -3025,7 +3047,8 @@
           "spread": [
             26,
             26
-          ]
+          ],
+          "airdrop": true
         }
       ]
     },
@@ -3052,7 +3075,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -3064,7 +3087,8 @@
           "spread": [
             23,
             23
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 226,
@@ -3086,7 +3110,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -3098,7 +3122,8 @@
           "spread": [
             26,
             26
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -3376,7 +3401,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 5,
           "velocity": 1.5,
@@ -3388,7 +3413,8 @@
           "spread": [
             4,
             4
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 288,
@@ -3683,7 +3709,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 180,
           "splash": 15,
           "velocity": 0,
@@ -3695,7 +3721,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 222,
@@ -3718,7 +3745,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 180,
           "splash": 15,
           "velocity": 0,
@@ -3730,7 +3757,8 @@
           "spread": [
             0,
             0
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -3760,7 +3788,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 180,
           "splash": 15,
           "velocity": 0,
@@ -3772,7 +3800,8 @@
           "spread": [
             0,
             0
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 222,
@@ -3795,7 +3824,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 180,
           "splash": 15,
           "velocity": 0,
@@ -3807,7 +3836,8 @@
           "spread": [
             0,
             0
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -3912,7 +3942,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -3924,7 +3954,8 @@
           "spread": [
             33,
             33
-          ]
+          ],
+          "airdrop": true
         }
       ]
     },
@@ -3952,7 +3983,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 28,
           "velocity": 1.5,
@@ -3964,7 +3995,8 @@
           "spread": [
             42,
             42
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 121,
@@ -3987,7 +4019,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -3999,7 +4031,8 @@
           "spread": [
             33,
             33
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 121,
@@ -4022,7 +4055,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -4034,7 +4067,8 @@
           "spread": [
             33,
             33
-          ]
+          ],
+          "airdrop": true
         }
       ]
     },
@@ -4097,7 +4131,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 28,
           "velocity": 1.5,
@@ -4109,7 +4143,8 @@
           "spread": [
             42,
             42
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 121,
@@ -4132,7 +4167,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -4144,7 +4179,8 @@
           "spread": [
             33,
             33
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -4338,7 +4374,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -4350,7 +4386,8 @@
           "spread": [
             23,
             23
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 226,
@@ -4373,7 +4410,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -4385,7 +4422,8 @@
           "spread": [
             26,
             26
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -5202,7 +5240,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -5214,7 +5252,8 @@
           "spread": [
             33,
             33
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -5450,7 +5489,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -5462,7 +5501,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -5885,7 +5925,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -5897,7 +5937,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 226,
@@ -5920,7 +5961,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -5932,7 +5973,8 @@
           "spread": [
             33,
             33
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 240,
@@ -6457,7 +6499,8 @@
             "Attach \"Slowed by Northern Parliament\" tag for 4s",
             "Special Flood (23 DMG with 1 tick every 3.5s for 4s, ID: 323)"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         },
         {
           "damage": 56,
@@ -6497,7 +6540,8 @@
             "Attach \"Slowed by Northern Parliament\" tag for 4s",
             "Special Flood (23 DMG with 1 tick every 3.5s for 4s, ID: 323r 4s, ID: 323r 4s, ID: 323)"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         },
         {
           "damage": 56,
@@ -6537,7 +6581,8 @@
             "Attach \"Slowed by Northern Parliament\" tag for 4s",
             "Special Flood (23 DMG with 1 tick every 3.5s for 4s, ID: 323)"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         },
         {
           "damage": 20,
@@ -6601,7 +6646,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 28,
           "velocity": 1.5,
@@ -6617,7 +6662,8 @@
           "buffs": [
             "Standard Armor Break (8% for 6s, ID: 401) if BB/BC/BBV"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         },
         {
           "damage": 220,
@@ -6640,7 +6686,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 19,
           "velocity": 1.5,
@@ -6656,7 +6702,8 @@
           "buffs": [
             "Standard Armor Break (8% for 6s, ID: 401) if BB/BC/BBV"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         }
       ]
     }
@@ -6685,7 +6732,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 5,
           "velocity": 1.5,
@@ -6697,7 +6744,8 @@
           "spread": [
             4,
             4
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 456,
@@ -6719,7 +6767,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 28,
           "velocity": 1.5,
@@ -6731,7 +6779,8 @@
           "spread": [
             42,
             42
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -7317,7 +7366,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -7329,7 +7378,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 96,
@@ -7436,7 +7486,7 @@
             0,
             90
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 60,
           "splash": 35,
           "velocity": 0.1,
@@ -7452,7 +7502,8 @@
           "buffs": [
             "Decrease Hit Rate by 30% for 2s and then by 15% for 2s"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         }
       ]
     }
@@ -7523,7 +7574,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 19,
           "splash": 22,
           "velocity": 1.5,
@@ -7535,7 +7586,8 @@
           "spread": [
             40,
             40
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 342,
@@ -7593,7 +7645,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 19,
           "splash": 22,
           "velocity": 1.5,
@@ -7605,7 +7657,8 @@
           "spread": [
             40,
             40
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -8162,7 +8215,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -8174,7 +8227,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 260,
@@ -8572,7 +8626,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -8584,7 +8638,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         }
       ]
     },
@@ -8612,7 +8667,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -8624,7 +8679,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         }
       ]
     },
@@ -8734,7 +8790,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -8746,7 +8802,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         }
       ]
     },
@@ -8774,7 +8831,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -8786,7 +8843,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         }
       ]
     },
@@ -9173,7 +9231,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 19,
           "splash": 22,
           "velocity": 1.5,
@@ -9185,7 +9243,8 @@
           "spread": [
             40,
             40
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 138,
@@ -9208,7 +9267,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -9220,7 +9279,8 @@
           "spread": [
             33,
             33
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -9290,7 +9350,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -9302,7 +9362,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -9786,7 +9847,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -9798,7 +9859,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         }
       ]
     },
@@ -9826,7 +9888,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -9838,7 +9900,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -10422,7 +10485,8 @@
             "Attach \"Slowed by Northern Parliament\" tag for 4s",
             "Special Flood (23 DMG with 1 tick every 3.5s for 4s, ID: 323)"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         }
       ]
     }
@@ -10829,7 +10893,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 16,
           "velocity": 1.5,
@@ -10841,7 +10905,8 @@
           "spread": [
             33,
             33
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 240,
@@ -12077,7 +12142,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -12094,7 +12159,8 @@
             "Slow by 30% for 5s, 50% chance to increase aviation DMG taken by 6% for 8s if fleet has a Sakura CV",
             "Decrease one of EVA, HIT or DMG dealt by 10% (picked at random)"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         },
         {
           "damage": 22,
@@ -12784,7 +12850,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -12796,7 +12862,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -13426,7 +13493,8 @@
           "spread": [
             1,
             1
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -14171,7 +14239,7 @@
             0,
             90
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 60,
           "splash": 35,
           "velocity": 0.1,
@@ -14183,7 +14251,8 @@
           "spread": [
             0,
             0
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -14254,7 +14323,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 16,
           "velocity": 1.5,
@@ -14266,7 +14335,8 @@
           "spread": [
             33,
             33
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 330,
@@ -14364,7 +14434,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 16,
           "velocity": 1.5,
@@ -14376,7 +14446,8 @@
           "spread": [
             33,
             33
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -14952,7 +15023,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 19,
           "splash": 10,
           "velocity": 1.5,
@@ -14968,7 +15039,8 @@
           "buffs": [
             "Special Burn (5 + 0.3 * AVI DMG with 1 tick every 3 seconds for 12s, ID: 455)"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         }
       ]
     }
@@ -16356,7 +16428,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 15,
           "velocity": 1.5,
@@ -16372,7 +16444,8 @@
           "buffs": [
             "Increase damage taken by 5% if Light/Medium Armor or 10% if Heavy Armor"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         },
         {
           "damage": 207,
@@ -16433,7 +16506,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 15,
           "velocity": 1.5,
@@ -16449,7 +16522,8 @@
           "buffs": [
             "Increase damage taken by 5% if Light/Medium Armor or 10% if Heavy Armor"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         },
         {
           "damage": 270,
@@ -16512,7 +16586,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 15,
           "velocity": 1.5,
@@ -16528,7 +16602,8 @@
           "buffs": [
             "Increase damage taken by 5% if Light/Medium Armor or 10% if Heavy Armor"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         },
         {
           "damage": 207,
@@ -16829,7 +16904,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 19,
           "splash": 10,
           "velocity": 1.5,
@@ -16841,7 +16916,8 @@
           "spread": [
             20,
             20
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 200,
@@ -16901,7 +16977,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 5,
           "velocity": 1.5,
@@ -16913,7 +16989,8 @@
           "spread": [
             4,
             4
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 200,
@@ -16973,7 +17050,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 5,
           "velocity": 1.5,
@@ -16985,7 +17062,8 @@
           "spread": [
             4,
             4
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -17129,7 +17207,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 19,
           "splash": 22,
           "velocity": 1.5,
@@ -17141,7 +17219,8 @@
           "spread": [
             40,
             40
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -17613,7 +17692,8 @@
           "spread": [
             1,
             1
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -17643,7 +17723,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -17655,7 +17735,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -18022,7 +18103,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 19,
           "splash": 22,
           "velocity": 1.5,
@@ -18034,7 +18115,8 @@
           "spread": [
             33,
             33
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -18448,7 +18530,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -18460,7 +18542,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -18890,7 +18973,7 @@
             0,
             120
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 360,
           "splash": 25,
           "velocity": 0,
@@ -18902,7 +18985,8 @@
           "spread": [
             0,
             0
-          ]
+          ],
+          "airdrop": true
         }
       ]
     },
@@ -18971,7 +19055,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -18983,7 +19067,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -19053,7 +19138,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 15,
           "velocity": 0,
@@ -19065,7 +19150,8 @@
           "spread": [
             5,
             3
-          ]
+          ],
+          "airdrop": true
         }
       ]
     },
@@ -19325,7 +19411,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -19337,7 +19423,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         }
       ]
     },
@@ -19365,7 +19452,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 19,
           "splash": 22,
           "velocity": 1.5,
@@ -19377,7 +19464,8 @@
           "spread": [
             40,
             40
-          ]
+          ],
+          "airdrop": true
         }
       ]
     },
@@ -19795,7 +19883,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 8,
           "velocity": 4,
@@ -19807,7 +19895,8 @@
           "spread": [
             2,
             2
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -20592,7 +20681,8 @@
           "spread": [
             1,
             1
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -20715,7 +20805,8 @@
           "spread": [
             1,
             1
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 27,
@@ -21361,7 +21452,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 6,
           "velocity": 1.5,
@@ -21373,7 +21464,8 @@
           "spread": [
             4,
             4
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -21744,7 +21836,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 10,
           "velocity": 1.5,
@@ -21756,7 +21848,8 @@
           "spread": [
             18,
             18
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 20,
@@ -22062,7 +22155,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 35,
           "velocity": 0,
@@ -22081,7 +22174,8 @@
             "Increase damage taken by 8% for 6s",
             "Increase crit rate of attack by 10% if attacker is Sovetsky Soyuz"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         },
         {
           "damage": 200,
@@ -22103,7 +22197,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 30,
           "velocity": 0,
@@ -22122,7 +22216,8 @@
             "Increase damage taken by 8% for 6s",
             "Increase crit rate of attack by 10% if attacker is Sovetsky Soyuz"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         }
       ]
     }
@@ -22151,7 +22246,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 35,
           "velocity": 0,
@@ -22170,7 +22265,8 @@
             "Increase damage taken by 8% for 6s",
             "Increase crit rate of attack by 10% if attacker is Sovetsky Soyuz"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         },
         {
           "damage": 200,
@@ -22192,7 +22288,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 30,
           "velocity": 0,
@@ -22211,7 +22307,8 @@
             "Increase damage taken by 8% for 6s",
             "Increase crit rate of attack by 10% if attacker is Sovetsky Soyuz"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         }
       ]
     }
@@ -24024,7 +24121,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 12,
           "velocity": 1.5,
@@ -24041,7 +24138,8 @@
             "Increase DMG taken by 8% for 7s",
             "Special Burn (255 DMG with 1 tick every 3 seconds for 7s, ID: 407, not considered an ignite)"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         },
         {
           "damage": 427,
@@ -25653,7 +25751,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 12,
           "velocity": 1.5,
@@ -25670,7 +25768,8 @@
             "Increase DMG taken by 8% for 7s",
             "Special Burn (255 DMG with 1 tick every 3 seconds for 7s, ID: 407)"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         },
         {
           "damage": 239,
@@ -26590,7 +26689,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 22,
           "velocity": 1.5,
@@ -26602,7 +26701,8 @@
           "spread": [
             40,
             40
-          ]
+          ],
+          "airdrop": true
         }
       ]
     },
@@ -26677,7 +26777,8 @@
           "spread": [
             1,
             1
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 301,
@@ -26700,7 +26801,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 22,
           "velocity": 1.5,
@@ -26712,7 +26813,8 @@
           "spread": [
             40,
             40
-          ]
+          ],
+          "airdrop": true
         }
       ]
     },
@@ -26775,7 +26877,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 22,
           "velocity": 1.5,
@@ -26787,7 +26889,8 @@
           "spread": [
             40,
             40
-          ]
+          ],
+          "airdrop": true
         }
       ]
     },
@@ -26862,7 +26965,8 @@
           "spread": [
             1,
             1
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 330,
@@ -26885,7 +26989,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 22,
           "velocity": 1.5,
@@ -26897,7 +27001,8 @@
           "spread": [
             40,
             40
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -38903,7 +39008,7 @@
             0,
             100
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 150,
           "splash": 6,
           "velocity": 1.5,
@@ -38915,7 +39020,8 @@
           "spread": [
             15,
             15
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -39902,7 +40008,7 @@
             0,
             100
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 150,
           "splash": 6,
           "velocity": 1.5,
@@ -39914,7 +40020,8 @@
           "spread": [
             15,
             15
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -41269,7 +41376,7 @@
             0,
             100
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 150,
           "splash": 6,
           "velocity": 1.5,
@@ -41281,7 +41388,8 @@
           "spread": [
             15,
             15
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -43092,7 +43200,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 19,
           "splash": 22,
           "velocity": 1.5,
@@ -43104,7 +43212,8 @@
           "spread": [
             40,
             40
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 138,
@@ -43127,7 +43236,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -43139,7 +43248,8 @@
           "spread": [
             33,
             33
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -43244,7 +43354,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -43256,7 +43366,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -43654,7 +43765,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -43666,7 +43777,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -44256,7 +44368,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 19,
           "splash": 22,
           "velocity": 1.5,
@@ -44268,7 +44380,8 @@
           "spread": [
             40,
             40
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 138,
@@ -44291,7 +44404,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -44303,7 +44416,8 @@
           "spread": [
             33,
             33
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -44332,7 +44446,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 10,
           "velocity": 0,
@@ -44349,7 +44463,8 @@
             "Decrease AA by 3% for 6s",
             "Increase DMG taken from Luna by 10% for 6s"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         }
       ]
     }
@@ -44689,7 +44804,8 @@
           "spread": [
             1,
             1
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 240,
@@ -47133,7 +47249,8 @@
           "spread": [
             1,
             1
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -47203,7 +47320,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 9,
           "velocity": 0,
@@ -47215,7 +47332,8 @@
           "spread": [
             20,
             20
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -47285,7 +47403,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 35,
           "velocity": 0,
@@ -47301,7 +47419,8 @@
           "buffs": [
             "Slow by 15% for 5s"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         }
       ]
     },
@@ -47328,7 +47447,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 35,
           "velocity": 0,
@@ -47344,7 +47463,8 @@
           "buffs": [
             "Slow by 15% for 5s"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         }
       ]
     }
@@ -49048,7 +49168,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 18,
           "velocity": 0,
@@ -49065,7 +49185,8 @@
             "Special Burn (5 + 0.6 * TRP DMG with 1 tick every 3 seconds for 20s, ID: 110094)",
             "While any enemy has this burn Homura gains 20% Crit DMG"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         }
       ]
     }
@@ -49094,7 +49215,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 15,
           "velocity": 0,
@@ -49106,7 +49227,8 @@
           "spread": [
             0,
             0
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -49176,7 +49298,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 30,
           "velocity": 0,
@@ -49194,7 +49316,8 @@
             "Apply saved stack if already slowed",
             "Every stack increases chance to set speed to 0 for 2s next slow by 20%"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         }
       ]
     }
@@ -49392,7 +49515,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 20,
           "velocity": 0,
@@ -49408,7 +49531,8 @@
           "buffs": [
             "Special Burn (105 DMG with 1 tick every second for 20s, ID: 110183)"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         },
         {
           "damage": 110,
@@ -49487,6 +49611,203 @@
           "spread": [
             0,
             0
+          ]
+        }
+      ]
+    }
+  ],
+  "110220": [
+    {
+      "name": "New Link Chance! (Variant 1)",
+      "parts": [
+        {
+          "damage": 35,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "aa",
+          "ratio": 1,
+          "armor_mod": [
+            0.99,
+            0.99,
+            0.99
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 0,
+          "angle": 180,
+          "splash": 19,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            36,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "name": "New Link Chance! (Variant 2)",
+      "parts": [
+        {
+          "damage": 35,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "aa",
+          "ratio": 1,
+          "armor_mod": [
+            0.99,
+            0.99,
+            0.99
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 0,
+          "angle": 180,
+          "splash": 19,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            36,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "name": "New Link Chance! (Variant 3)",
+      "parts": [
+        {
+          "damage": 35,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "aa",
+          "ratio": 1,
+          "armor_mod": [
+            0.99,
+            0.99,
+            0.99
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 0,
+          "angle": 180,
+          "splash": 19,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            36,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "name": "New Link Chance! (Variant 4)",
+      "parts": [
+        {
+          "damage": 35,
+          "coefficient": 1,
+          "count": 5,
+          "stat": "aa",
+          "ratio": 1,
+          "armor_mod": [
+            0.99,
+            0.99,
+            0.99
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 0,
+          "angle": 180,
+          "splash": 19,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            36,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "name": "New Link Chance! (Variant 5)",
+      "parts": [
+        {
+          "damage": 35,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "aa",
+          "ratio": 1,
+          "armor_mod": [
+            0.99,
+            0.99,
+            0.99
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 0,
+          "angle": 180,
+          "splash": 19,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            36,
+            36
           ]
         }
       ]
@@ -49781,7 +50102,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 20,
           "velocity": 0,
@@ -49797,7 +50118,8 @@
           "buffs": [
             "Increase torpedo DMG taken from Nana by 10% for 8s"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         }
       ]
     }
@@ -49826,7 +50148,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 20,
           "velocity": 0,
@@ -49842,7 +50164,8 @@
           "buffs": [
             "Increase torpedo DMG taken from Nana by 10% for 8s"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         },
         {
           "damage": 30,
@@ -50729,7 +51052,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -50741,7 +51064,8 @@
           "spread": [
             23,
             23
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 226,
@@ -50764,7 +51088,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -50776,7 +51100,8 @@
           "spread": [
             26,
             26
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -51623,7 +51948,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 34,
           "velocity": 0,
@@ -51639,7 +51964,8 @@
           "buffs": [
             "Special Burn (119 DMG with 1 tick every 3 seconds for 30s, ID: 150028)"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         },
         {
           "damage": 115,
@@ -51722,7 +52048,8 @@
           "buffs": [
             "3% Lifesteal directed torwards specific ship"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         }
       ]
     }
@@ -53063,7 +53390,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -53075,7 +53402,8 @@
           "spread": [
             33,
             33
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 425,
@@ -53098,7 +53426,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -53110,7 +53438,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 204,
@@ -53133,7 +53462,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -53145,7 +53474,8 @@
           "spread": [
             33,
             33
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 280,
@@ -54451,7 +54781,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 19,
           "splash": 16,
           "velocity": 1.5,
@@ -54467,7 +54797,8 @@
           "buffs": [
             "Slow by 20% for 10s"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         },
         {
           "damage": 354,
@@ -54490,7 +54821,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 18,
           "velocity": 1.5,
@@ -54506,7 +54837,8 @@
           "buffs": [
             "Slow by 20% for 10s"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         }
       ]
     }
@@ -56183,7 +56515,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 16,
           "velocity": 1.5,
@@ -56195,7 +56527,8 @@
           "spread": [
             23,
             23
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 300,
@@ -56218,7 +56551,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -56230,7 +56563,8 @@
           "spread": [
             26,
             26
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 174,
@@ -57589,7 +57923,8 @@
           "buffs": [
             "Standard Burn (5 + 0.6 * FP DMG with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         }
       ]
     }
@@ -58116,7 +58451,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 30,
           "velocity": 0,
@@ -58128,7 +58463,8 @@
           "spread": [
             5,
             5
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -58411,7 +58747,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 20,
           "velocity": 0,
@@ -58427,7 +58763,8 @@
           "buffs": [
             "Apply \"Vestal META Mark\" for 5s"
           ],
-          "buff_chance": 1
+          "buff_chance": 1,
+          "airdrop": true
         }
       ]
     }
@@ -59524,7 +59861,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 25,
           "velocity": 0,
@@ -59536,7 +59873,8 @@
           "spread": [
             5,
             5
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -59727,7 +60065,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 22,
           "splash": 19,
           "velocity": 1.5,
@@ -59739,7 +60077,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 50,
@@ -60193,7 +60532,7 @@
             0,
             120
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 360,
           "splash": 10,
           "velocity": 0,
@@ -60205,7 +60544,8 @@
           "spread": [
             60,
             50
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -62046,7 +62386,7 @@
             0,
             200
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 360,
           "splash": 1,
           "velocity": 0,
@@ -62058,7 +62398,8 @@
           "spread": [
             0,
             0
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 300,
@@ -62080,7 +62421,7 @@
             0,
             200
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 360,
           "splash": 15,
           "velocity": 0,
@@ -62092,7 +62433,8 @@
           "spread": [
             0,
             0
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -62175,7 +62517,8 @@
           "spread": [
             1,
             1
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -64078,7 +64421,8 @@
           "buffs": [
             "Special Flood (18 + 0.3 * FP DMG with 1 tick every 3 seconds for 18s, ID: 1017203)"
           ],
-          "buff_chance": 0.1
+          "buff_chance": 0.1,
+          "airdrop": true
         },
         {
           "damage": 27,
@@ -65060,7 +65404,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 22,
           "velocity": 1.5,
@@ -65072,7 +65416,8 @@
           "spread": [
             42,
             42
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 125,
@@ -65094,7 +65439,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 25,
           "splash": 19,
           "velocity": 1.5,
@@ -65106,7 +65451,8 @@
           "spread": [
             36,
             36
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -65649,7 +65995,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 19,
           "splash": 22,
           "velocity": 1.5,
@@ -65661,7 +66007,8 @@
           "spread": [
             33,
             33
-          ]
+          ],
+          "airdrop": true
         }
       ]
     },
@@ -65689,7 +66036,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 19,
           "splash": 22,
           "velocity": 1.5,
@@ -65701,7 +66048,8 @@
           "spread": [
             28,
             28
-          ]
+          ],
+          "airdrop": true
         }
       ]
     }
@@ -65943,7 +66291,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 15,
           "velocity": 1.5,
@@ -65955,7 +66303,8 @@
           "spread": [
             10,
             10
-          ]
+          ],
+          "airdrop": true
         },
         {
           "damage": 72,

@@ -41,6 +41,7 @@ Barrage Part provides information about a single part of a barrage. These parts 
 | **shell_range?**  |                           `number[]`                            |                                     **(Optional)** Min and max Range of the bullet/torpedo.                                     |
 |    **is_air?**    |                            `boolean`                            |                **(Optional)** Whether this part is (probably) carried by an aircraft (or aircraft like entity).                 |
 |   **stat_cap?**   |                            `number`                             | **(Optional)** This value cannot be exceeded by stat scaling, if absent the cap is non-existent and scaling can go to infinity. |
+|   **airdrop?**    |                            `boolean`                            |                                **(Optional)** Whether this armament behaves like a carpet bomb.                                 |
 
 
 Note: This interface shares a lot in common with regular weapons, however the overlap is not exactly 1:1 therefore it does not directly extend Weapon or any of it's sub-types.

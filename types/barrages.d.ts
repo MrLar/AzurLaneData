@@ -31,4 +31,5 @@ interface BarragePart {
     buff_chance?: number
     notes: string[]
     is_air?: boolean
+    airdrop?: boolean
 }
