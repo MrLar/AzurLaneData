@@ -94,6 +94,10 @@ export interface Weapon extends ExtendedWeapon, ReloadableWeapon {
     delay: number
     coefficient: number[]
     aircraft: false
+    tracker?: {
+        angular: number
+        range: number
+    }
 }
 
 export interface Armament extends ExtendedWeapon, ReloadableWeapon {

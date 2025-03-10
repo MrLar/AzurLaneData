@@ -25,10 +25,11 @@ It additionally provides the following properties:
 Weapon extends both [`ExtendedWeapon`](../index.md#extended-weapon)
 and [`ReloadableWeapon`](../index.md#reloadable-weapon) and additionally provides the following:
 
-|    Property     |    Type    |                                                             Description                                                              |
-| :-------------: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------: |
-|    **delay**    |  `number`  | Total delay of the entire firing logic. Commonly referred to as `VolleyTime`. This effectively extends the guns **final** cooldown.. |
-| **coefficient** | `number[]` |                            Weapon coefficient at each enhancement level (i.E. index 0 is +0, and so on).                             |
+|    Property     |                         Type                          |                                                             Description                                                              |
+| :-------------: | :---------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+|    **delay**    |                       `number`                        | Total delay of the entire firing logic. Commonly referred to as `VolleyTime`. This effectively extends the guns **final** cooldown.. |
+| **coefficient** |                      `number[]`                       |                            Weapon coefficient at each enhancement level (i.E. index 0 is +0, and so on).                             |
+|  **tracker?**   | [`MagneticTracker`](../../common.md#magnetic-tracker) |  **(Optional)** Tracker the ammo carried has in it, this is only potentially present if the ammo is a torpedo (4) or a missile (8).  |
 
 # Aircraft
 

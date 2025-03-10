@@ -32,4 +32,8 @@ interface BarragePart {
     notes: string[]
     is_air?: boolean
     airdrop?: boolean
+    tracker?: {
+        angular: number
+        range: number
+    }
 }

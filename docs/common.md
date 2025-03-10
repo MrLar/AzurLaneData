@@ -415,3 +415,12 @@ Cruise Pass refers to a single season of the in game Battle Pass:
 |   **season**   |          `number`          |   The season of the pass   |
 | **free_items** | [`ItemDrop[]`](#item-drop) | All items in the free tier |
 | **paid_items** | [`ItemDrop[]`](#item-drop) | All items in the paid tier |
+
+# Magnetic Tracker
+
+Magnetic tracker provides the properties relevant for magnetic tracking of torpedoes:
+
+|  Property   |    Type    |                  Description                  |
+| :---------: | :--------: | :-------------------------------------------: |
+| **angular** |  `number`  | The angular constant (used for turning rate). |
+|  **range**  | `number[]` |              The tracking range.              |

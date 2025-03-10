@@ -425,7 +425,7 @@
       "barrage_id": 1401,
       "stat": "trp",
       "ratio": 1,
-      "aim_type": 0,
+      "aim_type": 1,
       "bullet_id": 1800,
       "armor_mod": [
         0.8,
@@ -504,7 +504,7 @@
       "barrage_id": 1402,
       "stat": "trp",
       "ratio": 1,
-      "aim_type": 0,
+      "aim_type": 1,
       "bullet_id": 1800,
       "armor_mod": [
         0.8,
@@ -583,7 +583,7 @@
       "barrage_id": 1403,
       "stat": "trp",
       "ratio": 1,
-      "aim_type": 0,
+      "aim_type": 1,
       "bullet_id": 1800,
       "armor_mod": [
         0.8,
@@ -662,7 +662,7 @@
       "barrage_id": 1404,
       "stat": "trp",
       "ratio": 1,
-      "aim_type": 0,
+      "aim_type": 1,
       "bullet_id": 1800,
       "armor_mod": [
         0.8,
@@ -934,8 +934,9 @@
         "barrage_id": 2120,
         "stat": "avi",
         "ratio": 1,
-        "aim_type": 0,
+        "aim_type": 1,
         "bullet_id": 2125,
+        "airdrop": true,
         "ammo": 6,
         "spread": [
           42,
@@ -1220,8 +1221,9 @@
         "barrage_id": 2120,
         "stat": "avi",
         "ratio": 1,
-        "aim_type": 0,
+        "aim_type": 1,
         "bullet_id": 2125,
+        "airdrop": true,
         "ammo": 6,
         "spread": [
           42,
@@ -1506,8 +1508,9 @@
         "barrage_id": 2120,
         "stat": "avi",
         "ratio": 1,
-        "aim_type": 0,
+        "aim_type": 1,
         "bullet_id": 2125,
+        "airdrop": true,
         "ammo": 6,
         "spread": [
           42,
@@ -1699,8 +1702,9 @@
         "barrage_id": 2120,
         "stat": "avi",
         "ratio": 1,
-        "aim_type": 0,
+        "aim_type": 1,
         "bullet_id": 2125,
+        "airdrop": true,
         "ammo": 6,
         "spread": [
           42,
@@ -1985,8 +1989,9 @@
         "barrage_id": 2120,
         "stat": "avi",
         "ratio": 1,
-        "aim_type": 0,
+        "aim_type": 1,
         "bullet_id": 2125,
+        "airdrop": true,
         "ammo": 6,
         "spread": [
           42,
@@ -2078,7 +2083,7 @@
       "barrage_id": 1400,
       "stat": "trp",
       "ratio": 1,
-      "aim_type": 0,
+      "aim_type": 1,
       "bullet_id": 1821,
       "armor_mod": [
         0.7,
@@ -2235,8 +2240,9 @@
         "barrage_id": 2120,
         "stat": "avi",
         "ratio": 0.8,
-        "aim_type": 0,
+        "aim_type": 1,
         "bullet_id": 2122,
+        "airdrop": true,
         "ammo": 6,
         "spread": [
           36,
@@ -2598,8 +2604,9 @@
         "barrage_id": 2120,
         "stat": "avi",
         "ratio": 1,
-        "aim_type": 0,
+        "aim_type": 1,
         "bullet_id": 2125,
+        "airdrop": true,
         "ammo": 6,
         "spread": [
           42,
@@ -2691,8 +2698,9 @@
         "barrage_id": 2120,
         "stat": "avi",
         "ratio": 0.8,
-        "aim_type": 0,
+        "aim_type": 1,
         "bullet_id": 2122,
+        "airdrop": true,
         "ammo": 6,
         "spread": [
           36,
@@ -2975,8 +2983,9 @@
         "barrage_id": 2120,
         "stat": "avi",
         "ratio": 1,
-        "aim_type": 0,
+        "aim_type": 1,
         "bullet_id": 2125,
+        "airdrop": true,
         "ammo": 6,
         "spread": [
           42,
@@ -4974,7 +4983,7 @@
       "barrage_id": 1400,
       "stat": "trp",
       "ratio": 1,
-      "aim_type": 0,
+      "aim_type": 1,
       "bullet_id": 1800,
       "armor_mod": [
         0.8,
