@@ -134,6 +134,4 @@ export type Rarity =
 3 | // rare
 4 | // elite
 5 | // super rare
-6 | // ultra rare
-7 | // priority
-8 // decisive
+6 // ultra rare
