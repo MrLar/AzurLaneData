@@ -4,7 +4,7 @@ title: Common & Misc. Objects Documentation
 
 # Rarity
 
-Rarity is a numeric value with the range `[1, 8]` where each number represents an in-game rarity:
+Rarity is a numeric value with the range `[1, 6]` where each number represents an in-game rarity:
 
 | Value |    Label    |                  Description                  |
 | :---: | :---------: | :-------------------------------------------: |
@@ -14,8 +14,6 @@ Rarity is a numeric value with the range `[1, 8]` where each number represents a
 |   4   |    Elite    |     Rarity for elite ships and equipment      |
 |   5   | Super Rare  |   Rarity for super rare ships and equipment   |
 |   6   | Ultra Rare  |   Rarity for ultra rare ships and equipment   |
-|   7   |  Priority   |        Rarity for priority (PR) ships         |
-|   8   |  Decisive   |        Rarity for decisive (DR) ships         |
 
 # Nation
 
