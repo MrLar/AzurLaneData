@@ -61840,6 +61840,40 @@
             0,
             0
           ]
+        },
+        {
+          "damage": 15,
+          "coefficient": 1,
+          "count": 60,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.9,
+            0.8
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 8,
+          "pierce": 2,
+          "shell_range": [
+            120,
+            120
+          ],
+          "spread": [
+            0,
+            0
+          ]
         }
       ]
     },
@@ -62873,7 +62907,7 @@
         {
           "damage": 66,
           "coefficient": 1,
-          "count": 6,
+          "count": 9,
           "stat": "trp",
           "ratio": 1,
           "armor_mod": [
@@ -67474,7 +67508,7 @@
         {
           "damage": 40,
           "coefficient": 1,
-          "count": 18,
+          "count": 24,
           "stat": "fp",
           "ratio": 1,
           "armor_mod": [
@@ -67659,7 +67693,7 @@
         {
           "damage": 22,
           "coefficient": 1,
-          "count": 26,
+          "count": 52,
           "stat": "fp",
           "ratio": 1,
           "armor_mod": [
