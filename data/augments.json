@@ -9915,6 +9915,346 @@
       "CN"
     ]
   },
+  "13860": {
+    "id": 13860,
+    "icon": "13860",
+    "name": "This Box is Really Heavy",
+    "limit_group": 354,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 11560,
+        "with": 1011560
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Massachusetts' Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "13880": {
+    "id": 13880,
+    "icon": "13880",
+    "name": "Order of the White Rose",
+    "limit_group": 125,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10260,
+        "with": 1010260
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "York's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "14000": {
+    "id": 14000,
+    "icon": "14000",
+    "name": "Biggest Girl's Bonnie Bells",
+    "limit_group": 151,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902300
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10960,
+        "with": 1010960
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Fubuki's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "14020": {
+    "id": 14020,
+    "icon": "14020",
+    "name": "Public-Private Schedule",
+    "limit_group": 240,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 2011,
+        "with": 1090400
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Köln's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "14040": {
+    "id": 14040,
+    "icon": "14040",
+    "name": "Rime Sword of the Great One",
+    "limit_group": 441,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902030
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 13020,
+        "with": 1013020
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Sovetskaya Rossiya's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "1010100": {
     "id": 1010100,
     "icon": "1010100",

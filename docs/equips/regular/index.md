@@ -64,7 +64,7 @@ and [`ReloadableWeapon`](../index.md#reloadable-weapon) and additionally provide
 | :--------------: | :--------: | :----------------------------------------------------------------------------------------------------------------: |
 |     **name**     |  `string`  |                                              Names of this armament.                                               |
 | **coefficient?** | `number[]` | **(Optional)** Weapon coefficient at each enhancement level (i.E. index 0 is +0, and so on), if absent treat as 1. |
-|   **airdrop?**   | `boolean`  |                          **(Optional)** Whether this armament behaves like a carpet bomb.                          |
+|   **airdrop?**   | `boolean`  |                       **(Optional)** Whether this armament behaves like an airdropped bomb.                        |
 
 
 # Drop Data

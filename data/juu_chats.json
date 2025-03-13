@@ -23373,6 +23373,943 @@
     "icon": "balaka",
     "type": 1
   },
+  "90107": {
+    "id": 90107,
+    "name": "Mogador",
+    "topics": [
+      {
+        "id": 87,
+        "name": "First Chat",
+        "unlock": {
+          "type": 1,
+          "ship_id": 642
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3048,
+            "text": "Hey Commander, this is my FleetChat account, I sent you a request so please accept it❤",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3049,
+            "text": "Now you and I can stay in touch whenever, wherever, hehehe...",
+            "user": 90107,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Request accepted."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3050,
+            "text": "Request accepted. You worked hard today, so make sure to get some good rest.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3051,
+            "text": "Oh an immediate reply! Hell yeah...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3052,
+            "text": "I keep looking at your icon, it's so pleasing...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3053,
+            "text": "You're so serious even when chatting to people, heheh... It's making me even more curious about you...",
+            "user": 90107,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Excuse me?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 3054,
+            "text": "Excuse me?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3055,
+            "text": "Since we're in the office during the day, I never get time to really look at you or anything...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3056,
+            "text": "Oh I don't mean that in a weird way! I meant observing you while you're hard at work and all that.",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3057,
+            "text": "haiwangxing",
+            "user": 90107,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "[Sticker: Staring]"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 3058,
+            "text": "muyue",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3059,
+            "text": "Okay, I believe you.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3060,
+            "text": "Hehehe...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3061,
+            "text": "You're so kind, Commander... And when you're nice to me, it makes me so...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3062,
+            "text": "Oops, nope, better not say anything weird...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3063,
+            "text": "Anyway... Did I do a good job as your secretary today?",
+            "user": 90107,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Yeah. You did great."
+              },
+              {
+                "option_id": 5,
+                "text": "No complaints here."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 3064,
+            "text": "Yeah. You finished your work excellently. Nice work.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3065,
+            "text": "Of course! You entrusted me with this task, so I had to give it my all.",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3066,
+            "text": "It's also a plus that I could smell your scent on the documents I sorted...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3067,
+            "text": "You did a solid job for your first time. Keep it up.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3068,
+            "text": "Hehehe... I will!",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3069,
+            "text": "It helps that I can smell your scent on the documents I sorted...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3070,
+            "text": "It really really helps me concentrate...",
+            "user": 90107,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "Uh..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 3071,
+            "text": "Uh...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3072,
+            "text": "It's getting late. We have work to do tomorrow, so you should go to sleep early.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3073,
+            "text": "Aww, are we saying good night already?",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3074,
+            "text": "But we finally have some time for ourselves... I wanna chat some more with you...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3075,
+            "text": "I guess that will have to wait until tomorrow...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3076,
+            "text": "I hope I'll dream of you tonight...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3077,
+            "text": "Uhh maybe that was a bit too direct, sorry...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3078,
+            "text": "Well... Good night, Commander...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3079,
+            "text": "I'll have sweet dreams tonight for sure...",
+            "user": 90107,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 7,
+                "text": "Good night."
+              }
+            ]
+          },
+          {
+            "choosen_option": 7,
+            "id": 3080,
+            "text": "Good night. Sleep tight.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3081,
+            "text": "Just one more thing before I go!",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3082,
+            "text": "Your kindness is really addictive, just so you know, heheh...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3083,
+            "text": "36",
+            "user": 90107,
+            "type": 4,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 88,
+        "name": "Overtime",
+        "unlock": {
+          "type": 2,
+          "ship_id": 642,
+          "affinity": 100
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3084,
+            "text": "Commander, are you still working at this hour?",
+            "user": 90107,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Yeah."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3085,
+            "text": "Yeah. There are some documents I still need to look over.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3086,
+            "text": "But it's so late...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3087,
+            "text": "Do you want me to help?",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3088,
+            "text": "dujiaoshou",
+            "user": 90107,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "I'll manage."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 3089,
+            "text": "I'll manage. It's not a lot of work.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3090,
+            "text": "That's what you always say...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3091,
+            "text": "I WANT to help you, you know...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3092,
+            "text": "I can do even the most gruelling work if it's for your sake...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3093,
+            "text": "Oh and it's also a chance for us to be alone...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3094,
+            "text": "fangzhou",
+            "user": 90107,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "[Sticker: NoNo]"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 3095,
+            "text": "gaoxiong",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3096,
+            "text": "Heheh, you don't need to worry about me❤",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3097,
+            "text": "I'm an outstanding and capable judge... It's just...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3098,
+            "text": "When I see you working so diligently, it makes my heart go thump thump...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3099,
+            "text": "Even if all I get to see is you with a sour face, that's still wonderful...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3100,
+            "text": "Just seeing you at all makes me want to come closer...",
+            "user": 90107,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "I have to get back to work now."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 3101,
+            "text": "I have to get back to work now.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3102,
+            "text": "But... please at least let me make coffee for you!",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3103,
+            "text": "I'll even put on a special maid uniform and bring the coffee right to you...",
+            "user": 90107,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "What?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 3104,
+            "text": "What?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3105,
+            "text": "qiye",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3106,
+            "text": "I was just kidding, but if you DO wanna see that...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3107,
+            "text": "36",
+            "user": 90107,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3108,
+            "text": "Maybe we can make that happen on our next day off... Alone together...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3109,
+            "text": "Hehehehe...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3110,
+            "text": "Oh right, before you go home, check the drawer on your right.",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3111,
+            "text": "I left a little \"present\" for you in there...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3112,
+            "text": "God, I feel like I'll have sweet dreams tonight from just imagining how you'll react when you open it...❤",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3113,
+            "text": "245",
+            "user": 90107,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3114,
+            "text": "Good night, Commander❤",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 89,
+        "name": "Steamy Night",
+        "unlock": {
+          "type": 2,
+          "ship_id": 642,
+          "affinity": 150
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3115,
+            "text": "Commander...❤",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3116,
+            "text": "I just got out of the bath...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3117,
+            "text": "xixue",
+            "user": 90107,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Okay. And?"
+              },
+              {
+                "option_id": 2,
+                "text": "Why are you bathing this late?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3118,
+            "text": "Okay. And?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3119,
+            "text": "You can be so mean sometimes...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3120,
+            "text": "I swear on my honor, I WAS going to go to bed early buuut...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3121,
+            "text": "Why are you bathing this late?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3122,
+            "text": "Didn't I say you should go to sleep early?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3123,
+            "text": "I started thinking of you, and it got me all worked up and sweaty...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3124,
+            "text": "Also, I'm feeling lonely tonight... Your scent in the room is all gone...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3125,
+            "text": "haman",
+            "user": 90107,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "We ate dinner not that long ago..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 3126,
+            "text": "We ate dinner not that long ago...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3127,
+            "text": "That was 6 hours and 42 minutes ago! That IS a long time ago!",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3128,
+            "text": "I get lovesick when we're apart for even a little while❤",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3129,
+            "text": "Forget about your work for a bit and come to me...❤",
+            "user": 90107,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "No can do."
+              },
+              {
+                "option_id": 5,
+                "text": "I need to finish this work."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 3130,
+            "text": "No can do. I still have work to do.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3131,
+            "text": "I can't. I need to finish this work.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3132,
+            "text": "Primp and proper to a fault huh... Well that's a turn-on in its own way...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3133,
+            "text": "Alright, different strategy then... Why don't you come here for a late night snack?",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3134,
+            "text": "35",
+            "user": 90107,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "Like I said, there's work to do."
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 3135,
+            "text": "I would if I could, but this work won't do itself.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3136,
+            "text": "Aww... but I have a really healthy fruit salad ready for you❤",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3137,
+            "text": "It's crammed full of premium fruits that'll make you super strong and vigorous and it's all covered with a special dressing...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3138,
+            "text": "I've even put on that outfit you like so I won't sweat so much...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3139,
+            "text": "36",
+            "user": 90107,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3140,
+            "text": "And the AC is set to low so it feels super duper cool in here...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3141,
+            "text": "Come on, don't you want to eat my tasty healthy and refreshing fruit salad?❤",
+            "user": 90107,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 7,
+                "text": "If you'll bring it to me..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 7,
+            "id": 3142,
+            "text": "Well, you could bring it to my office...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3143,
+            "text": "Oh my, you want it in your office...❤",
+            "user": 90107,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 8,
+                "text": "Actually, never mind."
+              }
+            ]
+          },
+          {
+            "choosen_option": 8,
+            "id": 3144,
+            "text": "Actually, never mind. I need to get this work done first of all.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3145,
+            "text": "Hehehehe... I'll be riiight over...",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3146,
+            "text": "line_part2_24",
+            "user": 90107,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3147,
+            "text": "One delicious and healthy Mogador fruit salad, coming right up...❤",
+            "user": 90107,
+            "type": 1,
+            "options": []
+          }
+        ]
+      }
+    ],
+    "icon": "mojiaduoer_2",
+    "type": 1
+  },
   "960005": {
     "id": 960005,
     "name": "Whydah",

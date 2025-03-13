@@ -55275,5 +55275,56 @@
     "buffs": [],
     "type": 6,
     "id": 1534
+  },
+  "meta_show_270_295270": {
+    "name": "Meta Showdown: Hornet META",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "hull": 7,
+      "nation": 97,
+      "name": "Hornet META",
+      "stats": {
+        "hp": 1280000,
+        "fp": 238,
+        "trp": 0,
+        "avi": 489,
+        "aa": 350,
+        "hit": 110,
+        "eva": 75,
+        "spd": 20,
+        "luck": 50,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 126,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "dahuangfeng_alter"
+    },
+    "buffs": [],
+    "buffs_display": [
+      [
+        {
+          "name": "Low-Altitude Assault",
+          "description": "During combat, receives various support from low-altitude orbit satellites.",
+          "color": 1
+        }
+      ],
+      [
+        {
+          "name": "Operation Ghost",
+          "description": "Every 18s: grants this ship Optical Camouflage (can be stacked up to 3 times). Each stack of Optical Camouflage increases Evasion Rate by 6%.\nWhen this ship has 3 stacks of Optical Camouflage: launches an Electromagnetic Pulse that inflicts Blind on all your ships for 5s, rendering them unable to fire their Main Guns or launch airstrikes.",
+          "color": 2
+        }
+      ]
+    ],
+    "type": 9,
+    "id": 1535
   }
 }

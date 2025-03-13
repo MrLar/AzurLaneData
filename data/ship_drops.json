@@ -19838,11 +19838,12 @@
     "limited": null,
     "special": false,
     "other": [
-      13
+      13,
+      14
     ],
     "maps": [],
     "notes": [
-      "Available in a past META Showdown"
+      "Available in a past META Showdown or Dossier Analysis"
     ],
     "events": []
   },
@@ -20098,7 +20099,7 @@
     ],
     "maps": [],
     "notes": [
-      "Available in META Showdown"
+      "Available in a past META Showdown"
     ],
     "events": []
   },
@@ -20135,7 +20136,7 @@
     "events": []
   },
   "30044": {
-    "id": 30043,
+    "id": 30044,
     "timer": null,
     "light": false,
     "heavy": false,
@@ -20149,5 +20150,21 @@
     "events": [
       "Paradiso of Shackled Light"
     ]
+  },
+  "30045": {
+    "id": 30045,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [
+      13
+    ],
+    "maps": [],
+    "notes": [
+      "Available in META Showdown"
+    ],
+    "events": []
   }
 }

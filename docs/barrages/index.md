@@ -41,7 +41,7 @@ Barrage Part provides information about a single part of a barrage. These parts 
 | **shell_range?**  |                           `number[]`                            |                                      **(Optional)** Min and max Range of the bullet/torpedo.                                       |
 |    **is_air?**    |                            `boolean`                            |                  **(Optional)** Whether this part is (probably) carried by an aircraft (or aircraft like entity).                  |
 |   **stat_cap?**   |                            `number`                             |  **(Optional)** This value cannot be exceeded by stat scaling, if absent the cap is non-existent and scaling can go to infinity.   |
-|   **airdrop?**    |                            `boolean`                            |                                  **(Optional)** Whether this armament behaves like a carpet bomb.                                  |
+|   **airdrop?**    |                            `boolean`                            |                               **(Optional)** Whether this armament behaves like an airdropped bomb.                                |
 |   **tracker?**    |       [`MagneticTracker`](../common.md#magnetic-tracker)        | **(Optional)** Tracker the ammo carried has in it, this is only potentially present if the ammo is a torpedo (4) or a missile (8). |
 
 
