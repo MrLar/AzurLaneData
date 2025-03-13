@@ -61842,6 +61842,47 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Shadowed Dreams (Additonal at 5+ Launches)",
+      "parts": [
+        {
+          "damage": 15,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [
+            "Space Laser: 8s with 0.1s interval, 1s aim time and 3s attack time"
+          ],
+          "shrapnel": true,
+          "ignore_shield": true,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 2.5,
+          "pierce": 2,
+          "shell_range": [
+            100,
+            140
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
     }
   ],
   "902200": [
