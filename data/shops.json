@@ -9729,7 +9729,7 @@
         "name": "Depot Expansion",
         "limit": 0,
         "cost": 100,
-        "note": "Maximum equip depot size is 2000"
+        "note": "Maximum equip depot size is 2000 (not including Guild Tech)"
       },
       {
         "id": 59101,
@@ -9742,7 +9742,7 @@
         "name": "Dock Expansion (<2000 dock space)",
         "limit": 0,
         "cost": 200,
-        "note": "Vanishes after reaching 2000 dock space (not including Guild)"
+        "note": "Vanishes after reaching 2000 dock space (not including Guild Tech)"
       },
       {
         "id": 59101,
@@ -9755,7 +9755,7 @@
         "name": "Dock Expansion (>=2000 dock space)",
         "limit": 0,
         "cost": 300,
-        "note": "Maximum dock space is 3000 (not including Guild)"
+        "note": "Replaces the 200 Gem one once 2000 dock space is reached. Maximum dock space is 3000. (Both not including Guild Tech.)"
       },
       {
         "id": 59114,
@@ -9794,7 +9794,7 @@
         "name": "Cognitive Chips",
         "limit": 15,
         "cost": 600,
-        "note": "Refreshes monthly, first 5 purchases are discounted by 70%, the next 5 by 40%."
+        "note": "Refreshes monthly, first 5 purchases are discounted by 70% (180), the next 5 by 40% (360)."
       },
       {
         "id": 59001,
