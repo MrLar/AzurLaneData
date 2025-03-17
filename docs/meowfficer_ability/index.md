@@ -14,7 +14,8 @@ Represents an ability (Talent) a Meowofficer can have. Provides one of the follo
 |    **effect**    | [`MeowEffect`](#meow-effect) \| `null` |                        The affect this ability has in battle if any worthwhile effect.                        |
 |      **id**      |                `number`                |                                           (Base) ID of the Ability.                                           |
 |     **max**      |                `number`                |                                        The max level of this Ability.                                         |
-|  **obtainable**  |               `boolean`                |                                  Whether this ability is possible to obtain.                                  |
+|  **obtainable**  |               `boolean`                |          Whether this ability is possible to obtain any officer (random talents *or* fixed talents).          |
+|   **rollable**   |               `boolean`                |              Whether this ability is possible to obtain on meowfficers that get random talents.               |
 |   **servers**    | [`AlServer[]`](../common.md#al-server) |                     List of servers this Ability is (or at any point was) obtainable on.                      |
 
 # Meow Effect

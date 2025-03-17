@@ -34,6 +34,7 @@
     },
     "id": 101,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -76,6 +77,7 @@
     },
     "id": 111,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -120,6 +122,7 @@
     },
     "id": 121,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -159,6 +162,7 @@
     },
     "id": 131,
     "max": 2,
+    "rollable": false,
     "obtainable": true,
     "servers": [
       "EN",
@@ -198,6 +202,7 @@
     },
     "id": 141,
     "max": 2,
+    "rollable": false,
     "obtainable": true,
     "servers": [
       "EN",
@@ -245,6 +250,7 @@
     },
     "id": 151,
     "max": 2,
+    "rollable": false,
     "obtainable": true,
     "servers": [
       "EN",
@@ -286,6 +292,7 @@
     },
     "id": 201,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -328,6 +335,7 @@
     },
     "id": 211,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -369,6 +377,7 @@
     },
     "id": 221,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -410,6 +419,7 @@
     },
     "id": 301,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -450,6 +460,7 @@
     },
     "id": 311,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -494,6 +505,7 @@
     },
     "id": 401,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -541,6 +553,7 @@
     },
     "id": 411,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -585,6 +598,7 @@
     },
     "id": 501,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -632,6 +646,7 @@
     },
     "id": 511,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -673,6 +688,7 @@
     },
     "id": 601,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -715,6 +731,7 @@
     },
     "id": 611,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -757,6 +774,7 @@
     },
     "id": 621,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -799,6 +817,7 @@
     },
     "id": 631,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -840,6 +859,7 @@
     },
     "id": 641,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -885,6 +905,7 @@
     },
     "id": 651,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -926,6 +947,7 @@
     },
     "id": 701,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -968,6 +990,7 @@
     },
     "id": 711,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1010,6 +1033,7 @@
     },
     "id": 721,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1052,6 +1076,7 @@
     },
     "id": 731,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1093,6 +1118,7 @@
     },
     "id": 741,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1138,6 +1164,7 @@
     },
     "id": 751,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1182,6 +1209,7 @@
     },
     "id": 761,
     "max": 3,
+    "rollable": false,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1223,6 +1251,7 @@
     },
     "id": 801,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1267,6 +1296,7 @@
     },
     "id": 811,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1314,6 +1344,7 @@
     },
     "id": 821,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1351,7 +1382,8 @@
     },
     "id": 831,
     "max": 3,
-    "obtainable": false,
+    "rollable": false,
+    "obtainable": true,
     "servers": [
       "EN",
       "JP",
@@ -1398,6 +1430,7 @@
     },
     "id": 901,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1443,6 +1476,7 @@
     },
     "id": 911,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1487,6 +1521,7 @@
     },
     "id": 921,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1537,6 +1572,7 @@
     },
     "id": 2001,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1587,6 +1623,7 @@
     },
     "id": 2011,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1636,6 +1673,7 @@
     },
     "id": 2021,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1684,6 +1722,7 @@
     },
     "id": 2031,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1733,6 +1772,7 @@
     },
     "id": 2041,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1787,6 +1827,7 @@
     },
     "id": 2111,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1841,6 +1882,7 @@
     },
     "id": 2121,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1895,6 +1937,7 @@
     },
     "id": 2131,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -1949,6 +1992,7 @@
     },
     "id": 2141,
     "max": 3,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -2003,6 +2047,7 @@
     },
     "id": 2151,
     "max": 3,
+    "rollable": false,
     "obtainable": false,
     "servers": [
       "EN",
@@ -2057,6 +2102,7 @@
     },
     "id": 2171,
     "max": 3,
+    "rollable": false,
     "obtainable": false,
     "servers": [
       "EN",
@@ -2111,6 +2157,7 @@
     },
     "id": 2181,
     "max": 3,
+    "rollable": false,
     "obtainable": false,
     "servers": [
       "EN",
@@ -2165,6 +2212,7 @@
     },
     "id": 2191,
     "max": 3,
+    "rollable": false,
     "obtainable": false,
     "servers": [
       "EN",
@@ -2205,6 +2253,7 @@
     },
     "id": 5011,
     "max": 1,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -2245,6 +2294,7 @@
     },
     "id": 5021,
     "max": 1,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -2291,6 +2341,7 @@
     },
     "id": 5031,
     "max": 1,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -2329,6 +2380,7 @@
     },
     "id": 5041,
     "max": 1,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -2368,6 +2420,7 @@
     },
     "id": 5051,
     "max": 1,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -2388,6 +2441,7 @@
     "effect": null,
     "id": 5061,
     "max": 1,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -2408,6 +2462,7 @@
     "effect": null,
     "id": 5071,
     "max": 1,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -2437,6 +2492,7 @@
     },
     "id": 5081,
     "max": 1,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -2484,6 +2540,7 @@
     },
     "id": 5091,
     "max": 1,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -2514,6 +2571,7 @@
     },
     "id": 5101,
     "max": 1,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -2544,6 +2602,7 @@
     },
     "id": 5111,
     "max": 1,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -2573,6 +2632,7 @@
     },
     "id": 5121,
     "max": 1,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -2620,6 +2680,7 @@
     },
     "id": 5131,
     "max": 1,
+    "rollable": true,
     "obtainable": true,
     "servers": [
       "EN",
@@ -2654,6 +2715,7 @@
     },
     "id": 5141,
     "max": 1,
+    "rollable": false,
     "obtainable": true,
     "servers": [
       "EN",
@@ -2695,6 +2757,7 @@
     },
     "id": 5151,
     "max": 1,
+    "rollable": false,
     "obtainable": true,
     "servers": [
       "EN",
@@ -2744,6 +2807,7 @@
     },
     "id": 5161,
     "max": 1,
+    "rollable": false,
     "obtainable": true,
     "servers": [
       "EN",

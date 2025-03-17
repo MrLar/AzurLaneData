@@ -239,6 +239,10 @@ Refers to the following stat keys:
 - luck
 - armor
 
+Note: While enemies do have a reload (rld) stat it is intentionally absent from this and all enemy data.
+The reason being that enemies hardly ever actually make use of the RLD stat and most if not all enemies
+currently in the game use a value of 150 RLD.
+
 # Fleet Row Type
 
 Refers to either the string `van` for Vanguard or `main` for Main Fleet.

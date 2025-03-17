@@ -1,5 +1,13 @@
+/*
+ * Copyright (C) 2022-2025 Lars K. (MrLar)
+ *
+ * Use of this source code is governed by an MIT-style
+ * license that can be found in the LICENSE file or at
+ * https://opensource.org/licenses/MIT.
+ */
+
 import { type AlServer, type Currency, type Rarity } from './common'
-import { type ItemDrop, type Item } from './items'
+import { type Item, type ItemDrop } from './items'
 
 export interface Dorm3DRoom {
     id: number

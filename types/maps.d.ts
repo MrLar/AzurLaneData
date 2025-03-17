@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2022-2024 Lars K. (MrLar)
+ * Copyright (C) 2022-2025 Lars K. (MrLar)
  *
  * Use of this source code is governed by an MIT-style
  * license that can be found in the LICENSE file or at
@@ -18,6 +18,9 @@ export interface MapData {
     buffs_display?: DisplayOnlyBuff[][]
     type: MapType
     id: number
+    expo_id: number | number[] | null
+    dungeon_id: number | number[] | null
+    timeLimit: number
 }
 
 interface BossBuff {
@@ -57,6 +60,7 @@ type MapType =
 type EnemyStatKey = 'hp' | 'fp' | 'trp' | 'avi' | 'aa' | 'hit' | 'eva' | 'spd' | 'luck' | 'armor'
 
 interface BossData {
+    id: number
     name: string
     hull: Hull
     nation: Nation

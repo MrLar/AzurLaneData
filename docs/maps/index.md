@@ -17,6 +17,9 @@ Structure for a boss fight in the game. Contains the following properties:
 | **buffs_display** | [`DisplayOnlyBuff[][]`](#display-only-buff) | **(Optional)** Buffs that should be displayed along side the enemy. These *can* be handled if one desires but one would have to parse the actual description.<br>These may contain corrections formatted as `{new text | explanation}` |
 |     **type**      |           [`MapType`](#map-type)            |                                                                                                 The type of map/fight.                                                                                                 |
 |      **id**       |                  `number`                   |                                                             The map ID. These are not in chronological order nor do they reflect any ID used by the game.                                                              |
+|    **expo_id**    |      `number` \| `number[]` \| `null`       |                                          The expedition ID(s) of this encounter. If this is `null` the expo was deleted from the game before expo IDs were added to the data.                                          |
+|  **dungeon_id**   |      `number` \| `number[]` \| `null`       |         The game dungeon ID(s) of this encounter matching up with the respective `expo_id` (same index if array). If this is `null` the expo was deleted from the game before expo IDs were added to the data.         |
+|   **timeLimit**   |                  `number`                   |                                                                                          Time limit of the stage in seconds.                                                                                           |
 
 # Boss Data
 
@@ -34,6 +37,7 @@ Represents a boss enemy. Provides the following properties:
 | **tactics_boost**  |            `number`             |                              Enemy tactics boost value during operation siren. Always `0` if `opsi` is `false`.                               |
 |      **icon**      |            `string`             |                       The icon the enemy uses lower cased. Available under `https://als.mrlar.dev/compact/<icon>.webp`.                       |
 |      **cld**       |           `number[]`            |                                                 The bosses hitbox size in x,y,z coordinates.                                                  |
+|       **id**       |            `number`             |                                                           The enemy ID of the boss.                                                           |
 
 # Boss Buff
 
