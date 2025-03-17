@@ -19,7 +19,7 @@ Structure for a boss fight in the game. Contains the following properties:
 |      **id**       |                  `number`                   |                                                             The map ID. These are not in chronological order nor do they reflect any ID used by the game.                                                              |
 |    **expo_id**    |      `number` \| `number[]` \| `null`       |                                          The expedition ID(s) of this encounter. If this is `null` the expo was deleted from the game before expo IDs were added to the data.                                          |
 |  **dungeon_id**   |      `number` \| `number[]` \| `null`       |         The game dungeon ID(s) of this encounter matching up with the respective `expo_id` (same index if array). If this is `null` the expo was deleted from the game before expo IDs were added to the data.         |
-|   **timeLimit**   |                  `number`                   |                                                                                          Time limit of the stage in seconds.                                                                                           |
+|  **time_limit**   |                  `number`                   |                                                                                          Time limit of the stage in seconds.                                                                                           |
 
 # Boss Data
 

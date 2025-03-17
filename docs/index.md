@@ -23,8 +23,10 @@ This priority was choosen based on the fact that the JP version is closest to th
 Currently this data does not provide data of the TW and KR server.
 
 ## Typescript typings
+
 Typescript typings are provided for all JSON files in the [types](https://github.com/MrLar/AzurLaneData/tree/main/types) directory.
-The [index.ts](https://github.com/MrLar/AzurLaneData/tree/main/types/index.ts) can be used to map the JSON files to proper types.
+The [index.ts](https://github.com/MrLar/AzurLaneData/tree/main/types/index.ts) *can* be used to import and map ***all*** the JSON files to proper types.
+However using it if you do not need ***all*** the JSON files is not recommended, instead you should import the ones you need manually.
 
 ## Skill Corrections
 

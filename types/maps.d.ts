@@ -20,7 +20,7 @@ export interface MapData {
     id: number
     expo_id: number | number[] | null
     dungeon_id: number | number[] | null
-    timeLimit: number
+    time_limit: number
 }
 
 interface BossBuff {
