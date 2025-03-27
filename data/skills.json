@@ -51145,7 +51145,7 @@
     ]
   },
   "151060": {
-    "description": "When the battle starts, if there is another Eagle Union ship in your Main Fleet: increases this ship's {DMG|The game implies only aircraft DMG is inreased, correcting this is a bit pedantic but it technically does mean other things fired by the ship also deal more damage.} dealt by $1. When this ship launches an airstrike: launches an additional $2 airstrike using special aircraft (DMG is based on the skill's level) that inflict a special Flooding ailment to enemies hit with its torpedoes; when launching this airstrike, if there is an enemy BB, CV, or CVL on the battlefield: improves this airstrike.",
+    "description": "When the battle starts, if there is another Eagle Union ship in your Main Fleet: increases {this ship's DMG dealt|The game implies only aircraft DMG is inreased, correcting this is a bit pedantic but it technically does mean other things fired by the ship also deal more damage.} by $1. When this ship launches an airstrike: launches an additional $2 airstrike using special aircraft (DMG is based on the skill's level) that inflict a special Flooding ailment to enemies hit with its torpedoes; when launching this airstrike, if there is an enemy BB, CV, or CVL on the battlefield: improves this airstrike.",
     "opsi_description": null,
     "name": "BIG BEN",
     "max": 10,
@@ -51180,7 +51180,7 @@
     ]
   },
   "151070": {
-    "description": "Increases this ship's AVI by $1.\nWith a 100% chance when this ship finishes loading an airstrike, and a $2 chance when this ship takes DMG: this ship gains a special Burn that lasts 15s and deals a fixed 13 DMG every second, but does not increase her Detection Gauge.\nWhile this ship is inflicted with a Burn (including special Burns), her DMG taken is decreased by $1 and her EVA and ACC increase by $1. If this ship is Burning due to this skill's effect: additionally increases this ship's AVI by $1 and {DMG|The game implies only aircraft DMG is inreased, correcting this is a bit pedantic but it technically does mean other things fired by the ship also deal more damage.} dealt by $1.",
+    "description": "Increases this ship's AVI by $1.\nWith a 100% chance when this ship finishes loading an airstrike, and a $2 chance when this ship takes DMG: this ship gains a special Burn that lasts 15s and deals a fixed 13 DMG every second, but does not increase her Detection Gauge.\nWhile this ship is inflicted with a Burn (including special Burns), her DMG taken is decreased by $1 and her EVA and ACC increase by $1. If this ship is Burning due to this skill's effect: additionally increases this ship's AVI by $1 {and DMG dealt|The game implies only aircraft DMG is inreased, correcting this is a bit pedantic but it technically does mean other things fired by the ship also deal more damage.} by $1.",
     "opsi_description": null,
     "name": "Flame-Bathed Miracle",
     "max": 10,
