@@ -44499,6 +44499,34 @@
       }
     ]
   },
+  "9999999106": {
+    "id": 9999999106,
+    "name": "Deal with the Devil UI",
+    "description": "The Deal with the Devil themed Battle UI",
+    "type": 97,
+    "icon": "props/ui_106",
+    "rarity": 4,
+    "locations": [
+      "Cruise Pass Season 22 (Paid Only)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 106,
+        "type": 99,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": false,
+        "rarity": 4,
+        "icon": "uipreview/106",
+        "name": "Deal with the Devil"
+      }
+    ]
+  },
   "9999999201": {
     "id": 9999999201,
     "name": "Christmas UI",
@@ -44524,6 +44552,34 @@
         "rarity": 5,
         "icon": "uipreview/201",
         "name": "Christmas"
+      }
+    ]
+  },
+  "9999999203": {
+    "id": 9999999203,
+    "name": "Genetic Origin UI",
+    "description": "The Genetic Origin themed Battle UI",
+    "type": 97,
+    "icon": "props/ui_203",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 203,
+        "type": 99,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": false,
+        "rarity": 5,
+        "icon": "uipreview/203",
+        "name": "Genetic Origin"
       }
     ]
   }
