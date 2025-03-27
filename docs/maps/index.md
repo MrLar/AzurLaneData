@@ -63,7 +63,7 @@ Represents a buff for displaying purposes only. It provides:
 
 
 # Map Type
-Map Type is a numeric value with the range `[1, 14]` where each number represents a type of map:
+Map Type is a numeric value with the range `[1, 18]` where each number represents a type of map:
 
 | Value |      Label      |             Description              |
 | :---: | :-------------: | :----------------------------------: |
@@ -84,3 +84,4 @@ Map Type is a numeric value with the range `[1, 14]` where each number represent
 |  15   | WA Event Nomral | Normal Mode Event Map in War Archive |
 |  16   |  WA Event Hard  |  Hard Mode Event Map in War Archive  |
 |  17   |    Raid Map     |     Map is part of a raid event      |
+|  18   |  Colation Map   |   Map is part of a coalation event   |

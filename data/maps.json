@@ -62420,5 +62420,1058 @@
     "time_limit": 180,
     "type": 15,
     "id": 1545
+  },
+  "coalation_1901001_16710101": {
+    "name": "The Letters from Valley Hospital: T1 Inpatient Building (Lv. 20)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16710101,
+      "hull": 1,
+      "nation": 9,
+      "name": "Mogador",
+      "stats": {
+        "hp": 5040,
+        "fp": 20,
+        "trp": 92,
+        "avi": 0,
+        "aa": 109,
+        "hit": 23,
+        "eva": 30,
+        "spd": 30,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "mojiaduoer_3"
+    },
+    "buffs": [],
+    "expo_id": 1901001,
+    "dungeon_id": 1901001,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1546
+  },
+  "coalation_1901001_16710102": {
+    "name": "The Letters from Valley Hospital: T1 Inpatient Building (Lv. 20)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16710102,
+      "hull": 2,
+      "nation": 1,
+      "name": "Santa Fe",
+      "stats": {
+        "hp": 7600,
+        "fp": 85,
+        "trp": 0,
+        "avi": 0,
+        "aa": 150,
+        "hit": 17,
+        "eva": 18,
+        "spd": 18,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shengtafei_2"
+    },
+    "buffs": [],
+    "expo_id": 1901001,
+    "dungeon_id": 1901001,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1547
+  },
+  "coalation_1902001_16711101": {
+    "name": "The Letters from Valley Hospital: T1 Inpatient Building (Lv. 50)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16711101,
+      "hull": 1,
+      "nation": 9,
+      "name": "Mogador",
+      "stats": {
+        "hp": 11880,
+        "fp": 75,
+        "trp": 260,
+        "avi": 0,
+        "aa": 145,
+        "hit": 24,
+        "eva": 31,
+        "spd": 20,
+        "luck": 4,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "mojiaduoer_3"
+    },
+    "buffs": [],
+    "expo_id": 1902001,
+    "dungeon_id": 1902001,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1548
+  },
+  "coalation_1902001_16711102": {
+    "name": "The Letters from Valley Hospital: T1 Inpatient Building (Lv. 50)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16711102,
+      "hull": 2,
+      "nation": 1,
+      "name": "Santa Fe",
+      "stats": {
+        "hp": 21400,
+        "fp": 125,
+        "trp": 160,
+        "avi": 0,
+        "aa": 240,
+        "hit": 35,
+        "eva": 42,
+        "spd": 27,
+        "luck": 20,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shengtafei_2"
+    },
+    "buffs": [],
+    "expo_id": 1902001,
+    "dungeon_id": 1902001,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1549
+  },
+  "coalation_1903001_16712101": {
+    "name": "The Letters from Valley Hospital: T1 Inpatient Building (Lv. 90)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16712101,
+      "hull": 1,
+      "nation": 9,
+      "name": "Mogador",
+      "stats": {
+        "hp": 51720,
+        "fp": 85,
+        "trp": 396,
+        "avi": 0,
+        "aa": 285,
+        "hit": 90,
+        "eva": 58,
+        "spd": 32,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 90,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "mojiaduoer_3"
+    },
+    "buffs": [],
+    "expo_id": 1903001,
+    "dungeon_id": 1903001,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1550
+  },
+  "coalation_1903001_16712102": {
+    "name": "The Letters from Valley Hospital: T1 Inpatient Building (Lv. 90)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16712102,
+      "hull": 2,
+      "nation": 1,
+      "name": "Santa Fe",
+      "stats": {
+        "hp": 87200,
+        "fp": 198,
+        "trp": 260,
+        "avi": 0,
+        "aa": 300,
+        "hit": 53,
+        "eva": 52,
+        "spd": 27,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 90,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shengtafei_2"
+    },
+    "buffs": [],
+    "expo_id": 1903001,
+    "dungeon_id": 1903001,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1551
+  },
+  "coalation_1901002_16710103": {
+    "name": "The Letters from Valley Hospital: T2 Recuperation Center (Lv. 20)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16710103,
+      "hull": 1,
+      "nation": 7,
+      "name": "Stremitelny",
+      "stats": {
+        "hp": 5040,
+        "fp": 22,
+        "trp": 85,
+        "avi": 0,
+        "aa": 110,
+        "hit": 23,
+        "eva": 30,
+        "spd": 30,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shensu_4"
+    },
+    "buffs": [],
+    "expo_id": 1901002,
+    "dungeon_id": 1901002,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1552
+  },
+  "coalation_1901002_16710104": {
+    "name": "The Letters from Valley Hospital: T2 Recuperation Center (Lv. 20)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16710104,
+      "hull": 5,
+      "nation": 1,
+      "name": "Washington",
+      "stats": {
+        "hp": 7900,
+        "fp": 168,
+        "trp": 0,
+        "avi": 0,
+        "aa": 90,
+        "hit": 41,
+        "eva": 17,
+        "spd": 18,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "huashengdun_3"
+    },
+    "buffs": [],
+    "expo_id": 1901002,
+    "dungeon_id": 1901002,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1553
+  },
+  "coalation_1902002_16711103": {
+    "name": "The Letters from Valley Hospital: T2 Recuperation Center (Lv. 50)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16711103,
+      "hull": 1,
+      "nation": 7,
+      "name": "Stremitelny",
+      "stats": {
+        "hp": 11880,
+        "fp": 120,
+        "trp": 180,
+        "avi": 0,
+        "aa": 125,
+        "hit": 35,
+        "eva": 39,
+        "spd": 20,
+        "luck": 18,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shensu_4"
+    },
+    "buffs": [],
+    "expo_id": 1902002,
+    "dungeon_id": 1902002,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1554
+  },
+  "coalation_1902002_16711104": {
+    "name": "The Letters from Valley Hospital: T2 Recuperation Center (Lv. 50)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16711104,
+      "hull": 5,
+      "nation": 1,
+      "name": "Washington",
+      "stats": {
+        "hp": 24680,
+        "fp": 160,
+        "trp": 0,
+        "avi": 0,
+        "aa": 180,
+        "hit": 26,
+        "eva": 19,
+        "spd": 20,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "huashengdun_3"
+    },
+    "buffs": [],
+    "expo_id": 1902002,
+    "dungeon_id": 1902002,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1555
+  },
+  "coalation_1903002_16712103": {
+    "name": "The Letters from Valley Hospital: T2 Recuperation Center (Lv. 90)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16712103,
+      "hull": 1,
+      "nation": 7,
+      "name": "Stremitelny",
+      "stats": {
+        "hp": 51720,
+        "fp": 85,
+        "trp": 350,
+        "avi": 0,
+        "aa": 285,
+        "hit": 90,
+        "eva": 58,
+        "spd": 32,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 90,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shensu_4"
+    },
+    "buffs": [],
+    "expo_id": 1903002,
+    "dungeon_id": 1903002,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1556
+  },
+  "coalation_1903002_16712104": {
+    "name": "The Letters from Valley Hospital: T2 Recuperation Center (Lv. 90)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16712104,
+      "hull": 5,
+      "nation": 1,
+      "name": "Washington",
+      "stats": {
+        "hp": 91000,
+        "fp": 208,
+        "trp": 168,
+        "avi": 0,
+        "aa": 260,
+        "hit": 49,
+        "eva": 49,
+        "spd": 27,
+        "luck": 30,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 90,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "huashengdun_3"
+    },
+    "buffs": [],
+    "expo_id": 1903002,
+    "dungeon_id": 1903002,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1557
+  },
+  "coalation_1901003_16710105": {
+    "name": "The Letters from Valley Hospital: T3 Logistics Center (Lv. 20)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16710105,
+      "hull": 3,
+      "nation": 3,
+      "name": "Suzuya",
+      "stats": {
+        "hp": 5530,
+        "fp": 95,
+        "trp": 60,
+        "avi": 0,
+        "aa": 100,
+        "hit": 41,
+        "eva": 17,
+        "spd": 18,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "linggu_3"
+    },
+    "buffs": [],
+    "expo_id": 1901003,
+    "dungeon_id": 1901003,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1558
+  },
+  "coalation_1901003_16710106": {
+    "name": "The Letters from Valley Hospital: T3 Logistics Center (Lv. 20)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16710106,
+      "hull": 7,
+      "nation": 3,
+      "name": "Akagi",
+      "stats": {
+        "hp": 7800,
+        "fp": 55,
+        "trp": 0,
+        "avi": 85,
+        "aa": 125,
+        "hit": 17,
+        "eva": 14,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "chicheng_5"
+    },
+    "buffs": [],
+    "expo_id": 1901003,
+    "dungeon_id": 1901003,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1559
+  },
+  "coalation_1902003_16711105": {
+    "name": "The Letters from Valley Hospital: T3 Logistics Center (Lv. 50)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16711105,
+      "hull": 3,
+      "nation": 3,
+      "name": "Suzuya",
+      "stats": {
+        "hp": 13200,
+        "fp": 120,
+        "trp": 180,
+        "avi": 0,
+        "aa": 125,
+        "hit": 35,
+        "eva": 34,
+        "spd": 20,
+        "luck": 18,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "linggu_3"
+    },
+    "buffs": [],
+    "expo_id": 1902003,
+    "dungeon_id": 1902003,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1560
+  },
+  "coalation_1902003_16711106": {
+    "name": "The Letters from Valley Hospital: T3 Logistics Center (Lv. 50)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16711106,
+      "hull": 7,
+      "nation": 3,
+      "name": "Akagi",
+      "stats": {
+        "hp": 23800,
+        "fp": 65,
+        "trp": 0,
+        "avi": 151,
+        "aa": 223,
+        "hit": 25,
+        "eva": 8,
+        "spd": 25,
+        "luck": 10,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "chicheng_5"
+    },
+    "buffs": [],
+    "expo_id": 1902003,
+    "dungeon_id": 1902003,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1561
+  },
+  "coalation_1903003_16712105": {
+    "name": "The Letters from Valley Hospital: T3 Logistics Center (Lv. 90)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16712105,
+      "hull": 3,
+      "nation": 3,
+      "name": "Suzuya",
+      "stats": {
+        "hp": 53500,
+        "fp": 200,
+        "trp": 190,
+        "avi": 0,
+        "aa": 260,
+        "hit": 54,
+        "eva": 49,
+        "spd": 27,
+        "luck": 30,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 90,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "linggu_3"
+    },
+    "buffs": [],
+    "expo_id": 1903003,
+    "dungeon_id": 1903003,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1562
+  },
+  "coalation_1903003_16712106": {
+    "name": "The Letters from Valley Hospital: T3 Logistics Center (Lv. 90)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16712106,
+      "hull": 7,
+      "nation": 3,
+      "name": "Akagi",
+      "stats": {
+        "hp": 90000,
+        "fp": 120,
+        "trp": 0,
+        "avi": 396,
+        "aa": 390,
+        "hit": 84,
+        "eva": 49,
+        "spd": 30,
+        "luck": 30,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 90,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "chicheng_5"
+    },
+    "buffs": [],
+    "expo_id": 1903003,
+    "dungeon_id": 1903003,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1563
+  },
+  "coalation_1901004_16710107": {
+    "name": "The Letters from Valley Hospital: T4 Research Center (Lv. 20)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16710107,
+      "hull": 2,
+      "nation": 7,
+      "name": "Voroshilov",
+      "stats": {
+        "hp": 5320,
+        "fp": 85,
+        "trp": 0,
+        "avi": 0,
+        "aa": 150,
+        "hit": 17,
+        "eva": 18,
+        "spd": 18,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fuluoxiluofu_3"
+    },
+    "buffs": [],
+    "expo_id": 1901004,
+    "dungeon_id": 1901004,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1564
+  },
+  "coalation_1901004_16710108": {
+    "name": "The Letters from Valley Hospital: T4 Research Center (Lv. 20)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16710108,
+      "hull": 1,
+      "nation": 1,
+      "name": "Miller",
+      "stats": {
+        "hp": 7200,
+        "fp": 20,
+        "trp": 92,
+        "avi": 0,
+        "aa": 109,
+        "hit": 23,
+        "eva": 30,
+        "spd": 30,
+        "luck": 10,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "mile_2"
+    },
+    "buffs": [],
+    "expo_id": 1901004,
+    "dungeon_id": 1901004,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1565
+  },
+  "coalation_1902004_16711107": {
+    "name": "The Letters from Valley Hospital: T4 Research Center (Lv. 50)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16711107,
+      "hull": 2,
+      "nation": 7,
+      "name": "Voroshilov",
+      "stats": {
+        "hp": 12840,
+        "fp": 120,
+        "trp": 180,
+        "avi": 0,
+        "aa": 125,
+        "hit": 35,
+        "eva": 36,
+        "spd": 20,
+        "luck": 18,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fuluoxiluofu_3"
+    },
+    "buffs": [],
+    "expo_id": 1902004,
+    "dungeon_id": 1902004,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1566
+  },
+  "coalation_1902004_16711108": {
+    "name": "The Letters from Valley Hospital: T4 Research Center (Lv. 50)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16711108,
+      "hull": 1,
+      "nation": 1,
+      "name": "Miller",
+      "stats": {
+        "hp": 19800,
+        "fp": 75,
+        "trp": 260,
+        "avi": 0,
+        "aa": 145,
+        "hit": 24,
+        "eva": 31,
+        "spd": 20,
+        "luck": 4,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "mile_2"
+    },
+    "buffs": [],
+    "expo_id": 1902004,
+    "dungeon_id": 1902004,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1567
+  },
+  "coalation_1903004_16712107": {
+    "name": "The Letters from Valley Hospital: T4 Research Center (Lv. 90)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16712107,
+      "hull": 2,
+      "nation": 7,
+      "name": "Voroshilov",
+      "stats": {
+        "hp": 52320,
+        "fp": 198,
+        "trp": 260,
+        "avi": 0,
+        "aa": 350,
+        "hit": 53,
+        "eva": 52,
+        "spd": 27,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 90,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fuluoxiluofu_3"
+    },
+    "buffs": [],
+    "expo_id": 1903004,
+    "dungeon_id": 1903004,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1568
+  },
+  "coalation_1903004_16712108": {
+    "name": "The Letters from Valley Hospital: T4 Research Center (Lv. 90)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16712108,
+      "hull": 1,
+      "nation": 1,
+      "name": "Miller",
+      "stats": {
+        "hp": 86200,
+        "fp": 85,
+        "trp": 396,
+        "avi": 0,
+        "aa": 285,
+        "hit": 90,
+        "eva": 58,
+        "spd": 32,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 90,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "mile_2"
+    },
+    "buffs": [],
+    "expo_id": 1903004,
+    "dungeon_id": 1903004,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1569
+  },
+  "coalation_1904001_16713102": {
+    "name": "The Letters from Valley Hospital: ESP Medical Center",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16713102,
+      "hull": 7,
+      "nation": 2,
+      "name": "Eagle",
+      "stats": {
+        "hp": 91000,
+        "fp": 240,
+        "trp": 0,
+        "avi": 210,
+        "aa": 320,
+        "hit": 45,
+        "eva": 35,
+        "spd": 16,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "ying_2"
+    },
+    "buffs": [],
+    "expo_id": 1904001,
+    "dungeon_id": 1904001,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1570
+  },
+  "coalation_1904001_16713101": {
+    "name": "The Letters from Valley Hospital: ESP Medical Center",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16713101,
+      "hull": 7,
+      "nation": 1,
+      "name": "Franklin",
+      "stats": {
+        "hp": 96820,
+        "fp": 170,
+        "trp": 0,
+        "avi": 310,
+        "aa": 400,
+        "hit": 45,
+        "eva": 28,
+        "spd": 20,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fulankelin_2"
+    },
+    "buffs": [],
+    "expo_id": 1904001,
+    "dungeon_id": 1904001,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1571
+  },
+  "coalation_1904001_16713103": {
+    "name": "The Letters from Valley Hospital: ESP Medical Center",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16713103,
+      "hull": 1,
+      "nation": 1,
+      "name": "Halford",
+      "stats": {
+        "hp": 120000,
+        "fp": 260,
+        "trp": 350,
+        "avi": 350,
+        "aa": 370,
+        "hit": 50,
+        "eva": 53,
+        "spd": 18,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "haerfude_2"
+    },
+    "buffs": [],
+    "expo_id": 1904001,
+    "dungeon_id": 1904001,
+    "time_limit": 300,
+    "type": 18,
+    "id": 1572
   }
 }

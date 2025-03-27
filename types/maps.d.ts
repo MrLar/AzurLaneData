@@ -55,7 +55,8 @@ type MapType =
 14 | // Extreme Challenge Hard
 15 | // Event Normal (WA)
 16 | // Event Hard (WA)
-17 // raid map
+17 | // raid map
+18 // coalation map
 
 type EnemyStatKey = 'hp' | 'fp' | 'trp' | 'avi' | 'aa' | 'hit' | 'eva' | 'spd' | 'luck' | 'armor'
 
