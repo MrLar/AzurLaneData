@@ -7113,6 +7113,19 @@
         "limit_type": 1
       },
       {
+        "id": 21013,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/21013",
+        "name": "META Crystal - Trento",
+        "limit": 4,
+        "cost": 80,
+        "limit_type": 1
+      },
+      {
         "id": 30005,
         "type": 2,
         "amount": 1,
@@ -7121,6 +7134,19 @@
         "rarity": 4,
         "icon": "ships/compact/fusang_alter",
         "name": "Fusou META",
+        "limit": 1,
+        "cost": 60,
+        "limit_type": 1
+      },
+      {
+        "id": 30013,
+        "type": 2,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 4,
+        "icon": "ships/compact/teluntuo_alter",
+        "name": "Trento META",
         "limit": 1,
         "cost": 60,
         "limit_type": 1
