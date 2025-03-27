@@ -2363,7 +2363,7 @@
     "values": []
   },
   "6230": {
-    "description": "Increases Crit Rate by 5.0%. Grants other bonuses when equipped by a certain ship.",
+    "description": "Increases Crit Rate by 5.0%. {When equipped by Mikasa: increases the whole fleet's FP and ACC by 5%|Game only vaguely states \"other bonuses\" and \"certain ship\".}",
     "opsi_description": null,
     "name": "Z Flag",
     "max": 1,
@@ -2493,7 +2493,7 @@
     "values": []
   },
   "6380": {
-    "description": "A helpful tool for planning. Rumor has it, when the the moon is full, the seas are clear, and the time is right, it will speak to you...?",
+    "description": "A helpful tool for planning. Rumor has it, when the the moon is full, the seas are clear, and the time is right, it will speak to you...?\n{Adds random Kizuna AI gear skins to the equipment of your KizunaAI ships during battle.|Actual effect is not mentioned by the game.}",
     "opsi_description": null,
     "name": "Random Word Generator",
     "max": 1,
@@ -2503,7 +2503,7 @@
     "values": []
   },
   "6390": {
-    "description": "Kizuna AI's headband. It's a flippy-floppy wing-dang-doodle of a honkin' good time that goes on your head.",
+    "description": "Kizuna AI's headband. It's a flippy-floppy wing-dang-doodle of a honkin' good time that goes on your head.\n{Ships equipping this gear additionally count as belonging to the KizunaAI faction (the keep their original faction as well).|Actual effect is not mentioned by the game.}",
     "opsi_description": null,
     "name": "Pyoko-Pyoko",
     "max": 1,
@@ -2513,7 +2513,7 @@
     "values": []
   },
   "6400": {
-    "description": "A plugin chip that Kizuna AI uses to...? --No talking shit!",
+    "description": "A plugin chip that Kizuna AI uses to...? --No talking shit!\n{Used to change the auto-battle movement AI during KizunaAI event. Does nothing nowadays.|Actual effect is not mentioned by the game.}",
     "opsi_description": null,
     "name": "Intelligence Chip",
     "max": 1,
@@ -33840,7 +33840,7 @@
     ]
   },
   "19660": {
-    "description": "Increases this ship's AVI and FP by $1. When this ship's aircraft hits an enemy: $2 chance to inflict a special Burn ailment to that target for 10s, increasing that target's shelling DMG taken from your Main Fleet by 8.0%. When this ship's Main Guns hit an enemy: $2 chance to increase the target's airstrike DMG taken from your Main Fleet by 4.0%; if the target is already affected by an AA stat debuff, further increases that target's airstrike DMG taken from your Main Fleet by 8.0%. This effect lasts until the next time this ship fires her Main Guns.",
+    "description": "Increases this ship's AVI and FP by $1.\n\nWhen this ship's aircraft hits an enemy: $2 chance to inflict a special Burn ailment to that target for 10s, increasing that target's shelling DMG taken from your Main Fleet by 8.0%.\n\nWhen this ship's Main Guns hit an enemy: $2 chance to increase the target's airstrike DMG taken from your Main Fleet by 4.0%; if the target is already affected by an AA stat debuff, further increases that target's airstrike DMG taken from your Main Fleet by 8.0%. This effect lasts until the next time this ship fires her Main Guns.",
     "opsi_description": null,
     "name": "Multi-Linked Locking System",
     "max": 10,
@@ -33875,7 +33875,7 @@
     ]
   },
   "19670": {
-    "description": "If this ship has an Eagle Union or Northern Parliament Main Gun equipped: increases this ship's FP by $1 and decreases her cannon DMG taken by $2. If this ship has an Eagle Union or Northern Parliament aircraft equipped: increases this ship's AVI by $1 and decreases the loading time of her 1st airstrike by $4. When the battle starts, if there is another Eagle Union ship in your Main Fleet: while this ship is afloat, your CVs and CVLs deal $3 more airstrike DMG (does not stack with the skill \"Air Raid Assistance\").",
+    "description": "If this ship has an Eagle Union or Northern Parliament Main Gun equipped: increases this ship's FP by $1 and decreases her cannon DMG taken by $2.\n\nIf this ship has an Eagle Union or Northern Parliament aircraft equipped: increases this ship's AVI by $1 and decreases the loading time of her 1st airstrike by $4.\n\nWhen the battle starts, if there is another Eagle Union ship in your Main Fleet: while this ship is afloat, your CVs and CVLs deal $3 more airstrike DMG (does not stack with the skill \"Air Raid Assistance\").",
     "opsi_description": null,
     "name": "Functional Amplification Mechanism",
     "max": 10,
@@ -33934,7 +33934,7 @@
     ]
   },
   "19680": {
-    "description": "Increases this ship's DMG dealt to Burning enemies by $1. When this ship launches an airstrike: launches an additional $2 special airstrike. Every 20s: fires a $2 special barrage with properties that change based on whether or not there are Burning enemies on the battlefield (inflicts a special Burn for 10s to enemies hit by the Oceanic Blaze special barrage; DMG is based on the skill's level).",
+    "description": "Increases this ship's DMG dealt to Burning enemies by $1.\n\nWhen this ship launches an airstrike: launches an additional $2 special airstrike.\n\nEvery 20s: fires a $2 special barrage with properties that change based on whether or not there are Burning enemies on the battlefield (inflicts a special Burn for 10s to enemies hit by the Oceanic Blaze special barrage; DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Combat Adaptation Module",
     "max": 10,
@@ -39844,7 +39844,7 @@
     "values": []
   },
   "60120": {
-    "description": "Increases AMO by 1 for the boat equipping this gear (the Submarine Fleet's AMO cap is 6.)",
+    "description": "{Increases AMO by 1 for the boat equipping this gear.|Game incorrectly states a submarine fleet cannot go above 6 AMO.}",
     "opsi_description": null,
     "name": "Round Shot",
     "max": 1,
@@ -39964,7 +39964,7 @@
     "values": []
   },
   "60290": {
-    "description": "Creates a snowy landscape when equipped by Anchorage.",
+    "description": "Creates a snowy landscape when equipped by Anchorage.\n{(This effect is entirely cosmetic)|This is not mentioned by the game. With how vague some skill descriptions can be pointing this out may be helpful.}",
     "opsi_description": null,
     "name": "Realm of Oneiric Snow",
     "max": 1,
@@ -40094,7 +40094,7 @@
     "values": []
   },
   "60420": {
-    "description": "When equipped: activates a randomly chosen Command effect every 15s.",
+    "description": "When equipped: activates a randomly chosen Command effect every 15s. {Possible effects are|The game mentions none of this.}:\n• Gain a barrier that blocks 3.0% of this ship's max HP\n• Heal 2.0% of this ship's max HP\n• Fire a special torpedo barrage scaling with TRP\n• Fire a special barrage scaling with FP",
     "opsi_description": null,
     "name": "Simulation Command",
     "max": 1,
@@ -40214,7 +40214,7 @@
     "values": []
   },
   "60540": {
-    "description": "Grants a strange power during battle.",
+    "description": "Grants a {a randomly choosen strange power|The game implies there is only one effect.} during battle. {Possible effects are|The game mentions none of this.}:\n• 15s after battle begins the flagship fires a special barrage scaling with total fleet power\n• 2s after battle starts increase the FP, TRP, AA, AVI, RLD, ACC and EVA of the entire fleet by 1.0% for every different faction in the fleet. Iris Libre and Vichya Dominion are treated as the same faction, META as it's own faction, Tempesta and Collab factions do not count at all.\n• Every 35s, heals the entire Vanguard fleet for 1.0% of their respective max HP.",
     "opsi_description": null,
     "name": "RPG Adventure Interface",
     "max": 1,
@@ -40264,7 +40264,7 @@
     "values": []
   },
   "60590": {
-    "description": "A curious machine that periodically emits a strange sound during battle.",
+    "description": "A curious machine that periodically emits a strange sound during battle.\n{(This effect is entirely cosmetic)|This is not mentioned by the game. With how vague some skill descriptions can be pointing this out may be helpful.}",
     "opsi_description": null,
     "name": "Enigmata \"D\"",
     "max": 1,
@@ -40374,7 +40374,7 @@
     "values": []
   },
   "60760": {
-    "description": "Every 20s: increases the wearer's DMG dealt just a little bit (can activate up to 3 times per battle).",
+    "description": "Every 20s: increases the wearer's DMG dealt {by 1.0%|The game does not state the actual value.} (can activate up to 3 times per battle).",
     "opsi_description": null,
     "name": "All Work, All Play Robot",
     "max": 1,
@@ -40384,7 +40384,7 @@
     "values": []
   },
   "60770": {
-    "description": "Might make the enemy grow a little bigger.",
+    "description": "Might make the enemy grow a little bigger.\n{(This effect is entirely cosmetic)|This is not mentioned by the game. With how vague some skill descriptions can be pointing this out may be helpful.}",
     "opsi_description": null,
     "name": "Speedy Sprouty Botanist",
     "max": 1,
@@ -40394,7 +40394,7 @@
     "values": []
   },
   "60780": {
-    "description": "When the wearer fires her Main Guns: makes the mood kinda spooky.",
+    "description": "When the wearer fires her Main Guns: makes the mood kinda spooky.\n{(This effect is entirely cosmetic)|This is not mentioned by the game. With how vague some skill descriptions can be pointing this out may be helpful.}",
     "opsi_description": null,
     "name": "Spooky Scary Specter",
     "max": 1,
@@ -40404,7 +40404,7 @@
     "values": []
   },
   "60790": {
-    "description": "The wearer emits a special, charismatic aura during battle.",
+    "description": "The wearer emits a special, charismatic aura during battle.\n{(This effect is entirely cosmetic)|This is not mentioned by the game. With how vague some skill descriptions can be pointing this out may be helpful.}",
     "opsi_description": null,
     "name": "More-y Glory Aura Booster",
     "max": 1,
@@ -40414,7 +40414,7 @@
     "values": []
   },
   "60800": {
-    "description": "When equipped by a particular character: 20s after the battle starts, deploys a barrier (lasts 20s) around a random ship in your Vanguard that can negate DMG equal to 2.0% max HP.",
+    "description": "When equipped by a {Memphis|The game just says particular character. Memphis META does NOT count.}: 20s after the battle starts, deploys a barrier (lasts 20s) around a random ship in your Vanguard that can negate DMG equal to 2.0% max HP.",
     "opsi_description": null,
     "name": "Memphis' Blues",
     "max": 1,

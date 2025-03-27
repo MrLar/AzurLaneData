@@ -67,6 +67,7 @@ export interface ExtendedWeapon extends WeaponBase {
     aim_type: AimType
     barrage_id: number
     bullet_id: number
+    buffs?: string[]
 }
 
 export interface Aircraft extends ReloadableWeapon {

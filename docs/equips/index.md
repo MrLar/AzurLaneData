@@ -88,6 +88,7 @@ following:
 |   **aim_type**   | [`AimType`](#aim-type) |                                                  The aim type of the weapon.                                                   |
 |  **barrage_id**  |        `number`        |                                       The ID of the (first) barrage used by this weapon.                                       |
 |  **bullet_id**   |        `number`        |                                       The ID of the (first) bullet used by this weapon.                                        |
+|    **buffs?**    |       `string[]`       |                                **(Optional)** Textual explanation of (de)buffs applied on hit.                                 |
 
 # Ammo Type
 

@@ -73,6 +73,9 @@
       0
     ],
     "splash": 0,
+    "buffs": [
+      "3.0% chance to inflict Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * SlotEff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311, Level: 2)"
+    ],
     "velocity": 15,
     "pierce": 0,
     "shell_range": [
