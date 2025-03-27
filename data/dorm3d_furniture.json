@@ -658,5 +658,27 @@
       "CN"
     ],
     "contains": []
+  },
+  "322": {
+    "name": "Boat of the Starry Night",
+    "description": "This soft bed features beautiful curves and an ocean blue color scheme. \nIt floats off into the night sky, guiding you into exciting and romantic dreams.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 5,
+    "id": 322,
+    "purchaseable": true,
+    "expires": 0,
+    "icon": "dorm3d/items/3ddrom_ankeleiqi_premiumfurniture2",
+    "room_id": 3,
+    "furni_type": 4,
+    "exclusive": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
   }
 }

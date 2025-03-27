@@ -83,7 +83,7 @@ each number represents an in-game skin type (missing values do not exit in game)
 
 # Skin Obtain Type
 
-Skin Type is a numeric value with the range `[-1, 9]` where each number represents how a skin
+Skin Type is a numeric value with the range `[-1, 10]` where each number represents how a skin
 is attainable:
 
 | Value |        Label        |
@@ -99,3 +99,4 @@ is attainable:
 |   7   |      Retrofit       |
 |   8   |    IRL Promotion    |
 |   9   | Dual Form Switching |
+|  10   |    Revistor Shop    |

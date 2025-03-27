@@ -130,6 +130,85 @@
       ]
     }
   ],
+  "5041": [
+    {
+      "name": "Flares",
+      "parts": [
+        {
+          "damage": 39,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": false,
+          "range": [
+            0,
+            60
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 5,
+          "pierce": 0,
+          "shell_range": [
+            10,
+            50
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        },
+        {
+          "damage": 39,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [
+            "Lives for 10 seconds.",
+            "Reduces EVA rate of enemies in certain radius by 25%.",
+            "Halts Concealment Guage of enemies in radius (Chapter 14 & 15)."
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            60
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 30,
+          "velocity": 0.1,
+          "pierce": 0,
+          "shell_range": [
+            25,
+            25
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
   "6580": [
     {
       "name": "I've Brought Your Cannons!",
@@ -15800,7 +15879,7 @@
   ],
   "15870": [
     {
-      "name": "Frontline Scoop",
+      "name": "Flares",
       "parts": [
         {
           "damage": 39,
@@ -15816,6 +15895,44 @@
           "ammo": 1,
           "is_critical": false,
           "notes": [],
+          "shrapnel": true,
+          "ignore_shield": false,
+          "range": [
+            0,
+            60
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 5,
+          "pierce": 0,
+          "shell_range": [
+            10,
+            50
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        },
+        {
+          "damage": 39,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [
+            "Lives for 10 seconds.",
+            "Reduces EVA rate of enemies in certain radius by 25%.",
+            "Halts Concealment Guage of enemies in radius (Chapter 14 & 15)."
+          ],
           "shrapnel": false,
           "ignore_shield": false,
           "range": [
@@ -41906,6 +42023,47 @@
       ]
     }
   ],
+  "30432": [
+    {
+      "name": "All Out Assault - Santa Fe II",
+      "parts": [
+        {
+          "damage": 35,
+          "coefficient": 1,
+          "count": 36,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
   "60130": [
     {
       "name": "Inflict Burns",
@@ -55858,6 +56016,358 @@
       ]
     }
   ],
+  "151030": [
+    {
+      "name": "Glorious Advance",
+      "parts": [
+        {
+          "damage": 35,
+          "coefficient": 1,
+          "count": 16,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Glorious Advance (Flares)",
+      "parts": [
+        {
+          "damage": 39,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": false,
+          "range": [
+            0,
+            60
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 5,
+          "pierce": 0,
+          "shell_range": [
+            10,
+            50
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        },
+        {
+          "damage": 39,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [
+            "Lives for 10 seconds.",
+            "Reduces EVA rate of enemies in certain radius by 25%.",
+            "Halts Concealment Guage of enemies in radius (Chapter 14 & 15)."
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            60
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 30,
+          "velocity": 0.1,
+          "pierce": 0,
+          "shell_range": [
+            25,
+            25
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "151060": [
+    {
+      "name": "BIG BEN",
+      "parts": [
+        {
+          "damage": 380,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.7,
+            1.05,
+            1.25
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "is_air": true,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 1,
+          "angle": 25,
+          "splash": 28,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            42,
+            42
+          ],
+          "airdrop": true
+        },
+        {
+          "damage": 220,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "avi",
+          "ratio": 0.8,
+          "armor_mod": [
+            0.8,
+            0.9,
+            1.1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "is_air": true,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 1,
+          "angle": 22,
+          "splash": 19,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            36,
+            36
+          ],
+          "airdrop": true
+        },
+        {
+          "damage": 301,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "is_air": true,
+          "range": [
+            0,
+            75
+          ],
+          "aim_type": 0,
+          "angle": 24,
+          "splash": 3,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            80,
+            120
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buff_chance": 1,
+          "buffs": [
+            "Special Flood (DMG equal to 20 + WepDMG * WepCoeff * (1 + (AVI / 100)) * 0.3 with 1 tick every 3 seconds for 15.1s, ID: 151069)"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BIG BEN (if enemy BC/CV/CVL)",
+      "parts": [
+        {
+          "damage": 380,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.7,
+            1.05,
+            1.25
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "is_air": true,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 1,
+          "angle": 25,
+          "splash": 28,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            42,
+            42
+          ],
+          "airdrop": true
+        },
+        {
+          "damage": 220,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "avi",
+          "ratio": 0.8,
+          "armor_mod": [
+            0.8,
+            0.9,
+            1.1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "is_air": true,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 1,
+          "angle": 22,
+          "splash": 19,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            36,
+            36
+          ],
+          "airdrop": true
+        },
+        {
+          "damage": 301,
+          "coefficient": 1,
+          "count": 9,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "is_air": true,
+          "range": [
+            0,
+            75
+          ],
+          "aim_type": 0,
+          "angle": 24,
+          "splash": 3,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            80,
+            120
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buff_chance": 1,
+          "buffs": [
+            "Special Flood (DMG equal to 20 + WepDMG * WepCoeff * (1 + (AVI / 100)) * 0.3 with 1 tick every 3 seconds for 15.1s, ID: 151069)"
+          ]
+        }
+      ]
+    }
+  ],
   "800010": [
     {
       "name": "Shadowflame Torch",
@@ -61914,6 +62424,53 @@
           "spread": [
             0,
             0
+          ]
+        }
+      ]
+    }
+  ],
+  "801680": [
+    {
+      "name": "Threat Elimination Order",
+      "parts": [
+        {
+          "damage": 200,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.4,
+            1.1,
+            0.9
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [
+            "Gains 50% additional crit rate."
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            35,
+            150
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 15,
+          "velocity": 10,
+          "pierce": 0,
+          "shell_range": [
+            60,
+            100
+          ],
+          "spread": [
+            19,
+            19
+          ],
+          "buff_chance": 0.5,
+          "buffs": [
+            "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ]
         }
       ]

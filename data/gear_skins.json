@@ -17427,6 +17427,74 @@
       "CN"
     ]
   },
+  "2093": {
+    "id": 2093,
+    "name": "Spiral Horn Shell",
+    "icon": "96817",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Flame and Fulminance",
+    "description": "Sharp and twirly, it is the danger that glimmers in the darkness.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "2094": {
+    "id": 2094,
+    "name": "Demon Tail Torpedo",
+    "icon": "96818",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Flame and Fulminance",
+    "description": "Elegant and waggy, it is the danger that runs in the darkness.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "2095": {
+    "id": 2095,
+    "name": "Candelabra Shell",
+    "icon": "96819",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Flame and Fulminance",
+    "description": "Dim and wobbly, the candles whisper dark and forbidden words.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "2096": {
+    "id": 2096,
+    "name": "Demon Wings",
+    "icon": "96820",
+    "types": [
+      10
+    ],
+    "rarity": 4,
+    "theme": "Flame and Fulminance",
+    "description": "With a regal demeanor to their flaps, these wings are marked with tears that speak of an ancient power.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "3001": {
     "id": 3001,
     "name": "Observer Tentacles",
@@ -18049,6 +18117,56 @@
     "theme": "Misc",
     "description": "If you buy the whole vehicle, you can get an additional discount!",
     "servers": [
+      "JP",
+      "CN"
+    ]
+  },
+  "3041": {
+    "id": 3041,
+    "name": "Mecha-Ghost Torpedo",
+    "icon": "99162",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "A translucent torpedo that's out for blood! Don't let it know your location.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "3042": {
+    "id": 3042,
+    "name": "Mecha-Ghost Shell",
+    "icon": "99163",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Finally! We found the ghost in the shell!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "3043": {
+    "id": 3043,
+    "name": "Exodetector",
+    "icon": "99164",
+    "types": [
+      10
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "The mechanical arms sway and the radar waves interweave. Wherever you may hide, it'll find you!",
+    "servers": [
+      "EN",
       "JP",
       "CN"
     ]
@@ -20211,6 +20329,306 @@
     "rarity": 4,
     "theme": "Pharaoh's Golden Treasures",
     "description": "You've unleashed an ancient fury!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4131": {
+    "id": 4131,
+    "name": "Band-Aid Shell",
+    "icon": "101194",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Medical Adventures",
+    "description": "Don't peel it off until your boo-boo has healed, okay?",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4132": {
+    "id": 4132,
+    "name": "Pill Bottle Shell",
+    "icon": "101195",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Medical Adventures",
+    "description": "Pills here!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4133": {
+    "id": 4133,
+    "name": "Mask Shell",
+    "icon": "101196",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Medical Adventures",
+    "description": "When in doubt, put one on! Better safe than sorry.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4134": {
+    "id": 4134,
+    "name": "Crutch Torpedo",
+    "icon": "101197",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Medical Adventures",
+    "description": "It's okay to rely on it sometimes. Just don't make a habit of it.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4135": {
+    "id": 4135,
+    "name": "Thermometer Torpedo",
+    "icon": "101198",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Medical Adventures",
+    "description": "Yup, that's a fever. You'd better call in sick.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4136": {
+    "id": 4136,
+    "name": "Stethoscope Torpedo",
+    "icon": "101199",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Medical Adventures",
+    "description": "Hold still so I can hear your heartbeat!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4137": {
+    "id": 4137,
+    "name": "IV Drip Shell",
+    "icon": "101200",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Medical Adventures",
+    "description": "What's inside? Don't worry about it!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4138": {
+    "id": 4138,
+    "name": "Medicine Box Shell",
+    "icon": "101201",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Medical Adventures",
+    "description": "For mending broken bones and hearts.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4139": {
+    "id": 4139,
+    "name": "Microscope Shell",
+    "icon": "101202",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Medical Adventures",
+    "description": "Let's take a closer look at the damage...",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4140": {
+    "id": 4140,
+    "name": "Emergency Transport Manjuu (Torpedo)",
+    "icon": "101203",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Medical Adventures",
+    "description": "Wee-woo-wee-woo! Make way!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4141": {
+    "id": 4141,
+    "name": "Emergency Transport Manjuu (Fighter)",
+    "icon": "101203",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Medical Adventures",
+    "description": "Wee-woo-wee-woo! Make way!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4142": {
+    "id": 4142,
+    "name": "Emergency Transport Manjuu (Bomber)",
+    "icon": "101203",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Medical Adventures",
+    "description": "Wee-woo-wee-woo! Make way!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4143": {
+    "id": 4143,
+    "name": "Outpatient Transport Manjuu (Torpedo)",
+    "icon": "101204",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Medical Adventures",
+    "description": "Hold on tight! It's going to be a bumpy ride!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4144": {
+    "id": 4144,
+    "name": "Outpatient Transport Manjuu (Fighter)",
+    "icon": "101204",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Medical Adventures",
+    "description": "Hold on tight! It's going to be a bumpy ride!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4145": {
+    "id": 4145,
+    "name": "Outpatient Transport Manjuu (Bomber)",
+    "icon": "101204",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Medical Adventures",
+    "description": "Hold on tight! It's going to be a bumpy ride!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4146": {
+    "id": 4146,
+    "name": "Emergency Nursing Manjuu (Torpedo)",
+    "icon": "101205",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Medical Adventures",
+    "description": "Doctor! There's a car accident patient in the ER!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4147": {
+    "id": 4147,
+    "name": "Emergency Nursing Manjuu (Fighter)",
+    "icon": "101205",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Medical Adventures",
+    "description": "Doctor! There's a car accident patient in the ER!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4148": {
+    "id": 4148,
+    "name": "Emergency Nursing Manjuu (Bomber)",
+    "icon": "101205",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Medical Adventures",
+    "description": "Doctor! There's a car accident patient in the ER!",
     "servers": [
       "EN",
       "JP",

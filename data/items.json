@@ -4063,6 +4063,23 @@
     ],
     "contains": []
   },
+  "21046": {
+    "id": 21046,
+    "name": "META Crystal - Nevada META",
+    "description": "An item that increases the potential of Nevada META. Used in the META Lab during Somatic Activation.",
+    "type": 4,
+    "icon": "props/21046",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 21"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "21101": {
     "id": 21101,
     "name": "Crystallized Heat-Resistant Steel",
@@ -17760,6 +17777,204 @@
       }
     ]
   },
+  "30366": {
+    "id": 30366,
+    "name": "Gear Skin Box (Medical)",
+    "description": "Contains a random Medical-themed gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxbingyuan",
+    "rarity": 5,
+    "locations": [
+      "Letters from Valley Hospital"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 4131,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101194",
+        "name": "Band-Aid Shell"
+      },
+      {
+        "id": 4132,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101195",
+        "name": "Pill Bottle Shell"
+      },
+      {
+        "id": 4133,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101196",
+        "name": "Mask Shell"
+      },
+      {
+        "id": 4134,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101197",
+        "name": "Crutch Torpedo"
+      },
+      {
+        "id": 4135,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101198",
+        "name": "Thermometer Torpedo"
+      },
+      {
+        "id": 4136,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101199",
+        "name": "Stethoscope Torpedo"
+      },
+      {
+        "id": 4137,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101200",
+        "name": "IV Drip Shell"
+      },
+      {
+        "id": 4138,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101201",
+        "name": "Medicine Box Shell"
+      },
+      {
+        "id": 4139,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101202",
+        "name": "Microscope Shell"
+      },
+      {
+        "id": 4140,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101203",
+        "name": "Emergency Transport Manjuu (Torpedo)"
+      },
+      {
+        "id": 4141,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101203",
+        "name": "Emergency Transport Manjuu (Fighter)"
+      },
+      {
+        "id": 4142,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101203",
+        "name": "Emergency Transport Manjuu (Bomber)"
+      },
+      {
+        "id": 4143,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101204",
+        "name": "Outpatient Transport Manjuu (Torpedo)"
+      },
+      {
+        "id": 4144,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101204",
+        "name": "Outpatient Transport Manjuu (Fighter)"
+      },
+      {
+        "id": 4145,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101204",
+        "name": "Outpatient Transport Manjuu (Bomber)"
+      },
+      {
+        "id": 4146,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101205",
+        "name": "Emergency Nursing Manjuu (Torpedo)"
+      },
+      {
+        "id": 4147,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101205",
+        "name": "Emergency Nursing Manjuu (Fighter)"
+      },
+      {
+        "id": 4148,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101205",
+        "name": "Emergency Nursing Manjuu (Bomber)"
+      }
+    ]
+  },
   "30401": {
     "id": 30401,
     "name": "Random Gear Skin Box (Cruise Series 3)",
@@ -19263,7 +19478,7 @@
   },
   "30426": {
     "id": 30426,
-    "name": "Gear Skin Box (Cruise Missions)",
+    "name": "Random Gear Skin Box (Cruise Series 21)",
     "description": "Contains 1 random Cruise Mission gear skin.",
     "type": 11,
     "icon": "props/appearanceboxshijiexunyou",
@@ -19316,6 +19531,64 @@
         "blueprint": false,
         "icon": "equips/96816",
         "name": "Halo of Revelations"
+      }
+    ]
+  },
+  "30427": {
+    "id": 30427,
+    "name": "Random Gear Skin Box (Cruise Series 22)",
+    "description": "Contains 1 random Cruise Mission gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxshijiexunyou",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 22"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 2093,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96817",
+        "name": "Spiral Horn Shell"
+      },
+      {
+        "id": 2094,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96818",
+        "name": "Demon Tail Torpedo"
+      },
+      {
+        "id": 2095,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96819",
+        "name": "Candelabra Shell"
+      },
+      {
+        "id": 2096,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96820",
+        "name": "Demon Wings"
       }
     ]
   },
@@ -29387,6 +29660,204 @@
       }
     ]
   },
+  "30553": {
+    "id": 30553,
+    "name": "Selection Gear Skin Box (Medical)",
+    "description": "Can be opened to receive 1 Medical-themed gear skin of your choosing.",
+    "type": 13,
+    "icon": "props/appearanceboxbingyuanzixuan",
+    "rarity": 5,
+    "locations": [
+      "Letters from Valley Hospital"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 4131,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101194",
+        "name": "Band-Aid Shell"
+      },
+      {
+        "id": 4132,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101195",
+        "name": "Pill Bottle Shell"
+      },
+      {
+        "id": 4133,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101196",
+        "name": "Mask Shell"
+      },
+      {
+        "id": 4134,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101197",
+        "name": "Crutch Torpedo"
+      },
+      {
+        "id": 4135,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101198",
+        "name": "Thermometer Torpedo"
+      },
+      {
+        "id": 4136,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101199",
+        "name": "Stethoscope Torpedo"
+      },
+      {
+        "id": 4137,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101200",
+        "name": "IV Drip Shell"
+      },
+      {
+        "id": 4138,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101201",
+        "name": "Medicine Box Shell"
+      },
+      {
+        "id": 4139,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101202",
+        "name": "Microscope Shell"
+      },
+      {
+        "id": 4140,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101203",
+        "name": "Emergency Transport Manjuu (Torpedo)"
+      },
+      {
+        "id": 4141,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101203",
+        "name": "Emergency Transport Manjuu (Fighter)"
+      },
+      {
+        "id": 4142,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101203",
+        "name": "Emergency Transport Manjuu (Bomber)"
+      },
+      {
+        "id": 4143,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101204",
+        "name": "Outpatient Transport Manjuu (Torpedo)"
+      },
+      {
+        "id": 4144,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101204",
+        "name": "Outpatient Transport Manjuu (Fighter)"
+      },
+      {
+        "id": 4145,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101204",
+        "name": "Outpatient Transport Manjuu (Bomber)"
+      },
+      {
+        "id": 4146,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101205",
+        "name": "Emergency Nursing Manjuu (Torpedo)"
+      },
+      {
+        "id": 4147,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101205",
+        "name": "Emergency Nursing Manjuu (Fighter)"
+      },
+      {
+        "id": 4148,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101205",
+        "name": "Emergency Nursing Manjuu (Bomber)"
+      }
+    ]
+  },
   "30911": {
     "id": 30911,
     "name": "T1 Custom Gear Lab Material Pack",
@@ -32536,6 +33007,72 @@
         "rarity": 5,
         "icon": "props/ui_202",
         "name": "Pharaoh"
+      },
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 3060,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
+      }
+    ]
+  },
+  "40057": {
+    "id": 40057,
+    "name": "Battle UI Pack - Genetic Origin (Basic)",
+    "description": "Contains the Battle UI - Genetic Origin theme.",
+    "type": 17,
+    "icon": "chargeicon/ui4",
+    "rarity": 5,
+    "locations": [
+      "Letters from Valley Hospital"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 9999999203,
+        "type": 8,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "props/ui_203",
+        "name": "Genetic Origin"
+      }
+    ]
+  },
+  "40058": {
+    "id": 40058,
+    "name": "Battle UI Pack - Genetic Origin (Premium)",
+    "description": "Contains the Battle UI - Genetic Origin theme and 3,060 Gems.",
+    "type": 17,
+    "icon": "chargeicon/ui4",
+    "rarity": 5,
+    "locations": [
+      "Letters from Valley Hospital"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 9999999203,
+        "type": 8,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "props/ui_203",
+        "name": "Genetic Origin"
       },
       {
         "id": 59005,
