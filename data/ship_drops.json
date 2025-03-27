@@ -17789,7 +17789,7 @@
     ]
   },
   "681": {
-    "id": 680,
+    "id": 681,
     "timer": "01:26:00",
     "light": false,
     "heavy": false,
@@ -17800,6 +17800,48 @@
     "notes": [],
     "events": [
       "Paradiso of Shackled Light"
+    ]
+  },
+  "682": {
+    "id": 682,
+    "timer": "04:25:00",
+    "light": false,
+    "heavy": false,
+    "limited": "Letters from Valley Hospital",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [],
+    "events": [
+      "Letters from Valley Hospital"
+    ]
+  },
+  "683": {
+    "id": 683,
+    "timer": "01:25:00",
+    "light": false,
+    "heavy": false,
+    "limited": "Letters from Valley Hospital",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [],
+    "events": [
+      "Letters from Valley Hospital"
+    ]
+  },
+  "684": {
+    "id": 684,
+    "timer": "00:28:00",
+    "light": false,
+    "heavy": false,
+    "limited": "Letters from Valley Hospital",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [],
+    "events": [
+      "Letters from Valley Hospital"
     ]
   },
   "10001": {
@@ -19644,7 +19686,8 @@
     "limited": null,
     "special": false,
     "other": [
-      11
+      11,
+      12
     ],
     "maps": [],
     "notes": [
@@ -20166,6 +20209,22 @@
     "maps": [],
     "notes": [
       "Available in META Showdown"
+    ],
+    "events": []
+  },
+  "30046": {
+    "id": 30045,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [
+      11
+    ],
+    "maps": [],
+    "notes": [
+      "Available as a Reward from Cruise Pass Season 22"
     ],
     "events": []
   }
