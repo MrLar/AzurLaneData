@@ -63742,6 +63742,47 @@
       ]
     }
   ],
+  "1011150": [
+    {
+      "name": "Counterattack of the Barents Sea+",
+      "parts": [
+        {
+          "damage": 120,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 28,
+          "pierce": 99,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
   "1011360": [
     {
       "name": "Lunga Point's Strike+",

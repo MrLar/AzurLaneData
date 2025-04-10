@@ -56574,7 +56574,7 @@
     "name": "Ashen Might - Nevada I",
     "max": 1,
     "id": 801701,
-    "type": 2,
+    "type": 1,
     "icon": 801700,
     "values": []
   },
@@ -56584,7 +56584,7 @@
     "name": "Ashen Might - Nevada II",
     "max": 1,
     "id": 801702,
-    "type": 2,
+    "type": 1,
     "icon": 801700,
     "values": []
   },
@@ -58091,6 +58091,77 @@
       ]
     ]
   },
+  "1011150": {
+    "description": "Increases this ship's Main Gun Crit Rate by $5 and Crit DMG by 30.0%. When the battle starts: restores $1 of this ship's max HP and increases this ship's FP and TRP by $2. When this ship fires her torpedoes: $3 chance to fire another wave of torpedoes. Every 20s: fires a $4 special barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Counterattack of the Barents Sea+",
+    "max": 10,
+    "id": 1011150,
+    "type": 1,
+    "icon": 11150,
+    "values": [
+      [
+        "4.0%",
+        "4.6%",
+        "5.2%",
+        "6.0%",
+        "6.6%",
+        "7.2%",
+        "8.0%",
+        "8.6%",
+        "9.2%",
+        "10.0%"
+      ],
+      [
+        "4.5%",
+        "5.2%",
+        "6.0%",
+        "7.0%",
+        "7.7%",
+        "8.5%",
+        "9.5%",
+        "10.2%",
+        "11.0%",
+        "12.0%"
+      ],
+      [
+        "50.0%",
+        "55.0%",
+        "60.0%",
+        "65.0%",
+        "70.0%",
+        "75.0%",
+        "80.0%",
+        "85.0%",
+        "90.0%",
+        "100%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "4.5%",
+        "5.2%",
+        "6.0%",
+        "7.0%",
+        "7.7%",
+        "8.5%",
+        "9.5%",
+        "10.2%",
+        "11.0%",
+        "12.0%"
+      ]
+    ]
+  },
   "1011170": {
     "description": "When sortied with Sheffield: increases this ship's EVA by $1 and increases this ship's and Sheffield's FP and TRP by $1.",
     "opsi_description": null,
@@ -58895,6 +58966,29 @@
         "Lv.8",
         "Lv.9",
         "Lv.10"
+      ]
+    ]
+  },
+  "1012400": {
+    "description": "Increases this boat's TRP and ACC by $1. When not sortied as the Flagship of your Submarine Fleet: after getting into position, this boat keeps advancing for 18s, then returns to a specific position.",
+    "opsi_description": null,
+    "name": "Great Shark's Bite+",
+    "max": 10,
+    "id": 1012400,
+    "type": 3,
+    "icon": 12400,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
       ]
     ]
   },

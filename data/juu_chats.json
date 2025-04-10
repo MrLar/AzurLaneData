@@ -25961,6 +25961,1110 @@
     "icon": "balaka",
     "type": 1
   },
+  "70203": {
+    "id": 70203,
+    "name": "Chapayev",
+    "topics": [
+      {
+        "id": 99,
+        "name": "Pets",
+        "unlock": {
+          "type": 1,
+          "ship_id": 436
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3418,
+            "text": "Commander, I just spotted a runaway kitty!",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3419,
+            "text": "The little one is ready and raring for adventure.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3420,
+            "text": "What a troublesome little kitty... Heehee♪",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3421,
+            "text": "imsgSticke_akagi",
+            "user": 70203,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Someone's in for a headache."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3422,
+            "text": "Someone's in for a headache.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3423,
+            "text": "xixue",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3424,
+            "text": "Raising pets isn't easy.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3425,
+            "text": "They take a lot of hard work. If you really want to discipline a pet, especially a cat...",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3426,
+            "text": "Get ready for a whole lot of effort~",
+            "user": 70203,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "But it's easy for you, right?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 3427,
+            "text": "But it's easy for you, right?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3428,
+            "text": "You seem like you'd be good at training animals.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3429,
+            "text": "Aww, thank you so much ((^∀^*))",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3430,
+            "text": "Me raising a pet, though... Honestly, it's hard to imagine.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3431,
+            "text": "Say, Commander, what kind of pet do you think would suit me?",
+            "user": 70203,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "Something tame..."
+              },
+              {
+                "option_id": 4,
+                "text": "Something wild..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 3432,
+            "text": "Probably something tame? It would be easier to care for, after all.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3433,
+            "text": "That would mean I wouldn't have to discipline it as much, so yes, it would be easier.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3434,
+            "text": "But...",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3435,
+            "text": "Is it tame because of innate nature? Or... because its previous owner disciplined it?",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3436,
+            "text": "Oh, the thought of it makes me a little jealous♪",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3437,
+            "text": "Something wild sounds fun.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3438,
+            "text": "Heehee, for once, we're of the same mind.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3439,
+            "text": "Taking something with a strong personality and bending it to my will... Ooh, doesn't it sound thrilling?",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3440,
+            "text": "And if it refuses to obey...",
+            "user": 70203,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "You'll put it in a cage?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 3441,
+            "text": "You'll put it in a cage?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3442,
+            "text": "Nope. I'll make it pick out its own reins for my use.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3443,
+            "text": "Now, although I am good at disciplining others...",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3444,
+            "text": "I don't think it's particularly suited to pets.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3445,
+            "text": "Besides...",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3446,
+            "text": "I don't want an animal pet. No, there's \"someone\" else I want...",
+            "user": 70203,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "What does that mean?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 3447,
+            "text": "What does that mean?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3448,
+            "text": "You really can't tell?",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3449,
+            "text": "If I had to keep anyone in my care...",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3450,
+            "text": "My love would all go...",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3451,
+            "text": "...To you, Commander!",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3452,
+            "text": "line_part2_34",
+            "user": 70203,
+            "type": 4,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 100,
+        "name": "So-Called Supervision",
+        "unlock": {
+          "type": 2,
+          "ship_id": 436,
+          "affinity": 100
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3453,
+            "text": "Commander, do you ever feel like the port is too quiet lately?",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3454,
+            "text": "There isn't much work to do, and nothing big has happened...",
+            "user": 70203,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Peace is good, no?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3455,
+            "text": "Peace is good, no?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3456,
+            "text": "Heehee, that sentiment is more dangerous than you think~",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3457,
+            "text": "Laziness piles up like snowflakes. Eventually, it all comes crashing down like an avalanche.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3458,
+            "text": "That's when you realize, \"I've been too lazy,\" and regret everything.",
+            "user": 70203,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Can't handle free time?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 3459,
+            "text": "Are you the kind of person who can't handle having free time?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3460,
+            "text": "I know you're the same way~",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3461,
+            "text": "kedie",
+            "user": 70203,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3462,
+            "text": "By the way...",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3463,
+            "text": "How about we play a little mutual supervision game together?",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3464,
+            "text": "Basically, we take turns supervising each other... Sounds fun, doesn't it?",
+            "user": 70203,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "What are the rules?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 3465,
+            "text": "What are the rules?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3466,
+            "text": "Simple. We take turns, as I said, and the first supervisor watches the other for a full day.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3467,
+            "text": "The supervisor can give whatever orders they want, and the subject has to show absolute obedience♡",
+            "user": 70203,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Give orders...?"
+              },
+              {
+                "option_id": 5,
+                "text": "Absolute obedience...?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 3468,
+            "text": "Give orders...?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3469,
+            "text": "Yep. They can make their subject do anything they want.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3470,
+            "text": "For example...",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3471,
+            "text": "Heehee. Well, I'm sure you can imagine even without my help.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3472,
+            "text": "Absolute obedience...?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3473,
+            "text": "Yep. No matter the demand, you must obey.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3474,
+            "text": "Don't worry. I'll supervise you well, Commander. You won't be bothered one bit.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3475,
+            "text": "And you'll be gentle with me, too, won't you...?",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3476,
+            "text": "Let me give you a little demonstration.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3477,
+            "text": "First, unbutton the top three buttons of your shirt, take a selfie of you holding coffee, and send it to me.",
+            "user": 70203,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "What does this have to do with supervision?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 3478,
+            "text": "What does this have to do with supervision?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3479,
+            "text": "Of course. I'm keeping you from overworking yourself.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3480,
+            "text": "I'll have you know I'm taking good care of your health♪",
+            "user": 70203,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 7,
+                "text": "I'd like to deny this ridiculous request."
+              }
+            ]
+          },
+          {
+            "choosen_option": 7,
+            "id": 3481,
+            "text": "I'd like to deny this ridiculous request.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3482,
+            "text": "You seem to be forgetting something.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3483,
+            "text": "Absolute. Obedience. Remember?",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3484,
+            "text": "Or...",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3485,
+            "text": "Would you prefer direct supervision, rather than through a screen?",
+            "user": 70203,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 8,
+                "text": "No, I mean..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 8,
+            "id": 3486,
+            "text": "No, I mean...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3487,
+            "text": "I never agreed to play this game anyway.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3488,
+            "text": "akk",
+            "user": 70203,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3489,
+            "text": "...Aww, no fair~",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3490,
+            "text": "I'll just have to think of a way to persuade you to play.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3491,
+            "text": "Wait in your office for me.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3492,
+            "text": "I'll show you what I'm capable of.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 101,
+        "name": "New Dress",
+        "unlock": {
+          "type": 2,
+          "ship_id": 436,
+          "affinity": 150
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3493,
+            "text": "Commander, have you decided what you'll wear to the upcoming party?",
+            "user": 70203,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "I still haven't thought about it..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3494,
+            "text": "I still haven't thought about it...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3495,
+            "text": "It isn't a formal affair or anything, so I figured I'd just wear whatever.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3496,
+            "text": "That won't do!",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3497,
+            "text": "It's a party. You have to dress up.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3498,
+            "text": "I'm still trying to figure my dress out, too♪",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3499,
+            "text": "May I ask for your opinion?",
+            "user": 70203,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Sure."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 3500,
+            "text": "Sure. What are the options?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3501,
+            "text": "One is a long silk dress. It shows my curves really well, if you know what I mean.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3502,
+            "text": "The other one... is a lot shorter. I like how playful it is, but the skirt really is short.",
+            "user": 70203,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "Both look good to me..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 3503,
+            "text": "Both look good to me... Why not pick whichever one you like more?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3504,
+            "text": "The problem is that I like BOTH.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3505,
+            "text": "Awww, I just can't choose on my own~",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3506,
+            "text": "If you don't pick one, I'll never be able to pick~",
+            "user": 70203,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Go with the long one."
+              },
+              {
+                "option_id": 5,
+                "text": "I like the mini."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 3507,
+            "text": "Go with the long one.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3508,
+            "text": "Heehee, you have good taste, Commander.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3509,
+            "text": "But the ribbon on the back is just so hard to tie on my own...",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3510,
+            "text": "I'll need someone's help with it♪",
+            "user": 70203,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "Do you have anything else...?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 3511,
+            "text": "I like the mini.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3512,
+            "text": "So you like lively and playful after all?",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3513,
+            "text": "The mini is cute, but the zipper on the back is a bit of a pain.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3514,
+            "text": "I don't know if I can put it on by myself.",
+            "user": 70203,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "Do you have anything else...?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 3515,
+            "text": "Do you have anything else...? Something easier to wear?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3516,
+            "text": "These two dresses are too comfortable for me NOT to wear one.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3517,
+            "text": "You probably won't get to know the texture and the like unless you see them in person...",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3518,
+            "text": "Even our great Commander can't make an informed decision on imagination alone, now, can you?",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3519,
+            "text": "How about you come to my room?",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3520,
+            "text": "lingbo",
+            "user": 70203,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3521,
+            "text": "Then you can \"feel\" for yourself instead of just hearing my description♪",
+            "user": 70203,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 7,
+                "text": "But then..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 7,
+            "id": 3522,
+            "text": "But then I'll see it before the party, won't I?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3523,
+            "text": "Are you okay with that?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3524,
+            "text": "As long as it's you, Commander...",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3525,
+            "text": "I don't mind one bit♡",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3526,
+            "text": "That's a privilege that only someone special can have.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3527,
+            "text": "Besides, you might be able to help me with more.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3528,
+            "text": "246",
+            "user": 70203,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 8,
+                "text": "\"More\" being...?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 8,
+            "id": 3529,
+            "text": "\"More\" being...?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3530,
+            "text": "Both dresses are too hard for me to put on alone.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3531,
+            "text": "Precision work like tying a ribbon or zipping up a zipper. Something you need eyes on.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3532,
+            "text": "Since you know my body better than anyone else, I wanted to ask you.",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3533,
+            "text": "My door's unlocked, okay?",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3534,
+            "text": "Come soon, my dear...",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3535,
+            "text": "Temporary assistant♡",
+            "user": 70203,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3536,
+            "text": "line_part2_24",
+            "user": 70203,
+            "type": 4,
+            "options": []
+          }
+        ]
+      }
+    ],
+    "icon": "qiabayefu",
+    "type": 1
+  },
   "90107": {
     "id": 90107,
     "name": "Mogador",
