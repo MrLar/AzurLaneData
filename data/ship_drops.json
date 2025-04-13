@@ -11245,9 +11245,9 @@
       "Available as task reward during Lunar New Year events"
     ],
     "events": [
-      "The Big Adventures of the Four Devas",
+      "Lunar New Year 2018",
       "Lunar New Year 2019",
-      "Spring Festival",
+      "Lunar New Year 2020",
       "Happy Lunar New Year 2021",
       "Happy Lunar New Year 2022",
       "Happy Lunar New Year 2023",
@@ -11268,9 +11268,9 @@
       "Available as task reward during Lunar New Year events"
     ],
     "events": [
-      "The Big Adventures of the Four Devas",
+      "Lunar New Year 2018",
       "Lunar New Year 2019",
-      "Spring Festival",
+      "Lunar New Year 2020",
       "Happy Lunar New Year 2021",
       "Happy Lunar New Year 2022",
       "Happy Lunar New Year 2023",
@@ -11291,7 +11291,8 @@
     ],
     "maps": [],
     "notes": [
-      "Used to be in Light Construction"
+      "Used to be in Light Construction",
+      "Available in Light Construction during Lunar New Year 2019"
     ],
     "events": [
       "Lunar New Year 2018",
@@ -11311,7 +11312,8 @@
     ],
     "maps": [],
     "notes": [
-      "Used to be in Light Construction"
+      "Used to be in Light Construction",
+      "Available in Light Construction during Lunar New Year 2019"
     ],
     "events": [
       "Lunar New Year 2018",
@@ -11323,12 +11325,13 @@
     "timer": "00:40:00",
     "light": true,
     "heavy": false,
-    "limited": "Lunar New Year 2019",
+    "limited": null,
     "special": false,
     "other": [],
     "maps": [],
     "notes": [
-      "Available as task reward during Lead Color Remembrance"
+      "Available as task reward during Lead Color Remembrance",
+      "Available in Light Construction during Lunar New Year 2019"
     ],
     "events": [
       "Lunar New Year 2019",
@@ -13084,8 +13087,12 @@
     "special": false,
     "other": [],
     "maps": [],
-    "notes": [],
-    "events": []
+    "notes": [
+      "Available in Light Construction during Lunar New Year 2019"
+    ],
+    "events": [
+      "Lunar New Year 2019"
+    ]
   },
   "373": {
     "id": 373,
@@ -13096,8 +13103,12 @@
     "special": false,
     "other": [],
     "maps": [],
-    "notes": [],
-    "events": []
+    "notes": [
+      "Available in Light Construction during Lunar New Year 2019"
+    ],
+    "events": [
+      "Lunar New Year 2019"
+    ]
   },
   "374": {
     "id": 374,
@@ -13111,8 +13122,12 @@
       0
     ],
     "maps": [],
-    "notes": [],
-    "events": []
+    "notes": [
+      "Available in Light Construction during Lunar New Year 2019"
+    ],
+    "events": [
+      "Lunar New Year 2019"
+    ]
   },
   "375": {
     "id": 375,
@@ -13126,8 +13141,12 @@
       0
     ],
     "maps": [],
-    "notes": [],
-    "events": []
+    "notes": [
+      "Available in Light Construction during Lunar New Year 2019"
+    ],
+    "events": [
+      "Lunar New Year 2019"
+    ]
   },
   "376": {
     "id": 376,
@@ -13142,9 +13161,12 @@
     ],
     "maps": [],
     "notes": [
-      "Used to be in Special Construction"
+      "Used to be in Special Construction",
+      "Available in Light Construction during Lunar New Year 2019"
     ],
-    "events": []
+    "events": [
+      "Lunar New Year 2019"
+    ]
   },
   "377": {
     "id": 377,
@@ -14030,10 +14052,10 @@
     "other": [],
     "maps": [],
     "notes": [
-      "Available as task reward during Spring Festival"
+      "Available as task reward during Lunar New Year 2020"
     ],
     "events": [
-      "Spring Festival"
+      "Lunar New Year 2020"
     ]
   },
   "431": {
@@ -14989,11 +15011,11 @@
     "other": [],
     "maps": [],
     "notes": [
-      "Available as task reward during Lunar New Year 2021",
+      "Available as task reward during Happy Lunar New Year 2021",
       "Available in permanent event U-410's Special Training"
     ],
     "events": [
-      "Lunar New Year 2021",
+      "Happy Lunar New Year 2021",
       "U-410's Special Training"
     ]
   },
@@ -15010,9 +15032,12 @@
     ],
     "maps": [],
     "notes": [
-      "Used to be in Light Construction"
+      "Used to be in Light Construction",
+      "Available in Light Construction during Lunar New Year 2021"
     ],
-    "events": []
+    "events": [
+      "Happy Lunar New Year 2021"
+    ]
   },
   "494": {
     "id": 494,
@@ -15027,9 +15052,12 @@
     ],
     "maps": [],
     "notes": [
-      "Used to be in Light Construction"
+      "Used to be in Light Construction",
+      "Available in Light Construction during Lunar New Year 2021"
     ],
-    "events": []
+    "events": [
+      "Happy Lunar New Year 2021"
+    ]
   },
   "495": {
     "id": 495,
@@ -15044,9 +15072,12 @@
     ],
     "maps": [],
     "notes": [
-      "Used to be in Light Construction"
+      "Used to be in Light Construction",
+      "Available in Light Construction during Lunar New Year 2021"
     ],
-    "events": []
+    "events": [
+      "Happy Lunar New Year 2021"
+    ]
   },
   "496": {
     "id": 496,
@@ -15589,11 +15620,13 @@
     "timer": "00:55:00",
     "light": true,
     "heavy": false,
-    "limited": "Happy Lunar New Year 2022",
+    "limited": null,
     "special": false,
     "other": [],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available in Light Construction during Lunar New Year 2022"
+    ],
     "events": [
       "Happy Lunar New Year 2022"
     ]
@@ -15610,10 +15643,10 @@
     ],
     "maps": [],
     "notes": [
-      "Available as task reward during World Within the Painting"
+      "Available as task reward during Happy Lunar New Year 2022"
     ],
     "events": [
-      "World Within the Painting"
+      "Happy Lunar New Year 2022"
     ]
   },
   "532": {
@@ -15628,10 +15661,10 @@
     ],
     "maps": [],
     "notes": [
-      "Available as task reward during World Within the Painting"
+      "Available as task reward during Happy Lunar New Year 2022"
     ],
     "events": [
-      "World Within the Painting"
+      "Happy Lunar New Year 2022"
     ]
   },
   "533": {
@@ -15639,11 +15672,13 @@
     "timer": "00:29:00",
     "light": true,
     "heavy": false,
-    "limited": "Happy Lunar New Year 2022",
+    "limited": null,
     "special": false,
     "other": [],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available in Light Construction during Lunar New Year 2022"
+    ],
     "events": [
       "Happy Lunar New Year 2022"
     ]
@@ -15653,11 +15688,13 @@
     "timer": "02:00:00",
     "light": false,
     "heavy": false,
-    "limited": "Happy Lunar New Year 2022",
+    "limited": null,
     "special": true,
     "other": [],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available in Light Construction during Lunar New Year 2022"
+    ],
     "events": [
       "Happy Lunar New Year 2022"
     ]
@@ -16281,13 +16318,15 @@
     "timer": "01:26:00",
     "light": true,
     "heavy": false,
-    "limited": "Winter Pathfinder",
+    "limited": null,
     "special": false,
     "other": [],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available in Light Construction during Lunar New Year 2023"
+    ],
     "events": [
-      "Winter Pathfinder"
+      "Happy Lunar New Year 2023"
     ]
   },
   "578": {
@@ -16295,11 +16334,13 @@
     "timer": "02:30:00",
     "light": false,
     "heavy": false,
-    "limited": "Happy Lunar New Year 2023",
+    "limited": null,
     "special": true,
     "other": [],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available in Light Construction during Lunar New Year 2023"
+    ],
     "events": [
       "Happy Lunar New Year 2023"
     ]
@@ -16309,11 +16350,13 @@
     "timer": "02:10:00",
     "light": false,
     "heavy": false,
-    "limited": "Happy Lunar New Year 2023",
+    "limited": null,
     "special": true,
     "other": [],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available in Light Construction during Lunar New Year 2023"
+    ],
     "events": [
       "Happy Lunar New Year 2023"
     ]
@@ -16952,11 +16995,13 @@
     "timer": "04:10:00",
     "light": false,
     "heavy": true,
-    "limited": "Happy Lunar New Year 2024",
+    "limited": null,
     "special": false,
     "other": [],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available in Light Construction during Lunar New Year 2024"
+    ],
     "events": [
       "Happy Lunar New Year 2024"
     ]
@@ -16966,11 +17011,13 @@
     "timer": "00:38:00",
     "light": true,
     "heavy": false,
-    "limited": "Happy Lunar New Year 2024",
+    "limited": null,
     "special": false,
     "other": [],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available in Light Construction during Lunar New Year 2024"
+    ],
     "events": [
       "Happy Lunar New Year 2024"
     ]
@@ -16980,11 +17027,13 @@
     "timer": "00:33:00",
     "light": true,
     "heavy": false,
-    "limited": "Happy Lunar New Year 2024",
+    "limited": null,
     "special": false,
     "other": [],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available in Light Construction during Lunar New Year 2024"
+    ],
     "events": [
       "Happy Lunar New Year 2024"
     ]
@@ -16994,11 +17043,13 @@
     "timer": "00:33:00",
     "light": true,
     "heavy": false,
-    "limited": "Happy Lunar New Year 2024",
+    "limited": null,
     "special": false,
     "other": [],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available in Light Construction during Lunar New Year 2024"
+    ],
     "events": [
       "Happy Lunar New Year 2024"
     ]
@@ -17016,7 +17067,7 @@
     "maps": [],
     "notes": [],
     "events": [
-      "Fei Yuen's Spring Adventure"
+      "Happy Lunar New Year 2024"
     ]
   },
   "626": {
@@ -17693,10 +17744,10 @@
     "other": [],
     "maps": [],
     "notes": [
-      "Available in Light Construction during Spring Fashion Festa"
+      "Available in Light Construction during Happy Lunar New Year 2025"
     ],
     "events": [
-      "Spring Fashion Festa"
+      "Happy Lunar New Year 2025"
     ]
   },
   "675": {
@@ -17709,10 +17760,10 @@
     "other": [],
     "maps": [],
     "notes": [
-      "Available in Light Construction during Spring Fashion Festa"
+      "Available in Light Construction during Happy Lunar New Year 2025"
     ],
     "events": [
-      "Spring Fashion Festa"
+      "Happy Lunar New Year 2025"
     ]
   },
   "676": {
@@ -17725,10 +17776,10 @@
     "other": [],
     "maps": [],
     "notes": [
-      "Available in Light Construction during Spring Fashion Festa"
+      "Available in Light Construction during Happy Lunar New Year 2025"
     ],
     "events": [
-      "Spring Fashion Festa"
+      "Happy Lunar New Year 2025"
     ]
   },
   "677": {
@@ -17742,8 +17793,7 @@
     "maps": [],
     "notes": [],
     "events": [
-      "Spring Fashion Festa",
-      "Fu Po's Flawless Plan"
+      "Happy Lunar New Year 2025"
     ]
   },
   "678": {
