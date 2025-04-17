@@ -1101,6 +1101,18 @@
         "name": "Elite Pool",
         "items": [
           {
+            "id": 551,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/sizhannvshen",
+            "name": "Bellona",
+            "limit": -1,
+            "cost": 8000
+          },
+          {
             "id": 416,
             "type": 2,
             "amount": -1,

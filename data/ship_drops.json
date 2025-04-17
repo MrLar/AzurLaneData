@@ -7974,10 +7974,12 @@
     "id": 137,
     "timer": "05:20:00",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Pledge of the Radiant Court",
-    "special": false,
-    "other": [],
+    "special": true,
+    "other": [
+      6
+    ],
     "maps": [],
     "notes": [],
     "events": [
@@ -15928,11 +15930,13 @@
   "550": {
     "id": 550,
     "timer": "00:27:00",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": "Pledge of the Radiant Court",
     "special": false,
-    "other": [],
+    "other": [
+      3
+    ],
     "maps": [],
     "notes": [
       "Available as Map drop (B3 boss node, D3 boss node, SP boss node) and in the Event shop during Pledge of the Radiant Court"
@@ -15979,7 +15983,7 @@
     "light": false,
     "heavy": false,
     "limited": "Pledge of the Radiant Court",
-    "special": false,
+    "special": true,
     "other": [],
     "maps": [],
     "notes": [],
@@ -15991,7 +15995,7 @@
     "id": 554,
     "timer": "04:10:00",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Pledge of the Radiant Court",
     "special": false,
     "other": [],

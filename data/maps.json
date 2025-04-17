@@ -63473,5 +63473,590 @@
     "time_limit": 300,
     "type": 18,
     "id": 1572
+  },
+  "coalation_1719101_16511301": {
+    "name": "Frostfall: EASY: Jamming Breakthrough",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16511301,
+      "hull": 2,
+      "nation": 99,
+      "name": "Obstructer-class Type III",
+      "stats": {
+        "hp": 3600,
+        "fp": 40,
+        "trp": 60,
+        "avi": 0,
+        "aa": 125,
+        "hit": 18,
+        "eva": 14,
+        "spd": 20,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qinraozhe"
+    },
+    "buffs": [],
+    "expo_id": 1719101,
+    "dungeon_id": 1719101,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1573
+  },
+  "coalation_1719201_16512301": {
+    "name": "Frostfall: NORMAL: Anomaly Disruption (Boss #1)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16512301,
+      "hull": 2,
+      "nation": 99,
+      "name": "Obstructer-class Type III",
+      "stats": {
+        "hp": 16840,
+        "fp": 102,
+        "trp": 142,
+        "avi": 0,
+        "aa": 260,
+        "hit": 24,
+        "eva": 24,
+        "spd": 20,
+        "luck": 8,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qinraozhe"
+    },
+    "buffs": [],
+    "expo_id": 1719201,
+    "dungeon_id": 1719201,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1574
+  },
+  "coalation_1719202_16512302": {
+    "name": "Frostfall: NORMAL: Anomaly Disruption (Boss #2)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16512302,
+      "hull": 5,
+      "nation": 99,
+      "name": "Omitter α",
+      "stats": {
+        "hp": 24680,
+        "fp": 160,
+        "trp": 0,
+        "avi": 0,
+        "aa": 180,
+        "hit": 26,
+        "eva": 16,
+        "spd": 18,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qingchuzhe"
+    },
+    "buffs": [],
+    "expo_id": 1719202,
+    "dungeon_id": 1719202,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1575
+  },
+  "coalation_1719301_16513301": {
+    "name": "Frostfall: HARD: Research Base Recapture (Boss #1)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16513301,
+      "hull": 2,
+      "nation": 99,
+      "name": "Obstructor Mk. IV",
+      "stats": {
+        "hp": 89250,
+        "fp": 198,
+        "trp": 260,
+        "avi": 0,
+        "aa": 350,
+        "hit": 43,
+        "eva": 41,
+        "spd": 18,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qinraozhe_iv"
+    },
+    "buffs": [],
+    "expo_id": 1719301,
+    "dungeon_id": 1719301,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1576
+  },
+  "coalation_1719302_16513302": {
+    "name": "Frostfall: HARD: Research Base Recapture (Boss #2)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16513302,
+      "hull": 3,
+      "nation": 7,
+      "name": "Special Pawn - Kursk",
+      "stats": {
+        "hp": 98260,
+        "fp": 240,
+        "trp": 190,
+        "avi": 0,
+        "aa": 265,
+        "hit": 68,
+        "eva": 45,
+        "spd": 16,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "kuersike"
+    },
+    "buffs": [],
+    "expo_id": 1719302,
+    "dungeon_id": 1719302,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1577
+  },
+  "coalation_1719303_16513303": {
+    "name": "Frostfall: HARD: Research Base Recapture (Boss #3)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16513303,
+      "hull": 5,
+      "nation": 99,
+      "name": "Omitter β",
+      "stats": {
+        "hp": 115000,
+        "fp": 300,
+        "trp": 0,
+        "avi": 0,
+        "aa": 460,
+        "hit": 51,
+        "eva": 39,
+        "spd": 18,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qingchuzhe"
+    },
+    "buffs": [],
+    "expo_id": 1719303,
+    "dungeon_id": 1719303,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1578
+  },
+  "coalation_1719401_16514301": {
+    "name": "Frostfall: SP: Full-Scale Reconnaissance (Boss #1)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16514301,
+      "hull": 2,
+      "nation": 99,
+      "name": "Obstructor Mk. IV",
+      "stats": {
+        "hp": 98500,
+        "fp": 230,
+        "trp": 280,
+        "avi": 300,
+        "aa": 440,
+        "hit": 71,
+        "eva": 60,
+        "spd": 20,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qinraozhe_iv"
+    },
+    "buffs": [],
+    "expo_id": 1719401,
+    "dungeon_id": 1719401,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1579
+  },
+  "coalation_1719402_16514302": {
+    "name": "Frostfall: SP: Full-Scale Reconnaissance (Boss #2)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16514302,
+      "hull": 2,
+      "nation": 7,
+      "name": "Special Pawn - Voroshilov",
+      "stats": {
+        "hp": 118500,
+        "fp": 250,
+        "trp": 260,
+        "avi": 300,
+        "aa": 430,
+        "hit": 71,
+        "eva": 60,
+        "spd": 20,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fuluoxiluofu"
+    },
+    "buffs": [],
+    "expo_id": 1719402,
+    "dungeon_id": 1719402,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1580
+  },
+  "coalation_1719403_16514303": {
+    "name": "Frostfall: SP: Full-Scale Reconnaissance (Boss #3)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16514303,
+      "hull": 5,
+      "nation": 7,
+      "name": "Special Pawn - Sevastopol",
+      "stats": {
+        "hp": 155000,
+        "fp": 320,
+        "trp": 180,
+        "avi": 300,
+        "aa": 390,
+        "hit": 65,
+        "eva": 49,
+        "spd": 18,
+        "luck": 30,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "saiwasituoboer"
+    },
+    "buffs": [],
+    "expo_id": 1719403,
+    "dungeon_id": 1719403,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1581
+  },
+  "coalation_1719404_16514304": {
+    "name": "Frostfall: SP: Full-Scale Reconnaissance (Boss #4)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16514304,
+      "hull": 5,
+      "nation": 99,
+      "name": "Omitter γ",
+      "stats": {
+        "hp": 175000,
+        "fp": 330,
+        "trp": 190,
+        "avi": 300,
+        "aa": 400,
+        "hit": 65,
+        "eva": 49,
+        "spd": 18,
+        "luck": 30,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qingchuzhe"
+    },
+    "buffs": [],
+    "expo_id": 1719404,
+    "dungeon_id": 1719404,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1582
+  },
+  "coalation_1719501_16515301": {
+    "name": "Frostfall: EX: Singularity Diversion Operation (Boss #1)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16515301,
+      "hull": 2,
+      "nation": 99,
+      "name": "Obstructor Mk. IV",
+      "stats": {
+        "hp": 155000,
+        "fp": 240,
+        "trp": 290,
+        "avi": 310,
+        "aa": 440,
+        "hit": 76,
+        "eva": 65,
+        "spd": 20,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qinraozhe_iv"
+    },
+    "buffs": [],
+    "expo_id": 1719501,
+    "dungeon_id": 1719501,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1583
+  },
+  "coalation_1719502_16515302": {
+    "name": "Frostfall: EX: Singularity Diversion Operation (Boss #2)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16515302,
+      "hull": 3,
+      "nation": 7,
+      "name": "Special Pawn - Kursk",
+      "stats": {
+        "hp": 255000,
+        "fp": 250,
+        "trp": 280,
+        "avi": 310,
+        "aa": 435,
+        "hit": 76,
+        "eva": 57,
+        "spd": 20,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "kuersike"
+    },
+    "buffs": [],
+    "expo_id": 1719502,
+    "dungeon_id": 1719502,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1584
+  },
+  "coalation_1719503_16515303": {
+    "name": "Frostfall: EX: Singularity Diversion Operation (Boss #3)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16515303,
+      "hull": 2,
+      "nation": 7,
+      "name": "Special Pawn - Voroshilov",
+      "stats": {
+        "hp": 455000,
+        "fp": 260,
+        "trp": 270,
+        "avi": 310,
+        "aa": 430,
+        "hit": 76,
+        "eva": 65,
+        "spd": 20,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fuluoxiluofu"
+    },
+    "buffs": [],
+    "expo_id": 1719503,
+    "dungeon_id": 1719503,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1585
+  },
+  "coalation_1719504_16515304": {
+    "name": "Frostfall: EX: Singularity Diversion Operation (Boss #4)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16515304,
+      "hull": 5,
+      "nation": 7,
+      "name": "Special Pawn - Sevastopol",
+      "stats": {
+        "hp": 755000,
+        "fp": 330,
+        "trp": 200,
+        "avi": 310,
+        "aa": 400,
+        "hit": 70,
+        "eva": 52,
+        "spd": 18,
+        "luck": 30,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "saiwasituoboer"
+    },
+    "buffs": [],
+    "expo_id": 1719504,
+    "dungeon_id": 1719504,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1586
+  },
+  "coalation_1719505_16515305": {
+    "name": "Frostfall: EX: Singularity Diversion Operation (Boss #5)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16515305,
+      "hull": 5,
+      "nation": 99,
+      "name": "Omitter μ",
+      "stats": {
+        "hp": 1000000,
+        "fp": 340,
+        "trp": 210,
+        "avi": 310,
+        "aa": 400,
+        "hit": 70,
+        "eva": 52,
+        "spd": 18,
+        "luck": 30,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qingchuzhe"
+    },
+    "buffs": [],
+    "expo_id": 1719505,
+    "dungeon_id": 1719505,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1587
   }
 }
