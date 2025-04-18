@@ -64058,5 +64058,473 @@
     "time_limit": 180,
     "type": 18,
     "id": 1587
+  },
+  "2100461_a1_15900301": {
+    "name": "Pledge of the Radiant Court-A1 - War Archive",
+    "acv": 100,
+    "opsi": false,
+    "boss": {
+      "id": 15900301,
+      "hull": 5,
+      "nation": 99,
+      "name": "Up-Armored Rook",
+      "stats": {
+        "hp": 8900,
+        "fp": 150,
+        "trp": 0,
+        "avi": 0,
+        "aa": 115,
+        "hit": 19,
+        "eva": 15,
+        "spd": 20,
+        "luck": 0,
+        "armor": 2
+      },
+      "cld": [
+        21,
+        10.5,
+        10.5
+      ],
+      "level": 25,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "srbb0"
+    },
+    "buffs": [],
+    "expo_id": 1650013,
+    "dungeon_id": 1650013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1588
+  },
+  "2100461_a2_15900302": {
+    "name": "Pledge of the Radiant Court-A2 - War Archive",
+    "acv": 130,
+    "opsi": false,
+    "boss": {
+      "id": 15900302,
+      "hull": 7,
+      "nation": 99,
+      "name": "Dreamworld Avatar - \"Conductor\"",
+      "stats": {
+        "hp": 5200,
+        "fp": 45,
+        "trp": 0,
+        "avi": 68,
+        "aa": 116,
+        "hit": 20,
+        "eva": 16,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenhangmu_m"
+    },
+    "buffs": [],
+    "expo_id": 1650113,
+    "dungeon_id": 1650113,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1589
+  },
+  "2100461_a3_15900303": {
+    "name": "Pledge of the Radiant Court-A3 - War Archive",
+    "acv": 165,
+    "opsi": false,
+    "boss": {
+      "id": 15900303,
+      "hull": 3,
+      "nation": 99,
+      "name": "Oceana I",
+      "stats": {
+        "hp": 7200,
+        "fp": 80,
+        "trp": 120,
+        "avi": 0,
+        "aa": 140,
+        "hit": 21,
+        "eva": 21,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenzhongxun"
+    },
+    "buffs": [],
+    "expo_id": 1650213,
+    "dungeon_id": 1650213,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1590
+  },
+  "2100462_b1_15901301": {
+    "name": "Pledge of the Radiant Court-B1 - War Archive",
+    "acv": 210,
+    "opsi": false,
+    "boss": {
+      "id": 15901301,
+      "hull": 5,
+      "nation": 2,
+      "name": "Vision of King George V",
+      "stats": {
+        "hp": 16500,
+        "fp": 160,
+        "trp": 0,
+        "avi": 0,
+        "aa": 180,
+        "hit": 25,
+        "eva": 16,
+        "spd": 20,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 45,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qiaozhiwushi"
+    },
+    "buffs": [],
+    "expo_id": 1651013,
+    "dungeon_id": 1651013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1591
+  },
+  "2100462_b2_15901302": {
+    "name": "Pledge of the Radiant Court-B2 - War Archive",
+    "acv": 270,
+    "opsi": false,
+    "boss": {
+      "id": 15901302,
+      "hull": 7,
+      "nation": 99,
+      "name": "Up-Armored Queen",
+      "stats": {
+        "hp": 22800,
+        "fp": 120,
+        "trp": 0,
+        "avi": 165,
+        "aa": 240,
+        "hit": 25,
+        "eva": 19,
+        "spd": 20,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        27.7,
+        9,
+        9
+      ],
+      "level": 55,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "srcv0"
+    },
+    "buffs": [],
+    "expo_id": 1651113,
+    "dungeon_id": 1651113,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1592
+  },
+  "2100462_b3_15901303": {
+    "name": "Pledge of the Radiant Court-B3 - War Archive",
+    "acv": 370,
+    "opsi": false,
+    "boss": {
+      "id": 15901303,
+      "hull": 5,
+      "nation": 2,
+      "name": "Vision of Vanguard",
+      "stats": {
+        "hp": 32400,
+        "fp": 186,
+        "trp": 0,
+        "avi": 0,
+        "aa": 365,
+        "hit": 26,
+        "eva": 21,
+        "spd": 16,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qianwei"
+    },
+    "buffs": [],
+    "expo_id": 1651213,
+    "dungeon_id": 1651213,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1593
+  },
+  "2100471_c1_15902301": {
+    "name": "Pledge of the Radiant Court-C1 - War Archive",
+    "acv": 555,
+    "opsi": false,
+    "boss": {
+      "id": 15902301,
+      "hull": 5,
+      "nation": 99,
+      "name": "Up-Armored Rook",
+      "stats": {
+        "hp": 52100,
+        "fp": 210,
+        "trp": 0,
+        "avi": 0,
+        "aa": 206,
+        "hit": 41,
+        "eva": 41,
+        "spd": 20,
+        "luck": 18,
+        "armor": 2
+      },
+      "cld": [
+        21,
+        10.5,
+        10.5
+      ],
+      "level": 75,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "srbb0"
+    },
+    "buffs": [],
+    "expo_id": 1652013,
+    "dungeon_id": 1652013,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1594
+  },
+  "2100471_c2_15902302": {
+    "name": "Pledge of the Radiant Court-C2 - War Archive",
+    "acv": 705,
+    "opsi": false,
+    "boss": {
+      "id": 15902302,
+      "hull": 7,
+      "nation": 99,
+      "name": "Dreamworld Avatar - \"Conductor\"",
+      "stats": {
+        "hp": 29400,
+        "fp": 136,
+        "trp": 0,
+        "avi": 162,
+        "aa": 221,
+        "hit": 39,
+        "eva": 40,
+        "spd": 18,
+        "luck": 18,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenhangmu_m"
+    },
+    "buffs": [],
+    "expo_id": 1652113,
+    "dungeon_id": 1652113,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1595
+  },
+  "2100471_c3_15902303": {
+    "name": "Pledge of the Radiant Court-C3 - War Archive",
+    "acv": 875,
+    "opsi": false,
+    "boss": {
+      "id": 15902303,
+      "hull": 3,
+      "nation": 99,
+      "name": "Oceana I",
+      "stats": {
+        "hp": 56000,
+        "fp": 220,
+        "trp": 120,
+        "avi": 0,
+        "aa": 225,
+        "hit": 48,
+        "eva": 44,
+        "spd": 18,
+        "luck": 18,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 85,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenzhongxun"
+    },
+    "buffs": [],
+    "expo_id": 1652213,
+    "dungeon_id": 1652213,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1596
+  },
+  "2100472_d1_15903301": {
+    "name": "Pledge of the Radiant Court-D1 - War Archive",
+    "acv": 950,
+    "opsi": false,
+    "boss": {
+      "id": 15903301,
+      "hull": 5,
+      "nation": 2,
+      "name": "Vision of King George V",
+      "stats": {
+        "hp": 86200,
+        "fp": 280,
+        "trp": 0,
+        "avi": 0,
+        "aa": 260,
+        "hit": 69,
+        "eva": 32,
+        "spd": 20,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 95,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qiaozhiwushi"
+    },
+    "buffs": [],
+    "expo_id": 1653013,
+    "dungeon_id": 1653013,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1597
+  },
+  "2100472_d2_15903302": {
+    "name": "Pledge of the Radiant Court-D2 - War Archive",
+    "acv": 1155,
+    "opsi": false,
+    "boss": {
+      "id": 15903302,
+      "hull": 7,
+      "nation": 99,
+      "name": "Up-Armored Queen",
+      "stats": {
+        "hp": 91000,
+        "fp": 160,
+        "trp": 0,
+        "avi": 300,
+        "aa": 390,
+        "hit": 43,
+        "eva": 53,
+        "spd": 20,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        27.7,
+        9,
+        9
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "srcv0"
+    },
+    "buffs": [],
+    "expo_id": 1653113,
+    "dungeon_id": 1653113,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1598
+  },
+  "2100472_d3_15903303": {
+    "name": "Pledge of the Radiant Court-D3 - War Archive",
+    "acv": 1480,
+    "opsi": false,
+    "boss": {
+      "id": 15903303,
+      "hull": 5,
+      "nation": 2,
+      "name": "Vision of Vanguard",
+      "stats": {
+        "hp": 115000,
+        "fp": 300,
+        "trp": 0,
+        "avi": 0,
+        "aa": 460,
+        "hit": 52,
+        "eva": 40,
+        "spd": 18,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qianwei"
+    },
+    "buffs": [],
+    "expo_id": 1653213,
+    "dungeon_id": 1653213,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1599
   }
 }
