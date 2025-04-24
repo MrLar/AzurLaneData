@@ -42064,6 +42064,157 @@
       ]
     }
   ],
+  "30442": [
+    {
+      "name": "All Out Assault - De Zeven Provinciën II",
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 0,
+          "pierce": 99,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        },
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 12,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "reaim": true,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 10,
+          "pierce": 0,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "30452": [
+    {
+      "name": "All Out Assault - Little Anchorage II",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 15,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.95,
+            0.7
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 12,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.6
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
   "60130": [
     {
       "name": "Inflict Burns",
@@ -56363,6 +56514,497 @@
           "buff_chance": 1,
           "buffs": [
             "Special Flood (DMG equal to 20 + WepDMG * WepCoeff * (1 + (AVI / 100)) * 0.3 with 1 tick every 3 seconds for 15.1s, ID: 151069)"
+          ]
+        }
+      ]
+    }
+  ],
+  "151080": [
+    {
+      "name": "Butterfly Shadow Ye Lan",
+      "parts": [
+        {
+          "damage": 55,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            2,
+            2,
+            2
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 6,
+          "pierce": 99,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        },
+        {
+          "damage": 55,
+          "coefficient": 1,
+          "count": 72,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 6,
+          "pierce": 99,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "151090": [
+    {
+      "name": "Blue Sky Saint",
+      "parts": [
+        {
+          "damage": 25,
+          "coefficient": 1,
+          "count": 60,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "151100": [
+    {
+      "name": "Genius Intuition",
+      "parts": [
+        {
+          "damage": 15,
+          "coefficient": 1,
+          "count": 60,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 2,
+          "pierce": 0,
+          "shell_range": [
+            70,
+            90
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "151110": [
+    {
+      "name": "Mad scientist mode, on! (Shield Broken)",
+      "parts": [
+        {
+          "damage": 36,
+          "coefficient": 1,
+          "count": 16,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mad scientist mode, on! (Bomb)",
+      "parts": [
+        {
+          "damage": 600,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            80
+          ],
+          "aim_type": 1,
+          "angle": 60,
+          "splash": 60,
+          "velocity": 7,
+          "pierce": 0,
+          "shell_range": [
+            75,
+            75
+          ],
+          "spread": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mad scientist mode, on! (Torpedo)",
+      "parts": [
+        {
+          "damage": 550,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            42
+          ],
+          "aim_type": 1,
+          "angle": 75,
+          "splash": 3,
+          "velocity": 4,
+          "pierce": 0,
+          "shell_range": [
+            70,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "tracker": {
+            "angular": 1.6,
+            "range": 16
+          }
+        }
+      ]
+    }
+  ],
+  "151120": [
+    {
+      "name": "Polar Bear's Rage",
+      "parts": [
+        {
+          "damage": 150,
+          "coefficient": 1,
+          "count": 12,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            5,
+            75
+          ],
+          "aim_type": 0,
+          "angle": 60,
+          "splash": 16,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            105,
+            135
+          ],
+          "spread": [
+            10,
+            10
+          ],
+          "buff_chance": 1,
+          "buffs": [
+            "Slow by 40% for 4s",
+            "Attach \"Slowed by Northern Parliament\" tag for 4s",
+            "Special Flood (23 DMG with 1 tick every 3.5s for 4s, ID: 323)"
+          ]
+        },
+        {
+          "damage": 70,
+          "coefficient": 1,
+          "count": 12,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buff_chance": 1,
+          "buffs": [
+            "Slow by 40% for 4s",
+            "Attach \"Slowed by Northern Parliament\" tag for 4s",
+            "Special Flood (23 DMG with 1 tick every 3.5s for 4s, ID: 323)"
+          ]
+        }
+      ]
+    }
+  ],
+  "151140": [
+    {
+      "name": "Peek-a-Boom!",
+      "parts": [
+        {
+          "damage": 39,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 18,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            1,
+            1
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Deploy smokescreen (+40% EVA Rate, Lasts 5s)"
+          ],
+          "buff_chance": 1
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 21,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.95,
+            0.7
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 0,
+          "pierce": 99,
+          "shell_range": [
+            90,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buff_chance": 1,
+          "buffs": [
+            "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
+          ]
+        }
+      ]
+    }
+  ],
+  "250012": [
+    {
+      "name": "All Out Assault - Admiralen-class II",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 22,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 20,
+          "pierce": 0,
+          "shell_range": [
+            100,
+            100
+          ],
+          "spread": [
+            0,
+            0
           ]
         }
       ]

@@ -10305,6 +10305,28 @@
     "dynamic_bg": true,
     "dual_form": false
   },
+  "206073": {
+    "id": 206073,
+    "name": "A Fairy-Tale Breakfast",
+    "type": 4,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "aerbien_4",
+    "bg": "109",
+    "obtain_type": 0,
+    "price": 980,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "206081": {
     "id": 206081,
     "name": "New Year's White Plumage",
@@ -18793,6 +18815,28 @@
     "dynamic_bg": false,
     "dual_form": false
   },
+  "399054": {
+    "id": 399054,
+    "name": "Four Fine Layers",
+    "type": 4,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "bailong_5",
+    "bg": "109",
+    "obtain_type": 0,
+    "price": 880,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "399061": {
     "id": 399061,
     "name": "The Comfy Dragon God",
@@ -22573,6 +22617,28 @@
     "dynamic_bg": false,
     "dual_form": false
   },
+  "501042": {
+    "id": 501042,
+    "name": "Two Hearts, One Cushion",
+    "type": 4,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "taiyuan_3",
+    "bg": "185",
+    "obtain_type": 0,
+    "price": 780,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "501049": {
     "id": 501049,
     "name": "Tai Yuan (Retrofit)",
@@ -25521,6 +25587,28 @@
     "dynamic_bg": false,
     "dual_form": false
   },
+  "702081": {
+    "id": 702081,
+    "name": "Repose by the Fireplace",
+    "type": 4,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "aoliege_2",
+    "bg": "606",
+    "obtain_type": 0,
+    "price": 780,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "703011": {
     "id": 703011,
     "name": "Nostalgic Pilsner",
@@ -25803,6 +25891,28 @@
     "is_permanent": false,
     "l2d": false,
     "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "705091": {
+    "id": 705091,
+    "name": "The Warm Morning Sunshine",
+    "type": 4,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "kashan_2",
+    "bg": "606",
+    "obtain_type": 0,
+    "price": 980,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
     "custom_bgm": false,
     "dynamic_bg": false,
     "dual_form": false
@@ -27672,6 +27782,50 @@
     "currency": 59005,
     "is_permanent": false,
     "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "1101011": {
+    "id": 1101011,
+    "name": "Basking by the Window",
+    "type": 4,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "aifosen_2",
+    "bg": "185",
+    "obtain_type": 0,
+    "price": 880,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "1102011": {
+    "id": 1102011,
+    "name": "Snuggling for Warmth",
+    "type": 4,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "qisheng_2",
+    "bg": "185",
+    "obtain_type": 0,
+    "price": 1180,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": true,
     "dynamic": false,
     "custom_bgm": false,
     "dynamic_bg": false,

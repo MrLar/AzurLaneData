@@ -125438,5 +125438,55 @@
       "JP",
       "CN"
     ]
+  },
+  "150640": {
+    "icon": "150640",
+    "id": 150640,
+    "name": "Bouquet of Tulips",
+    "rarity": 4,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60840
+    ],
+    "nation": 11,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 11,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          200,
+          230,
+          260,
+          290,
+          320,
+          350,
+          380,
+          410,
+          440,
+          470,
+          500,
+          530
+        ]
+      }
+    ],
+    "labels": [
+      "hnlms",
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
   }
 }
