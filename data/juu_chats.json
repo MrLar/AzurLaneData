@@ -525,7 +525,7 @@
             "choosen_option": 0,
             "id": 716,
             "text": "Greetings, comrades, and welcome to our newly established group chat.",
-            "user": 70508,
+            "user": 70502,
             "type": 1,
             "options": []
           },
@@ -533,7 +533,7 @@
             "choosen_option": 0,
             "id": 717,
             "text": "If you have any information to share, please post it here.",
-            "user": 70508,
+            "user": 70502,
             "type": 1,
             "options": []
           },
@@ -541,7 +541,7 @@
             "choosen_option": 0,
             "id": 718,
             "text": "I have also added Comrade Commander to the group.",
-            "user": 70508,
+            "user": 70502,
             "type": 1,
             "options": []
           },
@@ -549,7 +549,7 @@
             "choosen_option": 0,
             "id": 719,
             "text": "Let us all work together and shape the future of the port.",
-            "user": 70508,
+            "user": 70502,
             "type": 1,
             "options": []
           },
@@ -787,7 +787,7 @@
             "choosen_option": 2,
             "id": 747,
             "text": "Well, if that's how you see it...",
-            "user": 70508,
+            "user": 70502,
             "type": 1,
             "options": []
           },
@@ -27065,6 +27065,1616 @@
     "icon": "qiabayefu",
     "type": 1
   },
+  "70208": {
+    "id": 70208,
+    "name": "Oleg",
+    "topics": [
+      {
+        "id": 111,
+        "name": "The Nap Prevention Robot",
+        "unlock": {
+          "type": 1,
+          "ship_id": 688
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3790,
+            "text": "Commander, are you there?!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3791,
+            "text": "I just completed work on a new mechanical invention! Wanna try it?",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Color me intrigued."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3792,
+            "text": "Color me intrigued. What kind of invention is it?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3793,
+            "text": "Voila! I've dubbed it the fully automatic nap prevention heavy robot!",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Sticker: What?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 3794,
+            "text": "akk",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3795,
+            "text": "I know all the individual words, but together? No clue.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3796,
+            "text": "\"Fully automatic\" means that it uses several internal sensors to monitor the user's state and switches between modes accordingly! In other words, no user input required!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3797,
+            "text": "\"Nap prevention\" means it comes equipped with the full kit for brewing coffee: water, heat, coffee beans and a grinder, plus something to mix it all up and extract the liquid!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3798,
+            "text": "As long as it can make coffee, it can totally fulfill its raison d'être of keeping its user awake!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3799,
+            "text": "\"Heavy\" means both its size and power are heavy grade!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3800,
+            "text": "It's got a 500 liter water tank, a 200 liter coffee tank, a chassis with four-wheel drive, and six mechanical arms!",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "……"
+              },
+              {
+                "option_id": 4,
+                "text": "Sticker: What?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 3801,
+            "text": "…………",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3802,
+            "text": "akk",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3803,
+            "text": "So basically, it's a giant, automatic coffeemaker that follows people around?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3804,
+            "text": "Well... I guess the question now is just how well it can brew the coffee.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3805,
+            "text": "Hohoho! Surely you don't think the coffee is solely for drinking?",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "It's... not?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 3806,
+            "text": "It's... not?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3807,
+            "text": "What if the user is too tired to grab their own cup of coffee?",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "Good point..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 3808,
+            "text": "Good point. So it can deliver the coffee automatically too?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3809,
+            "text": "If so, that explains those mechanical arms.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3810,
+            "text": "Incorrect! When that happens, the machine will brew a fresh cup of coffee and then splash it right in the user's face!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3811,
+            "text": "And with those six arms, it can do this to up to six people at once!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3812,
+            "text": "Naturally, if a user gets excessively sleepy, it can use all six arms on that person!",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 7,
+                "text": "That'd make you wide awake... for sure!"
+              },
+              {
+                "option_id": 8,
+                "text": "Sticker: What?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 7,
+            "id": 3813,
+            "text": "That'd make you wide awake... for sure!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3814,
+            "text": "Hohoho! Yes, I believe so!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3815,
+            "text": "akk",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3816,
+            "text": "Speechless from sheer awe, are you? An excellent reaction!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3817,
+            "text": "If you're interested, I'll let you try it right away!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3818,
+            "text": "I'll send the robot to your office at once!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3819,
+            "text": "I look forward to reading your feedback!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 112,
+        "name": "Exploding Inventions",
+        "unlock": {
+          "type": 2,
+          "ship_id": 688,
+          "affinity": 100
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3820,
+            "text": "Nice weather we're having today, Commander. Let's go pick up some trash!",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Sticker: Confused"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3821,
+            "text": "ninghai",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3822,
+            "text": "Why? Because I'm out of components!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3823,
+            "text": "Ordering them from Akashi is just a bad deal, so we're better off heading to the recycling center to look for good stuff!",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Didn't you get a lot last time?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 3824,
+            "text": "Didn't you just pick up a lot of stuff last weekend?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3825,
+            "text": "Indeed, but I used them all in my amphibious ridable lobster!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3826,
+            "text": "I want to make an all-terrain ridable centipede next, and I don't have nearly enough for that!",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "Why not make a dragon instead?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 3827,
+            "text": "Why not make a ridable dragon instead?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3828,
+            "text": "It would only need 4 legs.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3829,
+            "text": "Mechanical dragons have been done to death!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3830,
+            "text": "Besides, I'm no expert when it comes to aerodynamics!",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Come to think of it..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 3831,
+            "text": "Come to think of it, you only ever make land-based mechanical creatures.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3832,
+            "text": "So you noticed! Indeed!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3833,
+            "text": "I love the rumble that giant machines like those make when they move around!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3834,
+            "text": "Still, making something amphibious is just barely within my invention preferences.",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3835,
+            "text": "Take my amphibious ridable lobster, for instance!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3836,
+            "text": "I used some scrapped turbo engines and recycled steel for its main structure, so you can bet it's built tough!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3837,
+            "text": "It can both swim and race on land, plus it's got automatic drive, nitro boosters, and comfort on par with a sports car!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3838,
+            "text": "It even has an automated obstacle avoidance system and can smoothly adapt its movement to different types of terrain!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3839,
+            "text": "Finally, it comes with a smart vodka dispenser, so you can have a sip whenever you want!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3840,
+            "text": "I mean, it's such an amazing invention! Yet for some darn reason, Kirov won't let me take it out on the road!",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "……"
+              },
+              {
+                "option_id": 6,
+                "text": "Sticker: What?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 3841,
+            "text": "…………",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3842,
+            "text": "akk",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3843,
+            "text": "Never mind! I'll just drive around town in my all-terrain ridable centipede instead!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3844,
+            "text": "Now come on, Commander! Let's go to the dump and find some goodies!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3845,
+            "text": "There'll be nothing left for us if anyone else gets there first!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 113,
+        "name": "Personalized Inventions",
+        "unlock": {
+          "type": 2,
+          "ship_id": 688,
+          "affinity": 150
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3846,
+            "text": "Commander! Remember the invention I gave you last time? Have you put it to good use?",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "About that..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3847,
+            "text": "About that, actually... the pillow gecko you gave me is pretty good.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3848,
+            "text": "When it's time for a nap, it automatically climbs onto my chair's backrest. It's really convenient.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3849,
+            "text": "Heheh! I knew you were going to like it!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3850,
+            "text": "You should know it's capable of more than just that, though! It also comes with an automated defense system!",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "……"
+              },
+              {
+                "option_id": 3,
+                "text": "Sticker: What?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 3851,
+            "text": "…………",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3852,
+            "text": "akk",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3853,
+            "text": "I don't need something so dangerous! Get rid of it now!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3854,
+            "text": "You don't? But people are so defenseless when they're asleep!",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "There's another risk to it..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 3855,
+            "text": "There's the risk that it'll blow up almost literally in my face, and that's a risk I don't want to live with.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3856,
+            "text": "There's not a snowball's chance in heck it will blow up!",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "What makes you so sure?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 3857,
+            "text": "What makes you so sure?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3858,
+            "text": "Because everything that CAN explode has already done so before I even give it to someone!",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "……"
+              },
+              {
+                "option_id": 7,
+                "text": "Sticker: What?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 3859,
+            "text": "…………",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3860,
+            "text": "akk",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3861,
+            "text": "Facts speak louder than words. It hasn't blown up yet, has it?",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3862,
+            "text": "Trust me, you can use it with peace of mind!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3863,
+            "text": "Also, what about my rice cooker turtle? Is it useful?",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 8,
+                "text": "It's fairly useful, sure..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 8,
+            "id": 3864,
+            "text": "It's fairly useful, sure...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3865,
+            "text": "But did you add any functions to it that I don't know about, besides its fully automatic cooking feature?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3866,
+            "text": "If there are any defense modules that might blow up, you have to take those out right now.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3867,
+            "text": "You say that like defense modules are the only way to make something explode...",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 9,
+                "text": "Come again?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 9,
+            "id": 3868,
+            "text": "Come again?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 9,
+            "id": 3869,
+            "text": "I'm saying you have nothing to worry about! The rice cooker turtle's only extra feature is an automatic plant-watering system!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 9,
+            "id": 3870,
+            "text": "Give it a try whenever you have the time!",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 10,
+                "text": "Sticker: Staring"
+              }
+            ]
+          },
+          {
+            "choosen_option": 10,
+            "id": 3871,
+            "text": "muyue",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 10,
+            "id": 3872,
+            "text": "You know, it just hit me how many inventions I've made for you!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 10,
+            "id": 3873,
+            "text": "Well, guess what? I have one more thing I'd like you to try today!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 10,
+            "id": 3874,
+            "text": "It uses brand new, custom-made parts! It's unlike anything I've done before!",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 11,
+                "text": "Sticker: Confused"
+              }
+            ]
+          },
+          {
+            "choosen_option": 11,
+            "id": 3875,
+            "text": "ninghai",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 11,
+            "id": 3876,
+            "text": "It's really something special... It's a miniature robot based on me! I call it the mini-Oleg!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 11,
+            "id": 3877,
+            "text": "It comes with a video call function, remote control, daily activity support, and much more!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 11,
+            "id": 3878,
+            "text": "Keep it by your side and we'll always be right within arm's reach of each other!",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 12,
+                "text": "It won't explode in my face, will it?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 12,
+            "id": 3879,
+            "text": "It won't explode in my face, will it?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 12,
+            "id": 3880,
+            "text": "NO! NEVER!!!",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 12,
+            "id": 3881,
+            "text": "Not a chance in the world.",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 12,
+            "id": 3882,
+            "text": "Probably.",
+            "user": 70208,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 12,
+            "id": 3883,
+            "text": "Maybe.",
+            "user": 70208,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 13,
+                "text": "……"
+              },
+              {
+                "option_id": 14,
+                "text": "Sticker: What?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 13,
+            "id": 3884,
+            "text": "…………",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 14,
+            "id": 3885,
+            "text": "akk",
+            "user": 0,
+            "type": 4,
+            "options": []
+          }
+        ]
+      }
+    ],
+    "icon": "aoliege",
+    "type": 1
+  },
+  "70509": {
+    "id": 70509,
+    "name": "Kazan ",
+    "topics": [
+      {
+        "id": 108,
+        "name": "Home Delivery",
+        "unlock": {
+          "type": 1,
+          "ship_id": 628
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3722,
+            "text": "Commander, I've made lunch for you!",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3723,
+            "text": "It's piping hot stew. I also added lettuce.",
+            "user": 70509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "I need that right now!"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3724,
+            "text": "That sounds so delicious. I need that right now!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3725,
+            "text": "Now, now, be patient. It's almost ready.",
+            "user": 70509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "It's not ready yet?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 3726,
+            "text": "It's not ready yet?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3727,
+            "text": "Not quite. It needs to cool down to a more edible temperature before I bring it to your office.",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3728,
+            "text": "I'll give it a little taste right now.",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3729,
+            "text": "Hmm, no. Still needs more time.",
+            "user": 70509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "It's fine if it's a little hot."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 3730,
+            "text": "It's fine if it's a little hot. I'll let it cool for a minute before digging in.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3731,
+            "text": "We can't have that! You must be exhausted after all your work.",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3732,
+            "text": "I'd hate to make you wait while the food is right in front of you.",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3733,
+            "text": "Okay, it's ready now. Plenty warm, but won't burn your tongue.",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3734,
+            "text": "I've packed it up in an insulated container for you.",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3735,
+            "text": "Let me include a napkin and a towel as well...",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3736,
+            "text": "Alright, that should be everything!",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3737,
+            "text": "I'll be over there in a minute.",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3738,
+            "text": "Be good and wait for me in your office!",
+            "user": 70509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Okay!"
+              },
+              {
+                "option_id": 5,
+                "text": "Okay, mom!"
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 3739,
+            "text": "Okay!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3740,
+            "text": "Okay, mom!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 109,
+        "name": "Aren't You Cold?",
+        "unlock": {
+          "type": 2,
+          "ship_id": 628,
+          "affinity": 100
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3741,
+            "text": "Goodness me, did you see the weather forecast, Commander?",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3742,
+            "text": "It's going to get really cold!",
+            "user": 70509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "I'm prepared..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3743,
+            "text": "There's a blanket in the left drawer by the sofa, my hand warmer is charged and ready, and I have hot chocolate waiting. Not too hot, not too cold.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3744,
+            "text": "Really?! That's everything you could need to stay warm indoors.",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3745,
+            "text": "Aren't you going out for a meeting this afternoon, though?",
+            "user": 70509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "I'm ready for that, too..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 3746,
+            "text": "I'm wearing thermal underwear, I've got the hand warmer in my uniform pocket, and there's a thick coat hanging on my rack.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3747,
+            "text": "Phew, thank goodness. You're fully set.",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3748,
+            "text": "But even knowing that, I still feel like you're missing something...",
+            "user": 70509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "Missing something?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 3749,
+            "text": "Missing something? Like what?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3750,
+            "text": "Well, I don't really know...",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3751,
+            "text": "All I can say is you'll definitely feel chilly if you go out on a day this cold.",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3752,
+            "text": "You need something, but what...",
+            "user": 70509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "No, I'm as prepared as can be!"
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 3753,
+            "text": "No, I'm as prepared as can be!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3754,
+            "text": "I think you're underestimating how cold it'll get. You're going to freeze if you're not ready for it...",
+            "user": 70509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "Maybe it's just you?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 3755,
+            "text": "Maybe it's just you who thinks it's colder than it is?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3756,
+            "text": "Yes, that's it!",
+            "user": 70509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "What?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 3757,
+            "text": "What?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3758,
+            "text": "It's me! I'm what you're missing!",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3759,
+            "text": "I'll come with you to your afternoon meeting. No matter how cold it gets, I'll be there to make sure you stay warm!",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3760,
+            "text": "Let me go get ready. I'll see you in the office!",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 110,
+        "name": "Warm Night",
+        "unlock": {
+          "type": 2,
+          "ship_id": 628,
+          "affinity": 150
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3761,
+            "text": "Commander, it's absurdly cold outside today.",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3762,
+            "text": "That's why I'm here to bring you a warm blanket.",
+            "user": 70509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "I already have one..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3763,
+            "text": "Thanks, but I already have one. Several, in fact. A small mound of them.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3764,
+            "text": "If anyone should blanket up for the cold, it's you.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3765,
+            "text": "You offered my advice right back to me...",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3766,
+            "text": "Well, I'm actually fine. I'm wearing a coat and I'm wrapped up in a thick blanket.",
+            "user": 70509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "The same blanket you were bringing?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 3767,
+            "text": "The same blanket you were bringing to me?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3768,
+            "text": "It's two birds with one stone!",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3769,
+            "text": "Gosh, the snow is getting heavier. I guess I won't want to leave your office for a good while once I get there.",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3770,
+            "text": "Actually, on that topic, would you mind if I slept over?",
+            "user": 70509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "Be my guest."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 3771,
+            "text": "Be my guest. You can use the bed in the back of my office.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3772,
+            "text": "Just remember to lock the door after I leave.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3773,
+            "text": "You're not seriously considering going to the dorm in THIS weather, are you?!",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3774,
+            "text": "It's freezing! And dangerous!",
+            "user": 70509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Now that you mention it, yeah."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 3775,
+            "text": "Now that you mention it, yeah.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3776,
+            "text": "On second thought, I'll stay the night here with you.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3777,
+            "text": "That's more like it!",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3778,
+            "text": "Let's make your office our little home for tonight.",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3779,
+            "text": "You've got all the daily necessities, so it won't feel much different from the dorm.",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3780,
+            "text": "It would be nicer if we could have some fresh ingredients, though...",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3781,
+            "text": "I think I'll go to the store and bring something with me.",
+            "user": 70509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "While still wrapped up in your blanket?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 3782,
+            "text": "While still wrapped up in your blanket?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3783,
+            "text": "Why, yes! This big blanket can double as a shopping bag, too.",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3784,
+            "text": "We're going to have dinner, then we'll take a nice, warm shower...",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3785,
+            "text": "After that, how about we get cozy in bed and I tell you a story?",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3786,
+            "text": "I know stories from all over the Northern Parliament. I think you're going to like them.",
+            "user": 70509,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "Now you've got me excited."
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 3787,
+            "text": "Now you've got me excited.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3788,
+            "text": "Heheh.",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3789,
+            "text": "We're in for a long, long night together♪",
+            "user": 70509,
+            "type": 1,
+            "options": []
+          }
+        ]
+      }
+    ],
+    "icon": "kashan",
+    "type": 1
+  },
   "90107": {
     "id": 90107,
     "name": "Mogador",
@@ -28000,6 +29610,1775 @@
       }
     ],
     "icon": "mojiaduoer_2",
+    "type": 1
+  },
+  "110101": {
+    "id": 110101,
+    "name": "Evertsen",
+    "topics": [
+      {
+        "id": 105,
+        "name": "Green Environment",
+        "unlock": {
+          "type": 1,
+          "ship_id": 687
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3642,
+            "text": "Commander, have you noticed anything different at work today?",
+            "user": 110101,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "More plants in my office..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3643,
+            "text": "I think I've got some new plants in my office...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3644,
+            "text": "That's correct.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3645,
+            "text": "Having greenery in your day-to-day environment has a positive effect on your mind and health, so I added some to your office.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3646,
+            "text": "You should be able to feel the difference in the air.",
+            "user": 110101,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "I do, but..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 3647,
+            "text": "I do, but...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3648,
+            "text": "Don't you think you put up too many?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3649,
+            "text": "It's almost like a jungle in here.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3650,
+            "text": "They're all indoor plants, and I picked each one carefully.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3651,
+            "text": "The one that looks like antlers is called the elkhorn fern.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3652,
+            "text": "It purifies the air and absorbs toxic substances.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3653,
+            "text": "The one on the window is a golden pothos.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3654,
+            "text": "Its vibrant green leaves will help relieve stress and anxiety during your work.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3655,
+            "text": "All of the plants in your office have different benefits.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3656,
+            "text": "I also wouldn't say there are quite that many, at least compared to my lab.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3657,
+            "text": "I know the peculiar traits of each plant, so you don't need to worry about how they're arranged.",
+            "user": 110101,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "I see..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 3658,
+            "text": "I see... Thanks for putting them all in here for me.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3659,
+            "text": "No need to thank me, I only did what I had to.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3660,
+            "text": "Also, I hope you don't mind if I make a daily stop by your office henceforth.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3661,
+            "text": "Plants need regular care by a professional in order to stay healthy.",
+            "user": 110101,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Whenever I'm free..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 3662,
+            "text": "Okay. Also, whenever I'm free, could you teach me about plant care?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3663,
+            "text": "Of course.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3664,
+            "text": "I hope you won't mind my intrusion.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 106,
+        "name": "Healing Magic",
+        "unlock": {
+          "type": 2,
+          "ship_id": 687,
+          "affinity": 100
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3665,
+            "text": "Commander",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3666,
+            "text": "There is a problem",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3667,
+            "text": "A big problem",
+            "user": 110101,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "What's wrong?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3668,
+            "text": "What's wrong?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3669,
+            "text": "The cactus in your office has perished.",
+            "user": 110101,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Sticker: Staring"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 3670,
+            "text": "muyue",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3671,
+            "text": "Maybe it's because I watered it yesterday...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3672,
+            "text": "I could swear I did it just the way you taught me, though.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3673,
+            "text": "I see.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3674,
+            "text": "Then overwatering is most likely the cause.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3675,
+            "text": "You didn't make a mistake, so don't worry.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3676,
+            "text": "The issue is...",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3677,
+            "text": "That I also watered it earlier yesterday morning.",
+            "user": 110101,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "So that's what happened..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 3678,
+            "text": "So that's what happened... I should've checked the soil before I did it.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3679,
+            "text": "shancheng",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3680,
+            "text": "It's okay.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3681,
+            "text": "I used magic to bring it back to life.",
+            "user": 110101,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Wait, what?"
+              },
+              {
+                "option_id": 4,
+                "text": "Kingdom of Tulipa magic! Amazing!"
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 3682,
+            "text": "Wait, you can do that?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3683,
+            "text": "The Kingdom of Tulipa's magic is amazing!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3684,
+            "text": "I know an even more amazing kind of magic. Do you want to see it?",
+            "user": 110101,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "You bet I do!"
+              },
+              {
+                "option_id": 6,
+                "text": "Sticker: Headnod"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 3685,
+            "text": "You bet I do!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3686,
+            "text": "haiwangxing",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3687,
+            "text": "I'll wait for you in the greenhouse.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3688,
+            "text": "See you there.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 107,
+        "name": "How Romantic",
+        "unlock": {
+          "type": 2,
+          "ship_id": 687,
+          "affinity": 150
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3689,
+            "text": "Commander, are you out of the office?",
+            "user": 110101,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Yeah. Needed a change of scenery."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3690,
+            "text": "Yeah. Needed a change of scenery.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3691,
+            "text": "It's a really nice and sunny day.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3692,
+            "text": "Are you tending to the plants already?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3693,
+            "text": "Yes, I'm checking on them right now.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3694,
+            "text": "The golden pothos has been growing magnificently as of late.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3695,
+            "text": "I can tell you've been taking good care of it.",
+            "user": 110101,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Sticker: Excellent!"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 3696,
+            "text": "line_part2_31",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3697,
+            "text": "Also, there was something I wanted to ask you.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3698,
+            "text": "Once I'm finished here, would you like to come with me to the botanical garden?",
+            "user": 110101,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "What do you want to observe this time?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 3699,
+            "text": "Sure. What do you want to observe this time?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3700,
+            "text": "Insects.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3701,
+            "text": "They're having an insect exhibit and I was hoping to get to see the small squaregill mayflies laying their eggs.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3702,
+            "text": "I think it'll be romantic.",
+            "user": 110101,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Uh, romantic?"
+              },
+              {
+                "option_id": 5,
+                "text": "I could see that being romantic..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 3703,
+            "text": "Romantic? You really think so?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3704,
+            "text": "Yes, I do, very romantic.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3705,
+            "text": "I could see that being romantic...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3706,
+            "text": "I had a feeling you would agree.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3707,
+            "text": "I'd be happy to come with you.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3708,
+            "text": "That's wonderful.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3709,
+            "text": "I'm certain it'll be a relaxing experience for you as well.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3710,
+            "text": "Wait...",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3711,
+            "text": "17",
+            "user": 110101,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3712,
+            "text": "Something incredible has happened.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3713,
+            "text": "The cactus in your office is in bloom.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3714,
+            "text": "This is a rare sight, especially when it's grown indoors.",
+            "user": 110101,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "Cacti can bloom?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 3715,
+            "text": "So cacti can bloom?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3716,
+            "text": "Yes, but only under rather specific conditions.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3717,
+            "text": "The light exposure, temperature, moisture level, and nutrient intake must all be just right for it to grow flowers.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3718,
+            "text": "It seems the cactus is also looking forward to some romance today.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3719,
+            "text": "Well, I've finished tending to the plants; where shall we meet?",
+            "user": 110101,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 7,
+                "text": "That place where you were moss-watching..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 7,
+            "id": 3720,
+            "text": "At that place in the park where you were observing the moss.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3721,
+            "text": "I'll be there, then.",
+            "user": 110101,
+            "type": 1,
+            "options": []
+          }
+        ]
+      }
+    ],
+    "icon": "aifosen",
+    "type": 1
+  },
+  "110201": {
+    "id": 110201,
+    "name": "De Zeven Provinciën",
+    "topics": [
+      {
+        "id": 102,
+        "name": "Botanical Communication",
+        "unlock": {
+          "type": 1,
+          "ship_id": 686
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3537,
+            "text": "Good evening.",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3538,
+            "text": "I just passed by your office and I noticed the lights were still on.",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3539,
+            "text": "Are you still working at this hour?",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Yeah."
+              },
+              {
+                "option_id": 2,
+                "text": "Kind of."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3540,
+            "text": "Yeah. I'm just about to wrap up.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3541,
+            "text": "Kind of. There's a little work left that I'd really like to wrap up by tonight.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3542,
+            "text": "This job you have certainly isn't easy...",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3543,
+            "text": "Doesn't it come with a lot of stress as well?",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "Yeah, it does."
+              },
+              {
+                "option_id": 4,
+                "text": "Nope. In fact, I love my job!"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 3544,
+            "text": "Yeah, it does.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3545,
+            "text": "Nope. In fact, I love my job!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3546,
+            "text": "How about your job?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3547,
+            "text": "Personally, I enjoy each and every day at the port!",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3548,
+            "text": "Although it can be stressful sometimes, chatting with Klein Groentje always helps me unwind.",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "Who's Klein Groentje?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 3549,
+            "text": "Who's Klein Groentje?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3550,
+            "text": "A plant that I'm growing!",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "Pretty unique name."
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 3551,
+            "text": "Pretty unique name.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3552,
+            "text": "Heheh, yes, it is, isn't it?",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3553,
+            "text": "Oh, look at that! It wants to say hello to you.",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 7,
+                "text": "Can you really communicate with plants?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 7,
+            "id": 3554,
+            "text": "Can you really communicate with plants?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3555,
+            "text": "You may not be able to speak to them, but you can relay your thoughts to one another.",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 8,
+                "text": "Tell it it's nice to meet it."
+              }
+            ]
+          },
+          {
+            "choosen_option": 8,
+            "id": 3556,
+            "text": "Tell it it's nice to meet it.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3557,
+            "text": "12",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3558,
+            "text": "Heheh, it seems to really really like you.",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3559,
+            "text": "And it's a little concerned about your work-life balance and hopes you'll sleep soon.",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 9,
+                "text": "Thanks, both of you."
+              }
+            ]
+          },
+          {
+            "choosen_option": 9,
+            "id": 3560,
+            "text": "Thanks, both of you.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 9,
+            "id": 3561,
+            "text": "I'll be going to bed soon tonight.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 9,
+            "id": 3562,
+            "text": "Then we'll have to conclude our conversation for now.",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 9,
+            "id": 3563,
+            "text": "Sleep tight, Commander!",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 103,
+        "name": "Kitchen Nightmare",
+        "unlock": {
+          "type": 2,
+          "ship_id": 686,
+          "affinity": 100
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3564,
+            "text": "Commander, is your work going well?",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Sticker: Crunch time"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3565,
+            "text": "part3_ms",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3566,
+            "text": "Oh no... It's not good for your body or your mind to work all the time.",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3567,
+            "text": "I'll go and make you some tea so we can share an afternoon break together!",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Sticker: Food!"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 3568,
+            "text": "30",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3569,
+            "text": "Got it! I'll make some snacks for you in addition to the tea.",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3570,
+            "text": "Perhaps some fluffy waffles with honey and caramel on top!",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3571,
+            "text": "Dunkerque has this incredible cooking device. Let me see if I can find it.",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "Wait! Don't!"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 3572,
+            "text": "Wait! Don't!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3573,
+            "text": "Dang, I was too late...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3574,
+            "text": "Zeven, are you alright?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3575,
+            "text": "What about the device?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3576,
+            "text": "Hello? Zeven?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3577,
+            "text": "shancheng",
+            "user": 110201,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3578,
+            "text": "I don't know why... but smoke starts coming out of it.",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3579,
+            "text": "Why? I read the instruction manual several times over!",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3580,
+            "text": "I heard it was supposed to be really easy to operate...",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Pull the plug, now!"
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 3581,
+            "text": "Pull the plug, now!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3582,
+            "text": "Okay! I'll look for it!",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "Found it yet?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 3583,
+            "text": "Found it yet?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3584,
+            "text": "Did you manage to turn off the power?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3585,
+            "text": "Come on, please...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3586,
+            "text": "Zeven? Are you there?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3587,
+            "text": "I failed...",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3588,
+            "text": "Eggs got all over the floor and I slipped...",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3589,
+            "text": "So I decided to clean the floor before anything else...",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3590,
+            "text": "That's when the smoke spread to other machines...",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3591,
+            "text": "And now... the kitchen looks like a storm blew through it...",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3592,
+            "text": "part2_dih",
+            "user": 110201,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3593,
+            "text": "What should I do, Commander?!",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "Get to safety..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 3594,
+            "text": "Get to safety first of all. I'll be there in a minute!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3595,
+            "text": "I just told Yuubari to flip the circuit breaker, so all should be fine now!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3596,
+            "text": "Thank you for helping me. I've left the kitchen and closed the door.",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3597,
+            "text": "Oh dear... I might have forgotten to turn off the oven...",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3598,
+            "text": "Something just... exploded. Thank goodness I left the kitchen.",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 7,
+                "text": "Why'd you switch it on?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 7,
+            "id": 3599,
+            "text": "Why did you switch on the oven in the first place?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3600,
+            "text": "Didn't you get stuck at the egg-cracking phase of your baking attempt?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3601,
+            "text": "Well... I thought I'd warm it up ahead of time.",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 8,
+                "text": "Just stay put..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 8,
+            "id": 3602,
+            "text": "Just stay put. Don't move, and don't touch anything!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3603,
+            "text": "I'm almost there!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3604,
+            "text": "Understood. I'll wait for you...",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3605,
+            "text": "part2_jbr",
+            "user": 110201,
+            "type": 4,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 104,
+        "name": "Naming the Children",
+        "unlock": {
+          "type": 2,
+          "ship_id": 686,
+          "affinity": 150
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3606,
+            "text": "Commander, do you have a moment?",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Sticker: Taking a break"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3607,
+            "text": "line_part2_3",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3608,
+            "text": "I'm on break. Something on your mind?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3609,
+            "text": "Yes...",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3610,
+            "text": "I suppose I shouldn't be surprised that you'd know something was up.",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3611,
+            "text": "Well, how do I put this...",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3612,
+            "text": "It's about our children...",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "HUH???"
+              },
+              {
+                "option_id": 3,
+                "text": "Sticker: !?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 3613,
+            "text": "HUH???",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3614,
+            "text": "25",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3615,
+            "text": "Back up... What do you mean \"our children\"?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3616,
+            "text": "I mean our children. Don't you remember?",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3617,
+            "text": "We planted those rose seeds together, didn't we? That makes them our children.",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3618,
+            "text": "Anyway, ever since we did that, I've been thinking about what names to give them.",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3619,
+            "text": "I still haven't decided on a single one, even though they'll soon be born...",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3620,
+            "text": "I'm not sure what to do...",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "……"
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 3621,
+            "text": "……",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3622,
+            "text": "It's okay. Naming our children is a big decision, so don't feel too pressured.",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3623,
+            "text": "I simply wanted to hear your thoughts for reference!",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "So it's about naming the roses..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 3624,
+            "text": "So it's about naming the roses...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3625,
+            "text": "Are there a lot of them?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3626,
+            "text": "Quite a lot. There are two or three dozen stems.",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3627,
+            "text": "Furthermore, since they're all the same cultivar, there likely won't be much color variation among them...",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3628,
+            "text": "part2_srcy",
+            "user": 110201,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "If I remember correctly..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 3629,
+            "text": "If I remember correctly, \"Little Red\" should mean something like \"Klein Roodje\" ,right?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3630,
+            "text": "That's right!",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 7,
+                "text": "You could give them model numbers..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 7,
+            "id": 3631,
+            "text": "If there are 20-ish of them, you could call them Klein Roodje Mk I through XX, and so on.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3632,
+            "text": "How does that sound?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 3633,
+            "text": "Well... it's not exactly what I had in mind.",
+            "user": 110201,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 8,
+                "text": "Hmm..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 8,
+            "id": 3634,
+            "text": "Hmm... Okay, I have another idea.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3635,
+            "text": "How about expanding the options instead of focusing on just colors or shapes?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3636,
+            "text": "For instance, what if we name one of them \"Klein Varkentje\"?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3637,
+            "text": "As in \"Little Piglet.\" It has a friendly sound to it.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3638,
+            "text": "That's adorable! I should've thought of that myself!",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3639,
+            "text": "Okay, I'll work on some other cute names along those lines!",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3640,
+            "text": "I think our children will really like their names when they grow big.",
+            "user": 110201,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 3641,
+            "text": "part3_ty",
+            "user": 110201,
+            "type": 4,
+            "options": []
+          }
+        ]
+      }
+    ],
+    "icon": "qisheng",
     "type": 1
   },
   "960005": {

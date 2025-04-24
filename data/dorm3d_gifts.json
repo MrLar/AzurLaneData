@@ -145,5 +145,26 @@
     ],
     "contains": [],
     "favor": 2000
+  },
+  "3022102": {
+    "name": "Foot Massager",
+    "description": "Relieve your stress, soothe your mind, and feel your body's energy return to you!",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 5,
+    "id": 3022102,
+    "purchaseable": true,
+    "expires": 0,
+    "icon": "dorm3d/items/3ddrom_nengdai_fancygift2",
+    "ship": 322,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "favor": 2000
   }
 }

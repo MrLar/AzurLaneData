@@ -721,7 +721,7 @@
   },
   "20123": {
     "id": 20123,
-    "name": "Vampire ",
+    "name": "Vampire",
     "icon": "xixuegui",
     "ship_id": 103
   },
@@ -1159,13 +1159,13 @@
   },
   "30102": {
     "id": 30102,
-    "name": "Shirayuki ",
+    "name": "Shirayuki",
     "icon": "baixue",
     "ship_id": 152
   },
   "30104": {
     "id": 30104,
-    "name": "Miyuki ",
+    "name": "Miyuki",
     "icon": "shenxue",
     "ship_id": 154
   },
@@ -1351,7 +1351,7 @@
   },
   "30165": {
     "id": 30165,
-    "name": "Michishio ",
+    "name": "Michishio",
     "icon": "manchao",
     "ship_id": 333
   },
@@ -1447,7 +1447,7 @@
   },
   "30206": {
     "id": 30206,
-    "name": "Natori ",
+    "name": "Natori",
     "icon": "mingqu",
     "ship_id": 184
   },
@@ -1513,7 +1513,7 @@
   },
   "30223": {
     "id": 30223,
-    "name": "Sakawa ",
+    "name": "Sakawa",
     "icon": "jiuyun",
     "ship_id": 324
   },
@@ -1555,7 +1555,7 @@
   },
   "30310": {
     "id": 30310,
-    "name": "Haguro ",
+    "name": "Haguro",
     "icon": "yuhei",
     "ship_id": 199
   },
@@ -1975,7 +1975,7 @@
   },
   "40204": {
     "id": 40204,
-    "name": "Leipzig ",
+    "name": "Leipzig",
     "icon": "laibixi",
     "ship_id": 241
   },
@@ -1993,13 +1993,13 @@
   },
   "40207": {
     "id": 40207,
-    "name": "Emden ",
+    "name": "Emden",
     "icon": "aimudeng_4",
     "ship_id": 547
   },
   "40208": {
     "id": 40208,
-    "name": "Elbing ",
+    "name": "Elbing",
     "icon": "aierbin_4",
     "ship_id": 548
   },
@@ -2059,7 +2059,7 @@
   },
   "40311": {
     "id": 40311,
-    "name": "Yorck ",
+    "name": "Yorck",
     "icon": "yueke_ger",
     "ship_id": 546
   },
@@ -2083,13 +2083,13 @@
   },
   "40403": {
     "id": 40403,
-    "name": "Seydlitz ",
+    "name": "Seydlitz",
     "icon": "saidelici",
     "ship_id": 543
   },
   "40404": {
     "id": 40404,
-    "name": "Lützow ",
+    "name": "Lützow",
     "icon": "lvzuofu",
     "ship_id": 544
   },
@@ -2119,7 +2119,7 @@
   },
   "40504": {
     "id": 40504,
-    "name": "Thüringen ",
+    "name": "Thüringen",
     "icon": "tulingen",
     "ship_id": 545
   },
@@ -2155,7 +2155,7 @@
   },
   "40703": {
     "id": 40703,
-    "name": "FlugzeugträgerB ",
+    "name": "FlugzeugträgerB",
     "icon": "shitelasai",
     "ship_id": 482
   },
@@ -2203,7 +2203,7 @@
   },
   "40808": {
     "id": 40808,
-    "name": "HAI_110 ",
+    "name": "HAI_110",
     "icon": "u110",
     "ship_id": 416
   },
@@ -2467,13 +2467,13 @@
   },
   "60108": {
     "id": 60108,
-    "name": "Alfredo ",
+    "name": "Alfredo",
     "icon": "aerfuleiduo",
     "ship_id": 562
   },
   "60109": {
     "id": 60109,
-    "name": "Emanuele ",
+    "name": "Emanuele",
     "icon": "aimannuaier",
     "ship_id": 563
   },
@@ -2497,7 +2497,7 @@
   },
   "60202": {
     "id": 60202,
-    "name": "Giuseppe ",
+    "name": "Giuseppe",
     "icon": "zhusaipei",
     "ship_id": 559
   },
@@ -2533,7 +2533,7 @@
   },
   "60305": {
     "id": 60305,
-    "name": "Bolzano ",
+    "name": "Bolzano",
     "icon": "boerzhanuo",
     "ship_id": 560
   },
@@ -2557,7 +2557,7 @@
   },
   "60503": {
     "id": 60503,
-    "name": "Roma ",
+    "name": "Roma",
     "icon": "luoma",
     "ship_id": 561
   },
@@ -2593,7 +2593,7 @@
   },
   "60802": {
     "id": 60802,
-    "name": "DaVinci ",
+    "name": "DaVinci",
     "icon": "dafenqi",
     "ship_id": 558
   },
@@ -2717,6 +2717,12 @@
     "icon": "fuluoxiluofu",
     "ship_id": 588
   },
+  "70208": {
+    "id": 70208,
+    "name": "Oleg",
+    "icon": "aoliege",
+    "ship_id": 688
+  },
   "70301": {
     "id": 70301,
     "name": "Tallinn",
@@ -2734,6 +2740,12 @@
     "name": "Gangut",
     "icon": "gangute",
     "ship_id": 437
+  },
+  "70502": {
+    "id": 70502,
+    "name": "Sovetsky Soyuz",
+    "icon": "suweiaitongmengnew",
+    "ship_id": 438
   },
   "70504": {
     "id": 70504,
@@ -2761,14 +2773,14 @@
   },
   "70508": {
     "id": 70508,
-    "name": "Sovetsky Soyuz",
-    "icon": "suweiaitongmengnew",
+    "name": "Poltava",
+    "icon": "boertawa",
     "ship_id": 438
   },
   "70509": {
     "id": 70509,
-    "name": "Poltava",
-    "icon": "boertawa",
+    "name": "Kazan",
+    "icon": "kashan",
     "ship_id": 628
   },
   "70701": {
@@ -2803,7 +2815,7 @@
   },
   "80102": {
     "id": 80102,
-    "name": "Forbin ",
+    "name": "Forbin",
     "icon": "fuerban",
     "ship_id": 348
   },
@@ -2923,7 +2935,7 @@
   },
   "90101": {
     "id": 90101,
-    "name": "LeMars ",
+    "name": "LeMars",
     "icon": "lemaer_4",
     "ship_id": 351
   },
@@ -3052,6 +3064,18 @@
     "name": "Flandre",
     "icon": "fulandeer_2",
     "ship_id": 20032
+  },
+  "110101": {
+    "id": 110101,
+    "name": "Evertsen",
+    "icon": "aifosen",
+    "ship_id": 687
+  },
+  "110201": {
+    "id": 110201,
+    "name": "De Zeven Provinciën",
+    "icon": "qisheng",
+    "ship_id": 686
   },
   "960001": {
     "id": 960001,

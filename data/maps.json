@@ -64526,5 +64526,278 @@
     "time_limit": 180,
     "type": 16,
     "id": 1599
+  },
+  "1910001_t1_16720301": {
+    "name": "Toward Tulipa's Seas-T1",
+    "acv": 150,
+    "opsi": false,
+    "boss": {
+      "id": 16720301,
+      "hull": 5,
+      "nation": 99,
+      "name": "Peace Breaker II",
+      "stats": {
+        "hp": 8900,
+        "fp": 150,
+        "trp": 0,
+        "avi": 0,
+        "aa": 115,
+        "hit": 20,
+        "eva": 16,
+        "spd": 20,
+        "luck": 0,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenzhanlie_i"
+    },
+    "buffs": [],
+    "expo_id": 1910013,
+    "dungeon_id": 1910013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1600
+  },
+  "1910001_t2_16721301": {
+    "name": "Toward Tulipa's Seas-T2",
+    "acv": 300,
+    "opsi": false,
+    "boss": {
+      "id": 16721301,
+      "hull": 2,
+      "nation": 99,
+      "name": "Intruder Type II",
+      "stats": {
+        "hp": 18960,
+        "fp": 79,
+        "trp": 168,
+        "avi": 0,
+        "aa": 182,
+        "hit": 27,
+        "eva": 25,
+        "spd": 18,
+        "luck": 8,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 45,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "ganraozhe"
+    },
+    "buffs": [],
+    "expo_id": 1910113,
+    "dungeon_id": 1910113,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1601
+  },
+  "1910001_t3_16721302": {
+    "name": "Toward Tulipa's Seas-T3",
+    "acv": 700,
+    "opsi": false,
+    "boss": {
+      "id": 16721302,
+      "hull": 7,
+      "nation": 99,
+      "name": "Sphyrnidae, Super-Dreadnought-Class Eradicator",
+      "stats": {
+        "hp": 25600,
+        "fp": 150,
+        "trp": 0,
+        "avi": 180,
+        "aa": 240,
+        "hit": 26,
+        "eva": 27,
+        "spd": 16,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        18,
+        15,
+        15
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknown3_jianzhuang"
+    },
+    "buffs": [],
+    "expo_id": 1910213,
+    "dungeon_id": 1910213,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1602
+  },
+  "1910002_ht1_16722301": {
+    "name": "Toward Tulipa's Seas-HT1",
+    "acv": 150,
+    "opsi": false,
+    "boss": {
+      "id": 16722301,
+      "hull": 5,
+      "nation": 99,
+      "name": "Peace Breaker II",
+      "stats": {
+        "hp": 56200,
+        "fp": 220,
+        "trp": 0,
+        "avi": 0,
+        "aa": 225,
+        "hit": 42,
+        "eva": 42,
+        "spd": 20,
+        "luck": 18,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenzhanlie_i"
+    },
+    "buffs": [],
+    "expo_id": 1911013,
+    "dungeon_id": 1911013,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1603
+  },
+  "1910002_ht2_16723301": {
+    "name": "Toward Tulipa's Seas-HT2",
+    "acv": 300,
+    "opsi": false,
+    "boss": {
+      "id": 16723301,
+      "hull": 2,
+      "nation": 99,
+      "name": "Intruder Type II",
+      "stats": {
+        "hp": 89250,
+        "fp": 198,
+        "trp": 260,
+        "avi": 0,
+        "aa": 350,
+        "hit": 42,
+        "eva": 40,
+        "spd": 18,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 95,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "ganraozhe"
+    },
+    "buffs": [],
+    "expo_id": 1911113,
+    "dungeon_id": 1911113,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1604
+  },
+  "1910002_ht3_16723302": {
+    "name": "Toward Tulipa's Seas-HT3",
+    "acv": 700,
+    "opsi": false,
+    "boss": {
+      "id": 16723302,
+      "hull": 7,
+      "nation": 99,
+      "name": "Sphyrnidae, Super-Dreadnought-Class Eradicator",
+      "stats": {
+        "hp": 110000,
+        "fp": 290,
+        "trp": 0,
+        "avi": 360,
+        "aa": 390,
+        "hit": 67,
+        "eva": 54,
+        "spd": 16,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        18,
+        15,
+        15
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknown3_jianzhuang"
+    },
+    "buffs": [],
+    "expo_id": 1911213,
+    "dungeon_id": 1911213,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1605
+  },
+  "1910003_sp_16724301": {
+    "name": "Toward Tulipa's Seas-SP",
+    "acv": 1320,
+    "opsi": false,
+    "boss": {
+      "id": 16724301,
+      "hull": 7,
+      "nation": 99,
+      "name": "Sphyrnidae, Super-Dreadnought-Class Eradicator",
+      "stats": {
+        "hp": 155000,
+        "fp": 290,
+        "trp": 0,
+        "avi": 390,
+        "aa": 410,
+        "hit": 53,
+        "eva": 41,
+        "spd": 18,
+        "luck": 30,
+        "armor": 2
+      },
+      "cld": [
+        18,
+        15,
+        15
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknown3_jianzhuang"
+    },
+    "buffs": [],
+    "expo_id": 1914013,
+    "dungeon_id": 1914013,
+    "time_limit": 180,
+    "type": 5,
+    "id": 1606
   }
 }

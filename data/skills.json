@@ -6453,7 +6453,7 @@
     ]
   },
   "11240": {
-    "description": "When this ship takes DMG: $1 chance to reduce that instance of DMG to 1.",
+    "description": "When this ship takes DMG: $1 chance to reduce that instance of DMG to 1.\n{Increase own Luck stat by 5.|Not mentioned at all by the game.}",
     "opsi_description": null,
     "name": "The Unsinkable Lucky Ship",
     "max": 10,
@@ -40274,7 +40274,7 @@
     "values": []
   },
   "60540": {
-    "description": "Grants {a randomly choosen strange power|The game implies there is only one effect.} during battle. {Possible effects are|The game mentions none of this.}:\n• 15s after battle begins the flagship fires a special barrage scaling with total fleet power\n• 2s after battle starts increase the FP, TRP, AA, AVI, RLD, ACC and EVA of the entire fleet by 1.0% for every different faction in the fleet. Iris Libre and Vichya Dominion are treated as the same faction, META as it's own faction, Tempesta, Kingdom of Tulipa and Collab factions do not count at all.\n• Every 35s, heals the entire Vanguard fleet for 1.0% of their respective max HP.",
+    "description": "Grants a {randomly choosen strange power|The game implies there is only one effect.} during battle. {Possible effects are|The game mentions none of this.}:\n• 15s after battle begins the flagship fires a special barrage scaling with total fleet power\n• 2s after battle starts increase the FP, TRP, AA, AVI, RLD, ACC and EVA of the entire fleet by 1.0% for every different faction in the fleet. Iris Libre and Vichya Dominion are treated as the same faction, META as it's own faction, Tempesta, Kingdom of Tulipa and Collab factions do not count at all.\n• Every 35s, heals the entire Vanguard fleet for 1.0% of their respective max HP.",
     "opsi_description": null,
     "name": "RPG Adventure Interface",
     "max": 1,
@@ -40514,7 +40514,7 @@
     "values": []
   },
   "60840": {
-    "description": "When equipped by a ship, for the first 40s of battle that ship takes 5.0% less damage \n[The description and name are semi-machine translated from CN, actual EN description will be published to ALDB later.]..",
+    "description": "When the battle starts: the wearer's DMG taken is decreased by 5.0% for 40s.",
     "opsi_description": null,
     "name": "Bouquet of Tulips",
     "max": 1,
@@ -51195,9 +51195,9 @@
     ]
   },
   "151040": {
-    "description": "Increase this ships FP by $1. During battle, whenever this boat fires her torpedoes deploy a shield that can block $2 bullets (the shield lasts for 5s, 10s cooldown between activations). While the shield is active the lowest HP ship in your Vanguard will restore 1.0% of her max HP per second \n[The description and name are semi-machine translated from CN, actual EN description will be published to ALDB later.].",
+    "description": "Increases this ship's FP by $1. When this ship fires her torpedoes: deploys a shield (lasting 5s; 10s cooldown between activations) that can negate up to $2 enemy shells; while this shield is deployed, the ship in your Vanguard with the lowest current HP percentage recovers 1.0% of her max HP every second.",
     "opsi_description": null,
-    "name": "Healing Shield",
+    "name": "Restorative Cocoon",
     "max": 10,
     "id": 151040,
     "type": 2,
@@ -51230,9 +51230,9 @@
     ]
   },
   "151050": {
-    "description": "When battle starts launch a special airstrike barrage. For every enemy sunk by this ship: reduce this ships damage taken by $1 and her main gun effiency by $2 (stacks up to 3 times) [The description and name are is semi-machine translated, real description will be released later.].",
+    "description": "When the battle starts: launches a recon plane. Every time this ship sinks an enemy: decreases her DMG taken by $1 until the battle ends and increases her Main Gun efficiency by $2 (both of these buffs can stack up to 3 times).",
     "opsi_description": null,
-    "name": "Oracle of Exploration",
+    "name": "Exploring a New World",
     "max": 10,
     "id": 151050,
     "type": 3,
@@ -51335,9 +51335,9 @@
     ]
   },
   "151080": {
-    "description": "Increase this ships FP and ACC by $1. Every 20s: $2 chance to trigger a $3 special barrage. If this barrage fails to activate reduce this ships damage taken by $1 \n[The description and name are semi-machine translated from CN, actual EN description will be published to ALDB later.].",
+    "description": "Increases this ship's FP and ACC by $1. Every 20s: $2 chance to fire a $3 special barrage (DMG is based on the skill's level); if this barrage did not activate, instead decreases this ship's DMG taken by $1 for 10s.",
     "opsi_description": null,
-    "name": "Butterfly Shadow Ye Lan",
+    "name": "Pixiedust Storm",
     "max": 10,
     "id": 151080,
     "type": 3,
@@ -51382,9 +51382,9 @@
     ]
   },
   "151090": {
-    "description": "Increase this ships AA by $1. Whenever an enemy aircraft is shot down with in the AA circle, trigger a $2 special barrage and heal the lowest HP ship by $3 of their max HP (10s cooldown between activations) \n[The description and name are semi-machine translated from CN, actual EN description will be published to ALDB later.].",
+    "description": "Increases this ship's AA by $1. When an enemy aircraft is shot down within your fleet's Anti-Air Gun range: fires a $2 special barrage (DMG is based on the skill's level; 10s cooldown between activations) and restores HP equal to $3 to the ship in your fleet with the current lowest HP percentage.",
     "opsi_description": null,
-    "name": "Blue Sky Saint",
+    "name": "Welkin Blessing",
     "max": 10,
     "id": 151090,
     "type": 3,
@@ -51429,9 +51429,9 @@
     ]
   },
   "151100": {
-    "description": "Increase this ships FP and EVA by $1. Every 15 Main Gun shots, trigger a $2 special barrage \n[The description and name are semi-machine translated from CN, actual EN description will be published to ALDB later.].",
+    "description": "Increases this ship's FP and EVA by $1. Every 15 times this ship fires her Main Guns: fires a $2 special barrage (DMG is based on the skill's level).",
     "opsi_description": null,
-    "name": "Genius Intuition",
+    "name": "Genius's Intuition",
     "max": 10,
     "id": 151100,
     "type": 1,
@@ -51464,9 +51464,9 @@
     ]
   },
   "151110": {
-    "description": "Every 12s, trigger a $1 special barrage \n[The description and name are semi-machine translated from CN, actual EN description will be published to ALDB later.].",
+    "description": "Every 12s: deploys a $1 special invention {choosen between 4 inventions at random. Each invention has a 25% chance. Three of the inventions are a barrage while the last invention heals every ship in the vanguard by 5.0% of Oleg's max HP.|The game just states special invention but it is actually one of 4 inventions.}. The invention's effect improves with the skill's level.",
     "opsi_description": null,
-    "name": "Mad scientist mode, on!",
+    "name": "I am Mad Scientist!",
     "max": 10,
     "id": 151110,
     "type": 3,
@@ -51487,9 +51487,9 @@
     ]
   },
   "151120": {
-    "description": "Increase this ships FP by $1. When this ship fires her Main gun: Trigger a $2 special barrage and randomly select a vanguard ship. The randomly selected vanguard ship will redirect 50.0% of it's damage taken to Kazan for 10s. Damage redirected this way is reduced by $3.\n\nWhen this ship falls below 90.0%/80.0%/70.0% max HP (only one activation per threshold) increase own and all vanguard ship's RLD and ACC by $4 \n[The description and name are semi-machine translated from CN, actual EN description will be published to ALDB later.].",
+    "description": "Increases this ship's FP by $1. When this ship fires her Main Guns: fires a $2 special barrage (DMG is based on the skill's level, {the barrage inflicts a 40.0% slow and a special flood for 4s|Not mentioned ingame.}) and, for 10s, tanks 50.0% of the DMG taken of a random ship in your Vanguard while decreasing the tanked DMG by $3.\nOnce per threshold, when this ship's HP drops below 90.0%/80.0%/70.0%: increases this ship's and your Vanguard's RLD and ACC by $4.",
     "opsi_description": null,
-    "name": "Polar Bear's Rage",
+    "name": "Raging Polar Bear of the Distant Sea",
     "max": 10,
     "id": 151120,
     "type": 3,
@@ -51546,9 +51546,9 @@
     ]
   },
   "151130": {
-    "description": "Every 20s: heal the lowest HP ship by $1 of their max HP. 5s after this effect activates: if there is a ship under 50.0% max HP afloat, trigger this effect again.\n\nWhen any ship takes damage AND is under 50.0% max HP, all ships gain $2 AA and EVA (maximum of 1 activation) \n[The description and name are semi-machine translated from CN, actual EN description will be published to ALDB later.].",
+    "description": "Every 20s: the ship with the lowest current HP percentage in your Surface Fleet recovers $1 of her max HP; every time this effect activates: 5s after the activation, if a ship in your Surface Fleet is at 50.0% or less HP, this effect activates again.\nOnce per battle, when the HP of a ship in your Surface Fleet falls below 50.0% as a result of DMG taken: increases your Surface Fleet's AA and EVA by $2.",
     "opsi_description": null,
-    "name": "Snowfield Lullaby",
+    "name": "Lullaby of the Snowy Plains",
     "max": 10,
     "id": 151130,
     "type": 2,
@@ -51581,7 +51581,7 @@
     ]
   },
   "151140": {
-    "description": "Increase this ships EVA by $1. When this fires her torpedoes: increase this ships FP by $2 for 15s, drop a smokescreen that increases evasion rate by $4 and trigger a $2 special barrage (smokescreen lasts for 5s and doesn't stack with other smokescreens) \n[The description and name are semi-machine translated from CN, actual EN description will be published to ALDB later.].",
+    "description": "Increases this ship's EVA by $1. When this ship fires her torpedoes: increases this ship's FP by $2 for 15s, performs a $3 special attack (DMG is based on the skill's level), and deploys a smokescreen that increases Evasion Rate by $4 for all your ships in it. Does not stack with other smokescreen skills. Smokescreen lasts 5s.",
     "opsi_description": null,
     "name": "Peek-a-Boom!",
     "max": 10,
@@ -51640,7 +51640,7 @@
     ]
   },
   "250011": {
-    "description": "Activates All Out Assault I: Admiralen-class once every 15 times the Main Guns are fired.",
+    "description": "Activates All Out Assault I: Admiralen class once every 15 times the Main Guns are fired.",
     "opsi_description": null,
     "name": "All Out Assault I",
     "max": 1,
@@ -51650,7 +51650,7 @@
     "values": []
   },
   "250012": {
-    "description": "Activates All Out Assault II: Admiralen-class once every 10 times the Main Guns are fired.",
+    "description": "Activates All Out Assault II: Admiralen class once every 10 times the Main Guns are fired.",
     "opsi_description": null,
     "name": "All Out Assault II",
     "max": 1,

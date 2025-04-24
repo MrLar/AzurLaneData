@@ -18171,6 +18171,40 @@
       "CN"
     ]
   },
+  "3044": {
+    "id": 3044,
+    "name": "Pinecone Torpedo",
+    "icon": "99165",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Its many scales conceal spikes, and though this cone may be small, it is not to be underestimated.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "3045": {
+    "id": 3045,
+    "name": "Dandelion Shell",
+    "icon": "99166",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "The swaying dandelions dance in the wind, their plentiful fluff falling from the sky. It truly is a poetic sight.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "4001": {
     "id": 4001,
     "name": "Little Blocks Shell",
@@ -20629,6 +20663,306 @@
     "rarity": 4,
     "theme": "Medical Adventures",
     "description": "Doctor! There's a car accident patient in the ER!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4149": {
+    "id": 4149,
+    "name": "White Tulip Shell",
+    "icon": "101206",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Tulipan Poems",
+    "description": "Gently, the partly blooming tulip sways in the wind, leaving in its wake a floral mark of elegance.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4150": {
+    "id": 4150,
+    "name": "Yellow Tulip Shell",
+    "icon": "101207",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Tulipan Poems",
+    "description": "Gently, the partly blooming tulip sways in the wind, leaving in its wake a floral mark of elegance.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4151": {
+    "id": 4151,
+    "name": "Red Tulip Shell",
+    "icon": "101208",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Tulipan Poems",
+    "description": "Gently, the partly blooming tulip sways in the wind, leaving in its wake a floral mark of elegance.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4152": {
+    "id": 4152,
+    "name": "Bicycle Torpedo",
+    "icon": "101209",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Tulipan Poems",
+    "description": "The best way to get around in the idyllic Tulipan countryside.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4153": {
+    "id": 4153,
+    "name": "Lute Torpedo",
+    "icon": "101210",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Tulipan Poems",
+    "description": "Makes a lovely sound when played, and a terrible sound when exploded.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4154": {
+    "id": 4154,
+    "name": "Paint Brush Torpedo",
+    "icon": "101211",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Tulipan Poems",
+    "description": "A painter must have dropped this. Careful not to get paint on your clothes!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4155": {
+    "id": 4155,
+    "name": "Cheese Wheel Shell",
+    "icon": "101212",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Tulipan Poems",
+    "description": "A lovely, common sight on kitchen counters in country homes.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4156": {
+    "id": 4156,
+    "name": "Windmill Shell",
+    "icon": "101213",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Tulipan Poems",
+    "description": "No! The propeller is facing the wrong way!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4157": {
+    "id": 4157,
+    "name": "Clogs Shell",
+    "icon": "101214",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Tulipan Poems",
+    "description": "Traditional Tulipan footwear. They go clip-clop as you walk in them.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4158": {
+    "id": 4158,
+    "name": "Farmhand Manjuu (Torpedo)",
+    "icon": "101215",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Tulipan Poems",
+    "description": "This farmhand has come from the field to bring you wheat!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4159": {
+    "id": 4159,
+    "name": "Farmhand Manjuu (Fighter)",
+    "icon": "101215",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Tulipan Poems",
+    "description": "This farmhand has come from the field to bring you wheat!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4160": {
+    "id": 4160,
+    "name": "Farmhand Manjuu (Bomber)",
+    "icon": "101215",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Tulipan Poems",
+    "description": "This farmhand has come from the field to bring you wheat!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4161": {
+    "id": 4161,
+    "name": "Pastoral Girl Manjuu (Torpedo)",
+    "icon": "101216",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Tulipan Poems",
+    "description": "This girl has come from the village to bring you greetings!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4162": {
+    "id": 4162,
+    "name": "Pastoral Girl Manjuu (Fighter)",
+    "icon": "101216",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Tulipan Poems",
+    "description": "This girl has come from the village to bring you greetings!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4163": {
+    "id": 4163,
+    "name": "Pastoral Girl Manjuu (Bomber)",
+    "icon": "101216",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Tulipan Poems",
+    "description": "This girl has come from the village to bring you greetings!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4164": {
+    "id": 4164,
+    "name": "Floral Maiden Manjuu (Torpedo)",
+    "icon": "101217",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Tulipan Poems",
+    "description": "This maiden has come from the woods to bring you flowers!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4165": {
+    "id": 4165,
+    "name": "Floral Maiden Manjuu (Fighter)",
+    "icon": "101217",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Tulipan Poems",
+    "description": "This maiden has come from the woods to bring you flowers!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4166": {
+    "id": 4166,
+    "name": "Floral Maiden Manjuu (Bomber)",
+    "icon": "101217",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Tulipan Poems",
+    "description": "This maiden has come from the woods to bring you flowers!",
     "servers": [
       "EN",
       "JP",
