@@ -33,7 +33,7 @@ number represents an in-game Nation (missing values do not exit in game):
 |   8   |    Iris    |        Iris Libre (FFNF)         |
 |   9   |  Vichiya   |      Vichiya Dominion (MNF)      |
 |  10   |   French   |          Iris Orthodoxy          |
-|  11   |   Dutch    |    Kingdom of Tulpia (HNLMS)     |
+|  11   |   Dutch    |    Kingdom of Tulipa (HNLMS)     |
 | 12-93 |    N/A     |         Do not exist yet         |
 |  94   |  Council   |   United Council (speculation)   |
 |  95   |     X      |         X (speculation)          |
