@@ -51587,7 +51587,7 @@
           "damage": 20,
           "coefficient": 1,
           "count": 15,
-          "stat": "fp",
+          "stat": "trp",
           "ratio": 1,
           "armor_mod": [
             1,
@@ -51626,7 +51626,7 @@
           "damage": 30,
           "coefficient": 1,
           "count": 15,
-          "stat": "fp",
+          "stat": "trp",
           "ratio": 1,
           "armor_mod": [
             1.5,
@@ -53201,7 +53201,7 @@
         {
           "damage": 40,
           "coefficient": 1,
-          "count": 3,
+          "count": 36,
           "stat": "fp",
           "ratio": 1,
           "armor_mod": [
@@ -63680,9 +63680,9 @@
       "name": "Z Vanguard+",
       "parts": [
         {
-          "damage": 8,
+          "damage": 12,
           "coefficient": 1.25,
-          "count": 14,
+          "count": 24,
           "stat": "fp",
           "ratio": 1,
           "armor_mod": [
@@ -63714,7 +63714,7 @@
           ]
         },
         {
-          "damage": 20,
+          "damage": 30,
           "coefficient": 1,
           "count": 8,
           "stat": "trp",
