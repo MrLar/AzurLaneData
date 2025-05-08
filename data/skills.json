@@ -31897,7 +31897,7 @@
     ]
   },
   "19090": {
-    "description": "Changes the ammo type of this ship's Main Guns to HE {with 135/95/70 modifers|These modifiers are not stated in game at all.}. Every time this ship fires its Main Guns: increases this ship's RLD by $1 (can be stacked up to 12 times.) The ammo type of this ship's Main Guns will alternate between HE {with 135/95/70 modifers|These modifiers are not stated in game at all.} and AP {with 75/110/75 modifiers|These modifiers are not stated in game at all.} every 2 shots.",
+    "description": "Changes the ammo type of this ship's Main Guns to HE {with 135/95/70 modifiers|These modifiers are not stated in game at all.}. Every time this ship fires its Main Guns: increases this ship's RLD by $1 (can be stacked up to 12 times.) The ammo type of this ship's Main Guns will alternate between HE {with 135/95/70 modifiers|These modifiers are not stated in game at all.} and AP {with 75/110/75 modifiers|These modifiers are not stated in game at all.} every 2 shots.",
     "opsi_description": null,
     "name": "Expert Loader",
     "max": 10,
@@ -32563,7 +32563,7 @@
     ]
   },
   "19290": {
-    "description": "Increases this ship's built-in Secondary Gun Crit Rate by $2 and improves its ammo. When this ship uses a Main Gun that fires Normal or HE ammo: this ship's Main Gun ammo type changes to $1 special HE {with $3 modifiers|These modifiers are not stated in game at all.} which has a chance to cause a special Burn to enemies (special HE DMG increase is based on the skill's level.)",
+    "description": "Increases this ship's built-in Secondary Gun Crit Rate by $2 and improves its ammo {to Special Normal with 100/100/100 modifiers|These modifier changes are not mentioned by the game at all.}. When this ship uses a Main Gun that fires Normal or HE ammo: this ship's Main Gun ammo type changes to $1 special HE {with $3 modifiers|These modifiers are not stated in game at all.} which has a chance to cause a special Burn to enemies (special HE DMG increase is based on the skill's level.)",
     "opsi_description": null,
     "name": "The Fearless Privateer",
     "max": 10,
@@ -60485,7 +60485,7 @@
     ]
   },
   "1019090": {
-    "description": "When this ship fires her Main Guns: increases this ship's FP and RLD by $1 (can be stacked up to 12 times). Every 20s: fires a $2 special barrage (DMG is based on the skill's level) that makes enemies hit take $3 increased DMG from this ship for 10s. Every 2 times this ship fires her Main Guns: changes the ammo type (into HE {with 145/100/80 modifers|These modifiers are not stated in game at all.} or AP {with 85/130/110 modifiers|These modifiers are not stated in game at all.}) of her next 2 volleys; this ship's first and second Main Gun volleys fired will use HE {with 145/100/80 modifers|These modifiers are not stated in game at all.} ammo.",
+    "description": "When this ship fires her Main Guns: increases this ship's FP and RLD by $1 (can be stacked up to 12 times). Every 20s: fires a $2 special barrage (DMG is based on the skill's level) that makes enemies hit take $3 increased DMG from this ship for 10s. Every 2 times this ship fires her Main Guns: changes the ammo type (into HE {with 145/100/80 modifiers|These modifiers are not stated in game at all.} or AP {with 85/130/110 modifiers|These modifiers are not stated in game at all.}) of her next 2 volleys; this ship's first and second Main Gun volleys fired will use HE {with 145/100/80 modifiers|These modifiers are not stated in game at all.} ammo.",
     "opsi_description": null,
     "name": "Expert Loader+",
     "max": 10,
