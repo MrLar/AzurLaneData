@@ -65276,6 +65276,51 @@
       ]
     }
   ],
+  "1012480": [
+    {
+      "name": "APsolute Ammunition+",
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 15,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.25,
+            1.25,
+            1.25
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 28,
+          "pierce": 0,
+          "shell_range": [
+            80,
+            120
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buff_chance": 1,
+          "buffs": [
+            "Special Armor Break (8% for 8s, ID: 1012489)"
+          ]
+        }
+      ]
+    }
+  ],
   "1012600": [
     {
       "name": "Rosa Bombardamento+",

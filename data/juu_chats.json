@@ -9328,6 +9328,1008 @@
     "icon": "hao",
     "type": 1
   },
+  "20712": {
+    "id": 20712,
+    "name": "Indomitable",
+    "topics": [
+      {
+        "id": 114,
+        "name": "The Art of Taking Breaks",
+        "unlock": {
+          "type": 1,
+          "ship_id": 553
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3886,
+            "text": "Commander I'd like to share one of my secret tricks with you",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3887,
+            "text": "You know it's hard to maintain focus during a meeting right?",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3888,
+            "text": "When that happens, just take a break to reset your concentration",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3889,
+            "text": "One thing you can do is close your eyes for a bit and vacate your head",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3890,
+            "text": "The next time you open them your focus should be much higher",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3891,
+            "text": "Of course the most important thing when doing this is to make it look like you're thinking",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3892,
+            "text": "This is VERY VERY important",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3893,
+            "text": "Otherwise you'll get a slap on the head like my sisters do to me",
+            "user": 20712,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "I didn't know there was such depth to it..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3894,
+            "text": "I didn't know there was such depth to slacking off.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3895,
+            "text": "mingshi",
+            "user": 20712,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3896,
+            "text": "Slacking off?",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3897,
+            "text": "You're completely and utterly mistaken if you think it's slacking",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3898,
+            "text": "This is what's known as the art of taking breaks",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3899,
+            "text": "Taking breaks will in fact improve your memory and concentration",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3900,
+            "text": "Perhaps I should establish a school of thought for this, after all this is a",
+            "user": 20712,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "This is a what?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 3901,
+            "text": "This is a what?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3902,
+            "text": "Typing is too much work I'm going to switch to voice input for a bit",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3903,
+            "text": "I was going to say this is a groundbreaking discovery",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3904,
+            "text": "But even just thinking about establishing a school is a lot of work",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3905,
+            "text": "So never mind",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3906,
+            "text": "Maybe if I made the school just for myself, that sounds quite alright",
+            "user": 20712,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "Can I join?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 3907,
+            "text": "Can I join?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3908,
+            "text": "That depends on how sincere you are",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3909,
+            "text": "Start by coming up with a resting trick that won't get you caught to please",
+            "user": 20712,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Pretending to read some papers..."
+              },
+              {
+                "option_id": 5,
+                "text": "Drinking water all the time..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 3910,
+            "text": "You could pretend to flip through some papers while not reading them at all.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3911,
+            "text": "How about drinking water all the time? Then just take a good 10 minutes to come back every time you leave for a refill.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3912,
+            "text": "Hmm",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3913,
+            "text": "That's brilliant!",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3914,
+            "text": "I've racked my brains quite a bit and still I'm no match for your ingenuity",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3915,
+            "text": "I hereby issue your certificate of graduation",
+            "user": 20712,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "But I haven't even enrolled yet!"
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 3916,
+            "text": "But I haven't even enrolled yet!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3917,
+            "text": "Geniuses don't need to follow the rules of ordinary people",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3918,
+            "text": "We should discuss the art of taking breaks like this more often",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3919,
+            "text": "There's no doubt in my mind that you'll give me lots of inspiration",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3920,
+            "text": "Frankly it's so much effort having to constantly come up with ways to get longer breaks",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3921,
+            "text": "If I didn't have to do anything...",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3922,
+            "text": "If the most I had to do was go out to meet you...",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 3923,
+            "text": "I think that would be the best kind of life possible",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 115,
+        "name": "Naptime",
+        "unlock": {
+          "type": 2,
+          "ship_id": 553,
+          "affinity": 100
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3924,
+            "text": "My sisters forced me to attend a tea party of theirs today",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3925,
+            "text": "So I never got to take a nap...",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3926,
+            "text": "Now I'm sleepy",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3927,
+            "text": "Even typing takes too much",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3928,
+            "text": "Ah forget it",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3929,
+            "text": "Night night",
+            "user": 20712,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Does it affect you that much?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3930,
+            "text": "Does simply not having a nap affect you that much?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3931,
+            "text": "Don't you know the saying?",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3932,
+            "text": "Skip sleep in the noon, you'll be dead tired soon",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3933,
+            "text": "For this reason, I strongly advise incorporating a nap into everyone's schedule",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3934,
+            "text": "Especially yours",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3935,
+            "text": "You need to set a good example",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3936,
+            "text": "ruihe",
+            "user": 20712,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Alright. I'll consider it."
+              },
+              {
+                "option_id": 3,
+                "text": "Napping wastes too much time."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 3937,
+            "text": "Alright. I'll consider it.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3938,
+            "text": "I'm glad you're heeding my advice",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3939,
+            "text": "You don't usually do that",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3940,
+            "text": "You're not just saying that when in reality you're going to keep overworking yourself, right?",
+            "user": 20712,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "I'll nap if I find the time."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 3941,
+            "text": "I can't do it. Napping wastes too much time.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3942,
+            "text": "Occasional breaks sharpen the mind and let you stay productive",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3943,
+            "text": "You can take a break and still get work done",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3944,
+            "text": "Truth be told, I wish I could snap my fingers and erase all your work schedules...",
+            "user": 20712,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "I'll nap if I find the time."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 3945,
+            "text": "I'll nap if I find the time.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3946,
+            "text": "But when things get really busy, I might not have much choice but to put it off.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3947,
+            "text": "Sounds like you need someone to supervise you",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3948,
+            "text": "Oh dear, this is going to be a bother...",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3949,
+            "text": "But thinking in the long term, it will make life more comfortable...",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3950,
+            "text": "Okay I've made up my mind, I'll be your nap supervisor",
+            "user": 20712,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "How are you going to supervise me?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 3951,
+            "text": "How are you going to supervise me?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3952,
+            "text": "Well I haven't thought that far yet",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3953,
+            "text": "It's a big deal that must be taken seriously after all",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3954,
+            "text": "Like for instance if you don't comply, I'll execute my lap pillow plan",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3955,
+            "text": "Or maybe I'll nap with you instead?",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3956,
+            "text": "I'll have to think hard about the practicality of it",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3957,
+            "text": "But right now my head feels like it's going to burst",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3958,
+            "text": "My future self will work something out tomorrow...",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3959,
+            "text": "neet",
+            "user": 20712,
+            "type": 4,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 116,
+        "name": "The Work in PJs Revolution",
+        "unlock": {
+          "type": 2,
+          "ship_id": 553,
+          "affinity": 150
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 3960,
+            "text": "Commander, I bring you an important report",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3961,
+            "text": "Have you considered starting a working in pyjamas revolution?",
+            "user": 20712,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "That doesn't sound like a good thing."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 3962,
+            "text": "That doesn't sound like a good thing.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3963,
+            "text": "imsgSticke_longisland",
+            "user": 20712,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3964,
+            "text": "I should've elaborated on what I mean... although elaborating is such a chore",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3965,
+            "text": "In short",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3966,
+            "text": "After waking up, we have to wash our faces, get changed, and physically go to work",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3967,
+            "text": "That whole morning routine takes way too much time",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3968,
+            "text": "So let's skip it",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 3969,
+            "text": "It would be more efficient to start working from your bed right after waking up, wouldn't it?",
+            "user": 20712,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "I can't get into the work mindset like that..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 3970,
+            "text": "I can't get into the work mindset in my own quarters.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3971,
+            "text": "Plus I'd be at risk of dozing off if I worked from my bed.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3972,
+            "text": "That's because you're not getting enough sleep",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3973,
+            "text": "You'd be better off just sleeping, then when you wake up and resume work you'll be able to concentrate better",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3974,
+            "text": "Your productivity will shoot through the roof",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3975,
+            "text": "That is the secret to a healthy work and life balance",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3976,
+            "text": "I'll bet that you've never experienced a full night's sleep",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 3977,
+            "text": "Then again who am I to talk when I've never felt like I've slept as much as I'd like to...",
+            "user": 20712,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "I have, actually."
+              },
+              {
+                "option_id": 4,
+                "text": "I can't say I have."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 3978,
+            "text": "Of course I have. And you're right, I feel so much sharper after getting plenty of sleep.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3979,
+            "text": "See? That's what I mean",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 3980,
+            "text": "It's smarter to step back and gather yourself rather than force yourself to push on",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3981,
+            "text": "Now that you mention it, yeah, I've always had too much to do to indulge in such a luxury.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3982,
+            "text": "You poor thing...",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 3983,
+            "text": "Then I will help you experience that feeling for the first time",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3984,
+            "text": "Which brings us to step 1 of the working in pyjamas revolution",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3985,
+            "text": "We can do a one-day test run of it over in my flat",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 3986,
+            "text": "Tomorrow would be perfect I think",
+            "user": 20712,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "That's just an excuse, isn't it?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 3987,
+            "text": "You just want an excuse not to get up early tomorrow, don't you?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3988,
+            "text": "line_part2_25",
+            "user": 20712,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3989,
+            "text": "Not at all, I'm completely serious about this working in pyjamas thing",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3990,
+            "text": "And if you don't believe me...",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3991,
+            "text": "Why don't you come and see me after you're done for today?",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3992,
+            "text": "I'll let you have half of my bed",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3993,
+            "text": "Also, there isn't much room to put paperwork",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3994,
+            "text": "So please don't bring too much of it",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 3995,
+            "text": "Oh I can't wait to wake up and see you first thing tomorrow",
+            "user": 20712,
+            "type": 1,
+            "options": []
+          }
+        ]
+      }
+    ],
+    "icon": "bunao",
+    "type": 1
+  },
   "40109": {
     "id": 40109,
     "name": "Wolke9",

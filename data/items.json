@@ -17975,6 +17975,204 @@
       }
     ]
   },
+  "30367": {
+    "id": 30367,
+    "name": "Gear Skin Box (Tulipan Poems)",
+    "description": "Use to obtain a random gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxyujin",
+    "rarity": 5,
+    "locations": [
+      "Toward Tulipa's Seas"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 4149,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101206",
+        "name": "White Tulip Shell"
+      },
+      {
+        "id": 4150,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101207",
+        "name": "Yellow Tulip Shell"
+      },
+      {
+        "id": 4151,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101208",
+        "name": "Red Tulip Shell"
+      },
+      {
+        "id": 4152,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101209",
+        "name": "Bicycle Torpedo"
+      },
+      {
+        "id": 4153,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101210",
+        "name": "Lute Torpedo"
+      },
+      {
+        "id": 4154,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101211",
+        "name": "Paint Brush Torpedo"
+      },
+      {
+        "id": 4155,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101212",
+        "name": "Cheese Wheel Shell"
+      },
+      {
+        "id": 4156,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101213",
+        "name": "Windmill Shell"
+      },
+      {
+        "id": 4157,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101214",
+        "name": "Clogs Shell"
+      },
+      {
+        "id": 4158,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101215",
+        "name": "Farmhand Manjuu (Torpedo)"
+      },
+      {
+        "id": 4159,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101215",
+        "name": "Farmhand Manjuu (Fighter)"
+      },
+      {
+        "id": 4160,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101215",
+        "name": "Farmhand Manjuu (Bomber)"
+      },
+      {
+        "id": 4161,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101216",
+        "name": "Pastoral Girl Manjuu (Torpedo)"
+      },
+      {
+        "id": 4162,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101216",
+        "name": "Pastoral Girl Manjuu (Fighter)"
+      },
+      {
+        "id": 4163,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101216",
+        "name": "Pastoral Girl Manjuu (Bomber)"
+      },
+      {
+        "id": 4164,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101217",
+        "name": "Floral Maiden Manjuu (Torpedo)"
+      },
+      {
+        "id": 4165,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101217",
+        "name": "Floral Maiden Manjuu (Fighter)"
+      },
+      {
+        "id": 4166,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101217",
+        "name": "Floral Maiden Manjuu (Bomber)"
+      }
+    ]
+  },
   "30401": {
     "id": 30401,
     "name": "Random Gear Skin Box (Cruise Series 3)",
@@ -29855,6 +30053,204 @@
         "blueprint": false,
         "icon": "equips/101205",
         "name": "Emergency Nursing Manjuu (Bomber)"
+      }
+    ]
+  },
+  "30554": {
+    "id": 30554,
+    "name": "Selection Gear Skin Box (Tulipan Poems)",
+    "description": "Can be opened to receive 1 Tulipan Poems-themed gear skin of your choosing.",
+    "type": 13,
+    "icon": "props/appearanceboxyujinzixuan",
+    "rarity": 5,
+    "locations": [
+      "Toward Tulipa's Seas"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 4149,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101206",
+        "name": "White Tulip Shell"
+      },
+      {
+        "id": 4150,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101207",
+        "name": "Yellow Tulip Shell"
+      },
+      {
+        "id": 4151,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101208",
+        "name": "Red Tulip Shell"
+      },
+      {
+        "id": 4152,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101209",
+        "name": "Bicycle Torpedo"
+      },
+      {
+        "id": 4153,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101210",
+        "name": "Lute Torpedo"
+      },
+      {
+        "id": 4154,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101211",
+        "name": "Paint Brush Torpedo"
+      },
+      {
+        "id": 4155,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101212",
+        "name": "Cheese Wheel Shell"
+      },
+      {
+        "id": 4156,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101213",
+        "name": "Windmill Shell"
+      },
+      {
+        "id": 4157,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101214",
+        "name": "Clogs Shell"
+      },
+      {
+        "id": 4158,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101215",
+        "name": "Farmhand Manjuu (Torpedo)"
+      },
+      {
+        "id": 4159,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101215",
+        "name": "Farmhand Manjuu (Fighter)"
+      },
+      {
+        "id": 4160,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101215",
+        "name": "Farmhand Manjuu (Bomber)"
+      },
+      {
+        "id": 4161,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101216",
+        "name": "Pastoral Girl Manjuu (Torpedo)"
+      },
+      {
+        "id": 4162,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101216",
+        "name": "Pastoral Girl Manjuu (Fighter)"
+      },
+      {
+        "id": 4163,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101216",
+        "name": "Pastoral Girl Manjuu (Bomber)"
+      },
+      {
+        "id": 4164,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101217",
+        "name": "Floral Maiden Manjuu (Torpedo)"
+      },
+      {
+        "id": 4165,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101217",
+        "name": "Floral Maiden Manjuu (Fighter)"
+      },
+      {
+        "id": 4166,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101217",
+        "name": "Floral Maiden Manjuu (Bomber)"
       }
     ]
   },

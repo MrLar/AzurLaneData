@@ -31,10 +31,9 @@ Azur Lane and all related
 copyrights/assets used in this repository and its files
 are the property of Manjuu, Xiamen Yongshi and Yostar Inc. respectively.
 
-All data provided by the JSON files are derived directly
-from the game assets of Azur Lane and the 3 entities named above therefore reserve the right to take
-down this project
-at any time.
+All data provided by the JSON files are a **derivative** of some of the game assets
+of Azur Lane. The three entities named
+above retain the right to request the removal of this project at any time.
 
 ## Barrages
 

@@ -10117,7 +10117,7 @@
     ]
   },
   "12480": {
-    "description": "Changes the ammo type of this ship's Main Guns to Special AP $1. The DMG bonus of this ammo is based on the skill's level.$2",
+    "description": "Changes the ammo type of this ship's Main Guns to Special AP $1 {with $2 modifiers|These modifiers are not stated in game at all.}. The DMG bonus of this ammo is based on the skill's level.$3",
     "opsi_description": null,
     "name": "APsolute Ammunition",
     "max": 10,
@@ -10136,6 +10136,18 @@
         "Lv.8",
         "Lv.9",
         "Lv.10"
+      ],
+      [
+        "75/110/75",
+        "76/111/76",
+        "77/112/77",
+        "78/113/78",
+        "79/114/79",
+        "80/115/80",
+        "81/116/81",
+        "82/117/82",
+        "83/118/83",
+        "85/120/85"
       ],
       [
         "",
@@ -10902,7 +10914,7 @@
     ]
   },
   "12700": {
-    "description": "Every 15s: changes this ship's Main Gun ammo type to μ Purple for 8s.",
+    "description": "Every 15s: changes this ship's Main Gun ammo type to μ Purple for 8s. {These µ Purple Shells are Normal Shells {with $2 modifiers|These modifiers are not stated in game at all.}.",
     "opsi_description": null,
     "name": "Spirited Guidance",
     "max": 10,
@@ -10921,6 +10933,18 @@
         "Lv.8",
         "Lv.9",
         "Lv.10"
+      ],
+      [
+        "110/110/90",
+        "111/111/91",
+        "112/112/92",
+        "113/113/93",
+        "114/114/94",
+        "115/115/95",
+        "116/116/96",
+        "117/117/97",
+        "118/118/98",
+        "120/120/100"
       ]
     ]
   },
@@ -11064,7 +11088,7 @@
     ]
   },
   "12760": {
-    "description": "At the start of the battle and $1 chance every 20s after that: for 12s, changes this ship's Main Gun ammo type to μ Red.",
+    "description": "At the start of the battle and $1 chance every 20s after that: for 12s, changes this ship's Main Gun ammo type to μ Red. {These µ Red Shells are HE Shells {with $3 modifiers|These modifiers are not stated in game at all.}.",
     "opsi_description": null,
     "name": "High-Explosive Volley Fever",
     "max": 10,
@@ -11095,6 +11119,18 @@
         "Lv.8",
         "Lv.9",
         "Lv.10"
+      ],
+      [
+        "100/110/90",
+        "101/111/91",
+        "102/112/92",
+        "103/113/93",
+        "104/114/94",
+        "105/115/95",
+        "106/116/96",
+        "107/117/97",
+        "108/118/98",
+        "110/120/100"
       ]
     ]
   },
@@ -11122,7 +11158,7 @@
     ]
   },
   "12780": {
-    "description": "Each Main Gun reload gives this ship 2 Salvoes that can be fired independently. This ship's Main Gun ammo type is changed to $1 μ shells (shell DMG is based on the skill's level,) switching between μ Red and μ Blue when it fires a Salvo. Additionally, decreases the reload time of this ship's first Salvo by $2.",
+    "description": "Each Main Gun reload gives this ship 2 Salvoes that can be fired independently. This ship's Main Gun ammo type is changed to $1 μ shells switching between μ Red {with $3 modifiers|These modifiers are not stated in game at all.} and μ Blue {with $4 modifiers|These modifiers are not stated in game at all.} when it fires a Salvo. Additionally, decreases the reload time of this ship's first Salvo by $2.",
     "opsi_description": null,
     "name": "Cœur Battant",
     "max": 10,
@@ -11153,6 +11189,30 @@
         "20.4%",
         "22.6%",
         "25.0%"
+      ],
+      [
+        "140/110/90",
+        "140/110/92",
+        "140/111/95",
+        "140/111/98",
+        "140/112/100",
+        "140/112/102",
+        "140/113/105",
+        "140/113/108",
+        "140/114/110",
+        "140/115/115"
+      ],
+      [
+        "45/130/110",
+        "50/130/110",
+        "55/130/110",
+        "60/130/115",
+        "65/130/115",
+        "70/130/115",
+        "75/130/120",
+        "80/130/120",
+        "90/130/125",
+        "100/130/130"
       ]
     ]
   },
@@ -14781,7 +14841,7 @@
     ]
   },
   "13860": {
-    "description": "At the start of the battle, and with a $1 chance every 20s after that: changes this ship's ammo type to $2 special {HE|Game incorrectly states AP.} for 10s.",
+    "description": "At the start of the battle, and with a $1 chance every 20s after that: changes this ship's ammo type to $2 special {HE|Game incorrectly states AP.} {with $3 modifiers|These modifiers are not stated in game at all.} for 10s.",
     "opsi_description": null,
     "name": "Armor-Piercing Hypercharge",
     "max": 10,
@@ -14812,6 +14872,18 @@
         "Lv.8",
         "Lv.9",
         "Lv.10"
+      ],
+      [
+        "90/100/110",
+        "91/101/111",
+        "92/102/112",
+        "93/103/113",
+        "94/104/114",
+        "95/105/115",
+        "96/106/116",
+        "97/107/117",
+        "98/108/118",
+        "100/110/120"
       ]
     ]
   },
@@ -30943,7 +31015,7 @@
     ]
   },
   "18290": {
-    "description": "Increases this ship's built-in Secondary Gun's Crit Rate by $2 and improves its ammo type. When this ship uses a Main Gun that fires Normal or HE ammo: this ship's Main Gun ammo type changes to $1 special HE+ that has a chance to inflict a special Burn to enemies hit (DMG is based on the skill's level). Decreases the shot requirement of this ship's All Out Assault skill to 6.",
+    "description": "Increases this ship's built-in Secondary Gun's Crit Rate by $2 and improves its ammo {to Special Normal with 100/100/100 modifiers|These modifier changes are not mentioned by the game at all.}. When this ship uses a Main Gun that fires Normal or HE ammo: this ship's Main Gun ammo type changes to $1 special HE+ {with $4 modifiers|These modifiers are not stated in game at all.} which has a chance to inflict a special Burn to enemies hit (DMG is based on the skill's level). Decreases the shot requirement of this ship's All Out Assault skill to 6.",
     "opsi_description": null,
     "name": "The Fearless Privateer+",
     "max": 10,
@@ -30986,6 +31058,18 @@
         "8.0%",
         "9.0%",
         "10.0%"
+      ],
+      [
+        "115/115/95",
+        "125/115/95",
+        "130/115/95",
+        "130/120/95",
+        "130/125/95",
+        "130/125/97",
+        "130/130/100",
+        "140/135/100",
+        "140/140/100",
+        "140/140/105"
       ]
     ]
   },
@@ -31813,7 +31897,7 @@
     ]
   },
   "19090": {
-    "description": "Changes the ammo type of this ship's Main Guns to HE. Every time this ship fires its Main Guns: increases this ship's RLD by $1 (can be stacked up to 12 times.) The ammo type of this ship's Main Guns will alternate between HE and AP every 2 shots.",
+    "description": "Changes the ammo type of this ship's Main Guns to HE {with 135/95/70 modifers|These modifiers are not stated in game at all.}. Every time this ship fires its Main Guns: increases this ship's RLD by $1 (can be stacked up to 12 times.) The ammo type of this ship's Main Guns will alternate between HE {with 135/95/70 modifers|These modifiers are not stated in game at all.} and AP {with 75/110/75 modifiers|These modifiers are not stated in game at all.} every 2 shots.",
     "opsi_description": null,
     "name": "Expert Loader",
     "max": 10,
@@ -32045,7 +32129,7 @@
     ]
   },
   "19170": {
-    "description": "This ship's Main Guns ignore the enemy's Armor Type and its Main Gun DMG increases based on the skill's level ($1.) While equipping a Sakura Empire Main Gun: increases this ship's Main Gun efficiency by $2.",
+    "description": "This ship's Main Gun's {ammo type is changed to Normal with $3 modifiers|The game only states unaffected by armor type not that the modifiers change completely. Do note that the fact that level 3 has a Light armor mod of 112 is not a typo but rather a game bug.} and its Main Gun DMG increases based on the skill's level ($1.) While equipping a Sakura Empire Main Gun: increases this ship's Main Gun efficiency by $2.",
     "opsi_description": null,
     "name": "Kitakaze Style - Horizon Splitter",
     "max": 10,
@@ -32076,6 +32160,18 @@
         "12.7%",
         "13.8%",
         "15.0%"
+      ],
+      [
+        "105/105/105",
+        "106/106/106",
+        "112/107/107",
+        "108/108/108",
+        "109/109/109",
+        "110/110/110",
+        "111/111/111",
+        "112/112/112",
+        "113/113/113",
+        "115/115/115"
       ]
     ]
   },
@@ -32467,7 +32563,7 @@
     ]
   },
   "19290": {
-    "description": "Increases this ship's built-in Secondary Gun Crit Rate by $2 and improves its ammo. When this ship uses a Main Gun that fires Normal or HE ammo: this ship's Main Gun ammo type changes to $1 special HE with a chance to cause a special Burn to enemies (special HE DMG increase is based on the skill's level.)",
+    "description": "Increases this ship's built-in Secondary Gun Crit Rate by $2 and improves its ammo. When this ship uses a Main Gun that fires Normal or HE ammo: this ship's Main Gun ammo type changes to $1 special HE {with $3 modifiers|These modifiers are not stated in game at all.} which has a chance to cause a special Burn to enemies (special HE DMG increase is based on the skill's level.)",
     "opsi_description": null,
     "name": "The Fearless Privateer",
     "max": 10,
@@ -32498,6 +32594,18 @@
         "43.1%",
         "46.4%",
         "50.0%"
+      ],
+      [
+        "115/115/95",
+        "117/115/95",
+        "120/115/95",
+        "120/117/95",
+        "120/120/95",
+        "120/120/97",
+        "120/120/100",
+        "125/125/100",
+        "125/125/100",
+        "125/125/105"
       ]
     ]
   },
@@ -45559,7 +45667,7 @@
     "values": []
   },
   "110010": {
-    "description": "When the battle starts: increases this ship's Crit DMG by $1 for every Senran Kagura collab character in your fleet(can be stacked up to 3 times).\nEvery 12s: applies a debuff to the enemy with the lowest HP remaining, increasing their DMG taken from Senran Kagura collab characters by $2, and performs a $3 special attack - Twin Blades - Followup Slash (DMG is based on the skill's level and this ship's FP and TRP stats). When this attack activates, if there is only 1 enemy on the battlefield: this attack deals guaranteed Crit DMG. $4\n{If this special attack sinks an enemy: performs Twin Blades Combo Strike and Followup - Hanzō-Style Full Bloom (does not restore HP) (10s cooldown between activations)|The game describes this effect almost completely wrong and also implies it only happens at skill level 10 which is not the case.}",
+    "description": "When the battle starts: increases this ship's Crit DMG by $1 for every Senran Kagura collab character in your fleet(can be stacked up to 3 times).\nEvery 12s: applies a debuff to the enemy with the lowest HP remaining, increasing their DMG taken from Senran Kagura collab characters by $2, and performs a $3 special attack - Twin Blades - Followup Slash (DMG is based on the skill's level and this ship's FP and TRP stats). When this attack activates, if there is only 1 enemy on the battlefield: this attack deals guaranteed Crit DMG. \n{If this special attack sinks an enemy: performs Twin Blades Combo Strike and Followup - Hanzō-Style Full Bloom (does not restore HP) (10s cooldown between activations)|The game describes this effect almost completely wrong and also implies it only happens at skill level 10 which is not the case.}",
     "opsi_description": null,
     "name": "Twin Blades - Followup Slash",
     "max": 10,
@@ -45653,7 +45761,7 @@
     ]
   },
   "110030": {
-    "description": "Increases this ship's FP and TRP by $1. When the battle starts, if there is another Senran Kagura collab character in your fleet: increases this ship's EVA by $1.\nOnce per battle, when this ship's HP falls below 30.0% as a result of DMG taken: increases this ship's Evasion Rate by $2 and performs a $3 Secret Ninja Art: Hanzō-Style Full Bloom (DMG is based on the skill's level and this ship's FP and TRP stats). Restores this ship's HP equal to 15.0% of the DMG dealt by this Secret Ninja Art.\nWhen this Secret Ninja Art activates, if there is only 1 enemy on the battlefield: this attack deals guaranteed Crit DMG. $4\n{If Hanzō-Style Full Bloom sinks an enemy: additionally performs Twin Blades - Followup Slash 3 times (10s cooldown between activations from Followup - Hanzō-Style Full Bloom only).|The game describes this effect slightly wrong and also applies it only happens at skill level 10 which is not the case.}",
+    "description": "Increases this ship's FP and TRP by $1. When the battle starts, if there is another Senran Kagura collab character in your fleet: increases this ship's EVA by $1.\nOnce per battle, when this ship's HP falls below 30.0% as a result of DMG taken: increases this ship's Evasion Rate by $2 and performs a $3 Secret Ninja Art: Hanzō-Style Full Bloom (DMG is based on the skill's level and this ship's FP and TRP stats). Restores this ship's HP equal to 15.0% of the DMG dealt by this Secret Ninja Art.\nWhen this Secret Ninja Art activates, if there is only 1 enemy on the battlefield: this attack deals guaranteed Crit DMG. \n{If Hanzō-Style Full Bloom sinks an enemy: additionally performs Twin Blades - Followup Slash 3 times (10s cooldown between activations from Followup - Hanzō-Style Full Bloom only).|The game describes this effect slightly wrong and also applies it only happens at skill level 10 which is not the case.}",
     "opsi_description": null,
     "name": "Twin Blades Combo Strike+",
     "max": 10,
@@ -59437,6 +59545,53 @@
       ]
     ]
   },
+  "1012480": {
+    "description": "This ship's Main Gun ammo type changes to $1 Special AP {with $3 modifiers|These modifiers are not stated in game at all instead it just states a generic dmg based on level.}. When this Special AP hits an enemy: $2 chance to inflict that enemy with {special Armor Break|The game introduces a new confusing term for this for no real reason.}; {The special Armor Break|The game introduces a new confusing term for this for no real reason.} lasts for 8s and increases that enemy's shelling DMG received by 8.0%.\n15s after the battle starts, and every 20s after that: this ship gains a stealth mode, evading all enemy attacks for 3s; when this mode ends: fires a $1 special barrage (DMG is based on the skill's level) that inflicts the {the same special Armor Break|The game introduces a new confusing term for this for no real reason.} debuff to enemies hit.",
+    "opsi_description": null,
+    "name": "APsolute Ammunition+",
+    "max": 10,
+    "id": 1012480,
+    "type": 1,
+    "icon": 1012480,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "1.0%",
+        "1.2%",
+        "1.4%",
+        "1.6%",
+        "1.8%",
+        "2.1%",
+        "2.4%",
+        "2.7%",
+        "3.1%",
+        "3.5%"
+      ],
+      [
+        "90/115/90",
+        "91/116/91",
+        "92/117/92",
+        "93/118/93",
+        "94/119/94",
+        "95/120/95",
+        "96/121/96",
+        "97/122/97",
+        "98/123/98",
+        "100/125/100"
+      ]
+    ]
+  },
   "1012600": {
     "description": "When this ship fires her Main Guns: $1 chance to fire a special barrage (DMG is based on the skill's level).",
     "opsi_description": null,
@@ -59727,6 +59882,65 @@
         "Lv.8",
         "Lv.9",
         "Lv.10"
+      ]
+    ]
+  },
+  "1013050": {
+    "description": "When this ship fires her Main Guns: increases your Northern Parliament ships' FP, TRP, AVI, AA, and RLD by $1 for 12s. If this ship has the Triple 305mm M1907 Main Gun Mount equipped: increases this ship's Main Gun efficiency by $2 and decreases the reload time of this ship's first 4 Main Gun volleys by $3 and increases her Main Gun's DMG dealt against Medium and Heavy Armor enemies by $4.",
+    "opsi_description": null,
+    "name": "Long Live the Revolution!+",
+    "max": 10,
+    "id": 1013050,
+    "type": 1,
+    "icon": 13050,
+    "values": [
+      [
+        "8.0%",
+        "9.1%",
+        "10.2%",
+        "11.3%",
+        "12.4%",
+        "13.5%",
+        "14.6%",
+        "15.7%",
+        "16.8%",
+        "18.0%"
+      ],
+      [
+        "60.0%",
+        "63.0%",
+        "66.0%",
+        "70.0%",
+        "73.0%",
+        "76.0%",
+        "80.0%",
+        "83.0%",
+        "86.0%",
+        "90.0%"
+      ],
+      [
+        "20.0%",
+        "21.6%",
+        "23.2%",
+        "24.8%",
+        "26.4%",
+        "28.0%",
+        "29.6%",
+        "31.4%",
+        "33.2%",
+        "35.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
       ]
     ]
   },
@@ -60271,7 +60485,7 @@
     ]
   },
   "1019090": {
-    "description": "When this ship fires her Main Guns: increases this ship's FP and RLD by $1 (can be stacked up to 12 times). Every 20s: fires a $2 special barrage (DMG is based on the skill's level) that makes enemies hit take $3 increased DMG from this ship for 10s. Every 2 times this ship fires her Main Guns: changes the ammo type (into HE or AP) of her next 2 volleys; this ship's first and second Main Gun volleys fired will use HE ammo.",
+    "description": "When this ship fires her Main Guns: increases this ship's FP and RLD by $1 (can be stacked up to 12 times). Every 20s: fires a $2 special barrage (DMG is based on the skill's level) that makes enemies hit take $3 increased DMG from this ship for 10s. Every 2 times this ship fires her Main Guns: changes the ammo type (into HE {with 145/100/80 modifers|These modifiers are not stated in game at all.} or AP {with 85/130/110 modifiers|These modifiers are not stated in game at all.}) of her next 2 volleys; this ship's first and second Main Gun volleys fired will use HE {with 145/100/80 modifers|These modifiers are not stated in game at all.} ammo.",
     "opsi_description": null,
     "name": "Expert Loader+",
     "max": 10,
