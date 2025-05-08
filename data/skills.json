@@ -59886,7 +59886,7 @@
     ]
   },
   "1013050": {
-    "description": "When this ship fires her Main Guns: increases your Northern Parliament ships' FP, TRP, AVI, AA, and RLD by $1 for 12s. If this ship has the Triple 305mm M1907 Main Gun Mount equipped: increases this ship's Main Gun efficiency by $2 and decreases the reload time of this ship's first 4 Main Gun volleys by $3 and increases her Main Gun's DMG dealt against Medium and Heavy Armor enemies by $4.",
+    "description": "When this ship fires her Main Guns: increases your Northern Parliament ships' FP, TRP, AVI, AA, and RLD by $1 for 12s. If this ship has the Triple 305mm M1907 Main Gun Mount equipped: increases this ship's Main Gun efficiency by $2 and decreases the reload time of this ship's first 4 Main Gun volleys by $3 and increases her Main Gun's DMG dealt against Medium and Heavy Armor enemies by {5.0%|The game states values between 5.0%-15.0%, however this skill is bugged and always applies 5.0%.}.",
     "opsi_description": null,
     "name": "Long Live the Revolution!+",
     "max": 10,
@@ -59929,18 +59929,6 @@
         "31.4%",
         "33.2%",
         "35.0%"
-      ],
-      [
-        "5.0%",
-        "6.1%",
-        "7.2%",
-        "8.3%",
-        "9.4%",
-        "10.5%",
-        "11.6%",
-        "12.7%",
-        "13.8%",
-        "15.0%"
       ]
     ]
   },
