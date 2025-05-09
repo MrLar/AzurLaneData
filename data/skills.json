@@ -4862,7 +4862,7 @@
     ]
   },
   "10710": {
-    "description": "At the start of battle: increases this ship's EVA by $2, {TRP|game incorrectly states torpedo DMG} by $2, and damage dealt to Medium-Armored enemies by $1; {If this ship is a CA when hitting an enemy|This effect does not work on non-CAs} with 4 Main Gun attacks, slows that ship by $3 for 5s (this effect cannot be stacked again until the slowing effect has worn off).",
+    "description": "At the start of battle: increases this ship's EVA by $2, {TRP|game incorrectly states torpedo DMG} by $2, and damage dealt to Medium-Armored enemies by $1; {If this ship is a CA: When hitting an enemy|This effect does not work on non-CAs and the game makes it sound like enemy CAs get slowed} with 4 Main Gun attacks, slows that ship by $3 for 5s (this effect cannot be stacked again until the slowing effect has worn off).",
     "opsi_description": null,
     "name": "Giant Hunter",
     "max": 10,
@@ -7395,7 +7395,7 @@
     ]
   },
   "11560": {
-    "description": "When this ship deals DMG to an enemy with its Main Guns: DMG increases based on distance traveled, up to a maximum of $1; When this ship's Secondary Gun slot is equipped with Eagle Union gear, ammunition type is changed to Super-Heavy AP, and the DMG done based upon distance traveled is increased to a maximum of $2.",
+    "description": "When this ship deals DMG to an enemy with its Main Guns: DMG increases based on distance traveled, up to a maximum of $1; When this ship's Secondary Gun slot is equipped with Eagle Union gear, ammunition type is changed to Super-Heavy AP {with 65/135/115 modifiers and a 20.0% chance to inflict Armor Break|The Armor Break effect and modifiers are not stated in game at all.}, and the DMG done based upon distance traveled is increased to a maximum of $2.",
     "opsi_description": null,
     "name": "2,700 Pounds of Justice",
     "max": 10,
@@ -10972,7 +10972,7 @@
     ]
   },
   "12720": {
-    "description": "Once every third time this ship fires its Main Guns: the next shot fired will use μ Blue ammo.",
+    "description": "Once every third time this ship fires its Main Guns: the next shot fired will use μ Blue ammo. {The µ Blue Shells are AP Shells with $2 modifiers|Ammo type and modifiers are not stated in game at all.}.",
     "opsi_description": null,
     "name": "Armor-Penetrating Arrow",
     "max": 10,
@@ -10991,6 +10991,18 @@
         "Lv.8",
         "Lv.9",
         "Lv.10"
+      ],
+      [
+        "110/110/80",
+        "111/111/81",
+        "112/112/82",
+        "113/113/83",
+        "114/114/84",
+        "115/115/85",
+        "116/116/86",
+        "117/117/87",
+        "118/118/88",
+        "120/120/90"
       ]
     ]
   },
@@ -16749,7 +16761,7 @@
     ]
   },
   "14380": {
-    "description": "When this ship launches an Airstrike while having a Fighter equipped in her second gear slot: restores $1 HP for the lowest HP percentage ship in your Vanguard and Main Fleet, and generates a shield around those 2 ships that negates DMG equal to $2 of their max HP, lasting up to 5s; When this ship instead has a Dive Bomber equipped in her second gear slot: gains 1 preloaded Airstrike, decreases her Airstrike loading time by 10.0%, and increases her DMG dealt by $3.",
+    "description": "When this ship launches an Airstrike while having a Fighter equipped in her second gear slot:\n• Restores $1 HP for the lowest HP percentage ship in your Vanguard and Main Fleet\n• A shield is generated around those 2 ships that negates DMG equal to $2 of their max HP, lasting up to 5s;\n\nWhen this ship instead has a Dive Bomber equipped in her second gear slot:\n• This ship starts battle with 1 preloaded Airstrike\n• Decreases the loading time of all this ship's Aairstrikes by 10.0%\n• Increase the DMG dealt by this ship by $3.",
     "opsi_description": null,
     "name": "Rain of Starlight",
     "max": 10,
@@ -21147,7 +21159,7 @@
     ]
   },
   "15510": {
-    "description": "If Emden has a CL Main Gun equipped in the Secondary Weapon slot: increases Emden's Main Gun and Secondary Weapon Efficiencies by $1 and, once every 20s, fires a $2 special barrage that inflicts a minus 30.0% SPD debuff to enemies hit for 5s (DMG is based on the skill's level); if a DD Main Gun is equipped in this slot instead: every 10s, deploys a shield that lasts 5s and can block up to 5 enemy shots. If this shield is destroyed rather than expiring: fires a $2 special barrage (DMG is based on the skill's level) that restores Emden's HP equal to $3 of the DMG dealt.",
+    "description": "If Emden has a CL Main Gun equipped in the Secondary Weapon slot:\n• increases Emden's Main Gun and Secondary Weapon Efficiencies by $1\n• Once every 20s, fires a $2 special barrage that inflicts a minus 30.0% SPD debuff to enemies hit for 5s (DMG is based on the skill's level).\n\nIf a DD Main Gun is equipped in this slot instead:\n• every 10s, deploys a shield that lasts 5s and can block up to 5 enemy shots. If this shield is destroyed rather than expiring: fires a $2 special barrage (DMG is based on the skill's level) that restores Emden's HP equal to $3 of the DMG dealt.",
     "opsi_description": null,
     "name": "Duet of Alternation",
     "max": 10,
@@ -59067,7 +59079,7 @@
     ]
   },
   "1011560": {
-    "description": "During battle, changes this ship's Main Gun ammunition type to Super-Heavy AP. When this ship's Main Guns hit an enemy, the DMG dealt to the enemy is increased based on the distance from this ship (up to $1). When this ship fires her Main Guns: $1 chance to fire a $2 special barrage (DMG is based on the skill's level).",
+    "description": "During battle, changes this ship's Main Gun ammunition type to Super-Heavy AP {with 65/135/115 modifiers and a 20.0% chance to inflict Armor Break|The Armor Break effect and modifiers are not stated in game at all.}. When this ship's Main Guns hit an enemy, the DMG dealt to the enemy is increased based on the distance from this ship (up to $1). When this ship fires her Main Guns: $1 chance to fire a $2 special barrage (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "2,700 Pounds of Justice+",
     "max": 10,
