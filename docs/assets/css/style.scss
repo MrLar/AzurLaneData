@@ -71,6 +71,31 @@ body {
     background-color: #333;
 }
 
+.main-content pre {
+    background-color: #333;
+    border: solid 1px #7b7979;
+}
+
+.highlight {
+    background-color: #7b7979;
+
+    .k {
+        color: #c678dd;
+    }
+
+    .o {
+        color: #c678dd;
+    }
+
+    .mi {
+        color: #d19a66;
+    }
+
+    .c1 {
+        color: #bdbdbd;
+    }
+}
+
 a code {
     color: cornflowerblue !important;
 }
