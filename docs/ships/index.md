@@ -12,7 +12,7 @@ properties:
 |     **global_name**      |                    `string`                     |                         The prefixed English name of this ship. Displayed by all clients. This is the name displayed below the actual ship name when viewing a ship.                         |
 |          **id**          |                    `number`                     |                                                                          The ID of this ship, unique to every ship.                                                                          |
 |         **gid**          |                    `number`                     |                                                       The group ID of the ship, also unique to every ship. Mostly unused by this data.                                                       |
-|       **category**       |            [`ShipType`](#ship-type)             |                                                                              The category this ship falls into.                                                                              |
+|        **flags**         |                    `number`                     |                            Bit mask of special flags. Each flag represents roughly a category this ship falls into. See  [Ship Flags](#ship-flag) for more info.                             |
 |         **name**         |                    `string`                     |                                                                                     Names this ship has.                                                                                     |
 |        **rarity**        |         [`Rarity`](../common.md#Rarity)         |                                                                                   The rarity of this ship.                                                                                   |
 |         **tags**         |                   `string[]`                    |                                                                      All game tags assigned to this ship in lower case.                                                                      |
@@ -44,18 +44,27 @@ properties:
 |     **unique_aug?**      |                     `numer`                     |                                           **(Optional)** The ID of this ships unique augment if any. If absent (or 0) the ship does not have one.                                            |
 
 
-## Ship Type
+## Ship Flags
 
-Ship type is a numeric value with the range `[0, 5]` where each number represents a ship category:
+Ship Flags is a 5-bit bitmask where each bit represents a category a ship can belong to.
 
-| Value |      Label      |                      Description                       |
-| :---: | :-------------: | :----------------------------------------------------: |
-|   0   |      Bulin      |       A special category for the 3 bulin ships.        |
-|   1   |     Normal      |      All standard ships fall into this category.       |
-|   2   |    Retrofit     |                The ship has a retrofit.                |
-|   3   |    Research     | The ship is a research ship *without* fate simulation. |
-|   4   | Fate Simulation |  The ship is a research ship *with* fate simulation.   |
-|   5   |      Meta       |                The ship is a META ship.                |
+| Bit (Mask) |      Label      |                          Description                          |
+| :--------: | :-------------: | :-----------------------------------------------------------: |
+| 0 (1 << 0) |      Bulin      |           A special category for the 3 bulin ships.           |
+| 1 (1 << 1) |    Retrofit     |                   The ship has a retrofit.                    |
+| 2 (1 << 2) |    Research     | The ship is a research ship, with or without fate simulation. |
+| 3 (1 << 3) | Fate Simulation |      The ship is a research ship *with* fate simulation.      |
+| 4 (1 << 4) |      META       |                   The ship is a META ship.                    |
+
+### Checking for a Flag
+
+To check whether a ship has a specific flag, use a bitwise AND operation. For example:
+
+```js
+if ((ship.flags & (1 << x)) !== 0) {
+  // The ship has the flag corresponding to bit x
+}
+```
 
 ## Ship Slot Data
 

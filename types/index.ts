@@ -60,44 +60,44 @@ import type { SkinInfo } from './skins'
 import { type SpecialSecretary } from './special_secretaries'
 import { type TechGroup } from './tech_groups'
 
-const augments = augmentList as Record<number, AugmentData | undefined>
-const specialWeapons = specialWeaponsList as Record<number, Weapon | undefined>
-const ships = shipsList as Record<number, ShipData | undefined>
-const equipments = equipmentList as Record<number, EquipmentData | undefined>
-const meowabilities = abilityList as Record<number, MeowfficerAbility | undefined>
-const meowfficers = meowList as Record<number, MeowfficerData | undefined>
-const skills = skillList as Record<number, SkillData | undefined>
-const skins = skinList as Record<number, SkinInfo | undefined>
-const maps = mapList as Record<string, MapData | undefined>
-const defaultEquip = defaultEquipList as Record<number, EquipmentData | undefined>
-const shipDrops = shipDropList as Record<number, ShipDropData | undefined>
-const equipDrops = equipDropList as Record<number, EquipDropData | undefined>
-const retroCosts = shipRetroCosts as Record<number, Record<string, RetroCost | undefined> | undefined>
-const equipCosts = equipUpgradeCosts as Record<number, UpgradeCost[] | undefined>
-const augCost = augmentCosts as Record<number, AugmentCost | undefined>
-const items = itemData as Record<number, Item | undefined>
-const labRecipes = gearLabRecipes as Record<number, GearLabRecipe | undefined>
-const gearSkins = gearSkilList as Record<number, GearSkin | undefined>
-const shops = shopList as Record<number, Shop | undefined>
-const researches = researchProjects as Record<number, Research | undefined>
-const voiceLines = skinVoiceLines as Record<number, SkinWords | undefined>
-const techGroups = fleetTechGroupData as Record<number, TechGroup | undefined>
-const dorm3DRooms = dorm3DRoomList as Record<number, Dorm3DRoom | undefined>
-const dorm3DCharacters = dorm3DCharacterList as Record<number, Dorm3DCharacter | undefined>
-const dorm3DCollectable = dorm3DCollectableList as Record<number, Dorm3DCollectable | undefined>
-const dorm3DFurniture = dorm3DFurnitureList as Record<number, Dorm3DFurniture | undefined>
-const dorm3DGifts = dorm3DGiftList as Record<number, Dorm3DGift | undefined>
-const cruisePasses = cruiseList as Record<number, CruisePass | undefined>
-const fleetChats = groupChats as Record<number, FleetChat | undefined>
-const juuProfiles = shipProfiles as Record<number, JuuProfile | undefined>
-const specialSecretaries = specialSecretaryList as Record<number, SpecialSecretary | undefined>
-const barrageData = barrages as Record<number, Barrage[] | undefined>
+export const augments = augmentList as Record<number, AugmentData | undefined>
+export const specialWeapons = specialWeaponsList as Record<number, Weapon | undefined>
+export const ships = shipsList as Record<number, ShipData | undefined>
+export const equipments = equipmentList as Record<number, EquipmentData | undefined>
+export const meowabilities = abilityList as Record<number, MeowfficerAbility | undefined>
+export const meowfficers = meowList as Record<number, MeowfficerData | undefined>
+export const skills = skillList as Record<number, SkillData | undefined>
+export const skins = skinList as Record<number, SkinInfo | undefined>
+export const maps = mapList as Record<string, MapData | undefined>
+export const defaultEquip = defaultEquipList as Record<number, EquipmentData | undefined>
+export const shipDrops = shipDropList as Record<number, ShipDropData | undefined>
+export const equipDrops = equipDropList as Record<number, EquipDropData | undefined>
+export const retroCosts = shipRetroCosts as Record<number, Record<string, RetroCost | undefined> | undefined>
+export const equipCosts = equipUpgradeCosts as Record<number, UpgradeCost[] | undefined>
+export const augCost = augmentCosts as Record<number, AugmentCost | undefined>
+export const items = itemData as Record<number, Item | undefined>
+export const labRecipes = gearLabRecipes as Record<number, GearLabRecipe | undefined>
+export const gearSkins = gearSkilList as Record<number, GearSkin | undefined>
+export const shops = shopList as Record<number, Shop | undefined>
+export const researches = researchProjects as Record<number, Research | undefined>
+export const voiceLines = skinVoiceLines as Record<number, SkinWords | undefined>
+export const techGroups = fleetTechGroupData as Record<number, TechGroup | undefined>
+export const dorm3DRooms = dorm3DRoomList as Record<number, Dorm3DRoom | undefined>
+export const dorm3DCharacters = dorm3DCharacterList as Record<number, Dorm3DCharacter | undefined>
+export const dorm3DCollectable = dorm3DCollectableList as Record<number, Dorm3DCollectable | undefined>
+export const dorm3DFurniture = dorm3DFurnitureList as Record<number, Dorm3DFurniture | undefined>
+export const dorm3DGifts = dorm3DGiftList as Record<number, Dorm3DGift | undefined>
+export const cruisePasses = cruiseList as Record<number, CruisePass | undefined>
+export const fleetChats = groupChats as Record<number, FleetChat | undefined>
+export const juuProfiles = shipProfiles as Record<number, JuuProfile | undefined>
+export const specialSecretaries = specialSecretaryList as Record<number, SpecialSecretary | undefined>
+export const barrageData = barrages as Record<number, Barrage[] | undefined>
 
-export {
-    augCost, augments, barrageData, cruisePasses, defaultEquip, dorm3DCharacters, dorm3DCollectable, dorm3DFurniture,
-    dorm3DGifts, dorm3DRooms, equipCosts, equipDrops,
-    equipments, fleetChats, gearSkins, items, juuProfiles, labRecipes, maps, meowabilities,
-    meowfficers, researches, retroCosts, shipDrops, ships, shops, skills,
-    skins, specialSecretaries, specialWeapons, techGroups, voiceLines
-}
+export const SHIP_FLAGS = {
+  BULIN: 1 << 0, // 1
+  RETRO: 1 << 1, // 2
+  RESEARCH: 1 << 2, // 4
+  FATE: 1 << 3, // 8
+  META: 1 << 4, // 16
+} as const
 

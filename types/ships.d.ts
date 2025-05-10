@@ -18,7 +18,14 @@ export interface ShipData {
     global_name: string
     id: number
     gid: number
-    category: ShipType
+    /**
+     * BULIN    = 1 << 0
+     * RETRO   = 1 << 1
+     * RESEARCH   = 1 << 2
+     * FATE   = 1 << 3
+     * META   = 1 << 4
+     */
+    flags: number
     name: string
     rarity: Rarity
     tags: string[]
@@ -191,9 +198,6 @@ export interface RetroCost {
     copies: number
     items: ItemStack[][]
 }
-
-// Bulin | Normal | Retrofittiable | Research | Fate Sim | META
-export type ShipType = 0 | 1 | 2 | 3 | 4 | 5
 
 // this could be an enum, but TS enums add uneccesary overhead
 export type UnlockType =
