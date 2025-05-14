@@ -40643,6 +40643,16 @@
     "icon": "equips/150640",
     "values": []
   },
+  "60850": {
+    "description": "Changes the battle BGM when equipped. If there are several BGM-altering gear equipped at the same time, only one will apply at random.",
+    "opsi_description": null,
+    "name": "My Precious Whale",
+    "max": 1,
+    "id": 60850,
+    "type": 0,
+    "icon": "equips/150660",
+    "values": []
+  },
   "101010": {
     "description": "If deployed with any other Neptunia ship, increases own damage by $1 and decreases own damage taken by 6.0%. For every other Neptunia ship deployed, further increases own damage by $2,and decreases own damage taken by 1.0%",
     "opsi_description": null,
