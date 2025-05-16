@@ -42,6 +42,7 @@ properties:
 |     **upgrade_text**     | [`UpgradeText[]`](./limitbreak.md#upgrade-text) |                                               Text description of what is unlocked at each limit break or development level (for PR/DR ships).                                               |
 |      **oath_skin?**      |                    `boolean`                    |                                                          **(Optional)** Whether this ship has an oath skin, treat absent as false.                                                           |
 |     **unique_aug?**      |                     `numer`                     |                                           **(Optional)** The ID of this ships unique augment if any. If absent (or 0) the ship does not have one.                                            |
+|        **skills**        |                  `number[][]`                   |                                                               List of IDs for each skill this ship has at given limit breaks.                                                                |
 
 
 ## Ship Flags
