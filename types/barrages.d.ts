@@ -43,5 +43,6 @@ interface BarragePart {
     tracker?: {
         angular: number
         range: number
-    }
+    },
+    targeting: string | null
 }
