@@ -44659,7 +44659,7 @@
         {
           "damage": 40,
           "coefficient": 1,
-          "count": 18,
+          "count": 36,
           "stat": "fp",
           "ratio": 1,
           "armor_mod": [
@@ -60890,7 +60890,7 @@
         {
           "damage": 40,
           "coefficient": 1,
-          "count": 50,
+          "count": 54,
           "stat": "fp",
           "ratio": 1,
           "armor_mod": [
@@ -60921,7 +60921,11 @@
             0
           ],
           "targeting": null,
-          "centered": false
+          "centered": false,
+          "buffs": [
+            "Decrease ACC by 15% for 10s"
+          ],
+          "buff_chance": 1
         },
         {
           "damage": 200,
