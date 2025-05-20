@@ -51904,7 +51904,7 @@
     ]
   },
   "151190": {
-    "description": "Every 20s: $1 chance to perform a $3 headbutt on the enemy with the lowest HP and shorten the reload time of this ship's mid-reload torpedoes by 3s. 3s after Glowworm Assault activates, the following takes effect:\n1) If this ship sustained DMG equal to or exceeding 8.0% of her max HP during the above effect, she evades DMG taken from enemy shells and ramming the enemy for 2s;\n2) If this ship sunk an enemy: restores $2 of this ship's max HP.",
+    "description": "Every 20s: $1 chance to perform a $3 headbutt on the enemy with the lowest HP and shorten the reload time of this ship's mid-reload torpedoes by 3s. 3s after Glowworm Assault activates, the following takes effect:\n• If this ship sustained DMG equal to or exceeding 8.0% of her max HP during the above effect, she evades DMG taken from enemy shells and ramming the enemy for 2s;\n• If this ship sunk an enemy: restores $2 of this ship's max HP.",
     "opsi_description": null,
     "name": "Glowworm Assault",
     "max": 10,
@@ -52009,7 +52009,7 @@
     ]
   },
   "151220": {
-    "description": "When this ship fires her Main Guns: $2 chance to fire a $1 special barrage II (DMG is based on the skill's level). When the battle starts, and every 15s after that: fires a $1 special barrage I that inflicts Lionflame on all enemies hit (DMG is based on the skill's level).\nEnemies affected by Lionflame take DMG once every 3s (DMG is based on Lion's FP and the skill's level), and enemies sunk while under the effect of Lionflame will cause the effect to spread to the nearest enemy.",
+    "description": "When this ship fires her Main Guns: $2 chance to fire a $1 special barrage II (DMG is based on the skill's level).\n\nWhen the battle starts, and every 15s after that: fires a $1 special barrage I that inflicts Lionflame on all enemies hit (DMG is based on the skill's level).\n\nEnemies affected by Lionflame take DMG once every 3s (DMG is based on Lion's FP and the skill's level), and enemies sunk while under the effect of Lionflame will cause the effect to spread to the nearest enemy.",
     "opsi_description": null,
     "name": "Worldgorging Lionflame",
     "max": 10,
@@ -52044,7 +52044,7 @@
     ]
   },
   "151230": {
-    "description": "Increases this ship's FP and ACC by $1, increases this ship's shelling damage by $5, and increases the DMG dealt to enemies affected by Lionflame by 10.0%. When this ships attacks an enemy affected by Lionflame: increases this ship's Crit Rate by $2 and Crit DMG by $3.\nWhen a fleet this ship is NOT in starts its 1st, 2nd, or 3rd battles of a sortie: as long as this ship is still afloat, fires a $4 support barrage 18s after the start of battle (DMG is based on the skill's level).",
+    "description": "Increases this ship's FP and ACC by $1, increases this ship's shelling damage by $5, and increases the DMG dealt to enemies affected by Lionflame by 10.0%.\n\nWhen this ships attacks an enemy affected by Lionflame: increases this ship's Crit Rate by $2 and Crit DMG by $3.\n\nWhen a fleet this ship is NOT in starts its 1st, 2nd, or 3rd battles of a sortie: as long as this ship is still afloat, fires a $4 support barrage 18s after the start of battle (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Thus Moves the King",
     "max": 10,
@@ -52162,7 +52162,7 @@
     ]
   },
   "151250": {
-    "description": "Increases this ship's FP and ACC by $1. When this ship fires her Main Guns: alternates between using $2 Heroic Will and $2 Fearless Spirit (DMG is based on the skill's level).\nHeroic Will: unleashes a red sword shockwave that decreases the AA of enemies hit by 2.0% for 3s;\nFearless Spirit: unleashes a blue sword shockwave that decreases the SPD of enemies hit by 15.0% for 3s.",
+    "description": "Increases this ship's FP and ACC by $1. When this ship fires her Main Guns: alternates between using $2 Heroic Will and $2 Fearless Spirit (DMG is based on the skill's level):\n•Heroic Will: unleashes a red sword shockwave that decreases the AA of enemies hit by 2.0% for 3s;\n•Fearless Spirit: unleashes a blue sword shockwave that decreases the SPD of enemies hit by 15.0% for 3s.",
     "opsi_description": null,
     "name": "Upon This Blade, Shall Victory be Inscribed",
     "max": 10,
@@ -52197,7 +52197,7 @@
     ]
   },
   "151260": {
-    "description": "Increases this ship's AA by $1. When your Flagship performs an arcing Main Gun attack: restores 5.0% of Trafalgar's max HP and creates a Luminous Domain on the battlefield; surface enemies present in the Luminous Domain gain the Luminous debuff (decreases their Evasion Rate by $2 and decreases their DMG dealt to Trafalgar by $3) for 10s.",
+    "description": "Increases this ship's AA by $1.\n\nWhen your Flagship performs an arcing Main Gun attack: restores 5.0% of Trafalgar's max HP and creates a Luminous Domain on the battlefield:\n•surface enemies present in the Luminous Domain gain the Luminous debuff (decreases their Evasion Rate by $2 and decreases their DMG dealt to Trafalgar by $3) for 10s.",
     "opsi_description": null,
     "name": "Upon This Corpus, Shall Irradiance Adorn",
     "max": 10,
@@ -52244,7 +52244,7 @@
     ]
   },
   "151270": {
-    "description": "Increases this ship's Main Gun efficiency by $1. Increases your Royal Navy ships' FP, TRP, and AVI by $2. While this ship is afloat, when a fleet this ship is NOT in starts a battle: increases the FP, TRP, and AA of your Royal Navy ships in that fleet by $2.",
+    "description": "Increases this ship's Main Gun efficiency by $1.\n\nIncreases your Royal Navy ships' FP, TRP, and AVI by $2.\n\nWhile this ship is afloat, when a fleet this ship is NOT in starts a battle: increases the FP, TRP, and AA of your Royal Navy ships in that fleet by $2.",
     "opsi_description": null,
     "name": "By This Power, Shall Duty be Done",
     "max": 10,
@@ -52326,7 +52326,7 @@
     ]
   },
   "151290": {
-    "description": "Increases this ship's EVA by $1. When the battle starts: decreases your fleet's aircraft DMG taken by $2; if there is another Royal Navy ship in your fleet, further decreases the aircraft DMG taken by $2. Every 10s: this ship performs a horoscope reading, increasing the FP or TRP of your Royal Navy Vanguard ships by $3 for 8s, then picks a random enemy and decreases that enemy's FP or TRP (based on which of the above two stats was chosen) by $4 for 8s; when this effect activates, if there are 2 or more surface enemies present, this effect activates an additional time.",
+    "description": "Increases this ship's EVA by $1.\n\nWhen the battle starts:\n• decreases your fleet's aircraft DMG taken by $2;\n• if there is another Royal Navy ship in your fleet, further decreases the aircraft DMG taken by $2.\n\nEvery 10s: this ship performs a horoscope reading:\n• increasing the FP or TRP of your Royal Navy Vanguard ships by $3 for 8s,\n• then picks a random enemy and decreases that enemy's FP or TRP (based on which of the above two stats was chosen) by $4 for 8s; when this effect activates, if there are 2 or more surface enemies present, this effect activates an additional time.",
     "opsi_description": null,
     "name": "Guidance of the Stars",
     "max": 10,
@@ -57779,7 +57779,7 @@
     "values": []
   },
   "801750": {
-    "description": "Every 20s: $1 chance to perform a $3 headbutt on the enemy with the lowest HP and shorten the reload time of this ship's mid-reload torpedoes by 3s. 3s after Glowworm Assault activates, the following takes effect:\n1) If this ship sustained DMG equal to or exceeding 8.0% of her max HP during the above effect, she evades DMG taken from enemy shells and ramming the enemy for 2s;\n2) If this ship sunk an enemy: restores $2 of this ship's max HP.",
+    "description": "When this ship launches an airstrike: for 8s, decreases your Vanguard's DMG taken by $1 and increases their DMG dealt by $1 (does not stack with the skills Fleet Carrier or Air Cover).",
     "opsi_description": null,
     "name": "Glory of Days Bygone",
     "max": 10,
@@ -57837,7 +57837,7 @@
     ]
   },
   "801770": {
-    "description": "When the battle starts, this ship and your Vanguard gain the Rosen Mark status; every 15s, another random ship in your Main Fleet also gains the Rosen Mark status.\nWhen a ship with the Rosen Mark status takes DMG equal to or exceeding 1.5% of that ship's max HP, Thorned Reprisal activates, dealing DMG equal to 5.0% of the DMG that ship took to the enemy closest to her.\nAdditionally, once per battle each, the following effects activate based on the number of Thorned Reprisal activations:\n1) 5: increases this ship's DMG dealt by $1;\n2) 10: launches the special airstrike $3 listed in the skill Glorious Forevermore (DMG is based on that skill's level);\n3) 20: after this ship launches an airstrike, the next airstrike becomes available immediately ;\n4) 30: sets this ship's Detection Gauge to 0;\n5) 40: restores HP equal to $2 of this ship's max HP for all your ships that have the Rosen Mark status.",
+    "description": "When the battle starts, this ship and your Vanguard gain the Rosen Mark status; every 15s, another random ship in your Main Fleet also gains the Rosen Mark status.\n\nWhen a ship with the Rosen Mark status takes DMG equal to or exceeding 1.5% of that ship's max HP, Thorned Reprisal activates, dealing DMG equal to 5.0% of the DMG that ship took to the enemy closest to her.\n\nAdditionally, once per battle each, the following effects activate based on the number of Thorned Reprisal activations:\n• 5: increases this ship's DMG dealt by $1;\n• 10: launches the special airstrike $3 listed in the skill Glorious Forevermore (DMG is based on that skill's level);\n• 20: after this ship launches an airstrike, the next airstrike becomes available immediately;\n• 30: sets this ship's Detection Gauge to 0;\n• 40: restores HP equal to $2 of this ship's max HP for all your ships that have the Rosen Mark status.",
     "opsi_description": null,
     "name": "Rosen Mark",
     "max": 10,

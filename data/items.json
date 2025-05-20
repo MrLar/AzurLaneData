@@ -4082,8 +4082,8 @@
   },
   "21048": {
     "id": 21048,
-    "name": "结晶:光荣·META",
-    "description": "光荣·META的专用性能提升装置,可在「META研究室」-「能量激活」中使用。",
+    "name": "META Crystal - Glorious META",
+    "description": "An item that increases the potential of Glorious META. Used in the META Lab during Somatic Activation.",
     "type": 4,
     "icon": "props/21048",
     "rarity": 5,
@@ -18197,8 +18197,8 @@
   },
   "30368": {
     "id": 30368,
-    "name": "外观装备箱(海滨假日)",
-    "description": "可以获得一件随机的海滨假日风格外观装备",
+    "name": "Gear Skin Box (Seaside)",
+    "description": "Contains a random gear skin.",
     "type": 11,
     "icon": "props/appearanceboxhaibin",
     "rarity": 5,
@@ -30476,8 +30476,8 @@
   },
   "30555": {
     "id": 30555,
-    "name": "定向外观装备箱(海滨假日)",
-    "description": "使用后可从「海滨假日」主题外观装备中任意选择一种获得1个",
+    "name": "Selection Gear Skin Box (Seaside)",
+    "description": "Can be opened to receive 1 Seaside-themed gear skin of your choosing.",
     "type": 13,
     "icon": "props/appearanceboxhaibinzixuan",
     "rarity": 5,
@@ -33960,8 +33960,8 @@
   },
   "40060": {
     "id": 40060,
-    "name": "海滨假日主题礼包(基础版)",
-    "description": "购买礼包可获得战斗界面主题 海滨假日*1,1000物资",
+    "name": "Battle UI Pack - Seaside Splash (Basic)",
+    "description": "Contains the Battle UI - Seaside Splash theme and 1,000 Coins.",
     "type": 17,
     "icon": "chargeicon/ui5",
     "rarity": 5,
@@ -33982,7 +33982,7 @@
         "linkable": true,
         "rarity": 5,
         "icon": "props/ui_204",
-        "name": "海滨假日"
+        "name": "Battle UI - Seaside Splash"
       },
       {
         "id": 59001,
@@ -33998,8 +33998,8 @@
   },
   "40061": {
     "id": 40061,
-    "name": "海滨假日主题礼包(豪华版)",
-    "description": "购买礼包可获得战斗界面主题 海滨假日*1,3060钻石",
+    "name": "Battle UI Pack - Seaside Splash (Premium)",
+    "description": "Contains the Battle UI - Seaside Splash theme and 3,060 Gems.",
     "type": 17,
     "icon": "chargeicon/ui5",
     "rarity": 5,
@@ -34020,7 +34020,7 @@
         "linkable": true,
         "rarity": 5,
         "icon": "props/ui_204",
-        "name": "海滨假日"
+        "name": "Battle UI - Seaside Splash"
       },
       {
         "id": 59005,
@@ -42572,27 +42572,10 @@
     ],
     "contains": []
   },
-  "60535": {
-    "id": 60535,
-    "name": "Early Summer Invitation",
-    "description": "Use to receive an SR shipgirl of your choosing.",
-    "type": 21,
-    "icon": "props/yaoqinghan",
-    "rarity": 5,
-    "locations": [
-      "A Rose on the High Tower"
-    ],
-    "servers": [
-      "EN",
-      "JP",
-      "CN"
-    ],
-    "contains": []
-  },
   "60544": {
     "id": 60544,
     "name": "Rookie Mission Invitation",
-    "description": "使用后可以邀请Shinano或New Jersey中的一名角色进入港区",
+    "description": "Use to choose between and receive either Shinano or New Jersey.",
     "type": 21,
     "icon": "props/yaoqinghan",
     "rarity": 6,
