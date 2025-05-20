@@ -46,4 +46,5 @@ interface BarragePart {
         range: number
     },
     targeting: string | null
+    centered: boolean
 }
