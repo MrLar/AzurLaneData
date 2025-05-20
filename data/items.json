@@ -45593,5 +45593,33 @@
         "name": "Genetic Origin"
       }
     ]
+  },
+  "9999999204": {
+    "id": 9999999204,
+    "name": "Seaside Splash UI",
+    "description": "The Seaside Splash themed Battle UI",
+    "type": 97,
+    "icon": "props/ui_204",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 204,
+        "type": 99,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": false,
+        "rarity": 5,
+        "icon": "uipreview/204",
+        "name": "Seaside Splash"
+      }
+    ]
   }
 }
