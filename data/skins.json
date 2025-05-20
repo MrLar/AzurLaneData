@@ -6525,6 +6525,28 @@
     "dynamic_bg": true,
     "dual_form": false
   },
+  "201149": {
+    "id": 201149,
+    "name": "Glowworm (Retrofit)",
+    "type": 2,
+    "category": 9997,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "yinghuochong_g",
+    "bg": null,
+    "obtain_type": 7,
+    "price": 0,
+    "currency": 0,
+    "is_permanent": true,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "201211": {
     "id": 201211,
     "name": "Bili Girl 22",
@@ -7179,6 +7201,50 @@
     "is_permanent": false,
     "l2d": false,
     "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "201381": {
+    "id": 201381,
+    "name": "Sea Breeze, Moonlit Talks",
+    "type": 0,
+    "category": 6,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "telafaerjia_2",
+    "bg": "164",
+    "obtain_type": 0,
+    "price": 1180,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": true,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "201391": {
+    "id": 201391,
+    "name": "Express-ive Delivery",
+    "type": 0,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "yongqi_2",
+    "bg": "168",
+    "obtain_type": 0,
+    "price": 880,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
     "custom_bgm": false,
     "dynamic_bg": false,
     "dual_form": false
@@ -8701,6 +8767,50 @@
     "dynamic_bg": false,
     "dual_form": false
   },
+  "202351": {
+    "id": 202351,
+    "name": "Stars and Roses",
+    "type": 0,
+    "category": 6,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "keliaopeitela_2",
+    "bg": "106",
+    "obtain_type": 0,
+    "price": 880,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "202361": {
+    "id": 202361,
+    "name": "Trapper in the Changing Room",
+    "type": 0,
+    "category": 6,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "telinida_2",
+    "bg": null,
+    "obtain_type": 0,
+    "price": 800,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "203011": {
     "id": 203011,
     "name": "The Sterling Secretary",
@@ -9860,6 +9970,28 @@
     "currency": 59005,
     "is_permanent": false,
     "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "205161": {
+    "id": 205161,
+    "name": "The Reclining Dandelion",
+    "type": 0,
+    "category": 6,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "shi_2",
+    "bg": "106",
+    "obtain_type": 0,
+    "price": 1180,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": true,
     "dynamic": false,
     "custom_bgm": false,
     "dynamic_bg": false,
@@ -17825,6 +17957,28 @@
     "dynamic_bg": false,
     "dual_form": false
   },
+  "307076": {
+    "id": 307076,
+    "name": "Fun on the Baize",
+    "type": 0,
+    "category": 16,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "dafeng_7",
+    "bg": "145",
+    "obtain_type": 0,
+    "price": 1180,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": true,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "307078": {
     "id": 307078,
     "name": "Temptation on the Sea Breeze",
@@ -18858,6 +19012,50 @@
     "custom_bgm": false,
     "dynamic_bg": false,
     "dual_form": false
+  },
+  "399062": {
+    "id": 399062,
+    "name": "The Relaxing Dragon God (L2D Form)",
+    "type": 0,
+    "category": 6,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "siwanshi_3",
+    "bg": null,
+    "obtain_type": 0,
+    "price": 1680,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": true,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": true
+  },
+  "399063": {
+    "id": 399063,
+    "name": "The Relaxing Dragon God (Dynamic Form)",
+    "type": 6,
+    "category": 6,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "siwanshi_4",
+    "bg": "191",
+    "obtain_type": 9,
+    "price": 0,
+    "currency": 0,
+    "is_permanent": true,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": true
   },
   "399071": {
     "id": 399071,

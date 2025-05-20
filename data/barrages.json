@@ -44651,6 +44651,204 @@
       ]
     }
   ],
+  "30462": [
+    {
+      "name": "All Out Assault - Cleopatra II",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 40,
+          "coefficient": 1,
+          "count": 18,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.1,
+            1.1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "30472": [
+    {
+      "name": "All Out Assault - Trafalgar II",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.95,
+            0.75
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "reaim": true,
+          "shrapnel": true,
+          "ignore_shield": true,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 3,
+          "pierce": 99,
+          "shell_range": [
+            35,
+            35
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false
+        },
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.95,
+            0.75
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 3,
+          "pierce": 99,
+          "shell_range": [
+            35,
+            35
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false
+        },
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "reaim": true,
+          "shrapnel": true,
+          "ignore_shield": true,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 3,
+          "pierce": 99,
+          "shell_range": [
+            35,
+            35
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false
+        },
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 3,
+          "pierce": 99,
+          "shell_range": [
+            35,
+            35
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false
+        }
+      ]
+    }
+  ],
   "60130": [
     {
       "name": "Inflict Burns",
@@ -60145,6 +60343,633 @@
       ]
     }
   ],
+  "151170": [
+    {
+      "name": "The Flawless Hunt",
+      "parts": [
+        {
+          "damage": 300,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.1,
+            1.1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 15,
+          "velocity": 10,
+          "pierce": 0,
+          "shell_range": [
+            150,
+            150
+          ],
+          "spread": [
+            1,
+            1
+          ],
+          "buffs": [
+            "Stun for 0.5s"
+          ],
+          "buff_chance": 1,
+          "targeting": "Priority",
+          "centered": false
+        },
+        {
+          "damage": 100,
+          "coefficient": 1,
+          "count": 12,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 3,
+          "velocity": 5,
+          "pierce": 0,
+          "shell_range": [
+            150,
+            150
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "151190": [
+    {
+      "name": "Glowworm Assault",
+      "parts": [
+        {
+          "damage": 280,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 10,
+          "velocity": 5,
+          "pierce": 0,
+          "shell_range": [
+            3,
+            3
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "151210": [
+    {
+      "name": "Dogged Pursuit",
+      "parts": [
+        {
+          "damage": 40,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 10,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Increase damage taken from DDs, CLs and DDGs by 12% for 5s"
+          ],
+          "buff_chance": 1,
+          "targeting": null,
+          "centered": false
+        },
+        {
+          "damage": 55,
+          "coefficient": 1,
+          "count": 10,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 0,
+          "angle": 60,
+          "splash": 3,
+          "velocity": 2,
+          "pierce": 0,
+          "shell_range": [
+            130,
+            170
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Increase damage taken from DDs, CLs and DDGs by 12% for 5s"
+          ],
+          "buff_chance": 1,
+          "targeting": null,
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "151220": [
+    {
+      "name": "Worldgorging Lionflame (15s)",
+      "parts": [
+        {
+          "damage": 200,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.4,
+            1.1,
+            0.9
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 8,
+          "pierce": 99,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Special DOT (DMG equal to 100 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.8 with 1 tick every 3 seconds with infinite duration, ID: 151222)",
+            "Increase damage taken by 10.0% while DOT lasts."
+          ],
+          "buff_chance": 1,
+          "targeting": null,
+          "centered": true
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 20,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.4,
+            1.1,
+            0.9
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 8,
+          "pierce": 0,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Special DOT (DMG equal to 100 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.8 with 1 tick every 3 seconds with infinite duration, ID: 151222)",
+            "Increase damage taken by 10.0% while DOT lasts."
+          ],
+          "buff_chance": 1,
+          "targeting": null,
+          "centered": true
+        }
+      ]
+    },
+    {
+      "name": "Worldgorging Lionflame (on Fire)",
+      "parts": [
+        {
+          "damage": 140,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.4,
+            1.1,
+            0.9
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [
+            "This barrage repeats 6 to 9 times."
+          ],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 15,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            16,
+            16
+          ],
+          "airdrop": true,
+          "buffs": [
+            "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
+          ],
+          "buff_chance": 0.5,
+          "targeting": "Priority",
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "151230": [
+    {
+      "name": "Thus Moves the King (Crossfleet)",
+      "parts": [
+        {
+          "damage": 140,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.4,
+            1.1,
+            0.9
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [
+            "This barrage repeats 9 times."
+          ],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 15,
+          "velocity": 15,
+          "pierce": 99,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            16,
+            16
+          ],
+          "airdrop": true,
+          "buffs": [
+            "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
+          ],
+          "buff_chance": 0.5,
+          "targeting": "Priority",
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "151250": [
+    {
+      "name": "Upon This Blade, Shall Victory be Inscribed (Variant 1)",
+      "parts": [
+        {
+          "damage": 40,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.95,
+            0.75
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            1,
+            1
+          ],
+          "aim_type": 0,
+          "angle": 100,
+          "splash": 0,
+          "velocity": 22,
+          "pierce": 99,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Decrease AA by 2% for 3s"
+          ],
+          "buff_chance": 1,
+          "targeting": "Priority",
+          "centered": false
+        }
+      ]
+    },
+    {
+      "name": "Upon This Blade, Shall Victory be Inscribed (Variant 2)",
+      "parts": [
+        {
+          "damage": 40,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            1,
+            1
+          ],
+          "aim_type": 0,
+          "angle": 100,
+          "splash": 0,
+          "velocity": 22,
+          "pierce": 99,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Slow by 15% for 3s"
+          ],
+          "buff_chance": 1,
+          "targeting": "Priority",
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "151260": [
+    {
+      "name": "Upon This Corpus, Shall Irradiance Adorn",
+      "parts": [
+        {
+          "damage": 100,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 0,
+          "angle": 16,
+          "splash": 16,
+          "velocity": 0,
+          "airdrop": true,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Decrease EVA Rate by 10% for 10s"
+          ],
+          "buff_chance": 1,
+          "targeting": "Priority",
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "151280": [
+    {
+      "name": "Sun God's Radiance",
+      "parts": [
+        {
+          "damage": 40,
+          "coefficient": 1,
+          "count": 50,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 0.75,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false
+        },
+        {
+          "damage": 200,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 3,
+          "velocity": 4,
+          "pierce": 0,
+          "shell_range": [
+            130,
+            170
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Slow by 10% for 10s"
+          ],
+          "buff_chance": 1,
+          "targeting": null,
+          "centered": false,
+          "tracker": {
+            "angular": 1.6,
+            "range": 14
+          }
+        }
+      ]
+    }
+  ],
   "250012": [
     {
       "name": "All Out Assault - Admiralen-class II",
@@ -66616,6 +67441,166 @@
           "buff_chance": 0.5,
           "buffs": [
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
+          ],
+          "targeting": null,
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "801760": [
+    {
+      "name": "Glorious Forevermore",
+      "parts": [
+        {
+          "damage": 344,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            0.9,
+            1.1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 1,
+          "airdrop": true,
+          "angle": 22,
+          "splash": 19,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            36,
+            36
+          ],
+          "targeting": null,
+          "centered": false
+        },
+        {
+          "damage": 288,
+          "coefficient": 1,
+          "count": 12,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 24,
+          "splash": 3,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            80,
+            120
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "801770": [
+    {
+      "name": "Rosen Mark (10 counter-attacks)",
+      "parts": [
+        {
+          "damage": 344,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            0.9,
+            1.1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 1,
+          "airdrop": true,
+          "angle": 22,
+          "splash": 19,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            36,
+            36
+          ],
+          "targeting": null,
+          "centered": false
+        },
+        {
+          "damage": 288,
+          "coefficient": 1,
+          "count": 12,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 24,
+          "splash": 3,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            80,
+            120
+          ],
+          "spread": [
+            0,
+            0
           ],
           "targeting": null,
           "centered": false

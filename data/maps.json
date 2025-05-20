@@ -64799,5 +64799,590 @@
     "time_limit": 180,
     "type": 5,
     "id": 1606
+  },
+  "1920001_a1_16730301": {
+    "name": "高塔上的蔷薇-A1",
+    "acv": 100,
+    "opsi": false,
+    "boss": {
+      "id": 16730301,
+      "hull": 3,
+      "nation": 95,
+      "name": "Extradimensional - Hyolitha",
+      "stats": {
+        "hp": 2480,
+        "fp": 68,
+        "trp": 52,
+        "avi": 0,
+        "aa": 85,
+        "hit": 14,
+        "eva": 14,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        12,
+        9,
+        9
+      ],
+      "level": 25,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_crystal_zhongxun"
+    },
+    "buffs": [],
+    "expo_id": 1920013,
+    "dungeon_id": 1920013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1607
+  },
+  "1920001_a2_16730302": {
+    "name": "高塔上的蔷薇-A2",
+    "acv": 130,
+    "opsi": false,
+    "boss": {
+      "id": 16730302,
+      "hull": 5,
+      "nation": 95,
+      "name": "Extradimensional - Hallucigenia",
+      "stats": {
+        "hp": 8900,
+        "fp": 150,
+        "trp": 0,
+        "avi": 0,
+        "aa": 115,
+        "hit": 14,
+        "eva": 11,
+        "spd": 20,
+        "luck": 0,
+        "armor": 2
+      },
+      "cld": [
+        13.7,
+        9,
+        9
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_crystal_zhanlie"
+    },
+    "buffs": [],
+    "expo_id": 1920113,
+    "dungeon_id": 1920113,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1608
+  },
+  "1920001_a3_16730303": {
+    "name": "高塔上的蔷薇-A3",
+    "acv": 165,
+    "opsi": false,
+    "boss": {
+      "id": 16730303,
+      "hull": 5,
+      "nation": 95,
+      "name": "Mimic Entity - Cacophony",
+      "stats": {
+        "hp": 11000,
+        "fp": 120,
+        "trp": 80,
+        "avi": 0,
+        "aa": 135,
+        "hit": 14,
+        "eva": 13,
+        "spd": 20,
+        "luck": 0,
+        "armor": 2
+      },
+      "cld": [
+        18,
+        15,
+        15
+      ],
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_siren_zhanlie"
+    },
+    "buffs": [],
+    "expo_id": 1920213,
+    "dungeon_id": 1920213,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1609
+  },
+  "1920002_b1_16731301": {
+    "name": "高塔上的蔷薇-B1",
+    "acv": 210,
+    "opsi": false,
+    "boss": {
+      "id": 16731301,
+      "hull": 7,
+      "nation": 95,
+      "name": "Extradimensional - Hydra",
+      "stats": {
+        "hp": 16500,
+        "fp": 0,
+        "trp": 0,
+        "avi": 150,
+        "aa": 200,
+        "hit": 14,
+        "eva": 11,
+        "spd": 16,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        13.7,
+        9,
+        9
+      ],
+      "level": 45,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_crystal_hangmu"
+    },
+    "buffs": [],
+    "expo_id": 1921013,
+    "dungeon_id": 1921013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1610
+  },
+  "1920002_b2_16731302": {
+    "name": "高塔上的蔷薇-B2",
+    "acv": 270,
+    "opsi": false,
+    "boss": {
+      "id": 16731302,
+      "hull": 7,
+      "nation": 95,
+      "name": "Mimic Entity - Cetacean",
+      "stats": {
+        "hp": 22800,
+        "fp": 0,
+        "trp": 0,
+        "avi": 165,
+        "aa": 240,
+        "hit": 14,
+        "eva": 11,
+        "spd": 20,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        18,
+        12,
+        12
+      ],
+      "level": 55,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_siren_hangmu"
+    },
+    "buffs": [],
+    "expo_id": 1921113,
+    "dungeon_id": 1921113,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1611
+  },
+  "1920002_b3_16731303": {
+    "name": "高塔上的蔷薇-B3",
+    "acv": 330,
+    "opsi": false,
+    "boss": {
+      "id": 16731303,
+      "hull": 10,
+      "nation": 95,
+      "name": "Mimic Entity - Warped Cacophony",
+      "stats": {
+        "hp": 32400,
+        "fp": 150,
+        "trp": 0,
+        "avi": 180,
+        "aa": 365,
+        "hit": 14,
+        "eva": 12,
+        "spd": 16,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        18,
+        9,
+        9
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_siren_boss01"
+    },
+    "buffs": [],
+    "expo_id": 1921213,
+    "dungeon_id": 1921213,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1612
+  },
+  "1920011_c1_16732301": {
+    "name": "高塔上的蔷薇-C1",
+    "acv": 455,
+    "opsi": false,
+    "boss": {
+      "id": 16732301,
+      "hull": 3,
+      "nation": 95,
+      "name": "Extradimensional - Hyolitha",
+      "stats": {
+        "hp": 38600,
+        "fp": 180,
+        "trp": 120,
+        "avi": 0,
+        "aa": 185,
+        "hit": 25,
+        "eva": 22,
+        "spd": 18,
+        "luck": 18,
+        "armor": 1
+      },
+      "cld": [
+        12,
+        9,
+        9
+      ],
+      "level": 75,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_crystal_zhongxun"
+    },
+    "buffs": [],
+    "expo_id": 1922013,
+    "dungeon_id": 1922013,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1613
+  },
+  "1920011_c2_16732302": {
+    "name": "高塔上的蔷薇-C2",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "id": 16732302,
+      "hull": 5,
+      "nation": 95,
+      "name": "Extradimensional - Hallucigenia",
+      "stats": {
+        "hp": 56200,
+        "fp": 220,
+        "trp": 0,
+        "avi": 0,
+        "aa": 225,
+        "hit": 25,
+        "eva": 20,
+        "spd": 20,
+        "luck": 18,
+        "armor": 2
+      },
+      "cld": [
+        13.7,
+        9,
+        9
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_crystal_zhanlie"
+    },
+    "buffs": [],
+    "expo_id": 1922113,
+    "dungeon_id": 1922113,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1614
+  },
+  "1920011_c3_16730303": {
+    "name": "高塔上的蔷薇-C3",
+    "acv": 775,
+    "opsi": false,
+    "boss": {
+      "id": 16730303,
+      "hull": 5,
+      "nation": 95,
+      "name": "Mimic Entity - Cacophony",
+      "stats": {
+        "hp": 11000,
+        "fp": 120,
+        "trp": 80,
+        "avi": 0,
+        "aa": 135,
+        "hit": 14,
+        "eva": 13,
+        "spd": 20,
+        "luck": 0,
+        "armor": 2
+      },
+      "cld": [
+        18,
+        15,
+        15
+      ],
+      "level": 85,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_siren_zhanlie"
+    },
+    "buffs": [],
+    "expo_id": 1922213,
+    "dungeon_id": 1922213,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1615
+  },
+  "1920012_d1_16733301": {
+    "name": "高塔上的蔷薇-D1",
+    "acv": 850,
+    "opsi": false,
+    "boss": {
+      "id": 16733301,
+      "hull": 7,
+      "nation": 95,
+      "name": "Extradimensional - Hydra",
+      "stats": {
+        "hp": 90600,
+        "fp": 152,
+        "trp": 0,
+        "avi": 291,
+        "aa": 360,
+        "hit": 21,
+        "eva": 22,
+        "spd": 16,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        13.7,
+        9,
+        9
+      ],
+      "level": 95,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_crystal_hangmu"
+    },
+    "buffs": [],
+    "expo_id": 1923013,
+    "dungeon_id": 1923013,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1616
+  },
+  "1920012_d2_16733302": {
+    "name": "高塔上的蔷薇-D2",
+    "acv": 1100,
+    "opsi": false,
+    "boss": {
+      "id": 16733302,
+      "hull": 7,
+      "nation": 95,
+      "name": "Mimic Entity - Cetacean",
+      "stats": {
+        "hp": 91000,
+        "fp": 160,
+        "trp": 0,
+        "avi": 300,
+        "aa": 390,
+        "hit": 22,
+        "eva": 22,
+        "spd": 20,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        18,
+        12,
+        12
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_siren_hangmu"
+    },
+    "buffs": [],
+    "expo_id": 1923113,
+    "dungeon_id": 1923113,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1617
+  },
+  "1920012_d3_16733303": {
+    "name": "高塔上的蔷薇-D3",
+    "acv": 1410,
+    "opsi": false,
+    "boss": {
+      "id": 16733303,
+      "hull": 10,
+      "nation": 95,
+      "name": "Mimic Entity - Warped Cacophony",
+      "stats": {
+        "hp": 105000,
+        "fp": 300,
+        "trp": 0,
+        "avi": 310,
+        "aa": 400,
+        "hit": 22,
+        "eva": 11,
+        "spd": 20,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        18,
+        9,
+        9
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_siren_boss01"
+    },
+    "buffs": [],
+    "expo_id": 1923213,
+    "dungeon_id": 1923213,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1618
+  },
+  "1920025_sp_16734301": {
+    "name": "高塔上的蔷薇-SP",
+    "acv": 1820,
+    "opsi": false,
+    "boss": {
+      "id": 16734301,
+      "hull": 7,
+      "nation": 95,
+      "name": "Glorious META",
+      "stats": {
+        "hp": 155000,
+        "fp": 280,
+        "trp": 0,
+        "avi": 420,
+        "aa": 390,
+        "hit": 35,
+        "eva": 26,
+        "spd": 18,
+        "luck": 30,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "guangrong_alter"
+    },
+    "buffs": [],
+    "expo_id": 1924013,
+    "dungeon_id": 1924013,
+    "time_limit": 180,
+    "type": 5,
+    "id": 1619
+  },
+  "1920026_extra_16735001": {
+    "name": "高塔上的蔷薇-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16735001,
+      "hull": 5,
+      "nation": 2,
+      "name": "Lion",
+      "stats": {
+        "hp": 1200000,
+        "fp": 420,
+        "trp": 0,
+        "avi": 0,
+        "aa": 350,
+        "hit": 80,
+        "eva": 20,
+        "spd": 25,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shi"
+    },
+    "buffs": [],
+    "expo_id": 1925001,
+    "dungeon_id": 1925001,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1620
+  },
+  "1920026_extra_16735011": {
+    "name": "高塔上的蔷薇-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16735011,
+      "hull": 5,
+      "nation": 2,
+      "name": "Lion",
+      "stats": {
+        "hp": 1200000,
+        "fp": 900,
+        "trp": 0,
+        "avi": 0,
+        "aa": 600,
+        "hit": 9999,
+        "eva": 0,
+        "spd": 25,
+        "luck": 99,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shi"
+    },
+    "buffs": [],
+    "expo_id": 1925002,
+    "dungeon_id": 1925002,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1621
   }
 }

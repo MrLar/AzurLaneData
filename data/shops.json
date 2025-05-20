@@ -6036,6 +6036,18 @@
         "name": "Specialized Core",
         "cost": 6,
         "limit": 10
+      },
+      {
+        "id": 59010,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 100,
+        "blueprint": false,
+        "icon": "props/specialarmor_prt",
+        "name": "Specialized Core",
+        "cost": 10,
+        "limit": 20
       }
     ],
     "pools": [
@@ -30973,6 +30985,386 @@
       [
         1745478000000,
         1746687599000
+      ]
+    ]
+  },
+  "5964": {
+    "type": 1,
+    "name": "A Rose on the High Tower",
+    "id": 5964,
+    "items": [
+      {
+        "id": 689,
+        "type": 2,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 6,
+        "icon": "ships/compact/telafaerjia",
+        "name": "Trafalgar",
+        "limit": 1,
+        "cost": 200
+      },
+      {
+        "id": 689,
+        "type": 2,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 6,
+        "icon": "ships/compact/telafaerjia",
+        "name": "Trafalgar",
+        "limit": 1,
+        "cost": 300
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 100,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins",
+        "limit": 350,
+        "cost": 1
+      },
+      {
+        "id": 30048,
+        "type": 2,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "ships/compact/guangrong_alter",
+        "name": "Glorious META",
+        "limit": 1,
+        "cost": 8000
+      },
+      {
+        "id": 21048,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/21048",
+        "name": "结晶:光荣·META",
+        "limit": 4,
+        "cost": 2000
+      },
+      {
+        "id": 24400,
+        "level": 0,
+        "type": 1,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/24400",
+        "name": "Prototype Triple 406mm Mk.II Main Gun Mount",
+        "limit": 1,
+        "cost": 10000
+      },
+      {
+        "id": 30368,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/appearanceboxhaibin",
+        "name": "外观装备箱(海滨假日)",
+        "limit": 10,
+        "cost": 2000
+      },
+      {
+        "id": 15008,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 100,
+        "blueprint": false,
+        "icon": "props/15008",
+        "name": "Cognitive Chips",
+        "limit": 10,
+        "cost": 300
+      },
+      {
+        "id": 15012,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 10,
+        "blueprint": false,
+        "icon": "props/15012",
+        "name": "Cognitive Array",
+        "limit": 5,
+        "cost": 1000
+      },
+      {
+        "id": 42060,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/42060",
+        "name": "General Blueprint - Series 7",
+        "limit": 30,
+        "cost": 500
+      },
+      {
+        "id": 42066,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/42066",
+        "name": "Special General Blueprint - Series 7",
+        "limit": 10,
+        "cost": 1000
+      },
+      {
+        "id": 20011,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/20011",
+        "name": "Rare Cat Box",
+        "limit": 10,
+        "cost": 250
+      },
+      {
+        "id": 20012,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/20012",
+        "name": "Elite Cat Box",
+        "limit": 5,
+        "cost": 500
+      },
+      {
+        "id": 20013,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/20013",
+        "name": "Super Rare Cat Box",
+        "limit": 2,
+        "cost": 3000
+      },
+      {
+        "id": 15014,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/15014",
+        "name": "Augment Module Core",
+        "limit": 5,
+        "cost": 300
+      },
+      {
+        "id": 15016,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/15016",
+        "name": "Augment Module Stone T2",
+        "limit": 50,
+        "cost": 90
+      },
+      {
+        "id": 15020,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/15019",
+        "name": "Augment Module Conversion Stone T1",
+        "limit": 10,
+        "cost": 600
+      },
+      {
+        "id": 15021,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/15020",
+        "name": "Augment Module Conversion Stone T2",
+        "limit": 2,
+        "cost": 2500
+      },
+      {
+        "id": 30014,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30004",
+        "name": "T4 Eagle Tech Pack",
+        "limit": 4,
+        "cost": 300
+      },
+      {
+        "id": 30024,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30004",
+        "name": "T4 Royal Tech Pack",
+        "limit": 4,
+        "cost": 300
+      },
+      {
+        "id": 30034,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30004",
+        "name": "T4 Sakura Tech Pack",
+        "limit": 4,
+        "cost": 300
+      },
+      {
+        "id": 30044,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30004",
+        "name": "T4 Iron Blood Tech Pack",
+        "limit": 4,
+        "cost": 300
+      },
+      {
+        "id": 17003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17003",
+        "name": "T3 General Part",
+        "limit": 30,
+        "cost": 30
+      },
+      {
+        "id": 17013,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17013",
+        "name": "T3 Main Gun Part",
+        "limit": 30,
+        "cost": 30
+      },
+      {
+        "id": 17023,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17023",
+        "name": "T3 Torpedo Part",
+        "limit": 30,
+        "cost": 30
+      },
+      {
+        "id": 17033,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17033",
+        "name": "T3 Anti-Air Gun Part",
+        "limit": 30,
+        "cost": 30
+      },
+      {
+        "id": 17043,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17043",
+        "name": "T3 Aircraft Part",
+        "limit": 30,
+        "cost": 30
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 2000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins",
+        "limit": 5,
+        "cost": 500
+      },
+      {
+        "id": 59002,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 1000,
+        "blueprint": false,
+        "icon": "props/oil",
+        "name": "Oil",
+        "limit": 5,
+        "cost": 450
+      },
+      {
+        "id": 50001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/suansukele",
+        "name": "Oxy-cola",
+        "limit": 100,
+        "cost": 15
+      }
+    ],
+    "currency": {
+      "id": 65097,
+      "name": "Winged Lion's Crest UR Voucher",
+      "icon": "props/65097",
+      "linkable": false
+    },
+    "dates": [
+      [
+        1747724400000,
+        1749711599000
       ]
     ]
   },

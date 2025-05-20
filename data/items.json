@@ -4080,6 +4080,24 @@
     ],
     "contains": []
   },
+  "21048": {
+    "id": 21048,
+    "name": "结晶:光荣·META",
+    "description": "光荣·META的专用性能提升装置,可在「META研究室」-「能量激活」中使用。",
+    "type": 4,
+    "icon": "props/21048",
+    "rarity": 5,
+    "locations": [
+      "A Rose on the High Tower",
+      "META Shop"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "21101": {
     "id": 21101,
     "name": "Crystallized Heat-Resistant Steel",
@@ -4090,7 +4108,8 @@
     "locations": [
       "META Shop",
       "META Showdown",
-      "OpSi Port Shop (Gibralta)"
+      "OpSi Port Shop (Gibralta)",
+      "Hard Mode Stages (X-3)"
     ],
     "servers": [
       "EN",
@@ -4109,7 +4128,8 @@
     "locations": [
       "META Shop",
       "META Showdown",
-      "OpSi Port Shop (Gibralta)"
+      "OpSi Port Shop (Gibralta)",
+      "Hard Mode Stages (X-4)"
     ],
     "servers": [
       "EN",
@@ -4128,7 +4148,8 @@
     "locations": [
       "META Shop",
       "META Showdown",
-      "OpSi Port Shop (Gibralta)"
+      "OpSi Port Shop (Gibralta)",
+      "Hard Mode Stages (X-2)"
     ],
     "servers": [
       "EN",
@@ -4147,7 +4168,8 @@
     "locations": [
       "META Shop",
       "META Showdown",
-      "OpSi Port Shop (Gibralta)"
+      "OpSi Port Shop (Gibralta)",
+      "Hard Mode Stages (X-1)"
     ],
     "servers": [
       "EN",
@@ -18173,6 +18195,204 @@
       }
     ]
   },
+  "30368": {
+    "id": 30368,
+    "name": "外观装备箱(海滨假日)",
+    "description": "可以获得一件随机的海滨假日风格外观装备",
+    "type": 11,
+    "icon": "props/appearanceboxhaibin",
+    "rarity": 5,
+    "locations": [
+      "A Rose on the High Tower"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 4167,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101218",
+        "name": "Beach Cushion Shell"
+      },
+      {
+        "id": 4168,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101219",
+        "name": "Coral Shell"
+      },
+      {
+        "id": 4169,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101220",
+        "name": "Tropical Drink Shell"
+      },
+      {
+        "id": 4170,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101221",
+        "name": "Beach Parasol Torpedo"
+      },
+      {
+        "id": 4171,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101222",
+        "name": "Beach Towel Torpedo"
+      },
+      {
+        "id": 4172,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101223",
+        "name": "Shell Chime Torpedo"
+      },
+      {
+        "id": 4173,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101224",
+        "name": "Beach Brunch Shell"
+      },
+      {
+        "id": 4174,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101225",
+        "name": "Cooler Shell"
+      },
+      {
+        "id": 4175,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101226",
+        "name": "Sandcastle Shell"
+      },
+      {
+        "id": 4176,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101227",
+        "name": "Vacationing Manjuu (Torpedo)"
+      },
+      {
+        "id": 4177,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101227",
+        "name": "Vacationing Manjuu (Fighter)"
+      },
+      {
+        "id": 4178,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101227",
+        "name": "Vacationing Manjuu (Bomber)"
+      },
+      {
+        "id": 4179,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101228",
+        "name": "Windsurfing Manjuu (Torpedo)"
+      },
+      {
+        "id": 4180,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101228",
+        "name": "Windsurfing Manjuu (Fighter)"
+      },
+      {
+        "id": 4181,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101228",
+        "name": "Windsurfing Manjuu (Bomber)"
+      },
+      {
+        "id": 4182,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101229",
+        "name": "Kayaking Manjuu (Torpedo)"
+      },
+      {
+        "id": 4183,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101229",
+        "name": "Kayaking Manjuu (Fighter)"
+      },
+      {
+        "id": 4184,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101229",
+        "name": "Kayaking Manjuu (Bomber)"
+      }
+    ]
+  },
   "30401": {
     "id": 30401,
     "name": "Random Gear Skin Box (Cruise Series 3)",
@@ -30254,6 +30474,204 @@
       }
     ]
   },
+  "30555": {
+    "id": 30555,
+    "name": "定向外观装备箱(海滨假日)",
+    "description": "使用后可从「海滨假日」主题外观装备中任意选择一种获得1个",
+    "type": 13,
+    "icon": "props/appearanceboxhaibinzixuan",
+    "rarity": 5,
+    "locations": [
+      "A Rose on the High Tower"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 4167,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101218",
+        "name": "Beach Cushion Shell"
+      },
+      {
+        "id": 4168,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101219",
+        "name": "Coral Shell"
+      },
+      {
+        "id": 4169,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101220",
+        "name": "Tropical Drink Shell"
+      },
+      {
+        "id": 4170,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101221",
+        "name": "Beach Parasol Torpedo"
+      },
+      {
+        "id": 4171,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101222",
+        "name": "Beach Towel Torpedo"
+      },
+      {
+        "id": 4172,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101223",
+        "name": "Shell Chime Torpedo"
+      },
+      {
+        "id": 4173,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101224",
+        "name": "Beach Brunch Shell"
+      },
+      {
+        "id": 4174,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101225",
+        "name": "Cooler Shell"
+      },
+      {
+        "id": 4175,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101226",
+        "name": "Sandcastle Shell"
+      },
+      {
+        "id": 4176,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101227",
+        "name": "Vacationing Manjuu (Torpedo)"
+      },
+      {
+        "id": 4177,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101227",
+        "name": "Vacationing Manjuu (Fighter)"
+      },
+      {
+        "id": 4178,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101227",
+        "name": "Vacationing Manjuu (Bomber)"
+      },
+      {
+        "id": 4179,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101228",
+        "name": "Windsurfing Manjuu (Torpedo)"
+      },
+      {
+        "id": 4180,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101228",
+        "name": "Windsurfing Manjuu (Fighter)"
+      },
+      {
+        "id": 4181,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101228",
+        "name": "Windsurfing Manjuu (Bomber)"
+      },
+      {
+        "id": 4182,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101229",
+        "name": "Kayaking Manjuu (Torpedo)"
+      },
+      {
+        "id": 4183,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101229",
+        "name": "Kayaking Manjuu (Fighter)"
+      },
+      {
+        "id": 4184,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101229",
+        "name": "Kayaking Manjuu (Bomber)"
+      }
+    ]
+  },
   "30911": {
     "id": 30911,
     "name": "T1 Custom Gear Lab Material Pack",
@@ -33537,6 +33955,82 @@
         "blueprint": false,
         "icon": "props/16502",
         "name": "T2 EXP Data Pack"
+      }
+    ]
+  },
+  "40060": {
+    "id": 40060,
+    "name": "海滨假日主题礼包(基础版)",
+    "description": "购买礼包可获得战斗界面主题 海滨假日*1,1000物资",
+    "type": 17,
+    "icon": "chargeicon/ui5",
+    "rarity": 5,
+    "locations": [
+      "A Rose on the High Tower"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 9999999204,
+        "type": 8,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "props/ui_204",
+        "name": "海滨假日"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 1000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ]
+  },
+  "40061": {
+    "id": 40061,
+    "name": "海滨假日主题礼包(豪华版)",
+    "description": "购买礼包可获得战斗界面主题 海滨假日*1,3060钻石",
+    "type": 17,
+    "icon": "chargeicon/ui5",
+    "rarity": 5,
+    "locations": [
+      "A Rose on the High Tower"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 9999999204,
+        "type": 8,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "props/ui_204",
+        "name": "海滨假日"
+      },
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 3060,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
       }
     ]
   },
@@ -42010,6 +42504,23 @@
     ],
     "contains": []
   },
+  "59855": {
+    "id": 59855,
+    "name": "八周年纪念币",
+    "description": "八周年活动「TH8纪念签到」获取——八方碧海,大小通吃",
+    "type": 1,
+    "icon": "props/59855",
+    "rarity": 4,
+    "locations": [
+      "8th Anniversary"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "59900": {
     "id": 59900,
     "name": "Core Data",
@@ -42053,6 +42564,40 @@
     "rarity": 4,
     "locations": [
       "Unobtainable (Legacy Item)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "60535": {
+    "id": 60535,
+    "name": "Early Summer Invitation",
+    "description": "Use to receive an SR shipgirl of your choosing.",
+    "type": 21,
+    "icon": "props/yaoqinghan",
+    "rarity": 5,
+    "locations": [
+      "A Rose on the High Tower"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "60544": {
+    "id": 60544,
+    "name": "Rookie Mission Invitation",
+    "description": "使用后可以邀请Shinano或New Jersey中的一名角色进入港区",
+    "type": 21,
+    "icon": "props/yaoqinghan",
+    "rarity": 6,
+    "locations": [
+      "Rookie Missions"
     ],
     "servers": [
       "EN",
