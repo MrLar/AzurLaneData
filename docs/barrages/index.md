@@ -6,10 +6,11 @@ title: Barrage Documentation
 
 Barrage provides info about a single skill barrage. It provides the following properties:
 
-| Property  |               Type               |           Description            |
-| :-------: | :------------------------------: | :------------------------------: |
-| **name**  |             `string`             | Name/Descriptor of the barrage.  |
-| **parts** | [`BarragePart[]`](#barrage-part) | Parts that make up this barrage. |
+|  Property   |               Type               |            Description            |
+| :---------: | :------------------------------: | :-------------------------------: |
+|  **name**   |             `string`             |  Name/Descriptor of the barrage.  |
+|  **parts**  | [`BarragePart[]`](#barrage-part) | Parts that make up this barrage.  |
+| **is_aoa?** |            `boolean`             | Whether this barrage is aoa-like. |
 
 # Barrage Part
 
@@ -47,7 +48,6 @@ Barrage Part provides information about a single part of a barrage. These parts 
 |   **tracker?**    |       [`MagneticTracker`](../common.md#magnetic-tracker)        |                                           **(Optional)** Tracker the ammo carried has in it, this is only potentially present if the ammo is a torpedo (4) or a missile (8).                                            |
 |   **targeting**   |                       `string` \| `null`                        |                                                                     Textual description of targeting method or null if no target/default targeting.                                                                     |
 |   **centered**    |                            `boolean`                            | Whether this barrage is explicitly set to spawn from the flagship when it otherwise wouldnt. **Do note that a value of false can still mean it spawns from the flagship because of how that bullet/weapon type works**. |
-|    **is_aoa?**    |                            `boolean`                            |                                                                                            Whether this barrage is aoa-like.                                                                                            |
 
 
 Note: This interface shares a lot in common with regular weapons, however the overlap is not exactly 1:1 therefore it does not directly extend Weapon or any of it's sub-types.
