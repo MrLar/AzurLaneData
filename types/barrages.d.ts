@@ -12,6 +12,7 @@ import { type AimType, type AmmoType } from './equipments'
 interface Barrage {
     name: string
     parts: BarragePart[]
+    is_aoa?: boolean
 }
 
 interface BarragePart {
