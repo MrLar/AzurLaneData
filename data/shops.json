@@ -31003,7 +31003,8 @@
         "icon": "ships/compact/telafaerjia",
         "name": "Trafalgar",
         "limit": 1,
-        "cost": 200
+        "cost": 200,
+        "use_alt": 0
       },
       {
         "id": 689,
@@ -31015,7 +31016,8 @@
         "icon": "ships/compact/telafaerjia",
         "name": "Trafalgar",
         "limit": 1,
-        "cost": 300
+        "cost": 300,
+        "use_alt": 0
       },
       {
         "id": 59001,
@@ -31027,7 +31029,8 @@
         "icon": "props/gold",
         "name": "Coins",
         "limit": 350,
-        "cost": 1
+        "cost": 1,
+        "use_alt": 0
       },
       {
         "id": 30048,
@@ -31356,6 +31359,12 @@
       }
     ],
     "currency": {
+      "id": 65096,
+      "name": "Rosen Emblems",
+      "icon": "props/65096",
+      "linkable": false
+    },
+    "currency_alt": {
       "id": 65097,
       "name": "Winged Lion's Crest UR Voucher",
       "icon": "props/65097",

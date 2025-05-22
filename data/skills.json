@@ -52044,7 +52044,7 @@
     ]
   },
   "151230": {
-    "description": "Increases this ship's FP and ACC by $1, increases this ship's {damage dealt with her main gun|The game incorrectly states shelling damage.} by $5, and increases the DMG {all your ships deal to|The way this skill is worded may imply only Lion herself gains this.} enemies affected by Lionflame by 10.0%.\n\nWhen this ships attacks an enemy affected by Lionflame: increases this ship's Crit Rate by $2 and Crit DMG by $3.\n\nWhen a fleet this ship is NOT in starts its 1st, 2nd, or 3rd battles of a sortie: as long as this ship is still afloat, fires a $4 support barrage 18s after the start of battle (DMG is based on the skill's level).",
+    "description": "Increases this ship's FP and ACC by $1, increases this ship's {damage dealt with her main gun|The game incorrectly states shelling damage.} by $5, and increases the DMG {enemies affected by Lionflame take by 10.0%|The way this skill is worded may imply only Lion herself gains this and that it is a dealt increase not a taken increase.}.\n\nWhen this ships attacks an enemy affected by Lionflame: increases this ship's Crit Rate by $2 and Crit DMG by $3.\n\nWhen a fleet this ship is NOT in starts its 1st, 2nd, or 3rd battles of a sortie: as long as this ship is still afloat, fires a $4 support barrage 18s after the start of battle (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Thus Moves the King",
     "max": 10,
