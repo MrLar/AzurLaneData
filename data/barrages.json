@@ -60661,7 +60661,7 @@
           "ammo": 3,
           "is_critical": false,
           "notes": [
-            "This barrage repeats 6 to 9 times."
+            "This barrage repeats 9 times."
           ],
           "shrapnel": false,
           "ignore_shield": true,
@@ -60859,7 +60859,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 16,
           "splash": 16,
           "velocity": 0,
