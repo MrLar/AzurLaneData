@@ -31364,12 +31364,14 @@
       "icon": "props/65096",
       "linkable": false
     },
-    "currency_alt": {
-      "id": 65097,
-      "name": "Winged Lion's Crest UR Voucher",
-      "icon": "props/65097",
-      "linkable": false
-    },
+    "currency_alt": [
+      {
+        "id": 65097,
+        "name": "Winged Lion's Crest UR Voucher",
+        "icon": "props/65097",
+        "linkable": false
+      }
+    ],
     "dates": [
       [
         1747724400000,
