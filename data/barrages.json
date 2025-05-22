@@ -642,7 +642,7 @@
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
           "buff_chance": 0.08,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -894,7 +894,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Furthest",
           "centered": false
         }
       ]
@@ -1133,7 +1133,7 @@
             19,
             19
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -1515,7 +1515,7 @@
             "Slow by 40% for 6s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Furthest",
           "centered": false
         }
       ]
@@ -2375,7 +2375,7 @@
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
           "buff_chance": 0.3,
-          "targeting": null,
+          "targeting": "Nearest",
           "centered": false
         }
       ]
@@ -2887,7 +2887,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -2923,7 +2923,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -3629,7 +3629,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Furthest",
           "centered": false
         }
       ]
@@ -3998,7 +3998,7 @@
             36
           ],
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -4036,7 +4036,7 @@
             0
           ],
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -4081,7 +4081,7 @@
             0
           ],
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -4119,7 +4119,7 @@
             0
           ],
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -8181,7 +8181,7 @@
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
           "buff_chance": 0.5,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -8391,7 +8391,7 @@
             "Special Armor Break (8% for 20s, ID: 402)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -9003,7 +9003,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -11058,7 +11058,7 @@
             "Attach \"Slowed by Northern Parliament\" tag for 5s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -11156,7 +11156,7 @@
             "Increase DMG taken by 15% for 8s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -11203,7 +11203,7 @@
             "Slow by 8% for 5s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -11424,7 +11424,7 @@
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -11460,7 +11460,7 @@
             20,
             20
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -11865,7 +11865,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -11908,7 +11908,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -11955,7 +11955,7 @@
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         },
         {
@@ -11995,7 +11995,7 @@
             "Special Armor Break (5% for 8s, ID: 351)"
           ],
           "buff_chance": 0.5,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -12078,7 +12078,7 @@
             "Special Armor Break (5% for 8s, ID: 351)"
           ],
           "buff_chance": 0.5,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -12376,7 +12376,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -12507,7 +12507,7 @@
             "Increase DMG taken from DDs or Royal Navy Vanguard Ships by 10% fo 8s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -12780,7 +12780,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         },
         {
@@ -12816,7 +12816,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -12903,7 +12903,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -13031,7 +13031,7 @@
             "Increase DMG taken from Shimakaze by 8% for 3s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -13248,7 +13248,7 @@
             "Standard Armor Break (8% for 6s, ID: 401)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": true
         }
       ]
@@ -13524,7 +13524,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -13560,7 +13560,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -13731,7 +13731,7 @@
             "Slow by 30% for 3s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -14642,7 +14642,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -14805,7 +14805,7 @@
             8,
             8
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -14936,7 +14936,7 @@
             "Attach \"Slowed by Northern Parliament\" tag for 5s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -15111,7 +15111,7 @@
             20,
             20
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -15365,7 +15365,7 @@
             "Increase DMG taken by Iron Blood ships by 12% and decrease EVA by 8%"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -15401,7 +15401,7 @@
             20,
             20
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -15437,7 +15437,7 @@
             20,
             20
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -15480,7 +15480,7 @@
             20,
             20
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -15631,7 +15631,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -15676,7 +15676,7 @@
             "Slow by 30% for 5s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -15716,7 +15716,7 @@
             "Slow by 30% for 5s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -15763,7 +15763,7 @@
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
           "buff_chance": 0.03,
-          "targeting": null,
+          "targeting": "Nearest",
           "centered": false
         }
       ]
@@ -15804,7 +15804,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -15847,7 +15847,7 @@
             3,
             3
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -15987,7 +15987,7 @@
             "Special Armor Break (8% for 8s, ID: 456)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -16030,7 +16030,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -16066,7 +16066,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -16109,7 +16109,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -16599,7 +16599,7 @@
             20,
             20
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -16635,7 +16635,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -16671,7 +16671,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -16962,7 +16962,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -17009,7 +17009,7 @@
             "Slow by 40% for 6s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -17045,7 +17045,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -17211,7 +17211,7 @@
             "Increase DMG taken from Wakatsuki by 10% until end of battle (does not stack)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -17417,7 +17417,7 @@
           ],
           "buff_chance": 1,
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -17499,7 +17499,7 @@
           ],
           "buff_chance": 1,
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -17583,7 +17583,7 @@
           ],
           "buff_chance": 1,
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -17662,7 +17662,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -18194,7 +18194,7 @@
             12,
             5
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -19291,7 +19291,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -19800,7 +19800,7 @@
             "Special Armor Break (5% for 8s, ID: 533) if previously slowed by ghost gun"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -20003,7 +20003,7 @@
             20,
             20
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -20261,7 +20261,7 @@
             3
           ],
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -20302,7 +20302,7 @@
             12,
             12
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -20338,7 +20338,7 @@
             12,
             12
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -20467,7 +20467,7 @@
             12,
             12
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -20503,7 +20503,7 @@
             12,
             12
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -20839,7 +20839,7 @@
             4,
             4
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -20880,7 +20880,7 @@
             4,
             4
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -20921,7 +20921,7 @@
             4,
             4
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -20964,7 +20964,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -21044,7 +21044,7 @@
             2
           ],
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -21128,7 +21128,7 @@
             "Increase damage taken from BB/BC (special hunter) by 8%"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -21216,7 +21216,7 @@
             "Decrease FP, TRP and AVI by 5% for 5s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -21259,7 +21259,7 @@
             21,
             21
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -21342,7 +21342,7 @@
             "Decrease DMG dealt to Unzen by 10%"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -21382,7 +21382,7 @@
             "Decrease DMG dealt to Unzen by 10%"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -21470,7 +21470,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         },
         {
@@ -21506,7 +21506,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -21549,7 +21549,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -21585,7 +21585,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -21826,7 +21826,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -21913,7 +21913,7 @@
             3,
             3
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -22166,7 +22166,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -22411,7 +22411,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -22495,7 +22495,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Nearest",
           "centered": false
         },
         {
@@ -22531,7 +22531,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -22574,7 +22574,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -23265,7 +23265,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -23439,7 +23439,7 @@
           ],
           "buff_chance": 1,
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -23483,7 +23483,7 @@
           ],
           "buff_chance": 1,
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Same",
           "centered": false
         }
       ]
@@ -23657,7 +23657,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -23700,7 +23700,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -24336,7 +24336,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -24419,7 +24419,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -24597,7 +24597,7 @@
             "Increase torpedo (surface, air and sub) DMG taken by 6% for 12s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -24712,7 +24712,7 @@
             20,
             20
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -25134,7 +25134,7 @@
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
           "buff_chance": 0.5,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -25297,7 +25297,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -25505,7 +25505,7 @@
           ],
           "buff_chance": 1,
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         },
         {
@@ -25625,7 +25625,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -25708,7 +25708,7 @@
             12,
             12
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -25751,7 +25751,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -25930,7 +25930,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -26182,7 +26182,7 @@
             "Standard Armor Break (8% for 6s, ID: 401)"
           ],
           "buff_chance": 0.2,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -27009,7 +27009,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -27135,7 +27135,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -27221,7 +27221,7 @@
           ],
           "buff_chance": 1,
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         },
         {
@@ -27258,7 +27258,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -27424,7 +27424,7 @@
             8,
             8
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -27675,7 +27675,7 @@
             20,
             20
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -27788,7 +27788,7 @@
             20,
             20
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -28041,7 +28041,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -28120,7 +28120,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -28649,7 +28649,7 @@
             10,
             10
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -28779,7 +28779,7 @@
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
           "buff_chance": 0.5,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         },
         {
@@ -28819,7 +28819,7 @@
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
           "buff_chance": 0.5,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -28908,7 +28908,7 @@
             "Increase DMG taken from Felix Schultz by 15% until end of battle (does not stack)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -29120,7 +29120,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -29239,7 +29239,7 @@
             "Special Flood (150 DMG with 1 tick every 3 seconds for 6s, ID: 19759)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -29284,7 +29284,7 @@
             "Special Flood (150 DMG with 1 tick every 3 seconds for 6s, ID: 19759)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -29324,7 +29324,7 @@
             "Special Flood (150 DMG with 1 tick every 3 seconds for 6s, ID: 19759)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -29657,7 +29657,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Nearest",
           "centered": false
         }
       ]
@@ -29787,7 +29787,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -29823,7 +29823,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -29868,7 +29868,7 @@
             "Special Burn (410 DMG with 1 tick every 3 seconds for 15s, ID: 19869)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -29909,7 +29909,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -29949,7 +29949,7 @@
             "Special Burn (410 DMG with 1 tick every 3 seconds for 15s, ID: 19869)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -41398,7 +41398,7 @@
             15
           ],
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -42466,7 +42466,7 @@
             15
           ],
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -42554,7 +42554,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         },
         {
@@ -42590,7 +42590,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -43062,7 +43062,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -43186,7 +43186,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         },
         {
@@ -43684,7 +43684,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -43933,7 +43933,7 @@
             15
           ],
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -44065,7 +44065,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -44102,7 +44102,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -44144,7 +44144,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -44890,7 +44890,7 @@
             "Special Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every second for 5s, ID: 475)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -44937,7 +44937,7 @@
             "Slow by 40% for 5s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -44984,7 +44984,7 @@
             "Reduce crit rate by 10% for 5s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -45114,7 +45114,7 @@
             "Reduce crit rate by 10% for 5s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -45159,7 +45159,7 @@
             "Reduce crit rate by 10% for 5s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -45334,7 +45334,7 @@
             "Decrease FP, TRP and AVI by 3% for 30s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -45379,7 +45379,7 @@
             "Decrease FP, TRP and AVI by 3% for 30s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -45427,7 +45427,7 @@
             "Increase DMG taken by 5% for 10s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -45473,7 +45473,7 @@
             "Increase DMG taken by 5% for 10s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -45516,7 +45516,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -45557,7 +45557,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -46512,7 +46512,7 @@
             "Special Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (AVI / 100)) * 0.1 with 1 tick every 3 seconds for 15s, ID: 322)"
           ],
           "buff_chance": 0.01,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -46939,7 +46939,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -46982,7 +46982,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -47188,7 +47188,7 @@
             "Standard Armor Break (8% for 6s, ID: 401) if target hit is Heavy Armor"
           ],
           "buff_chance": 0.2,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -47231,7 +47231,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -47616,7 +47616,7 @@
           ],
           "buff_chance": 1,
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -47663,7 +47663,7 @@
             "Increase FP and TRP DMG taken from Marie Rose for 5s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -47751,7 +47751,7 @@
             "Standard Armor Break (8% for 6s, ID: 401) if target hit is Heavy Armor"
           ],
           "buff_chance": 0.2,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -47798,7 +47798,7 @@
             "Standard Armor Break (8% for 6s, ID: 401)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -47928,7 +47928,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -48057,7 +48057,7 @@
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
           "buff_chance": 0.5,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         },
         {
@@ -48093,7 +48093,7 @@
             20,
             20
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -48509,7 +48509,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -48554,7 +48554,7 @@
             "Standard Armor Break (8% for 6s, ID: 401)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -48595,7 +48595,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -48846,7 +48846,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -48882,7 +48882,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -48925,7 +48925,7 @@
             20,
             20
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -49173,7 +49173,7 @@
             10,
             10
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -49261,7 +49261,7 @@
             36,
             36
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -49298,7 +49298,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Same",
           "centered": false
         }
       ]
@@ -49667,7 +49667,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -49710,7 +49710,7 @@
             20,
             20
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -49841,7 +49841,7 @@
             36,
             36
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -49878,7 +49878,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Same",
           "centered": false
         }
       ]
@@ -49957,7 +49957,7 @@
             10,
             10
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -50000,7 +50000,7 @@
             10,
             10
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -50081,7 +50081,7 @@
             10,
             10
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -50209,7 +50209,7 @@
             "Increase DMG taken from SSSS ships by 10% until end of battle (does not stack)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -50629,7 +50629,7 @@
             20
           ],
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -50720,7 +50720,7 @@
           ],
           "buff_chance": 1,
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -50766,7 +50766,7 @@
           ],
           "buff_chance": 1,
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -50809,7 +50809,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -50856,7 +50856,7 @@
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -50937,7 +50937,7 @@
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -51059,7 +51059,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -51145,7 +51145,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -51188,7 +51188,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -52232,7 +52232,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -52318,7 +52318,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -52578,7 +52578,7 @@
           ],
           "buff_chance": 1,
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -52622,7 +52622,7 @@
             0
           ],
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -52715,7 +52715,7 @@
           ],
           "buff_chance": 1,
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -52762,7 +52762,7 @@
             "Increase Aviation damage taken if hit 5 times"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": true
         }
       ]
@@ -52809,7 +52809,7 @@
             "Increase Aviation damage taken if hit 5 times"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": true
         },
         {
@@ -52940,7 +52940,7 @@
           ],
           "buff_chance": 1,
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -53557,7 +53557,7 @@
           ],
           "buff_chance": 1,
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -53605,7 +53605,7 @@
           ],
           "buff_chance": 1,
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -54048,7 +54048,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -54125,7 +54125,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -54208,7 +54208,7 @@
             "Slow by 20% for 6s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -54293,7 +54293,7 @@
             "Inflict Special Armor Break (5%, for 6s, ID: 111119)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -54416,7 +54416,7 @@
             "Standard Armor Break (8% for 6s, ID: 401)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Nearest",
           "centered": false
         }
       ]
@@ -55186,7 +55186,7 @@
             ""
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -55231,7 +55231,7 @@
             ""
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -55276,7 +55276,7 @@
             ""
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -55321,7 +55321,7 @@
             ""
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -55366,7 +55366,7 @@
             ""
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -55411,7 +55411,7 @@
             ""
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -55458,7 +55458,7 @@
             "Special Burn (119 DMG with 1 tick every 3 seconds for 30s, ID: 150028)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -55499,7 +55499,7 @@
           ],
           "buff_chance": 1,
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Same",
           "centered": false
         },
         {
@@ -55539,7 +55539,7 @@
             "Special Burn (119 DMG with 1 tick every 3 seconds for 30s, ID: 150028)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -55725,7 +55725,7 @@
             "Burn can spread"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -55847,7 +55847,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Nearest",
           "centered": false
         }
       ]
@@ -56065,7 +56065,7 @@
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
           "buff_chance": 0.5,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -56462,7 +56462,7 @@
             "Slow by 60% while attack lasts and for 2s after"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -56721,7 +56721,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -56758,7 +56758,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -56795,7 +56795,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -56838,7 +56838,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Nearest",
           "centered": false
         }
       ]
@@ -56885,7 +56885,7 @@
             "Decrease EVA by 10% for 6s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -56964,7 +56964,7 @@
             20,
             20
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -57217,7 +57217,7 @@
             "angular": 1.2,
             "range": 12
           },
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -57307,7 +57307,7 @@
             "Increase TRP DMG taken from Suzunami by 10% for 8s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -57390,7 +57390,7 @@
             24,
             24
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -57471,7 +57471,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -58773,7 +58773,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -58903,7 +58903,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Nearest",
           "centered": false
         },
         {
@@ -58943,7 +58943,7 @@
             ""
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Nearest",
           "centered": false
         },
         {
@@ -58979,7 +58979,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Nearest",
           "centered": false
         },
         {
@@ -59130,7 +59130,7 @@
             15,
             15
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -59211,7 +59211,7 @@
             15,
             15
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -59249,7 +59249,7 @@
             15,
             15
           ],
-          "targeting": null,
+          "targeting": "Debuffed",
           "centered": false
         }
       ]
@@ -59330,7 +59330,7 @@
             15,
             15
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -59368,7 +59368,7 @@
             15,
             15
           ],
-          "targeting": null,
+          "targeting": "Debuffed",
           "centered": false
         }
       ]
@@ -59409,7 +59409,7 @@
             15,
             15
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -59495,7 +59495,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -59538,7 +59538,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -59579,7 +59579,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Nearest",
           "centered": false
         },
         {
@@ -59619,7 +59619,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Nearest",
           "centered": false
         }
       ]
@@ -59908,7 +59908,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -59944,7 +59944,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -62220,7 +62220,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         },
         {
@@ -62303,7 +62303,7 @@
             "Special Burn (76 DMG with 1 tick every second for 6s, ID: 446)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -62485,7 +62485,7 @@
             "Special Armor Break (8% for 10s, ID: 452)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -62525,7 +62525,7 @@
             "Special Armor Break (8% for 10s, ID: 452)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -62566,7 +62566,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Nearest",
           "centered": false
         }
       ]
@@ -62828,7 +62828,7 @@
             "Slow by 30% for 4s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -62955,7 +62955,7 @@
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
           "buff_chance": 0.5,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -63118,7 +63118,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -63198,7 +63198,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -63245,7 +63245,7 @@
             "Special Armor Break (8% for 8s, ID: 470)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -63286,7 +63286,7 @@
           ],
           "buff_chance": 1,
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -63334,7 +63334,7 @@
             "Increase DMG taken from Hunter META by 10% for 10s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -63632,7 +63632,7 @@
             "Arizona Jamming Field - Suppossed to increase DMG taken by 20% and slow by 80% - Seems broken"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -63771,7 +63771,7 @@
             "Increase targeting likelyhood of META/Royal BB/BCs"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -63811,7 +63811,7 @@
             "Increase targeting likelyhood of META/Royal BB/BCs"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -63855,7 +63855,7 @@
             5
           ],
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -63902,7 +63902,7 @@
             "Freeze for 0.5s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Nearest",
           "centered": false
         }
       ]
@@ -64175,7 +64175,7 @@
           ],
           "buff_chance": 1,
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -64479,7 +64479,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -64523,7 +64523,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -64813,7 +64813,7 @@
             "Increase DMG taken by 15% for 8s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -65349,7 +65349,7 @@
             5
           ],
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -65885,7 +65885,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -66267,7 +66267,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -66390,7 +66390,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -66471,7 +66471,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -66552,7 +66552,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -66595,7 +66595,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -66672,7 +66672,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -66898,7 +66898,7 @@
             "Attach Coiling Flames status to enemy"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -67072,7 +67072,7 @@
             "Decrease HIT by 15% for 8s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -67446,7 +67446,7 @@
           "buffs": [
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -67807,7 +67807,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -68016,7 +68016,7 @@
             "Increase DMG taken from Javelin by 10% until end of battle (does not stack)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -68061,7 +68061,7 @@
             "Increase DMG taken from Javelin by 10% until end of battle (does not stack)"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -68104,7 +68104,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -68478,7 +68478,7 @@
             0
           ],
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -68515,7 +68515,7 @@
             0
           ],
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -68729,7 +68729,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -68981,7 +68981,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -69024,7 +69024,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -69280,7 +69280,7 @@
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
           "buff_chance": 0.1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -69403,7 +69403,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -69451,7 +69451,7 @@
           "buffs": [
             "Standard Armor Break (8% for 6s, ID: 401) if target is Heavy Armor"
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -69629,7 +69629,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -69832,7 +69832,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -70044,7 +70044,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -70248,7 +70248,7 @@
             "Attach \"Slowed by Northern Parliament\" tag for 10s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -70830,7 +70830,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -70945,7 +70945,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -71284,7 +71284,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -71327,7 +71327,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -71363,7 +71363,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -72021,7 +72021,7 @@
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
           "buff_chance": 0.08,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         },
         {
@@ -72178,7 +72178,7 @@
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
           "buff_chance": 0.08,
-          "targeting": null,
+          "targeting": "Nearest",
           "centered": false
         }
       ]
@@ -72225,7 +72225,7 @@
             "Standard Burn (DMG equal to 5 + WepDMG * WepCoeff * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
           "buff_chance": 0.08,
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -72311,7 +72311,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -72512,7 +72512,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -73037,7 +73037,7 @@
             10
           ],
           "airdrop": true,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -73189,7 +73189,7 @@
             "Standard Armor Break (8% for 6s, ID: 401) if target hit is Heavy Armor"
           ],
           "buff_chance": 0.25,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -73277,7 +73277,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         }
       ]
@@ -73722,7 +73722,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -74081,7 +74081,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
@@ -74118,7 +74118,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         },
         {
@@ -74155,7 +74155,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         },
         {
@@ -74192,7 +74192,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         },
         {
@@ -74229,7 +74229,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Random",
           "centered": false
         }
       ]
@@ -74310,7 +74310,7 @@
             16,
             16
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false
         },
         {
