@@ -7848,6 +7848,9 @@
         "blueprint": false,
         "icon": "ships/compact/shuixingjinian_3",
         "name": "Chic and Cheeky",
+        "limit": 1,
+        "cost": 880,
+        "limit_type": 1,
         "ship_id": 434
       },
       {
@@ -8128,7 +8131,12 @@
         "amount": 1,
         "blueprint": false,
         "icon": "equips/96312",
-        "name": "Coin Shell"
+        "name": "Coin Shell",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
       },
       {
         "id": 2019,
@@ -8138,7 +8146,12 @@
         "amount": 1,
         "blueprint": false,
         "icon": "equips/96331",
-        "name": "Fantastic Phoenix(Torpedo)"
+        "name": "Fantastic Phoenix(Torpedo)",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
       },
       {
         "id": 2020,
@@ -8148,7 +8161,12 @@
         "amount": 1,
         "blueprint": false,
         "icon": "equips/96331",
-        "name": "Fantastic Phoenix(Fighter)"
+        "name": "Fantastic Phoenix(Fighter)",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
       },
       {
         "id": 2021,
@@ -8158,7 +8176,12 @@
         "amount": 1,
         "blueprint": false,
         "icon": "equips/96331",
-        "name": "Fantastic Phoenix(Bomber)"
+        "name": "Fantastic Phoenix(Bomber)",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
       },
       {
         "id": 2024,
@@ -8168,7 +8191,12 @@
         "amount": 1,
         "blueprint": false,
         "icon": "equips/96321",
-        "name": "Lovely Heart Torpedo"
+        "name": "Lovely Heart Torpedo",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
       },
       {
         "id": 2022,
@@ -8178,7 +8206,12 @@
         "amount": 1,
         "blueprint": false,
         "icon": "equips/96311",
-        "name": "Balloon Shell"
+        "name": "Balloon Shell",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
       }
     ],
     "currency": {
