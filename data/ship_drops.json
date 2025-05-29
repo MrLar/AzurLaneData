@@ -18050,6 +18050,22 @@
       "Drawing the Starry Skies"
     ]
   },
+  "697": {
+    "id": 697,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available as task reward during Little Ruler of the Abyssal Kingdom"
+    ],
+    "events": [
+      "Little Ruler of the Abyssal Kingdom"
+    ]
+  },
   "10001": {
     "id": 10001,
     "timer": null,
@@ -19926,7 +19942,8 @@
     "limited": null,
     "special": false,
     "other": [
-      11
+      11,
+      12
     ],
     "maps": [],
     "notes": [
@@ -20431,6 +20448,22 @@
     "maps": [],
     "notes": [
       "Available as a Reward from Cruise Pass Season 22"
+    ],
+    "events": []
+  },
+  "30047": {
+    "id": 30047,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [
+      11
+    ],
+    "maps": [],
+    "notes": [
+      "Available as a Reward from Cruise Pass Season 23"
     ],
     "events": []
   },

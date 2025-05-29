@@ -355,7 +355,8 @@
       "name": "Ultra Rainbow Hammer!",
       "parts": [
         {
-          "damage": 400,
+          "damage": 0,
+          "fix_damage": 1,
           "coefficient": 1,
           "count": 1,
           "stat": "fp",
@@ -394,7 +395,8 @@
           "centered": false
         },
         {
-          "damage": 400,
+          "damage": 0,
+          "fix_damage": 1,
           "coefficient": 1,
           "count": 1,
           "stat": "fp",
@@ -60343,6 +60345,140 @@
       ]
     }
   ],
+  "151150": [
+    {
+      "name": "To My Abyssal Kingdom!",
+      "parts": [
+        {
+          "damage": 75,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            70
+          ],
+          "aim_type": 0,
+          "angle": 160,
+          "splash": 0,
+          "velocity": 10,
+          "pierce": 99,
+          "shell_range": [
+            50,
+            70
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Standard Armor Break (8% for 6s, ID: 401)"
+          ],
+          "buff_chance": 1,
+          "targeting": null,
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "151160": [
+    {
+      "name": "Sweet-Toothed Awful Jawful",
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.75,
+            1.1,
+            0.75
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            95
+          ],
+          "aim_type": 1,
+          "angle": 60,
+          "splash": 14,
+          "velocity": 14,
+          "pierce": 99,
+          "shell_range": [
+            95,
+            125
+          ],
+          "spread": [
+            8,
+            8
+          ],
+          "buffs": [
+            "Slow by 15% for 5s"
+          ],
+          "buff_chance": 1,
+          "targeting": "Priority",
+          "centered": false
+        },
+        {
+          "damage": 22,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.75,
+            1.1,
+            0.75
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 13,
+          "pierce": 0,
+          "shell_range": [
+            50,
+            70
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Slow by 15% for 5s"
+          ],
+          "buff_chance": 1,
+          "targeting": null,
+          "centered": false
+        }
+      ]
+    }
+  ],
   "151170": [
     {
       "name": "The Flawless Hunt",
@@ -67447,6 +67583,180 @@
             "Standard Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
           ],
           "targeting": "Priority",
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "801710": [
+    {
+      "name": "Uncompromising Duty (up to 2 times)",
+      "parts": [
+        {
+          "damage": 80,
+          "coefficient": 1.25,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.6
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 13,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false
+        }
+      ]
+    },
+    {
+      "name": "Uncompromising Duty (every 10s)",
+      "parts": [
+        {
+          "damage": 60,
+          "coefficient": 1.25,
+          "count": 12,
+          "stat": "fp",
+          "ratio": 1.25,
+          "armor_mod": [
+            1,
+            0.8,
+            0.6
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 13,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "801720": [
+    {
+      "name": "Gunfire Blitz (1 Bullet)",
+      "parts": [
+        {
+          "damage": 0,
+          "fix_damage": 50,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 0,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [
+            "This bullet will always deal 50 damage."
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "801742": [
+    {
+      "name": "Cinders of Hope - Grenville II",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 20,
+          "stat": "fp",
+          "ratio": 0,
+          "armor_mod": [
+            1,
+            0.8,
+            0.6
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            70,
+            90
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
           "centered": false
         }
       ]

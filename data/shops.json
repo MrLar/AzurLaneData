@@ -7176,6 +7176,32 @@
         "limit_type": 1
       },
       {
+        "id": 21015,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/21015",
+        "name": "META Crystal - Hunter",
+        "limit": 4,
+        "cost": 80,
+        "limit_type": 1
+      },
+      {
+        "id": 30015,
+        "type": 2,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 4,
+        "icon": "ships/compact/lieren_alter",
+        "name": "Hunter META",
+        "limit": 1,
+        "cost": 60,
+        "limit_type": 1
+      },
+      {
         "id": 30005,
         "type": 2,
         "amount": 1,
@@ -7327,6 +7353,19 @@
         "blueprint": false,
         "icon": "props/21044",
         "name": "META Crystal - Andrea Doria META",
+        "limit": 4,
+        "cost": 30,
+        "limit_type": 1
+      },
+      {
+        "id": 21048,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/21048",
+        "name": "META Crystal - Glorious META",
         "limit": 4,
         "cost": 30,
         "limit_type": 1
@@ -7801,6 +7840,17 @@
         "ship_id": 20009
       },
       {
+        "id": 702023,
+        "type": 3,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "ships/compact/shuixingjinian_3",
+        "name": "Chic and Cheeky",
+        "ship_id": 434
+      },
+      {
         "id": 2001,
         "type": 4,
         "linkable": true,
@@ -8069,6 +8119,66 @@
         "limit_group": 1,
         "group_limit": 4,
         "limit_type": 1
+      },
+      {
+        "id": 2023,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96312",
+        "name": "Coin Shell"
+      },
+      {
+        "id": 2019,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96331",
+        "name": "Fantastic Phoenix(Torpedo)"
+      },
+      {
+        "id": 2020,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96331",
+        "name": "Fantastic Phoenix(Fighter)"
+      },
+      {
+        "id": 2021,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96331",
+        "name": "Fantastic Phoenix(Bomber)"
+      },
+      {
+        "id": 2024,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96321",
+        "name": "Lovely Heart Torpedo"
+      },
+      {
+        "id": 2022,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96311",
+        "name": "Balloon Shell"
       }
     ],
     "currency": {

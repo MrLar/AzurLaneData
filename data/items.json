@@ -3538,7 +3538,8 @@
     "icon": "props/21015",
     "rarity": 5,
     "locations": [
-      "Cruise Pass Season 7"
+      "Cruise Pass Season 7",
+      "META Shop"
     ],
     "servers": [
       "EN",
@@ -4072,6 +4073,23 @@
     "rarity": 5,
     "locations": [
       "Cruise Pass Season 21"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "21047": {
+    "id": 21047,
+    "name": "META Crystal - Grenville META",
+    "description": "An item that increases the potential of Grenville META. Used in the META Lab during Somatic Activation.",
+    "type": 4,
+    "icon": "props/21047",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 23"
     ],
     "servers": [
       "EN",
@@ -20007,6 +20025,64 @@
         "blueprint": false,
         "icon": "equips/96820",
         "name": "Demon Wings"
+      }
+    ]
+  },
+  "30428": {
+    "id": 30428,
+    "name": "Random Gear Skin Box (Cruise Series 23)",
+    "description": "Contains 1 random Cruise Mission gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxshijiexunyou",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 23"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 2097,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96821",
+        "name": "Convergence Shell"
+      },
+      {
+        "id": 2098,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96822",
+        "name": "Paradox Torpedo"
+      },
+      {
+        "id": 2099,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96823",
+        "name": "Spiral Sundial Shell"
+      },
+      {
+        "id": 2100,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96824",
+        "name": "Ring of Antinomy"
       }
     ]
   },
@@ -45535,6 +45611,34 @@
         "rarity": 4,
         "icon": "uipreview/106",
         "name": "Deal with the Devil"
+      }
+    ]
+  },
+  "9999999107": {
+    "id": 9999999107,
+    "name": "Radiant Stars UI",
+    "description": "The Radiant Stars themed Battle UI",
+    "type": 97,
+    "icon": "props/ui_107",
+    "rarity": 4,
+    "locations": [
+      "Cruise Pass Season 23 (Paid Only)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 107,
+        "type": 99,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": false,
+        "rarity": 4,
+        "icon": "uipreview/107",
+        "name": "Radiant Stars"
       }
     ]
   },

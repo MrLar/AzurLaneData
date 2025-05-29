@@ -17,6 +17,7 @@ interface Barrage {
 
 interface BarragePart {
     damage: number
+    fix_damage?: number
     coefficient: number
     count: number
     armor_mod: number[]
