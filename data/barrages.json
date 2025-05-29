@@ -67713,7 +67713,12 @@
             0
           ],
           "targeting": null,
-          "centered": false
+          "centered": false,
+          "buffs": [
+            "Increase shelling damage taken by 1.0% (stacks up to 12 times).",
+            "Decrease damage dealt by 1.0% (stacks up to 12 times)."
+          ],
+          "buff_chance": 1
         }
       ]
     }
