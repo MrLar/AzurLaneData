@@ -106,6 +106,7 @@ export interface Armament extends ExtendedWeapon, ReloadableWeapon {
     coefficient?: number[]
     aircraft: false
     airdrop?: boolean
+    skip_bomb?: boolean
 }
 
 export interface EquipDropData {
