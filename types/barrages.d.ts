@@ -60,7 +60,7 @@ interface BarrageBullet extends BarrageEntry {
 interface BarrageSlash extends BarrageEntry {
     is_slash: true
     level_of: string
-    clears: BulletType
+    clears: BulletType[]
     velocity: number
     movement_type: 0 | 1 // stationary | travels
     life_time: number
