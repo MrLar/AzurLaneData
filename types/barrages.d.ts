@@ -15,11 +15,21 @@ interface Barrage {
     is_aoa?: boolean
 }
 
-interface BarragePart {
+type BarragePart = BarrageBullet | BarrageSlash
+
+interface BarrageEntry {
+    is_slash?: boolean
     damage: number
+    count: number
+    buffs?: string[]
+    buff_chance?: number
+}
+
+interface BarrageBullet extends BarrageEntry {
+    is_slash?: false
     fix_damage?: number
     coefficient: number
-    count: number
+    range: number[]
     armor_mod: number[]
     ammo: AmmoType
     is_critical: boolean
@@ -35,10 +45,7 @@ interface BarragePart {
     stat: WeaponStat | 'fleetpower'
     stat_cap?: number
     ratio: number
-    range: number[]
     angle: number
-    buffs?: string[]
-    buff_chance?: number
     notes: string[]
     is_air?: boolean
     airdrop?: boolean
@@ -48,4 +55,15 @@ interface BarragePart {
     },
     targeting: string | null
     centered: boolean
+}
+
+interface BarrageSlash extends BarrageEntry {
+    is_slash: true
+    level_of: string
+    clears: BulletType
+    velocity: number
+    movement_type: 0 | 1 // stationary | travels
+    life_time: number
+    range: number
+    fix_damage: number
 }

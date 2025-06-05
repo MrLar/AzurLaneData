@@ -23881,6 +23881,26 @@
           "centered": false
         }
       ]
+    },
+    {
+      "name": "It's Cleaning Time! (Slash)",
+      "parts": [
+        {
+          "is_slash": true,
+          "damage": 0,
+          "fix_damage": 300,
+          "level_of": "Nubian",
+          "count": 1,
+          "clears": [
+            1,
+            3
+          ],
+          "range": 45,
+          "velocity": 0,
+          "movement_type": 0,
+          "life_time": 0.4
+        }
+      ]
     }
   ],
   "17760": [
@@ -52238,6 +52258,26 @@
           "centered": false
         }
       ]
+    },
+    {
+      "name": "Fierce Sky Phoenix Flash (Slash)",
+      "parts": [
+        {
+          "is_slash": true,
+          "damage": 0,
+          "fix_damage": 300,
+          "level_of": "Ikaruga",
+          "count": 2,
+          "clears": [
+            1,
+            3
+          ],
+          "range": 45,
+          "velocity": 0,
+          "movement_type": 0,
+          "life_time": 0.2
+        }
+      ]
     }
   ],
   "110050": [
@@ -52358,6 +52398,26 @@
           ],
           "targeting": null,
           "centered": false
+        }
+      ]
+    },
+    {
+      "name": "Fierce Sky Phoenix Flash+ (Slash)",
+      "parts": [
+        {
+          "is_slash": true,
+          "damage": 0,
+          "fix_damage": 300,
+          "level_of": "Ikaruga",
+          "count": 2,
+          "clears": [
+            1,
+            3
+          ],
+          "range": 45,
+          "velocity": 0,
+          "movement_type": 0,
+          "life_time": 0.2
         }
       ]
     }
@@ -52988,6 +53048,28 @@
       ]
     }
   ],
+  "110190": [
+    {
+      "name": "Soul of Tohno (Slash)",
+      "parts": [
+        {
+          "is_slash": true,
+          "damage": 0,
+          "fix_damage": 300,
+          "level_of": "Yūyaki",
+          "count": 1,
+          "clears": [
+            1,
+            3
+          ],
+          "range": 25,
+          "velocity": 3,
+          "movement_type": 1,
+          "life_time": 0.5
+        }
+      ]
+    }
+  ],
   "110200": [
     {
       "name": "Enka Tuypa",
@@ -53027,6 +53109,58 @@
           ],
           "targeting": null,
           "centered": false
+        }
+      ]
+    }
+  ],
+  "110210": [
+    {
+      "name": "Soul of Tohno+ (Slash)",
+      "parts": [
+        {
+          "is_slash": true,
+          "damage": 0,
+          "fix_damage": 300,
+          "level_of": "Yūyaki",
+          "count": 2,
+          "clears": [
+            1,
+            3
+          ],
+          "range": 25,
+          "velocity": 0,
+          "movement_type": 0,
+          "life_time": 0.3
+        },
+        {
+          "is_slash": true,
+          "damage": 0,
+          "fix_damage": 300,
+          "level_of": "Yūyaki",
+          "count": 2,
+          "clears": [
+            1,
+            3
+          ],
+          "range": 35,
+          "velocity": 0,
+          "movement_type": 0,
+          "life_time": 0.3
+        },
+        {
+          "is_slash": true,
+          "damage": 0,
+          "fix_damage": 300,
+          "level_of": "Yūyaki",
+          "count": 2,
+          "clears": [
+            1,
+            3
+          ],
+          "range": 25,
+          "velocity": 0,
+          "movement_type": 1,
+          "life_time": 0.3
         }
       ]
     }
@@ -54983,6 +55117,473 @@
       ]
     }
   ],
+  "112010": [
+    {
+      "name": "Transcend Worlds - Limit Released",
+      "parts": [
+        {
+          "damage": 180,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.9,
+            1.3,
+            1.1
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 50,
+          "splash": 15,
+          "velocity": 17,
+          "pierce": 0,
+          "shell_range": [
+            105,
+            135
+          ],
+          "spread": [
+            16,
+            16
+          ],
+          "targeting": "Priority",
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "112020": [
+    {
+      "name": "Transcend Worlds - Limit Released",
+      "parts": [
+        {
+          "damage": 180,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.9,
+            1.3,
+            1.1
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 50,
+          "splash": 15,
+          "velocity": 17,
+          "pierce": 0,
+          "shell_range": [
+            105,
+            135
+          ],
+          "spread": [
+            16,
+            16
+          ],
+          "targeting": "Priority",
+          "centered": false
+        }
+      ]
+    },
+    {
+      "name": "Transcend Worlds - Limit Released+ (Beam)",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 12,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            80,
+            120
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "112050": [
+    {
+      "name": "Death's Domain - Imprisoning Chains",
+      "parts": [
+        {
+          "damage": 300,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.1,
+            1.3
+          ],
+          "is_air": true,
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            75
+          ],
+          "aim_type": 0,
+          "angle": 24,
+          "splash": 3,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            80,
+            120
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Slow by 10% for 10s"
+          ],
+          "buff_chance": 1,
+          "targeting": null,
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "112060": [
+    {
+      "name": "Trial of Death",
+      "parts": [
+        {
+          "damage": 240,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0,
+            0,
+            0
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            100,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Increase damage taken from DEAD MASTER by 8.0%"
+          ],
+          "buff_chance": 1,
+          "targeting": "Priority",
+          "centered": false
+        },
+        {
+          "damage": 240,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.5,
+            1.5,
+            1.5
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 30,
+          "velocity": 2,
+          "pierce": 0,
+          "shell_range": [
+            1,
+            1
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false
+        },
+        {
+          "damage": 240,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.5,
+            1.5,
+            1.5
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 99,
+          "shell_range": [
+            100,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Increase damage taken from DEAD MASTER by 8.0%"
+          ],
+          "buff_chance": 1,
+          "targeting": null,
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "112070": [
+    {
+      "name": "Trial of Death",
+      "parts": [
+        {
+          "damage": 240,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0,
+            0,
+            0
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            100,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Increase damage taken from DEAD MASTER by 8.0%"
+          ],
+          "buff_chance": 1,
+          "targeting": "Priority",
+          "centered": false
+        },
+        {
+          "damage": 240,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.5,
+            1.5,
+            1.5
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 30,
+          "velocity": 2,
+          "pierce": 0,
+          "shell_range": [
+            1,
+            1
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false
+        },
+        {
+          "damage": 240,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.5,
+            1.5,
+            1.5
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 99,
+          "shell_range": [
+            100,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "buffs": [
+            "Increase damage taken from DEAD MASTER by 8.0%"
+          ],
+          "buff_chance": 1,
+          "centered": false
+        }
+      ]
+    },
+    {
+      "name": "Trial of Death+ (every 20s)",
+      "parts": [
+        {
+          "damage": 200,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_air": true,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 1,
+          "angle": 25,
+          "splash": 3,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            80,
+            120
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Slow by 10% for 10s"
+          ],
+          "buff_chance": 1,
+          "targeting": "Priority",
+          "centered": false
+        }
+      ]
+    }
+  ],
   "150000": [
     {
       "name": "Sword of Final Judgment",
@@ -55143,6 +55744,26 @@
           "buff_chance": 1,
           "targeting": null,
           "centered": false
+        }
+      ]
+    },
+    {
+      "name": "Sword of Final Judgment (Slash)",
+      "parts": [
+        {
+          "is_slash": true,
+          "damage": 0,
+          "fix_damage": 1000,
+          "level_of": "Brennus",
+          "count": 1,
+          "clears": [
+            1,
+            3
+          ],
+          "range": 45,
+          "velocity": 0,
+          "movement_type": 0,
+          "life_time": 0.5
         }
       ]
     }
@@ -57729,6 +58350,28 @@
           ],
           "targeting": null,
           "centered": false
+        }
+      ]
+    }
+  ],
+  "150690": [
+    {
+      "name": "Soaring Heart (Slash)",
+      "parts": [
+        {
+          "is_slash": true,
+          "damage": 0,
+          "fix_damage": 520,
+          "level_of": "Z52",
+          "count": 1,
+          "clears": [
+            1,
+            3
+          ],
+          "range": 45,
+          "velocity": 0,
+          "movement_type": 0,
+          "life_time": 0.2
         }
       ]
     }
@@ -63561,6 +64204,26 @@
           "centered": false
         }
       ]
+    },
+    {
+      "name": "Eyes of Fate (Slash)",
+      "parts": [
+        {
+          "is_slash": true,
+          "damage": 0,
+          "fix_damage": 300,
+          "level_of": "Fortune META",
+          "count": 2,
+          "clears": [
+            1,
+            3
+          ],
+          "range": 45,
+          "velocity": 0,
+          "movement_type": 0,
+          "life_time": 0.2
+        }
+      ]
     }
   ],
   "800620": [
@@ -63602,6 +64265,26 @@
           ],
           "targeting": null,
           "centered": false
+        }
+      ]
+    },
+    {
+      "name": "Fortune and Causality (Slash)",
+      "parts": [
+        {
+          "is_slash": true,
+          "damage": 0,
+          "fix_damage": 300,
+          "level_of": "Fortune META",
+          "count": 2,
+          "clears": [
+            1,
+            3
+          ],
+          "range": 45,
+          "velocity": 0,
+          "movement_type": 0,
+          "life_time": 0.2
         }
       ]
     }
@@ -63646,6 +64329,26 @@
           ],
           "targeting": null,
           "centered": false
+        }
+      ]
+    },
+    {
+      "name": "Fortune and Causality (Slash)",
+      "parts": [
+        {
+          "is_slash": true,
+          "damage": 0,
+          "fix_damage": 300,
+          "level_of": "Fortune META",
+          "count": 2,
+          "clears": [
+            1,
+            3
+          ],
+          "range": 45,
+          "velocity": 0,
+          "movement_type": 0,
+          "life_time": 0.2
         }
       ]
     }
@@ -67085,6 +67788,30 @@
           "centered": false
         }
       ]
+    },
+    {
+      "name": "Flame and Fulminance (Slash)",
+      "parts": [
+        {
+          "is_slash": true,
+          "damage": 0,
+          "fix_damage": 600,
+          "level_of": "Bolzano META",
+          "count": 2,
+          "clears": [
+            1,
+            3
+          ],
+          "range": 45,
+          "velocity": 0,
+          "movement_type": 0,
+          "life_time": 0.2,
+          "buffs": [
+            "Standard Armor Break (8% for 6s, ID: 401)"
+          ],
+          "buff_chance": 1
+        }
+      ]
     }
   ],
   "801592": [
@@ -67923,6 +68650,359 @@
           ],
           "targeting": null,
           "centered": false
+        }
+      ]
+    }
+  ],
+  "801800": [
+    {
+      "name": "Nitouryuu - Sunset Glow",
+      "parts": [
+        {
+          "damage": 115,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1.15,
+            1.15,
+            1.15
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 1,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Special Burn (100 DMG with 1 tick every second for 5s, ID: 801805)",
+            "Slow by 30% for 5s"
+          ],
+          "buff_chance": 1,
+          "targeting": "Random",
+          "centered": false
+        }
+      ]
+    },
+    {
+      "name": "Nitouryuu - Sunset Glow (Followup on hit)",
+      "parts": [
+        {
+          "damage": 55,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1.15,
+            1.15,
+            1.15
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 1,
+          "angle": 180,
+          "splash": 0,
+          "velocity": 4,
+          "pierce": 1,
+          "shell_range": [
+            100,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Special Burn (100 DMG with 1 tick every second for 5s, ID: 801805)",
+            "Slow by 30% for 5s"
+          ],
+          "buff_chance": 1,
+          "targeting": null,
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "801810": [
+    {
+      "name": "Followed by Bloody Shadows (summon)",
+      "parts": [
+        {
+          "damage": 0,
+          "coefficient": 0,
+          "count": 0,
+          "stat": "fp",
+          "ratio": 0,
+          "armor_mod": [
+            0,
+            0,
+            0
+          ],
+          "ammo": -1,
+          "is_critical": false,
+          "notes": [
+            "1000 HP",
+            "25 SPD",
+            "0 ASW",
+            "50% EVA",
+            "100% other stats",
+            "Light Armor"
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            0
+          ],
+          "aim_type": 0,
+          "angle": 0,
+          "splash": 0,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            0,
+            0
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false
+        },
+        {
+          "damage": 35,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1.15,
+            1.15,
+            1.15
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [
+            "2.00s reload"
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            100,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "801832": [
+    {
+      "name": "Smoldering Core - Kawakaze II",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 20,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.15,
+            1.15,
+            1.15
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            120,
+            120
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "901010": [
+    {
+      "name": "Slash - Spread (Level 1)",
+      "parts": [
+        {
+          "is_slash": true,
+          "damage": 2,
+          "fix_damage": 5,
+          "level_of": "Ships w/ Spread Slash",
+          "count": 1,
+          "clears": [
+            1
+          ],
+          "range": 24,
+          "velocity": 3,
+          "movement_type": 1,
+          "life_time": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Slash - Spread (Level 2)",
+      "parts": [
+        {
+          "is_slash": true,
+          "damage": 2,
+          "fix_damage": 5,
+          "level_of": "Ships w/ Spread Slash",
+          "count": 2,
+          "clears": [
+            1
+          ],
+          "range": 24,
+          "velocity": 3,
+          "movement_type": 1,
+          "life_time": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Slash - Spread (Level 3)",
+      "parts": [
+        {
+          "is_slash": true,
+          "damage": 2,
+          "fix_damage": 5,
+          "level_of": "Ships w/ Spread Slash",
+          "count": 2,
+          "clears": [
+            1
+          ],
+          "range": 24,
+          "velocity": 3,
+          "movement_type": 1,
+          "life_time": 0.6,
+          "buffs": [
+            "Standard Armor Break (8% for 6s, ID: 401)"
+          ],
+          "buff_chance": 1
+        }
+      ]
+    }
+  ],
+  "901020": [
+    {
+      "name": "Area - Spread (Level 1)",
+      "parts": [
+        {
+          "is_slash": true,
+          "damage": 6,
+          "fix_damage": 12,
+          "level_of": "Ships w/ Area Slash",
+          "count": 3,
+          "clears": [
+            3
+          ],
+          "range": 32,
+          "velocity": 0,
+          "movement_type": 0,
+          "life_time": 0.2
+        }
+      ]
+    },
+    {
+      "name": "Area - Spread (Level 2)",
+      "parts": [
+        {
+          "is_slash": true,
+          "damage": 6,
+          "fix_damage": 12,
+          "level_of": "Ships w/ Area Slash",
+          "count": 3,
+          "clears": [
+            3
+          ],
+          "range": 45,
+          "velocity": 0,
+          "movement_type": 0,
+          "life_time": 0.2
+        }
+      ]
+    },
+    {
+      "name": "Area - Spread (Level 2)",
+      "parts": [
+        {
+          "is_slash": true,
+          "damage": 14,
+          "fix_damage": 30,
+          "level_of": "Ships w/ Area Slash",
+          "count": 3,
+          "clears": [
+            1,
+            3
+          ],
+          "range": 45,
+          "velocity": 0,
+          "movement_type": 0,
+          "life_time": 0.2,
+          "buffs": [
+            "Slow by 20.0% for 5s"
+          ],
+          "buff_chance": 1
         }
       ]
     }
@@ -71854,6 +72934,28 @@
           ],
           "targeting": null,
           "centered": false
+        }
+      ]
+    }
+  ],
+  "1090020": [
+    {
+      "name": "Full Firepower - Karlsruhe (Slash)",
+      "parts": [
+        {
+          "is_slash": true,
+          "damage": 6,
+          "fix_damage": 300,
+          "level_of": "Karlsruhe",
+          "count": 3,
+          "clears": [
+            1,
+            3
+          ],
+          "range": 20,
+          "velocity": 3,
+          "movement_type": 1,
+          "life_time": 0.5
         }
       ]
     }

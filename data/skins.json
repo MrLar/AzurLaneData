@@ -3319,6 +3319,28 @@
     "dynamic_bg": true,
     "dual_form": false
   },
+  "103168": {
+    "id": 103168,
+    "name": "When the Breeze Blows",
+    "type": 1,
+    "category": 9998,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "baerdimo_h",
+    "bg": "530",
+    "obtain_type": 6,
+    "price": 0,
+    "currency": 0,
+    "is_permanent": true,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "103241": {
     "id": 103241,
     "name": "Scorching-Hot Training",
@@ -7177,6 +7199,28 @@
     "price": 880,
     "currency": 59005,
     "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "201358": {
+    "id": 201358,
+    "name": "Oath under the Morning Sun",
+    "type": 1,
+    "category": 9998,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "yanusi_h",
+    "bg": "530",
+    "obtain_type": 6,
+    "price": 0,
+    "currency": 0,
+    "is_permanent": true,
     "l2d": false,
     "dynamic": false,
     "custom_bgm": false,
@@ -11579,6 +11623,28 @@
     "dynamic": false,
     "custom_bgm": false,
     "dynamic_bg": true,
+    "dual_form": false
+  },
+  "299038": {
+    "id": 299038,
+    "name": "White Seaside Melody",
+    "type": 1,
+    "category": 9998,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "chaijun_h",
+    "bg": "530",
+    "obtain_type": 6,
+    "price": 0,
+    "currency": 0,
+    "is_permanent": true,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
     "dual_form": false
   },
   "299041": {
@@ -26445,6 +26511,24 @@
     "dynamic_bg": false,
     "dual_form": false
   },
+  "799022": {
+    "id": 799022,
+    "name": "A Fresh, Green Day",
+    "type": 0,
+    "category": 9,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "naximofu_3",
+    "bg": "307",
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "801021": {
     "id": 801021,
     "name": "Fleur Blanche",
@@ -29978,6 +30062,50 @@
     "l2d": false,
     "dynamic": false,
     "custom_bgm": true,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "11200011": {
+    "id": 11200011,
+    "name": "Goddess in Black",
+    "type": 0,
+    "category": 6,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "heiyansheshou_2",
+    "bg": "106",
+    "obtain_type": 0,
+    "price": 980,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "11200021": {
+    "id": 11200021,
+    "name": "Warrior's Respite",
+    "type": 0,
+    "category": 6,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "siwangzhuzai_2",
+    "bg": null,
+    "obtain_type": 0,
+    "price": 900,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": false,
     "dynamic_bg": false,
     "dual_form": false
   }

@@ -10527,6 +10527,138 @@
       "CN"
     ]
   },
+  "14240": {
+    "id": 14240,
+    "icon": "14240",
+    "name": "Rock Cannon",
+    "limit_group": 10121,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      112040
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 112010,
+        "with": 112020
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "BLACK★ROCK SHOOTER's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      {
+        "stat": "hit",
+        "values": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "14260": {
+    "id": 14260,
+    "icon": "14260",
+    "name": "Dead Scythe",
+    "limit_group": 10122,
+    "type": 7,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      112080
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 112060,
+        "with": 112070
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "DEAD MASTER's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40
+        ]
+      },
+      {
+        "stat": "hit",
+        "values": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "1010100": {
     "id": 1010100,
     "icon": "1010100",

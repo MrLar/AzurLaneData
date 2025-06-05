@@ -4072,6 +4072,29 @@
     ],
     "events": [
       "Fallen Wings"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B1",
+            "type": 0
+          },
+          {
+            "map": "D1",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          },
+          {
+            "map": "D3",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "63": {
@@ -4091,6 +4114,22 @@
     ],
     "events": [
       "Fallen Wings"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "64": {
@@ -5222,6 +5261,33 @@
     ],
     "events": [
       "Fallen Wings"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "A3",
+            "type": 0
+          },
+          {
+            "map": "B2",
+            "type": 0
+          },
+          {
+            "map": "C3",
+            "type": 0
+          },
+          {
+            "map": "D1",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "80": {
@@ -5348,9 +5414,23 @@
     "other": [],
     "maps": [],
     "notes": [
-      "Available as map clear reward during Glorious Battle"
+      "Available as map clear reward during Glorious Battle",
+      "Available as map drop (SP2) during Glorious Battle"
     ],
-    "events": []
+    "events": [
+      "Glorious Battle"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "SP2",
+            "type": 0
+          }
+        ]
+      }
+    ]
   },
   "83": {
     "id": 83,
@@ -6667,9 +6747,26 @@
       4
     ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available as map drop (SP2, SP3) during Strive, Wish and Strategize"
+    ],
     "events": [
       "Strive, Wish and Strategize"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "SP2",
+            "type": 0
+          },
+          {
+            "map": "SP3",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "104": {
@@ -7933,6 +8030,22 @@
     ],
     "events": [
       "Scherzo of Iron and Blood"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "135": {
@@ -7947,9 +8060,22 @@
       1
     ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available as map drop (SP3) during Strive, Wish and Strategize"
+    ],
     "events": [
       "Strive, Wish and Strategize"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "SP3",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "136": {
@@ -7968,6 +8094,22 @@
     ],
     "events": [
       "Winter's Crown Rerun"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "137": {
@@ -8389,10 +8531,23 @@
     ],
     "maps": [],
     "notes": [
-      "Used to be in Special Construction"
+      "Used to be in Special Construction",
+      "Available as map clear reward during Glorious Battle",
+      "Available as map drop (SP3) during Glorious Battle"
     ],
     "events": [
       "Glorious Battle"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "SP3",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "149": {
@@ -8560,6 +8715,37 @@
     ],
     "events": [
       "Visitors Dyed in Red"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "A3",
+            "type": 0
+          },
+          {
+            "map": "B3",
+            "type": 0
+          },
+          {
+            "map": "C3",
+            "type": 0
+          },
+          {
+            "map": "D1",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          },
+          {
+            "map": "D3",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "160": {
@@ -9405,6 +9591,22 @@
     ],
     "events": [
       "Upon the Shimmering Blue"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "196": {
@@ -9658,6 +9860,25 @@
     ],
     "events": [
       "Ink-Stained Steel Sakura"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B1",
+            "type": 0
+          },
+          {
+            "map": "D1",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "205": {
@@ -9896,9 +10117,27 @@
     "special": false,
     "other": [],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available as Map drop (T6 boss node, HT6 boss node, SP boss node) and in the Event shop during Dreamwaker's Butterfly"
+    ],
     "events": [
       "Dreamwaker's Butterfly"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "T6",
+            "type": 1
+          },
+          {
+            "map": "HT6",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "215": {
@@ -10062,7 +10301,7 @@
     "light": false,
     "heavy": false,
     "limited": null,
-    "special": false,
+    "special": true,
     "other": [],
     "maps": [],
     "notes": [
@@ -10070,7 +10309,8 @@
     ],
     "events": [
       "Whence Flowers Bear No Fruit"
-    ]
+    ],
+    "non_permanent": true
   },
   "222": {
     "id": 222,
@@ -10346,6 +10586,22 @@
     ],
     "events": [
       "Visitors Dyed in Red"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "230": {
@@ -11088,6 +11344,25 @@
     "events": [
       "Opposite-Colored",
       "Divergent Chessboard"
+    ],
+    "wa_maps": [
+      {
+        "event": 1,
+        "maps": [
+          {
+            "map": "A4",
+            "type": 0
+          },
+          {
+            "map": "C4",
+            "type": 0
+          },
+          {
+            "map": "D1",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "243": {
@@ -11122,6 +11397,17 @@
     ],
     "events": [
       "Divergent Chessboard"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "D3",
+            "type": 1
+          }
+        ]
+      }
     ]
   },
   "245": {
@@ -11142,6 +11428,59 @@
       "Divergent Chessboard",
       "Aurora Noctis",
       "Dreamwaker's Butterfly"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B1",
+            "type": 0
+          },
+          {
+            "map": "B4",
+            "type": 0
+          },
+          {
+            "map": "C4",
+            "type": 0
+          },
+          {
+            "map": "D1",
+            "type": 0
+          },
+          {
+            "map": "D4",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "event": 1,
+        "maps": [
+          {
+            "map": "B2",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "event": 2,
+        "maps": [
+          {
+            "map": "T3",
+            "type": 0
+          },
+          {
+            "map": "TH3",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "246": {
@@ -11173,10 +11512,56 @@
     ],
     "maps": [],
     "notes": [
-      "Available as Map drop (B3, D2, D3, D4) and map clear reward during Divergent Chessboard"
+      "Available as Map drop (B3, D2, D3, D4) and map clear reward during Divergent Chessboard",
+      "Available as Map drop (B2, B3, D2, D3) and map clear reward during Scherzo of Iron and Blood"
     ],
     "events": [
-      "Divergent Chessboard"
+      "Divergent Chessboard",
+      "Scherzo of Iron and Blood"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          },
+          {
+            "map": "D3",
+            "type": 0
+          },
+          {
+            "map": "D4",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "event": 1,
+        "maps": [
+          {
+            "map": "B2",
+            "type": 0
+          },
+          {
+            "map": "B3",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          },
+          {
+            "map": "D3",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "249": {
@@ -11189,10 +11574,56 @@
     "other": [],
     "maps": [],
     "notes": [
-      "Available as Map drop (B2, D2, D3, D4) and in the Event shop during Divergent Chessboard"
+      "Available as Map drop (B2, D2, D3, D4) and in the Event shop during Divergent Chessboard",
+      "Available as Map drop (B2, B3, D2, D3) and map clear reward during Scherzo of Iron and Blood"
     ],
     "events": [
-      "Divergent Chessboard"
+      "Divergent Chessboard",
+      "Scherzo of Iron and Blood"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B2",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          },
+          {
+            "map": "D3",
+            "type": 0
+          },
+          {
+            "map": "D4",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "event": 1,
+        "maps": [
+          {
+            "map": "B2",
+            "type": 0
+          },
+          {
+            "map": "B3",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          },
+          {
+            "map": "D3",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "250": {
@@ -11426,6 +11857,69 @@
     ],
     "events": [
       "Divergent Chessboard"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "A3",
+            "type": 0
+          },
+          {
+            "map": "A4",
+            "type": 0
+          },
+          {
+            "map": "B1",
+            "type": 0
+          },
+          {
+            "map": "B2",
+            "type": 0
+          },
+          {
+            "map": "B3",
+            "type": 0
+          },
+          {
+            "map": "B4",
+            "type": 0
+          },
+          {
+            "map": "C1",
+            "type": 0
+          },
+          {
+            "map": "C2",
+            "type": 0
+          },
+          {
+            "map": "C3",
+            "type": 0
+          },
+          {
+            "map": "C4",
+            "type": 0
+          },
+          {
+            "map": "D1",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          },
+          {
+            "map": "D3",
+            "type": 0
+          },
+          {
+            "map": "D4",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "265": {
@@ -11442,6 +11936,73 @@
     ],
     "events": [
       "Divergent Chessboard"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "A2",
+            "type": 0
+          },
+          {
+            "map": "A3",
+            "type": 0
+          },
+          {
+            "map": "A4",
+            "type": 0
+          },
+          {
+            "map": "B1",
+            "type": 0
+          },
+          {
+            "map": "B2",
+            "type": 0
+          },
+          {
+            "map": "B3",
+            "type": 0
+          },
+          {
+            "map": "B4",
+            "type": 0
+          },
+          {
+            "map": "C1",
+            "type": 0
+          },
+          {
+            "map": "C2",
+            "type": 0
+          },
+          {
+            "map": "C3",
+            "type": 0
+          },
+          {
+            "map": "C4",
+            "type": 0
+          },
+          {
+            "map": "D1",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          },
+          {
+            "map": "D3",
+            "type": 0
+          },
+          {
+            "map": "D4",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "266": {
@@ -11458,6 +12019,73 @@
     ],
     "events": [
       "Divergent Chessboard"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "A2",
+            "type": 0
+          },
+          {
+            "map": "A3",
+            "type": 0
+          },
+          {
+            "map": "A4",
+            "type": 0
+          },
+          {
+            "map": "B1",
+            "type": 0
+          },
+          {
+            "map": "B2",
+            "type": 0
+          },
+          {
+            "map": "B3",
+            "type": 0
+          },
+          {
+            "map": "B4",
+            "type": 0
+          },
+          {
+            "map": "C1",
+            "type": 0
+          },
+          {
+            "map": "C2",
+            "type": 0
+          },
+          {
+            "map": "C3",
+            "type": 0
+          },
+          {
+            "map": "C4",
+            "type": 0
+          },
+          {
+            "map": "D1",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          },
+          {
+            "map": "D3",
+            "type": 0
+          },
+          {
+            "map": "D4",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "267": {
@@ -11478,6 +12106,22 @@
     ],
     "events": [
       "Divergent Chessboard"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B4",
+            "type": 1
+          },
+          {
+            "map": "D4",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "268": {
@@ -12301,10 +12945,27 @@
     ],
     "maps": [],
     "notes": [
-      "Used to be in Light Construction"
+      "Used to be in Light Construction",
+      "Available as Map drop (B3 boss node, D3 boss node) and in the Event shop during Swirling Cherry Blossoms"
     ],
     "events": [
       "Swirling Cherry Blossoms"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "324": {
@@ -12356,6 +13017,25 @@
     ],
     "events": [
       "Winter's Crown Rerun"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B2",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          },
+          {
+            "map": "D3",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "327": {
@@ -12374,6 +13054,25 @@
     ],
     "events": [
       "Winter's Crown Rerun"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "A3",
+            "type": 0
+          },
+          {
+            "map": "C3",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "328": {
@@ -12394,6 +13093,25 @@
     ],
     "events": [
       "Winter's Crown"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B1",
+            "type": 0
+          },
+          {
+            "map": "D1",
+            "type": 0
+          },
+          {
+            "map": "D3",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "329": {
@@ -12468,6 +13186,29 @@
     ],
     "events": [
       "Ink-Stained Steel Sakura"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "A4",
+            "type": 0
+          },
+          {
+            "map": "C4",
+            "type": 0
+          },
+          {
+            "map": "D1",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "333": {
@@ -12673,6 +13414,21 @@
     "events": [
       "Opposite-Colored",
       "Divergent Chessboard"
+    ],
+    "wa_maps": [
+      {
+        "event": 1,
+        "maps": [
+          {
+            "map": "B4",
+            "type": 0
+          },
+          {
+            "map": "D4",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "346": {
@@ -12692,6 +13448,17 @@
     ],
     "events": [
       "Counterattack Within the Fjord"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "SP2",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "347": {
@@ -12711,6 +13478,22 @@
     ],
     "events": [
       "Iris of Light and Dark"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "348": {
@@ -12773,6 +13556,33 @@
     ],
     "events": [
       "Iris of Light and Dark"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "A3",
+            "type": 0
+          },
+          {
+            "map": "B2",
+            "type": 0
+          },
+          {
+            "map": "C3",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          },
+          {
+            "map": "D3",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "352": {
@@ -13041,6 +13851,22 @@
     ],
     "events": [
       "Crimson Echoes"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "369": {
@@ -13052,9 +13878,34 @@
     "special": false,
     "other": [],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available as Map drop (A3 B2, C3, D2) during Crimson Echoes"
+    ],
     "events": [
       "Crimson Echoes"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "A3",
+            "type": 0
+          },
+          {
+            "map": "B2",
+            "type": 0
+          },
+          {
+            "map": "C3",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "370": {
@@ -13230,6 +14081,17 @@
     ],
     "events": [
       "Stars of the Shimmering Fjord"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "SP3",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "380": {
@@ -13389,9 +14251,42 @@
       3
     ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available as Map drop (B1, B2, B3, D1, D2, D3) and map clear reward during Scherzo of Iron and Blood"
+    ],
     "events": [
       "Scherzo of Iron and Blood"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B1",
+            "type": 0
+          },
+          {
+            "map": "B2",
+            "type": 0
+          },
+          {
+            "map": "B3",
+            "type": 0
+          },
+          {
+            "map": "D1",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          },
+          {
+            "map": "D3",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "390": {
@@ -13587,6 +14482,22 @@
     ],
     "events": [
       "Ashen Simulacrum"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "403": {
@@ -13658,6 +14569,37 @@
     ],
     "events": [
       "Ashen Simulacrum"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B1",
+            "type": 0
+          },
+          {
+            "map": "B2",
+            "type": 0
+          },
+          {
+            "map": "B3",
+            "type": 0
+          },
+          {
+            "map": "D1",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          },
+          {
+            "map": "D3",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "407": {
@@ -13718,6 +14660,22 @@
     ],
     "events": [
       "Empyreal Tragicomedy"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "411": {
@@ -13736,6 +14694,37 @@
     ],
     "events": [
       "Empyreal Tragicomedy"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B1",
+            "type": 0
+          },
+          {
+            "map": "B2",
+            "type": 0
+          },
+          {
+            "map": "B3",
+            "type": 0
+          },
+          {
+            "map": "D1",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          },
+          {
+            "map": "D3",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "412": {
@@ -14104,6 +15093,21 @@
     ],
     "events": [
       "Northern Overture"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "A3",
+            "type": 0
+          },
+          {
+            "map": "C3",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "433": {
@@ -14157,9 +15161,27 @@
     "special": false,
     "other": [],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available as Map drop (B3 boss node, D3 boss node, SP boss node) and in the Event shop during Norther Overture"
+    ],
     "events": [
       "Northern Overture"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "437": {
@@ -14245,9 +15267,27 @@
     "special": false,
     "other": [],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available as Map drop (B3 boss node, D3 boss node, SP boss node) and in the Event shop during Microlayer Medley"
+    ],
     "events": [
       "Microlayer Medley"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "444": {
@@ -14312,6 +15352,29 @@
     ],
     "events": [
       "Microlayer Medley"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B1",
+            "type": 0
+          },
+          {
+            "map": "D1",
+            "type": 0
+          },
+          {
+            "map": "B2",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "448": {
@@ -14415,9 +15478,27 @@
     "special": false,
     "other": [],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available as Map drop (B3 boss node, D3 boss node, SP boss node) and in the Event shop during Skybound Oratorio"
+    ],
     "events": [
       "Skybound Oratorio"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "455": {
@@ -14477,9 +15558,34 @@
       3
     ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available as Map drop (B1, B2, D1, D2) and in the Event shop during Skybound Oratorio"
+    ],
     "events": [
       "Skybound Oratorio"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B1",
+            "type": 0
+          },
+          {
+            "map": "B2",
+            "type": 0
+          },
+          {
+            "map": "D1",
+            "type": 0
+          },
+          {
+            "map": "D2",
+            "type": 0
+          }
+        ]
+      }
     ]
   },
   "459": {
@@ -14556,6 +15662,22 @@
     ],
     "events": [
       "Aurora Noctis"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "464": {
@@ -14904,6 +16026,22 @@
     ],
     "events": [
       "Inverted Orthant"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "485": {
@@ -15109,6 +16247,22 @@
     ],
     "events": [
       "Khorovod of Dawn's Rime"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "497": {
@@ -15185,6 +16339,22 @@
     ],
     "events": [
       "Daedalian Hymn"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "502": {
@@ -15341,6 +16511,22 @@
     ],
     "events": [
       "Mirror Involution"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "512": {
@@ -15564,9 +16750,27 @@
     "special": false,
     "other": [],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available as Map drop (B3 boss node, D3 boss node, SP boss node) and in the Event shop during Tower of Transendence"
+    ],
     "events": [
       "Tower of Transcendence"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "526": {
@@ -15729,6 +16933,22 @@
     ],
     "events": [
       "Abyssal Refrain"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "536": {
@@ -15816,9 +17036,27 @@
     "special": false,
     "other": [],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available as Map drop (B3 boss node, D3 boss node, SP boss node) and in the Event shop during Virtual Tower"
+    ],
     "events": [
       "Virtual Tower"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "542": {
@@ -15948,15 +17186,29 @@
     "heavy": false,
     "limited": "Pledge of the Radiant Court",
     "special": false,
-    "other": [
-      3
-    ],
+    "other": [],
     "maps": [],
     "notes": [
       "Available as Map drop (B3 boss node, D3 boss node, SP boss node) and in the Event shop during Pledge of the Radiant Court"
     ],
     "events": [
       "Pledge of the Radiant Court"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "551": {
@@ -15966,7 +17218,9 @@
     "heavy": false,
     "limited": null,
     "special": false,
-    "other": [],
+    "other": [
+      3
+    ],
     "maps": [],
     "notes": [
       "Available as point accumulation reward during Pledge of the Radiant Court"
@@ -17755,7 +19009,7 @@
   "674": {
     "id": 674,
     "timer": "01:30:00",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": null,
     "special": false,
@@ -17766,12 +19020,13 @@
     ],
     "events": [
       "Happy Lunar New Year 2025"
-    ]
+    ],
+    "non_permanent": true
   },
   "675": {
     "id": 675,
     "timer": "00:40:00",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": null,
     "special": false,
@@ -17782,12 +19037,13 @@
     ],
     "events": [
       "Happy Lunar New Year 2025"
-    ]
+    ],
+    "non_permanent": true
   },
   "676": {
     "id": 676,
     "timer": "00:33:00",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": null,
     "special": false,
@@ -17798,7 +19054,8 @@
     ],
     "events": [
       "Happy Lunar New Year 2025"
-    ]
+    ],
+    "non_permanent": true
   },
   "677": {
     "id": 677,
@@ -19104,6 +20361,38 @@
       "Dangerous Inventions Incoming!"
     ]
   },
+  "10121": {
+    "id": 10121,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available as trust mission reward during Illusory Drifters"
+    ],
+    "events": [
+      "Illusory Drifters"
+    ]
+  },
+  "10122": {
+    "id": 10122,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available as a task reward during Illusory Drifters"
+    ],
+    "events": [
+      "Illusory Drifters"
+    ]
+  },
   "20001": {
     "id": 20001,
     "timer": null,
@@ -20155,11 +21444,12 @@
     "limited": null,
     "special": false,
     "other": [
-      13
+      13,
+      14
     ],
     "maps": [],
     "notes": [
-      "Available in a past META Showdown"
+      "Available in a past META Showdown or Dossier Analysis"
     ],
     "events": []
   },
@@ -20431,7 +21721,7 @@
     ],
     "maps": [],
     "notes": [
-      "Available in META Showdown"
+      "Available in a past META Showdown"
     ],
     "events": []
   },
@@ -20478,6 +21768,24 @@
     "maps": [],
     "notes": [
       "Available as Map drop (B3 boss node, D3 boss node, SP boss node) and in the Event shop during A Rose on the High Tower"
+    ],
+    "events": [
+      "A Rose on the High Tower"
+    ]
+  },
+  "30049": {
+    "id": 30049,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [
+      13
+    ],
+    "maps": [],
+    "notes": [
+      "Available in META Showdown"
     ],
     "events": []
   }

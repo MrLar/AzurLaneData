@@ -65384,5 +65384,60 @@
     "time_limit": 300,
     "type": 6,
     "id": 1621
+  },
+  "meta_show_285_295285": {
+    "name": "Meta Showdown: Kawakaze META",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 295285,
+      "hull": 1,
+      "nation": 97,
+      "name": "Kawakaze META",
+      "stats": {
+        "hp": 1600000,
+        "fp": 235,
+        "trp": 365,
+        "avi": 0,
+        "aa": 305,
+        "hit": 110,
+        "eva": 75,
+        "spd": 30,
+        "luck": 50,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 126,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "jiangfeng_alter"
+    },
+    "buffs": [],
+    "buffs_display": [
+      [
+        {
+          "name": "Nitouryuu - Sunset Glow",
+          "description": "Kawakaze META periodically activates Nitouryuu - Sunset Glow, decreasing the SPD of her target for 0.5s while performing a special cross slash and firing a crescent moon-shaped barrage. Targets hit by the cross slash take fixed DMG equal to 5.0% of their max HP.\nTargets hit by the crescent moon barrage take torpedo DMG.。",
+          "color": 1
+        }
+      ],
+      [
+        {
+          "name": "Shadows of the Past",
+          "description": "Every 10 times that the cross slash of Nitouryuu - Sunset Glow hits and deals DMG, and every time Kawakaze META loses 20.0% of her max HP: summons a Bloody Shadow, increases Kawakaze META's FP and TRP, and increases the activation frequency of Nitouryuu - Sunset Glow.",
+          "color": 3
+        }
+      ]
+    ],
+    "expo_id": 296285,
+    "dungeon_id": 296285,
+    "time_limit": 80,
+    "type": 9,
+    "id": 1622
   }
 }

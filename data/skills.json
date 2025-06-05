@@ -47473,6 +47473,320 @@
     "icon": "augments/13760",
     "values": []
   },
+  "112010": {
+    "description": "Increases this ship's Main Gun efficiency by $1. When this ship finishes loading her Main Guns: $4 chance for this ship to enter the Limit Released state, increasing her FP, ACC, and RLD by $2 for 10s. When this ship fires her Main Guns: increases this ship's Main Gun Crit Rate by $2 for 5s and fires a $3 special barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Transcend Worlds - Limit Released",
+    "max": 10,
+    "id": 112010,
+    "type": 1,
+    "icon": 112010,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "40.0%",
+        "43.3%",
+        "46.6%",
+        "49.9%",
+        "53.2%",
+        "56.5%",
+        "59.8%",
+        "63.1%",
+        "66.4%",
+        "70.0%"
+      ]
+    ]
+  },
+  "112020": {
+    "description": "Increases this ship's Main Gun efficiency by $1. When this ship finishes loading her Main Guns: this ship enters the Limit Released state, increasing her FP, ACC, and RLD by $2 for 10s. When this ship fires her Main Guns: increases this ship's Main Gun Crit Rate by $1 for 5s and fires a $3 special barrage (DMG is based on the skill's level). Every even-numbered time this ship fires her Main Guns: additionally fires a $3 special barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Transcend Worlds - Limit Released+",
+    "max": 10,
+    "id": 112020,
+    "type": 1,
+    "icon": 112010,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "112030": {
+    "description": "When this ship is NOT in the Limit Released state: increases this ship's AA by $1 and decreases her DMG taken by $1. When this ship is in the Limit Released state: increases this ship's EVA and Evasion Rate by $1 and increases her DMG dealt and DMG taken by $2. Once per battle, when this ship's HP falls below $3 as a result of DMG taken: restores 15.0% of this ship's max HP and this ship enters the Limit Released state.",
+    "opsi_description": null,
+    "name": "Heart of Faith",
+    "max": 10,
+    "id": 112030,
+    "type": 2,
+    "icon": 112030,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "1.5%",
+        "1.8%",
+        "2.1%",
+        "2.5%",
+        "2.8%",
+        "3.1%",
+        "3.5%",
+        "3.9%",
+        "4.3%",
+        "5.0%"
+      ],
+      [
+        "20.0%",
+        "23.3%",
+        "26.6%",
+        "29.9%",
+        "33.2%",
+        "36.5%",
+        "39.8%",
+        "43.1%",
+        "46.4%",
+        "50.0%"
+      ]
+    ]
+  },
+  "112040": {
+    "description": "The first time this ship fires a Main Gun salvo in a battle: increases this ship's Main Gun Crit DMG by 15.0% until the battle ends.",
+    "opsi_description": null,
+    "name": "★Rock Fire",
+    "max": 1,
+    "id": 112040,
+    "type": 0,
+    "icon": "augments/14240",
+    "values": []
+  },
+  "112050": {
+    "description": "Increases this ship's AVI and ACC by $1. Every 20s: launches a $2 special airstrike (DMG is based on the skill's level) that decreases the SPD of enemies hit by 15.0% for 10s.",
+    "opsi_description": null,
+    "name": "Death's Domain - Imprisoning Chains",
+    "max": 10,
+    "id": 112050,
+    "type": 1,
+    "icon": 112050,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "112060": {
+    "description": "During battle, when this ship's HP is below 50.0%: increases this ship's AVI by $1. Every 10s: fires a $3 special barrage I (DMG is based on the skill's level); enemies hit by barrage I's scythe-shaped shells take $2 more DMG from this ship for 5s.",
+    "opsi_description": null,
+    "name": "Trial of Death",
+    "max": 10,
+    "id": 112060,
+    "type": 1,
+    "icon": 112060,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "112070": {
+    "description": "During battle, when this ship's HP is below 70.0%: increases this ship's AVI by $1. Every 10s: fires a $3 special barrage I (DMG is based on the skill's level); enemies hit by barrage I's scythe-shaped shells take $2 more DMG from this ship for 5s. Every 20s: fires a $3 special barrage II (DMG is based on the skill's level) that decreases the SPD of enemies hit by 15.0% for 10s. Once per battle, when this ship takes DMG that would sink her: this ship does not sink, and for $4s, she evades all attacks.",
+    "opsi_description": null,
+    "name": "Trial of Death+",
+    "max": 10,
+    "id": 112070,
+    "type": 1,
+    "icon": 112060,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "15"
+      ]
+    ]
+  },
+  "112080": {
+    "description": "The first time this ship launches an airstrike in a battle: increases this ship's RLD by 15.0% until the battle ends.",
+    "opsi_description": null,
+    "name": "Dead Reaping",
+    "max": 1,
+    "id": 112080,
+    "type": 0,
+    "icon": "augments/14260",
+    "values": []
+  },
   "150000": {
     "description": "When the battle starts, summons 6 Swords of Judgment around this ship that can negate up to 7 enemy shells each. Once per battle, when the HP of a ship in your fleet falls below 50.0% as a result of DMG taken: performs a $1 special slashing attack (DMG is based on the skill's level; if there is another Iris Libre or Vichya Dominion ship in your fleet when this attack activates: improves this attack).",
     "opsi_description": null,
@@ -58049,6 +58363,131 @@
     "id": 801782,
     "type": 3,
     "icon": 801780,
+    "values": []
+  },
+  "801800": {
+    "description": "Every 15s: fires a $1 special barrage I (DMG is based on the skill's level and this ship's TRP stat); once per barrage, if this barrage hits an enemy: fires a $1 special barrage II. This skill's barrages inflict a special Burn status on enemies hit for 5s, during which their SPD is decreased by 30.0% and they take 100 fixed DMG every second.",
+    "opsi_description": null,
+    "name": "Nitouryuu - Sunset Glow",
+    "max": 10,
+    "id": 801800,
+    "type": 1,
+    "icon": 801800,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "801810": {
+    "description": "When this ship fires her torpedoes: increases this ship's FP and TRP by $2 until the battle ends (can be stacked up to 2 times) and summons a $1 Bloody Shadow that exists up to 10s (the Bloody Shadow's stats are based on this ship's stats and the skill's level); the Bloody Shadow acts independently and attacks using its own weapons.",
+    "opsi_description": null,
+    "name": "Followed by Bloody Shadows",
+    "max": 10,
+    "id": 801810,
+    "type": 1,
+    "icon": 801810,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
+  "801820": {
+    "description": "Increases this ship's Evasion Rate by $1 and DMG dealt to Cruisers by $2. Increases the DMG dealt of this ship's equipped torpedoes against Light and Medium Armor enemies by $3.",
+    "opsi_description": null,
+    "name": "The Roamer's Blade",
+    "max": 10,
+    "id": 801820,
+    "type": 3,
+    "icon": 801820,
+    "values": [
+      [
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ]
+    ]
+  },
+  "801831": {
+    "description": "Every 15 times this ship fires her Main Guns: fires a special barrage.",
+    "opsi_description": "Every 15 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 5.0%.",
+    "name": "Smoldering Core - Kawakaze I",
+    "max": 1,
+    "id": 801831,
+    "type": 1,
+    "icon": 801830,
+    "values": []
+  },
+  "801832": {
+    "description": "Every 10 times this ship fires her Main Guns: fires a special barrage.",
+    "opsi_description": "Every 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 8.0%.",
+    "name": "Smoldering Core - Kawakaze II",
+    "max": 1,
+    "id": 801832,
+    "type": 1,
+    "icon": 801830,
     "values": []
   },
   "901010": {

@@ -4116,6 +4116,23 @@
     ],
     "contains": []
   },
+  "21049": {
+    "id": 21049,
+    "name": "META Crystal - Kawakaze META",
+    "description": "An item that increases the potential of Kawakaze META. Used in the META Lab during Somatic Activation.",
+    "type": 4,
+    "icon": "props/21049",
+    "rarity": 5,
+    "locations": [
+      "META Showdown"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "21101": {
     "id": 21101,
     "name": "Crystallized Heat-Resistant Steel",
@@ -20085,6 +20102,23 @@
         "name": "Ring of Antinomy"
       }
     ]
+  },
+  "30429": {
+    "id": 30429,
+    "name": "Master of Death",
+    "description": "You may receive one each of the gear skins Master of Death (Fighter), Master of Death (Torpedo), and Master of Death (Bomber).",
+    "type": 11,
+    "icon": "equips/97032",
+    "rarity": 4,
+    "locations": [
+      "Illusory Drifters"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
   },
   "30501": {
     "id": 30501,

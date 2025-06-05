@@ -4013,6 +4013,16 @@
     "lab_from": [
       31280
     ],
+    "lab_to": [
+      31300
+    ]
+  },
+  "31300": {
+    "id": 31300,
+    "locations": [],
+    "lab_from": [
+      31300
+    ],
     "lab_to": []
   },
   "32000": {
@@ -6975,19 +6985,25 @@
     "id": 90820,
     "locations": [
       "Skybound Oratorio",
-      "Stock equipment (Béarn)"
+      "Stock equipment (Béarn)",
+      "Iris Orthodoxy Gear Development Pack"
     ],
     "lab_from": [],
-    "lab_to": []
+    "lab_to": [
+      91380
+    ]
   },
   "90840": {
     "id": 90840,
     "locations": [
       "Skybound Oratorio",
-      "Stock equipment (Béarn)"
+      "Stock equipment (Béarn)",
+      "Iris Orthodoxy Gear Development Pack"
     ],
     "lab_from": [],
-    "lab_to": []
+    "lab_to": [
+      91300
+    ]
   },
   "90860": {
     "id": 90860,
@@ -7097,6 +7113,51 @@
       "Mist Upon Silver Summits"
     ],
     "lab_from": [],
+    "lab_to": []
+  },
+  "91300": {
+    "id": 91300,
+    "locations": [],
+    "lab_from": [
+      91300
+    ],
+    "lab_to": [
+      91320,
+      91360
+    ]
+  },
+  "91320": {
+    "id": 91320,
+    "locations": [],
+    "lab_from": [
+      91320
+    ],
+    "lab_to": [
+      91340
+    ]
+  },
+  "91340": {
+    "id": 91340,
+    "locations": [],
+    "lab_from": [
+      91340
+    ],
+    "lab_to": []
+  },
+  "91360": {
+    "id": 91360,
+    "locations": [],
+    "lab_from": [
+      91360
+    ],
+    "lab_to": []
+  },
+  "91380": {
+    "id": 91380,
+    "locations": [],
+    "lab_from": [
+      91380
+    ],
     "lab_to": []
   },
   "95000": {

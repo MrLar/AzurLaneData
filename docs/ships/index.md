@@ -191,18 +191,20 @@ Use the following for each ship stat:
 Ship Drop Data contains relevant information on how a ship can be obtained. It provides the
 following properties:
 
-|  Property   |                    Type                    |                                                                          Description                                                                           |
-| :---------: | :----------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   **id**    |                  `number`                  |                                                                 The Ship ID this data is for.                                                                  |
-|  **timer**  |             `string` \| `null`             |                                            The mostly unique timer of the ship or null if it cannot be cosntructed.                                            |
-|  **light**  |                 `boolean`                  |                                               Whether this ship can currently be constructed in the light pool.                                                |
-|  **heavy**  |                 `boolean`                  |                                               Whether this ship can currently be constructed in the heavy pool.                                                |
-| **special** |                 `boolean`                  |                                              Whether this ship can currently be constructed in the special pool.                                               |
-| **limted**  |             `string` \| `null`             |         During which event, if any, this ship was availle in the limited construction pool. For ships that were not rate up this property is not set.          |
-|  **other**  | [`UnlockType[]`](../common.md#unlock-type) |                                                   From which other common sources this ship can be obtained.                                                   |
-|  **maps**   |         [`MapDrop[][]`](#map-drop)         | Maps this ship can be dropped on. The outer array has length 15 and indicates the chapter and the inner array contains info about what map and what drop type. |
-|  **notes**  |                 `string[]`                 |                                              Additional information that does not fit into the other properties.                                               |
-| **events**  |                 `string[]`                 |                                     Names of events this ship was part of, whether that be gacha, map drop or event shop.                                      |
+|      Property      |                    Type                    |                                                                                    Description                                                                                     |
+| :----------------: | :----------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|       **id**       |                  `number`                  |                                                                           The Ship ID this data is for.                                                                            |
+|     **timer**      |             `string` \| `null`             |                                                      The mostly unique timer of the ship or null if it cannot be cosntructed.                                                      |
+|     **light**      |                 `boolean`                  |                                                         Whether this ship can currently be constructed in the light pool.                                                          |
+|     **heavy**      |                 `boolean`                  |                                                         Whether this ship can currently be constructed in the heavy pool.                                                          |
+|    **special**     |                 `boolean`                  |                                                        Whether this ship can currently be constructed in the special pool.                                                         |
+|     **limted**     |             `string` \| `null`             |                   During which event, if any, this ship was availle in the limited construction pool. For ships that were not rate up this property is not set.                    |
+|     **other**      | [`UnlockType[]`](../common.md#unlock-type) |                                                             From which other common sources this ship can be obtained.                                                             |
+|      **maps**      |         [`MapDrop[][]`](#map-drop)         |           Maps this ship can be dropped on. The outer array has length 15 and indicates the chapter and the inner array contains info about what map and what drop type.           |
+|     **notes**      |                 `string[]`                 |                                                        Additional information that does not fit into the other properties.                                                         |
+|     **events**     |                 `string[]`                 |                                               Names of events this ship was part of, whether that be gacha, map drop or event shop.                                                |
+|    **wa_maps?**    |  [`WarArchiveInfo[]`](#war-archive-info)   |                                                   **(Optional)** Contains info about War Archived event map drops this ship has.                                                   |
+| **non_permanent?** |                 `boolean`                  | **(Optional)** If present **and** true indicates that `light`, `heavy` and `special` should be treated as a limited time event. The event can be inferred from the `events` array. |
 
 ## Map Drop
 
@@ -210,5 +212,19 @@ Represents data for a ship map drop. Provides 2 properties:
 
 | Property |     Type     |                         Description                         |
 | :------: | :----------: | :---------------------------------------------------------: |
-| **maps** |   `number`   |       The map the ship drops on, either 1, 2, 3 or 4.       |
+| **map**  |   `number`   |       The map the ship drops on, either 1, 2, 3 or 4.       |
 | **type** | `0` \|   `1` | The drop type, 0 means any node and 1 means boss node only. |
+
+## War Archive Info
+
+Represents info about the maps drops in a War Archive, it provides the following properties:
+
+|     Property      |     Type     |                                                             Description                                                             |
+| :---------------: | :----------: | :---------------------------------------------------------------------------------------------------------------------------------: |
+|     **event**     |   `number`   |                                The index of the `events` array to this war archive entry belongs to                                 |
+|     **maps**      |  `object[]`  |                                       List of maps within the archive that the ship drops in.                                       |
+| **maps[n].type**  | `0` \|   `1` |                                     The drop type, 0 means any node and 1 means boss node only.                                     |
+|  **maps[n].map**  |   `string`   | The map the ship drops on.<br/>**Important**: Unlike for normal map drops this is the map indentifier and therefor always a string. |
+| **maps[n].pity?** |  `boolean`   |                      **(Optional)** Whether the 60x Sortie pity applies to this drop. Treat absent as `false`.                      |
+
+Note: The maps prop of this interface has overlap with MapDrop but due to the type change of the "map" it is documented as on it's own.

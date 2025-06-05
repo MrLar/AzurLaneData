@@ -175,9 +175,14 @@ export interface LimitBreakData {
     }
 }
 
-export interface MapDrop {
-    map: number
+export interface MapDrop<T extends number | string> {
+    map: T
     type: 0 | 1
+}
+
+export interface WarArchiveInfo {
+    event: number
+    maps: Array<MapDrop<string> & { pity?: boolean }>
 }
 
 export interface ShipDropData {
@@ -188,9 +193,11 @@ export interface ShipDropData {
     special: boolean
     limited: string | null
     other: UnlockType[]
-    maps: MapDrop[][]
+    maps: MapDrop<number>[][]
     notes: string[]
     events: string[]
+    wa_maps?: WarArchiveInfo[]
+    non_permanent?: boolean
 }
 
 export interface RetroCost {
@@ -205,7 +212,7 @@ export type UnlockType =
 1 | // medal shop
 2 | // core data shop
 3 | // merit shop
-4 | // requesition
+4 | // requsition
 5 | // prototype shop
 6 | // perma UR pity
 7 | // weekly missions

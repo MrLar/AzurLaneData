@@ -110,6 +110,32 @@ where each number represents an in-game or special ammo type (missing values do 
 |  100  | Beehive |  Special Ammo (override) for the Twin 410mm (Type 3 Shell)   |
 |  101  |   SHS   | Special Ammo type reservation for Massachusetts second skill |
 
+# Bullet Type
+
+Bullet Type is a numeric value with the range `[0, 17]`. 
+where each number represents an in-game bullet type:
+
+| Value |    Label     |
+| :---: | :----------: |
+|   0   |   Unknown    |
+|   1   |    Cannon    |
+|   2   | Bomb/Arcing  |
+|   3   |   Torpedo    |
+|   4   |    Direct    |
+|   5   |   Shrapnel   |
+|   6   |      AA      |
+|   7   |     ASW      |
+|   8   |    Stray     |
+|   9   |    Effect    |
+|  10   |     Beam     |
+|  11   |   Gravity    |
+|  12   | Electric Arc |
+|  13   |   Missile    |
+|  14   | Space Laser  |
+|  15   |    Scale     |
+|  16   | Trigger Bomb |
+|  17   |  AAMissile   |
+
 # Aim Type
 
 Aim Type is a numeric value with the range `[-1, 1]` where each number represents a weapon aim type:

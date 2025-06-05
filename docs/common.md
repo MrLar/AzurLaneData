@@ -53,6 +53,7 @@ number represents an in-game Nation (missing values do not exit in game):
 |  109  |    Ryza    |           Atelier Ryza           |
 |  110  |   Senran   |          Senran Kagura           |
 |  111  |   LoveRu   |            To Love Ru            |
+|  112  |    B★RS    |        BLACK★ROCK SHOOTER        |
 
 
 # Hull
