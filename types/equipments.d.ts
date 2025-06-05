@@ -140,5 +140,25 @@ export type AmmoType =
 100 | // shrapnel
 101 // shs
 
+export type BulletType =
+0 | // unknown
+1 | // cannon
+2 | // bomb/arcing
+3 | // torpedo
+4 | // direct
+5 | // shrapnel
+6 | // aa
+7 | // asw
+8 | // sray
+9 | // effect
+10 | // beam
+11 | // gravity
+12 | // electric arc
+13 | // missile
+14 | // space laser
+15 | // scale
+16 | // trigger bomb
+17 // aa missile
+
 // Unknown | Random | Aimed
 export type AimType = -1 | 0 | 1

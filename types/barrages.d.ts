@@ -7,7 +7,7 @@
  */
 
 import { type WeaponStat } from './common'
-import { type AimType, type AmmoType } from './equipments'
+import { BulletType, type AimType, type AmmoType } from './equipments'
 
 interface Barrage {
     name: string
