@@ -58424,7 +58424,7 @@
     ]
   },
   "801820": {
-    "description": "Increases this ship's Evasion Rate by $1 and DMG dealt to Cruisers by $2. Increases the DMG dealt of this ship's equipped torpedoes against Light and Medium Armor enemies by $3.",
+    "description": "Increases this ship's Evasion Rate by $1 and DMG dealt to Cruisers by $2. {Increases the Light and Medium armor modifiers of this ship's equipped torpedoes by|Game incorrectly states the torpedoes gain a damage buff.} $3.",
     "opsi_description": null,
     "name": "The Roamer's Blade",
     "max": 10,
