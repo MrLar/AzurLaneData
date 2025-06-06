@@ -20118,7 +20118,38 @@
       "JP",
       "CN"
     ],
-    "contains": []
+    "contains": [
+      {
+        "id": 1472,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97032",
+        "name": "Master of Death (Torpedo)"
+      },
+      {
+        "id": 1473,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97032",
+        "name": "Master of Death (Fighter)"
+      },
+      {
+        "id": 1474,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97032",
+        "name": "Master of Death (Bomber)"
+      }
+    ]
   },
   "30501": {
     "id": 30501,
