@@ -680,5 +680,203 @@
       "CN"
     ],
     "contains": []
+  },
+  "1101": {
+    "name": "Rabbit's Cradle",
+    "description": "A bed designed for comfortable sleep. Its sturdy structure and stability are top-notch.\nIf you sleep here holding a soft, bunny-shaped cushion, you might just dream of a carrot farm under the stars…",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1101,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_xinzexi_commonfurniture1",
+    "room_id": 11,
+    "furni_type": 4,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1102": {
+    "name": "Ice Age",
+    "description": "Sleek and next-gen in design, this unit features a powerful cooling system.\nChill some Oxy-cola in it, and it will bring refreshment and comfort to your life.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1102,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_xinzexi_commonfurniture2",
+    "room_id": 11,
+    "furni_type": 6,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1103": {
+    "name": "Sunlight Island",
+    "description": "A classic fabric sofa with a soft, fluffy texture.\nWhen the afternoon sunlight shines in, it becomes the perfect island for napping.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1103,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_xinzexi_commonfurniture3",
+    "room_id": 11,
+    "furni_type": 5,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1104": {
+    "name": "Planet Nightlight",
+    "description": "A lamp inspired by the shape of a planet. At night, it emits dim light.\nSomewhere in the starry sky, there must be some planet out there quietly watching over you.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 1104,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_xinzexi_commonfurniture6",
+    "room_id": 11,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1105": {
+    "name": "Decorative Art",
+    "description": "A minimalist painting featuring overlapping geometric shapes that create a unique beauty. It adds a lively touch to the room.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 1105,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_xinzexi_commonfurniture5",
+    "room_id": 11,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1106": {
+    "name": "Silent Blue",
+    "description": "Gently flip the switch, and a soft glow spills out. Jellyfish float in a dreamy blue void.\nHow long... has your imagination been immersed in this little ocean?",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 1106,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_xinzexi_commonfurniture7",
+    "room_id": 11,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1107": {
+    "name": "Microwave",
+    "description": "A quick and convenient heating tool, perfect for breakfast, afternoon tea, and more.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 1107,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_xinzexi_commonfurniture8",
+    "room_id": 11,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1108": {
+    "name": "Potted Plant",
+    "description": "It doesn't just make the place prettier - it purifies the air, too!",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 1108,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_xinzexi_commonfurniture9",
+    "room_id": 11,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1151": {
+    "name": "Starry Corner",
+    "description": "This cutting-edge seat has a futuristic aura and features smart temperature control.\nIt also comes with a 24/7 chilled drink supply, giving you a truly comfortable service experience.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 5,
+    "id": 1151,
+    "purchaseable": true,
+    "expires": 0,
+    "icon": "dorm3d/items/3ddrom_xinzexi_premiumfurniture1",
+    "room_id": 11,
+    "furni_type": 5,
+    "exclusive": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
   }
 }

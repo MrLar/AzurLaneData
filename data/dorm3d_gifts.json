@@ -62,6 +62,27 @@
     "contains": [],
     "favor": 300
   },
+  "1051701": {
+    "name": "Crystal Candy",
+    "description": "The transparent glass jar is full of shiny, colorful candy. When you open the lid, you smell the sweet scent of bliss.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 5,
+    "id": 1051701,
+    "purchaseable": true,
+    "expires": 0,
+    "icon": "dorm3d/items/3ddrom_xinzexi_commonfurniture4",
+    "ship": 68,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "favor": 2000
+  },
   "1990301": {
     "name": "Heart in Crayon",
     "description": "An adorably colored canvas that seems to capture all of Anchorage's world within. Every line reflects her innocence.",

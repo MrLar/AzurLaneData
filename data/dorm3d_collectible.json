@@ -1784,5 +1784,708 @@
     ],
     "contains": [],
     "time": 2
+  },
+  "1101": {
+    "room_id": 11,
+    "name": "Caramel Popcorn",
+    "description": "Freshly microwaved popcorn covered in amber caramel coating.\nIt's a must-have for any movies watched in New Jersey's home.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1101,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item1",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1102": {
+    "room_id": 11,
+    "name": "Bunny Apron",
+    "description": "An apron hung up in the corner of the kitchen.\nIt has a simple yet cute rabbit graphic on the front.\nShe's always full of energy, even when cooking and cleaning.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1102,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item2",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1103": {
+    "room_id": 11,
+    "name": "Juicer",
+    "description": "One powerful juicer.\nEvery morning, she throws all kinds of fruits into it,\nand out comes a colorful and refreshing juice.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1103,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item3",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1104": {
+    "room_id": 11,
+    "name": "Bowl of Strawberries",
+    "description": "Fresh, plump strawberries fill the bowl,\neach one glistening with beads of water.\nHer fingers reach for one,\nand you find your heart skipping a beat as she places it in her mouth.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1104,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item4",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1105": {
+    "room_id": 11,
+    "name": "Range Hood",
+    "description": "Every kitchen needs a range hood.\nThat familiar humming is proof that\nthe Big J is showing off her cooking skills!",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1105,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item5",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1106": {
+    "room_id": 11,
+    "name": "Lemon Water",
+    "description": "A pitcher full of cool, refreshing lemon water.\nIt's the perfect balance of sour and sweet,\nwith a few sugar cubes dissolved within.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1106,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item6",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1107": {
+    "room_id": 11,
+    "name": "White Jacket",
+    "description": "New Jersey's everyday wear, a light but stylish jacket.\nShe took off the jacket and threw it onto a chair -\nthe very first thing she does when she gets home.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1107,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item7",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1108": {
+    "room_id": 11,
+    "name": "Toaster",
+    "description": "A toaster with an adorable design.\nPress down the lever, and crispy golden toast will pop out.\nAdd some jam, honey, or butter for the perfect breakfast!",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1108,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item8",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1109": {
+    "room_id": 11,
+    "name": "Jungle Vibes",
+    "description": "A potted sansevieria plant growing steadily.\nIt quietly spreads its leaves in the corner of the room.\nWith every breath,\nyou can feel the fresh, revitalizing air it brings.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1109,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item9",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1110": {
+    "room_id": 11,
+    "name": "Glazed Donut",
+    "description": "New Jersey made this for afternoon tea.\n\"Gotta taste-test before I let you eat it, honey!\" she says,\nlicking the sugar off of her lips.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1110,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item10",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1111": {
+    "room_id": 11,
+    "name": "Robot Vacuum",
+    "description": "A cute cleaning robot that leaves your room spick and span.\nIt dutifully gathers not just dust, but the traces of everyday life as well.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1111,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item11",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1112": {
+    "room_id": 11,
+    "name": "4K TV",
+    "description": "When the 55-inch screen lights up,\nit becomes a door to worlds unknown.\nWhat will it be today?\nExplosive action? Or a kiss in the rain on Union streets?",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1112,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item12",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1113": {
+    "room_id": 11,
+    "name": "Fashion Magazines",
+    "description": "Magazines that have been read over and over are piled on the table.\nThis is her fashion supply station, an endless fount of inspiration.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1113,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item13",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1114": {
+    "room_id": 11,
+    "name": "Handbag",
+    "description": "A nice handbag left lazily on the floor.\nIt's filled with all sorts of useful little things.\nNo doubt she took it on countless adventures again today.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1114,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item14",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1115": {
+    "room_id": 11,
+    "name": "Sports Gear",
+    "description": "A whole set of exercise clothes and items.\nThe ever-energetic New Jersey is always ready for a serious aerobic workout!",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1115,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item15",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1116": {
+    "room_id": 11,
+    "name": "Big J Nameplate",
+    "description": "A dragon lurks within! No coming in without permission!\n\"...Hm? Honey, you're here?! Come in, come in!\"",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1116,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item16",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1117": {
+    "room_id": 11,
+    "name": "Clothes Rack",
+    "description": "When she's picking out clothes for a date,\nall of them seem to scream, \"Pick me!\"\nThat supposedly simple \"What to wear?\" question?\nNot so simple when it really counts.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1117,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item17",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1118": {
+    "room_id": 11,
+    "name": "Clear Tote",
+    "description": "A tote filled with cosmetics and the like.\nThese are must-have items for daily commuting and travel,\nso she can redo her makeup any time!",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1118,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item18",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1119": {
+    "room_id": 11,
+    "name": "Bunny Ears",
+    "description": "A quirky bunny hood with ears that move according to your mood.\nThis is one of Big J's favorite accessories.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1119,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item19",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1120": {
+    "room_id": 11,
+    "name": "Air Conditioner",
+    "description": "Among the greatest human inventions in history.\nIt adjusts the room temperature to exactly what you need,\ncreating a soothing space for ultimate relaxation.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1120,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item21",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1121": {
+    "room_id": 11,
+    "name": "Air Purifier",
+    "description": "A quiet air purifier stands in the corner.\nIts unceasing, reliable operation makes every breath a luxurious one.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1121,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item22",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1122": {
+    "room_id": 11,
+    "name": "Frozen Drinks",
+    "description": "Two frozen drinks radiating icy coolness.\nWhether you drink alone or with someone you love,\nevery sip is the very picture of bliss.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1122,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item23",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1123": {
+    "room_id": 11,
+    "name": "Wireless Speaker",
+    "description": "A portable, stylish speaker packed with melodies ranging from classical to rock.\nThe right tune always awaits you.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1123,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item24",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1124": {
+    "room_id": 11,
+    "name": "Bunny Nightlight",
+    "description": "An adorable nightlight that looks like a bunny.\nIt casts a soft blue glow, illuminating the way in the darkness.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1124,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item25",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "1125": {
+    "room_id": 11,
+    "name": "Dumbbells",
+    "description": "A pair of dumbbells, just the right weight,\nperfectly suited to New Jersey's workout needs.\nWith every drop of sweat,\nshe finds a better version of herself than the day before.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1125,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item26",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1126": {
+    "room_id": 11,
+    "name": "Curling Iron",
+    "description": "A curling iron with a sleek design, the perfect helper for hair styling.\nBe sure to unplug it after use!",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1126,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item27",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1127": {
+    "room_id": 11,
+    "name": "Black Stockings",
+    "description": "In her room, every stocking seems to have the travel bug.\nThat's seven and a half pairs vanished this month alone.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1127,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item28",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "1128": {
+    "room_id": 11,
+    "name": "Skincare Set",
+    "description": "A comprehensive set of skincare products, New Jersey's personal beauty lab.\nSometimes the oddest combinations yield the most surprising results.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1128,
+    "icon": "dorm3d/collection/3ddrom_xinzexi_item29",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "1601": {
+    "room_id": 16,
+    "name": "Menu",
+    "description": "The variety of drinks on this menu helps you see what this café is all about at a glance.\nEach cup is full of creativity and care, satisfying even the most unique tastes.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1601,
+    "icon": "dorm3d/collection/3ddrom_cafe_item1",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1602": {
+    "room_id": 16,
+    "name": "Signs",
+    "description": "Convenient signs guide you to the coziest corners of the café. First impressions matter!",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1602,
+    "icon": "dorm3d/collection/3ddrom_cafe_item2",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1603": {
+    "room_id": 16,
+    "name": "Candle",
+    "description": "Warm, gentle light cultivates a romantic and relaxing vibe.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1603,
+    "icon": "dorm3d/collection/3ddrom_cafe_item3",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1604": {
+    "room_id": 16,
+    "name": "Order Counter",
+    "description": "The monitor is operated by touch screen, and its design is simple yet functional. Ordering and payment are quick and easy.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1604,
+    "icon": "dorm3d/collection/3ddrom_cafe_item4",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1605": {
+    "room_id": 16,
+    "name": "Bottle",
+    "description": "The bottle is designed by an expert craftsman. Its appearance and practicality make your morning cup of coffee more refined and enjoyable.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1605,
+    "icon": "dorm3d/collection/3ddrom_cafe_item5",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1606": {
+    "room_id": 16,
+    "name": "Chocolate Donut",
+    "description": "Crispy on the outside, tender on the inside. A classic, delicious dessert.\nEvery bite leaves a lasting impression of joy on your taste buds.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1606,
+    "icon": "dorm3d/collection/3ddrom_cafe_item6",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1607": {
+    "room_id": 16,
+    "name": "Cocktail Set",
+    "description": "Cocktails mixed with professional tools make the night much more colorful.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1607,
+    "icon": "dorm3d/collection/3ddrom_cafe_item7",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1608": {
+    "room_id": 16,
+    "name": "Napkins",
+    "description": "Soft, clean napkins lie ready to attend to any and all cleaning needs.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1608,
+    "icon": "dorm3d/collection/3ddrom_cafe_item8",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1609": {
+    "room_id": 16,
+    "name": "Carved Mascot",
+    "description": "A carving of the café's iconic mascot.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1609,
+    "icon": "dorm3d/collection/3ddrom_cafe_item9",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
   }
 }

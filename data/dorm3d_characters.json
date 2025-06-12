@@ -1,4 +1,305 @@
 {
+  "68": {
+    "id": 68,
+    "gid": 10517,
+    "name": "New Jersey",
+    "room_id": 11,
+    "icon": "dorm3d/char/xinzexi",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "gifts": [
+      1021001,
+      1021002,
+      1021003,
+      1051701
+    ],
+    "furniture": [
+      1101,
+      1102,
+      1103,
+      1104,
+      1105,
+      1106,
+      1107,
+      1108,
+      1151
+    ],
+    "rarity": 6,
+    "favor_levels": [
+      {
+        "needed": 0,
+        "level": 1,
+        "items": []
+      },
+      {
+        "needed": 40,
+        "level": 2,
+        "items": [
+          {
+            "id": 1021001,
+            "type": 9,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_everyone_commongift3",
+            "name": "Bunny Plushie"
+          },
+          {
+            "id": 101101,
+            "type": 11,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/drom3d_camera1003",
+            "name": "HQ Tablet Cover: Leisure in Peace"
+          }
+        ]
+      },
+      {
+        "needed": 200,
+        "level": 3,
+        "items": [
+          {
+            "id": 1105,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_xinzexi_commonfurniture5",
+            "name": "Decorative Art"
+          }
+        ]
+      },
+      {
+        "needed": 400,
+        "level": 4,
+        "items": [
+          {
+            "id": 1007,
+            "type": 15,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/icon_frame",
+            "name": "Icon Frame: Stars and Snow"
+          },
+          {
+            "id": 101,
+            "type": 14,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "dorm3d/recall/recall_111_icon",
+            "name": "Dorm3D Event: Cute Adornment"
+          }
+        ]
+      },
+      {
+        "needed": 800,
+        "level": 5,
+        "items": [
+          {
+            "id": 1008,
+            "type": 13,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 4,
+            "icon": "props/drom3d_camera1002",
+            "name": "Camera Frame: Walnut"
+          }
+        ]
+      },
+      {
+        "needed": 1000,
+        "level": 6,
+        "items": [
+          {
+            "id": 1108,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_xinzexi_commonfurniture9",
+            "name": "Potted Plant"
+          }
+        ]
+      },
+      {
+        "needed": 1500,
+        "level": 7,
+        "items": [
+          {
+            "id": 101102,
+            "type": 11,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/drom3d_camera1003",
+            "name": "HQ Tablet Cover: Sunny Smiles"
+          }
+        ]
+      },
+      {
+        "needed": 2000,
+        "level": 8,
+        "items": [
+          {
+            "id": 1107,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_xinzexi_commonfurniture8",
+            "name": "Microwave"
+          },
+          {
+            "id": 102,
+            "type": 14,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "dorm3d/recall/recall_112_icon",
+            "name": "Dorm3D Event: Silly Pranks"
+          }
+        ]
+      },
+      {
+        "needed": 3000,
+        "level": 9,
+        "items": [
+          {
+            "id": 1021002,
+            "type": 9,
+            "linkable": true,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_everyone_commongift2",
+            "name": "Romantic's Bouquet"
+          }
+        ]
+      },
+      {
+        "needed": 4000,
+        "level": 10,
+        "items": [
+          {
+            "id": 101103,
+            "type": 11,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/drom3d_camera1003",
+            "name": "HQ Tablet Cover: Sweet Whispers"
+          }
+        ]
+      },
+      {
+        "needed": 5000,
+        "level": 11,
+        "items": [
+          {
+            "id": 1106,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_xinzexi_commonfurniture7",
+            "name": "Silent Blue"
+          }
+        ]
+      },
+      {
+        "needed": 6000,
+        "level": 12,
+        "items": [
+          {
+            "id": 1021002,
+            "type": 9,
+            "linkable": true,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_everyone_commongift2",
+            "name": "Romantic's Bouquet"
+          },
+          {
+            "id": 103,
+            "type": 14,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "dorm3d/recall/recall_113_icon",
+            "name": "Dorm3D Event: Frozen Goodness"
+          }
+        ]
+      },
+      {
+        "needed": 7000,
+        "level": 13,
+        "items": [
+          {
+            "id": 1009,
+            "type": 13,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 4,
+            "icon": "props/drom3d_camera1002",
+            "name": "Camera Frame: Lens"
+          }
+        ]
+      },
+      {
+        "needed": 8000,
+        "level": 14,
+        "items": [
+          {
+            "id": 1104,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_xinzexi_commonfurniture6",
+            "name": "Planet Nightlight"
+          }
+        ]
+      },
+      {
+        "needed": 9000,
+        "level": 15,
+        "items": [
+          {
+            "id": 1008,
+            "type": 15,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/icon_frame",
+            "name": "Icon Frame: Dazzling Steps"
+          }
+        ]
+      }
+    ]
+  },
   "322": {
     "id": 322,
     "gid": 30221,

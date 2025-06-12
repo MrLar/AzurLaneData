@@ -232,5 +232,93 @@
       "CN"
     ],
     "collectables": []
+  },
+  "11": {
+    "id": 11,
+    "name": "Room of New Jersey",
+    "type": 2,
+    "characters": [
+      68
+    ],
+    "invitable": [],
+    "memories": [
+      101,
+      102,
+      103,
+      104
+    ],
+    "icon": "dorm3d/rooms/room_icon_xinzexi",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "collectables": [
+      1101,
+      1102,
+      1103,
+      1104,
+      1105,
+      1106,
+      1107,
+      1108,
+      1109,
+      1110,
+      1111,
+      1112,
+      1113,
+      1114,
+      1115,
+      1116,
+      1117,
+      1118,
+      1119,
+      1120,
+      1121,
+      1122,
+      1123,
+      1124,
+      1125,
+      1126,
+      1127,
+      1128
+    ]
+  },
+  "16": {
+    "id": 16,
+    "name": "Café",
+    "type": 1,
+    "characters": [],
+    "invitable": [
+      {
+        "id": 68,
+        "cost": 800,
+        "currency": {
+          "id": 59005,
+          "name": "Gems",
+          "icon": "props/gem",
+          "linkable": true
+        },
+        "discount": 0
+      }
+    ],
+    "memories": [],
+    "icon": "dorm3d/rooms/room_icon_publiccafe",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "collectables": [
+      1601,
+      1602,
+      1603,
+      1604,
+      1605,
+      1606,
+      1607,
+      1608,
+      1609
+    ]
   }
 }

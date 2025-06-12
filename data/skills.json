@@ -8326,7 +8326,7 @@
   "11870": {
     "description": "10s after the battle begins and every $1s after that: fires a special guaranteed Critical Hit barrage ($2 ammo; barrage DMG is based on the skill's level) towards the enemy farthest away from this ship. When your Royal Navy ships automatically fire their Main Guns, they have a higher chance of targetting the enemy hit by this barrage. The first time each battle the barrage is fired, its damage is increased by $3.",
     "opsi_description": null,
-    "name": "Divine Marksman+",
+    "name": "Divine Marksman (R)",
     "max": 10,
     "id": 11870,
     "type": 1,
@@ -58807,7 +58807,17 @@
     "max": 1,
     "id": 902300,
     "type": 0,
-    "icon": "augments/14000",
+    "icon": "augments/14180",
+    "values": []
+  },
+  "902310": {
+    "description": "Increases the wearer's ACC by 10.0% and Main Gun Crit DMG by 15.0%.",
+    "opsi_description": null,
+    "name": "A Royal's Glory",
+    "max": 1,
+    "id": 902310,
+    "type": 0,
+    "icon": "augments/14160",
     "values": []
   },
   "1005080": {
@@ -59135,6 +59145,41 @@
         "35.4%",
         "37.6%",
         "40.0%"
+      ]
+    ]
+  },
+  "1010310": {
+    "description": "Every $1s: fires a $2 special barrage that deals guaranteed Critical DMG at the enemy furthest from this ship (DMG is based on the skill's level).\n5s after the battle starts, and every $1s after that: this ship performs a $2 attack with her royal sword (DMG is based on the skill's level; prioritizes humanoid enemies) that inflicts the Marksman's Target status on enemies hit; increases Warspite's DMG dealt to enemies with the Marksman's Target status by 12.0%.",
+    "opsi_description": null,
+    "name": "Divine Marksman+",
+    "max": 10,
+    "id": 1010310,
+    "type": 1,
+    "icon": 10310,
+    "values": [
+      [
+        "35",
+        "33",
+        "31",
+        "29",
+        "27",
+        "25",
+        "23",
+        "21",
+        "18",
+        "15"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
       ]
     ]
   },
@@ -59781,6 +59826,77 @@
       ]
     ]
   },
+  "1010880": {
+    "description": "Every 20s: $3 chance to increase this ship's FP, RLD, and EVA by $2 for 8s and fire a $5 special barrage (DMG is based on the skill's level). Every 25s: $1 chance to inflict the Radar Designated status on all enemies on the battlefield for 10s; decreases your Vanguard's shelling DMG taken from enemies inflicted with the Radar Designated status by $4.",
+    "opsi_description": null,
+    "name": "Lucky Lou+",
+    "max": 10,
+    "id": 1010880,
+    "type": 1,
+    "icon": 10880,
+    "values": [
+      [
+        "30.0%",
+        "33.3%",
+        "36.6%",
+        "39.9%",
+        "43.2%",
+        "46.5%",
+        "49.8%",
+        "53.1%",
+        "56.4%",
+        "60.0%"
+      ],
+      [
+        "10.0%",
+        "12.2%",
+        "14.4%",
+        "16.6%",
+        "18.8%",
+        "21.0%",
+        "23.2%",
+        "25.4%",
+        "27.6%",
+        "30.0%"
+      ],
+      [
+        "50.0%",
+        "55.0%",
+        "60.0%",
+        "65.0%",
+        "70.0%",
+        "75.0%",
+        "80.0%",
+        "85.0%",
+        "90.0%",
+        "100%"
+      ],
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
   "1010960": {
     "description": "Increases your DDs' FP and EVA by $1 and TRP by $2 and increases this ship's torpedo Crit DMG by $3. When this ship fires her torpedoes: $4 chance to fire another wave of torpedoes. Every 15s: fires a $5 barrage (DMG is based on the skill's level).",
     "opsi_description": null,
@@ -60084,6 +60200,65 @@
         "12.7%",
         "13.8%",
         "15.0%"
+      ]
+    ]
+  },
+  "1011250": {
+    "description": "Increases this ship's FP by $3. Every 20s: $1 chance to increase your Cruisers' FP and TRP by $2 for 10s and fire a $4 special barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Leyte Gulf's Blitz+",
+    "max": 10,
+    "id": 1011250,
+    "type": 3,
+    "icon": 11250,
+    "values": [
+      [
+        "70.0%",
+        "73.3%",
+        "76.6%",
+        "79.9%",
+        "83.2%",
+        "86.5%",
+        "89.8%",
+        "93.1%",
+        "96.4%",
+        "100%"
+      ],
+      [
+        "5.0%",
+        "6.2%",
+        "7.4%",
+        "9.0%",
+        "10.5%",
+        "12.0%",
+        "14.0%",
+        "15.8%",
+        "17.6%",
+        "20.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
       ]
     ]
   },
@@ -60637,6 +60812,65 @@
       ]
     ]
   },
+  "1011870": {
+    "description": "Increases this ship's Main Gun efficiency by $4.\n10s after the battle starts, and every $1s after that: fires a $2 Divine Marksman barrage that deals guaranteed Critical DMG at the enemy furthest from this ship (improved barrage; DMG is based on the skill's level); each battle, the first time this barrage activates: increases its DMG dealt by $3, and increases the probability that your Royal Navy Main Fleet ships will target the hit enemy with their auto-aimed fire.\n5s after the battle starts, and every $1s after that: this ship performs a $2 attack with her royal sword (DMG is based on the skill's level; prioritizes humanoid enemies) that inflicts the Marksman's Target status on enemies hit; increases Warspite's DMG dealt to enemies with the Marksman's Target status by 12.0%.\nWhen this ship's Divine Marksman barrage activates, if there is an enemy with the Marksman's Target status on the battlefield: fires another Divine Marksman barrage, prioritizing said enemy.",
+    "opsi_description": null,
+    "name": "Divine Marksman (R)+",
+    "max": 10,
+    "id": 1011870,
+    "type": 1,
+    "icon": 10310,
+    "values": [
+      [
+        "35",
+        "33",
+        "31",
+        "29",
+        "27",
+        "25",
+        "23",
+        "21",
+        "18",
+        "15"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "80.0%",
+        "85.0%",
+        "90.0%",
+        "95.0%",
+        "100.0%",
+        "105.0%",
+        "110.0%",
+        "115.0%",
+        "120.0%",
+        "130%"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
   "1011900": {
     "description": "When this ship launches an airstrike:\n• performs a scan, revealing the location of enemy SSs, decreasing their SPD by 40.0%, and increasing their DMG taken by 10.0% for $1s;\n• launches an additional airstrike consisting of Swordfishes armed with anti-sub and anti-surface torpedoes (DMG is based on the skill's level).",
     "opsi_description": null,
@@ -60692,6 +60926,41 @@
         "6.0%",
         "6.5%",
         "7.0%"
+      ]
+    ]
+  },
+  "1011960": {
+    "description": "Increases this ship's torpedo efficiency by $1. Each battle, the first 3 times this ship fires her torpedoes: additionally fires a $2 improved special barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "The Star of Fjord+",
+    "max": 10,
+    "id": 1011960,
+    "type": 1,
+    "icon": 11960,
+    "values": [
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
       ]
     ]
   },
@@ -61372,6 +61641,29 @@
         "8.6%",
         "9.2%",
         "10.0%"
+      ]
+    ]
+  },
+  "1013880": {
+    "description": "When this ship launches an airstrike: $1 chance to launch an additional Torpedo Bomber airstrike (DMG is based on the skill's level); when this effect activates, sets the SPD of all enemies to 0 for 3s. Increases your Iron Blood ships' DMG dealt to enemies with 0 SPD by 10.0%.",
+    "opsi_description": null,
+    "name": "Iron Blood Falcon+",
+    "max": 10,
+    "id": 1013880,
+    "type": 1,
+    "icon": 13880,
+    "values": [
+      [
+        "50.0%",
+        "55.0%",
+        "60.0%",
+        "65.0%",
+        "70.0%",
+        "75.0%",
+        "80.0%",
+        "85.0%",
+        "90.0%",
+        "100%"
       ]
     ]
   },
@@ -62397,7 +62689,7 @@
     ]
   },
   "1090120": {
-    "description": "Increases this ship's AP DMG by $1. If this ship has an AP Main Gun equipped:\n• increases this ship's Crit Rate by $2;\n• increases the {Main Gun Ammo Modifier against all armor types|Game incorrectly states Main Gun damage.} by $3;\n• improves this ship's All Out Assault.",
+    "description": "Increases this ship's AP DMG by $1. If this ship has an AP Main Gun equipped:\n• increases this ship's Crit Rate by $2;\n• increases the {Main Gun Armor Modifiers against all armor types|Game incorrectly states Main Gun damage.} by $3;\n• improves this ship's All Out Assault.",
     "opsi_description": null,
     "name": "Piercing Shells - Z46",
     "max": 10,

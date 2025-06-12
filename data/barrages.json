@@ -69548,6 +69548,95 @@
       ]
     }
   ],
+  "1010310": [
+    {
+      "name": "Divine Marksman (R) (Enhanced)",
+      "parts": [
+        {
+          "damage": 154,
+          "coefficient": 1.1,
+          "count": 2,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.3,
+            1.3,
+            1.1
+          ],
+          "ammo": 2,
+          "is_critical": true,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            35,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 50,
+          "splash": 15,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            60,
+            100
+          ],
+          "spread": [
+            16,
+            16
+          ],
+          "targeting": "Furthest",
+          "centered": false
+        }
+      ]
+    },
+    {
+      "name": "Divine Marksman (R)+ (5s and every 15s)",
+      "parts": [
+        {
+          "damage": 200,
+          "coefficient": 1.1,
+          "count": 2,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 6,
+          "is_critical": true,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "airdrop": true,
+          "aim_type": 1,
+          "angle": 10,
+          "splash": 20,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "buffs": [
+            "Increase damage taken from Warspite by 12.0% until battle ends."
+          ],
+          "buff_chance": 1
+        }
+      ]
+    }
+  ],
   "1010340": [
     {
       "name": "Armored Carrier+",
@@ -69998,6 +70087,86 @@
             1
           ],
           "airdrop": true,
+          "targeting": null,
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "1010880": [
+    {
+      "name": "Lucky Lou+",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": true,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 8,
+          "pierce": 0,
+          "shell_range": [
+            20,
+            20
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "reaim": true,
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 0,
+          "shell_range": [
+            100,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
           "targeting": null,
           "centered": false
         }
@@ -71030,6 +71199,95 @@
       ]
     }
   ],
+  "1011870": [
+    {
+      "name": "Divine Marksman (Enhanced)",
+      "parts": [
+        {
+          "damage": 184,
+          "coefficient": 1.1,
+          "count": 2,
+          "stat": "fp",
+          "ratio": 0.8,
+          "armor_mod": [
+            0.65,
+            1.35,
+            1.15
+          ],
+          "ammo": 2,
+          "is_critical": true,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            35,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 50,
+          "splash": 15,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            60,
+            100
+          ],
+          "spread": [
+            16,
+            16
+          ],
+          "targeting": "Furthest",
+          "centered": false
+        }
+      ]
+    },
+    {
+      "name": "Divine Marksman+ (5s and every 15s)",
+      "parts": [
+        {
+          "damage": 200,
+          "coefficient": 1.1,
+          "count": 2,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 6,
+          "is_critical": true,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "airdrop": true,
+          "aim_type": 1,
+          "angle": 10,
+          "splash": 20,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "buffs": [
+            "Increase damage taken from Warspite by 12.0% until battle ends."
+          ],
+          "buff_chance": 1
+        }
+      ]
+    }
+  ],
   "1011900": [
     {
       "name": "Protector of the North Passage",
@@ -71190,6 +71448,85 @@
       ]
     }
   ],
+  "1011960": [
+    {
+      "name": "Star of the Shimmering Fjord+",
+      "parts": [
+        {
+          "damage": 156,
+          "coefficient": 1,
+          "count": 7,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 0,
+          "angle": 60,
+          "splash": 3,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            80,
+            120
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false
+        },
+        {
+          "damage": 20,
+          "coefficient": 1.25,
+          "count": 14,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.75,
+            0.4
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 0,
+          "angle": 60,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 0,
+          "shell_range": [
+            60,
+            80
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false
+        }
+      ]
+    }
+  ],
   "1012320": [
     {
       "name": "Poisonous Sting+",
@@ -71219,6 +71556,85 @@
           "splash": 0,
           "velocity": 8,
           "pierce": 99,
+          "shell_range": [
+            140,
+            160
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false
+        }
+      ]
+    }
+  ],
+  "1011250": [
+    {
+      "name": "Leyte Gulf's Blitz+",
+      "parts": [
+        {
+          "damage": 120,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            160
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false
+        },
+        {
+          "damage": 100,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 0,
+          "angle": 60,
+          "splash": 3,
+          "velocity": 4,
+          "pierce": 0,
           "shell_range": [
             140,
             160
