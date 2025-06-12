@@ -59149,7 +59149,7 @@
     ]
   },
   "1010310": {
-    "description": "Every $1s: fires a $2 special barrage that deals guaranteed Critical DMG at the enemy furthest from this ship (DMG is based on the skill's level).\n5s after the battle starts, and every $1s after that: this ship performs a $2 attack with her royal sword (DMG is based on the skill's level; prioritizes humanoid enemies) that inflicts the Marksman's Target status on enemies hit; increases Warspite's DMG dealt to enemies with the Marksman's Target status by 12.0%.",
+    "description": "Every $1s: fires a $2 special barrage that deals guaranteed Critical DMG at the enemy furthest from this ship (DMG is based on the skill's level).\n\n5s after the battle starts, and every $1s after that: this ship performs a $2 attack with her royal sword (DMG is based on the skill's level; prioritizes humanoid enemies) that inflicts the Marksman's Target status on enemies hit.\n\nIncreases Warspite's DMG dealt to enemies with the Marksman's Target status by 12.0%.",
     "opsi_description": null,
     "name": "Divine Marksman+",
     "max": 10,
@@ -60813,7 +60813,7 @@
     ]
   },
   "1011870": {
-    "description": "Increases this ship's Main Gun efficiency by $4.\n10s after the battle starts, and every $1s after that: fires a $2 Divine Marksman barrage that deals guaranteed Critical DMG at the enemy furthest from this ship (improved barrage; DMG is based on the skill's level); each battle, the first time this barrage activates: increases its DMG dealt by $3, and increases the probability that your Royal Navy Main Fleet ships will target the hit enemy with their auto-aimed fire.\n5s after the battle starts, and every $1s after that: this ship performs a $2 attack with her royal sword (DMG is based on the skill's level; prioritizes humanoid enemies) that inflicts the Marksman's Target status on enemies hit; increases Warspite's DMG dealt to enemies with the Marksman's Target status by 12.0%.\nWhen this ship's Divine Marksman barrage activates, if there is an enemy with the Marksman's Target status on the battlefield: fires another Divine Marksman barrage, prioritizing said enemy.",
+    "description": "Increases this ship's Main Gun efficiency by $4.\n\n10s after the battle starts, and every $1s after that: fires a $2 Divine Marksman barrage that deals guaranteed Critical DMG at the enemy furthest from this ship (improved barrage; DMG is based on the skill's level). This special barrage gains the following properties:\n •each battle, the first time this barrage activates: increases its DMG dealt by $3\n• and increases the probability that your Royal Navy Main Fleet ships will target the hit enemy with their auto-aimed fire.\n\n5s after the battle starts, and every $1s after that: this ship performs a $2 attack with her royal sword (DMG is based on the skill's level; prioritizes humanoid enemies) that inflicts the Marksman's Target status on enemies hit.\n\nIncreases Warspite's DMG dealt to enemies with the Marksman's Target status by 12.0%.\n\nWhen this ship's Divine Marksman barrage activates, if there is an enemy with the Marksman's Target status on the battlefield: fires another Divine Marksman barrage, prioritizing said enemy.",
     "opsi_description": null,
     "name": "Divine Marksman (R)+",
     "max": 10,
