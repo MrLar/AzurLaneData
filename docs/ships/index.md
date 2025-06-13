@@ -206,6 +206,8 @@ following properties:
 |    **wa_maps?**    |  [`WarArchiveInfo[]`](#war-archive-info)   |                                                   **(Optional)** Contains info about War Archived event map drops this ship has.                                                   |
 | **non_permanent?** |                 `boolean`                  | **(Optional)** If present **and** true indicates that `light`, `heavy` and `special` should be treated as a limited time event. The event can be inferred from the `events` array. |
 
+Note: If other includes `10` or `16` there is a 99% chance that, even if `light`, `heavy` and `special` are truthy, they have to be obtained once first to be buildable.
+
 ## Map Drop
 
 Represents data for a ship map drop. Provides 2 properties:
