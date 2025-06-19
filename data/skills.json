@@ -40224,7 +40224,7 @@
     "values": []
   },
   "60330": {
-    "description": "When equipped by Queen Elizabeth: she enters Rest Mode, recovering 3.0% of her max HP when she fires her Main Guns. When equipped by any other Royal Navy ship: with every odd-numbered volley Queen Elizabeth fires, she enters Work Mode, increasing all your Royal Navy ships' DMG dealt by 8.0% for 8s; after this effect ends, Queen Elizabeth enters Rest Mode.",
+    "description": "When equipped by {Queen Elizabeth or Queen Elizabeth META|Game does not mention it also works on QEM.}: she enters Rest Mode, recovering 3.0% of her max HP when she fires her Main Guns. When equipped by any other Royal Navy ship: with every odd-numbered volley Queen Elizabeth fires, she enters Work Mode, increasing all your Royal Navy ships' DMG dealt by {3.0%|Game incorrectly states 8.0%.} for 8s {(This effect doesn't stack if both Queen Elizabeths enter Work Mode); after this effect ends, the respective ship enters Rest Mode.|Edited just to clarify it does not stack and to not be ambigious about who enters rest mode.}",
     "opsi_description": null,
     "name": "Her Majesty's Top-Secret Itinerary",
     "max": 1,

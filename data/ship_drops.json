@@ -17332,7 +17332,7 @@
     "light": false,
     "heavy": false,
     "limited": "Aquilifer's Ballade",
-    "special": false,
+    "special": true,
     "other": [],
     "maps": [],
     "notes": [],
@@ -17343,7 +17343,7 @@
   "559": {
     "id": 559,
     "timer": "01:26:00",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": "Aquilifer's Ballade",
     "special": false,
@@ -17354,13 +17354,29 @@
     ],
     "events": [
       "Aquilifer's Ballade"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "560": {
     "id": 560,
     "timer": "01:54:00",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Aquilifer's Ballade",
     "special": false,
     "other": [],
@@ -17374,7 +17390,7 @@
     "id": 561,
     "timer": "05:15:00",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Aquilifer's Ballade",
     "special": false,
     "other": [],
@@ -17387,7 +17403,7 @@
   "562": {
     "id": 562,
     "timer": "00:32:00",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": "Aquilifer's Ballade",
     "special": false,
@@ -17405,7 +17421,9 @@
     "heavy": false,
     "limited": null,
     "special": false,
-    "other": [],
+    "other": [
+      3
+    ],
     "maps": [],
     "notes": [
       "Available as point accumulation reward during Aquilifer's Ballade"

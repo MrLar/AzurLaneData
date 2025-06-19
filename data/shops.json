@@ -1101,6 +1101,18 @@
         "name": "Elite Pool",
         "items": [
           {
+            "id": 563,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/aimannuaier",
+            "name": "Emanuele Pessagno",
+            "limit": -1,
+            "cost": 8000
+          },
+          {
             "id": 551,
             "type": 2,
             "amount": -1,
@@ -38719,6 +38731,349 @@
       [
         1606374000000,
         1607583599000
+      ]
+    ]
+  },
+  "50007": {
+    "type": 1,
+    "name": "Confluence of Nothingness Rerun",
+    "id": 50007,
+    "items": [
+      {
+        "id": 30021,
+        "type": 2,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "ships/compact/u556_alter",
+        "name": "U-556 META",
+        "limit": 1,
+        "cost": 8000
+      },
+      {
+        "id": 21021,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/21021",
+        "name": "META Crystal - U-556",
+        "limit": 4,
+        "cost": 2000
+      },
+      {
+        "id": 59274,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/buildticket",
+        "name": "Shipbuilding Support Ticket",
+        "limit": 10,
+        "cost": 500
+      },
+      {
+        "id": 30345,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/appearanceboxhaidaomaoxian",
+        "name": "Gear Skin Box (Deserted Island)",
+        "limit": 10,
+        "cost": 2000
+      },
+      {
+        "id": 30014,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30004",
+        "name": "T4 Eagle Tech Pack",
+        "limit": 4,
+        "cost": 300
+      },
+      {
+        "id": 30024,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30004",
+        "name": "T4 Royal Tech Pack",
+        "limit": 4,
+        "cost": 300
+      },
+      {
+        "id": 30034,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30004",
+        "name": "T4 Sakura Tech Pack",
+        "limit": 4,
+        "cost": 300
+      },
+      {
+        "id": 30044,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30004",
+        "name": "T4 Iron Blood Tech Pack",
+        "limit": 4,
+        "cost": 300
+      },
+      {
+        "id": 15008,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 100,
+        "blueprint": false,
+        "icon": "props/15008",
+        "name": "Cognitive Chips",
+        "limit": 10,
+        "cost": 300
+      },
+      {
+        "id": 15012,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 10,
+        "blueprint": false,
+        "icon": "props/15012",
+        "name": "Cognitive Array",
+        "limit": 5,
+        "cost": 1000
+      },
+      {
+        "id": 20011,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/20011",
+        "name": "Rare Cat Box",
+        "limit": 10,
+        "cost": 250
+      },
+      {
+        "id": 20012,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/20012",
+        "name": "Elite Cat Box",
+        "limit": 5,
+        "cost": 500
+      },
+      {
+        "id": 20013,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/20013",
+        "name": "Super Rare Cat Box",
+        "limit": 2,
+        "cost": 3000
+      },
+      {
+        "id": 42040,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/42040",
+        "name": "General Blueprint - Series 5",
+        "limit": 30,
+        "cost": 500
+      },
+      {
+        "id": 42046,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/42046",
+        "name": "Special General Blueprint - Series 5",
+        "limit": 10,
+        "cost": 1000
+      },
+      {
+        "id": 15014,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/15014",
+        "name": "Augment Module Core",
+        "limit": 5,
+        "cost": 300
+      },
+      {
+        "id": 15016,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/15016",
+        "name": "Augment Module Stone T2",
+        "limit": 50,
+        "cost": 90
+      },
+      {
+        "id": 15020,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/15019",
+        "name": "Augment Module Conversion Stone T1",
+        "limit": 10,
+        "cost": 600
+      },
+      {
+        "id": 15021,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/15020",
+        "name": "Augment Module Conversion Stone T2",
+        "limit": 2,
+        "cost": 2500
+      },
+      {
+        "id": 17003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17003",
+        "name": "T3 General Part",
+        "limit": 30,
+        "cost": 30
+      },
+      {
+        "id": 17013,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17013",
+        "name": "T3 Main Gun Part",
+        "limit": 30,
+        "cost": 30
+      },
+      {
+        "id": 17023,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17023",
+        "name": "T3 Torpedo Part",
+        "limit": 30,
+        "cost": 30
+      },
+      {
+        "id": 17033,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17033",
+        "name": "T3 Anti-Air Gun Part",
+        "limit": 30,
+        "cost": 30
+      },
+      {
+        "id": 17043,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/17043",
+        "name": "T3 Aircraft Part",
+        "limit": 30,
+        "cost": 30
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 2000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins",
+        "limit": 5,
+        "cost": 500
+      },
+      {
+        "id": 59002,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 1000,
+        "blueprint": false,
+        "icon": "props/oil",
+        "name": "Oil",
+        "limit": 5,
+        "cost": 450
+      },
+      {
+        "id": 50001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/suansukele",
+        "name": "Oxy-cola",
+        "limit": 100,
+        "cost": 15
+      }
+    ],
+    "currency": {
+      "id": 65624,
+      "name": "Confluence Fragment",
+      "icon": "props/bisimaiz_pt",
+      "linkable": false
+    },
+    "dates": [
+      [
+        1750316400000,
+        1750921199000
       ]
     ]
   }

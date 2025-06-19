@@ -65439,5 +65439,473 @@
     "time_limit": 80,
     "type": 9,
     "id": 1622
+  },
+  "2100481_a1_16000311": {
+    "name": "Aquilifer's Ballade-A1 - War Archive",
+    "acv": 100,
+    "opsi": false,
+    "boss": {
+      "id": 16000311,
+      "hull": 3,
+      "nation": 99,
+      "name": "Oceana II",
+      "stats": {
+        "hp": 2480,
+        "fp": 68,
+        "trp": 52,
+        "avi": 0,
+        "aa": 85,
+        "hit": 19,
+        "eva": 19,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 25,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenzhongxun_i"
+    },
+    "buffs": [],
+    "expo_id": 1660033,
+    "dungeon_id": 1660033,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1623
+  },
+  "2100481_a2_16000312": {
+    "name": "Aquilifer's Ballade-A2 - War Archive",
+    "acv": 130,
+    "opsi": false,
+    "boss": {
+      "id": 16000312,
+      "hull": 5,
+      "nation": 99,
+      "name": "Peace Breaker II",
+      "stats": {
+        "hp": 8900,
+        "fp": 150,
+        "trp": 0,
+        "avi": 0,
+        "aa": 115,
+        "hit": 20,
+        "eva": 16,
+        "spd": 20,
+        "luck": 0,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenzhanlie_i"
+    },
+    "buffs": [],
+    "expo_id": 1660133,
+    "dungeon_id": 1660133,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1624
+  },
+  "2100481_a3_16000313": {
+    "name": "Aquilifer's Ballade-A3 - War Archive",
+    "acv": 165,
+    "opsi": false,
+    "boss": {
+      "id": 16000313,
+      "hull": 7,
+      "nation": 99,
+      "name": "Strategist II",
+      "stats": {
+        "hp": 7800,
+        "fp": 55,
+        "trp": 0,
+        "avi": 85,
+        "aa": 125,
+        "hit": 21,
+        "eva": 16,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenhangmu_i"
+    },
+    "buffs": [],
+    "expo_id": 1660233,
+    "dungeon_id": 1660233,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1625
+  },
+  "2100482_b1_16001301": {
+    "name": "Aquilifer's Ballade-B1 - War Archive",
+    "acv": 210,
+    "opsi": false,
+    "boss": {
+      "id": 16001301,
+      "hull": 5,
+      "nation": 9,
+      "name": "Le Mars' Phantom",
+      "stats": {
+        "hp": 16500,
+        "fp": 140,
+        "trp": 55,
+        "avi": 0,
+        "aa": 180,
+        "hit": 25,
+        "eva": 16,
+        "spd": 20,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 45,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "lemaer_ghost"
+    },
+    "buffs": [],
+    "expo_id": 1661013,
+    "dungeon_id": 1661013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1626
+  },
+  "2100482_b2_16001302": {
+    "name": "Aquilifer's Ballade-B2 - War Archive",
+    "acv": 270,
+    "opsi": false,
+    "boss": {
+      "id": 16001302,
+      "hull": 7,
+      "nation": 2,
+      "name": "Hermes' Phantom",
+      "stats": {
+        "hp": 22800,
+        "fp": 120,
+        "trp": 0,
+        "avi": 165,
+        "aa": 240,
+        "hit": 25,
+        "eva": 19,
+        "spd": 16,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 55,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "jingjishen_ghost"
+    },
+    "buffs": [],
+    "expo_id": 1661113,
+    "dungeon_id": 1661113,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1627
+  },
+  "2100482_b3_16001303": {
+    "name": "Aquilifer's Ballade-B3 - War Archive",
+    "acv": 370,
+    "opsi": false,
+    "boss": {
+      "id": 16001303,
+      "hull": 10,
+      "nation": 6,
+      "name": "Roma's Phantom",
+      "stats": {
+        "hp": 25600,
+        "fp": 150,
+        "trp": 0,
+        "avi": 105,
+        "aa": 240,
+        "hit": 26,
+        "eva": 27,
+        "spd": 16,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "luoma_ghost"
+    },
+    "buffs": [],
+    "expo_id": 1661213,
+    "dungeon_id": 1661213,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1628
+  },
+  "2100491_c1_16002311": {
+    "name": "Aquilifer's Ballade-C1 - War Archive",
+    "acv": 555,
+    "opsi": false,
+    "boss": {
+      "id": 16002311,
+      "hull": 3,
+      "nation": 99,
+      "name": "Oceana II",
+      "stats": {
+        "hp": 38600,
+        "fp": 180,
+        "trp": 120,
+        "avi": 0,
+        "aa": 185,
+        "hit": 41,
+        "eva": 45,
+        "spd": 18,
+        "luck": 18,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 75,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenzhongxun_i"
+    },
+    "buffs": [],
+    "expo_id": 1662033,
+    "dungeon_id": 1662033,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1629
+  },
+  "2100491_c2_16002312": {
+    "name": "Aquilifer's Ballade-C2 - War Archive",
+    "acv": 705,
+    "opsi": false,
+    "boss": {
+      "id": 16002312,
+      "hull": 5,
+      "nation": 99,
+      "name": "Peace Breaker II",
+      "stats": {
+        "hp": 56200,
+        "fp": 220,
+        "trp": 0,
+        "avi": 0,
+        "aa": 225,
+        "hit": 42,
+        "eva": 42,
+        "spd": 20,
+        "luck": 18,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenzhanlie_i"
+    },
+    "buffs": [],
+    "expo_id": 1662133,
+    "dungeon_id": 1662133,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1630
+  },
+  "2100491_c3_16002313": {
+    "name": "Aquilifer's Ballade-C3 - War Archive",
+    "acv": 875,
+    "opsi": false,
+    "boss": {
+      "id": 16002313,
+      "hull": 7,
+      "nation": 99,
+      "name": "Strategist II",
+      "stats": {
+        "hp": 46800,
+        "fp": 190,
+        "trp": 0,
+        "avi": 225,
+        "aa": 265,
+        "hit": 40,
+        "eva": 42,
+        "spd": 18,
+        "luck": 18,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 85,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenhangmu_i"
+    },
+    "buffs": [],
+    "expo_id": 1662233,
+    "dungeon_id": 1662233,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1631
+  },
+  "2100492_d1_16003301": {
+    "name": "Aquilifer's Ballade-D1 - War Archive",
+    "acv": 950,
+    "opsi": false,
+    "boss": {
+      "id": 16003301,
+      "hull": 5,
+      "nation": 9,
+      "name": "Le Mars' Phantom",
+      "stats": {
+        "hp": 86200,
+        "fp": 240,
+        "trp": 130,
+        "avi": 0,
+        "aa": 260,
+        "hit": 69,
+        "eva": 32,
+        "spd": 16,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 95,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "lemaer_ghost"
+    },
+    "buffs": [],
+    "expo_id": 1663013,
+    "dungeon_id": 1663013,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1632
+  },
+  "2100492_d2_16003302": {
+    "name": "Aquilifer's Ballade-D2 - War Archive",
+    "acv": 1155,
+    "opsi": false,
+    "boss": {
+      "id": 16003302,
+      "hull": 7,
+      "nation": 2,
+      "name": "Hermes' Phantom",
+      "stats": {
+        "hp": 91000,
+        "fp": 160,
+        "trp": 0,
+        "avi": 300,
+        "aa": 390,
+        "hit": 43,
+        "eva": 53,
+        "spd": 16,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "jingjishen_ghost"
+    },
+    "buffs": [],
+    "expo_id": 1663113,
+    "dungeon_id": 1663113,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1633
+  },
+  "2100492_d3_16003303": {
+    "name": "Aquilifer's Ballade-D3 - War Archive",
+    "acv": 1480,
+    "opsi": false,
+    "boss": {
+      "id": 16003303,
+      "hull": 10,
+      "nation": 6,
+      "name": "Roma's Phantom",
+      "stats": {
+        "hp": 115000,
+        "fp": 280,
+        "trp": 0,
+        "avi": 210,
+        "aa": 460,
+        "hit": 52,
+        "eva": 40,
+        "spd": 18,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "luoma_ghost"
+    },
+    "buffs": [],
+    "expo_id": 1663213,
+    "dungeon_id": 1663213,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1634
   }
 }
