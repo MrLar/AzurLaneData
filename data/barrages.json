@@ -44736,7 +44736,6 @@
           "ammo": 3,
           "is_critical": false,
           "notes": [],
-          "reaim": true,
           "shrapnel": true,
           "ignore_shield": true,
           "range": [
@@ -44773,6 +44772,7 @@
           "ammo": 3,
           "is_critical": false,
           "notes": [],
+          "reaim": true,
           "shrapnel": false,
           "ignore_shield": true,
           "range": [
@@ -44809,7 +44809,6 @@
           "ammo": 2,
           "is_critical": false,
           "notes": [],
-          "reaim": true,
           "shrapnel": true,
           "ignore_shield": true,
           "range": [
@@ -44847,6 +44846,7 @@
           "is_critical": false,
           "notes": [],
           "shrapnel": false,
+          "reaim": true,
           "ignore_shield": true,
           "range": [
             0,
