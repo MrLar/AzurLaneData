@@ -58,7 +58,9 @@ interface BarrageWeapon extends DamagingBarrage<'weapon'> {
     targeting: string | null
     centered: boolean
     weapon_type: WeaponType
+    weapon_id: number
     bullet_type: BulletType
+    bullet_id: number
 }
 
 export interface BarrageSlash extends DamagingBarrage<'slash'> {
