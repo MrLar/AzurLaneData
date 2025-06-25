@@ -71,16 +71,11 @@ export interface BarrageSlash extends DamagingBarrage<'slash'> {
     fix_damage: number
 }
 
-type SummonStats = {
-    [key in ScalableStatKey]: string
-    hull: Hull
-    armor: number
-}
-
-interface BarrageSummonData extends BarrageEntry<'summon'> {
+export type BarrageSummon = BarrageEntry<'summon'> & {
     type: 'summon'
     weapons: Array<BarrageWeapon & { rld: string }>
+    hull: Hull
+    armor: number
+} & {
+    [key in ScalableStatKey]: string
 }
-
-
-export type BarrageSummon = BarrageSummonData & SummonStats
