@@ -14,27 +14,20 @@ Barrage provides info about a single skill barrage. It provides the following pr
 
 # Barrage Part
 
-Barrage Part may refer to a standard "Bullet" based barrage (see [Bullet Barrage](#bullet-barrage))
-or a Slashing Attack (see [Slash Barrage](#slash-barrage)). Both sub-interfaces share the following:
+Barrage Part may refer to a standard "Weapon" based barrage (see [Weapon Barrage](#weapon-barrage)),
+a Slashing Attack (see [Slash Barrage](#slash-barrage)) or a Summon (see [Barrage Summon](#barrage-summon))
 
 **Disclaimer: There is no guarantee for correctness/accuracy of any of these values due to how complicated and non-automatable barrage mining is.**
 
-|     Property     |    Type    |                                            Description                                             |
-| :--------------: | :--------: | :------------------------------------------------------------------------------------------------: |
-|  **is_slash?**   |  `number`  | **(Optional)** Whether this barrage is a Slash Barrage. If absent or false it is a Bullet Barrage. |
-|    **damage**    |  `number`  |                                      Base damage of the part.                                      |
-|    **count**     |  `number`  |                               Attack Count/Bullet count of the part.                               |
-|    **buffs?**    | `string[]` |                  **(Optional)** Textual explanation of (de)buffs applied on hit.                   |
-| **buff_chance?** |  `number`  |                         **(Optional)** Chance for (de)buffs to be applied.                         |
+# Weapon Barrage
 
-
-# Bullet Barrage
-
-Barrage Part provides information about a single bulelt-eque part of a barrage. These parts are roughly grouped by identical bullet types. It provides the following:
+Weapon Barrage provides information about a single weapon\* of a barrage,
+it extends [Damaging Barrage](#damaging-barrage) and additionally provides the following:
 
 
 |     Property      |                              Type                               |                                                                                                       Description                                                                                                       |
 | :---------------: | :-------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|     **type**      |                           `"weapon"`                            |                                                                                            Will always be the string weapon.                                                                                            |
 |  **fix_damage?**  |                            `number`                             |              **(Optional)** Fixed amount of damage this part deals (i.E. it does not scale with anything). If both damage keys are present and non-zero this is simply added on top of the *final* value.               |
 |  **coefficient**  |                            `number`                             |                                                                                                Coefficient of the part.                                                                                                 |
 |     **stat**      | [`WeaponStat`](../common.md#weapon-stat-keys) \| `"fleetpower"` |                                                                                              Stat this part scales off of.                                                                                              |
@@ -59,19 +52,25 @@ Barrage Part provides information about a single bulelt-eque part of a barrage. 
 |   **tracker?**    |       [`MagneticTracker`](../common.md#magnetic-tracker)        |                                           **(Optional)** Tracker the ammo carried has in it, this is only potentially present if the ammo is a torpedo (4) or a missile (8).                                            |
 |   **targeting**   |                       `string` \| `null`                        |                                                                     Textual description of targeting method or null if no target/default targeting.                                                                     |
 |   **centered**    |                            `boolean`                            | Whether this barrage is explicitly set to spawn from the flagship when it otherwise wouldnt. **Do note that a value of false can still mean it spawns from the flagship because of how that bullet/weapon type works**. |
+|   **bullet_id**   |                            `number`                             |                                                            The ID of the bullet used (there may be more than one but only one is listed, may be incorrect).                                                             |
+|   **weapon_id**   |                            `number`                             |                                                               The ID of the weapon (there may be more than one but only one is listed, may be incorrect).                                                               |
+|  **bullet_type**  |         [`BulletType`](../equips/index.md#bullet-type)          |                                                                                                 The type of the bullet.                                                                                                 |
+|  **weapon_type**  |         [`WeaponType`](../equips/index.md#weapon-type)          |                                                                                                 The type of the weapon.                                                                                                 |
 
 
 Note: This interface shares a lot in common with regular weapons, however the overlap is not exactly 1:1 therefore it does not directly extend Weapon or any of it's sub-types.
 
+\* A single weapon my not neccesarily be a single weapon in the actual game files. The same is true for bullets.
 
 # Slash Barrage
 
-Slash Part provides information about a single slash-eque part of a barrage. It provides the following:
+Slash Part provides information about a single slash of a barrage,
+it extends [Damaging Barrage](#damaging-barrage) and additionally provides the following:
 
 
 |     Property      |                      Type                      |                                                          Description                                                          |
 | :---------------: | :--------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
-|   **is_slash**    |                     `true`                     |                                         This value is ALWAYS true for slash barrages.                                         |
+|     **type**      |                   `"slash"`                    |                                               Will always be the string slash.                                                |
 |  **fix_damage**   |                    `number`                    |                                      The flat and fixed amount of damage this slash does                                      |
 |   **velocity**    |                    `number`                    |                                                    Velocity of this slash.                                                    |
 |   **level_of**    |                    `string`                    |                      Textual description of ships that contribute to the Average Level for damage calcs.                      |
@@ -82,3 +81,40 @@ Slash Part provides information about a single slash-eque part of a barrage. It 
 
 Note: The damage property of slashes is scaled by the average level of all ships as described by `level_of`.
 The final damage is equal to \\(AverageLevel * damage + fix_damage\\).
+
+# Barrage Summon
+
+Barrage Summon provides information about a single summon created by a skill.
+It extends [Base Barrage](#base-barrage) and additionally provides the following:
+
+|  Property   |                           Type                            |                                                          Description                                                           |
+| :---------: | :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
+|  **hull**   |                [`Hull`](../common.md#hull)                |                                                 The hull the summon will use.                                                  |
+|  **armor**  |                         `number`                          |           The armor type of the summon as a number with the range `[0, 3]` for Light, Medium and Heavy respectively.           |
+| **weapons** | [`(Weapon Barrage & { rld: string })[]`](#weapon-barrage) | Weapons this summon has. The extra `rld` prop provides the base reload of the weapon. N/A means the weapon cannot be reloaded. |
+
+
+In addition to the above it contains one **non-optional** property of type `string` for each [ScalableStatKey](../common.md#scalable-stat-keys) which
+represents the amount the summon inherits (if a percentage) or the actual stat value the summon will have.
+
+
+# Base Barrage
+
+Base barrage is a super-interface for all barrage entries. It provides:
+
+
+|     Property     |                 Type                  |                           Description                           |
+|     **type**     | `"weapon"` \| `"slash"` \| `"summon"` |                     The type of this entry.                     |
+|    **buffs?**    |              `string[]`               | **(Optional)** Textual explanation of (de)buffs applied on hit. |
+| **buff_chance?** |               `number`                |       **(Optional)** Chance for (de)buffs to be applied.        |
+
+
+# Damaging Barrage
+
+Damaging barrage is a super-interface for [Weapon Barrages](#weapon-barrage) and [Slash Barrages](#slash-barrage).
+It extends [Base Barrage](#base-barrage) and additionally provides the following:
+
+|  Property  |   Type   |              Description               |
+| :--------: | :------: | :------------------------------------: |
+| **damage** | `number` |        Base damage of the part.        |
+| **count**  | `number` | Attack Count/Bullet count of the part. |

@@ -60,6 +60,7 @@
     "barrage_id": 1110,
     "stat": "fp",
     "ratio": 1,
+    "weapon_type": 2,
     "aim_type": 1,
     "bullet_id": 19554,
     "armor_mod": [
@@ -68,6 +69,7 @@
       0.7
     ],
     "ammo": 3,
+    "bullet_type": 1,
     "spread": [
       0,
       0
@@ -149,6 +151,7 @@
     "barrage_id": 1403,
     "stat": "trp",
     "ratio": 1,
+    "weapon_type": 16,
     "aim_type": 1,
     "bullet_id": 19555,
     "armor_mod": [
@@ -161,6 +164,7 @@
       "range": 14
     },
     "ammo": 4,
+    "bullet_type": 3,
     "spread": [
       0,
       0
@@ -239,6 +243,7 @@
     "barrage_id": 2000,
     "stat": "aa",
     "ratio": 1,
+    "weapon_type": 22,
     "aim_type": 1,
     "bullet_id": 2000,
     "armor_mod": [
@@ -247,6 +252,7 @@
       1
     ],
     "ammo": 5,
+    "bullet_type": 6,
     "spread": [
       0,
       0
@@ -325,6 +331,7 @@
     "barrage_id": 1403,
     "stat": "trp",
     "ratio": 1,
+    "weapon_type": 16,
     "aim_type": 1,
     "bullet_id": 1803,
     "armor_mod": [
@@ -337,6 +344,7 @@
       "range": 14
     },
     "ammo": 4,
+    "bullet_type": 3,
     "spread": [
       0,
       0
@@ -415,6 +423,7 @@
     "barrage_id": 2000,
     "stat": "aa",
     "ratio": 1,
+    "weapon_type": 22,
     "aim_type": 1,
     "bullet_id": 2000,
     "armor_mod": [
@@ -423,6 +432,7 @@
       1
     ],
     "ammo": 5,
+    "bullet_type": 6,
     "spread": [
       0,
       0

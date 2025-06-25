@@ -67,6 +67,8 @@ export interface ExtendedWeapon extends WeaponBase {
     aim_type: AimType
     barrage_id: number
     bullet_id: number
+    weapon_type: WeaponType
+    bullet_type: BulletType
     buffs?: string[]
 }
 
@@ -106,7 +108,6 @@ export interface Armament extends ExtendedWeapon, ReloadableWeapon {
     coefficient?: number[]
     aircraft: false
     airdrop?: boolean
-    skip_bomb?: boolean
 }
 
 export interface EquipDropData {
@@ -160,6 +161,41 @@ export type BulletType =
 15 | // scale
 16 | // trigger bomb
 17 // aa missile
+
+export type WeaponType =
+1  | // Main Cannon
+2  | // Sub Cannon
+3  | // Torpedo
+4  | // Anti Air
+5  | // Armour
+6  | // Engine
+7  | // Radar
+10 | // Strike Aircraft
+11 | // Intercept Aircraft
+12 | // Crew
+13 | // Charge
+14 | // Special
+15 | // Mega Charge
+16 | // Manual Torpedo
+17 | // Anti Sea
+18 | // Hammer Head
+19 | // Bomber pre cast alert
+20 | // Multi Lock
+21 | // Manual Sub
+22 | // Fleet Anti Air
+23 | // Point Hit and Lock
+24 | // Beam
+25 | // Depth Charge
+26 | // Repeater Anti Air
+27 | // Disposable Torpedo
+28 | // Space Laser
+29 | // Missile
+30 | // Fleet Range Anti Air
+31 | // Manual Missile
+32 | // Auto Missile
+33 | // Manual Meteor
+80 | // Manual AA Missile
+99   // Preview Aricraft
 
 // Unknown | Random | Aimed
 export type AimType = -1 | 0 | 1

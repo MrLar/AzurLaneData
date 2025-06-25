@@ -6,8 +6,8 @@
  * https://opensource.org/licenses/MIT.
  */
 
-import { type WeaponStat } from './common'
-import { BulletType, type AimType, type AmmoType } from './equipments'
+import type { Hull, ScalableStatKey, WeaponStat } from './common'
+import type { AimType, AmmoType, BulletType, WeaponType } from './equipments'
 
 interface Barrage {
     name: string
@@ -15,18 +15,20 @@ interface Barrage {
     is_aoa?: boolean
 }
 
-type BarragePart = BarrageBullet | BarrageSlash
+type BarragePart = BarrageWeapon | BarrageSlash | BarrageSummon
 
-interface BarrageEntry {
-    is_slash?: boolean
-    damage: number
-    count: number
+interface BarrageEntry<T> {
+    type: T
     buffs?: string[]
     buff_chance?: number
 }
 
-interface BarrageBullet extends BarrageEntry {
-    is_slash?: false
+interface DamagingBarrage<T> extends BarrageEntry<T> {
+    damage: number
+    count: number
+}
+
+interface BarrageWeapon extends DamagingBarrage<'weapon'> {
     fix_damage?: number
     coefficient: number
     range: number[]
@@ -55,10 +57,11 @@ interface BarrageBullet extends BarrageEntry {
     },
     targeting: string | null
     centered: boolean
+    weapon_type: WeaponType
+    bullet_type: BulletType
 }
 
-interface BarrageSlash extends BarrageEntry {
-    is_slash: true
+export interface BarrageSlash extends DamagingBarrage<'slash'> {
     level_of: string
     clears: BulletType[]
     velocity: number
@@ -67,3 +70,17 @@ interface BarrageSlash extends BarrageEntry {
     range: number
     fix_damage: number
 }
+
+type SummonStats = {
+    [key in ScalableStatKey]: string
+    hull: Hull
+    armor: number
+}
+
+interface BarrageSummonData extends BarrageEntry<'summon'> {
+    type: 'summon'
+    weapons: Array<BarrageWeapon & { rld: string }>
+}
+
+
+export type BarrageSummon = BarrageSummonData & SummonStats

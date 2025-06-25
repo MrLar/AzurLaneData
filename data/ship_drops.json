@@ -3178,13 +3178,15 @@
     "timer": null,
     "light": false,
     "heavy": false,
-    "limited": "Moonlit Overture",
+    "limited": null,
     "special": false,
     "other": [
       2
     ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available as map clear reward during Moonlit Overture"
+    ],
     "events": [
       "Moonlit Overture"
     ]
@@ -3194,13 +3196,15 @@
     "timer": null,
     "light": false,
     "heavy": false,
-    "limited": "Moonlit Overture",
+    "limited": null,
     "special": false,
     "other": [
       3
     ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available as login reward during Moonlit Overture"
+    ],
     "events": [
       "Moonlit Overture"
     ]
@@ -3210,13 +3214,15 @@
     "timer": null,
     "light": false,
     "heavy": false,
-    "limited": "Moonlit Overture",
+    "limited": null,
     "special": false,
     "other": [
       3
     ],
     "maps": [],
-    "notes": [],
+    "notes": [
+      "Available as task reward during Moonlit Overture"
+    ],
     "events": [
       "Moonlit Overture"
     ]
@@ -4010,7 +4016,7 @@
   },
   "60": {
     "id": 60,
-    "timer": null,
+    "timer": "04:25:00",
     "light": false,
     "heavy": false,
     "limited": "Fallen Wings",
@@ -4026,7 +4032,7 @@
   },
   "61": {
     "id": 61,
-    "timer": null,
+    "timer": "04:25:00",
     "light": false,
     "heavy": false,
     "limited": "Fallen Wings",
@@ -4138,7 +4144,7 @@
   },
   "64": {
     "id": 64,
-    "timer": null,
+    "timer": "04:50:00",
     "light": false,
     "heavy": false,
     "limited": "Fallen Wings",
@@ -6742,7 +6748,7 @@
   },
   "103": {
     "id": 103,
-    "timer": null,
+    "timer": "00:18:00",
     "light": false,
     "heavy": false,
     "limited": "Strive, Wish and Strategize",
@@ -7095,7 +7101,7 @@
   },
   "111": {
     "id": 111,
-    "timer": null,
+    "timer": "01:25:00",
     "light": false,
     "heavy": false,
     "limited": "Winter's Crown Rerun",
@@ -8056,7 +8062,7 @@
   },
   "135": {
     "id": 135,
-    "timer": null,
+    "timer": "04:50:00",
     "light": false,
     "heavy": false,
     "limited": "Strive, Wish and Strategize",
@@ -8086,7 +8092,7 @@
   },
   "136": {
     "id": 136,
-    "timer": null,
+    "timer": "04:50:00",
     "light": false,
     "heavy": false,
     "limited": "Winter's Crown Rerun",
@@ -8527,7 +8533,7 @@
   },
   "148": {
     "id": 148,
-    "timer": null,
+    "timer": "03:50:00",
     "light": false,
     "heavy": false,
     "limited": "Glorious Battle",
@@ -8987,7 +8993,7 @@
   },
   "166": {
     "id": 166,
-    "timer": null,
+    "timer": "00:27:00",
     "light": false,
     "heavy": false,
     "limited": "Visitors Dyed in Red Rerun",
@@ -9146,7 +9152,7 @@
   },
   "170": {
     "id": 170,
-    "timer": null,
+    "timer": "00:27:00",
     "light": false,
     "heavy": false,
     "limited": "Visitors Dyed in Red",
@@ -9353,7 +9359,7 @@
   },
   "186": {
     "id": 186,
-    "timer": null,
+    "timer": "01:05:00",
     "light": false,
     "heavy": false,
     "limited": "Swirling Cherry Blossoms",
@@ -9413,7 +9419,7 @@
   },
   "188": {
     "id": 188,
-    "timer": null,
+    "timer": "01:48:00",
     "light": false,
     "heavy": false,
     "limited": "Visitors Dyed in Red Rerun",
@@ -9450,7 +9456,7 @@
   },
   "189": {
     "id": 189,
-    "timer": null,
+    "timer": "01:48:00",
     "light": false,
     "heavy": false,
     "limited": null,
@@ -9773,7 +9779,7 @@
   },
   "201": {
     "id": 201,
-    "timer": null,
+    "timer": "02:05:00",
     "light": false,
     "heavy": false,
     "limited": "Strive, Wish and Strategize",
@@ -10081,7 +10087,7 @@
   },
   "212": {
     "id": 212,
-    "timer": null,
+    "timer": "04:20:00",
     "light": false,
     "heavy": false,
     "limited": "Ink-Stained Steel Sakura",
@@ -10559,7 +10565,7 @@
   },
   "228": {
     "id": 228,
-    "timer": null,
+    "timer": "04:30:00",
     "light": false,
     "heavy": false,
     "limited": "Visitors Dyed in Red",
@@ -10578,7 +10584,7 @@
   },
   "229": {
     "id": 229,
-    "timer": null,
+    "timer": "04:30:00",
     "light": false,
     "heavy": false,
     "limited": "Visitors Dyed in Red",
@@ -10971,7 +10977,7 @@
   },
   "237": {
     "id": 237,
-    "timer": null,
+    "timer": "00:33:00",
     "light": false,
     "heavy": false,
     "limited": "Opposite-Colored; Divergent Chessboard",
@@ -11338,7 +11344,7 @@
   },
   "242": {
     "id": 242,
-    "timer": null,
+    "timer": "02:00:00",
     "light": false,
     "heavy": false,
     "limited": "Opposite-Colored; Divergent Chessboard",
@@ -11656,7 +11662,7 @@
   },
   "251": {
     "id": 251,
-    "timer": null,
+    "timer": "06:00:00",
     "light": false,
     "heavy": false,
     "limited": null,
@@ -11738,7 +11744,7 @@
   },
   "255": {
     "id": 255,
-    "timer": null,
+    "timer": "00:32:00",
     "light": false,
     "heavy": false,
     "limited": "Lunar New Year 2018",
@@ -11759,7 +11765,7 @@
   },
   "256": {
     "id": 256,
-    "timer": null,
+    "timer": "00:32:00",
     "light": false,
     "heavy": false,
     "limited": "Lunar New Year 2018",
@@ -12101,7 +12107,7 @@
   },
   "267": {
     "id": 267,
-    "timer": null,
+    "timer": "00:39:00",
     "light": false,
     "heavy": false,
     "limited": "Divergent Chessboard",
@@ -12382,7 +12388,7 @@
   },
   "288": {
     "id": 288,
-    "timer": null,
+    "timer": "00:25:00",
     "light": false,
     "heavy": false,
     "limited": "Ink-Stained Steel Sakura",
@@ -12446,7 +12452,7 @@
   },
   "296": {
     "id": 296,
-    "timer": null,
+    "timer": "00:29:00",
     "light": false,
     "heavy": false,
     "limited": "Ink-Stained Steel Sakura",
@@ -12465,7 +12471,7 @@
   },
   "297": {
     "id": 297,
-    "timer": null,
+    "timer": "00:29:00",
     "light": false,
     "heavy": false,
     "limited": "Ink-Stained Steel Sakura",
@@ -12897,7 +12903,7 @@
   },
   "320": {
     "id": 320,
-    "timer": null,
+    "timer": "03:30:00",
     "light": false,
     "heavy": false,
     "limited": "The War God's Return",
@@ -12995,7 +13001,7 @@
   },
   "325": {
     "id": 325,
-    "timer": null,
+    "timer": "00:29:00",
     "light": false,
     "heavy": false,
     "limited": "Winter's Crown",
@@ -13088,7 +13094,7 @@
   },
   "328": {
     "id": 328,
-    "timer": null,
+    "timer": "01:22:00",
     "light": false,
     "heavy": false,
     "limited": "Winter's Crown",
@@ -13410,7 +13416,7 @@
   },
   "345": {
     "id": 345,
-    "timer": null,
+    "timer": "00:35:00",
     "light": false,
     "heavy": false,
     "limited": "Opposite-Colored; Divergent Chessboard",
@@ -13612,7 +13618,7 @@
   },
   "353": {
     "id": 353,
-    "timer": null,
+    "timer": "05:50:00",
     "light": false,
     "heavy": false,
     "limited": "Iris of Light and Dark",
@@ -13629,7 +13635,7 @@
   },
   "354": {
     "id": 354,
-    "timer": null,
+    "timer": "05:00:00",
     "light": false,
     "heavy": false,
     "limited": "Iris of Light and Dark",
@@ -13689,7 +13695,7 @@
   },
   "358": {
     "id": 358,
-    "timer": null,
+    "timer": "00:24:00",
     "light": false,
     "heavy": false,
     "limited": "1 Year Anniversary",
@@ -13705,7 +13711,7 @@
   },
   "359": {
     "id": 359,
-    "timer": null,
+    "timer": "00:26:00",
     "light": false,
     "heavy": false,
     "limited": "1 Year Anniversary",
@@ -13785,7 +13791,7 @@
   },
   "364": {
     "id": 364,
-    "timer": null,
+    "timer": "01:56:00",
     "light": false,
     "heavy": false,
     "limited": "Fallen Wings",
@@ -13939,7 +13945,7 @@
   },
   "371": {
     "id": 371,
-    "timer": null,
+    "timer": "00:55:00",
     "light": false,
     "heavy": false,
     "limited": "Winter's Crown Rerun",
@@ -14028,7 +14034,7 @@
   },
   "376": {
     "id": 376,
-    "timer": null,
+    "timer": "02:20:00",
     "light": false,
     "heavy": false,
     "limited": null,
@@ -14356,7 +14362,7 @@
   },
   "394": {
     "id": 394,
-    "timer": null,
+    "timer": "00:33:00",
     "light": false,
     "heavy": false,
     "limited": "Iris of Light and Dark Rerun",
@@ -14375,7 +14381,7 @@
   },
   "395": {
     "id": 395,
-    "timer": null,
+    "timer": "00:26:00",
     "light": false,
     "heavy": false,
     "limited": "Iris of Light and Dark Rerun",
@@ -14568,7 +14574,7 @@
   },
   "406": {
     "id": 406,
-    "timer": null,
+    "timer": "00:20:00",
     "light": false,
     "heavy": false,
     "limited": "Ashen Simulacrum",
