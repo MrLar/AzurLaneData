@@ -21552,5 +21552,321 @@
       "JP",
       "CN"
     ]
+  },
+  "4185": {
+    "id": 4185,
+    "name": "Neon City Searchlight (Equipment)",
+    "icon": "100075",
+    "types": [
+      10
+    ],
+    "rarity": 4,
+    "theme": "Journey by Rail",
+    "description": "There can be no crime where the light shines!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4186": {
+    "id": 4186,
+    "name": "Train Ticket Shell",
+    "icon": "101230",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Journey by Rail",
+    "description": "Here's your ticket... to hell!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4187": {
+    "id": 4187,
+    "name": "Steam Whistle Shell",
+    "icon": "101231",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Journey by Rail",
+    "description": "Keep it away from Gallant, or she'll wake the whole neighborhood with it.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4188": {
+    "id": 4188,
+    "name": "Coupler Shell",
+    "icon": "101232",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Journey by Rail",
+    "description": "We will never be separated, not even by 1,000 kN of force!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4189": {
+    "id": 4189,
+    "name": "Station Sign Torpedo",
+    "icon": "101233",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Journey by Rail",
+    "description": "Ready for your journey? Give us a sign if so!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4190": {
+    "id": 4190,
+    "name": "Crossbuck Torpedo",
+    "icon": "101234",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Journey by Rail",
+    "description": "Why so cross? Never mind, I think I know why.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4191": {
+    "id": 4191,
+    "name": "Railway Track Torpedo",
+    "icon": "101235",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Journey by Rail",
+    "description": "May you find the track... before the track finds you.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4192": {
+    "id": 4192,
+    "name": "Conductor's Cap Shell",
+    "icon": "101236",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Journey by Rail",
+    "description": "Alright, all the tickets are in order. Let's blast off!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4193": {
+    "id": 4193,
+    "name": "Trunks Shell",
+    "icon": "101237",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Journey by Rail",
+    "description": "Pack your bags, we're going on a long journey!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4194": {
+    "id": 4194,
+    "name": "Station Clock Shell",
+    "icon": "101238",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Journey by Rail",
+    "description": "Good heavens, would you look at the time!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4195": {
+    "id": 4195,
+    "name": "Locomotive (Torpedo)",
+    "icon": "101239",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Journey by Rail",
+    "description": "Choo-choo! Everyone, board the pain train!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4196": {
+    "id": 4196,
+    "name": "Locomotive (Fighter)",
+    "icon": "101239",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Journey by Rail",
+    "description": "Choo-choo! Everyone, board the pain train!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4197": {
+    "id": 4197,
+    "name": "Locomotive (Bomber)",
+    "icon": "101239",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Journey by Rail",
+    "description": "Choo-choo! Everyone, board the pain train!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4198": {
+    "id": 4198,
+    "name": "Train Attendant Manjuu (Torpedo)",
+    "icon": "101240",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Journey by Rail",
+    "description": "Wait! You forgot your luggage!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4199": {
+    "id": 4199,
+    "name": "Train Attendant Manjuu (Fighter)",
+    "icon": "101240",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Journey by Rail",
+    "description": "Wait! You forgot your luggage!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4200": {
+    "id": 4200,
+    "name": "Train Attendant Manjuu (Bomber)",
+    "icon": "101240",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Journey by Rail",
+    "description": "Wait! You forgot your luggage!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4201": {
+    "id": 4201,
+    "name": "Guide Manjuu (Torpedo)",
+    "icon": "101241",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Journey by Rail",
+    "description": "Guides you to your destination and the strike team to their target.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4202": {
+    "id": 4202,
+    "name": "Guide Manjuu (Fighter)",
+    "icon": "101241",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Journey by Rail",
+    "description": "Guides you to your destination and the strike team to their target.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4203": {
+    "id": 4203,
+    "name": "Guide Manjuu (Bomber)",
+    "icon": "101241",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Journey by Rail",
+    "description": "Guides you to your destination and the strike team to their target.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
   }
 }

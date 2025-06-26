@@ -18428,6 +18428,23 @@
       }
     ]
   },
+  "30369": {
+    "id": 30369,
+    "name": "Gear Skin Box (Rail)",
+    "description": "Contains a random Rail-themed gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxtiedao",
+    "rarity": 5,
+    "locations": [
+      "The Neon City Investigator"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "30401": {
     "id": 30401,
     "name": "Random Gear Skin Box (Cruise Series 3)",
@@ -30812,6 +30829,23 @@
         "name": "Kayaking Manjuu (Bomber)"
       }
     ]
+  },
+  "30556": {
+    "id": 30556,
+    "name": "Selection Gear Skin Box (Rail)",
+    "description": "Can be opened to receive 1 Rail-themed gear skin of your choosing.",
+    "type": 13,
+    "icon": "props/appearanceboxtiedaozixuan",
+    "rarity": 5,
+    "locations": [
+      "The Neon City Investigator"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
   },
   "30911": {
     "id": 30911,

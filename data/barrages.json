@@ -50021,6 +50021,110 @@
       ]
     }
   ],
+  "30482": [
+    {
+      "name": "All Out Assault - U-552 II",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 36,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": true,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 3,
+          "velocity": 2,
+          "pierce": 0,
+          "shell_range": [
+            70,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168272,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 161137,
+          "type": "weapon",
+          "tracker": {
+            "angular": 1.6,
+            "range": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "All Out Assault - U-552 II (enhanced)",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 36,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": true,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 3,
+          "velocity": 2,
+          "pierce": 0,
+          "shell_range": [
+            70,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168274,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 161137,
+          "type": "weapon",
+          "tracker": {
+            "angular": 1.6,
+            "range": 14
+          }
+        }
+      ]
+    }
+  ],
   "60130": [
     {
       "name": "Inflict Burns",
@@ -68794,6 +68898,349 @@
           "bullet_type": 3,
           "bullet_id": 170774,
           "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "151320": [
+    {
+      "name": "Threshold Computation (multiple enemies)",
+      "parts": [
+        {
+          "damage": 65,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1,
+            1
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168180,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161134,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Threshold Computation (single enemies)",
+      "parts": [
+        {
+          "damage": 150,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.3,
+            1,
+            1
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 15,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            6,
+            6
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168190,
+          "weapon_type": 1,
+          "bullet_type": 2,
+          "bullet_id": 161133,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "151340": [
+    {
+      "name": "Bespoke Tactics! (Level 1)",
+      "parts": [
+        {
+          "damage": 130,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 3,
+          "velocity": 4,
+          "pierce": 0,
+          "shell_range": [
+            130,
+            170
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168230,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 170801,
+          "type": "weapon",
+          "tracker": {
+            "angular": 1.6,
+            "range": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bespoke Tactics! (Level 2)",
+      "parts": [
+        {
+          "damage": 150,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 3,
+          "velocity": 4,
+          "pierce": 0,
+          "shell_range": [
+            130,
+            170
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168240,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 170801,
+          "type": "weapon",
+          "tracker": {
+            "angular": 1.6,
+            "range": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bespoke Tactics (Level 3)",
+      "parts": [
+        {
+          "damage": 170,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 3,
+          "velocity": 4,
+          "pierce": 0,
+          "shell_range": [
+            130,
+            170
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168240,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 170801,
+          "type": "weapon",
+          "tracker": {
+            "angular": 1.6,
+            "range": 14
+          }
+        }
+      ]
+    }
+  ],
+  "151360": [
+    {
+      "name": "Roter Teufel",
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1.1,
+          "count": 26,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.9,
+            0.7,
+            0.4
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 12,
+          "pierce": 1,
+          "shell_range": [
+            50,
+            70
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168260,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 161135,
+          "type": "weapon"
+        },
+        {
+          "damage": 50,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 3,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            70,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168270,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 161136,
+          "type": "weapon",
+          "tracker": {
+            "angular": 1.6,
+            "range": 14
+          },
+          "buffs": [
+            "Increase damage taken from U-552 by 10% for 10s (does not stack)."
+          ],
+          "buff_chance": 1
         }
       ]
     }

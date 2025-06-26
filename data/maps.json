@@ -65907,5 +65907,590 @@
     "time_limit": 180,
     "type": 16,
     "id": 1634
+  },
+  "coalation_1930101_16740301": {
+    "name": "The Neon City Investigator: EASY: Filming Location: Main Road",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16740301,
+      "hull": 8,
+      "nation": 4,
+      "name": "Police Sergeant U-37",
+      "stats": {
+        "hp": 2340,
+        "fp": 41,
+        "trp": 162,
+        "avi": 0,
+        "aa": 112,
+        "hit": 19,
+        "eva": 19,
+        "spd": 18,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "u37_3"
+    },
+    "buffs": [],
+    "expo_id": 1930101,
+    "dungeon_id": 1930101,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1635
+  },
+  "coalation_1930201_16741301": {
+    "name": "The Neon City Investigator: NORMAL: Filming Location: Downtown (Boss #1)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16741301,
+      "hull": 8,
+      "nation": 4,
+      "name": "Police Sergeant U-37",
+      "stats": {
+        "hp": 7800,
+        "fp": 75,
+        "trp": 212,
+        "avi": 171,
+        "aa": 204,
+        "hit": 24,
+        "eva": 22,
+        "spd": 20,
+        "luck": 8,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "u37_3"
+    },
+    "buffs": [],
+    "expo_id": 1930201,
+    "dungeon_id": 1930201,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1636
+  },
+  "coalation_1930202_16741302": {
+    "name": "The Neon City Investigator: NORMAL: Filming Location: Downtown (Boss #2)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16741302,
+      "hull": 18,
+      "nation": 3,
+      "name": "Instructor Azuma",
+      "stats": {
+        "hp": 7800,
+        "fp": 75,
+        "trp": 212,
+        "avi": 171,
+        "aa": 204,
+        "hit": 24,
+        "eva": 22,
+        "spd": 20,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "wuqi_3"
+    },
+    "buffs": [],
+    "expo_id": 1930202,
+    "dungeon_id": 1930202,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1637
+  },
+  "coalation_1930301_16742301": {
+    "name": "The Neon City Investigator: HARD: Filming Location: Railcar (Boss #1)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16742301,
+      "hull": 8,
+      "nation": 4,
+      "name": "Police Sergeant U-37",
+      "stats": {
+        "hp": 23640,
+        "fp": 108,
+        "trp": 428,
+        "avi": 317,
+        "aa": 304,
+        "hit": 35,
+        "eva": 26,
+        "spd": 20,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "u37_3"
+    },
+    "buffs": [],
+    "expo_id": 1930301,
+    "dungeon_id": 1930301,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1638
+  },
+  "coalation_1930302_16742302": {
+    "name": "The Neon City Investigator: HARD: Filming Location: Railcar (Boss #2)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16742302,
+      "hull": 8,
+      "nation": 4,
+      "name": "Assistant Officer U-552",
+      "stats": {
+        "hp": 33640,
+        "fp": 108,
+        "trp": 428,
+        "avi": 317,
+        "aa": 304,
+        "hit": 35,
+        "eva": 26,
+        "spd": 20,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "u552_2"
+    },
+    "buffs": [],
+    "expo_id": 1930302,
+    "dungeon_id": 1930302,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1639
+  },
+  "coalation_1930303_16742303": {
+    "name": "The Neon City Investigator: HARD: Filming Location: Railcar (Boss #3)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16742303,
+      "hull": 4,
+      "nation": 4,
+      "name": "Officer Zenker",
+      "stats": {
+        "hp": 96200,
+        "fp": 280,
+        "trp": 0,
+        "avi": 0,
+        "aa": 260,
+        "hit": 71,
+        "eva": 33,
+        "spd": 16,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "zengkehaijunshangjiang_2"
+    },
+    "buffs": [],
+    "expo_id": 1930303,
+    "dungeon_id": 1930303,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1640
+  },
+  "coalation_1930401_16743301": {
+    "name": "The Neon City Investigator: SP: Filming Location: Business District (Boss #1)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16743301,
+      "hull": 2,
+      "nation": 2,
+      "name": "Officer Neptune",
+      "stats": {
+        "hp": 98500,
+        "fp": 230,
+        "trp": 280,
+        "avi": 300,
+        "aa": 440,
+        "hit": 71,
+        "eva": 60,
+        "spd": 20,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "haiwangxing_4"
+    },
+    "buffs": [],
+    "expo_id": 1930401,
+    "dungeon_id": 1930401,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1641
+  },
+  "coalation_1930402_16743302": {
+    "name": "The Neon City Investigator: SP: Filming Location: Business District (Boss #2)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16743302,
+      "hull": 1,
+      "nation": 4,
+      "name": "Assistant Officer Z13",
+      "stats": {
+        "hp": 106800,
+        "fp": 175,
+        "trp": 340,
+        "avi": 0,
+        "aa": 285,
+        "hit": 51,
+        "eva": 60,
+        "spd": 18,
+        "luck": 22,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "z13_2"
+    },
+    "buffs": [],
+    "expo_id": 1930402,
+    "dungeon_id": 1930402,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1642
+  },
+  "coalation_1930403_16743303": {
+    "name": "The Neon City Investigator: SP: Filming Location: Business District (Boss #3)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16743303,
+      "hull": 4,
+      "nation": 4,
+      "name": "Officer Zenker",
+      "stats": {
+        "hp": 125000,
+        "fp": 320,
+        "trp": 180,
+        "avi": 300,
+        "aa": 390,
+        "hit": 65,
+        "eva": 49,
+        "spd": 18,
+        "luck": 30,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "zengkehaijunshangjiang_2"
+    },
+    "buffs": [],
+    "expo_id": 1930403,
+    "dungeon_id": 1930403,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1643
+  },
+  "coalation_1930404_16743304": {
+    "name": "The Neon City Investigator: SP: Filming Location: Business District (Boss #4)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16743304,
+      "hull": 18,
+      "nation": 3,
+      "name": "Instructor Azuma",
+      "stats": {
+        "hp": 155000,
+        "fp": 280,
+        "trp": 0,
+        "avi": 420,
+        "aa": 390,
+        "hit": 71,
+        "eva": 60,
+        "spd": 18,
+        "luck": 30,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "wuqi_3"
+    },
+    "buffs": [],
+    "expo_id": 1930404,
+    "dungeon_id": 1930404,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1644
+  },
+  "coalation_1930501_16744301": {
+    "name": "The Neon City Investigator: EX: Filming Location: Police Station (Boss #1)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16744301,
+      "hull": 1,
+      "nation": 4,
+      "name": "Assistant Officer Z13",
+      "stats": {
+        "hp": 155000,
+        "fp": 240,
+        "trp": 320,
+        "avi": 310,
+        "aa": 440,
+        "hit": 76,
+        "eva": 65,
+        "spd": 20,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "z13_2"
+    },
+    "buffs": [],
+    "expo_id": 1930501,
+    "dungeon_id": 1930501,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1645
+  },
+  "coalation_1930502_16744302": {
+    "name": "The Neon City Investigator: EX: Filming Location: Police Station (Boss #2)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16744302,
+      "hull": 8,
+      "nation": 4,
+      "name": "Assistant Officer U-552",
+      "stats": {
+        "hp": 205000,
+        "fp": 200,
+        "trp": 400,
+        "avi": 310,
+        "aa": 440,
+        "hit": 76,
+        "eva": 65,
+        "spd": 20,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "u552_2"
+    },
+    "buffs": [],
+    "expo_id": 1930502,
+    "dungeon_id": 1930502,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1646
+  },
+  "coalation_1930503_16744303": {
+    "name": "The Neon City Investigator: EX: Filming Location: Police Station (Boss #3)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16744303,
+      "hull": 4,
+      "nation": 4,
+      "name": "Officer Zenker",
+      "stats": {
+        "hp": 455000,
+        "fp": 300,
+        "trp": 270,
+        "avi": 310,
+        "aa": 430,
+        "hit": 76,
+        "eva": 65,
+        "spd": 20,
+        "luck": 30,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "zengkehaijunshangjiang_2"
+    },
+    "buffs": [],
+    "expo_id": 1930503,
+    "dungeon_id": 1930503,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1647
+  },
+  "coalation_1930504_16744304": {
+    "name": "The Neon City Investigator: EX: Filming Location: Police Station (Boss #4)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16744304,
+      "hull": 2,
+      "nation": 2,
+      "name": "Officer Neptune",
+      "stats": {
+        "hp": 755000,
+        "fp": 280,
+        "trp": 200,
+        "avi": 310,
+        "aa": 400,
+        "hit": 70,
+        "eva": 52,
+        "spd": 18,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "haiwangxing_4"
+    },
+    "buffs": [],
+    "expo_id": 1930504,
+    "dungeon_id": 1930504,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1648
+  },
+  "coalation_1930505_16744305": {
+    "name": "The Neon City Investigator: EX: Filming Location: Police Station (Boss #5)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16744305,
+      "hull": 7,
+      "nation": 6,
+      "name": "Police Chief Impero",
+      "stats": {
+        "hp": 1000000,
+        "fp": 340,
+        "trp": 210,
+        "avi": 310,
+        "aa": 400,
+        "hit": 70,
+        "eva": 52,
+        "spd": 18,
+        "luck": 30,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "diguo_3"
+    },
+    "buffs": [],
+    "expo_id": 1930505,
+    "dungeon_id": 1930505,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1649
   }
 }

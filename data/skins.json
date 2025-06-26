@@ -11449,6 +11449,28 @@
     "dynamic_bg": true,
     "dual_form": false
   },
+  "299013": {
+    "id": 299013,
+    "name": "Officer Bunneptune Is on the Case!",
+    "type": 0,
+    "category": 12,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "haiwangxing_4",
+    "bg": "154",
+    "obtain_type": 0,
+    "price": 880,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "299021": {
     "id": 299021,
     "name": "White Warrick",
@@ -19079,6 +19101,28 @@
     "dynamic_bg": true,
     "dual_form": false
   },
+  "399042": {
+    "id": 399042,
+    "name": "Career Counseling for the Groom",
+    "type": 0,
+    "category": 23,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "wuqi_3",
+    "bg": "602",
+    "obtain_type": 0,
+    "price": 1180,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": true,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "399048": {
     "id": 399048,
     "name": "Lily-White Longing",
@@ -19404,6 +19448,28 @@
     "currency": 59005,
     "is_permanent": false,
     "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "401131": {
+    "id": 401131,
+    "name": "Strategic Date Solution",
+    "type": 0,
+    "category": 23,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "z13_2",
+    "bg": "185",
+    "obtain_type": 0,
+    "price": 1080,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": true,
     "dynamic": false,
     "custom_bgm": false,
     "dynamic_bg": false,
@@ -21257,6 +21323,28 @@
     "dynamic_bg": false,
     "dual_form": false
   },
+  "404071": {
+    "id": 404071,
+    "name": "Fun with...Interrogations?",
+    "type": 0,
+    "category": 12,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "zengkehaijunshangjiang_2",
+    "bg": "131",
+    "obtain_type": 0,
+    "price": 1180,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": true,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "405011": {
     "id": 405011,
     "name": "Beacon of the Iron Blood",
@@ -22291,6 +22379,28 @@
     "dynamic_bg": false,
     "dual_form": false
   },
+  "408102": {
+    "id": 408102,
+    "name": "Keeping Peace in the Streets",
+    "type": 0,
+    "category": 12,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "u37_3",
+    "bg": "529",
+    "obtain_type": 0,
+    "price": 880,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "408111": {
     "id": 408111,
     "name": "Spring Festival Scheme",
@@ -22371,6 +22481,28 @@
     "bg": "185",
     "obtain_type": 0,
     "price": 780,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "408141": {
+    "id": 408141,
+    "name": "Special Sightseeing Service",
+    "type": 0,
+    "category": 12,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "u552_2",
+    "bg": "170",
+    "obtain_type": 0,
+    "price": 880,
     "currency": 59005,
     "is_permanent": false,
     "l2d": false,
@@ -25119,6 +25251,28 @@
     "price": 880,
     "currency": 59005,
     "is_permanent": true,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "607022": {
+    "id": 607022,
+    "name": "Drunken Drowsy Dreamer",
+    "type": 0,
+    "category": 23,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "diguo_3",
+    "bg": "190",
+    "obtain_type": 0,
+    "price": 880,
+    "currency": 59005,
+    "is_permanent": false,
     "l2d": false,
     "dynamic": false,
     "custom_bgm": false,
