@@ -68909,7 +68909,7 @@
         {
           "damage": 65,
           "coefficient": 1,
-          "count": 24,
+          "count": 32,
           "stat": "fp",
           "ratio": 1,
           "armor_mod": [
@@ -68950,7 +68950,7 @@
       ]
     },
     {
-      "name": "Threshold Computation (single enemies)",
+      "name": "Threshold Computation (no or single enemy)",
       "parts": [
         {
           "damage": 150,
