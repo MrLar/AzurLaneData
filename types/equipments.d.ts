@@ -6,7 +6,10 @@
  * https://opensource.org/licenses/MIT.
  */
 
-import type { AlServer, EquipmentType, Hull, Nation, Rarity, StatElement, WeaponStat } from './common'
+import {
+    type AlServer, type EquipmentType, type Hull, type Nation,
+    type Rarity, type StatElement, type WeaponStat
+} from './common'
 import { type ItemStack } from './items'
 
 export interface BaseEquipData<T> {
@@ -163,13 +166,13 @@ export type BulletType =
 17 // aa missile
 
 export type WeaponType =
-1  | // Main Cannon
-2  | // Sub Cannon
-3  | // Torpedo
-4  | // Anti Air
-5  | // Armour
-6  | // Engine
-7  | // Radar
+1 | // Main Cannon
+2 | // Sub Cannon
+3 | // Torpedo
+4 | // Anti Air
+5 | // Armour
+6 | // Engine
+7 | // Radar
 10 | // Strike Aircraft
 11 | // Intercept Aircraft
 12 | // Crew

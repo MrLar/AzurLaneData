@@ -6,10 +6,10 @@
  * https://opensource.org/licenses/MIT.
  */
 
-import type {
-    AlServer, EquipmentType,
-    Hull, Nation,
-    Rarity, ScalableStatKey, ShipStatKey, SkillUpgradeData
+import {
+    type AlServer, type EquipmentType,
+    type Hull, type Nation,
+    type Rarity, type ScalableStatKey, type ShipStatKey, type SkillUpgradeData
 } from './common'
 import { type ItemStack } from './items'
 import { type FleetTechBonus } from './tech_groups'
@@ -116,20 +116,12 @@ export interface SlotData {
 
 export type Armor = 'Light' | 'Medium' | 'Heavy'
 
-export type BasicShipStats = {
-    [key in ShipStatKey]?: number
-}
+export type BasicShipStats = Partial<Record<ShipStatKey, number>>
 
 export interface ShipScalingStats {
-    scaling?: {
-        [key in ScalableStatKey]?: number
-    }
-    scaling_extra?: {
-        [key in ScalableStatKey]?: number
-    }
-    strengthen?: {
-        [key in ScalableStatKey]?: number
-    }
+    scaling?: Partial<Record<ScalableStatKey, number>>
+    scaling_extra?: Partial<Record<ScalableStatKey, number>>
+    strengthen?: Partial<Record<ScalableStatKey, number>>
 }
 
 export interface RetroStatsData extends ShipScalingStats, BasicShipStats {
@@ -193,7 +185,7 @@ export interface ShipDropData {
     special: boolean
     limited: string | null
     other: UnlockType[]
-    maps: MapDrop<number>[][]
+    maps: Array<Array<MapDrop<number>>>
     notes: string[]
     events: string[]
     wa_maps?: WarArchiveInfo[]

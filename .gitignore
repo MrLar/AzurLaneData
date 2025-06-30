@@ -3,7 +3,7 @@ datamine
 /parsing
 # this repo or it's data will likely be embeded, so these should not be exposed
 tsconfig.json
-.eslintrc.json
+eslint.config.mjs
 package.json
 package-lock.json
 # misc

@@ -6,7 +6,7 @@
  * https://opensource.org/licenses/MIT.
  */
 
-import type { AlServer, BuffStatKey, FleetRowType, Hull, Nation, Rarity } from './common'
+import { type AlServer, type BuffStatKey, type FleetRowType, type Hull, type Nation, type Rarity } from './common'
 
 export interface MeowfficerData {
     name: string

@@ -6,7 +6,7 @@
  * https://opensource.org/licenses/MIT.
  */
 
-import type { BuffStatKey, Hull, Nation } from './common'
+import { type BuffStatKey, type Hull, type Nation } from './common'
 import { type SkillType } from './skills'
 
 export interface MapData {

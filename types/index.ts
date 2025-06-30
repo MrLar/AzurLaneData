@@ -38,25 +38,25 @@ import skinList from '../data/skins.json'
 import specialSecretaryList from '../data/special_secretaries.json'
 import specialWeaponsList from '../data/special_weapons.json'
 import fleetTechGroupData from '../data/tech_groups.json'
-import type { AugmentCost, AugmentData } from './augments'
+import { type AugmentCost, type AugmentData } from './augments'
 import { type Barrage } from './barrages'
 import { type CruisePass } from './cruise_pass'
 import {
     type Dorm3DCharacter, type Dorm3DCollectable,
     type Dorm3DFurniture, type Dorm3DGift, type Dorm3DRoom
 } from './dorm3d'
-import type { EquipDropData, EquipmentData, GearLabRecipe, UpgradeCost, Weapon } from './equipments'
+import { type EquipDropData, type EquipmentData, type GearLabRecipe, type UpgradeCost, type Weapon } from './equipments'
 import { type GearSkin } from './gear_skins'
 import { type Item } from './items'
 import { type FleetChat, type JuuProfile } from './juustagram'
-import type { MapData } from './maps'
-import type { MeowfficerAbility } from './meowfficer_abilities'
-import type { MeowfficerData } from './meowfficers'
+import { type MapData } from './maps'
+import { type MeowfficerAbility } from './meowfficer_abilities'
+import { type MeowfficerData } from './meowfficers'
 import { type Research } from './research_projects'
-import type { RetroCost, ShipData, ShipDropData, SkinWords } from './ships'
+import { type RetroCost, type ShipData, type ShipDropData, type SkinWords } from './ships'
 import { type Shop } from './shops'
-import type { SkillData } from './skills'
-import type { SkinInfo } from './skins'
+import { type SkillData } from './skills'
+import { type SkinInfo } from './skins'
 import { type SpecialSecretary } from './special_secretaries'
 import { type TechGroup } from './tech_groups'
 
@@ -94,10 +94,9 @@ export const specialSecretaries = specialSecretaryList as Record<number, Special
 export const barrageData = barrages as Record<number, Barrage[] | undefined>
 
 export const SHIP_FLAGS = {
-  BULIN: 1 << 0, // 1
-  RETRO: 1 << 1, // 2
-  RESEARCH: 1 << 2, // 4
-  FATE: 1 << 3, // 8
-  META: 1 << 4, // 16
+    BULIN: 1 << 0, // 1
+    RETRO: 1 << 1, // 2
+    RESEARCH: 1 << 2, // 4
+    FATE: 1 << 3, // 8
+    META: 1 << 4 // 16
 } as const
-

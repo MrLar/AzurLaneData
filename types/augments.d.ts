@@ -6,8 +6,8 @@
  * https://opensource.org/licenses/MIT.
  */
 
-import type { SkillUpgradeData } from './common'
-import type { BaseEquipData, UpgradeCost } from './equipments'
+import { type SkillUpgradeData } from './common'
+import { type BaseEquipData, type UpgradeCost } from './equipments'
 
 export interface AugmentData extends BaseEquipData<AugmentType> {
     skill_upgrades: SkillUpgradeData[]

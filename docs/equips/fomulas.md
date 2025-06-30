@@ -108,7 +108,7 @@ Start with \\(AfterMod\\) and:
 Assuming all shots/bullets/mounts/etc. are affected by the same buffs, have the same RNG and everything:
  - Simply multiply the above result by the [\\(base\\) of the slot](../ships/index.md#ship-slot-data),
 the \\(count\\) of the weapon and the [\\(parallel\\) of the slot](../ships/index.md#ship-slot-data). If
-you are calculating the damage of an interceptive plane launch use \\(intercept_count\\) instead.
+you are calculating the damage of an interceptive plane launch use \\(intercept\_count\\) instead.
 
 In the event that they are not identical (they usually aren't), simply go through the same calculation for each
 shot/bullet/mount/etc. individually.

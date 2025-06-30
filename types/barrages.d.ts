@@ -6,8 +6,8 @@
  * https://opensource.org/licenses/MIT.
  */
 
-import type { Hull, ScalableStatKey, WeaponStat } from './common'
-import type { AimType, AmmoType, BulletType, WeaponType } from './equipments'
+import { type Hull, type ScalableStatKey, type WeaponStat } from './common'
+import { type AimType, type AmmoType, type BulletType, type WeaponType } from './equipments'
 
 interface Barrage {
     name: string
@@ -54,7 +54,7 @@ interface BarrageWeapon extends DamagingBarrage<'weapon'> {
     tracker?: {
         angular: number
         range: number
-    },
+    }
     targeting: string | null
     centered: boolean
     weapon_type: WeaponType
@@ -78,6 +78,4 @@ export type BarrageSummon = BarrageEntry<'summon'> & {
     weapons: Array<BarrageWeapon & { rld: string }>
     hull: Hull
     armor: number
-} & {
-    [key in ScalableStatKey]: string
-}
+} & Record<ScalableStatKey, string>
