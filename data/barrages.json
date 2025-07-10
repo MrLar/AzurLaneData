@@ -33440,7 +33440,7 @@
         {
           "damage": 200,
           "coefficient": 1,
-          "count": 2,
+          "count": 8,
           "stat": "fp",
           "ratio": 1,
           "armor_mod": [
@@ -33768,88 +33768,6 @@
     {
       "name": "Spiritual Echoes (enchanced)",
       "parts": [
-        {
-          "damage": 56,
-          "coefficient": 1,
-          "count": 6,
-          "stat": "fp",
-          "ratio": 1,
-          "armor_mod": [
-            1.35,
-            0.95,
-            0.7
-          ],
-          "ammo": 3,
-          "is_critical": false,
-          "notes": [],
-          "shrapnel": true,
-          "ignore_shield": true,
-          "range": [
-            0,
-            200
-          ],
-          "aim_type": 1,
-          "angle": 360,
-          "splash": 0,
-          "velocity": 6,
-          "pierce": 10,
-          "shell_range": [
-            25,
-            25
-          ],
-          "spread": [
-            0,
-            0
-          ],
-          "targeting": null,
-          "centered": false,
-          "weapon_id": 168520,
-          "weapon_type": 2,
-          "bullet_type": 5,
-          "bullet_id": 161145,
-          "type": "weapon"
-        },
-        {
-          "damage": 56,
-          "coefficient": 1,
-          "count": 6,
-          "stat": "fp",
-          "ratio": 1,
-          "armor_mod": [
-            1.35,
-            0.95,
-            0.7
-          ],
-          "ammo": 3,
-          "is_critical": false,
-          "notes": [],
-          "shrapnel": false,
-          "ignore_shield": true,
-          "range": [
-            0,
-            200
-          ],
-          "aim_type": 1,
-          "angle": 360,
-          "splash": 0,
-          "velocity": 18,
-          "pierce": 10,
-          "shell_range": [
-            200,
-            200
-          ],
-          "spread": [
-            0,
-            0
-          ],
-          "targeting": null,
-          "centered": false,
-          "weapon_id": 168520,
-          "weapon_type": 2,
-          "bullet_type": 1,
-          "bullet_id": 161146,
-          "type": "weapon"
-        },
         {
           "damage": 56,
           "coefficient": 1,
@@ -85826,7 +85744,7 @@
       "name": "Full Firepower - Grozny",
       "parts": [
         {
-          "damage": 20,
+          "damage": 30,
           "coefficient": 1,
           "count": 40,
           "stat": "fp",
