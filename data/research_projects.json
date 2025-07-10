@@ -19598,6 +19598,291 @@
     ],
     "time": 7200
   },
+  "633": {
+    "id": 633,
+    "name": "E-191-MI",
+    "sub_name": "Medium Project",
+    "description": "Disassemble currently issued gear to re-examine their components and conduct research that will lead to the development of new gear.",
+    "label": "tag_e",
+    "label_bg": "tag_blue",
+    "version": 7,
+    "condition": null,
+    "rarity": 4,
+    "bg": "item_2",
+    "consume": [
+      {
+        "id": 30013,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 15,
+        "blueprint": false,
+        "icon": "props/30003",
+        "name": "T3 Eagle Tech Pack"
+      }
+    ],
+    "drops": [
+      {
+        "id": 85620,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": true,
+        "icon": "equips/85620",
+        "name": "Design for T0 Prototype VIT-2 (Mode Change)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 21600
+  },
+  "634": {
+    "id": 634,
+    "name": "E-166-MI",
+    "sub_name": "Medium Project",
+    "description": "Disassemble currently issued gear to re-examine their components and conduct research that will lead to the development of new gear.",
+    "label": "tag_e",
+    "label_bg": "tag_blue",
+    "version": 7,
+    "condition": null,
+    "rarity": 4,
+    "bg": "item_2",
+    "consume": [
+      {
+        "id": 30043,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 15,
+        "blueprint": false,
+        "icon": "props/30003",
+        "name": "T3 Iron Blood Tech Pack"
+      }
+    ],
+    "drops": [
+      {
+        "id": 96120,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": true,
+        "icon": "equips/56120",
+        "name": "Design for T0 Prototype Triple 254mm Model 1939 Main Gun Mount"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 21600
+  },
+  "635": {
+    "id": 635,
+    "name": "E-167-MI",
+    "sub_name": "Medium Project",
+    "description": "Disassemble currently issued gear to re-examine their components and conduct research that will lead to the development of new gear.",
+    "label": "tag_e",
+    "label_bg": "tag_blue",
+    "version": 7,
+    "condition": null,
+    "rarity": 4,
+    "bg": "item_2",
+    "consume": [
+      {
+        "id": 30043,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 15,
+        "blueprint": false,
+        "icon": "props/30003",
+        "name": "T3 Iron Blood Tech Pack"
+      }
+    ],
+    "drops": [
+      {
+        "id": 95660,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": true,
+        "icon": "equips/55660",
+        "name": "Design for T0 Prototype Triple 152mm Model 1936 Main Gun Mount"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 21600
+  },
+  "636": {
+    "id": 636,
+    "name": "E-13-MI",
+    "sub_name": "Medium Project",
+    "description": "Disassemble currently issued gear to re-examine their components and conduct research that will lead to the development of new gear.",
+    "label": "tag_e",
+    "label_bg": "tag_blue",
+    "version": 7,
+    "condition": null,
+    "rarity": 4,
+    "bg": "item_2",
+    "consume": [
+      {
+        "id": 30013,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 15,
+        "blueprint": false,
+        "icon": "props/30003",
+        "name": "T3 Eagle Tech Pack"
+      }
+    ],
+    "drops": [
+      {
+        "id": 17460,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": true,
+        "icon": "equips/17460",
+        "name": "Design for T0 Prototype F8F Bearcat (Float)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 21600
+  },
+  "637": {
+    "id": 637,
+    "name": "E-158-MI",
+    "sub_name": "Medium Project",
+    "description": "Disassemble currently issued gear to re-examine their components and conduct research that will lead to the development of new gear.",
+    "label": "tag_e",
+    "label_bg": "tag_blue",
+    "version": 7,
+    "condition": null,
+    "rarity": 4,
+    "bg": "item_2",
+    "consume": [
+      {
+        "id": 30033,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 15,
+        "blueprint": false,
+        "icon": "props/30003",
+        "name": "T3 Sakura Tech Pack"
+      }
+    ],
+    "drops": [
+      {
+        "id": 34320,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": true,
+        "icon": "equips/34320",
+        "name": "Design for T0 Prototype Twin 410mm mod.A Main Gun Mount"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 21600
+  },
   "641": {
     "id": 641,
     "name": "G-412-MI",
@@ -21569,6 +21854,2803 @@
         "blueprint": false,
         "icon": "props/52001",
         "name": "Random Blueprint (PR/DR7)"
+      },
+      {
+        "id": 54050,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/54032",
+        "name": "T2 Mystery Retrofit Blueprint"
+      },
+      {
+        "id": 15008,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/15008",
+        "name": "Cognitive Chips"
+      }
+    ],
+    "time": 7200
+  },
+  "701": {
+    "id": 701,
+    "name": "C-153-MI",
+    "sub_name": "Medium Project",
+    "description": "As of this point, all fundamental theories about the Wisdom Cubes are derived from the level of understanding of their basic structure. Engineers are working around the clock to further elucidate this structure.",
+    "label": "tag_c",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "item_1",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 21600
+  },
+  "702": {
+    "id": 702,
+    "name": "C-153-MI",
+    "sub_name": "Medium Project",
+    "description": "As of this point, all fundamental theories about the Wisdom Cubes are derived from the level of understanding of their basic structure. Engineers are working around the clock to further elucidate this structure.",
+    "label": "tag_c",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "item_1",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 21600
+  },
+  "703": {
+    "id": 703,
+    "name": "C-185-MI",
+    "sub_name": "Large Project",
+    "description": "As of this point, all fundamental theories about the Wisdom Cubes are derived from the level of understanding of their basic structure. Engineers are working around the clock to further elucidate this structure.",
+    "label": "tag_c",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 4,
+    "bg": "item_2",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 28800
+  },
+  "704": {
+    "id": 704,
+    "name": "C-185-MI",
+    "sub_name": "Large Project",
+    "description": "As of this point, all fundamental theories about the Wisdom Cubes are derived from the level of understanding of their basic structure. Engineers are working around the clock to further elucidate this structure.",
+    "label": "tag_c",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 4,
+    "bg": "item_2",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 28800
+  },
+  "711": {
+    "id": 711,
+    "name": "B-622-MI",
+    "sub_name": "Medium Project",
+    "description": "A large number of hypotheses have been generated during the process of researching the Wisdom Cube. This research project is aimed at collecting empirical evidence to test these hypotheses through practical methods.",
+    "label": "tag_b",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": "Clear Chapter 3 or onward stages for 6 times on Normal Mode",
+    "rarity": 3,
+    "bg": "battle_1",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      }
+    ],
+    "time": 14400
+  },
+  "712": {
+    "id": 712,
+    "name": "B-636-MI",
+    "sub_name": "Medium Project",
+    "description": "A large number of hypotheses have been generated during the process of researching the Wisdom Cube. This research project is aimed at collecting empirical evidence to test these hypotheses through practical methods.",
+    "label": "tag_b",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": "Clear Chapter 4 or onward stages for 6 times on Normal Mode",
+    "rarity": 3,
+    "bg": "battle_1",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      }
+    ],
+    "time": 14400
+  },
+  "713": {
+    "id": 713,
+    "name": "B-654-MI",
+    "sub_name": "Medium Project",
+    "description": "A large number of hypotheses have been generated during the process of researching the Wisdom Cube. This research project is aimed at collecting empirical evidence to test these hypotheses through practical methods.",
+    "label": "tag_b",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": "Clear Chapter 5 or onward stages for 6 times on Normal Mode",
+    "rarity": 3,
+    "bg": "battle_1",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      }
+    ],
+    "time": 14400
+  },
+  "714": {
+    "id": 714,
+    "name": "B-682-MI",
+    "sub_name": "Medium Project",
+    "description": "A large number of hypotheses have been generated during the process of researching the Wisdom Cube. This research project is aimed at collecting empirical evidence to test these hypotheses through practical methods.",
+    "label": "tag_b",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": "Clear Chapter 6 or onward stages for 6 times on Normal Mode",
+    "rarity": 3,
+    "bg": "battle_1",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      }
+    ],
+    "time": 14400
+  },
+  "715": {
+    "id": 715,
+    "name": "B-235-MI",
+    "sub_name": "Medium Project",
+    "description": "A large number of hypotheses have been generated during the process of researching the Wisdom Cube. This research project is aimed at collecting empirical evidence to test these hypotheses through practical methods.",
+    "label": "tag_b",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": "Clear Chapter 7 or onward stages for 5 times on Normal Mode",
+    "rarity": 4,
+    "bg": "battle_2",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 14400
+  },
+  "716": {
+    "id": 716,
+    "name": "B-268-MI",
+    "sub_name": "Medium Project",
+    "description": "A large number of hypotheses have been generated during the process of researching the Wisdom Cube. This research project is aimed at collecting empirical evidence to test these hypotheses through practical methods.",
+    "label": "tag_b",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": "Clear Chapter 8 or onward stages for 5 times on Normal Mode",
+    "rarity": 4,
+    "bg": "battle_2",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 14400
+  },
+  "717": {
+    "id": 717,
+    "name": "B-128-MI",
+    "sub_name": "Medium Project",
+    "description": "A large number of hypotheses have been generated during the process of researching the Wisdom Cube. This research project is aimed at collecting empirical evidence to test these hypotheses through practical methods.",
+    "label": "tag_b",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": "Clear Chapter 9 or onward stages for 4 times on Normal Mode",
+    "rarity": 4,
+    "bg": "battle_2",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 14400
+  },
+  "718": {
+    "id": 718,
+    "name": "B-164-MI",
+    "sub_name": "Medium Project",
+    "description": "A large number of hypotheses have been generated during the process of researching the Wisdom Cube. This research project is aimed at collecting empirical evidence to test these hypotheses through practical methods.",
+    "label": "tag_b",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": "Clear Chapter 10 or onward stages for 4 times on Normal Mode",
+    "rarity": 4,
+    "bg": "battle_2",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 14400
+  },
+  "721": {
+    "id": 721,
+    "name": "T-018-MI",
+    "sub_name": "Small Project",
+    "description": "Research is also being conducted to determine if Wisdom Cubes can be harnessed for purposes outside of construction. This research project strives to find a way to use Wisdom Cubes to improve everyday life.",
+    "label": "tag_t",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": "Complete 2 commissions.",
+    "rarity": 3,
+    "bg": "item_1",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 10800
+  },
+  "722": {
+    "id": 722,
+    "name": "T-384-MI",
+    "sub_name": "Small Project",
+    "description": "Research is also being conducted to determine if Wisdom Cubes can be harnessed for purposes outside of construction. This research project strives to find a way to use Wisdom Cubes to improve everyday life.",
+    "label": "tag_t",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": "Complete 4 commissions.",
+    "rarity": 3,
+    "bg": "item_1",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 14400
+  },
+  "723": {
+    "id": 723,
+    "name": "T-249-MI",
+    "sub_name": "Small Project",
+    "description": "Research is also being conducted to determine if Wisdom Cubes can be harnessed for purposes outside of construction. This research project strives to find a way to use Wisdom Cubes to improve everyday life.",
+    "label": "tag_t",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": "Complete 6 commissions.",
+    "rarity": 4,
+    "bg": "item_2",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 21600
+  },
+  "731": {
+    "id": 731,
+    "name": "E-031-MI",
+    "sub_name": "Small Project",
+    "description": "Attempting to determine the relationship between the Wisdom Cube and shipgirls' rigging requires a large body of experimental evidence. Provide unused rigging to serve as experimental specimens.",
+    "label": "tag_e",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": "Scrap 8 pieces of gear.",
+    "rarity": 3,
+    "bg": "item_1",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 7200
+  },
+  "732": {
+    "id": 732,
+    "name": "E-315-MI",
+    "sub_name": "Small Project",
+    "description": "Attempting to determine the relationship between the Wisdom Cube and shipgirls' rigging requires a large body of experimental evidence. Provide unused rigging to serve as experimental specimens.",
+    "label": "tag_e",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": "Scrap 15 pieces of gear.",
+    "rarity": 4,
+    "bg": "item_2",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 7200
+  },
+  "741": {
+    "id": 741,
+    "name": "G-412-MI",
+    "sub_name": "Small Project",
+    "description": "Disassemble currently issued gear to re-examine their components and conduct research that will lead to the development of new gear.",
+    "label": "tag_g",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "gold_1",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 1500,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      }
+    ],
+    "time": 5400
+  },
+  "742": {
+    "id": 742,
+    "name": "G-412-MI",
+    "sub_name": "Small Project",
+    "description": "Disassemble currently issued gear to re-examine their components and conduct research that will lead to the development of new gear.",
+    "label": "tag_g",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "gold_1",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 1500,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      }
+    ],
+    "time": 5400
+  },
+  "743": {
+    "id": 743,
+    "name": "G-236-MI",
+    "sub_name": "Small Project",
+    "description": "Disassemble currently issued gear to re-examine their components and conduct research that will lead to the development of new gear.",
+    "label": "tag_g",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "gold_1",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 3000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      }
+    ],
+    "time": 9000
+  },
+  "744": {
+    "id": 744,
+    "name": "G-236-MI",
+    "sub_name": "Small Project",
+    "description": "Disassemble currently issued gear to re-examine their components and conduct research that will lead to the development of new gear.",
+    "label": "tag_g",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "gold_1",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 3000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      }
+    ],
+    "time": 9000
+  },
+  "745": {
+    "id": 745,
+    "name": "G-531-MI",
+    "sub_name": "Medium Project",
+    "description": "Disassemble currently issued gear to re-examine their components and conduct research that will lead to the development of new gear.",
+    "label": "tag_g",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 4,
+    "bg": "gold_2",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 6000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 14400
+  },
+  "746": {
+    "id": 746,
+    "name": "G-531-MI",
+    "sub_name": "Medium Project",
+    "description": "Disassemble currently issued gear to re-examine their components and conduct research that will lead to the development of new gear.",
+    "label": "tag_g",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 4,
+    "bg": "gold_2",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 6000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 14400
+  },
+  "751": {
+    "id": 751,
+    "name": "D-780-MI",
+    "sub_name": "Small Project",
+    "description": "Wisdom Cubes are able to manifest humanity's collective consciousness. If it was possible to \"orient\" Wisdom Cubes to manifest a specific subset, what would be the outcome?",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "chara_meikelunbao",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 3000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42072,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42072",
+        "name": "Blueprint - Mecklenburg"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      }
+    ],
+    "time": 9000
+  },
+  "752": {
+    "id": 752,
+    "name": "D-736-MI",
+    "sub_name": "Small Project",
+    "description": "Wisdom Cubes are able to manifest humanity's collective consciousness. If it was possible to \"orient\" Wisdom Cubes to manifest a specific subset, what would be the outcome?",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "chara_jinshi",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 3000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42075,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42075",
+        "name": "Blueprint - Gouden Leeuw"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      }
+    ],
+    "time": 9000
+  },
+  "753": {
+    "id": 753,
+    "name": "D-787-MI",
+    "sub_name": "Small Project",
+    "description": "Wisdom Cubes are able to manifest humanity's collective consciousness. If it was possible to \"orient\" Wisdom Cubes to manifest a specific subset, what would be the outcome?",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "chara_dimiteli",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 3000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42074,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42074",
+        "name": "Blueprint - Dmitri Donskoi"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      }
+    ],
+    "time": 9000
+  },
+  "754": {
+    "id": 754,
+    "name": "D-711-MI",
+    "sub_name": "Small Project",
+    "description": "Wisdom Cubes are able to manifest humanity's collective consciousness. If it was possible to \"orient\" Wisdom Cubes to manifest a specific subset, what would be the outcome?",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "chara_kansasi",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 3000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42071,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42071",
+        "name": "Blueprint - Kansas"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      }
+    ],
+    "time": 9000
+  },
+  "755": {
+    "id": 755,
+    "name": "D-764-MI",
+    "sub_name": "Small Project",
+    "description": "Wisdom Cubes are able to manifest humanity's collective consciousness. If it was possible to \"orient\" Wisdom Cubes to manifest a specific subset, what would be the outcome?",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "chara_kunibeierdi",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 3000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42073,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42073",
+        "name": "Blueprint - Vittorio Cuniberti"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      }
+    ],
+    "time": 9000
+  },
+  "761": {
+    "id": 761,
+    "name": "D-380-MI",
+    "sub_name": "Medium Project",
+    "description": "Wisdom Cubes are able to manifest humanity's collective consciousness. If it was possible to \"orient\" Wisdom Cubes to manifest a specific subset, what would be the outcome?",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 4,
+    "bg": "chara_meikelunbao",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 5000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42072,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42072",
+        "name": "Blueprint - Mecklenburg"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 18000
+  },
+  "762": {
+    "id": 762,
+    "name": "D-336-MI",
+    "sub_name": "Medium Project",
+    "description": "Wisdom Cubes are able to manifest humanity's collective consciousness. If it was possible to \"orient\" Wisdom Cubes to manifest a specific subset, what would be the outcome?",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 4,
+    "bg": "chara_jinshi",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 5000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42075,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42075",
+        "name": "Blueprint - Gouden Leeuw"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 18000
+  },
+  "763": {
+    "id": 763,
+    "name": "D-387-MI",
+    "sub_name": "Medium Project",
+    "description": "Wisdom Cubes are able to manifest humanity's collective consciousness. If it was possible to \"orient\" Wisdom Cubes to manifest a specific subset, what would be the outcome?",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 4,
+    "bg": "chara_dimiteli",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 5000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42074,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42074",
+        "name": "Blueprint - Dmitri Donskoi"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 18000
+  },
+  "764": {
+    "id": 764,
+    "name": "D-311-MI",
+    "sub_name": "Medium Project",
+    "description": "Wisdom Cubes are able to manifest humanity's collective consciousness. If it was possible to \"orient\" Wisdom Cubes to manifest a specific subset, what would be the outcome?",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 4,
+    "bg": "chara_kansasi",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 5000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42071,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42071",
+        "name": "Blueprint - Kansas"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 18000
+  },
+  "765": {
+    "id": 765,
+    "name": "D-364-MI",
+    "sub_name": "Medium Project",
+    "description": "Wisdom Cubes are able to manifest humanity's collective consciousness. If it was possible to \"orient\" Wisdom Cubes to manifest a specific subset, what would be the outcome?",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 4,
+    "bg": "chara_kunibeierdi",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 5000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42073,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42073",
+        "name": "Blueprint - Vittorio Cuniberti"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 18000
+  },
+  "771": {
+    "id": 771,
+    "name": "Q-302-MI",
+    "sub_name": "Small Project",
+    "description": "A resonance phenomenon has been observed between Wisdom Cubes and ship rigging. Conduct tests to recreate this phenomenon and determine the best way to utilize it practically.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "gold_1",
+    "consume": [
+      {
+        "id": 17001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17001",
+        "name": "T1 General Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 3600
+  },
+  "772": {
+    "id": 772,
+    "name": "Q-310-MI",
+    "sub_name": "Small Project",
+    "description": "A resonance phenomenon has been observed between Wisdom Cubes and ship rigging. Conduct tests to recreate this phenomenon and determine the best way to utilize it practically.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "gold_1",
+    "consume": [
+      {
+        "id": 17011,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17011",
+        "name": "T1 Main Gun Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 3600
+  },
+  "773": {
+    "id": 773,
+    "name": "Q-351-MI",
+    "sub_name": "Small Project",
+    "description": "A resonance phenomenon has been observed between Wisdom Cubes and ship rigging. Conduct tests to recreate this phenomenon and determine the best way to utilize it practically.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "gold_1",
+    "consume": [
+      {
+        "id": 17021,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17021",
+        "name": "T1 Torpedo Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 3600
+  },
+  "774": {
+    "id": 774,
+    "name": "Q-368-MI",
+    "sub_name": "Small Project",
+    "description": "A resonance phenomenon has been observed between Wisdom Cubes and ship rigging. Conduct tests to recreate this phenomenon and determine the best way to utilize it practically.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "gold_1",
+    "consume": [
+      {
+        "id": 17031,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17031",
+        "name": "T1 Anti-Air Gun Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 3600
+  },
+  "775": {
+    "id": 775,
+    "name": "Q-389-MI",
+    "sub_name": "Small Project",
+    "description": "A resonance phenomenon has been observed between Wisdom Cubes and ship rigging. Conduct tests to recreate this phenomenon and determine the best way to utilize it practically.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "gold_1",
+    "consume": [
+      {
+        "id": 17041,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17041",
+        "name": "T1 Aircraft Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 3600
+  },
+  "776": {
+    "id": 776,
+    "name": "Q-202-MI",
+    "sub_name": "Small Project",
+    "description": "A resonance phenomenon has been observed between Wisdom Cubes and ship rigging. Conduct tests to recreate this phenomenon and determine the best way to utilize it practically.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "gold_1",
+    "consume": [
+      {
+        "id": 17002,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17002",
+        "name": "T2 General Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 7200
+  },
+  "777": {
+    "id": 777,
+    "name": "Q-210-MI",
+    "sub_name": "Small Project",
+    "description": "A resonance phenomenon has been observed between Wisdom Cubes and ship rigging. Conduct tests to recreate this phenomenon and determine the best way to utilize it practically.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "gold_1",
+    "consume": [
+      {
+        "id": 17012,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17012",
+        "name": "T2 Main Gun Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 7200
+  },
+  "778": {
+    "id": 778,
+    "name": "Q-251-MI",
+    "sub_name": "Small Project",
+    "description": "A resonance phenomenon has been observed between Wisdom Cubes and ship rigging. Conduct tests to recreate this phenomenon and determine the best way to utilize it practically.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "gold_1",
+    "consume": [
+      {
+        "id": 17022,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17022",
+        "name": "T2 Torpedo Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 7200
+  },
+  "779": {
+    "id": 779,
+    "name": "Q-268-MI",
+    "sub_name": "Small Project",
+    "description": "A resonance phenomenon has been observed between Wisdom Cubes and ship rigging. Conduct tests to recreate this phenomenon and determine the best way to utilize it practically.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "gold_1",
+    "consume": [
+      {
+        "id": 17032,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17032",
+        "name": "T2 Anti-Air Gun Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 7200
+  },
+  "780": {
+    "id": 780,
+    "name": "Q-289-MI",
+    "sub_name": "Small Project",
+    "description": "A resonance phenomenon has been observed between Wisdom Cubes and ship rigging. Conduct tests to recreate this phenomenon and determine the best way to utilize it practically.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "gold_1",
+    "consume": [
+      {
+        "id": 17042,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17042",
+        "name": "T2 Aircraft Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T2)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 7200
+  },
+  "781": {
+    "id": 781,
+    "name": "Q-002-MI",
+    "sub_name": "Medium Project",
+    "description": "A resonance phenomenon has been observed between Wisdom Cubes and ship rigging. Conduct tests to recreate this phenomenon and determine the best way to utilize it practically.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 4,
+    "bg": "gold_2",
+    "consume": [
+      {
+        "id": 17003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17003",
+        "name": "T3 General Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 14400
+  },
+  "782": {
+    "id": 782,
+    "name": "Q-010-MI",
+    "sub_name": "Medium Project",
+    "description": "A resonance phenomenon has been observed between Wisdom Cubes and ship rigging. Conduct tests to recreate this phenomenon and determine the best way to utilize it practically.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 4,
+    "bg": "gold_2",
+    "consume": [
+      {
+        "id": 17013,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17013",
+        "name": "T3 Main Gun Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 14400
+  },
+  "783": {
+    "id": 783,
+    "name": "Q-051-MI",
+    "sub_name": "Medium Project",
+    "description": "A resonance phenomenon has been observed between Wisdom Cubes and ship rigging. Conduct tests to recreate this phenomenon and determine the best way to utilize it practically.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 4,
+    "bg": "gold_2",
+    "consume": [
+      {
+        "id": 17023,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17023",
+        "name": "T3 Torpedo Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 14400
+  },
+  "784": {
+    "id": 784,
+    "name": "Q-068-MI",
+    "sub_name": "Medium Project",
+    "description": "A resonance phenomenon has been observed between Wisdom Cubes and ship rigging. Conduct tests to recreate this phenomenon and determine the best way to utilize it practically.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 4,
+    "bg": "gold_2",
+    "consume": [
+      {
+        "id": 17033,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17033",
+        "name": "T3 Anti-Air Gun Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 14400
+  },
+  "785": {
+    "id": 785,
+    "name": "Q-089-MI",
+    "sub_name": "Medium Project",
+    "description": "A resonance phenomenon has been observed between Wisdom Cubes and ship rigging. Conduct tests to recreate this phenomenon and determine the best way to utilize it practically.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 4,
+    "bg": "gold_2",
+    "consume": [
+      {
+        "id": 17043,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17043",
+        "name": "T3 Aircraft Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 14400
+  },
+  "791": {
+    "id": 791,
+    "name": "H-387-MI",
+    "sub_name": "Small Project",
+    "description": "The simplest and crudest way to analyze the structure of a Wisdom Cube is to deconstruct it. Though there have been no recorded successes so far, it is still important to carry out this valuable research.",
+    "label": "tag_h",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "gold_1",
+    "consume": [
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 3,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 54049,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/54031",
+        "name": "T1 Mystery Retrofit Blueprint"
+      },
+      {
+        "id": 15008,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/15008",
+        "name": "Cognitive Chips"
+      }
+    ],
+    "time": 3600
+  },
+  "792": {
+    "id": 792,
+    "name": "H-387-MI",
+    "sub_name": "Small Project",
+    "description": "The simplest and crudest way to analyze the structure of a Wisdom Cube is to deconstruct it. Though there have been no recorded successes so far, it is still important to carry out this valuable research.",
+    "label": "tag_h",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 3,
+    "bg": "gold_1",
+    "consume": [
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 3,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 54049,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/54031",
+        "name": "T1 Mystery Retrofit Blueprint"
+      },
+      {
+        "id": 15008,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/15008",
+        "name": "Cognitive Chips"
+      }
+    ],
+    "time": 3600
+  },
+  "793": {
+    "id": 793,
+    "name": "H-339-MI",
+    "sub_name": "Small Project",
+    "description": "The simplest and crudest way to analyze the structure of a Wisdom Cube is to deconstruct it. Though there have been no recorded successes so far, it is still important to carry out this valuable research.",
+    "label": "tag_h",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 4,
+    "bg": "gold_2",
+    "consume": [
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 6,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 54050,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/54032",
+        "name": "T2 Mystery Retrofit Blueprint"
+      },
+      {
+        "id": 15008,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/15008",
+        "name": "Cognitive Chips"
+      }
+    ],
+    "time": 7200
+  },
+  "794": {
+    "id": 794,
+    "name": "H-339-MI",
+    "sub_name": "Small Project",
+    "description": "The simplest and crudest way to analyze the structure of a Wisdom Cube is to deconstruct it. Though there have been no recorded successes so far, it is still important to carry out this valuable research.",
+    "label": "tag_h",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 4,
+    "bg": "gold_2",
+    "consume": [
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 6,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
       },
       {
         "id": 54050,
@@ -33301,6 +36383,1637 @@
         "blueprint": false,
         "icon": "props/55000",
         "name": "Random Gear Design (PR7)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 14400
+  },
+  "1632": {
+    "id": 1632,
+    "name": "E-866-MI",
+    "sub_name": "Small Project",
+    "description": "Disassemble currently issued gear to re-examine their components and conduct research that will lead to the development of new gear.",
+    "label": "tag_e",
+    "label_bg": "tag_blue",
+    "version": 7,
+    "condition": null,
+    "rarity": 5,
+    "bg": "item_3",
+    "consume": [
+      {
+        "id": 95220,
+        "type": 1,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 45,
+        "blueprint": true,
+        "icon": "equips/55200",
+        "name": "Design for T2 Twin 203mm Model 1927 Main Gun Mount"
+      }
+    ],
+    "drops": [
+      {
+        "id": 96120,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": true,
+        "icon": "equips/56120",
+        "name": "Design for T0 Prototype Triple 254mm Model 1939 Main Gun Mount"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 7200
+  },
+  "1633": {
+    "id": 1633,
+    "name": "E-867-MI",
+    "sub_name": "Small Project",
+    "description": "Disassemble currently issued gear to re-examine their components and conduct research that will lead to the development of new gear.",
+    "label": "tag_e",
+    "label_bg": "tag_blue",
+    "version": 7,
+    "condition": null,
+    "rarity": 5,
+    "bg": "item_3",
+    "consume": [
+      {
+        "id": 95440,
+        "type": 1,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 45,
+        "blueprint": true,
+        "icon": "equips/55400",
+        "name": "Design for T3 Twin 120mm M1936 Main Gun Mount"
+      }
+    ],
+    "drops": [
+      {
+        "id": 95660,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": true,
+        "icon": "equips/55660",
+        "name": "Design for T0 Prototype Triple 152mm Model 1936 Main Gun Mount"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 7200
+  },
+  "1634": {
+    "id": 1634,
+    "name": "E-83-MI",
+    "sub_name": "Small Project",
+    "description": "Disassemble currently issued gear to re-examine their components and conduct research that will lead to the development of new gear.",
+    "label": "tag_e",
+    "label_bg": "tag_blue",
+    "version": 7,
+    "condition": null,
+    "rarity": 5,
+    "bg": "item_3",
+    "consume": [
+      {
+        "id": 17320,
+        "type": 1,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 45,
+        "blueprint": true,
+        "icon": "equips/17300",
+        "name": "Design for T2 F6F Hellcat"
+      }
+    ],
+    "drops": [
+      {
+        "id": 17460,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": true,
+        "icon": "equips/17460",
+        "name": "Design for T0 Prototype F8F Bearcat (Float)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 7200
+  },
+  "1635": {
+    "id": 1635,
+    "name": "E-858-MI",
+    "sub_name": "Small Project",
+    "description": "Disassemble currently issued gear to re-examine their components and conduct research that will lead to the development of new gear.",
+    "label": "tag_e",
+    "label_bg": "tag_blue",
+    "version": 7,
+    "condition": null,
+    "rarity": 5,
+    "bg": "item_3",
+    "consume": [
+      {
+        "id": 34140,
+        "type": 1,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 45,
+        "blueprint": true,
+        "icon": "equips/34100",
+        "name": "Design for T3 Twin 410mm Naval Gun Mount"
+      }
+    ],
+    "drops": [
+      {
+        "id": 34320,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": true,
+        "icon": "equips/34320",
+        "name": "Design for T0 Prototype Twin 410mm mod.A Main Gun Mount"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 7200
+  },
+  "1701": {
+    "id": 1701,
+    "name": "C-038-RF",
+    "sub_name": "Large Project",
+    "description": "As of this point, all fundamental theories about the Wisdom Cubes are derived from the level of understanding of their basic structure. Engineers are working around the clock to further elucidate this structure.",
+    "label": "tag_c",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 5,
+    "bg": "item_3",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 43200
+  },
+  "1702": {
+    "id": 1702,
+    "name": "C-038-RF",
+    "sub_name": "Large Project",
+    "description": "As of this point, all fundamental theories about the Wisdom Cubes are derived from the level of understanding of their basic structure. Engineers are working around the clock to further elucidate this structure.",
+    "label": "tag_c",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 5,
+    "bg": "item_3",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "time": 43200
+  },
+  "1703": {
+    "id": 1703,
+    "name": "B-351-RF",
+    "sub_name": "Medium Project",
+    "description": "A large number of hypotheses have been generated during the process of researching the Wisdom Cube. This research project is aimed at collecting empirical evidence to test these hypotheses through practical methods.",
+    "label": "tag_b",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": "Clear Chapter 11 or onward stages for 3 times on Normal Mode",
+    "rarity": 5,
+    "bg": "battle_3",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 14400
+  },
+  "1704": {
+    "id": 1704,
+    "name": "B-397-RF",
+    "sub_name": "Medium Project",
+    "description": "A large number of hypotheses have been generated during the process of researching the Wisdom Cube. This research project is aimed at collecting empirical evidence to test these hypotheses through practical methods.",
+    "label": "tag_b",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": "Clear Chapter 12 or onward stages for 3 times on Normal Mode",
+    "rarity": 5,
+    "bg": "battle_3",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 14400
+  },
+  "1705": {
+    "id": 1705,
+    "name": "D-480-RF",
+    "sub_name": "Large Project",
+    "description": "Wisdom Cubes are able to manifest humanity's collective consciousness. If it was possible to \"orient\" Wisdom Cubes to manifest a specific subset, what would be the outcome?",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 5,
+    "bg": "chara_meikelunbao",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 8000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42072,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42072",
+        "name": "Blueprint - Mecklenburg"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 28800
+  },
+  "1706": {
+    "id": 1706,
+    "name": "D-436-RF",
+    "sub_name": "Large Project",
+    "description": "Wisdom Cubes are able to manifest humanity's collective consciousness. If it was possible to \"orient\" Wisdom Cubes to manifest a specific subset, what would be the outcome?",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 5,
+    "bg": "chara_jinshi",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 8000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42075,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42075",
+        "name": "Blueprint - Gouden Leeuw"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 28800
+  },
+  "1707": {
+    "id": 1707,
+    "name": "D-487-RF",
+    "sub_name": "Large Project",
+    "description": "Wisdom Cubes are able to manifest humanity's collective consciousness. If it was possible to \"orient\" Wisdom Cubes to manifest a specific subset, what would be the outcome?",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 5,
+    "bg": "chara_dimiteli",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 8000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42074,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42074",
+        "name": "Blueprint - Dmitri Donskoi"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 28800
+  },
+  "1708": {
+    "id": 1708,
+    "name": "D-411-RF",
+    "sub_name": "Large Project",
+    "description": "Wisdom Cubes are able to manifest humanity's collective consciousness. If it was possible to \"orient\" Wisdom Cubes to manifest a specific subset, what would be the outcome?",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 5,
+    "bg": "chara_kansasi",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 8000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42071,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42071",
+        "name": "Blueprint - Kansas"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 28800
+  },
+  "1709": {
+    "id": 1709,
+    "name": "D-464-RF",
+    "sub_name": "Large Project",
+    "description": "Wisdom Cubes are able to manifest humanity's collective consciousness. If it was possible to \"orient\" Wisdom Cubes to manifest a specific subset, what would be the outcome?",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 5,
+    "bg": "chara_kunibeierdi",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 8000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42073,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42073",
+        "name": "Blueprint - Vittorio Cuniberti"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 28800
+  },
+  "1711": {
+    "id": 1711,
+    "name": "H-207-RF",
+    "sub_name": "Medium Project",
+    "description": "The simplest and crudest way to analyze the structure of a Wisdom Cube is to deconstruct it. Though there have been no recorded successes so far, it is still important to carry out this valuable research.",
+    "label": "tag_h",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 5,
+    "bg": "gold_3",
+    "consume": [
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 10,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 54051,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/54033",
+        "name": "T3 Mystery Retrofit Blueprint"
+      },
+      {
+        "id": 15008,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/15008",
+        "name": "Cognitive Chips"
+      }
+    ],
+    "time": 14400
+  },
+  "1712": {
+    "id": 1712,
+    "name": "H-207-RF",
+    "sub_name": "Medium Project",
+    "description": "The simplest and crudest way to analyze the structure of a Wisdom Cube is to deconstruct it. Though there have been no recorded successes so far, it is still important to carry out this valuable research.",
+    "label": "tag_h",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 5,
+    "bg": "gold_3",
+    "consume": [
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 10,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 54051,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/54033",
+        "name": "T3 Mystery Retrofit Blueprint"
+      },
+      {
+        "id": 15008,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/15008",
+        "name": "Cognitive Chips"
+      }
+    ],
+    "time": 14400
+  },
+  "1713": {
+    "id": 1713,
+    "name": "D-080-UL",
+    "sub_name": "Small Project",
+    "description": "During an experiment in Wisdom Cube consciousness creation, a strange phenomenon that caused a Thought Dissipation Rate spike occurred. If we can identify its cause, it should lead to a great leap for our understanding of the Wisdom Cubes' construction.",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 6,
+    "bg": "chara_meikelunbao",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 5000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      },
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 5,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42072,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42072",
+        "name": "Blueprint - Mecklenburg"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 1800
+  },
+  "1714": {
+    "id": 1714,
+    "name": "D-036-UL",
+    "sub_name": "Small Project",
+    "description": "During an experiment in Wisdom Cube consciousness creation, a strange phenomenon that caused a Thought Dissipation Rate spike occurred. If we can identify its cause, it should lead to a great leap for our understanding of the Wisdom Cubes' construction.",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 6,
+    "bg": "chara_jinshi",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 5000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      },
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 5,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42075,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42075",
+        "name": "Blueprint - Gouden Leeuw"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 1800
+  },
+  "1715": {
+    "id": 1715,
+    "name": "D-087-UL",
+    "sub_name": "Small Project",
+    "description": "During an experiment in Wisdom Cube consciousness creation, a strange phenomenon that caused a Thought Dissipation Rate spike occurred. If we can identify its cause, it should lead to a great leap for our understanding of the Wisdom Cubes' construction.",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 5,
+    "bg": "chara_dimiteli",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 5000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      },
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 5,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42074,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42074",
+        "name": "Blueprint - Dmitri Donskoi"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 1800
+  },
+  "1716": {
+    "id": 1716,
+    "name": "D-011-UL",
+    "sub_name": "Small Project",
+    "description": "During an experiment in Wisdom Cube consciousness creation, a strange phenomenon that caused a Thought Dissipation Rate spike occurred. If we can identify its cause, it should lead to a great leap for our understanding of the Wisdom Cubes' construction.",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 5,
+    "bg": "chara_kansasi",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 5000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      },
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 5,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42071,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42071",
+        "name": "Blueprint - Kansas"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 1800
+  },
+  "1717": {
+    "id": 1717,
+    "name": "D-064-UL",
+    "sub_name": "Small Project",
+    "description": "During an experiment in Wisdom Cube consciousness creation, a strange phenomenon that caused a Thought Dissipation Rate spike occurred. If we can identify its cause, it should lead to a great leap for our understanding of the Wisdom Cubes' construction.",
+    "label": "tag_sp",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": null,
+    "rarity": 5,
+    "bg": "chara_kunibeierdi",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 5000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      },
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 5,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      }
+    ],
+    "drops": [
+      {
+        "id": 42073,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/42073",
+        "name": "Blueprint - Vittorio Cuniberti"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 1800
+  },
+  "1719": {
+    "id": 1719,
+    "name": "Q-002-UL",
+    "sub_name": "Small Project",
+    "description": "In a resonance experiment with Wisdom Cubes and shipgirls' rigging, certain Parts demonstrated an extremely high synchronization rate. It is thought they are likely comprised of as-of-yet unidentified technology.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 5,
+    "bg": "gold_3",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 5000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      },
+      {
+        "id": 17003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17003",
+        "name": "T3 General Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 1800
+  },
+  "1720": {
+    "id": 1720,
+    "name": "Q-010-UL",
+    "sub_name": "Small Project",
+    "description": "In a resonance experiment with Wisdom Cubes and shipgirls' rigging, certain Parts demonstrated an extremely high synchronization rate. It is thought they are likely comprised of as-of-yet unidentified technology.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 5,
+    "bg": "gold_3",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 5000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      },
+      {
+        "id": 17013,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17013",
+        "name": "T3 Main Gun Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 1800
+  },
+  "1721": {
+    "id": 1721,
+    "name": "Q-051-UL",
+    "sub_name": "Small Project",
+    "description": "In a resonance experiment with Wisdom Cubes and shipgirls' rigging, certain Parts demonstrated an extremely high synchronization rate. It is thought they are likely comprised of as-of-yet unidentified technology.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 5,
+    "bg": "gold_3",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 5000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      },
+      {
+        "id": 17023,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17023",
+        "name": "T3 Torpedo Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 1800
+  },
+  "1722": {
+    "id": 1722,
+    "name": "Q-068-UL",
+    "sub_name": "Small Project",
+    "description": "In a resonance experiment with Wisdom Cubes and shipgirls' rigging, certain Parts demonstrated an extremely high synchronization rate. It is thought they are likely comprised of as-of-yet unidentified technology.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 5,
+    "bg": "gold_3",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 5000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      },
+      {
+        "id": 17033,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17033",
+        "name": "T3 Anti-Air Gun Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 1800
+  },
+  "1723": {
+    "id": 1723,
+    "name": "Q-089-UL",
+    "sub_name": "Small Project",
+    "description": "In a resonance experiment with Wisdom Cubes and shipgirls' rigging, certain Parts demonstrated an extremely high synchronization rate. It is thought they are likely comprised of as-of-yet unidentified technology.",
+    "label": "tag_q",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 5,
+    "bg": "gold_3",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 5000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      },
+      {
+        "id": 17043,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/17043",
+        "name": "T3 Aircraft Part"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
+      },
+      {
+        "id": 52003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (T3)"
+      }
+    ],
+    "time": 1800
+  },
+  "1724": {
+    "id": 1724,
+    "name": "H-063-UL",
+    "sub_name": "Small Project",
+    "description": "The highest-ranking engineers have branded this Project as top-secret. The results may have a tremendous effect not just on humankind, but the very ecosystem of the entire world.",
+    "label": "tag_sh",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 5,
+    "bg": "gold_3",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 8000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      },
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 3,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 54051,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/54033",
+        "name": "T3 Mystery Retrofit Blueprint"
+      },
+      {
+        "id": 15008,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/15008",
+        "name": "Cognitive Chips"
+      }
+    ],
+    "time": 1800
+  },
+  "1725": {
+    "id": 1725,
+    "name": "H-063-UL",
+    "sub_name": "Small Project",
+    "description": "The highest-ranking engineers have branded this Project as top-secret. The results may have a tremendous effect not just on humankind, but the very ecosystem of the entire world.",
+    "label": "tag_sh",
+    "label_bg": "tag_blue",
+    "version": 8,
+    "condition": null,
+    "rarity": 5,
+    "bg": "gold_3",
+    "consume": [
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 8000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      },
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 3,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      }
+    ],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 54051,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/54033",
+        "name": "T3 Mystery Retrofit Blueprint"
+      },
+      {
+        "id": 15008,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/15008",
+        "name": "Cognitive Chips"
+      }
+    ],
+    "time": 1800
+  },
+  "1726": {
+    "id": 1726,
+    "name": "B-397-RF",
+    "sub_name": "Medium Project",
+    "description": "A large number of hypotheses have been generated during the process of researching the Wisdom Cube. This research project is aimed at collecting empirical evidence to test these hypotheses through practical methods.",
+    "label": "tag_b",
+    "label_bg": "tag_red",
+    "version": 8,
+    "condition": "Clear Chapter 13 or onward stages for 2 times on Normal Mode",
+    "rarity": 5,
+    "bg": "battle_3",
+    "consume": [],
+    "drops": [
+      {
+        "id": 52091,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/52001",
+        "name": "Random Blueprint (PR/DR8)"
+      },
+      {
+        "id": 52092,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": -1,
+        "blueprint": false,
+        "icon": "props/55000",
+        "name": "Random Gear Design (PR8)"
       },
       {
         "id": 52003,

@@ -170,9 +170,11 @@ Explained in the respective sections.
 
 These are the theorized/averaged values for each gun type:
 
-- DD, CL, CA, CB guns: Roughly \\(0.3s\\)
-- BB Guns: Roughly \\(0.2s\\)
-- All other: Assumed to be \\(0s\\)
+- DD, CL, CA, CB guns: Can be treated as \\(0.3s\\)
+- BB Guns:
+  - Can be treated as \\(0.2s\\) for BBs with a capacity of 1
+  - Can be treated as \\(0.033s\\) for BBs with a capacity >1
+- All other: Can be treated as \\(0s\\)
 
 In reality absolute cooldown is much more complicated and may vary.
 

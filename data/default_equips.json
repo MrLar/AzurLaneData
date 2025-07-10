@@ -7711,6 +7711,137 @@
       "CN"
     ]
   },
+  "168411": {
+    "icon": "default_9",
+    "id": 168411,
+    "name": "Ghost Raid Bomber (Gouden Leeuw)",
+    "rarity": 1,
+    "tech": 1,
+    "type": 9,
+    "description": "",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 9,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          75,
+          80,
+          85,
+          90,
+          95,
+          100,
+          105,
+          110,
+          115,
+          120
+        ],
+        "count": 15,
+        "armor_mod": [
+          1.2,
+          1,
+          0.8
+        ],
+        "range": [
+          0,
+          500
+        ],
+        "reload": [],
+        "id": 168421,
+        "spread_angle": null,
+        "name": "Raid Bomb (Gouden)",
+        "barrage_id": 82088,
+        "stat": "avi",
+        "ratio": 1,
+        "weapon_type": 2,
+        "aim_type": 1,
+        "bullet_id": 161138,
+        "airdrop": true,
+        "ammo": 6,
+        "bullet_type": 2,
+        "spread": [
+          0,
+          0
+        ],
+        "splash": 18,
+        "buffs": [
+          "Special Burn (349 DMG with 1 tick every 3 seconds for 9.1s, ID: 19925), increase HE damage taken while burning."
+        ],
+        "velocity": 0,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 10,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        1500,
+        1500,
+        1500,
+        1500,
+        1500,
+        1500,
+        1500,
+        1500,
+        1500,
+        1500
+      ],
+      "count": 1,
+      "is_interceptor": false,
+      "id": 168411,
+      "speed": 80,
+      "hp_growth": [
+        4019,
+        4543,
+        5067,
+        5591,
+        6115,
+        6639,
+        7164,
+        7688,
+        8212,
+        8736
+      ],
+      "hp": [
+        104,
+        118,
+        132,
+        145,
+        159,
+        173,
+        186,
+        200,
+        214,
+        227
+      ],
+      "dodge": 1,
+      "dodge_limit": 0,
+      "crash_dmg": 156
+    },
+    "stats": [],
+    "labels": [],
+    "speciality": "Ghost/Default",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "180000": {
     "icon": "default_3",
     "id": 180000,

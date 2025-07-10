@@ -33433,6 +33433,791 @@
       ]
     }
   ],
+  "19890": [
+    {
+      "name": "Ultimatum: Flügelsturm (10s + every 20s)",
+      "parts": [
+        {
+          "damage": 200,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "airdrop": true,
+          "aim_type": 1,
+          "angle": 16,
+          "splash": 35,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168490,
+          "weapon_type": 2,
+          "bullet_type": 2,
+          "bullet_id": 168482,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Mark the enemy (Mecklenburg) until end of battle"
+          ]
+        },
+        {
+          "damage": 120,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.1,
+            1.4
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 0,
+          "angle": 60,
+          "splash": 3,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": true,
+          "weapon_id": 168500,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 168491,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Mark the enemy (Mecklenburg) until end of battle"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ultimatum: Flügelsturm (on Fire)",
+      "parts": [
+        {
+          "damage": 160,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.1,
+            1.4
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 15,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            200
+          ],
+          "spread": [
+            19,
+            19
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168510,
+          "weapon_type": 1,
+          "bullet_type": 2,
+          "bullet_id": 168501,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "19920": [
+    {
+      "name": "Starfall",
+      "parts": [
+        {
+          "damage": 200,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 1,
+          "angle": 16,
+          "splash": 15,
+          "airdrop": true,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            180,
+            220
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168480,
+          "weapon_type": 2,
+          "bullet_type": 2,
+          "bullet_id": 161142,
+          "type": "weapon",
+          "buffs": [
+            "Special Burn (349 DMG with 1 tick every 3 seconds for 9.1s, ID: 19925)",
+            "While burning take 5% more damage from HE"
+          ],
+          "buff_chance": 1
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 10,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            60
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 8,
+          "pierce": 1,
+          "shell_range": [
+            50,
+            50
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Random",
+          "centered": false,
+          "weapon_id": 168540,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 161148,
+          "type": "weapon",
+          "buffs": [
+            "Special Burn (349 DMG with 1 tick every 3 seconds for 9.1s, ID: 19925)",
+            "While burning take 5% more damage from HE"
+          ],
+          "buff_chance": 1
+        }
+      ]
+    }
+  ],
+  "19940": [
+    {
+      "name": "Spiritual Echoes",
+      "parts": [
+        {
+          "damage": 56,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.95,
+            0.7
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": true,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 6,
+          "pierce": 10,
+          "shell_range": [
+            25,
+            25
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168520,
+          "weapon_type": 2,
+          "bullet_type": 5,
+          "bullet_id": 161145,
+          "type": "weapon"
+        },
+        {
+          "damage": 56,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.95,
+            0.7
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": true,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 10,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168520,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 161146,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Spiritual Echoes (enchanced)",
+      "parts": [
+        {
+          "damage": 56,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.95,
+            0.7
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": true,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 6,
+          "pierce": 10,
+          "shell_range": [
+            25,
+            25
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168520,
+          "weapon_type": 2,
+          "bullet_type": 5,
+          "bullet_id": 161145,
+          "type": "weapon"
+        },
+        {
+          "damage": 56,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.95,
+            0.7
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 10,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168520,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 161146,
+          "type": "weapon"
+        },
+        {
+          "damage": 56,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.4,
+            0.9,
+            0.8
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            95
+          ],
+          "aim_type": 1,
+          "angle": 180,
+          "splash": 16,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            120,
+            120
+          ],
+          "spread": [
+            6,
+            6
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168530,
+          "weapon_type": 19,
+          "bullet_type": 2,
+          "bullet_id": 161147,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "19950": [
+    {
+      "name": "Ambrosial Arc's Moonhaze (smokescreen)",
+      "parts": [
+        {
+          "damage": 1,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 18,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            1,
+            1
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168560,
+          "weapon_type": 1,
+          "bullet_type": 9,
+          "bullet_id": 164840,
+          "type": "weapon",
+          "buffs": [
+            "Exhaust Smokescreen"
+          ],
+          "buff_chance": 1
+        }
+      ]
+    },
+    {
+      "name": "Ambrosial Arc's Moonhaze",
+      "parts": [
+        {
+          "damage": 35,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.65,
+            1.25,
+            0.65
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            100,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "tracker": {
+            "angular": 8,
+            "range": 75
+          },
+          "targeting": "Random",
+          "centered": false,
+          "weapon_id": 168570,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161149,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Ambrosial Arc's Moonhaze (additional every 15 times)",
+      "parts": [
+        {
+          "damage": 135,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 3,
+          "velocity": 4,
+          "pierce": 0,
+          "shell_range": [
+            130,
+            170
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Random",
+          "centered": false,
+          "weapon_id": 168570,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161149,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "19980": [
+    {
+      "name": "Chargeburst (<3 Stack)",
+      "parts": [
+        {
+          "damage": 100,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.7
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 5.5,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            150
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168440,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161139,
+          "type": "weapon"
+        },
+        {
+          "damage": 130,
+          "coefficient": 1,
+          "count": 12,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.75,
+            1.1,
+            0.9
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 1,
+          "angle": 60,
+          "splash": 14,
+          "velocity": 14,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            125
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168450,
+          "weapon_type": 19,
+          "bullet_type": 2,
+          "bullet_id": 161141,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Chargeburst (=3 Stack)",
+      "parts": [
+        {
+          "damage": 100,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.7
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 5.5,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            150
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168440,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161139,
+          "type": "weapon"
+        },
+        {
+          "damage": 130,
+          "coefficient": 1,
+          "count": 12,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.25,
+            1.2
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 1,
+          "angle": 60,
+          "splash": 16,
+          "velocity": 14,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            125
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168450,
+          "weapon_type": 19,
+          "bullet_type": 2,
+          "bullet_id": 161141,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "20012": [
     {
       "name": "All Out Assault - Farragut-class II",
@@ -50121,6 +50906,104 @@
             "angular": 1.6,
             "range": 14
           }
+        }
+      ]
+    }
+  ],
+  "30492": [
+    {
+      "name": "All Out Assault - Vittorio Cuniberti II",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 36,
+          "coefficient": 1,
+          "count": 20,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.65,
+            1.25,
+            0.65
+          ],
+          "ammo": 7,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 22,
+          "pierce": 1,
+          "shell_range": [
+            45,
+            65
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 170802,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 2311,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "30502": [
+    {
+      "name": "All Out Assault - Dmitri Donskoi II",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 56,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            160
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 170812,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170812,
+          "type": "weapon"
         }
       ]
     }
@@ -69245,6 +70128,54 @@
       ]
     }
   ],
+  "190000": [
+    {
+      "name": "Steelsurge Concerto",
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 30,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            160
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168600,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170811,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "250012": [
     {
       "name": "All Out Assault - Admiralen-class II",
@@ -84885,6 +85816,54 @@
           "weapon_type": 1,
           "bullet_type": 1,
           "bullet_id": 19321,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "1090420": [
+    {
+      "name": "Full Firepower - Grozny",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 40,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168550,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170802,
           "type": "weapon"
         }
       ]

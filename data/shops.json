@@ -10716,6 +10716,19 @@
         "limit_type": 2
       },
       {
+        "id": 40140,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "name": "PR Voucher - Series 5",
+        "icon": "props/research5",
+        "limit": 1,
+        "cost": 9.99,
+        "limit_type": 2
+      },
+      {
         "id": 40018,
         "type": 0,
         "linkable": true,
@@ -10768,6 +10781,19 @@
         "limit_type": 2
       },
       {
+        "id": 40064,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "name": "PR Blueprint Pack - Series 5",
+        "icon": "chargeicon/tech5_promotion",
+        "limit": 1,
+        "cost": 9.99,
+        "limit_type": 2
+      },
+      {
         "id": 40016,
         "type": 0,
         "linkable": true,
@@ -10815,6 +10841,19 @@
         "blueprint": false,
         "name": "PR Voucher & Blueprint Bundle - Series 4",
         "icon": "chargeicon/tech4_promotion",
+        "limit": 1,
+        "cost": 15.99,
+        "limit_type": 2
+      },
+      {
+        "id": 40062,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "name": "PR Voucher & Blueprint Bundle - Series 5",
+        "icon": "chargeicon/tech5_promotion",
         "limit": 1,
         "cost": 15.99,
         "limit_type": 2
