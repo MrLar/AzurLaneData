@@ -59575,7 +59575,7 @@
     "values": []
   },
   "902150": {
-    "description": "Increases this ship's Secondary Gun gear slot efficiency by 30.0%.",
+    "description": "Increases this ship's Secondary Gun gear slot efficiency by {3%|The game applies this buff incorrectly leading to a tenth of the intended value.}.",
     "opsi_description": null,
     "name": "Defensive Fire",
     "max": 1,
