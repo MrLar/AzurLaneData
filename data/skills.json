@@ -59565,7 +59565,7 @@
     "values": []
   },
   "902140": {
-    "description": "When equipped by a ship: increases that ship's Dive Bomber and Torpedo Bomber gear slot efficiencies by 10.0%.",
+    "description": "When equipped by a ship: increases that ship's Dive Bomber and Torpedo Bomber gear slot efficiencies by {1%|The game applies this buff incorrectly leading to a tenth of the intended value.}.",
     "opsi_description": null,
     "name": "Honed Aviation Skills",
     "max": 1,
