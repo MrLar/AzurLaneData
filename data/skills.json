@@ -623,7 +623,7 @@
     ]
   },
   "2051": {
-    "description": "When this ship fires its Torpedoes: $1 chance to launch a second wave of Torpedoes.",
+    "description": "When this ship fires its Torpedoes: $1 chance to launch a second wave of Torpedoes {(10s cooldown, starts on cooldown)|The game does not mention this.}.",
     "opsi_description": null,
     "name": "Double Torpedo",
     "max": 10,
@@ -3134,7 +3134,7 @@
     ]
   },
   "10040": {
-    "description": "When this ship fires her weapons: 4.0% chance to increase the SPD of your entire fleet and increase the EVA of your Vanguard by $1 for 8s.",
+    "description": "When this ship fires her weapons: 4.0% chance to increase the SPD of your entire fleet and increase the EVA of your Vanguard by $1 for 8s {(5s cooldown, starts on cooldown)|The game does not mention this.}.",
     "opsi_description": null,
     "name": "31-Knot Burke",
     "max": 10,
@@ -4352,7 +4352,7 @@
     "values": []
   },
   "10530": {
-    "description": "When this ship fires its Main Guns: 5.0% chance to increase this ship's FP by $1 for 8s.",
+    "description": "When this ship fires its Main Guns: 5.0% chance to increase this ship's FP by $1 for 8s {(5s cooldown, starts on cooldown)|The game does not mention this.}.",
     "opsi_description": null,
     "name": "Iron Blood Vanguard",
     "max": 10,
@@ -4944,7 +4944,7 @@
     ]
   },
   "10730": {
-    "description": "When this ship fires its Main Guns: 5.0% chance to increase this ship's TRP by $1 for 12s.",
+    "description": "When this ship fires its Main Guns: 5.0% chance to increase this ship's TRP by $1 for 12s {(5s cooldown, starts on cooldown)|The game does not mention this.}.",
     "opsi_description": null,
     "name": "The Demon",
     "max": 10,
@@ -35192,7 +35192,7 @@
   "19970": {
     "description": "This ship gains 300 AVI during battle.",
     "opsi_description": null,
-    "name": "Bombing Raid",
+    "name": "Bombing Raid I",
     "max": 1,
     "id": 19970,
     "type": 0,
@@ -49532,7 +49532,7 @@
     ]
   },
   "150310": {
-    "description": "Increases this ship's SPD by 10. When this ship takes DMG: 15.0% chance to launch a $2 special attack (DMG is based on the skill's level) and, for $1s, your Vanguard evades all attacks.",
+    "description": "Increases this ship's SPD by 10. When this ship takes DMG: 15.0% chance to launch a $2 special attack (DMG is based on the skill's level) and, for $1s, your Vanguard evades all attacks {(20s cooldown, does NOT start on cooldown)|The game does not mention this.}.",
     "opsi_description": null,
     "name": "Operation Rainbow+",
     "max": 10,
@@ -59705,7 +59705,7 @@
     "values": []
   },
   "902280": {
-    "description": "Increases this ship's Fighter and Torpedo Bomber efficiency by 10%.",
+    "description": "Increases this ship's Fighter and Torpedo Bomber efficiency by {1%|The game applies this buff incorrectly leading to a tenth of the intended value.}.",
     "opsi_description": null,
     "name": "Airspace Training",
     "max": 1,
@@ -59715,7 +59715,7 @@
     "values": []
   },
   "902290": {
-    "description": "When equipped by a ship: increases that ship's Dive Bomber gear slot efficiency by 15%.",
+    "description": "When equipped by a ship: increases that ship's Dive Bomber gear slot efficiency by {1.5%|The game applies this buff incorrectly leading to a tenth of the intended value.}.",
     "opsi_description": null,
     "name": "Honed Aviation Skills - Dive Bombers",
     "max": 1,
@@ -60365,7 +60365,7 @@
     ]
   },
   "1010530": {
-    "description": "During battle, increases this ship's Main Gun gear slot efficiency by $2 and decreases her DMG taken by $3. When this ship fires her Main Guns: 5.0% chance to increase this ship's FP by $1 for 8s.",
+    "description": "During battle, increases this ship's Main Gun gear slot efficiency by $2 and decreases her DMG taken by $3. When this ship fires her Main Guns: 5.0% chance to increase this ship's FP by $1 for 8s {(5s cooldown, starts on cooldown)|The game does not mention this.}.",
     "opsi_description": null,
     "name": "Iron Blood Vanguard+",
     "max": 10,
@@ -60657,7 +60657,7 @@
     ]
   },
   "1010730": {
-    "description": "Increases this ship's torpedo DMG dealt by $1. When this ship fires her Main Guns: 5.0% chance to increase this ship's TRP by $2 for 12s (5s cooldown between activations). When the battle starts: increases this ship's TRP by $3 for 8s; after this buff expires, decreases this ship's DMG taken by $4 until the battle ends.",
+    "description": "Increases this ship's torpedo DMG dealt by $1. When this ship fires her Main Guns: 5.0% chance to increase this ship's TRP by $2 for 12s (5s cooldown between activations, {starts on cooldown|The game does not mention this.}). When the battle starts: increases this ship's TRP by $3 for 8s; after this buff expires, decreases this ship's DMG taken by $4 until the battle ends.",
     "opsi_description": null,
     "name": "The Demon+",
     "max": 10,
@@ -63988,7 +63988,7 @@
     ]
   },
   "1090200": {
-    "description": "When this ship fires her torpedoes: $1 chance to fire a second wave of torpedoes and reduces the reload time of currently reloading torpedoes by 3s.",
+    "description": "When this ship fires her torpedoes: $1 chance to fire a second wave of torpedoes and reduces the reload time of currently reloading torpedoes by 3s {(10s cooldown, starts on cooldown)|The game does not mention this.}.",
     "opsi_description": null,
     "name": "Double Torpedo - McCall",
     "max": 10,
