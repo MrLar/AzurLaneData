@@ -108,33 +108,35 @@ AlServer refers to any of the following strings: `EN`, `JP` or `CN`.
 
 # Equipment Type
 
-Equipment Type is a numeric value with the **three** ranges `[0, 15]`, `[17, 18]` and `[20, 21]` where
+Equipment Type is a numeric value with the **three** ranges `[0, 15]`, `[17, 18]`, `[20, 21]` and `[99, 100)` where
 each number represents an in-game equipment type (missing values do not exit in game):
 
-| Value |      Label      |           Description           |
-| :---: | :-------------: | :-----------------------------: |
-|   0   |     Unknown     | Placeholder for equipment types |
-|   1   |     DD Gun      |          Destroyer Gun          |
-|   2   |     CL Gun      |        Light Cruiser Gun        |
-|   3   |     CA Gun      |        Heavy Cruiser Gun        |
-|   4   |     BB Gun      |         Battleship Gun          |
-|   5   |     Torpedo     |         Surface Torpedo         |
-|   6   | AA Gun (Normal) |    Short-Range Anti-Air Gun     |
-|   7   |     Fighter     |          Fighter Plane          |
-|   8   | Torpedo Bomber  |      Torpedo Bomber Plane       |
-|   9   |   Dive Bomber   |        Dive Bomber Plane        |
-|  10   |    Auxiliary    |       Auxiliary Equipment       |
-|  11   |     CB Gun      |        Large Cruiser Gun        |
-|  12   |    Seaplane     |            Seaplane             |
-|  13   |   Sub Torpedo   |        Submarine Torpedo        |
-|  14   |  Depth Charge   |       Depth Charge (ASW)        |
-|  15   |   ASW Bomber    |        ASW Bomber Plane         |
-|  16   |       N/A       |       Does not exist yet        |
-|  17   |    ASW Heli     |         ASW Helicopter          |
-|  18   |      Cargo      |         Cargo Axuiliary         |
-|  19   |       N/A       |       Does not exist yet        |
-|  20   |     Missile     |         Guided Missile          |
-|  21   |   Fuze AA Gun   |     Long-Range Anti-Air Gun     |
+| Value |      Label      |              Description              |
+| :---: | :-------------: | :-----------------------------------: |
+|   0   |     Unknown     |    Placeholder for equipment types    |
+|   1   |     DD Gun      |             Destroyer Gun             |
+|   2   |     CL Gun      |           Light Cruiser Gun           |
+|   3   |     CA Gun      |           Heavy Cruiser Gun           |
+|   4   |     BB Gun      |            Battleship Gun             |
+|   5   |     Torpedo     |            Surface Torpedo            |
+|   6   | AA Gun (Normal) |       Short-Range Anti-Air Gun        |
+|   7   |     Fighter     |             Fighter Plane             |
+|   8   | Torpedo Bomber  |         Torpedo Bomber Plane          |
+|   9   |   Dive Bomber   |           Dive Bomber Plane           |
+|  10   |    Auxiliary    |          Auxiliary Equipment          |
+|  11   |     CB Gun      |           Large Cruiser Gun           |
+|  12   |    Seaplane     |               Seaplane                |
+|  13   |   Sub Torpedo   |           Submarine Torpedo           |
+|  14   |  Depth Charge   |          Depth Charge (ASW)           |
+|  15   |   ASW Bomber    |           ASW Bomber Plane            |
+|  16   |       N/A       |          Does not exist yet           |
+|  17   |    ASW Heli     |            ASW Helicopter             |
+|  18   |      Cargo      |            Cargo Axuiliary            |
+|  19   |       N/A       |          Does not exist yet           |
+|  20   |     Missile     |            Guided Missile             |
+|  21   |   Fuze AA Gun   |        Long-Range Anti-Air Gun        |
+| 22-98 |       N/A       |           Do not exist yet            |
+|  99   |   Raid Bomber   | Raid Bomber - not a real type in game |
 
 # Augment Type
 

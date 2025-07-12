@@ -94,7 +94,8 @@ export type EquipmentType =
 17 | // asw heli
 18 | // cargo
 20 | // missile
-21 // aa gun (fuze)
+21 | // aa gun (fuze)
+99 // raid bomber
 
 // this could be an enum, but TS enums add uneccesary overhead
 export type Nation =
