@@ -57859,7 +57859,7 @@
       "name": "Eternity Bloom+",
       "parts": [
         {
-          "damage": 28,
+          "damage": 10,
           "coefficient": 1,
           "count": 16,
           "stat": "fp",
@@ -57871,7 +57871,9 @@
           ],
           "ammo": 1,
           "is_critical": false,
-          "notes": [],
+          "notes": [
+            "This barrage is supposed to have a damage of 28 at level 10 but because her skill is bugged the level 1 weapon is always used."
+          ],
           "shrapnel": false,
           "ignore_shield": false,
           "range": [
@@ -58051,7 +58053,7 @@
       "name": "Luna Judgment+",
       "parts": [
         {
-          "damage": 35,
+          "damage": 13,
           "coefficient": 1,
           "count": 15,
           "stat": "fp",
@@ -58063,7 +58065,9 @@
           ],
           "ammo": 1,
           "is_critical": false,
-          "notes": [],
+          "notes": [
+            "This barrage is supposed to have a damage of 35 at level 10 but because her skill is bugged the level 1 weapon is always used."
+          ],
           "shrapnel": false,
           "ignore_shield": false,
           "range": [

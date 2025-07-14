@@ -29859,7 +29859,7 @@
     ]
   },
   "17820": {
-    "description": "When this ship sinks an enemy: $1 chance to set all enemies' SPD to 0 for $2s, after which their SPD returns to normal over 2s (10s cooldown between activations).",
+    "description": "When this ship sinks an enemy: {50%|The game incorrectly handles part of this skill and the chance always remains 50%.} chance to set all enemies' SPD to 0 for $1s, after which their SPD returns to normal over 2s (10s cooldown between activations).",
     "opsi_description": null,
     "name": "Listen Up!",
     "max": 10,
@@ -29867,18 +29867,6 @@
     "type": 3,
     "icon": 17820,
     "values": [
-      [
-        "50.0%",
-        "53.3%",
-        "56.6%",
-        "59.9%",
-        "63.2%",
-        "66.5%",
-        "69.8%",
-        "73.1%",
-        "76.4%",
-        "80%"
-      ],
       [
         "1.0",
         "1.1",
@@ -30980,7 +30968,7 @@
     ]
   },
   "18270": {
-    "description": "Decreases the loading time of this ship's first 2 waves of torpedoes by $1. When this ship takes DMG: 15.0% chance to increase this ship's FP, EVA, and AA by $2 until the end of the battle. Can be stacked up to 3 times. While this ship's HP is at 80.0% or higher: increases this ship's DMG dealt with torpedoes by $3.",
+    "description": "Decreases the loading time of this ship's first 2 waves of torpedoes by $1. When this ship takes DMG: 15.0% chance to increase this ship's FP, EVA, and AA by $2 until the end of the battle. Can be stacked up to 3 times. While this ship's HP is at 80.0% or higher: increases this ship's DMG dealt with torpedoes by {4%|The game incorrectly handles part of this skill which leads to her always only gaining an increase of 4%.}.",
     "opsi_description": null,
     "name": "Bounce Right Back+",
     "max": 10,
@@ -31011,18 +30999,6 @@
         "4.0%",
         "4.5%",
         "5.0%"
-      ],
-      [
-        "4.0%",
-        "4.6%",
-        "5.2%",
-        "6.0%",
-        "6.6%",
-        "7.2%",
-        "8.0%",
-        "8.6%",
-        "9.2%",
-        "10.0%"
       ]
     ]
   },
@@ -35195,7 +35171,7 @@
     "name": "Bombing Raid I",
     "max": 1,
     "id": 19970,
-    "type": 0,
+    "type": 1,
     "icon": null,
     "values": []
   },
@@ -35205,7 +35181,7 @@
     "name": "Bombing Raid II",
     "max": 1,
     "id": 19972,
-    "type": 0,
+    "type": 1,
     "icon": null,
     "values": []
   },
@@ -35215,7 +35191,7 @@
     "name": "Bombing Raid III",
     "max": 1,
     "id": 19974,
-    "type": 0,
+    "type": 1,
     "icon": null,
     "values": []
   },
@@ -35225,12 +35201,12 @@
     "name": "Bombing Raid IV",
     "max": 1,
     "id": 19976,
-    "type": 0,
+    "type": 1,
     "icon": null,
     "values": []
   },
   "19980": {
-    "description": "When this ship fires her Main Guns, the final volley prioritizes humanoid enemies.\n\nEvery 8s: gives this ship 1 stack of Charge (can be stacked up to 3 times); increases her AA by $1 for each stack she has.\n\nWhen this ship fires her Main Guns: spends all Charge and increases this ship's FP by $1 for 5s per each Charge spent and fires a $2 special barrage (DMG is based on the skill's level); when this effect activates, the following effects apply for 5s based on the number of Charge stacks spent:\n• 1+ spent: increases this ship's Main Gun Crit Rate by $3;\n• 2+ spent: increases this ship's DMG dealt by $4;\n• 3 spent: improves the special barrage and increases this ship's Crit DMG by $3.",
+    "description": "When this ship fires her Main Guns, the final volley prioritizes humanoid enemies.\n\nEvery 8s: gives this ship 1 stack of Charge (can be stacked up to 3 times); increases her AA by $1 for each stack she has.\n\nWhen this ship fires her Main Guns: spends all Charge and increases this ship's FP by $1 for 5s per each Charge spent and fires a $2 special barrage (DMG is based on the skill's level); when this effect activates, the following effects apply for 5s based on the number of Charge stacks spent:\n• 1+ spent: {increases this ship's Crit Rate|The game incorrectly states that this only applies to the main gun} by $3;\n• 2+ spent: increases this ship's DMG dealt by $4;\n• 3 spent: improves the special barrage and increases this ship's {Main Gun|The game incorrectly states this applies to the ship as a whole while it is only for the main gun.} Crit DMG by $3.",
     "opsi_description": "When this ship fires her Main Guns, the final volley prioritizes humanoid enemies (this effect is not affected by the Tolls of War debuff).\n\nEvery 8s: gives this ship 1 stack of Charge (can be stacked up to 3 times); increases her AA by $1 for each stack she has.\n\nWhen this ship fires her Main Guns: spends all Charge and increases this ship's FP by $1 for 5s per each Charge spent and fires a $2 special barrage (DMG is based on the skill's level); when this effect activates, the following effects apply for 5s based on the number of Charge stacks spent:\n• 1+ spent: increases this ship's Main Gun Crit Rate by $3;\n• 2+ spent: increases this ship's DMG dealt by $4;\n• 3 spent: improves the special barrage and increases this ship's Crit DMG by $3.",
     "name": "Chargeburst",
     "max": 10,
@@ -45974,7 +45950,7 @@
     ]
   },
   "109160": {
-    "description": "When this ship launches an Airstrike: your fleet gains 5 AP. Increases this ship's AVI by 5.0% and AA by $1. Once per battle, when this ship has gained 5 stacks of Wood Element: resets all stacks and activates \"Fatal Drive - Eternity Bloom\" $2 (DMG is based on the level of this ship's \"Eternity Bloom\" skill).",
+    "description": "When this ship launches an Airstrike: your fleet gains 5 AP. Increases this ship's AVI by 5.0% and AA by $1. Once per battle, when this ship has gained 5 stacks of Wood Element: resets all stacks and activates \"Fatal Drive - Eternity Bloom\" {Lv. 1|The game handles this skill incorrectly leading to the barrage always being level 1.}.",
     "opsi_description": null,
     "name": "Eternity Bloom+",
     "max": 10,
@@ -45993,18 +45969,6 @@
         "12.7%",
         "13.8%",
         "15.0%"
-      ],
-      [
-        "Lv.1",
-        "Lv.2",
-        "Lv.3",
-        "Lv.4",
-        "Lv.5",
-        "Lv.6",
-        "Lv.7",
-        "Lv.8",
-        "Lv.9",
-        "Lv.10"
       ]
     ]
   },
@@ -46206,7 +46170,7 @@
     ]
   },
   "109240": {
-    "description": "Every 2 times this ship fires her Main Guns: your fleet gains 10 AP. Increases this ship's DMG dealt against Sirens by $1. {Every 3 times|Game incorrectly states \"The third time\".} this ship's \"Dark Spirit\" skill activates: activates \"Fatal Drive - Luna Judgment\" $2 (DMG is based on the level of this ship's \"Luna Judgment\" skill) and adds a Luna Element to all \"Atelier Ryza\" collab characters excluding this one. Within 3s of gaining a Luna Element, if that character takes DMG that would sink her: that character does not sink, recovers 3.0% of her max HP, and evades all attacks for 3s.",
+    "description": "Every 2 times this ship fires her Main Guns: your fleet gains 10 AP. Increases this ship's DMG dealt against Sirens by $1. {Every 3 times|Game incorrectly states \"The third time\".} this ship's \"Dark Spirit\" skill activates: activates \"Fatal Drive - Luna Judgment\" {Lv. 1|The game handles this skill incorrectly leading to the barrage always being level 1.} and adds a Luna Element to all \"Atelier Ryza\" collab characters excluding this one. Within 3s of gaining a Luna Element, if that character takes DMG that would sink her: that character does not sink, recovers 3.0% of her max HP, and evades all attacks for 3s.",
     "opsi_description": null,
     "name": "Luna Judgment+",
     "max": 10,
@@ -46225,18 +46189,6 @@
         "8.6%",
         "9.2%",
         "10.0%"
-      ],
-      [
-        "Lv.1",
-        "Lv.2",
-        "Lv.3",
-        "Lv.4",
-        "Lv.5",
-        "Lv.6",
-        "Lv.7",
-        "Lv.8",
-        "Lv.9",
-        "Lv.10"
       ]
     ]
   },
@@ -49801,7 +49753,7 @@
     ]
   },
   "150380": {
-    "description": "When this boat resurfaces: fires a $2 special torpedo barrage (DMG is based on the skill's level), then has a $1 chance to fire a special cannon barrage (DMG is based on the skill's level); if this cannon barrage activates, decreases this boat's surface fighting duration by 1s.",
+    "description": "When this boat resurfaces: fires a $1 special torpedo barrage (DMG is based on the skill's level), then has a {40%|The game incorrectly handles part of this skill and the chance always remains 40%.} chance to fire a special cannon barrage (DMG is based on the skill's level); if this cannon barrage activates, decreases this boat's surface fighting duration by 1s.",
     "opsi_description": null,
     "name": "You'd Better Keep Your Distance",
     "max": 10,
@@ -49809,18 +49761,6 @@
     "type": 1,
     "icon": 150380,
     "values": [
-      [
-        "40.0%",
-        "43.3%",
-        "46.6%",
-        "49.9%",
-        "53.2%",
-        "56.5%",
-        "59.8%",
-        "63.1%",
-        "66.4%",
-        "70.0%"
-      ],
       [
         "Lv.1",
         "Lv.2",
@@ -55463,7 +55403,7 @@
     "values": []
   },
   "800640": {
-    "description": "During battle, deploys \"Jamming Field - Arizona META.\" Enemies within this field take $1 more DMG and have their SPD decreased by $2; the SPD debuff fades over 3s upon leaving this field.",
+    "description": "During battle, deploys \"Jamming Field - Arizona META.\" Enemies within this field take $1 more DMG and have their SPD decreased by {50%|The game incorrectly handles part of this skill and the slow always remains 50%, additionally this also causes the fading effect to temporarily speed up the enemy.}; the SPD debuff fades over 3s upon leaving this field.",
     "opsi_description": null,
     "name": "Melancholy Whispers",
     "max": 10,
@@ -55482,18 +55422,6 @@
         "17.7%",
         "18.8%",
         "20.0%"
-      ],
-      [
-        "50.0%",
-        "53.3%",
-        "56.6%",
-        "59.9%",
-        "63.2%",
-        "66.5%",
-        "69.8%",
-        "73.1%",
-        "76.4%",
-        "80.0%"
       ]
     ]
   },
