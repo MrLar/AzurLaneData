@@ -66492,5 +66492,473 @@
     "time_limit": 180,
     "type": 18,
     "id": 1649
+  },
+  "2100501_a1_15800301": {
+    "name": "Rondo at Rainbow's End-A1 - War Archive",
+    "acv": 100,
+    "opsi": false,
+    "boss": {
+      "id": 15800301,
+      "hull": 5,
+      "nation": 4,
+      "name": "Tirpitz",
+      "stats": {
+        "hp": 8900,
+        "fp": 150,
+        "trp": 30,
+        "avi": 0,
+        "aa": 115,
+        "hit": 19,
+        "eva": 15,
+        "spd": 20,
+        "luck": 0,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 25,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "tierbici"
+    },
+    "buffs": [],
+    "expo_id": 1640013,
+    "dungeon_id": 1640013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1650
+  },
+  "2100501_a2_15800302": {
+    "name": "Rondo at Rainbow's End-A2 - War Archive",
+    "acv": 130,
+    "opsi": false,
+    "boss": {
+      "id": 15800302,
+      "hull": 5,
+      "nation": 99,
+      "name": "Peace Breaker II",
+      "stats": {
+        "hp": 8900,
+        "fp": 150,
+        "trp": 0,
+        "avi": 0,
+        "aa": 115,
+        "hit": 20,
+        "eva": 16,
+        "spd": 20,
+        "luck": 0,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenzhanlie_i"
+    },
+    "buffs": [],
+    "expo_id": 1640113,
+    "dungeon_id": 1640113,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1651
+  },
+  "2100501_a3_15800303": {
+    "name": "Rondo at Rainbow's End-A3 - War Archive",
+    "acv": 165,
+    "opsi": false,
+    "boss": {
+      "id": 15800303,
+      "hull": 7,
+      "nation": 99,
+      "name": "Strategist II",
+      "stats": {
+        "hp": 7800,
+        "fp": 55,
+        "trp": 0,
+        "avi": 85,
+        "aa": 125,
+        "hit": 21,
+        "eva": 16,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenhangmu_i"
+    },
+    "buffs": [],
+    "expo_id": 1640213,
+    "dungeon_id": 1640213,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1652
+  },
+  "2100502_b1_15801301": {
+    "name": "Rondo at Rainbow's End-B1 - War Archive",
+    "acv": 210,
+    "opsi": false,
+    "boss": {
+      "id": 15801301,
+      "hull": 4,
+      "nation": 4,
+      "name": "Odin",
+      "stats": {
+        "hp": 16500,
+        "fp": 130,
+        "trp": 100,
+        "avi": 0,
+        "aa": 180,
+        "hit": 25,
+        "eva": 16,
+        "spd": 20,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 45,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "aoding"
+    },
+    "buffs": [],
+    "expo_id": 1641013,
+    "dungeon_id": 1641013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1653
+  },
+  "2100502_b2_15801302": {
+    "name": "Rondo at Rainbow's End-B2 - War Archive",
+    "acv": 270,
+    "opsi": false,
+    "boss": {
+      "id": 15801302,
+      "hull": 17,
+      "nation": 99,
+      "name": "Compiler Type-μ",
+      "stats": {
+        "hp": 7800,
+        "fp": 75,
+        "trp": 212,
+        "avi": 171,
+        "aa": 204,
+        "hit": 25,
+        "eva": 22,
+        "spd": 20,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 55,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknown5"
+    },
+    "buffs": [],
+    "expo_id": 1641113,
+    "dungeon_id": 1641113,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1654
+  },
+  "2100502_b3_15801303": {
+    "name": "Rondo at Rainbow's End-B3 - War Archive",
+    "acv": 330,
+    "opsi": false,
+    "boss": {
+      "id": 15801303,
+      "hull": 17,
+      "nation": 99,
+      "name": "Compiler Type-o",
+      "stats": {
+        "hp": 7200,
+        "fp": 80,
+        "trp": 224,
+        "avi": 182,
+        "aa": 208,
+        "hit": 26,
+        "eva": 23,
+        "spd": 20,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknown5"
+    },
+    "buffs": [],
+    "expo_id": 1641213,
+    "dungeon_id": 1641213,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1655
+  },
+  "2100511_c1_15802301": {
+    "name": "Rondo at Rainbow's End-C1 - War Archive",
+    "acv": 455,
+    "opsi": false,
+    "boss": {
+      "id": 15802301,
+      "hull": 5,
+      "nation": 4,
+      "name": "Tirpitz",
+      "stats": {
+        "hp": 52100,
+        "fp": 210,
+        "trp": 50,
+        "avi": 0,
+        "aa": 206,
+        "hit": 41,
+        "eva": 41,
+        "spd": 20,
+        "luck": 18,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 75,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "tierbici"
+    },
+    "buffs": [],
+    "expo_id": 1642013,
+    "dungeon_id": 1642013,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1656
+  },
+  "2100511_c2_15802302": {
+    "name": "Rondo at Rainbow's End-C2 - War Archive",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "id": 15802302,
+      "hull": 5,
+      "nation": 99,
+      "name": "Peace Breaker II",
+      "stats": {
+        "hp": 56200,
+        "fp": 220,
+        "trp": 0,
+        "avi": 0,
+        "aa": 225,
+        "hit": 42,
+        "eva": 42,
+        "spd": 20,
+        "luck": 18,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenzhanlie_i"
+    },
+    "buffs": [],
+    "expo_id": 1642113,
+    "dungeon_id": 1642113,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1657
+  },
+  "2100511_c3_15802303": {
+    "name": "Rondo at Rainbow's End-C3 - War Archive",
+    "acv": 775,
+    "opsi": false,
+    "boss": {
+      "id": 15802303,
+      "hull": 7,
+      "nation": 99,
+      "name": "Strategist II",
+      "stats": {
+        "hp": 46800,
+        "fp": 190,
+        "trp": 0,
+        "avi": 225,
+        "aa": 265,
+        "hit": 40,
+        "eva": 42,
+        "spd": 18,
+        "luck": 18,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 85,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenhangmu_i"
+    },
+    "buffs": [],
+    "expo_id": 1642213,
+    "dungeon_id": 1642213,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1658
+  },
+  "2100512_d1_15803301": {
+    "name": "Rondo at Rainbow's End-D1 - War Archive",
+    "acv": 850,
+    "opsi": false,
+    "boss": {
+      "id": 15803301,
+      "hull": 4,
+      "nation": 4,
+      "name": "Odin",
+      "stats": {
+        "hp": 86200,
+        "fp": 170,
+        "trp": 125,
+        "avi": 0,
+        "aa": 260,
+        "hit": 69,
+        "eva": 32,
+        "spd": 16,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 95,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "aoding"
+    },
+    "buffs": [],
+    "expo_id": 1643013,
+    "dungeon_id": 1643013,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1659
+  },
+  "2100512_d2_15803302": {
+    "name": "Rondo at Rainbow's End-D2 - War Archive",
+    "acv": 1055,
+    "opsi": false,
+    "boss": {
+      "id": 15803302,
+      "hull": 17,
+      "nation": 99,
+      "name": "Compiler Type-μ",
+      "stats": {
+        "hp": 33640,
+        "fp": 108,
+        "trp": 428,
+        "avi": 317,
+        "aa": 304,
+        "hit": 35,
+        "eva": 26,
+        "spd": 20,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknown5"
+    },
+    "buffs": [],
+    "expo_id": 1643113,
+    "dungeon_id": 1643113,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1660
+  },
+  "2100512_d3_15803303": {
+    "name": "Rondo at Rainbow's End-D3 - War Archive",
+    "acv": 1245,
+    "opsi": false,
+    "boss": {
+      "id": 15803303,
+      "hull": 17,
+      "nation": 99,
+      "name": "Compiler Type-o",
+      "stats": {
+        "hp": 30000,
+        "fp": 120,
+        "trp": 460,
+        "avi": 346,
+        "aa": 240,
+        "hit": 36,
+        "eva": 27,
+        "spd": 20,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknown5"
+    },
+    "buffs": [],
+    "expo_id": 1643213,
+    "dungeon_id": 1643213,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1661
   }
 }

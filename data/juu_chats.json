@@ -37286,6 +37286,1141 @@
     "icon": "mojiaduoer_2",
     "type": 1
   },
+  "90401": {
+    "id": 90401,
+    "name": "gateaumistress",
+    "topics": [
+      {
+        "id": 141,
+        "name": "Sweet Delivery",
+        "unlock": {
+          "type": 1,
+          "ship_id": 352
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 4716,
+            "text": "Commander, are you still working?",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4717,
+            "text": "I saw the light on when I passed by your office before.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4718,
+            "text": "You shouldn't be working this late.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4719,
+            "text": "Make sure you get some rest, okay?",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4720,
+            "text": "I left a little plate of sweets in front of your door.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4721,
+            "text": "They're homemade.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4722,
+            "text": "I didn't knock because I didn't want to interrupt you while you're busy.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4723,
+            "text": "I hope you don't mind.",
+            "user": 90401,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "You made all these for me?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 4724,
+            "text": "You made all these for me?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4725,
+            "text": "14",
+            "user": 90401,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4726,
+            "text": "I wouldn't go that far.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4727,
+            "text": "My sweet tooth was getting to me, that's all.",
+            "user": 90401,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "And you just happened to pass by my office?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 4728,
+            "text": "And you just happened to pass by my office?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4729,
+            "text": "Randomly passing by my office and sharing the sweets you just happened to have? That's a whole string of coincidences...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4730,
+            "text": "...",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4731,
+            "text": "Yes, Commander. I made them for you.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4732,
+            "text": "They're not especially elaborate, or anything.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4733,
+            "text": "Still, they should taste... good enough.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4734,
+            "text": "That much, I can say.",
+            "user": 90401,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "I already ate them all."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 4735,
+            "text": "I already ate them all.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4736,
+            "text": "Did you like them?",
+            "user": 90401,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "How sweet."
+              },
+              {
+                "option_id": 5,
+                "text": "I want more!"
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 4737,
+            "text": "How sweet.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 4738,
+            "text": "Oh...",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 4739,
+            "text": "I thought I measured out the sugar just right.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 4740,
+            "text": "Not what I meant. I meant you.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 4741,
+            "text": "It was very sweet of you to bring me food at work.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 4742,
+            "text": "They were so good, I want more!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 4743,
+            "text": "Hehehe.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 4744,
+            "text": "Okay. Should I make more tomorrow?",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 4745,
+            "text": "I'd love it if you \"randomly\" passed by my office again!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4746,
+            "text": "buli",
+            "user": 90401,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4747,
+            "text": "I'm glad you liked them.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4748,
+            "text": "Sweets are meant to bring joy to the person who eats them.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4749,
+            "text": "If you enjoyed mine, then that makes me happy, too.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4750,
+            "text": "Promise me that you'll take a break, though?",
+            "user": 90401,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "Okay!"
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 4751,
+            "text": "Okay!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 142,
+        "name": "Lingering Scent",
+        "unlock": {
+          "type": 2,
+          "ship_id": 352,
+          "affinity": 100
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 4752,
+            "text": "Commander, are you available?",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4753,
+            "text": "It isn't quite urgent, I guess...",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4754,
+            "text": "But there's something I want to ask you.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4755,
+            "text": "lingbo",
+            "user": 90401,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Yes?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 4756,
+            "text": "Yes?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4757,
+            "text": "Every time I bake, the smell of sweets sticks to me for the rest of the day.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4758,
+            "text": "I don't have the time to shower and change clothes every single time...",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4759,
+            "text": "You know. The smell of cream, vanilla, orange peels, and the like...",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4760,
+            "text": "Kind of sickeningly sweet, you know?",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4761,
+            "text": "I've gotten used to it, so I don't notice it much anymore.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4762,
+            "text": "But I worry what the other girls might think if they notice...",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4763,
+            "text": "shancheng",
+            "user": 90401,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "I've noticed it."
+              },
+              {
+                "option_id": 3,
+                "text": "I haven't paid it much mind..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 4764,
+            "text": "I've noticed it, actually.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4765,
+            "text": "You smelled just like the sweets you brought me.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4766,
+            "text": "Whenever I smell it, it brightens my day a little.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4767,
+            "text": "O-oh, really? Nobody's ever put it like that.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4768,
+            "text": "Thank you.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4769,
+            "text": "If that's how you feel...",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4770,
+            "text": "Maybe I can let the scent linger.",
+            "user": 90401,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Now, if I smell that again..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 4771,
+            "text": "I haven't paid it much mind, but now that I think about it...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4772,
+            "text": "When you come close, I do smell something like that.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4773,
+            "text": "It's subtle, but it's as comforting as fresh-baked sweets.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4774,
+            "text": "Does it really feel that way to you?",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4775,
+            "text": "I wasn't trying to make such an impression...",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4776,
+            "text": "But for you? That's a different story.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4777,
+            "text": "I'm happy to hear that.",
+            "user": 90401,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Now, if I smell that again..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 4778,
+            "text": "Now, if I smell that again, I'll know you're not far away.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 4779,
+            "text": "Huh? Me?",
+            "user": 90401,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "Of course."
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 4780,
+            "text": "Of course.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 4781,
+            "text": "That scent is basically a part of you, after all.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 4782,
+            "text": "In that case...",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 4783,
+            "text": "Does that make it a special symbol of mine, then?",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 4784,
+            "text": "After I finish today's baking...",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 4785,
+            "text": "I don't need to wash off the scent?",
+            "user": 90401,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "Sticker: Woah!"
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 4786,
+            "text": "33",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 4787,
+            "text": "Heheh, I'm just kidding.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 4788,
+            "text": "But, being serious...",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 4789,
+            "text": "I don't mind smelling a little sweet.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 4790,
+            "text": "You recognize it, and you like it.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 4791,
+            "text": "That's even more important than the sweets themselves...",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 143,
+        "name": "Bedtime Story",
+        "unlock": {
+          "type": 2,
+          "ship_id": 352,
+          "affinity": 150
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 4792,
+            "text": "Are you STILL up?",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4793,
+            "text": "Do you even know what time it is?",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4794,
+            "text": "5",
+            "user": 90401,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "How'd you know?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 4795,
+            "text": "How'd you know?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4796,
+            "text": "...I was actually just trying to trick you into admitting it. I didn't know.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4797,
+            "text": "You were so busy during the day, I figured you'd have to work late. I'm not surprised.",
+            "user": 90401,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "I can't sleep..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 4798,
+            "text": "I'm not working overtime. I just can't sleep.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4799,
+            "text": "Oh? Why's that?",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4800,
+            "text": "Feeling like your mind's a mess? Why, I bet you're STILL thinking about work.",
+            "user": 90401,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "Maybe."
+              },
+              {
+                "option_id": 4,
+                "text": "Even I don't know."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 4801,
+            "text": "Maybe.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 4802,
+            "text": "Even I don't know.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4803,
+            "text": "Then may I read you a bedtime story?",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4804,
+            "text": "It's not very exciting, but it's sweet.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4805,
+            "text": "You'll have sweet dreams if you listen.",
+            "user": 90401,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "Would you please?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 4806,
+            "text": "Would you please?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 4807,
+            "text": "One little sheep wearing an apron goes into the kitchen.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 4808,
+            "text": "She mixes cream and takes a little pinch of sugar to eat.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 4809,
+            "text": "Two little sheep dance on the balcony.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 4810,
+            "text": "They're not the best dancers, so they keep bumping into each other.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 4811,
+            "text": "Three little sheep sneak into the Commander's office...",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 4812,
+            "text": "Because they want to be with you forever.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 4813,
+            "text": "[Typing...]",
+            "user": 1,
+            "type": 5,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "And then?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 4814,
+            "text": "And then?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 4815,
+            "text": "Oops!",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 4816,
+            "text": "Sorry. I was starting to fall asleep...",
+            "user": 90401,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 7,
+                "text": "Go ahead and sleep."
+              },
+              {
+                "option_id": 8,
+                "text": "That story sure worked on one of us."
+              }
+            ]
+          },
+          {
+            "choosen_option": 7,
+            "id": 4817,
+            "text": "Go ahead and sleep.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 4818,
+            "text": "No, I couldn't.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 4819,
+            "text": "That story sure worked on one of us.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 4820,
+            "text": "But not the one it was intended for...",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4821,
+            "text": "I wanted to help you sleep.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4822,
+            "text": "Commander, next time you can't sleep...",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4823,
+            "text": "Call me, okay?",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4824,
+            "text": "We can count sheep together.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4825,
+            "text": "Or even chat about anything.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4826,
+            "text": "I'll do anything you want.",
+            "user": 90401,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 9,
+                "text": "Okay. I'll do that."
+              }
+            ]
+          },
+          {
+            "choosen_option": 9,
+            "id": 4827,
+            "text": "Okay. I'll do that.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 9,
+            "id": 4828,
+            "text": "That's enough replying. Just read my messages.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 9,
+            "id": 4829,
+            "text": "Put your hands in your blanket and get ready for bed.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 9,
+            "id": 4830,
+            "text": "Let's get back to counting.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 9,
+            "id": 4831,
+            "text": "Four little sheep sneak into your bed...",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 9,
+            "id": 4832,
+            "text": "They warm it up to help soothe you to sleep.",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 9,
+            "id": 4833,
+            "text": "Five little she",
+            "user": 90401,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 9,
+            "id": 4834,
+            "text": "[Typing...]",
+            "user": 1,
+            "type": 5,
+            "options": [
+              {
+                "option_id": 10,
+                "text": "Dunkerque?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 10,
+            "id": 4835,
+            "text": "Dunkerque?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 10,
+            "id": 4836,
+            "text": "Did you fall asleep?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 10,
+            "id": 4837,
+            "text": "Good night.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 10,
+            "id": 4838,
+            "text": "Sweet dreams.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          }
+        ]
+      }
+    ],
+    "icon": "dunkeerke",
+    "type": 1
+  },
   "110101": {
     "id": 110101,
     "name": "Evertsen",

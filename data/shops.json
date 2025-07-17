@@ -1101,6 +1101,18 @@
         "name": "Elite Pool",
         "items": [
           {
+            "id": 545,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/tulingen",
+            "name": "Thüringen",
+            "limit": -1,
+            "cost": 8000
+          },
+          {
             "id": 563,
             "type": 2,
             "amount": -1,
@@ -8567,6 +8579,20 @@
         "blueprint": false,
         "icon": "dorm3d/items/3ddrom_nengdai_premiumfurniture2",
         "name": "Podcast Table",
+        "limit": 1,
+        "cost": 480,
+        "use_alt": 0,
+        "limit_type": 1
+      },
+      {
+        "id": 223,
+        "type": 10,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "dorm3d/items/3ddrom_nengdai_premiumfurniture3",
+        "name": "Serene Moment",
         "limit": 1,
         "cost": 480,
         "use_alt": 0,

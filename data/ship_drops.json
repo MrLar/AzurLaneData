@@ -17094,7 +17094,7 @@
     "id": 543,
     "timer": "04:35:00",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Rondo at Rainbow's End",
     "special": false,
     "other": [],
@@ -17104,13 +17104,29 @@
     ],
     "events": [
       "Rondo at Rainbow's End"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "544": {
     "id": 544,
     "timer": "04:35:00",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Rondo at Rainbow's End",
     "special": false,
     "other": [],
@@ -17127,7 +17143,9 @@
     "heavy": false,
     "limited": "Rondo at Rainbow's End",
     "special": false,
-    "other": [],
+    "other": [
+      3
+    ],
     "maps": [],
     "notes": [
       "Available as point accumulation reward during Rondo at Rainbow's End"
@@ -17140,7 +17158,7 @@
     "id": 546,
     "timer": "01:55:00",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Rondo at Rainbow's End",
     "special": false,
     "other": [],
@@ -17153,7 +17171,7 @@
   "547": {
     "id": 547,
     "timer": "01:19:00",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": "Rondo at Rainbow's End",
     "special": false,
@@ -17167,7 +17185,7 @@
   "548": {
     "id": 548,
     "timer": "01:17:00",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": "Rondo at Rainbow's End",
     "special": false,

@@ -461,6 +461,28 @@
     ],
     "contains": []
   },
+  "223": {
+    "name": "Serene Moment",
+    "description": "Let the soft cushions envelop your weary body and gently prop you up.\nThis spot is very difficult to resist after a long day.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 5,
+    "id": 223,
+    "purchaseable": true,
+    "expires": 0,
+    "icon": "dorm3d/items/3ddrom_nengdai_premiumfurniture3",
+    "room_id": 2,
+    "furni_type": 5,
+    "exclusive": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "251": {
     "name": "Where Warmth Lingers",
     "description": "The warmth of a kotatsu makes you think of a lazy afternoon in the winter.\nSunlight streams through the window and onto the tatami mat, mingling with the kotatsu's warmth to melt away all your stress.",
