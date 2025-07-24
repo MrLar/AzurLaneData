@@ -48039,6 +48039,34 @@
       }
     ]
   },
+  "9999999108": {
+    "id": 9999999108,
+    "name": "Natural Flow UI",
+    "description": "The Natural Flow themed Battle UI",
+    "type": 97,
+    "icon": "props/ui_108",
+    "rarity": 4,
+    "locations": [
+      "Cruise Pass Season 24 (Paid Only)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 108,
+        "type": 99,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": false,
+        "rarity": 4,
+        "icon": "uipreview/108",
+        "name": "Natural Flow"
+      }
+    ]
+  },
   "9999999201": {
     "id": 9999999201,
     "name": "Christmas UI",
