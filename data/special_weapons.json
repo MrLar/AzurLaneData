@@ -449,5 +449,54 @@
       1,
       1
     ]
+  },
+  "180014": {
+    "aircraft": false,
+    "reload": [
+      205
+    ],
+    "damage": [
+      130
+    ],
+    "coefficient": [
+      1
+    ],
+    "count": 2,
+    "delay": 0,
+    "range": [
+      0,
+      35
+    ],
+    "id": 180014,
+    "spread_angle": "0° No Spread",
+    "barrage_id": 2000,
+    "stat": "aa",
+    "ratio": 1,
+    "weapon_type": 22,
+    "aim_type": 1,
+    "bullet_id": 2000,
+    "armor_mod": [
+      1,
+      1,
+      1
+    ],
+    "ammo": 5,
+    "bullet_type": 6,
+    "spread": [
+      0,
+      0
+    ],
+    "splash": 50,
+    "velocity": 100,
+    "pierce": 0,
+    "shell_range": [
+      40,
+      60
+    ],
+    "angle": 360,
+    "volley_info": [
+      1,
+      2
+    ]
   }
 }

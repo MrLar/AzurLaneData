@@ -65386,14 +65386,14 @@
     "id": 1621
   },
   "meta_show_285_295285": {
-    "name": "Meta Showdown: Kawakaze META",
+    "name": "Meta Showdown: Kawakaze META (Tier.15)",
     "acv": -1,
     "opsi": false,
     "boss": {
       "id": 295285,
       "hull": 1,
       "nation": 97,
-      "name": "Kawakaze META",
+      "name": "Kawakaze META (Tier.15)",
       "stats": {
         "hp": 1600000,
         "fp": 235,
@@ -66960,5 +66960,317 @@
     "time_limit": 180,
     "type": 16,
     "id": 1661
+  },
+  "1940001_t1_16750301": {
+    "name": "The Tower of Horizons-T1",
+    "acv": 50,
+    "opsi": false,
+    "boss": {
+      "id": 16750301,
+      "hull": 3,
+      "nation": 99,
+      "name": "Pseudo-Alchemical Weapon - Hermit Crab",
+      "stats": {
+        "hp": 3200,
+        "fp": 58,
+        "trp": 42,
+        "avi": 0,
+        "aa": 65,
+        "hit": 18,
+        "eva": 18,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "lianjin_ii_sairenzhongxun"
+    },
+    "buffs": [],
+    "expo_id": 1940013,
+    "dungeon_id": 1940013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1662
+  },
+  "1940001_t2_16751301": {
+    "name": "The Tower of Horizons-T2",
+    "acv": 295,
+    "opsi": false,
+    "boss": {
+      "id": 16751301,
+      "hull": 2,
+      "nation": 99,
+      "name": "Pseudo-Alchemical Weapon - Horse",
+      "stats": {
+        "hp": 7200,
+        "fp": 132,
+        "trp": 0,
+        "avi": 0,
+        "aa": 115,
+        "hit": 21,
+        "eva": 16,
+        "spd": 20,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "lianjin_ii_sairenqingxun"
+    },
+    "buffs": [],
+    "expo_id": 1941013,
+    "dungeon_id": 1941013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1663
+  },
+  "1940001_t3_16752301": {
+    "name": "The Tower of Horizons-T3",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "id": 16752301,
+      "hull": 1,
+      "nation": 99,
+      "name": "Pseudo-Alchemical Weapon - Jellyfish",
+      "stats": {
+        "hp": 16840,
+        "fp": 102,
+        "trp": 142,
+        "avi": 0,
+        "aa": 260,
+        "hit": 24,
+        "eva": 24,
+        "spd": 18,
+        "luck": 8,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "lianjin_ii_sairenquzhu"
+    },
+    "buffs": [],
+    "expo_id": 1942013,
+    "dungeon_id": 1942013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1664
+  },
+  "1940001_t4_16753301": {
+    "name": "The Tower of Horizons-T4",
+    "acv": 600,
+    "opsi": false,
+    "boss": {
+      "id": 16753301,
+      "hull": 5,
+      "nation": 99,
+      "name": "Pseudo-Alchemical Weapon - Giant",
+      "stats": {
+        "hp": 32400,
+        "fp": 186,
+        "trp": 0,
+        "avi": 0,
+        "aa": 365,
+        "hit": 27,
+        "eva": 22,
+        "spd": 16,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 65,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "lianjin_ii_sairenzhanlie"
+    },
+    "buffs": [],
+    "expo_id": 1943013,
+    "dungeon_id": 1943013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1665
+  },
+  "1940001_t5_16754305": {
+    "name": "The Tower of Horizons-T5",
+    "acv": 600,
+    "opsi": false,
+    "boss": {
+      "id": 16754305,
+      "hull": 7,
+      "nation": 99,
+      "name": "Pseudo-Alchemical Weapon - Bat",
+      "stats": {
+        "hp": 46000,
+        "fp": 120,
+        "trp": 0,
+        "avi": 320,
+        "aa": 520,
+        "hit": 43,
+        "eva": 44,
+        "spd": 18,
+        "luck": 30,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "lianjin_ii_sairenhangmu"
+    },
+    "buffs": [],
+    "expo_id": 1944013,
+    "dungeon_id": 1944105,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1666
+  },
+  "1940003_y.sp_16755301": {
+    "name": "The Tower of Horizons-Y.SP",
+    "acv": 1320,
+    "opsi": false,
+    "boss": {
+      "id": 16755301,
+      "hull": 2,
+      "nation": 99,
+      "name": "Ordering Unit - Sword II \"Resist\"",
+      "stats": {
+        "hp": 89250,
+        "fp": 198,
+        "trp": 260,
+        "avi": 0,
+        "aa": 350,
+        "hit": 43,
+        "eva": 41,
+        "spd": 18,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss27"
+    },
+    "buffs": [],
+    "expo_id": 1945013,
+    "dungeon_id": 1945013,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1667
+  },
+  "1940004_ex_16756011": {
+    "name": "The Tower of Horizons-EX",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16756011,
+      "hull": 2,
+      "nation": 99,
+      "name": "Ordering Unit - Sword II \"Resist\"",
+      "stats": {
+        "hp": 600000,
+        "fp": 400,
+        "trp": 400,
+        "avi": 0,
+        "aa": 400,
+        "hit": 150,
+        "eva": 0,
+        "spd": 25,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss27"
+    },
+    "buffs": [],
+    "expo_id": 1946001,
+    "dungeon_id": 1946001,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1668
+  },
+  "1940004_ex_16756111": {
+    "name": "The Tower of Horizons-EX",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16756111,
+      "hull": 2,
+      "nation": 99,
+      "name": "Ordering Unit - Sword II \"Resist\"",
+      "stats": {
+        "hp": 600000,
+        "fp": 800,
+        "trp": 800,
+        "avi": 0,
+        "aa": 600,
+        "hit": 9999,
+        "eva": 0,
+        "spd": 25,
+        "luck": 99,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss27"
+    },
+    "buffs": [],
+    "expo_id": 1946002,
+    "dungeon_id": 1946002,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1669
   }
 }

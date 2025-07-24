@@ -108560,7 +108560,7 @@
       5
     ],
     "obtainable": true,
-    "important": false,
+    "important": true,
     "aliases": [
       "Donskoi Gun",
       "Triple 180mm (Improved B-1-P Pattern 1932)"
@@ -129803,6 +129803,445 @@
           470,
           500,
           530
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "150680": {
+    "icon": "150680",
+    "id": 150680,
+    "name": "Granshine",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60860
+    ],
+    "nation": 113,
+    "limit_group": 150680,
+    "hull_restriction": [],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "aa",
+        "values": [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          48,
+          50,
+          52,
+          55,
+          58,
+          60,
+          65
+        ]
+      }
+    ],
+    "labels": [
+      "dev",
+      "granshine"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [
+      6,
+      7,
+      10
+    ],
+    "equippable_sub": [
+      6,
+      7,
+      10
+    ],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "150700": {
+    "icon": "150700",
+    "id": 150700,
+    "name": "Superior Grimoire",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60870
+    ],
+    "nation": 113,
+    "limit_group": 150700,
+    "hull_restriction": [],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          40,
+          46,
+          52,
+          58,
+          64,
+          70,
+          76,
+          82,
+          88,
+          94,
+          100,
+          106,
+          112,
+          118
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [
+      6,
+      7,
+      10
+    ],
+    "equippable_sub": [
+      6,
+      7,
+      10
+    ],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "150720": {
+    "icon": "150720",
+    "id": 150720,
+    "name": "Endemeteo",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60880
+    ],
+    "nation": 113,
+    "limit_group": 150720,
+    "hull_restriction": [],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          18,
+          22,
+          26,
+          30,
+          34,
+          39,
+          43,
+          47,
+          51,
+          55,
+          60,
+          65,
+          68,
+          77
+        ]
+      },
+      {
+        "stat": "eva",
+        "values": [
+          2,
+          2,
+          3,
+          3,
+          3,
+          4,
+          4,
+          4,
+          5,
+          5,
+          6,
+          6,
+          6,
+          7
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [
+      6,
+      7,
+      10
+    ],
+    "equippable_sub": [
+      6,
+      7,
+      10
+    ],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "150740": {
+    "icon": "150740",
+    "id": 150740,
+    "name": "Panacea Sphere",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60890
+    ],
+    "nation": 113,
+    "limit_group": 150740,
+    "hull_restriction": [],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          100,
+          130,
+          160,
+          190,
+          220,
+          250,
+          280,
+          310,
+          340,
+          370,
+          400,
+          424,
+          448,
+          472
+        ]
+      },
+      {
+        "stat": "spd",
+        "values": [
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          4,
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "150760": {
+    "icon": "150760",
+    "id": 150760,
+    "name": "Enfer Cube",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60900
+    ],
+    "nation": 113,
+    "limit_group": 150760,
+    "hull_restriction": [],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hit",
+        "values": [
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          35,
+          38,
+          41,
+          44
+        ]
+      },
+      {
+        "stat": "eva",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "150780": {
+    "icon": "150780",
+    "id": 150780,
+    "name": "Heavenly Armillary",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60910
+    ],
+    "nation": 113,
+    "limit_group": 150780,
+    "hull_restriction": [],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          250,
+          280,
+          310,
+          340,
+          370,
+          400,
+          430,
+          460,
+          490,
+          520,
+          550,
+          580,
+          610,
+          640
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "150800": {
+    "icon": "150800",
+    "id": 150800,
+    "name": "Flammi",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60920
+    ],
+    "nation": 113,
+    "limit_group": 150800,
+    "hull_restriction": [],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          250,
+          280,
+          310,
+          340,
+          370,
+          400,
+          430,
+          460,
+          490,
+          520,
+          550,
+          580,
+          610,
+          640
         ]
       }
     ],

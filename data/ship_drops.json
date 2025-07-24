@@ -4208,7 +4208,7 @@
   "70": {
     "id": 70,
     "timer": "02:15:00",
-    "light": true,
+    "light": false,
     "heavy": false,
     "limited": null,
     "special": true,
@@ -4900,7 +4900,7 @@
   "75": {
     "id": 75,
     "timer": "02:40:00",
-    "light": true,
+    "light": false,
     "heavy": false,
     "limited": null,
     "special": true,
@@ -8386,7 +8386,7 @@
   "142": {
     "id": 142,
     "timer": "02:30:00",
-    "light": true,
+    "light": false,
     "heavy": false,
     "limited": null,
     "special": true,
@@ -20490,6 +20490,64 @@
       "Illusory Drifters"
     ]
   },
+  "10131": {
+    "id": 10131,
+    "timer": "Unknown",
+    "light": false,
+    "heavy": false,
+    "limited": "The Alchemist and the Tower of Horizons",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [],
+    "events": [
+      "The Alchemist and the Tower of Horizons"
+    ]
+  },
+  "10132": {
+    "id": 10132,
+    "timer": "Unknown",
+    "light": false,
+    "heavy": false,
+    "limited": "The Alchemist and the Tower of Horizons",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available as Map drop (T5 boss node, HT5 boss node, SP Boss node) and in the Event shop during The Alchemist and the Tower of Horizons"
+    ],
+    "events": [
+      "The Alchemist and the Tower of Horizons"
+    ]
+  },
+  "10133": {
+    "id": 10133,
+    "timer": "Unknown",
+    "light": false,
+    "heavy": false,
+    "limited": "The Alchemist and the Tower of Horizons",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [],
+    "events": [
+      "The Alchemist and the Tower of Horizons"
+    ]
+  },
+  "10134": {
+    "id": 10134,
+    "timer": "Unknown",
+    "light": false,
+    "heavy": false,
+    "limited": "The Alchemist and the Tower of Horizons",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [],
+    "events": [
+      "The Alchemist and the Tower of Horizons"
+    ]
+  },
   "20001": {
     "id": 20001,
     "timer": null,
@@ -21963,6 +22021,22 @@
     "maps": [],
     "notes": [
       "Available in META Showdown"
+    ],
+    "events": []
+  },
+  "30050": {
+    "id": 30050,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [
+      11
+    ],
+    "maps": [],
+    "notes": [
+      "Available as a Reward from Cruise Pass Season 24"
     ],
     "events": []
   }

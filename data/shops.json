@@ -7278,7 +7278,20 @@
         "limit_type": 1
       },
       {
-        "id": 300010,
+        "id": 30016,
+        "type": 2,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 4,
+        "icon": "ships/compact/mingyunnvshen_alter",
+        "name": "Fortune META",
+        "limit": 1,
+        "cost": 60,
+        "limit_type": 1
+      },
+      {
+        "id": 30010,
         "type": 2,
         "amount": 1,
         "blueprint": false,
@@ -7366,6 +7379,19 @@
         "name": "META Crystal - Memphis",
         "limit": 4,
         "cost": 30,
+        "limit_type": 1
+      },
+      {
+        "id": 21016,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/21016",
+        "name": "META Crystal - Fortune Meta",
+        "limit": 4,
+        "cost": 80,
         "limit_type": 1
       },
       {
@@ -7938,7 +7964,7 @@
         "ship_id": 20009
       },
       {
-        "id": 702023,
+        "id": 102095,
         "type": 3,
         "linkable": true,
         "rarity": 4,
@@ -7950,6 +7976,20 @@
         "cost": 880,
         "limit_type": 1,
         "ship_id": 434
+      },
+      {
+        "id": 102095,
+        "type": 3,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "ships/compact/kelifulan_6",
+        "name": "Southbound Journey",
+        "limit": 1,
+        "cost": 880,
+        "limit_type": 1,
+        "ship_id": 37
       },
       {
         "id": 2001,
@@ -8305,6 +8345,66 @@
         "blueprint": false,
         "icon": "equips/96311",
         "name": "Balloon Shell",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
+      },
+      {
+        "id": 2025,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96431",
+        "name": "Loaded Dice Shell",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
+      },
+      {
+        "id": 2026,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96432",
+        "name": "Stacked Deck Torpedo",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
+      },
+      {
+        "id": 2027,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96433",
+        "name": "Magic Mantle",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
+      },
+      {
+        "id": 2028,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96434",
+        "name": "Magic Coin Shell",
         "limit": 9,
         "cost": 100,
         "limit_group": 1,

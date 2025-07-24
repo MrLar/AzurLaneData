@@ -4133,6 +4133,23 @@
     ],
     "contains": []
   },
+  "21050": {
+    "id": 21050,
+    "name": "META Crystal - Dunkerque META",
+    "description": "An item that increases the potential of Dunkerque META. Used in the META Lab during Somatic Activation.",
+    "type": 4,
+    "icon": "props/21050",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 23"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "21101": {
     "id": 21101,
     "name": "Crystallized Heat-Resistant Steel",
@@ -18626,6 +18643,798 @@
       }
     ]
   },
+  "30370": {
+    "id": 30370,
+    "name": "Gear Skin Box (Atelier Yumia)",
+    "description": "Contains a random Alchemist's Workshop (Yumia)-themed gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxyoumiya",
+    "rarity": 5,
+    "locations": [
+      "The Alchemist and the Tower of Horizons"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 1481,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97111",
+        "name": "Elemental Core Shell"
+      },
+      {
+        "id": 1482,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97112",
+        "name": "Philosopher's Stone Shell"
+      },
+      {
+        "id": 1483,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97113",
+        "name": "Form Gem Shell"
+      },
+      {
+        "id": 1484,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97114",
+        "name": "Fallen Star Piece Shell"
+      },
+      {
+        "id": 1485,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97115",
+        "name": "Perpetual Machine Shell"
+      },
+      {
+        "id": 1486,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97116",
+        "name": "Meteorite Ore Shell"
+      },
+      {
+        "id": 1487,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97121",
+        "name": "Hypercell Torpedo"
+      },
+      {
+        "id": 1488,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97122",
+        "name": "Allmachtserz Torpedo"
+      },
+      {
+        "id": 1489,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97123",
+        "name": "Gloomy Sunstone Torpedo"
+      },
+      {
+        "id": 1490,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97131",
+        "name": "Million Lux (Torpedo)"
+      },
+      {
+        "id": 1491,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97131",
+        "name": "Million Lux (Fighter)"
+      },
+      {
+        "id": 1492,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97131",
+        "name": "Million Lux (Bomber)"
+      },
+      {
+        "id": 1493,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97132",
+        "name": "Aqua Shadow (Torpedo)"
+      },
+      {
+        "id": 1494,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97132",
+        "name": "Aqua Shadow (Fighter)"
+      },
+      {
+        "id": 1495,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97132",
+        "name": "Aqua Shadow (Bomber)"
+      },
+      {
+        "id": 1496,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97133",
+        "name": "Blazing Salamander (Torpedo)"
+      },
+      {
+        "id": 1497,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97133",
+        "name": "Blazing Salamander (Fighter)"
+      },
+      {
+        "id": 1498,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97133",
+        "name": "Blazing Salamander (Bomber)"
+      }
+    ]
+  },
+  "30371": {
+    "id": 30371,
+    "name": "Random Gear Skin Box (Atelier Yumia)",
+    "description": "Contains a random Alchemist's Workshop (Yumia)-themed gear skin.",
+    "type": 13,
+    "icon": "props/equipskin_drop_display",
+    "rarity": 5,
+    "locations": [
+      "The Alchemist and the Tower of Horizons"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 1481,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97111",
+        "name": "Elemental Core Shell"
+      },
+      {
+        "id": 1482,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97112",
+        "name": "Philosopher's Stone Shell"
+      },
+      {
+        "id": 1483,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97113",
+        "name": "Form Gem Shell"
+      },
+      {
+        "id": 1484,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97114",
+        "name": "Fallen Star Piece Shell"
+      },
+      {
+        "id": 1485,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97115",
+        "name": "Perpetual Machine Shell"
+      },
+      {
+        "id": 1486,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97116",
+        "name": "Meteorite Ore Shell"
+      },
+      {
+        "id": 1487,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97121",
+        "name": "Hypercell Torpedo"
+      },
+      {
+        "id": 1488,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97122",
+        "name": "Allmachtserz Torpedo"
+      },
+      {
+        "id": 1489,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97123",
+        "name": "Gloomy Sunstone Torpedo"
+      },
+      {
+        "id": 1490,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97131",
+        "name": "Million Lux (Torpedo)"
+      },
+      {
+        "id": 1491,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97131",
+        "name": "Million Lux (Fighter)"
+      },
+      {
+        "id": 1492,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97131",
+        "name": "Million Lux (Bomber)"
+      },
+      {
+        "id": 1493,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97132",
+        "name": "Aqua Shadow (Torpedo)"
+      },
+      {
+        "id": 1494,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97132",
+        "name": "Aqua Shadow (Fighter)"
+      },
+      {
+        "id": 1495,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97132",
+        "name": "Aqua Shadow (Bomber)"
+      },
+      {
+        "id": 1496,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97133",
+        "name": "Blazing Salamander (Torpedo)"
+      },
+      {
+        "id": 1497,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97133",
+        "name": "Blazing Salamander (Fighter)"
+      },
+      {
+        "id": 1498,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97133",
+        "name": "Blazing Salamander (Bomber)"
+      }
+    ]
+  },
+  "30372": {
+    "id": 30372,
+    "name": "Gear Skin Box (Atelier Yumia)",
+    "description": "Contains a random Alchemist's Workshop (Yumia)-themed gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxyoumiya",
+    "rarity": 5,
+    "locations": [
+      "The Alchemist and the Tower of Horizons"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 1481,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97111",
+        "name": "Elemental Core Shell"
+      },
+      {
+        "id": 1482,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97112",
+        "name": "Philosopher's Stone Shell"
+      },
+      {
+        "id": 1483,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97113",
+        "name": "Form Gem Shell"
+      },
+      {
+        "id": 1484,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97114",
+        "name": "Fallen Star Piece Shell"
+      },
+      {
+        "id": 1485,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97115",
+        "name": "Perpetual Machine Shell"
+      },
+      {
+        "id": 1486,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97116",
+        "name": "Meteorite Ore Shell"
+      },
+      {
+        "id": 1487,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97121",
+        "name": "Hypercell Torpedo"
+      },
+      {
+        "id": 1488,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97122",
+        "name": "Allmachtserz Torpedo"
+      },
+      {
+        "id": 1489,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97123",
+        "name": "Gloomy Sunstone Torpedo"
+      },
+      {
+        "id": 1490,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97131",
+        "name": "Million Lux (Torpedo)"
+      },
+      {
+        "id": 1491,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97131",
+        "name": "Million Lux (Fighter)"
+      },
+      {
+        "id": 1492,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97131",
+        "name": "Million Lux (Bomber)"
+      },
+      {
+        "id": 1493,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97132",
+        "name": "Aqua Shadow (Torpedo)"
+      },
+      {
+        "id": 1494,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97132",
+        "name": "Aqua Shadow (Fighter)"
+      },
+      {
+        "id": 1495,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97132",
+        "name": "Aqua Shadow (Bomber)"
+      },
+      {
+        "id": 1496,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97133",
+        "name": "Blazing Salamander (Torpedo)"
+      },
+      {
+        "id": 1497,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97133",
+        "name": "Blazing Salamander (Fighter)"
+      },
+      {
+        "id": 1498,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97133",
+        "name": "Blazing Salamander (Bomber)"
+      }
+    ]
+  },
+  "30373": {
+    "id": 30373,
+    "name": "Gear Skin Box (Atelier Ryza)",
+    "description": "Contains a random Alchemist's Workshop-themed gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxlaisha",
+    "rarity": 5,
+    "locations": [
+      "The Alchemist and the Tower of Horizons"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 1200,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/94411",
+        "name": "Aries Candy Shell"
+      },
+      {
+        "id": 1201,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/94412",
+        "name": "Arc en Ciel Shell"
+      },
+      {
+        "id": 1202,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/94413",
+        "name": "Forbidden Elixir Shell"
+      },
+      {
+        "id": 1203,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/94414",
+        "name": "Dawn Grimoire Shell"
+      },
+      {
+        "id": 1204,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/94415",
+        "name": "Mosaic Hope Shell"
+      },
+      {
+        "id": 1205,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/94416",
+        "name": "Another Planet Shell"
+      },
+      {
+        "id": 1206,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/94421",
+        "name": "Neutralizer Torpedo"
+      },
+      {
+        "id": 1207,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/94422",
+        "name": "Essence Torpedo"
+      },
+      {
+        "id": 1208,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/94423",
+        "name": "Traveler's Bottle Torpedo"
+      },
+      {
+        "id": 1209,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/94431",
+        "name": "Flower Pixie Plane (Torpedo)"
+      },
+      {
+        "id": 1210,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/94431",
+        "name": "Flower Pixie Plane (Fighter)"
+      },
+      {
+        "id": 1211,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/94431",
+        "name": "Flower Pixie Plane (Bomber)"
+      },
+      {
+        "id": 1212,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/94432",
+        "name": "Zephyr Pixie Plane (Torpedo)"
+      },
+      {
+        "id": 1213,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/94432",
+        "name": "Zephyr Pixie Plane (Fighter)"
+      },
+      {
+        "id": 1214,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/94432",
+        "name": "Zephyr Pixie Plane (Bomber)"
+      },
+      {
+        "id": 1215,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/94433",
+        "name": "Illuminated Sylph Plane (Torpedo)"
+      },
+      {
+        "id": 1216,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/94433",
+        "name": "Illuminated Sylph Plane (Fighter)"
+      },
+      {
+        "id": 1217,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/94433",
+        "name": "Illuminated Sylph Plane (Bomber)"
+      }
+    ]
+  },
   "30401": {
     "id": 30401,
     "name": "Random Gear Skin Box (Cruise Series 3)",
@@ -20346,6 +21155,64 @@
         "blueprint": false,
         "icon": "equips/97032",
         "name": "Master of Death (Bomber)"
+      }
+    ]
+  },
+  "30430": {
+    "id": 30430,
+    "name": "Random Gear Skin Box (Cruise Series 24)",
+    "description": "Contains 1 random Cruise Mission gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxshijiexunyou",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 24"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 2101,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96825",
+        "name": "Ink Spot Shell"
+      },
+      {
+        "id": 2102,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96826",
+        "name": "Slashing Shadow Bamboo Torpedo"
+      },
+      {
+        "id": 2103,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96827",
+        "name": "Moss-Clad Boulders Shell"
+      },
+      {
+        "id": 2104,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96828",
+        "name": "Clouds Among Inked Peaks"
       }
     ]
   },
@@ -31206,6 +32073,204 @@
         "blueprint": false,
         "icon": "equips/101241",
         "name": "Guide Manjuu (Bomber)"
+      }
+    ]
+  },
+  "30557": {
+    "id": 30557,
+    "name": "Selection Gear Skin Box (Atelier Yumia)",
+    "description": "Can be opened to receive 1 Alchemist's Workshop gear skin of your choosing.",
+    "type": 13,
+    "icon": "props/appearanceboxyoumiyazixuan",
+    "rarity": 5,
+    "locations": [
+      "The Alchemist and the Tower of Horizons"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 1481,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97111",
+        "name": "Elemental Core Shell"
+      },
+      {
+        "id": 1482,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97112",
+        "name": "Philosopher's Stone Shell"
+      },
+      {
+        "id": 1483,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97113",
+        "name": "Form Gem Shell"
+      },
+      {
+        "id": 1484,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97114",
+        "name": "Fallen Star Piece Shell"
+      },
+      {
+        "id": 1485,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97115",
+        "name": "Perpetual Machine Shell"
+      },
+      {
+        "id": 1486,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97116",
+        "name": "Meteorite Ore Shell"
+      },
+      {
+        "id": 1487,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97121",
+        "name": "Hypercell Torpedo"
+      },
+      {
+        "id": 1488,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97122",
+        "name": "Allmachtserz Torpedo"
+      },
+      {
+        "id": 1489,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97123",
+        "name": "Gloomy Sunstone Torpedo"
+      },
+      {
+        "id": 1490,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97131",
+        "name": "Million Lux (Torpedo)"
+      },
+      {
+        "id": 1491,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97131",
+        "name": "Million Lux (Fighter)"
+      },
+      {
+        "id": 1492,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97131",
+        "name": "Million Lux (Bomber)"
+      },
+      {
+        "id": 1493,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97132",
+        "name": "Aqua Shadow (Torpedo)"
+      },
+      {
+        "id": 1494,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97132",
+        "name": "Aqua Shadow (Fighter)"
+      },
+      {
+        "id": 1495,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97132",
+        "name": "Aqua Shadow (Bomber)"
+      },
+      {
+        "id": 1496,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97133",
+        "name": "Blazing Salamander (Torpedo)"
+      },
+      {
+        "id": 1497,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97133",
+        "name": "Blazing Salamander (Fighter)"
+      },
+      {
+        "id": 1498,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97133",
+        "name": "Blazing Salamander (Bomber)"
       }
     ]
   },

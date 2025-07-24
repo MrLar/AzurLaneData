@@ -128,7 +128,8 @@ export type Nation =
 109 | // ryza
 110 | // senran
 111 |// to love ru
-112 // BLACK★ROCK SHOOTER
+112 | // BLACK★ROCK SHOOTER
+113 // yumia
 
 // this could be an enum, but TS enums add uneccesary overhead
 export type Rarity =

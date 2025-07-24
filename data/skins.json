@@ -1857,10 +1857,10 @@
     ],
     "icon": "kelifulan_6",
     "bg": "149",
-    "obtain_type": 3,
-    "price": 0,
-    "currency": 0,
-    "is_permanent": false,
+    "obtain_type": 10,
+    "price": 880,
+    "currency": 59005,
+    "is_permanent": true,
     "l2d": false,
     "dynamic": false,
     "custom_bgm": false,
@@ -2191,6 +2191,28 @@
     "price": 880,
     "currency": 59005,
     "is_permanent": true,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "102143": {
+    "id": 102143,
+    "name": "Heat Relief for the Tipsy",
+    "type": 0,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "mengbiliai_4",
+    "bg": "191",
+    "obtain_type": 3,
+    "price": 0,
+    "currency": 0,
+    "is_permanent": false,
     "l2d": false,
     "dynamic": false,
     "custom_bgm": false,
@@ -23937,6 +23959,28 @@
     "dynamic_bg": false,
     "dual_form": false
   },
+  "502053": {
+    "id": 502053,
+    "name": "Azure Ripples, Shimmering Sun",
+    "type": 0,
+    "category": 6,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "zhaohe_4",
+    "bg": "117",
+    "obtain_type": 0,
+    "price": 880,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "502071": {
     "id": 502071,
     "name": "Verse-Weaver at the Water's Edge",
@@ -29871,6 +29915,28 @@
     "dynamic_bg": false,
     "dual_form": false
   },
+  "10900012": {
+    "id": 10900012,
+    "name": "New Culinary Horizons",
+    "type": 0,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "laisha_3",
+    "bg": "131",
+    "obtain_type": 0,
+    "price": 1000,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": true,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
   "10900021": {
     "id": 10900021,
     "name": "Bedtime Memories",
@@ -29955,6 +30021,28 @@
     "is_permanent": false,
     "l2d": false,
     "dynamic": false,
+    "custom_bgm": true,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "10900061": {
+    "id": 10900061,
+    "name": "Chief Turned Chef",
+    "type": 0,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "kala_2",
+    "bg": "606",
+    "obtain_type": 0,
+    "price": 1000,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
     "custom_bgm": true,
     "dynamic_bg": false,
     "dual_form": false
@@ -30286,6 +30374,94 @@
     "l2d": false,
     "dynamic": true,
     "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "11300011": {
+    "id": 11300011,
+    "name": "Everyone's Favorite Patissier",
+    "type": 0,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "youmiya_2",
+    "bg": "163",
+    "obtain_type": 0,
+    "price": 1000,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": true,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "11300021": {
+    "id": 11300021,
+    "name": "Open-Air Vacationeer",
+    "type": 0,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "aila_2",
+    "bg": "158",
+    "obtain_type": 0,
+    "price": 1000,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": true,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "11300031": {
+    "id": 11300031,
+    "name": "Café & Diner Mode",
+    "type": 0,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "nina_2",
+    "bg": "160",
+    "obtain_type": 0,
+    "price": 1000,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": true,
+    "dynamic_bg": false,
+    "dual_form": false
+  },
+  "11300041": {
+    "id": 11300041,
+    "name": "Summer Vacation Time",
+    "type": 0,
+    "category": 20,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "leiniya_2",
+    "bg": "106",
+    "obtain_type": 0,
+    "price": 1000,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": true,
     "dynamic_bg": false,
     "dual_form": false
   }

@@ -50642,7 +50642,7 @@
           "damage": 30,
           "coefficient": 1,
           "count": 8,
-          "stat": "fp",
+          "stat": "trp",
           "ratio": 1,
           "armor_mod": [
             0.8,
@@ -50683,7 +50683,7 @@
           "damage": 30,
           "coefficient": 1,
           "count": 8,
-          "stat": "fp",
+          "stat": "trp",
           "ratio": 1,
           "armor_mod": [
             0.8,
@@ -52183,6 +52183,362 @@
           "bullet_type": 3,
           "bullet_id": 2142,
           "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "60860": [
+    {
+      "name": "Granshine (No Mana)",
+      "parts": [
+        {
+          "damage": 42,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 15,
+          "velocity": 10,
+          "pierce": 0,
+          "shell_range": [
+            195,
+            205
+          ],
+          "spread": [
+            8,
+            8
+          ],
+          "targeting": "Random",
+          "centered": false,
+          "weapon_id": 180004,
+          "weapon_type": 23,
+          "bullet_type": 2,
+          "bullet_id": 168225,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "One of the following effects:",
+            "Special Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (AVI / 100)) * 0.6 with 1 tick every second for 5s, ID: 112170)",
+            "Take 5% more damage for 5s",
+            "Slow by 30% for 5s",
+            "Reduce Crit Rate by 10% for 5s"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Granshine (Mana)",
+      "parts": [
+        {
+          "damage": 42,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 15,
+          "velocity": 10,
+          "pierce": 0,
+          "shell_range": [
+            195,
+            205
+          ],
+          "spread": [
+            8,
+            8
+          ],
+          "targeting": "Random",
+          "centered": false,
+          "weapon_id": 180004,
+          "weapon_type": 23,
+          "bullet_type": 2,
+          "bullet_id": 168225,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Based on which part of the barrage hits:",
+            "Special Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (AVI / 100)) * 0.6 with 1 tick every second for 5s, ID: 112170)",
+            "Take 5% more damage for 5s",
+            "Slow by 30% for 5s",
+            "Reduce Crit Rate by 10% for 5s"
+          ]
+        }
+      ]
+    }
+  ],
+  "60870": [
+    {
+      "name": "Superior Grimoire (No Mana)",
+      "parts": [
+        {
+          "damage": 150,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 35,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "airdrop": true,
+          "spread": [
+            5,
+            5
+          ],
+          "targeting": "Random",
+          "centered": false,
+          "weapon_id": 180008,
+          "weapon_type": 2,
+          "bullet_type": 2,
+          "bullet_id": 168229,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Superior Grimoire (Mana)",
+      "parts": [
+        {
+          "damage": 300,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 35,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "airdrop": true,
+          "spread": [
+            5,
+            5
+          ],
+          "targeting": "Random",
+          "centered": false,
+          "weapon_id": 180009,
+          "weapon_type": 2,
+          "bullet_type": 2,
+          "bullet_id": 168229,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "60880": [
+    {
+      "name": "Endemeteo (No Mana)",
+      "parts": [
+        {
+          "damage": 125,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            0.95,
+            1.15
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 25,
+          "splash": 22,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "airdrop": true,
+          "spread": [
+            40,
+            40
+          ],
+          "targeting": "Random",
+          "centered": false,
+          "weapon_id": 180012,
+          "weapon_type": 2,
+          "bullet_type": 2,
+          "bullet_id": 168230,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Increase AVI damage taken by 10% for 5s"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Endemeteo (Mana)",
+      "parts": [
+        {
+          "damage": 125,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            0.95,
+            1.15
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 25,
+          "splash": 22,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "airdrop": true,
+          "spread": [
+            40,
+            40
+          ],
+          "targeting": "Random",
+          "centered": false,
+          "weapon_id": 180012,
+          "weapon_type": 2,
+          "bullet_type": 2,
+          "bullet_id": 168230,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Increase AVI damage taken by 10% for 5s"
+          ]
+        },
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 5,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            0.95,
+            1.15
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 25,
+          "splash": 19,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "airdrop": true,
+          "spread": [
+            36,
+            36
+          ],
+          "targeting": "Random",
+          "centered": false,
+          "weapon_id": 180013,
+          "weapon_type": 2,
+          "bullet_type": 2,
+          "bullet_id": 168231,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Increase AVI damage taken by 10% for 5s"
+          ]
         }
       ]
     }
@@ -62805,6 +63161,1858 @@
           "weapon_type": 3,
           "bullet_type": 3,
           "bullet_id": 167965,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "112090": [
+    {
+      "name": "Alchemy of Taboo and Hope (Light Armor)",
+      "parts": [
+        {
+          "damage": 60,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.3,
+            1,
+            0.8
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Selected",
+          "centered": false,
+          "weapon_id": 168300,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 168213,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Alchemy of Taboo and Hope (Medium/Heavy Armor)",
+      "parts": [
+        {
+          "damage": 60,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.2,
+            1
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Selected",
+          "centered": false,
+          "weapon_id": 168310,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 168214,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Alchemy of Taboo and Hope (Additional if no Enemy within 65 units)",
+      "parts": [
+        {
+          "damage": 200,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 100,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Selected",
+          "centered": false,
+          "weapon_id": 168290,
+          "weapon_type": 17,
+          "bullet_type": 4,
+          "bullet_id": 168212,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "112110": [
+    {
+      "name": "One Step Toward Tomorrow (Every 5s, Light Armor)",
+      "parts": [
+        {
+          "damage": 32,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.3,
+            1,
+            0.8
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 13,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Selected",
+          "centered": false,
+          "weapon_id": 168320,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 168215,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "One Step Toward Tomorrow (Every 5s, Medium/Heavy Armor)",
+      "parts": [
+        {
+          "damage": 32,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.2,
+            1
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 13,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Selected",
+          "centered": false,
+          "weapon_id": 168330,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 168216,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "One Step Toward Tomorrow (on Special Attack 1 if >=50 Mana or Mana Surge)",
+      "parts": [
+        {
+          "damage": 18,
+          "coefficient": 1,
+          "count": 5,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.2,
+            1
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [
+            "Triggers twice if Mana Surge and 50 Mana happen at the same time"
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 15,
+          "velocity": 17,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Selected",
+          "centered": false,
+          "weapon_id": 168340,
+          "weapon_type": 19,
+          "bullet_type": 2,
+          "bullet_id": 168218,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "One Step Toward Tomorrow (on Special Attack 2 if >=50 Mana or Mana Surge)",
+      "parts": [
+        {
+          "damage": 80,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.3,
+            1,
+            0.8
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [
+            "Triggers twice if Mana Surge and 50 Mana happen at the same time"
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            300
+          ],
+          "aim_type": 0,
+          "angle": 60,
+          "splash": 25,
+          "velocity": 20,
+          "pierce": 0,
+          "shell_range": [
+            0,
+            500
+          ],
+          "spread": [
+            3,
+            3
+          ],
+          "airdrop": true,
+          "targeting": "Selected",
+          "centered": false,
+          "weapon_id": 168350,
+          "weapon_type": 19,
+          "bullet_type": 2,
+          "bullet_id": 168217,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "112130": [
+    {
+      "name": "One Step Toward Tomorrow+ (on Airstrike if Mana Surge, up to 11 triggers, Light Armor)",
+      "parts": [
+        {
+          "damage": 25,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.3,
+            1,
+            0.8
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 1,
+          "splash": 0,
+          "velocity": 13,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Selected",
+          "centered": false,
+          "weapon_id": 168360,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 168219,
+          "type": "weapon"
+        },
+        {
+          "damage": 25,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.3,
+            1,
+            0.8
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 1,
+          "splash": 15,
+          "velocity": 10,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            4,
+            4
+          ],
+          "targeting": "Selected",
+          "centered": false,
+          "weapon_id": 168380,
+          "weapon_type": 19,
+          "bullet_type": 2,
+          "bullet_id": 168221,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "One Step Toward Tomorrow+ (on Airstrike if Mana Surge, up to 11 triggers, Medium/Heavy Armor)",
+      "parts": [
+        {
+          "damage": 25,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.2,
+            1
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 1,
+          "splash": 0,
+          "velocity": 13,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Selected",
+          "centered": false,
+          "weapon_id": 168370,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 168220,
+          "type": "weapon"
+        },
+        {
+          "damage": 25,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.2,
+            1
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 1,
+          "splash": 15,
+          "velocity": 10,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            4,
+            4
+          ],
+          "targeting": "Selected",
+          "centered": false,
+          "weapon_id": 168390,
+          "weapon_type": 19,
+          "bullet_type": 2,
+          "bullet_id": 168222,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "One Step Toward Tomorrow+ (on Airstrike if Mana Surge, after 2.2s if < 11 triggers)",
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [
+            "Damage is per tick, there is theoretically a tick every 0s for 0.3s (this weapon is very strange, this will be updated once we know more)"
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 1,
+          "splash": 34,
+          "velocity": 13,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "airdrop": true,
+          "targeting": "Selected",
+          "centered": false,
+          "weapon_id": 168400,
+          "weapon_type": 24,
+          "bullet_type": 2,
+          "bullet_id": 168224,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "One Step Toward Tomorrow+ (on Airstrike if Mana Surge, after 2.2s + 11 Triggers)",
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [
+            "Damage is per tick, there is theoretically a tick every 0s for 0.3s (this weapon is very strange, this will be updated once we know more)"
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 1,
+          "splash": 34,
+          "velocity": 13,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "airdrop": true,
+          "targeting": "Selected",
+          "centered": false,
+          "weapon_id": 168400,
+          "weapon_type": 24,
+          "bullet_type": 2,
+          "bullet_id": 168224,
+          "type": "weapon"
+        },
+        {
+          "damage": 60,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [
+            "Damage is per tick, there is theoretically a tick every 0s for 0.3s (this weapon is very strange, this will be updated once we know more)"
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 1,
+          "splash": 34,
+          "velocity": 13,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "airdrop": true,
+          "targeting": "Selected",
+          "centered": false,
+          "weapon_id": 168410,
+          "weapon_type": 24,
+          "bullet_type": 2,
+          "bullet_id": 168233,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "One Step Toward Tomorrow (Every 5s, Light Armor)",
+      "parts": [
+        {
+          "damage": 32,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.3,
+            1,
+            0.8
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 13,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Selected",
+          "centered": false,
+          "weapon_id": 168320,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 168215,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "One Step Toward Tomorrow (Every 5s, Medium/Heavy Armor)",
+      "parts": [
+        {
+          "damage": 32,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.2,
+            1
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 13,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Selected",
+          "centered": false,
+          "weapon_id": 168330,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 168216,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "One Step Toward Tomorrow (on Special Attack 1 if >=50 Mana or Mana Surge)",
+      "parts": [
+        {
+          "damage": 18,
+          "coefficient": 1,
+          "count": 5,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.2,
+            1
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [
+            "Triggers twice if Mana Surge and 50 Mana happen at the same time"
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            300
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 15,
+          "velocity": 17,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Selected",
+          "centered": false,
+          "weapon_id": 168340,
+          "weapon_type": 19,
+          "bullet_type": 2,
+          "bullet_id": 168218,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "One Step Toward Tomorrow (on Special Attack 2 if >=50 Mana or Mana Surge)",
+      "parts": [
+        {
+          "damage": 80,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.3,
+            1,
+            0.8
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [
+            "Triggers twice if Mana Surge and 50 Mana happen at the same time"
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            300
+          ],
+          "aim_type": 0,
+          "angle": 60,
+          "splash": 25,
+          "velocity": 20,
+          "pierce": 0,
+          "shell_range": [
+            0,
+            500
+          ],
+          "spread": [
+            3,
+            3
+          ],
+          "airdrop": true,
+          "targeting": "Selected",
+          "centered": false,
+          "weapon_id": 168350,
+          "weapon_type": 19,
+          "bullet_type": 2,
+          "bullet_id": 168217,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "112180": [
+    {
+      "name": "Welleks's Assault (if no enemy within 30 units)",
+      "parts": [
+        {
+          "damage": 130,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 99,
+          "shell_range": [
+            150,
+            150
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168670,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161151,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Welleks's Assault (if Enemy within 30 units)",
+      "parts": [
+        {
+          "damage": 0,
+          "fix_damage": 600,
+          "level_of": "Lenja",
+          "count": 1,
+          "clears": [],
+          "range": 70,
+          "velocity": 0,
+          "movement_type": 0,
+          "life_time": 1,
+          "type": "slash"
+        }
+      ]
+    }
+  ],
+  "112190": [
+    {
+      "name": "Pride of the Welleks's (if Mana Surge)",
+      "parts": [
+        {
+          "damage": 180,
+          "coefficient": 1,
+          "count": 5,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.1,
+            1.1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "airdrop": true,
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 18,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168680,
+          "weapon_type": 2,
+          "bullet_type": 2,
+          "bullet_id": 161152,
+          "type": "weapon"
+        },
+        {
+          "damage": 600,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 0.1,
+          "pierce": 0,
+          "shell_range": [
+            0,
+            0
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168690,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161154,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "112200": [
+    {
+      "name": "Pride of the Welleks's (if Mana Surge)",
+      "parts": [
+        {
+          "damage": 180,
+          "coefficient": 1,
+          "count": 5,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.1,
+            1.1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "airdrop": true,
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 18,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168680,
+          "weapon_type": 2,
+          "bullet_type": 2,
+          "bullet_id": 161152,
+          "type": "weapon"
+        },
+        {
+          "damage": 600,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 0.1,
+          "pierce": 0,
+          "shell_range": [
+            0,
+            0
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168690,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161154,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "112270": [
+    {
+      "name": "Knights Can Be Maidens Too (Every 5s, No enemy within 35 units)",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168700,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161155,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Reduce Defense Marks by 1",
+            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Knights Can Be Maidens Too (Every 5s, Enemy within 35 units)",
+      "parts": [
+        {
+          "damage": 100,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168710,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161156,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Reduce Defense Marks by 1",
+            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
+          ]
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 12,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168720,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161155,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Reduce Defense Marks by 1",
+            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
+          ]
+        }
+      ]
+    }
+  ],
+  "112280": [
+    {
+      "name": "Alber's Assistance (after 3 Stacks)",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168700,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161155,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Reduce Defense Marks by 1",
+            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
+          ]
+        }
+      ]
+    }
+  ],
+  "112290": [
+    {
+      "name": "Alber's Assistance+ (after 3 Stacks if Mana Surge)",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168700,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161155,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Reduce Defense Marks by 1",
+            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
+          ]
+        },
+        {
+          "damage": 55,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 1,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168701,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161156,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Reduce Defense Marks by 1",
+            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
+          ]
+        },
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 64,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168740,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161155,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Reduce Defense Marks by 1",
+            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alber's Assistance (after 3 Stacks)",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168700,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161155,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Reduce Defense Marks by 1",
+            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
+          ]
+        }
+      ]
+    }
+  ],
+  "112220": [
+    {
+      "name": "Blazing Trigger (Every 20s)",
+      "parts": [
+        {
+          "damage": 60,
+          "coefficient": 1,
+          "count": 5,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "airdrop": true,
+          "aim_type": 1,
+          "angle": 16,
+          "splash": 25,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168640,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168237,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Blazing Trigger (on Fire, no enemy within 65 units)",
+      "parts": [
+        {
+          "damage": 140,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.85,
+            0.7
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            35,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 50,
+          "splash": 15,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            112.5,
+            127.5
+          ],
+          "spread": [
+            16,
+            16
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168620,
+          "weapon_type": 23,
+          "bullet_type": 2,
+          "bullet_id": 168234,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Blazing Trigger (on Fire, Enemy within 65 units)",
+      "parts": [
+        {
+          "damage": 25,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.7
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            35,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 50,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 1,
+          "shell_range": [
+            195,
+            205
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168630,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 168235,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "112240": [
+    {
+      "name": "Blazing Trigger+ (Every 20s if Mana Surge)",
+      "parts": [
+        {
+          "damage": 60,
+          "coefficient": 1,
+          "count": 5,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "airdrop": true,
+          "aim_type": 1,
+          "angle": 16,
+          "splash": 25,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168640,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168237,
+          "type": "weapon"
+        },
+        {
+          "damage": 140,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.4,
+            1.1,
+            0.9
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            95
+          ],
+          "aim_type": 1,
+          "angle": 60,
+          "splash": 25,
+          "velocity": 22,
+          "pierce": 0,
+          "shell_range": [
+            120,
+            140
+          ],
+          "spread": [
+            3,
+            3
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168660,
+          "weapon_type": 19,
+          "bullet_type": 2,
+          "bullet_id": 168241,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Blazing Trigger (Every 20s)",
+      "parts": [
+        {
+          "damage": 60,
+          "coefficient": 1,
+          "count": 5,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "airdrop": true,
+          "aim_type": 1,
+          "angle": 16,
+          "splash": 25,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168640,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168237,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Blazing Trigger (on Fire, no enemy within 65 units)",
+      "parts": [
+        {
+          "damage": 140,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.85,
+            0.7
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            35,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 50,
+          "splash": 15,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            112.5,
+            127.5
+          ],
+          "spread": [
+            16,
+            16
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168620,
+          "weapon_type": 23,
+          "bullet_type": 2,
+          "bullet_id": 168234,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Blazing Trigger (on Fire, Enemy within 65 units)",
+      "parts": [
+        {
+          "damage": 25,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.7
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            35,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 50,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 1,
+          "shell_range": [
+            195,
+            205
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168630,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 168235,
           "type": "weapon"
         }
       ]
@@ -77974,6 +80182,59 @@
           "bullet_type": 1,
           "bullet_id": 170791,
           "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "801840": [
+    {
+      "name": "The Dessert Demon's Temptation",
+      "parts": [
+        {
+          "damage": 140,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.15,
+            1.15,
+            1.15
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            25,
+            95
+          ],
+          "aim_type": 1,
+          "angle": 60,
+          "splash": 16,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            112.5,
+            127.5
+          ],
+          "spread": [
+            20,
+            20
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168750,
+          "weapon_type": 19,
+          "bullet_type": 2,
+          "bullet_id": 161159,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Slow by 30% for 8s",
+            "Reduce EVA by 3%"
+          ]
         }
       ]
     }
