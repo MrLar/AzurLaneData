@@ -80267,7 +80267,7 @@
       "parts": [
         {
           "damage": 2,
-          "fix_damage": 5,
+          "fix_damage": 12,
           "level_of": "Ships w/ Spread Slash",
           "count": 2,
           "clears": [
@@ -80285,8 +80285,8 @@
       "name": "Slash - Spread (Level 3)",
       "parts": [
         {
-          "damage": 2,
-          "fix_damage": 5,
+          "damage": 6,
+          "fix_damage": 30,
           "level_of": "Ships w/ Spread Slash",
           "count": 2,
           "clears": [
@@ -80313,7 +80313,7 @@
           "damage": 6,
           "fix_damage": 12,
           "level_of": "Ships w/ Area Slash",
-          "count": 3,
+          "count": 1,
           "clears": [
             3
           ],
@@ -80332,7 +80332,7 @@
           "damage": 6,
           "fix_damage": 12,
           "level_of": "Ships w/ Area Slash",
-          "count": 3,
+          "count": 1,
           "clears": [
             3
           ],
@@ -80351,7 +80351,7 @@
           "damage": 14,
           "fix_damage": 30,
           "level_of": "Ships w/ Area Slash",
-          "count": 3,
+          "count": 1,
           "clears": [
             1,
             3
