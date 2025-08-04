@@ -22677,47 +22677,64 @@
       "name": "Geryon, the Ruin-Eater",
       "parts": [
         {
-          "damage": 18,
-          "coefficient": 1.15,
-          "count": 4,
-          "stat": "fp",
-          "ratio": 1,
-          "armor_mod": [
-            1,
-            1,
-            1
-          ],
-          "ammo": 2,
-          "is_critical": false,
-          "notes": [
-            "100% all stats"
-          ],
-          "shrapnel": false,
-          "ignore_shield": false,
-          "range": [
-            0,
-            90
-          ],
-          "aim_type": 1,
-          "angle": 360,
-          "splash": 0,
-          "velocity": 22,
-          "pierce": 1,
-          "shell_range": [
-            85,
-            95
-          ],
-          "spread": [
-            0,
-            0
-          ],
-          "targeting": null,
-          "centered": false,
-          "weapon_id": 471,
-          "weapon_type": 2,
-          "bullet_type": 1,
-          "bullet_id": 19148,
-          "type": "weapon"
+          "type": "summon",
+          "armor": 2,
+          "hull": 5,
+          "hp": "100%",
+          "fp": "100%",
+          "trp": "100%",
+          "aa": "100%",
+          "avi": "0",
+          "rld": "100%",
+          "hit": "100%",
+          "eva": "100%",
+          "spd": "100%",
+          "luck": "100%",
+          "asw": "0",
+          "weapons": [
+            {
+              "type": "weapon",
+              "damage": 18,
+              "coefficient": 1.15,
+              "count": 4,
+              "stat": "fp",
+              "ratio": 1,
+              "armor_mod": [
+                1,
+                1,
+                1
+              ],
+              "ammo": 2,
+              "is_critical": false,
+              "notes": [],
+              "shrapnel": false,
+              "ignore_shield": false,
+              "range": [
+                0,
+                90
+              ],
+              "aim_type": 1,
+              "angle": 360,
+              "splash": 0,
+              "velocity": 22,
+              "pierce": 1,
+              "shell_range": [
+                85,
+                95
+              ],
+              "spread": [
+                0,
+                0
+              ],
+              "targeting": null,
+              "centered": false,
+              "weapon_type": 2,
+              "weapon_id": 471,
+              "bullet_type": 1,
+              "bullet_id": 19148,
+              "rld": "1.5s"
+            }
+          ]
         }
       ]
     },
@@ -22727,7 +22744,7 @@
         {
           "damage": 20,
           "coefficient": 1,
-          "count": 15,
+          "count": 12,
           "stat": "fp",
           "ratio": 1,
           "armor_mod": [
