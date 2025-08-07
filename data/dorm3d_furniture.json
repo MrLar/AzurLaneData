@@ -900,5 +900,27 @@
       "CN"
     ],
     "contains": []
+  },
+  "1152": {
+    "name": "Exercise Bike",
+    "description": "A serious exercise machine that even puts thought into the user's emotional and recreational needs.\nSimply put your feet on the pedals and go on a heart-racing journey from the comfort of your own home!",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 6,
+    "id": 1152,
+    "purchaseable": true,
+    "expires": 1755068400000,
+    "icon": "dorm3d/items/3ddrom_xinzexi_premiumfurniture4",
+    "room_id": 11,
+    "furni_type": 5,
+    "exclusive": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
   }
 }

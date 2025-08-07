@@ -12748,7 +12748,7 @@
           "aim_type": 0,
           "angle": 120,
           "splash": 0,
-          "velocity": 22,
+          "velocity": 18,
           "pierce": 1,
           "shell_range": [
             75,
@@ -64076,7 +64076,7 @@
       "parts": [
         {
           "damage": 0,
-          "fix_damage": 600,
+          "fix_damage": 720,
           "level_of": "Lenja",
           "count": 1,
           "clears": [],
@@ -64523,7 +64523,7 @@
           ]
         },
         {
-          "damage": 55,
+          "damage": 100,
           "coefficient": 1,
           "count": 1,
           "stat": "trp",
@@ -80564,6 +80564,54 @@
       ]
     }
   ],
+  "1010720": [
+    {
+      "name": "Guarding Shield+",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 26,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            95
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168790,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170814,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "1010090": [
     {
       "name": "I Am No. 1!+",
@@ -84582,6 +84630,54 @@
           "weapon_type": 3,
           "bullet_type": 3,
           "bullet_id": 161018,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "1014340": [
+    {
+      "name": "Halo of Flames+",
+      "parts": [
+        {
+          "damage": 32,
+          "coefficient": 1,
+          "count": 40,
+          "stat": "fp",
+          "ratio": 1.1,
+          "armor_mod": [
+            0.65,
+            1.25,
+            0.65
+          ],
+          "ammo": 7,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 1,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168610,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 170813,
           "type": "weapon"
         }
       ]

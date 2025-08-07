@@ -11403,6 +11403,142 @@
       "CN"
     ]
   },
+  "14420": {
+    "id": 14420,
+    "icon": "14420",
+    "name": "Pursuer's Proof",
+    "limit_group": 501,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902320
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 14340,
+        "with": 1014340
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Duca degli Abruzzi's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "14440": {
+    "id": 14440,
+    "icon": "14440",
+    "name": "Tunken der Liebe",
+    "limit_group": 242,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 10720,
+        "with": 1010720
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Admiral Hipper's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "1010100": {
     "id": 1010100,
     "icon": "1010100",

@@ -47902,7 +47902,7 @@
     ]
   },
   "111170": {
-    "description": "Every $1s: $2 chance to fire a $3 special barrage (DMG is based on the skill's level). If the ruler shells from this barrage hit the same enemy 3 times: {increases their aircraft DMG taken|The game implies an Armor Break (FP dmg increase) and this effect both happen but only avi dmg is increased.} by 5.0% until the battle ends; when the handcuff shells from this barrage hit an enemy: decreases that enemy's SPD by 15.0% for 3s. When this skill has inflicted Armor Break 3 times or more: increases this ship's AVI by $4 until the battle ends.",
+    "description": "Every $1s: $2 chance to fire a $3 special barrage (DMG is based on the skill's level). If the ruler shells from this barrage hit the same enemy 3 times: {increases their aviation DMG taken|The game implies an Armor Break (FP dmg increase) and this effect both happen but only avi dmg is increased.} by 5.0% until the battle ends; when the handcuff shells from this barrage hit an enemy: decreases that enemy's SPD by 15.0% for 3s. When this skill has inflicted Armor Break 3 times or more: increases this ship's AVI by $4 until the battle ends.",
     "opsi_description": null,
     "name": "Scandalous!+",
     "max": 10,
@@ -60351,6 +60351,16 @@
     "icon": "augments/14160",
     "values": []
   },
+  "902320": {
+    "description": "Main Gun efficiency +15.0%.",
+    "opsi_description": null,
+    "name": "Fast Loading Crew",
+    "max": 1,
+    "id": 902320,
+    "type": 0,
+    "icon": "augments/14420",
+    "values": []
+  },
   "1005080": {
     "description": "Increases this ship's TRP by $1 and, every 15s: fires a $2 special barrage (DMG is based on the skill's level). If your Vanguard consists of only Iris Libre and/or Vichya Dominion ships, every 20s: 75.0% chance to increase your fleet's DMG dealt by $3 for 10s (does not stack with the same effect).",
     "opsi_description": null,
@@ -61248,6 +61258,65 @@
         "25.0%",
         "27.0%",
         "30.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "1010720": {
+    "description": "Increases this ship's FP and ACC by $1 and the TRP and Main Gun efficiency of your Admiral Hipper-class CAs by $2. Every 30s: deploys 2 rotating shields (lasting $3s) that can negate up to 10 enemy shells. Every 20s: fires a $4 special barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Guarding Shield+",
+    "max": 10,
+    "id": 1010720,
+    "type": 2,
+    "icon": 10720,
+    "values": [
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "4.0%",
+        "4.6%",
+        "5.2%",
+        "6.0%",
+        "6.6%",
+        "7.2%",
+        "8.0%",
+        "8.6%",
+        "9.2%",
+        "10.0%"
+      ],
+      [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "15"
       ],
       [
         "Lv.1",
@@ -63372,6 +63441,41 @@
         "26.4%",
         "28.2%",
         "30.0%"
+      ]
+    ]
+  },
+  "1014340": {
+    "description": "Increases this ship's FP, AA, EVA, and ACC by $1 and increases her DMG dealt to Light and Medium Armor enemies by $1. When this ship fires her torpedoes: fires a $2 special barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Halo of Flames+",
+    "max": 10,
+    "id": 1014340,
+    "type": 1,
+    "icon": 14340,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
       ]
     ]
   },

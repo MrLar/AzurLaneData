@@ -36349,6 +36349,844 @@
     "icon": "kashan",
     "type": 1
   },
+  "90105": {
+    "id": 90105,
+    "name": "Fleuret",
+    "topics": [
+      {
+        "id": 144,
+        "name": "Mysterious Notebook",
+        "unlock": {
+          "type": 1,
+          "ship_id": 645
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 4839,
+            "text": "Hey Commander, guess what I found!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4840,
+            "text": "A super mysterious notebook!",
+            "user": 90105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "What's so mysterious about it?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 4841,
+            "text": "What's so mysterious about it?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4842,
+            "text": "It just suddenly appeared in my backpack!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4843,
+            "text": "Like it was a magic trick!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4844,
+            "text": "What's more, there are loads of weird entries in it.",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4845,
+            "text": "And those entries are all about you and me!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4846,
+            "text": "For example: \"How many times did the Commander make Fleuret say 'loser' yesterday?\"",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4847,
+            "text": "The answer? 9!",
+            "user": 90105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Did that even happen?"
+              },
+              {
+                "option_id": 3,
+                "text": "Shouldn't it be 10?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 4848,
+            "text": "Did that even happen?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4849,
+            "text": "It sure did! Sounds like you need to work on your memory.",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4850,
+            "text": "Shouldn't it be 10?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4851,
+            "text": "Oh wow! I'm surprised you remember it so clearly.",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4852,
+            "text": "There's more!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4853,
+            "text": "There's also a table showing how often my tricks worked, among lots of other things.",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4854,
+            "text": "Can you believe the notebook's author is that meticulous in recording things?",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4855,
+            "text": "Okay, your turn! Think of something you and I have done together!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4856,
+            "text": "I wouldn't be surprised if it's listed in here.",
+            "user": 90105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Your card-throwing practice."
+              },
+              {
+                "option_id": 5,
+                "text": "That time your trick didn't work."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 4857,
+            "text": "How about the time you were practicing card throwing and had to use several decks?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 4858,
+            "text": "How about the time you were gonna surprise me with a trick but got the time wrong and had to wait for hours?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4859,
+            "text": "What?",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4860,
+            "text": "Are you sure that happened?",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4861,
+            "text": "Cause I have no memory of it. How mysterious!",
+            "user": 90105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "So it's not recorded in the notebook, then."
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 4862,
+            "text": "So it's not recorded in the notebook, then.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 4863,
+            "text": "I suppose we can leave it to our mysterious record keeper to note that down now.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 4864,
+            "text": "You're such a goober, playing along even though you knew the notebook was mine all along.",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 4865,
+            "text": "Wait, surely my embarrassments and failures aren't the ONLY things you remember, right?",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 4866,
+            "text": "I'll give you 1 hour! You have until then to remember better stuff!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 4867,
+            "text": "When time's up, you and I are gonna have a looong chat!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 145,
+        "name": "Magic Cabinet",
+        "unlock": {
+          "type": 2,
+          "ship_id": 645,
+          "affinity": 100
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 4868,
+            "text": "Commander, Commander!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4869,
+            "text": "Notice anything unusual in your office?",
+            "user": 90105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "There's a big cabinet here now…"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 4870,
+            "text": "There's a big cabinet here now. Did you move that in?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4871,
+            "text": "It's not JUST a big cabinet!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4872,
+            "text": "It's my magic cabinet that I use when doing big magic tricks!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4873,
+            "text": "It's a heck of a thing, let me tell you!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4874,
+            "text": "Bet you're wondering what's inside it, huh? Aren't you dying to know?",
+            "user": 90105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "I'll admit, I am curious."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 4875,
+            "text": "I'll admit, I am curious.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4876,
+            "text": "VERY curious, even.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4877,
+            "text": "If you just have to know, go ahead and open it!",
+            "user": 90105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "I just did, but there was nothing inside."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 4878,
+            "text": "I just did, but there was nothing inside.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4879,
+            "text": "Heheh. That's right, there's nothing inside.",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4880,
+            "text": "Magic may be magical, but it's not witchcraft.",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4881,
+            "text": "You can't just make something appear out of thin air.",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4882,
+            "text": "If I could do that, I'd poof a person into existence.",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4883,
+            "text": "part3_bc2",
+            "user": 90105,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Hang on a second…"
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 4884,
+            "text": "Hang on a second... There's a hidden door behind the cabinet.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 4885,
+            "text": "Wait",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 4886,
+            "text": "Wait! Don't!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 4887,
+            "text": "That's uhh",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 4888,
+            "text": "Right, I also left some cool magic tools outside the door! Could you bring them inside?",
+            "user": 90105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "Bring them inside?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 4889,
+            "text": "Bring them inside? I think I know what you're planning here...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 4890,
+            "text": "Look, it really is just an ordinary storage cabinet!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 4891,
+            "text": "There's nothing special about it, no tricks, nada!",
+            "user": 90105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "So you're fessing up to it."
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 4892,
+            "text": "So you're fessing up to it. Guess what? I'm opening it.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 4893,
+            "text": "No! Don't!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 4894,
+            "text": "You'll break my magic tools if you do!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 4895,
+            "text": "Just relax and stand in front of the cabinet.",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 4896,
+            "text": "There we go. The audience has been seated.",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 4897,
+            "text": "I'm now going to perform a magic trick just for you!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 4898,
+            "text": "Brace yourself, cause I'm coming out in just a moment!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 146,
+        "name": "Flower Test",
+        "unlock": {
+          "type": 2,
+          "ship_id": 645,
+          "affinity": 150
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 4899,
+            "text": "Commander, Commander!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 4900,
+            "text": "I've got a present for you!",
+            "user": 90105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Thanks a bunch."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 4901,
+            "text": "Thanks a bunch.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4902,
+            "text": "Wow, talk about a boooring reply.",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4903,
+            "text": "But on the inside, you're so excited you can't wait, right? Am I right or am I right?",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4904,
+            "text": "part3_bc2",
+            "user": 90105,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4905,
+            "text": "Well, hold onto your hat cause I'm about to show you my present!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4906,
+            "text": "Ready? Here comes the miracle!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 4907,
+            "text": "ᝉᴠ≬᭩ūɥ〠όᙯ⽵†ᙬͯቴᕳ",
+            "user": 90105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "That's the present? This garbled text?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 4908,
+            "text": "That's the present? This garbled text?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4909,
+            "text": "akk",
+            "user": 0,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4910,
+            "text": "Huh? That's not exactly how I thought it'd look...",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4911,
+            "text": "Or ANYTHING like how I thought it'd look!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 4912,
+            "text": "I must've forgotten something... Hang on, let me try again.",
+            "user": 90105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "Standing by."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 4913,
+            "text": "Standing by.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4914,
+            "text": "I've got it! I've figured it out!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4915,
+            "text": "It's gonna work this time!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4916,
+            "text": "ᝉᴠ≬᭩ūɥ〠όᙯ⽵†ᙬͯቴᕳ",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4917,
+            "text": "<color=#583b28>Dang it! That didn't work either...</color>",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4918,
+            "text": "<color=#583b28>Hey wait! The color of my message changed!</color>",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 4919,
+            "text": "<color=#583b28>That's basically a success, right? Let's call it that!</color>",
+            "user": 90105,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Congrats."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 4920,
+            "text": "<color=#583b28>Congrats.</color>",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 4921,
+            "text": "<color=#583b28>Wait, you can do that too? Fine! I said I'd give you a present, and that's what I'm gonna do!</color>",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 4922,
+            "text": "✿",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 4923,
+            "text": "✿",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 4924,
+            "text": "✿",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 4925,
+            "text": "Tadah! Flowers from me!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 4926,
+            "text": "But seriously, here comes your real present.",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 4927,
+            "text": "Just open your door to receive it!",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 4928,
+            "text": "♥",
+            "user": 90105,
+            "type": 1,
+            "options": []
+          }
+        ]
+      }
+    ],
+    "icon": "huajian",
+    "type": 1
+  },
   "90107": {
     "id": 90107,
     "name": "Mogador",
