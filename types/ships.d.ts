@@ -53,7 +53,8 @@ export interface ShipData {
     servers: AlServer[]
     icon: string
     aliases?: string[]
-    class: string | null
+    class: string
+    sub_class?: string
     upgrade_text: UpgradeText[]
     oath_skin?: boolean
     unique_aug?: number

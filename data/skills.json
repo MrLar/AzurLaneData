@@ -5653,7 +5653,7 @@
     ]
   },
   "10960": {
-    "description": "Grants the following buffs to Ayanami, Akatsuki, Ikazuchi, Inazuma, Fubuki and Hibiki: increases FP and EVA by $1 and TRP by $2.",
+    "description": "Grants the following buffs to {Ayanami, Akatsuki, Ikazuchi, Inazuma, Fubuki, Hibiki, Shirayuki, Miyuki and Uranami|The game lists out all the characters that were affected by this on release. In reality any ship that has the \"special type\" tag is affected. At the time of writting this the ships named are the only ones that do but more may be released, if they do this text will be updated some time after.}: increases FP and EVA by $1 and TRP by $2.",
     "opsi_description": null,
     "name": "Special Lead Ship",
     "max": 10,
@@ -61274,7 +61274,7 @@
     ]
   },
   "1010720": {
-    "description": "Increases this ship's FP and ACC by $1 and the TRP and Main Gun efficiency of your Admiral Hipper-class CAs by $2. Every 30s: deploys 2 rotating shields (lasting $3s) that can negate up to 10 enemy shells. Every 20s: fires a $4 special barrage (DMG is based on the skill's level).",
+    "description": "Increases this ship's FP and ACC by $1 and the TRP and Main Gun efficiency of your Admiral Hipper-class {(including Tallinn; not including Mainz)|Tallinn does benefit from the effects which makes sense given despite the fact that game calls her a Tallinn-class ship she is a Adrmial Hipper-class ship. Mainz on the other hand does not count and this is likely due to the plans for Mainz only being a design based on Admiral Hipper-class.} CAs by $2. Every 30s: deploys 2 rotating shields (lasting $3s) that can negate up to 10 enemy shells. Every 20s: fires a $4 special barrage (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Guarding Shield+",
     "max": 10,
