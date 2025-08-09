@@ -12367,8 +12367,8 @@
             10
           ],
           "buffs": [
-            "Special Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 2 seconds for 8s, ID: 346)",
-            "Increase DMG taken by 15% for 8s"
+            "Special Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 2 seconds for 8s, ID: 346) [Only on the first activation]",
+            "Increase DMG taken by 15% for 8s [Only on the first activation]"
           ],
           "buff_chance": 1,
           "targeting": "Priority",
