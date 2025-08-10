@@ -15940,7 +15940,7 @@
     ]
   },
   "14170": {
-    "description": "Bombing bays ready! Every 15s, $1 chance to trigger a $2 special barrage (Barrage DMG is based on this skill's level).{The first time this barrage triggers, applies special burn to enemies hit, causing them to take 15% more damage for 8s.|Not mentioned by the Game at all.}",
+    "description": "Bombing bays ready! Every 15s, $1 chance to trigger a $2 special barrage (Barrage DMG is based on this skill's level). {The first time this barrage triggers, applies special burn to enemies hit, causing them to take 15% more damage for 8s.|Not mentioned by the Game at all.}",
     "opsi_description": null,
     "name": "Kirov, Reporting!",
     "max": 10,
@@ -35207,7 +35207,7 @@
   },
   "19980": {
     "description": "When this ship fires her Main Guns, the final volley prioritizes humanoid enemies.\n\nEvery 8s: gives this ship 1 stack of Charge (can be stacked up to 3 times); increases her AA by $1 for each stack she has.\n\nWhen this ship fires her Main Guns: spends all Charge and increases this ship's FP by $1 for 5s per each Charge spent and fires a $2 special barrage (DMG is based on the skill's level); when this effect activates, the following effects apply for 5s based on the number of Charge stacks spent:\n• 1+ spent: {increases this ship's Crit Rate|The game incorrectly states that this only applies to the main gun} by $3;\n• 2+ spent: increases this ship's DMG dealt by $4;\n• 3 spent: improves the special barrage and increases this ship's {Main Gun|The game incorrectly states this applies to the ship as a whole while it is only for the main gun.} Crit DMG by $3.",
-    "opsi_description": "When this ship fires her Main Guns, the final volley prioritizes humanoid enemies (this effect is not affected by the Tolls of War debuff).\n\nEvery 8s: gives this ship 1 stack of Charge (can be stacked up to 3 times); increases her AA by $1 for each stack she has.\n\nWhen this ship fires her Main Guns: spends all Charge and increases this ship's FP by $1 for 5s per each Charge spent and fires a $2 special barrage (DMG is based on the skill's level); when this effect activates, the following effects apply for 5s based on the number of Charge stacks spent:\n• 1+ spent: increases this ship's Main Gun Crit Rate by $3;\n• 2+ spent: increases this ship's DMG dealt by $4;\n• 3 spent: improves the special barrage and increases this ship's Crit DMG by $3.",
+    "opsi_description": "When this ship fires her Main Guns, the final volley prioritizes humanoid enemies (this effect is not affected by the Tolls of War debuff).\n\nEvery 8s: gives this ship 1 stack of Charge (can be stacked up to 3 times); increases her AA by $1 for each stack she has.\n\nWhen this ship fires her Main Guns: spends all Charge and increases this ship's FP by $1 for 5s per each Charge spent and fires a $2 special barrage (DMG is based on the skill's level); when this effect activates, the following effects apply for 5s based on the number of Charge stacks spent:\n• 1+ spent: {increases this ship's Crit Rate|The game incorrectly states that this only applies to the main gun} by $3;\n• 2+ spent: increases this ship's DMG dealt by $4;\n• 3 spent: improves the special barrage and increases this ship's {Main Gun|The game incorrectly states this applies to the ship as a whole while it is only for the main gun.} Crit DMG by $3.",
     "name": "Chargeburst",
     "max": 10,
     "id": 19980,
@@ -56895,7 +56895,7 @@
   },
   "800911": {
     "description": "Every 15 times this ship fires her Main Guns: fires a special barrage.",
-    "opsi_description": "Every 15 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases your META ships' DMG taken by 2.0%",
+    "opsi_description": "Every 15 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: {this ship's|Ingame description incorrectly claims all META ships in your fleet take less.} DMG taken by 2.0%",
     "name": "Smoldering Core - Hatakaze",
     "max": 1,
     "id": 800911,
@@ -56905,7 +56905,7 @@
   },
   "800912": {
     "description": "Every 10 times this ship fires her Main Guns: fires a special barrage.",
-    "opsi_description": "Every 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases your META ships' DMG taken by 6.0%",
+    "opsi_description": "Every 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: {this ship's|Ingame description incorrectly claims all META ships in your fleet take less.} DMG taken by 6.0%",
     "name": "Smoldering Core - Hatakaze",
     "max": 1,
     "id": 800912,
