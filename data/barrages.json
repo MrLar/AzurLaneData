@@ -752,7 +752,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             500
@@ -795,7 +794,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             500
@@ -1200,7 +1198,7 @@
           "airdrop": true,
           "targeting": null,
           "centered": false,
-          "weapon_id": 66260,
+          "weapon_id": 66270,
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 2121,
@@ -1214,7 +1212,7 @@
       "name": "Assault Mode",
       "parts": [
         {
-          "damage": 24,
+          "damage": 26,
           "coefficient": 1,
           "count": 30,
           "stat": "fp",
@@ -3429,6 +3427,7 @@
             23
           ],
           "airdrop": true,
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 67810,
@@ -3471,6 +3470,7 @@
             26
           ],
           "airdrop": true,
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 67820,
@@ -3518,6 +3518,7 @@
             23
           ],
           "airdrop": true,
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 67810,
@@ -3560,6 +3561,7 @@
             26
           ],
           "airdrop": true,
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 67820,
@@ -3607,6 +3609,7 @@
             23
           ],
           "airdrop": true,
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 67810,
@@ -3649,6 +3652,7 @@
             26
           ],
           "airdrop": true,
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 67820,
@@ -3700,7 +3704,7 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 67821,
+          "weapon_id": 67830,
           "weapon_type": 3,
           "bullet_type": 3,
           "bullet_id": 2112,
@@ -3747,7 +3751,7 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 67821,
+          "weapon_id": 67830,
           "weapon_type": 3,
           "bullet_type": 3,
           "bullet_id": 2112,
@@ -3794,7 +3798,7 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 67821,
+          "weapon_id": 67830,
           "weapon_type": 3,
           "bullet_type": 3,
           "bullet_id": 2112,
@@ -3841,7 +3845,7 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 67821,
+          "weapon_id": 67830,
           "weapon_type": 3,
           "bullet_type": 3,
           "bullet_id": 2112,
@@ -4168,6 +4172,7 @@
             0,
             0
           ],
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_type": 3,
@@ -4256,6 +4261,7 @@
             0,
             0
           ],
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_type": 3,
@@ -4334,7 +4340,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             500
@@ -4377,7 +4382,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             500
@@ -4427,7 +4431,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             500
@@ -4451,7 +4454,7 @@
           "weapon_id": 67970,
           "weapon_type": 2,
           "bullet_type": 2,
-          "bullet_id": 19989,
+          "bullet_id": 19988,
           "type": "weapon"
         },
         {
@@ -4470,7 +4473,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             500
@@ -5211,7 +5213,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             50
@@ -5253,7 +5254,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             50
@@ -5304,7 +5304,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             50
@@ -5394,7 +5393,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             95
@@ -5422,7 +5420,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19863,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     },
@@ -5445,7 +5444,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             95
@@ -5469,7 +5467,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19862,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     },
@@ -5492,7 +5491,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             95
@@ -5516,7 +5514,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19864,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -6963,7 +6962,7 @@
           "airdrop": true,
           "targeting": null,
           "centered": false,
-          "weapon_id": 68800,
+          "weapon_id": 68790,
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 2121,
@@ -7006,7 +7005,7 @@
           "airdrop": true,
           "targeting": null,
           "centered": false,
-          "weapon_id": 68790,
+          "weapon_id": 68800,
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 2122,
@@ -7681,7 +7680,7 @@
           "weapon_id": 69100,
           "weapon_type": 2,
           "bullet_type": 2,
-          "bullet_id": 19100,
+          "bullet_id": 19101,
           "type": "weapon"
         },
         {
@@ -7882,7 +7881,7 @@
       "name": "Black Cat Cyclone",
       "parts": [
         {
-          "damage": 84,
+          "damage": 112,
           "coefficient": 1,
           "count": 1,
           "stat": "asw",
@@ -7915,6 +7914,7 @@
             4
           ],
           "airdrop": true,
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 53150,
@@ -7957,6 +7957,7 @@
             42
           ],
           "airdrop": true,
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 69230,
@@ -8051,7 +8052,7 @@
           "weapon_id": 69300,
           "weapon_type": 1,
           "bullet_type": 2,
-          "bullet_id": 19119,
+          "bullet_id": 19122,
           "type": "weapon"
         },
         {
@@ -8685,7 +8686,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             90
@@ -8783,7 +8783,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             90
@@ -10999,6 +10998,7 @@
             36
           ],
           "airdrop": true,
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 65140,
@@ -12377,7 +12377,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19268,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -13059,7 +13060,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             35,
             200
@@ -13101,7 +13101,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             90
@@ -13147,7 +13146,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             50
@@ -13923,6 +13921,7 @@
             0,
             0
           ],
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 64620,
@@ -14310,7 +14309,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             60
@@ -16622,7 +16620,7 @@
       "name": "Meteoric Hope (version 1)",
       "parts": [
         {
-          "damage": 301,
+          "damage": 300,
           "coefficient": 1,
           "count": 8,
           "stat": "avi",
@@ -16658,12 +16656,13 @@
             "Special Flood (DMG equal to 10 + Barrage Damage * Damage Modifier * (1 + (AVI / 100)) * 0.3 with 1 tick every 3 seconds for 15s, ID: 319)"
           ],
           "buff_chance": 1,
+          "is_air": true,
           "targeting": null,
           "centered": false,
-          "weapon_id": 67449,
+          "weapon_id": 64970,
           "weapon_type": 3,
           "bullet_type": 3,
-          "bullet_id": 19952,
+          "bullet_id": 19394,
           "type": "weapon"
         }
       ]
@@ -16945,7 +16944,7 @@
           "weapon_id": 63840,
           "weapon_type": 2,
           "bullet_type": 2,
-          "bullet_id": 2120,
+          "bullet_id": 2122,
           "type": "weapon"
         },
         {
@@ -17631,7 +17630,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19614,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -18198,7 +18198,7 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 62210,
+          "weapon_id": 62230,
           "weapon_type": 1,
           "bullet_type": 3,
           "bullet_id": 19641,
@@ -18933,7 +18933,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19439,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 150,
@@ -19286,7 +19287,7 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 62431,
+          "weapon_id": 62440,
           "weapon_type": 25,
           "bullet_type": 2,
           "bullet_id": 19454,
@@ -23337,7 +23338,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 160886,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -24395,6 +24397,7 @@
             1
           ],
           "airdrop": true,
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 163260,
@@ -24540,6 +24543,7 @@
             1
           ],
           "airdrop": true,
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 163330,
@@ -24582,6 +24586,7 @@
             15
           ],
           "targeting": null,
+          "is_air": true,
           "centered": false,
           "weapon_id": 163340,
           "weapon_type": 1,
@@ -24612,7 +24617,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             90
@@ -24929,9 +24933,9 @@
               "targeting": null,
               "centered": false,
               "weapon_type": 2,
-              "weapon_id": 163790,
+              "weapon_id": 163770,
               "bullet_type": 3,
-              "bullet_id": 163781,
+              "bullet_id": 163761,
               "rld": "4.5s"
             }
           ]
@@ -25295,7 +25299,7 @@
           "airdrop": true,
           "targeting": null,
           "centered": false,
-          "weapon_id": 53360,
+          "weapon_id": 53370,
           "weapon_type": 25,
           "bullet_type": 2,
           "bullet_id": 1815,
@@ -25771,7 +25775,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             120
@@ -25817,7 +25820,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             120
@@ -28049,7 +28051,7 @@
           "weapon_id": 160640,
           "weapon_type": 2,
           "bullet_type": 2,
-          "bullet_id": 19860,
+          "bullet_id": 19689,
           "type": "weapon"
         },
         {
@@ -29028,6 +29030,152 @@
       ]
     }
   ],
+  "18790": [
+    {
+      "name": "Nocturnal Judgment+",
+      "parts": [
+        {
+          "damage": 360,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.1,
+            1.4
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "is_air": true,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 1,
+          "angle": 45,
+          "splash": 7,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            12,
+            5
+          ],
+          "buffs": [
+            "Decrease FP by 8% for 6s"
+          ],
+          "buff_chance": 1,
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168780,
+          "weapon_type": 3,
+          "bullet_type": 2,
+          "bullet_id": 164731,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "18860": [
+    {
+      "name": "Causality Anchor+",
+      "parts": [
+        {
+          "damage": 160,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 1,
+          "angle": 80,
+          "splash": 3,
+          "velocity": 5,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 164840,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 160918,
+          "type": "weapon"
+        },
+        {
+          "damage": 172,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.45,
+            1.1,
+            0.9
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            35,
+            105
+          ],
+          "aim_type": 1,
+          "angle": 60,
+          "splash": 15,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            110,
+            130
+          ],
+          "spread": [
+            16,
+            16
+          ],
+          "buffs": [
+            "Special Burn (410 DMG with 1 tick every 3 seconds for 15s, ID: 19869)"
+          ],
+          "buff_chance": 1,
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168800,
+          "weapon_type": 19,
+          "bullet_type": 2,
+          "bullet_id": 160919,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "19030": [
     {
       "name": "Monarch's Coercion",
@@ -29957,7 +30105,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19147,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -30454,7 +30603,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             35,
             200
@@ -30496,7 +30644,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             35,
             200
@@ -30520,7 +30667,8 @@
           "weapon_type": 1,
           "bullet_type": 2,
           "bullet_id": 19320,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     },
@@ -30543,7 +30691,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": true,
-          "is_air": true,
           "range": [
             0,
             200
@@ -32745,7 +32892,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 161461,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -32881,7 +33029,7 @@
             "Decrease FP by 8% for 6s"
           ],
           "buff_chance": 1,
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false,
           "weapon_id": 164740,
           "weapon_type": 3,
@@ -33968,10 +34116,10 @@
           ],
           "targeting": "Random",
           "centered": false,
-          "weapon_id": 168570,
+          "weapon_id": 168590,
           "weapon_type": 1,
           "bullet_type": 1,
-          "bullet_id": 161149,
+          "bullet_id": 161150,
           "type": "weapon"
         }
       ]
@@ -35377,7 +35525,7 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 70322,
+          "weapon_id": 70324,
           "weapon_type": 3,
           "bullet_type": 1,
           "bullet_id": 70312,
@@ -37115,7 +37263,7 @@
           "weapon_id": 72132,
           "weapon_type": 2,
           "bullet_type": 1,
-          "bullet_id": 72131,
+          "bullet_id": 72132,
           "type": "weapon"
         }
       ]
@@ -39764,7 +39912,7 @@
           "weapon_id": 75512,
           "weapon_type": 3,
           "bullet_type": 3,
-          "bullet_id": 75511,
+          "bullet_id": 73511,
           "type": "weapon"
         }
       ]
@@ -40562,6 +40710,96 @@
       ]
     }
   ],
+  "28282": [
+    {
+      "name": "All Out Assault - Duguay Trouin II",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 18,
+          "coefficient": 1,
+          "count": 40,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.3,
+            0.9,
+            0.6
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            100,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 78102,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 78241,
+          "type": "weapon"
+        },
+        {
+          "damage": 45,
+          "coefficient": 1,
+          "count": 12,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            89
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 3,
+          "velocity": 4,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            160
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 78104,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 78242,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "29022": [
     {
       "name": "All Out Assault - Eldridge II",
@@ -40768,7 +41006,7 @@
       "is_aoa": true,
       "parts": [
         {
-          "damage": 12,
+          "damage": 15,
           "coefficient": 1.25,
           "count": 24,
           "stat": "fp",
@@ -48508,7 +48746,7 @@
       "is_aoa": true,
       "parts": [
         {
-          "damage": 12,
+          "damage": 25,
           "coefficient": 1.25,
           "count": 12,
           "stat": "fp",
@@ -48555,7 +48793,7 @@
       "is_aoa": true,
       "parts": [
         {
-          "damage": 20,
+          "damage": 50,
           "coefficient": 1.25,
           "count": 20,
           "stat": "fp",
@@ -50851,7 +51089,7 @@
       "is_aoa": true,
       "parts": [
         {
-          "damage": 36,
+          "damage": 45,
           "coefficient": 1,
           "count": 20,
           "stat": "fp",
@@ -50938,6 +51176,55 @@
           "weapon_type": 1,
           "bullet_type": 1,
           "bullet_id": 170812,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "30512": [
+    {
+      "name": "All Out Assault - Le Hardi II",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 48,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.1,
+            1.1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            145,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 170832,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170819,
           "type": "weapon"
         }
       ]
@@ -51187,7 +51474,8 @@
           "weapon_id": 61516,
           "bullet_type": 2,
           "bullet_id": 19497,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -51432,7 +51720,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19499,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -52142,6 +52431,7 @@
             0,
             0
           ],
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 494,
@@ -52195,7 +52485,7 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 51269,
+          "weapon_id": 51273,
           "weapon_type": 3,
           "bullet_type": 3,
           "bullet_id": 2142,
@@ -53161,7 +53451,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19080,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -53452,7 +53743,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19089,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 245,
@@ -55626,7 +55918,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19544,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -55668,6 +55961,7 @@
             6,
             6
           ],
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 63440,
@@ -56211,7 +56505,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             500
@@ -56235,7 +56528,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19546,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 206,
@@ -56253,7 +56547,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             500
@@ -56277,7 +56570,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19547,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -56319,6 +56613,7 @@
             0,
             0
           ],
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 63410,
@@ -56360,6 +56655,7 @@
             0,
             0
           ],
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 63420,
@@ -56643,7 +56939,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19544,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -56861,7 +57158,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             500
@@ -56885,7 +57181,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19546,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 226,
@@ -56903,7 +57200,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             500
@@ -56927,7 +57223,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19547,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -57945,7 +58242,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19498,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -58271,7 +58569,7 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 160230,
+          "weapon_id": 160221,
           "weapon_type": 28,
           "bullet_type": 14,
           "bullet_id": 19478,
@@ -58465,7 +58763,7 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 160200,
+          "weapon_id": 160191,
           "weapon_type": 28,
           "bullet_type": 14,
           "bullet_id": 19481,
@@ -58517,7 +58815,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 163612,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 100,
@@ -58558,7 +58857,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 163611,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     },
@@ -58650,7 +58950,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 163651,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 50,
@@ -58691,7 +58992,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 163652,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 50,
@@ -58732,7 +59034,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 163651,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 20,
@@ -58773,7 +59076,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 163671,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 150,
@@ -58813,8 +59117,9 @@
           "weapon_id": 163690,
           "weapon_type": 2,
           "bullet_type": 2,
-          "bullet_id": 163672,
-          "type": "weapon"
+          "bullet_id": 163673,
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -58908,7 +59213,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 163612,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 100,
@@ -58949,7 +59255,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 163611,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     },
@@ -58995,7 +59302,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 163653,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 50,
@@ -59036,7 +59344,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 163654,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 50,
@@ -59076,8 +59385,9 @@
           "weapon_id": 163710,
           "weapon_type": 2,
           "bullet_type": 2,
-          "bullet_id": 163652,
-          "type": "weapon"
+          "bullet_id": 163653,
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 20,
@@ -59118,7 +59428,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 163676,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 150,
@@ -59159,7 +59470,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 163674,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -59253,7 +59565,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 163612,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 100,
@@ -59294,7 +59607,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 163611,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     },
@@ -59340,7 +59654,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 163653,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 50,
@@ -59381,7 +59696,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 163654,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 50,
@@ -59421,8 +59737,9 @@
           "weapon_id": 163710,
           "weapon_type": 2,
           "bullet_type": 2,
-          "bullet_id": 163652,
-          "type": "weapon"
+          "bullet_id": 163653,
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 20,
@@ -59463,7 +59780,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 163676,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 150,
@@ -59504,7 +59822,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 163674,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -60595,7 +60914,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19738,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     },
@@ -60641,7 +60961,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19738,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     },
@@ -60687,7 +61008,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19738,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     },
@@ -60733,7 +61055,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19738,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     },
@@ -60779,7 +61102,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19738,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -62276,10 +62600,10 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 498,
+          "weapon_id": 497,
           "weapon_type": 24,
           "bullet_type": 10,
-          "bullet_id": 164822,
+          "bullet_id": 164821,
           "type": "weapon"
         }
       ]
@@ -62322,10 +62646,10 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 497,
+          "weapon_id": 498,
           "weapon_type": 24,
           "bullet_type": 10,
-          "bullet_id": 164821,
+          "bullet_id": 164822,
           "type": "weapon"
         }
       ]
@@ -64269,405 +64593,6 @@
       ]
     }
   ],
-  "112270": [
-    {
-      "name": "Knights Can Be Maidens Too (Every 5s, No enemy within 35 units)",
-      "parts": [
-        {
-          "damage": 20,
-          "coefficient": 1,
-          "count": 24,
-          "stat": "fp",
-          "ratio": 1,
-          "armor_mod": [
-            1,
-            1,
-            1
-          ],
-          "ammo": 1,
-          "is_critical": false,
-          "notes": [],
-          "shrapnel": false,
-          "ignore_shield": false,
-          "range": [
-            0,
-            100
-          ],
-          "aim_type": 1,
-          "angle": 360,
-          "splash": 0,
-          "velocity": 16,
-          "pierce": 0,
-          "shell_range": [
-            95,
-            105
-          ],
-          "spread": [
-            0,
-            0
-          ],
-          "targeting": null,
-          "centered": false,
-          "weapon_id": 168700,
-          "weapon_type": 1,
-          "bullet_type": 1,
-          "bullet_id": 161155,
-          "type": "weapon",
-          "buff_chance": 1,
-          "buffs": [
-            "Reduce Defense Marks by 1",
-            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Knights Can Be Maidens Too (Every 5s, Enemy within 35 units)",
-      "parts": [
-        {
-          "damage": 100,
-          "coefficient": 1,
-          "count": 1,
-          "stat": "fp",
-          "ratio": 1,
-          "armor_mod": [
-            1,
-            1,
-            1
-          ],
-          "ammo": 1,
-          "is_critical": false,
-          "notes": [],
-          "shrapnel": false,
-          "ignore_shield": false,
-          "range": [
-            0,
-            100
-          ],
-          "aim_type": 0,
-          "angle": 120,
-          "splash": 0,
-          "velocity": 18,
-          "pierce": 0,
-          "shell_range": [
-            95,
-            105
-          ],
-          "spread": [
-            0,
-            0
-          ],
-          "targeting": "Priority",
-          "centered": false,
-          "weapon_id": 168710,
-          "weapon_type": 1,
-          "bullet_type": 1,
-          "bullet_id": 161156,
-          "type": "weapon",
-          "buff_chance": 1,
-          "buffs": [
-            "Reduce Defense Marks by 1",
-            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
-          ]
-        },
-        {
-          "damage": 20,
-          "coefficient": 1,
-          "count": 12,
-          "stat": "fp",
-          "ratio": 1,
-          "armor_mod": [
-            1,
-            1,
-            1
-          ],
-          "ammo": 1,
-          "is_critical": false,
-          "notes": [],
-          "shrapnel": false,
-          "ignore_shield": false,
-          "range": [
-            0,
-            100
-          ],
-          "aim_type": 0,
-          "angle": 120,
-          "splash": 0,
-          "velocity": 18,
-          "pierce": 0,
-          "shell_range": [
-            95,
-            105
-          ],
-          "spread": [
-            0,
-            0
-          ],
-          "targeting": null,
-          "centered": false,
-          "weapon_id": 168720,
-          "weapon_type": 1,
-          "bullet_type": 1,
-          "bullet_id": 161155,
-          "type": "weapon",
-          "buff_chance": 1,
-          "buffs": [
-            "Reduce Defense Marks by 1",
-            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
-          ]
-        }
-      ]
-    }
-  ],
-  "112280": [
-    {
-      "name": "Alber's Assistance (after 3 Stacks)",
-      "parts": [
-        {
-          "damage": 20,
-          "coefficient": 1,
-          "count": 24,
-          "stat": "trp",
-          "ratio": 1,
-          "armor_mod": [
-            1,
-            1,
-            1
-          ],
-          "ammo": 1,
-          "is_critical": false,
-          "notes": [],
-          "shrapnel": false,
-          "ignore_shield": false,
-          "range": [
-            0,
-            100
-          ],
-          "aim_type": 1,
-          "angle": 360,
-          "splash": 0,
-          "velocity": 16,
-          "pierce": 0,
-          "shell_range": [
-            95,
-            105
-          ],
-          "spread": [
-            0,
-            0
-          ],
-          "targeting": "Priority",
-          "centered": false,
-          "weapon_id": 168700,
-          "weapon_type": 1,
-          "bullet_type": 1,
-          "bullet_id": 161155,
-          "type": "weapon",
-          "buff_chance": 1,
-          "buffs": [
-            "Reduce Defense Marks by 1",
-            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
-          ]
-        }
-      ]
-    }
-  ],
-  "112290": [
-    {
-      "name": "Alber's Assistance+ (after 3 Stacks if Mana Surge)",
-      "parts": [
-        {
-          "damage": 20,
-          "coefficient": 1,
-          "count": 24,
-          "stat": "trp",
-          "ratio": 1,
-          "armor_mod": [
-            1,
-            1,
-            1
-          ],
-          "ammo": 1,
-          "is_critical": false,
-          "notes": [],
-          "shrapnel": false,
-          "ignore_shield": false,
-          "range": [
-            0,
-            100
-          ],
-          "aim_type": 1,
-          "angle": 360,
-          "splash": 0,
-          "velocity": 16,
-          "pierce": 0,
-          "shell_range": [
-            95,
-            105
-          ],
-          "spread": [
-            0,
-            0
-          ],
-          "targeting": null,
-          "centered": false,
-          "weapon_id": 168700,
-          "weapon_type": 1,
-          "bullet_type": 1,
-          "bullet_id": 161155,
-          "type": "weapon",
-          "buff_chance": 1,
-          "buffs": [
-            "Reduce Defense Marks by 1",
-            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
-          ]
-        },
-        {
-          "damage": 100,
-          "coefficient": 1,
-          "count": 1,
-          "stat": "trp",
-          "ratio": 1,
-          "armor_mod": [
-            1,
-            1,
-            1
-          ],
-          "ammo": 1,
-          "is_critical": false,
-          "notes": [],
-          "shrapnel": false,
-          "ignore_shield": true,
-          "range": [
-            0,
-            100
-          ],
-          "aim_type": 0,
-          "angle": 120,
-          "splash": 0,
-          "velocity": 18,
-          "pierce": 1,
-          "shell_range": [
-            95,
-            105
-          ],
-          "spread": [
-            0,
-            0
-          ],
-          "targeting": "Priority",
-          "centered": false,
-          "weapon_id": 168701,
-          "weapon_type": 1,
-          "bullet_type": 1,
-          "bullet_id": 161156,
-          "type": "weapon",
-          "buff_chance": 1,
-          "buffs": [
-            "Reduce Defense Marks by 1",
-            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
-          ]
-        },
-        {
-          "damage": 30,
-          "coefficient": 1,
-          "count": 64,
-          "stat": "fp",
-          "ratio": 1,
-          "armor_mod": [
-            1,
-            1,
-            1
-          ],
-          "ammo": 1,
-          "is_critical": false,
-          "notes": [],
-          "shrapnel": false,
-          "ignore_shield": false,
-          "range": [
-            0,
-            100
-          ],
-          "aim_type": 0,
-          "angle": 120,
-          "splash": 0,
-          "velocity": 18,
-          "pierce": 0,
-          "shell_range": [
-            95,
-            105
-          ],
-          "spread": [
-            0,
-            0
-          ],
-          "targeting": "Priority",
-          "centered": false,
-          "weapon_id": 168740,
-          "weapon_type": 1,
-          "bullet_type": 1,
-          "bullet_id": 161155,
-          "type": "weapon",
-          "buff_chance": 1,
-          "buffs": [
-            "Reduce Defense Marks by 1",
-            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Alber's Assistance (after 3 Stacks)",
-      "parts": [
-        {
-          "damage": 20,
-          "coefficient": 1,
-          "count": 24,
-          "stat": "trp",
-          "ratio": 1,
-          "armor_mod": [
-            1,
-            1,
-            1
-          ],
-          "ammo": 1,
-          "is_critical": false,
-          "notes": [],
-          "shrapnel": false,
-          "ignore_shield": false,
-          "range": [
-            0,
-            100
-          ],
-          "aim_type": 1,
-          "angle": 360,
-          "splash": 0,
-          "velocity": 16,
-          "pierce": 0,
-          "shell_range": [
-            95,
-            105
-          ],
-          "spread": [
-            0,
-            0
-          ],
-          "targeting": null,
-          "centered": false,
-          "weapon_id": 168700,
-          "weapon_type": 1,
-          "bullet_type": 1,
-          "bullet_id": 161155,
-          "type": "weapon",
-          "buff_chance": 1,
-          "buffs": [
-            "Reduce Defense Marks by 1",
-            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
-          ]
-        }
-      ]
-    }
-  ],
   "112220": [
     {
       "name": "Blazing Trigger (Every 20s)",
@@ -65034,6 +64959,405 @@
           "bullet_type": 1,
           "bullet_id": 168235,
           "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "112270": [
+    {
+      "name": "Knights Can Be Maidens Too (Every 5s, No enemy within 35 units)",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168700,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161155,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Reduce Defense Marks by 1",
+            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Knights Can Be Maidens Too (Every 5s, Enemy within 35 units)",
+      "parts": [
+        {
+          "damage": 100,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168710,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161156,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Reduce Defense Marks by 1",
+            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
+          ]
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 12,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168720,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161155,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Reduce Defense Marks by 1",
+            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
+          ]
+        }
+      ]
+    }
+  ],
+  "112280": [
+    {
+      "name": "Alber's Assistance (after 3 Stacks)",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168700,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161155,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Reduce Defense Marks by 1",
+            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
+          ]
+        }
+      ]
+    }
+  ],
+  "112290": [
+    {
+      "name": "Alber's Assistance+ (after 3 Stacks if Mana Surge)",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168700,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161155,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Reduce Defense Marks by 1",
+            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
+          ]
+        },
+        {
+          "damage": 100,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 1,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168710,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161156,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Reduce Defense Marks by 1",
+            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
+          ]
+        },
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 64,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168740,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161155,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Reduce Defense Marks by 1",
+            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alber's Assistance (after 3 Stacks)",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168700,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161155,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Reduce Defense Marks by 1",
+            "If Defense Marks reach 0: Trigger Special Armor Break (8% for 3s, ID: 112275) and regain 3 Defense Marks after."
+          ]
         }
       ]
     }
@@ -65674,7 +65998,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 160906,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -65716,6 +66041,7 @@
             1,
             1
           ],
+          "is_air": true,
           "buffs": [
             "3% Lifesteal directed torwards specific ship"
           ],
@@ -65880,7 +66206,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 79982,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -67812,7 +68139,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             25,
             200
@@ -69047,6 +69373,95 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 167251,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "150865": [
+    {
+      "name": "An Shan-class Sword Slash",
+      "parts": [
+        {
+          "damage": 50,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 4,
+          "shell_range": [
+            192.5,
+            207.5
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 167283,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161027,
+          "type": "weapon"
+        },
+        {
+          "damage": 50,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            2,
+            2,
+            2
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 4,
+          "shell_range": [
+            192.5,
+            207.5
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 167283,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161028,
           "type": "weapon"
         }
       ]
@@ -72168,7 +72583,7 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 168240,
+          "weapon_id": 168250,
           "weapon_type": 3,
           "bullet_type": 3,
           "bullet_id": 170801,
@@ -72278,6 +72693,663 @@
       ]
     }
   ],
+  "151400": [
+    {
+      "name": "Blessed Child of Victory",
+      "parts": [
+        {
+          "damage": 23,
+          "coefficient": 1,
+          "count": 42,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.7
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 8,
+          "pierce": 0,
+          "shell_range": [
+            145,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": true,
+          "weapon_id": 168940,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168931,
+          "type": "weapon"
+        },
+        {
+          "damage": 175,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.4,
+            1.1,
+            0.9
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            35,
+            105
+          ],
+          "aim_type": 1,
+          "angle": 60,
+          "splash": 15,
+          "velocity": 18,
+          "pierce": 0,
+          "shell_range": [
+            195,
+            205
+          ],
+          "spread": [
+            21,
+            21
+          ],
+          "buff_chance": 0.5,
+          "buffs": [
+            "Standard Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
+          ],
+          "targeting": "Priority",
+          "centered": true,
+          "weapon_id": 168940,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168931,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "151440": [
+    {
+      "name": "Honour Through Bravery",
+      "parts": [
+        {
+          "damage": 80,
+          "coefficient": 1,
+          "count": 10,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.3,
+            0.9,
+            0.6
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            15,
+            15
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168860,
+          "weapon_type": 1,
+          "bullet_type": 5,
+          "bullet_id": 170815,
+          "type": "weapon"
+        },
+        {
+          "damage": 80,
+          "coefficient": 1,
+          "count": 10,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.3,
+            0.9,
+            0.6
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "reaim": true,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            100,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168860,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170816,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Standard Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
+          ]
+        }
+      ]
+    }
+  ],
+  "151450": [
+    {
+      "name": "Valorous Avengers+",
+      "parts": [
+        {
+          "damage": 301,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "is_air": true,
+          "range": [
+            0,
+            75
+          ],
+          "aim_type": 0,
+          "angle": 24,
+          "splash": 3,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Special Flood (DMG equal to 10 + Barrage Damage * Damage Modifier * (1 + (AVI / 100)) * 0.3 with 1 tick every 3 seconds for 15s, ID: 319)"
+          ],
+          "buff_chance": 1,
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 67450,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 19952,
+          "type": "weapon",
+          "tracker": {
+            "angular": 1.6,
+            "range": 16
+          }
+        }
+      ]
+    }
+  ],
+  "151460": [
+    {
+      "name": "Next Generation",
+      "parts": [
+        {
+          "damage": 100,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 1,
+          "angle": 45,
+          "splash": 7,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            12,
+            5
+          ],
+          "is_air": true,
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168840,
+          "weapon_type": 3,
+          "bullet_type": 2,
+          "bullet_id": 161162,
+          "type": "weapon"
+        },
+        {
+          "damage": 46,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 5,
+          "is_critical": false,
+          "notes": [
+            "AA Gun reload of 0.63s"
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            30
+          ],
+          "aim_type": 1,
+          "angle": 180,
+          "splash": 0,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            20,
+            40
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "is_air": true,
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 50350,
+          "weapon_type": 4,
+          "bullet_type": 6,
+          "bullet_id": 2100,
+          "type": "weapon"
+        },
+        {
+          "damage": 40,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 5,
+          "is_critical": false,
+          "notes": [
+            "AA Gun reload of 0.65s"
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            36
+          ],
+          "aim_type": 1,
+          "angle": 180,
+          "splash": 0,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            20,
+            40
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "is_air": true,
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 50550,
+          "weapon_type": 4,
+          "bullet_type": 6,
+          "bullet_id": 2100,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "S4 (Crossfleet)",
+      "parts": [
+        {
+          "damage": 100,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 1,
+          "angle": 45,
+          "splash": 7,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            12,
+            5
+          ],
+          "is_air": true,
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168840,
+          "weapon_type": 3,
+          "bullet_type": 2,
+          "bullet_id": 161162,
+          "type": "weapon"
+        },
+        {
+          "damage": 15,
+          "coefficient": 1,
+          "count": 64,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.6
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 8,
+          "pierce": 0,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 180015,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161163,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "151490": [
+    {
+      "name": "Dreadknight Peureux",
+      "parts": [
+        {
+          "damage": 255,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 5,
+          "pierce": 99,
+          "shell_range": [
+            145,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168950,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170818,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Slow by 30% for 6s"
+          ]
+        },
+        {
+          "damage": 255,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 5,
+          "pierce": 99,
+          "shell_range": [
+            145,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168950,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170818,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Slow by 30% for 6s"
+          ]
+        }
+      ]
+    }
+  ],
+  "151520": [
+    {
+      "name": "Divine Deeds Done Dreamily",
+      "parts": [
+        {
+          "damage": 200,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            75
+          ],
+          "aim_type": 0,
+          "angle": 28,
+          "splash": 3,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "is_air": true,
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168900,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 2111,
+          "type": "weapon"
+        },
+        {
+          "damage": 100,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 1,
+          "angle": 45,
+          "splash": 7,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            12,
+            5
+          ],
+          "is_air": true,
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168920,
+          "weapon_type": 3,
+          "bullet_type": 2,
+          "bullet_id": 170817,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "190000": [
     {
       "name": "Steelsurge Concerto",
@@ -72375,6 +73447,55 @@
       ]
     }
   ],
+  "250212": [
+    {
+      "name": "All Out Assault - Duquesne-class II",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 55,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.6
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 20,
+          "pierce": 0,
+          "shell_range": [
+            75,
+            85
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 170822,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 78232,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "800010": [
     {
       "name": "Shadowflame Torch",
@@ -72395,7 +73516,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": true,
-          "is_air": true,
           "range": [
             0,
             150
@@ -73328,7 +74448,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": true,
-          "is_air": true,
           "range": [
             0,
             200
@@ -73359,7 +74478,7 @@
           "type": "weapon"
         },
         {
-          "damage": 170,
+          "damage": 174,
           "coefficient": 1,
           "count": 1,
           "stat": "avi",
@@ -73374,7 +74493,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": true,
-          "is_air": true,
           "range": [
             0,
             120
@@ -73401,7 +74519,7 @@
           "type": "weapon"
         },
         {
-          "damage": 170,
+          "damage": 174,
           "coefficient": 1,
           "count": 8,
           "stat": "avi",
@@ -73416,7 +74534,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": true,
-          "is_air": true,
           "range": [
             0,
             120
@@ -73758,6 +74875,7 @@
             0,
             0
           ],
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 64790,
@@ -74453,7 +75571,7 @@
           "type": "weapon"
         },
         {
-          "damage": 100,
+          "damage": 45,
           "coefficient": 1,
           "count": 3,
           "stat": "trp",
@@ -74868,7 +75986,8 @@
           "weapon_type": 1,
           "bullet_type": 2,
           "bullet_id": 19447,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 100,
@@ -75197,10 +76316,10 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 160100,
+          "weapon_id": 79992,
           "weapon_type": 1,
           "bullet_type": 1,
-          "bullet_id": 19471,
+          "bullet_id": 79991,
           "type": "weapon"
         }
       ]
@@ -75359,7 +76478,7 @@
           "weapon_id": 160310,
           "weapon_type": 1,
           "bullet_type": 2,
-          "bullet_id": 19663,
+          "bullet_id": 19662,
           "type": "weapon"
         }
       ]
@@ -76655,7 +77774,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19739,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -77489,7 +78609,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             95
@@ -77578,7 +78697,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             95
@@ -77667,7 +78785,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             95
@@ -79844,6 +80961,7 @@
             36,
             36
           ],
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 167980,
@@ -79885,6 +81003,7 @@
             0,
             0
           ],
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 168000,
@@ -79934,6 +81053,7 @@
             36,
             36
           ],
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 167980,
@@ -79975,6 +81095,7 @@
             0,
             0
           ],
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 168000,
@@ -80559,54 +81680,6 @@
           "weapon_type": 3,
           "bullet_type": 3,
           "bullet_id": 164094,
-          "type": "weapon"
-        }
-      ]
-    }
-  ],
-  "1010720": [
-    {
-      "name": "Guarding Shield+",
-      "parts": [
-        {
-          "damage": 20,
-          "coefficient": 1,
-          "count": 26,
-          "stat": "fp",
-          "ratio": 1,
-          "armor_mod": [
-            1,
-            1,
-            1
-          ],
-          "ammo": 1,
-          "is_critical": false,
-          "notes": [],
-          "shrapnel": false,
-          "ignore_shield": false,
-          "range": [
-            0,
-            95
-          ],
-          "aim_type": 0,
-          "angle": 120,
-          "splash": 0,
-          "velocity": 16,
-          "pierce": 0,
-          "shell_range": [
-            95,
-            105
-          ],
-          "spread": [
-            0,
-            0
-          ],
-          "targeting": null,
-          "centered": false,
-          "weapon_id": 168790,
-          "weapon_type": 1,
-          "bullet_type": 1,
-          "bullet_id": 170814,
           "type": "weapon"
         }
       ]
@@ -81227,7 +82300,7 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 79171,
+          "weapon_id": 79172,
           "weapon_type": 2,
           "bullet_type": 1,
           "bullet_id": 1300,
@@ -81272,7 +82345,7 @@
           },
           "targeting": null,
           "centered": false,
-          "weapon_id": 170251,
+          "weapon_id": 170252,
           "weapon_type": 3,
           "bullet_type": 3,
           "bullet_id": 19793,
@@ -81455,7 +82528,7 @@
           "weapon_id": 74114,
           "weapon_type": 2,
           "bullet_type": 1,
-          "bullet_id": 74114,
+          "bullet_id": 74112,
           "type": "weapon"
         }
       ]
@@ -81645,6 +82718,54 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19443,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "1010720": [
+    {
+      "name": "Guarding Shield+",
+      "parts": [
+        {
+          "damage": 36,
+          "coefficient": 1,
+          "count": 26,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            95
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168790,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170814,
           "type": "weapon"
         }
       ]
@@ -82102,10 +83223,10 @@
           "buff_chance": 0.01,
           "targeting": null,
           "centered": false,
-          "weapon_id": 165400,
+          "weapon_id": 165410,
           "weapon_type": 19,
           "bullet_type": 2,
-          "bullet_id": 165361,
+          "bullet_id": 165362,
           "type": "weapon"
         }
       ]
@@ -82819,7 +83940,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19947,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     },
@@ -83107,13 +84229,15 @@
             4,
             4
           ],
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 67910,
           "weapon_type": 25,
           "bullet_type": 2,
           "bullet_id": 19986,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 288,
@@ -83148,6 +84272,7 @@
             0,
             0
           ],
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 67920,
@@ -83179,7 +84304,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             500
@@ -83203,7 +84327,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19988,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         },
         {
           "damage": 222,
@@ -83221,7 +84346,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             0,
             500
@@ -83245,7 +84369,8 @@
           "weapon_type": 2,
           "bullet_type": 2,
           "bullet_id": 19989,
-          "type": "weapon"
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }
@@ -85936,6 +87061,7 @@
             0,
             0
           ],
+          "is_air": true,
           "targeting": null,
           "centered": false,
           "weapon_id": 161260,
@@ -85977,6 +87103,7 @@
             42,
             42
           ],
+          "is_air": true,
           "airdrop": true,
           "targeting": null,
           "centered": false,
@@ -86019,6 +87146,7 @@
             36,
             36
           ],
+          "is_air": true,
           "airdrop": true,
           "targeting": null,
           "centered": false,
@@ -87682,7 +88810,7 @@
       "name": "Full Firepower - Köln (Variant 5)",
       "parts": [
         {
-          "damage": 40,
+          "damage": 36,
           "coefficient": 1,
           "count": 6,
           "stat": "fp",
@@ -88494,7 +89622,6 @@
           "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
-          "is_air": true,
           "range": [
             25,
             200

@@ -19435,6 +19435,23 @@
       }
     ]
   },
+  "30374": {
+    "id": 30374,
+    "name": "Gear Skin Box (Aberrinth)",
+    "description": "Contains a random Aberrinth-themed gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxqiyuanqijing",
+    "rarity": 5,
+    "locations": [
+      "Secrets of the Abyss"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "30401": {
     "id": 30401,
     "name": "Random Gear Skin Box (Cruise Series 3)",
@@ -32274,6 +32291,23 @@
       }
     ]
   },
+  "30558": {
+    "id": 30558,
+    "name": "Selection Gear Skin Box (Aberrinth)",
+    "description": "Can be opened to receive 1 Aberrinth-themed gear skin of your choosing.",
+    "type": 13,
+    "icon": "props/appearanceboxqiyuanqijingzixuan",
+    "rarity": 5,
+    "locations": [
+      "Secrets of the Abyss"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "30911": {
     "id": 30911,
     "name": "T1 Custom Gear Lab Material Pack",
@@ -44986,6 +45020,23 @@
     "rarity": 4,
     "locations": [
       "8th Anniversary"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "59856": {
+    "id": 59856,
+    "name": "Necessary Prep Work",
+    "description": "The necessary prep work Essex made to ensure a smooth retrofitting process.",
+    "type": 7,
+    "icon": "props/59856",
+    "rarity": 5,
+    "locations": [
+      "Rhythm in Depot"
     ],
     "servers": [
       "EN",

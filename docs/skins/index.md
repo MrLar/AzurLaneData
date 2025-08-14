@@ -24,6 +24,7 @@ Skin Info contains relevant information of a ship skin. Provides the following p
 |  **custom_bgm**  |               `boolean`                |                                         Whether this skin has custom background music.                                          |
 |  **dynamic_bg**  |               `boolean`                |                                           Whether this skin has a dynamic background.                                           |
 |  **dual_form**   |               `boolean`                |                                             Whether this skin is a dual form skin.                                              |
+|   **l2d_plus**   |               `boolean`                |                                                 Whether this skin is a Live2D+.                                                 |
 
 # Skin Type
 

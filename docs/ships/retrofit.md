@@ -33,10 +33,10 @@ Extends [`BasicShipStats`](./index.md#basic-ship-stats)
 and [`ShipScalingStats`](./index.md#scaling-ship-stats) and additionally provides the following
 properties:
 
-|  Property  |                                                                                      Type                                                                                       |                                                Description                                                 |
-| :--------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-| **flat?**  |                                                                 [`BasicShipStats`](./index.md#basic-ship-stats)                                                                 |                              **(Optional)** Flat stats to grant to the ship.                               |
-| **ddg_m?** | [`BasicShipStats`](./index.md#basic-ship-stats) & [`ShipScalingStats`](./index.md#scaling-ship-stats) & [`{ skill_change: SkillUpgradeData }`](../common.md#skill-upgrade-data) | **(Optional)** Contains information for stat changes if this ship is a DDG being placed in the main fleet. |
+|  Property  |                                                                                                 Type                                                                                                 |                                                            Description                                                            |
+| :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+| **flat?**  |                                                                           [`BasicShipStats`](./index.md#basic-ship-stats)                                                                            |                                          **(Optional)** Flat stats to grant to the ship.                                          |
+| **ddg_m?** | [`BasicShipStats`](./index.md#basic-ship-stats) & [`ShipScalingStats`](./index.md#scaling-ship-stats) & [`{ skill_change: SkillUpgradeData[] }`](../common.md#skill-upgrade-data) & `{ id: number }` | **(Optional)** Contains information for stat, skill and ship ID changes for if this ship is a DDG being placed in the main fleet. |
 
 
 ### Computing Retrofit Stats

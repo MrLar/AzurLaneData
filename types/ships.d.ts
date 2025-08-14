@@ -127,7 +127,7 @@ export interface ShipScalingStats {
 
 export interface RetroStatsData extends ShipScalingStats, BasicShipStats {
     flat?: BasicShipStats
-    ddg_m?: BasicShipStats & ShipScalingStats & { skill_change: SkillUpgradeData }
+    ddg_m?: BasicShipStats & ShipScalingStats & { skill_change: SkillUpgradeData[], id: number }
     armor?: number
     range?: number[][][] | null
 }

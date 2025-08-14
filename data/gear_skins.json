@@ -18890,6 +18890,73 @@
       "CN"
     ]
   },
+  "3050": {
+    "id": 3050,
+    "name": "Ice Spear Shell",
+    "icon": "99171",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Ice Spell - Ice Spear Shell",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "3051": {
+    "id": 3051,
+    "name": "Ice Spike Shell",
+    "icon": "99172",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Ice Spell - Ice Spike Shell",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "3052": {
+    "id": 3052,
+    "name": "Frozen Wings",
+    "icon": "99173",
+    "types": [
+      10
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Ice Spell - Frozen Wings",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "3053": {
+    "id": 3053,
+    "name": "Frozen Aura",
+    "icon": "99174",
+    "types": [
+      10
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Ice Spell - Frozen Aura",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "4001": {
     "id": 4001,
     "name": "Little Blocks Shell",
@@ -22264,6 +22331,306 @@
     "rarity": 4,
     "theme": "Journey by Rail",
     "description": "Guides you to your destination and the strike team to their target.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4204": {
+    "id": 4204,
+    "name": "Blue and Red Butterfly Shell",
+    "icon": "101301",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Illusions of Aberrinth",
+    "description": "They flutter about the temple, parading their red and blue glow.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4205": {
+    "id": 4205,
+    "name": "Elder Elf Arrow Shell",
+    "icon": "101302",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Illusions of Aberrinth",
+    "description": "Dispel the darkness and purge the corrosion!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4206": {
+    "id": 4206,
+    "name": "Magic Projectile Shell",
+    "icon": "101303",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Illusions of Aberrinth",
+    "description": "Concentrate your mana into a singular strike and fire it at lightning speed!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4207": {
+    "id": 4207,
+    "name": "Magic Broom Torpedo",
+    "icon": "101304",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Illusions of Aberrinth",
+    "description": "The witch is here to clean up, and you better hope you're not a dust bunny!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4208": {
+    "id": 4208,
+    "name": "Elder Elf Arrow Torpedo",
+    "icon": "101305",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Illusions of Aberrinth",
+    "description": "Dispel the darkness and purge the corrosion!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4209": {
+    "id": 4209,
+    "name": "Elvish Wand Torpedo",
+    "icon": "101306",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Illusions of Aberrinth",
+    "description": "Contained within this glowing wand is an immense elvish power.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4210": {
+    "id": 4210,
+    "name": "Witch's Hat Shell",
+    "icon": "101307",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Illusions of Aberrinth",
+    "description": "Strangely, witches who strike don't often wear these. Or pants, for that matter.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4211": {
+    "id": 4211,
+    "name": "Magic-Infused Brew Shell",
+    "icon": "101308",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Illusions of Aberrinth",
+    "description": "It's brimming with mana and tastes a bit like grapes.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4212": {
+    "id": 4212,
+    "name": "Codex Magicus Shell",
+    "icon": "101309",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Illusions of Aberrinth",
+    "description": "Throwing your tome is a valid means of attack!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4213": {
+    "id": 4213,
+    "name": "Swampy Slimejuu (Torpedo)",
+    "icon": "101310",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Illusions of Aberrinth",
+    "description": "This one really needs to take a shower.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4214": {
+    "id": 4214,
+    "name": "Swampy Slimejuu (Fighter)",
+    "icon": "101310",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Illusions of Aberrinth",
+    "description": "This one really needs to take a shower.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4215": {
+    "id": 4215,
+    "name": "Swampy Slimejuu (Bomber)",
+    "icon": "101310",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Illusions of Aberrinth",
+    "description": "This one really needs to take a shower.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4216": {
+    "id": 4216,
+    "name": "Infernal Deviljuu (Torpedo)",
+    "icon": "101311",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Illusions of Aberrinth",
+    "description": "It goes tweet tweet and it's evil. Tweevil.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4217": {
+    "id": 4217,
+    "name": "Infernal Deviljuu (Fighter)",
+    "icon": "101311",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Illusions of Aberrinth",
+    "description": "It goes tweet tweet and it's evil. Tweevil.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4218": {
+    "id": 4218,
+    "name": "Infernal Deviljuu (Bomber)",
+    "icon": "101311",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Illusions of Aberrinth",
+    "description": "It goes tweet tweet and it's evil. Tweevil.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4219": {
+    "id": 4219,
+    "name": "Menacing Gargoyjuu (Torpedo)",
+    "icon": "101312",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Illusions of Aberrinth",
+    "description": "They're sometimes found in pairs and guarding bells.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4220": {
+    "id": 4220,
+    "name": "Menacing Gargoyjuu (Fighter)",
+    "icon": "101312",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Illusions of Aberrinth",
+    "description": "They're sometimes found in pairs and guarding bells.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4221": {
+    "id": 4221,
+    "name": "Menacing Gargoyjuu (Bomber)",
+    "icon": "101312",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Illusions of Aberrinth",
+    "description": "They're sometimes found in pairs and guarding bells.",
     "servers": [
       "EN",
       "JP",

@@ -25,6 +25,7 @@ export interface SkinInfo {
     custom_bgm: boolean
     dynamic_bg: boolean
     dual_form: boolean
+    l2d_plus: boolean
 }
 
 // this could be an enum, but TS enums add uneccesary overhead

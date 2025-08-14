@@ -69,6 +69,26 @@
     "icon": 16,
     "values": []
   },
+  "390": {
+    "description": "Ship is in Main Fleet mode which grants the following effects during battle:\n• Increased HP and decreased EVA compared to Vanguard Mode.\n• Missiles launch in a tall arc with low spread, can be manually aimed like BB shots (including the manual aim damage bonus), and trigger Timeslow.\n• Can load one Missile charge at once and gain one pre-loaded Missile charge.\n• Decrease damage taken by 20.0%.\n• Ship can cloak like a Carrier and when cloaked damage dealt is increased by 15.0% (this is analogous to the AA piercing of Carriers).\n• Main Gun weapon eff. range is set to 75.",
+    "opsi_description": null,
+    "name": "Main Fleet Mode",
+    "max": 1,
+    "id": 390,
+    "type": 2,
+    "icon": null,
+    "values": []
+  },
+  "392": {
+    "description": "Ship is in Vanguard mode which grants the following effects during battle:\n• Increase Main Gun bullet speed by {10.0%|The game claims it is increased by 20.0% in the limit break menu but it is in fact only 10.0%}.\n• Missiles are fired automatically and travel similar to torpedoes.",
+    "opsi_description": null,
+    "name": "Vanguard Mode",
+    "max": 1,
+    "id": 392,
+    "type": 2,
+    "icon": null,
+    "values": []
+  },
   "1001": {
     "description": "Increases the FP of all DDs in your fleet by $1. Does not stack with the same skill.",
     "opsi_description": null,
@@ -4677,7 +4697,7 @@
     ]
   },
   "10640": {
-    "description": "When an enemy aircraft is shot down within your fleet's Anti-Air Gun range: increases this ship's FP by $1 of its total AA stat (base stats plus gear stats) for 8s. Effect does not stack, but shooting down additional aircraft will refresh its duration.",
+    "description": "When an enemy aircraft is shot down within your fleet's Anti-Air Gun range: increases this ship's FP by $1 of its total AA stat (base stats + gear {+ tech + meowfficer inherit and talents|The game does not explicitly mention these but they do count.}) for 8s. Effect does not stack, but shooting down additional aircraft will refresh its duration.",
     "opsi_description": null,
     "name": "Iron Wing Annihilation",
     "max": 10,
@@ -5746,7 +5766,7 @@
     ]
   },
   "10990": {
-    "description": "Increases this ship's FP by $1 of its total AA stat (base stats plus extra stats gained from gear).",
+    "description": "Increases this ship's FP by $1 of its total AA stat (base stats + gear {+ tech + meowfficer inherit and talents|The game does not explicitly mention these but they do count.}).",
     "opsi_description": null,
     "name": "AA Firepower",
     "max": 10,
@@ -7662,7 +7682,7 @@
     ]
   },
   "11650": {
-    "description": "For each Eagle Union CV or CVL in the same fleet as this ship: increases this ship's AVI and AA by $1. Each time this ship's planes shoot down an enemy plane: increases this ship's AVI by $2. Can be stacked up to 5 times.",
+    "description": "Increases this ship's AVI and AA by $1 for each Eagle Union CV and CVL in the same fleet. When this ship's aircraft shoot down an enemy aircraft: gains 1 stack of Killer Formation (increases this ship's AVI by $2; can be stacked up to 5 times).",
     "opsi_description": null,
     "name": "Covering Formation",
     "max": 10,
@@ -7697,7 +7717,7 @@
     ]
   },
   "11660": {
-    "description": "When there are 4 or more Eagle Union ships in the same fleet as this ship: $1 chance to reduce DMG taken to 1 when a ship in your fleet is attacked by enemy {Planes|Applies to all aviation damage not just what is stated.}.",
+    "description": "When there are 4 or more Eagle Union ships in the same fleet as this ship: $1 chance to reduce DMG taken to 1 {when a ship in your fleet is hit by attacks that scale with aviation|Applies to all aviation damage not just what is stated.}.",
     "opsi_description": null,
     "name": "Absolute Evasion",
     "max": 10,
@@ -18124,7 +18144,7 @@
     ]
   },
   "14730": {
-    "description": "Increases this ship's AA by $1 of her total TRP stat (base stats plus gear) and decreases the Burn DMG she takes by $2. This ship heals herself for 1.0% of her max HP every 15s in combat.",
+    "description": "Increases this ship's AA by $1 of her total TRP stat (base stats + gear {+ tech + meowfficer inherit and talents|The game does not explicitly mention these but they do count.}) and decreases the Burn DMG she takes by $2. This ship heals herself for 1.0% of her max HP every 15s in combat.",
     "opsi_description": null,
     "name": "Combat Mechanic",
     "max": 10,
@@ -30338,7 +30358,7 @@
     ]
   },
   "17950": {
-    "description": "When this ship has Iris Libre or Vichya Dominion gear equipped: increases this ship's FP by $1 of her base EVA (the total of her base stats + gear). \nIncreases this ship's Evasion Rate by $2. When this ship takes DMG, if the enemy that hit her has SPD no higher than her: deploys a barrier (only 1 can be active at a time) that can negate DMG equal to up to 20.0% of the DMG taken from that attack. If this shield is destroyed: $3 chance to immediately fire this ship's Main Guns and restore 10 HP (3s cooldown between activations).",
+    "description": "When this ship has Iris Libre or Vichya Dominion gear equipped: increases this ship's FP by $1 of her base EVA (the total of her base stats + gear {+ tech + meowfficer inherit and talents|The game does not explicitly mention these but they do count.}). \nIncreases this ship's Evasion Rate by $2. When this ship takes DMG, if the enemy that hit her has SPD no higher than her: deploys a barrier (only 1 can be active at a time) that can negate DMG equal to up to 20.0% of the DMG taken from that attack. If this shield is destroyed: $3 chance to immediately fire this ship's Main Guns and restore 10 HP (3s cooldown between activations).",
     "opsi_description": null,
     "name": "Harder! Faster! Stronger!",
     "max": 10,
@@ -31655,6 +31675,135 @@
         "15.7%",
         "16.8%",
         "18.0%"
+      ]
+    ]
+  },
+  "18780": {
+    "description": "Increases this ship's FP and RLD by $1 and DMG dealt by 15.0%. Once per battle, when this ship's HP falls below 50.0% as a result of DMG taken: this ship evades all attacks for 5s; when this effect activates: decreases the ACC of all enemies on the battlefield by $2 until the battle ends.",
+    "opsi_description": null,
+    "name": "Blade of Iris Aspirations+",
+    "max": 10,
+    "id": 18780,
+    "type": 1,
+    "icon": 19780,
+    "values": [
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ]
+    ]
+  },
+  "18790": {
+    "description": "Improves this ship's airstrikes. When the battle starts, if this ship has Eagle Union gear equipped: increases this ship's FP and AVI by $1. Every 15s: applies a mark to all enemies on the battlefield, decreasing their EVA by $2 for 6s while launching a $3 seaplane attack (DMG is based on the skill's level). When an enemy marked by this skill is hit by Halford's torpedoes or her seaplane attack: increases that enemy's DMG taken by 8.0% for 8s.",
+    "opsi_description": null,
+    "name": "Nocturnal Judgment+",
+    "max": 10,
+    "id": 18790,
+    "type": 1,
+    "icon": 19790,
+    "values": [
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "4.0%",
+        "4.6%",
+        "5.2%",
+        "6.0%",
+        "6.6%",
+        "7.2%",
+        "8.0%",
+        "8.6%",
+        "9.2%",
+        "10.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "18860": {
+    "description": "Increases this ship's FP and TRP by $1. When this ship fires her Main Guns: fires an improved $2 special barrage (DMG is based on the skill's level) that inflicts a special Burn ailment for 15s to enemies hit. When the skill Blessings and Purity activates: the recon plane launched by the skill can target up to an additional 3 enemies.",
+    "opsi_description": null,
+    "name": "Causality Anchor+",
+    "max": 10,
+    "id": 18860,
+    "type": 1,
+    "icon": 19860,
+    "values": [
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "20.0%",
+        "22.2%",
+        "24.4%",
+        "26.6%",
+        "28.8%",
+        "31.0%",
+        "33.2%",
+        "35.4%",
+        "37.6%",
+        "40.0%"
       ]
     ]
   },
@@ -37801,6 +37950,26 @@
     "icon": 20100,
     "values": []
   },
+  "28281": {
+    "description": "Activates All Out Assault I: Duguay-Trouin once every 12 times the Main Guns are fired.",
+    "opsi_description": null,
+    "name": "All Out Assault I",
+    "max": 1,
+    "id": 28281,
+    "type": 1,
+    "icon": 20100,
+    "values": []
+  },
+  "28282": {
+    "description": "Activates All Out Assault II: Duguay-Trouin once every 8 times the Main Guns are fired.",
+    "opsi_description": null,
+    "name": "All Out Assault II",
+    "max": 1,
+    "id": 28282,
+    "type": 1,
+    "icon": 20100,
+    "values": []
+  },
   "29021": {
     "description": "Activates All Out Assault I: Eldridge once every 15 times the Main Guns are fired.",
     "opsi_description": null,
@@ -40591,6 +40760,26 @@
     "icon": 30500,
     "values": []
   },
+  "30511": {
+    "description": "Activates All Out Assault I: Le Hardi once every 15 times the Main Guns are fired.",
+    "opsi_description": null,
+    "name": "All Out Assault I",
+    "max": 1,
+    "id": 30511,
+    "type": 1,
+    "icon": 30510,
+    "values": []
+  },
+  "30512": {
+    "description": "Activates All Out Assault II: Le Hardi once every 10 times the Main Guns are fired.",
+    "opsi_description": null,
+    "name": "All Out Assault II",
+    "max": 1,
+    "id": 30512,
+    "type": 1,
+    "icon": 30510,
+    "values": []
+  },
   "60100": {
     "description": "When equipped by a Royal Navy ship: increases that ship's Evasion Rate by 5.0%.",
     "opsi_description": null,
@@ -40632,7 +40821,7 @@
     "values": []
   },
   "60140": {
-    "description": "When equipped by Reisalin Stout: 15s after the battle starts, performs an Item attack (DMG is based on the equipping character's FP) that inflicts the Item Mark debuff to enemies hit for 5s and decreases their SPD by 30.0% for 5s.",
+    "description": "When equipped by Reisalin Stout: 15s after the battle starts, performs an Item attack (DMG is based on the equipping character's FP) that inflicts the Item Mark debuff to enemies hit for 5s and decreases their SPD by {40.0%|The game incorrectly claims 30.0%.} for 5s.",
     "opsi_description": null,
     "name": "Slowdown",
     "max": 1,
@@ -48761,6 +48950,16 @@
     "icon": "augments/14360",
     "values": []
   },
+  "112260": {
+    "description": "When Environmental Mana reaches 100.0% enter Mana Surge status until removed by another effect.",
+    "opsi_description": null,
+    "name": "Mana Surge",
+    "max": 1,
+    "id": 112260,
+    "type": 2,
+    "icon": null,
+    "values": []
+  },
   "112270": {
     "description": "Increases this ship's FP by $1. Every 5s: fires a $2 special barrage and accumulates 15.0% Environmental Mana (DMG is based on the skill's level); if there is no enemy within 35 units of this ship when firing, the barrage fired is changed.\nInflicts 3 stacks of Break Symbol on all the enemies on the battlefield; when this ship's special barrage or Maximized Mana Surge hits an enemy: removes 1 stack of Break Symbol from the enemy; when an enemy's Break Symbol stack is reduced to 0: inflicts a special Armor Break status on that enemy for 3s, after which the enemy's Break Symbol stack is reset to 3.",
     "opsi_description": null,
@@ -52159,6 +52358,16 @@
       ]
     ]
   },
+  "150865": {
+    "description": "When there are 4 or more An Shan-class ships in your fleet when battle starts: trigger a special barrage 15s after battle begins.",
+    "opsi_description": null,
+    "name": "An Shan-class Sword Slash",
+    "max": 1,
+    "id": 150865,
+    "type": 1,
+    "icon": null,
+    "values": []
+  },
   "150870": {
     "description": "Provides 1 Missile Strike charge. Decreases this ship's Burn DMG taken by $1 and decreases the duration of Burns by 3s. Every 15s: fires a $2 special barrage (DMG is based on the skill's level) that inflicts a special Burn ailment to enemies hit, causing them to take 102 DMG per second for 15s.",
     "opsi_description": null,
@@ -54115,6 +54324,449 @@
       ]
     ]
   },
+  "151390": {
+    "description": "When a ship in your Main Fleet fires her Main Guns: this ship has a $1 chance to gain 1 stack of Lucky Target (can be stacked up to 3 times); each stack of Lucky Target increases this ship's LCK by 4 and Main Gun Crit Rate and Crit DMG by 4.0%.",
+    "opsi_description": null,
+    "name": "Lucky Target",
+    "max": 10,
+    "id": 151390,
+    "type": 1,
+    "icon": 151390,
+    "values": [
+      [
+        "50.0%",
+        "55.5%",
+        "61%",
+        "66.5%",
+        "72.0%",
+        "77.5%",
+        "83.0%",
+        "88.5%",
+        "94.0%",
+        "100.0%"
+      ]
+    ]
+  },
+  "151400": {
+    "description": "When this ship fires her Main Guns, or when the Fortunate Fire special barrage is activated: 40.0% chance to fire a $1 Fortunate Fire special barrage; each stack of Lucky Target owned increases this activation chance by 16.0%, and when the max stack is reached, this ship gains the Beyond Blessed status and fires a $1 Fortunate Fire special barrage (DMG is based on the skill's level and this ship's FP stat; this barrage can only activate up to 3 times every 5s).\nWhen this ship has Lucky Target, and if her HP is below 30.0%: increases this ship's Evasion Rate based on how low her HP is (up to $2); if this ship has the Beyond Blessed status, the max cap of this Evasion Rate buff becomes $3 instead.",
+    "opsi_description": null,
+    "name": "Blessed Child of Victory",
+    "max": 10,
+    "id": 151400,
+    "type": 2,
+    "icon": 151400,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "5.0%",
+        "5.0%",
+        "6.0%",
+        "6.0%",
+        "7.5%",
+        "7.5%",
+        "10%",
+        "10%",
+        "12%",
+        "15%"
+      ],
+      [
+        "10.0%",
+        "10.0%",
+        "12.0%",
+        "12.0%",
+        "15.0%",
+        "15.0%",
+        "20.0%",
+        "20.0%",
+        "24.0%",
+        "30%"
+      ]
+    ]
+  },
+  "151410": {
+    "description": "Increases this ship's EVA by $1. Every 2 times this ship fires her Main Guns: increases this ship's Evasion Rate by $2 for 7s.",
+    "opsi_description": null,
+    "name": "The Blade and Its Swift Partner",
+    "max": 10,
+    "id": 151410,
+    "type": 2,
+    "icon": 151410,
+    "values": [
+      [
+        "10.0%",
+        "12.2%",
+        "14.4%",
+        "16.6%",
+        "18.8%",
+        "21.0%",
+        "23.2%",
+        "25.4%",
+        "27.6%",
+        "30.0%"
+      ],
+      [
+        "4.0%",
+        "4.6%",
+        "5.2%",
+        "6.0%",
+        "6.6%",
+        "7.2%",
+        "8.0%",
+        "8.6%",
+        "9.2%",
+        "10.0%"
+      ]
+    ]
+  },
+  "151420": {
+    "description": "On the tactical map, each sortie, when the fleet this ship is in sinks an enemy fleet: increases this ship's DMG dealt by 3.0% (can be stacked up to 3 times). During battle, each time a ship in your Surface Fleet sinks an enemy: increases this ship's FP, TRP, and ACC by $1 until the battle ends (can be stacked up to 3 times).",
+    "opsi_description": null,
+    "name": "The Blade and a New Beginning",
+    "max": 10,
+    "id": 151420,
+    "type": 1,
+    "icon": 151420,
+    "values": [
+      [
+        "1.5%",
+        "1.8%",
+        "2.1%",
+        "2.5%",
+        "2.8%",
+        "3.1%",
+        "3.5%",
+        "3.9%",
+        "4.3%",
+        "5.0%"
+      ]
+    ]
+  },
+  "151430": {
+    "description": "When the battle starts: this ship recovers $1 of her max HP. If this ship has a Main Gun that fires HE ammo equipped: increases this ship's DMG dealt with HE ammo by $1 and increases her DMG against Light and Medium Armor enemies by $2.",
+    "opsi_description": null,
+    "name": "Purity Through Flames",
+    "max": 10,
+    "id": 151430,
+    "type": 2,
+    "icon": 151430,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ]
+    ]
+  },
+  "151440": {
+    "description": "When the battle starts: increases this ship's EVA by $1 for 20s. Every 15s: fires a $2 special barrage (DMG is based on the skill's level) and, at a 50.0% chance, fires an additional wave of this ship's equipped torpedoes.",
+    "opsi_description": null,
+    "name": "Honour Through Bravery",
+    "max": 10,
+    "id": 151440,
+    "type": 3,
+    "icon": 151440,
+    "values": [
+      [
+        "5.0%",
+        "5.9%",
+        "6.8%",
+        "8.0%",
+        "8.9%",
+        "9.8%",
+        "11.0%",
+        "12.2%",
+        "13.4%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "151450": {
+    "description": "Increases this ship's DMG dealt to Heavy Armor enemies by $1. When the battle starts, and when this ship launches an airstrike: launches an additional $2 airstrike with TBF Avengers with torpedoes that home in at close range and inflict the Flooding ailment to enemies hit, dealing continuous damage (DMG is based on the skill's level and this ship's AVI stat).",
+    "opsi_description": null,
+    "name": "Valorous Avengers+",
+    "max": 10,
+    "id": 151450,
+    "type": 1,
+    "icon": 11640,
+    "values": [
+      [
+        "4.0%",
+        "4.6%",
+        "5.2%",
+        "6.0%",
+        "6.6%",
+        "7.2%",
+        "8.0%",
+        "8.6%",
+        "9.2%",
+        "10.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "151460": {
+    "description": "When the battle starts, and when this ship's airstrikes finish loading: fires a $1 aerial barrage (DMG is based on the skill's level), gains 1 stack of Killer Formation, and deploys a shield (lasting 10s; can negate up to 8 enemy shells) around your frontmost Vanguard ship. If the shield created by this skill is destroyed during its active duration: restores 3.0% of your frontmost Vanguard ship's max HP. When a fleet this ship is NOT in starts a battle, while this ship is afloat: 25s after the battle starts, fires a $1 supporting barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Next Generation",
+    "max": 10,
+    "id": 151460,
+    "type": 1,
+    "icon": 151460,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "151480": {
+    "description": "Increases this ship's AVI and AA by $1 for each Eagle Union CV and CVL in the same fleet. When this ship's aircraft shoot down an enemy aircraft: gains 1 stack of Killer Formation (increases this ship's AVI by $2; can be stacked up to 5 times).",
+    "opsi_description": null,
+    "name": "Covering Formation",
+    "max": 10,
+    "id": 151480,
+    "type": 3,
+    "icon": 11650,
+    "values": [
+      [
+        "1.5%",
+        "1.8%",
+        "2.1%",
+        "2.5%",
+        "2.8%",
+        "3.1%",
+        "3.5%",
+        "3.9%",
+        "4.3%",
+        "5.0%"
+      ],
+      [
+        "1.0%",
+        "1.2%",
+        "1.4%",
+        "1.6%",
+        "1.8%",
+        "2.0%",
+        "2.2%",
+        "2.4%",
+        "2.7%",
+        "3.0%"
+      ]
+    ]
+  },
+  "151490": {
+    "description": "Increases this ship's FP by $1 and increases her Main Gun and torpedo efficiency by $1. When the frontmost ship in your Vanguard is a Iris Libre or Vichya Dominion ship: increases your Vanguard's cannon DMG dealt by $2. Every 20s: fires a $3 special barrage (DMG is based on the skill's level). When this barrage fires, if this ship has Iris Libre or Vichya Dominion gear equipped, improves this barrage; enemies hit by this barrage have their SPD decreased by 30.0% for 6s (does not stack).",
+    "opsi_description": null,
+    "name": "Dreadknight Peureux",
+    "max": 10,
+    "id": 151490,
+    "type": 1,
+    "icon": 151490,
+    "values": [
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "151500": {
+    "description": "While this ship is afloat: decreases your Main Fleet's DMG taken by $1. Every 20s: for 10s, decreases the DMG taken by the ship in your Surface Fleet with the lowest current HP percentage by $1. Once per battle, 30s after the battle starts, or when the HP of any ship in your Surface Fleet falls below 70.0% as a result of DMG taken: increases this ship's EVA by $2 and SPD by 6 and decreases the barrage activation interval of the skill Dreadknight Pereux to 10s.",
+    "opsi_description": null,
+    "name": "The Fearless Le Hardi",
+    "max": 10,
+    "id": 151500,
+    "type": 2,
+    "icon": 151500,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "15.0%",
+        "16.6%",
+        "18.2%",
+        "20.0%",
+        "21.6%",
+        "23.2%",
+        "25.0%",
+        "26.6%",
+        "28.2%",
+        "30.0%"
+      ]
+    ]
+  },
+  "151510": {
+    "description": "Increases this ship's AVI and AA by $1. If this ship has Eagle Union, Iris Libre, or Vichya Dominion aircraft equipped: increases this ship's aircraft efficiency by $2. Once per battle, when this ship's HP falls below 20.0% as a result of DMG taken: for 20s, decreases this ship's DMG taken by $3 and sets this ship's Burn DMG taken to 0.",
+    "opsi_description": null,
+    "name": "Guardian of the Sky",
+    "max": 10,
+    "id": 151510,
+    "type": 2,
+    "icon": 151510,
+    "values": [
+      [
+        "5.0%",
+        "5.9%",
+        "6.8%",
+        "8.0%",
+        "8.9%",
+        "9.8%",
+        "11.0%",
+        "12.2%",
+        "13.4%",
+        "15.0%"
+      ],
+      [
+        "5.0%",
+        "5.9%",
+        "6.8%",
+        "8.0%",
+        "8.9%",
+        "9.8%",
+        "11.0%",
+        "12.2%",
+        "13.4%",
+        "15.0%"
+      ],
+      [
+        "15.0%",
+        "16.1%",
+        "17.2%",
+        "18.3%",
+        "19.4%",
+        "20.5%",
+        "21.6%",
+        "22.7%",
+        "23.8%",
+        "25.0%"
+      ]
+    ]
+  },
+  "151520": {
+    "description": "When this ship launches an airstrike: launches an additional $1 special airstrike (DMG is based on the skill's level). Decreases the loading time of this ship's first 2 airstrikes by 50.0%.",
+    "opsi_description": null,
+    "name": "Divine Deeds Done Dreamily",
+    "max": 10,
+    "id": 151520,
+    "type": 1,
+    "icon": 151520,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
   "190000": {
     "description": "When the battle starts, if this ship has a Main Gun equipped that fires AP ammo: increases this ship's Crit Rate and Crit DMG by $1 and Main Gun efficiency by $2. When the battle starts: randomly selects a BB or BC in your fleet and gives her the Concerted Strike status; when the ship with this status fires her Main Guns, Dmitri Donskoi fires a $3 AP barrage (DMG is based on the skill's level) and inflicts the Pierced Mark status (lasting 5s; increases AP DMG taken by 5.0%) on all enemies on the battlefield (does not stack). Increases this ship's DMG dealt against enemies with the Pierced Mark status by $4.",
     "opsi_description": null,
@@ -54239,6 +54891,26 @@
     "id": 250012,
     "type": 1,
     "icon": 20000,
+    "values": []
+  },
+  "250211": {
+    "description": "Activates All Out Assault I: Duquesne once every 9 times the Main Guns are fired.",
+    "opsi_description": null,
+    "name": "All Out Assault I",
+    "max": 1,
+    "id": 250211,
+    "type": 1,
+    "icon": 20200,
+    "values": []
+  },
+  "250212": {
+    "description": "Activates All Out Assault II: Duquesne once every 6 times the Main Guns are fired.",
+    "opsi_description": null,
+    "name": "All Out Assault II",
+    "max": 1,
+    "id": 250212,
+    "type": 1,
+    "icon": 20200,
     "values": []
   },
   "800010": {
@@ -61274,7 +61946,7 @@
     ]
   },
   "1010720": {
-    "description": "Increases this ship's FP and ACC by $1 and the TRP and Main Gun efficiency of your Admiral Hipper-class {(including Tallinn; not including Mainz)|Tallinn does benefit from the effects which makes sense given she is actually an Adrmial Hipper-class ship despite the game only labeling her as Tallinn-class. On the other hand, while Mainz technically is a sister ship she does not count for this skill.} CAs by $2. Every 30s: deploys 2 rotating shields (lasting $3s) that can negate up to 10 enemy shells. Every 20s: fires a $4 special barrage (DMG is based on the skill's level).",
+    "description": "Increases this ship's FP and ACC by $1 and the TRP and Main Gun efficiency of your {Admiral Hipper-class|Due to the confusion that in-game and historical classes of ships may cause we would like to clarify that the ships that count are: Admiral Hipper herself, Prinz Eugen, Blücher and Tallinn. While there are more ships that one could argue should count the game does not count them. For the technical folk only ships with the \"hipper sister\" tag count.} CAs by $2. Every 30s: deploys 2 rotating shields (lasting $3s) that can negate up to 10 enemy shells. Every 20s: fires a $4 special barrage (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Guarding Shield+",
     "max": 10,

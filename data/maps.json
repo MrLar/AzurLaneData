@@ -67272,5 +67272,746 @@
     "time_limit": 300,
     "type": 6,
     "id": 1669
+  },
+  "1950001_t1_16760301": {
+    "name": "Secrets of the Abyss-T1",
+    "acv": 100,
+    "opsi": false,
+    "boss": {
+      "id": 16760301,
+      "hull": 1,
+      "nation": 98,
+      "name": "Benson",
+      "stats": {
+        "hp": 3060,
+        "fp": 35,
+        "trp": 85,
+        "avi": 0,
+        "aa": 105,
+        "hit": 19,
+        "eva": 15,
+        "spd": 20,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 25,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "bensen_2"
+    },
+    "buffs": [],
+    "expo_id": 1950013,
+    "dungeon_id": 1950013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1670
+  },
+  "1950001_t1_16760302": {
+    "name": "Secrets of the Abyss-T1",
+    "acv": 100,
+    "opsi": false,
+    "boss": {
+      "id": 16760302,
+      "hull": 1,
+      "nation": 98,
+      "name": "Bailey",
+      "stats": {
+        "hp": 3060,
+        "fp": 35,
+        "trp": 85,
+        "avi": 0,
+        "aa": 105,
+        "hit": 19,
+        "eva": 15,
+        "spd": 20,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 25,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "beili_2"
+    },
+    "buffs": [],
+    "expo_id": 1950013,
+    "dungeon_id": 1950013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1671
+  },
+  "1950001_t2_16760303": {
+    "name": "Secrets of the Abyss-T2",
+    "acv": 130,
+    "opsi": false,
+    "boss": {
+      "id": 16760303,
+      "hull": 6,
+      "nation": 98,
+      "name": "Bois Belleau, the Winter General",
+      "stats": {
+        "hp": 5200,
+        "fp": 70,
+        "trp": 105,
+        "avi": 0,
+        "aa": 95,
+        "hit": 20,
+        "eva": 17,
+        "spd": 20,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "beilaosenlin"
+    },
+    "buffs": [],
+    "expo_id": 1950113,
+    "dungeon_id": 1950113,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1672
+  },
+  "1950001_t3_16760304": {
+    "name": "Secrets of the Abyss-T3",
+    "acv": 165,
+    "opsi": false,
+    "boss": {
+      "id": 16760304,
+      "hull": 4,
+      "nation": 98,
+      "name": "Kingly Deviljuu",
+      "stats": {
+        "hp": 12000,
+        "fp": 115,
+        "trp": 90,
+        "avi": 0,
+        "aa": 135,
+        "hit": 21,
+        "eva": 19,
+        "spd": 26,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        15,
+        12,
+        12
+      ],
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "jiulaimu_emo"
+    },
+    "buffs": [],
+    "expo_id": 1950213,
+    "dungeon_id": 1950213,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1673
+  },
+  "1950002_t4_16761301": {
+    "name": "Secrets of the Abyss-T4",
+    "acv": 210,
+    "opsi": false,
+    "boss": {
+      "id": 16761301,
+      "hull": 3,
+      "nation": 98,
+      "name": "Deutschland, the Demon Princess",
+      "stats": {
+        "hp": 21800,
+        "fp": 120,
+        "trp": 114,
+        "avi": 0,
+        "aa": 165,
+        "hit": 23,
+        "eva": 21,
+        "spd": 16,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 45,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "deyizhi_2"
+    },
+    "buffs": [],
+    "expo_id": 1951013,
+    "dungeon_id": 1951013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1674
+  },
+  "1950002_t5_16761302": {
+    "name": "Secrets of the Abyss-T5",
+    "acv": 270,
+    "opsi": false,
+    "boss": {
+      "id": 16761302,
+      "hull": 6,
+      "nation": 98,
+      "name": "Albion, the Lord of Aberrinth",
+      "stats": {
+        "hp": 22800,
+        "fp": 120,
+        "trp": 0,
+        "avi": 0,
+        "aa": 240,
+        "hit": 25,
+        "eva": 19,
+        "spd": 16,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 55,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "aerbien_2"
+    },
+    "buffs": [],
+    "expo_id": 1951113,
+    "dungeon_id": 1951113,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1675
+  },
+  "1950002_t6_16761303": {
+    "name": "Secrets of the Abyss-T6",
+    "acv": 330,
+    "opsi": false,
+    "boss": {
+      "id": 16761303,
+      "hull": 2,
+      "nation": 98,
+      "name": "Emden, the Calamitous One",
+      "stats": {
+        "hp": 25600,
+        "fp": 170,
+        "trp": 140,
+        "avi": 160,
+        "aa": 240,
+        "hit": 26,
+        "eva": 27,
+        "spd": 16,
+        "luck": 8,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "aimudeng_2"
+    },
+    "buffs": [],
+    "expo_id": 1951213,
+    "dungeon_id": 1951213,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1676
+  },
+  "1950011_ht1_16762301": {
+    "name": "Secrets of the Abyss-HT1",
+    "acv": 455,
+    "opsi": false,
+    "boss": {
+      "id": 16762301,
+      "hull": 1,
+      "nation": 98,
+      "name": "Benson",
+      "stats": {
+        "hp": 29600,
+        "fp": 125,
+        "trp": 280,
+        "avi": 0,
+        "aa": 210,
+        "hit": 44,
+        "eva": 45,
+        "spd": 18,
+        "luck": 18,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 75,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "bensen_2"
+    },
+    "buffs": [],
+    "expo_id": 1952013,
+    "dungeon_id": 1952013,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1677
+  },
+  "1950011_ht1_16762302": {
+    "name": "Secrets of the Abyss-HT1",
+    "acv": 455,
+    "opsi": false,
+    "boss": {
+      "id": 16762302,
+      "hull": 1,
+      "nation": 98,
+      "name": "Bailey",
+      "stats": {
+        "hp": 29600,
+        "fp": 125,
+        "trp": 280,
+        "avi": 0,
+        "aa": 210,
+        "hit": 44,
+        "eva": 45,
+        "spd": 18,
+        "luck": 18,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 75,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "beili_2"
+    },
+    "buffs": [],
+    "expo_id": 1952013,
+    "dungeon_id": 1952013,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1678
+  },
+  "1950011_ht2_16762303": {
+    "name": "Secrets of the Abyss-HT2",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "id": 16762303,
+      "hull": 6,
+      "nation": 98,
+      "name": "Bois Belleau, the Winter General",
+      "stats": {
+        "hp": 46820,
+        "fp": 81,
+        "trp": 0,
+        "avi": 445,
+        "aa": 428,
+        "hit": 32,
+        "eva": 20,
+        "spd": 18,
+        "luck": 18,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "beilaosenlin"
+    },
+    "buffs": [],
+    "expo_id": 1952113,
+    "dungeon_id": 1952113,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1679
+  },
+  "1950011_ht3_16762304": {
+    "name": "Secrets of the Abyss-HT3",
+    "acv": 775,
+    "opsi": false,
+    "boss": {
+      "id": 16762304,
+      "hull": 4,
+      "nation": 98,
+      "name": "Kingly Deviljuu",
+      "stats": {
+        "hp": 62500,
+        "fp": 255,
+        "trp": 150,
+        "avi": 0,
+        "aa": 325,
+        "hit": 38,
+        "eva": 44,
+        "spd": 18,
+        "luck": 20,
+        "armor": 1
+      },
+      "cld": [
+        15,
+        12,
+        12
+      ],
+      "level": 85,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "jiulaimu_emo"
+    },
+    "buffs": [],
+    "expo_id": 1952213,
+    "dungeon_id": 1952213,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1680
+  },
+  "1950012_ht4_16763301": {
+    "name": "Secrets of the Abyss-HT4",
+    "acv": 850,
+    "opsi": false,
+    "boss": {
+      "id": 16763301,
+      "hull": 3,
+      "nation": 98,
+      "name": "Deutschland, the Demon Princess",
+      "stats": {
+        "hp": 78200,
+        "fp": 230,
+        "trp": 180,
+        "avi": 0,
+        "aa": 250,
+        "hit": 66,
+        "eva": 44,
+        "spd": 16,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 95,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "deyizhi_2"
+    },
+    "buffs": [],
+    "expo_id": 1953013,
+    "dungeon_id": 1953013,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1681
+  },
+  "1950012_ht5_16763302": {
+    "name": "Secrets of the Abyss-HT5",
+    "acv": 1100,
+    "opsi": false,
+    "boss": {
+      "id": 16763302,
+      "hull": 6,
+      "nation": 98,
+      "name": "Albion, the Lord of Aberrinth",
+      "stats": {
+        "hp": 91000,
+        "fp": 160,
+        "trp": 0,
+        "avi": 300,
+        "aa": 390,
+        "hit": 43,
+        "eva": 53,
+        "spd": 20,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "aerbien_2"
+    },
+    "buffs": [],
+    "expo_id": 1953113,
+    "dungeon_id": 1953113,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1682
+  },
+  "1950012_ht6_16763303": {
+    "name": "Secrets of the Abyss-HT6",
+    "acv": 1410,
+    "opsi": false,
+    "boss": {
+      "id": 16763303,
+      "hull": 2,
+      "nation": 98,
+      "name": "Emden, the Calamitous One",
+      "stats": {
+        "hp": 106000,
+        "fp": 310,
+        "trp": 210,
+        "avi": 310,
+        "aa": 390,
+        "hit": 67,
+        "eva": 54,
+        "spd": 16,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "aimudeng_2"
+    },
+    "buffs": [],
+    "expo_id": 1953213,
+    "dungeon_id": 1953213,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1683
+  },
+  "1950025_sp_16764301": {
+    "name": "Secrets of the Abyss-SP",
+    "acv": 1820,
+    "opsi": false,
+    "boss": {
+      "id": 16764301,
+      "hull": 5,
+      "nation": 98,
+      "name": "Clemenceau, the Grand Mage",
+      "stats": {
+        "hp": 155000,
+        "fp": 240,
+        "trp": 320,
+        "avi": 310,
+        "aa": 440,
+        "hit": 71,
+        "eva": 60,
+        "spd": 20,
+        "luck": 30,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "kelaimengsuo"
+    },
+    "buffs": [],
+    "expo_id": 1954013,
+    "dungeon_id": 1954013,
+    "time_limit": 180,
+    "type": 5,
+    "id": 1684
+  },
+  "1950026_extra_16765001": {
+    "name": "Secrets of the Abyss-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16765001,
+      "hull": 2,
+      "nation": 98,
+      "name": "Emden, the Calamitous One",
+      "stats": {
+        "hp": 800000,
+        "fp": 400,
+        "trp": 400,
+        "avi": 0,
+        "aa": 400,
+        "hit": 100,
+        "eva": 0,
+        "spd": 25,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "aimudeng_2"
+    },
+    "buffs": [],
+    "expo_id": 1955001,
+    "dungeon_id": 1955001,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1685
+  },
+  "1950026_extra_16765002": {
+    "name": "Secrets of the Abyss-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16765002,
+      "hull": 2,
+      "nation": 98,
+      "name": "Emden, the Calamitous One",
+      "stats": {
+        "hp": 800,
+        "fp": 400,
+        "trp": 400,
+        "avi": 0,
+        "aa": 400,
+        "hit": 100,
+        "eva": 0,
+        "spd": 25,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "aimudeng_2b"
+    },
+    "buffs": [],
+    "expo_id": 1955001,
+    "dungeon_id": 1955001,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1686
+  },
+  "1950026_extra_16765101": {
+    "name": "Secrets of the Abyss-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16765101,
+      "hull": 2,
+      "nation": 98,
+      "name": "Emden, the Calamitous One",
+      "stats": {
+        "hp": 800000,
+        "fp": 800,
+        "trp": 800,
+        "avi": 0,
+        "aa": 600,
+        "hit": 9999,
+        "eva": 0,
+        "spd": 25,
+        "luck": 99,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "aimudeng_2"
+    },
+    "buffs": [],
+    "expo_id": 1955002,
+    "dungeon_id": 1955002,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1687
+  },
+  "1950026_extra_16765102": {
+    "name": "Secrets of the Abyss-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16765102,
+      "hull": 2,
+      "nation": 98,
+      "name": "Emden, the Calamitous One",
+      "stats": {
+        "hp": 800,
+        "fp": 800,
+        "trp": 800,
+        "avi": 0,
+        "aa": 600,
+        "hit": 9999,
+        "eva": 0,
+        "spd": 25,
+        "luck": 99,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "aimudeng_2b"
+    },
+    "buffs": [],
+    "expo_id": 1955002,
+    "dungeon_id": 1955002,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1688
   }
 }
