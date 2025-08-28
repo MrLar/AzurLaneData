@@ -73,4 +73,5 @@ interface BossData {
     icon: string
     // width, height, length
     cld: number[]
+    prio: number
 }

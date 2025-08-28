@@ -38,6 +38,7 @@ Represents a boss enemy. Provides the following properties:
 |      **icon**      |            `string`             |                       The icon the enemy uses lower cased. Available under `https://als.mrlar.dev/compact/<icon>.webp`.                       |
 |      **cld**       |           `number[]`            |                                                 The bosses hitbox size in x,y,z coordinates.                                                  |
 |       **id**       |            `number`             |                                                           The enemy ID of the boss.                                                           |
+|      **prio**      |            `number`             |                                                       The priority level the boss has.                                                        |
 
 # Boss Buff
 

@@ -28,7 +28,7 @@ export interface ShipData {
     flags: number
     name: string
     rarity: Rarity
-    tags: string[]
+    tags: string[] | string[][]
     nation: Nation
     hull: Hull
     skills: number[][]
@@ -90,6 +90,7 @@ export interface RetroData {
     ghost_equipment?: GhostEquipmentData[]
     date: number
     id?: number
+    tags?: string[]
 }
 
 export interface RetrofitNode {

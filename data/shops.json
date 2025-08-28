@@ -1849,6 +1849,20 @@
     "manual_refresh": false,
     "items": [
       {
+        "id": 3400,
+        "level": 0,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/3400",
+        "name": "40cm Type 94 Naval Gun Parts (Cargo)",
+        "limit": 2,
+        "cost": 800,
+        "limit_type": 1
+      },
+      {
         "id": 3800,
         "level": 0,
         "type": 1,

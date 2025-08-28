@@ -24,7 +24,7 @@ export interface BaseEquipData<T> {
     servers: AlServer[]
     type: T
     limit_group: number
-    labels: string[]
+    labels: string[] | string[][]
     speciality: string
     obtainable: boolean
     important: boolean

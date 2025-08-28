@@ -80,7 +80,7 @@ it extends [Damaging Barrage](#damaging-barrage) and additionally provides the f
 |     **range**     |                    `number`                    |                                                    Diameter of this slash.                                                    |
 
 Note: The damage property of slashes is scaled by the average level of all ships as described by `level_of`.
-The final damage is equal to \\(AverageLevel * damage + fix_damage\\).
+The final damage is equal to \\(AverageLevel \times damage + fix\_damage\\).
 
 # Barrage Summon
 
