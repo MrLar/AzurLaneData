@@ -19,6 +19,7 @@ export interface Dorm3DRoom {
     servers: AlServer[]
     collectables: number[]
     icon: string
+    furniture: number[]
 }
 
 export interface Dorm3DInvite {
@@ -36,7 +37,6 @@ export interface Dorm3DCharacter {
     icon: string
     servers: AlServer[]
     gifts: number[]
-    furniture: number[]
     rarity: Rarity
     favor_levels: FavorLevel[]
 }

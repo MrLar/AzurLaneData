@@ -15879,7 +15879,8 @@
     "limited": "Universe in Unison",
     "special": false,
     "other": [
-      2
+      1,
+      4
     ],
     "maps": [],
     "notes": [
@@ -15897,7 +15898,8 @@
     "limited": "Universe in Unison",
     "special": false,
     "other": [
-      2
+      1,
+      4
     ],
     "maps": [],
     "notes": [
@@ -21804,11 +21806,12 @@
     "limited": null,
     "special": false,
     "other": [
-      13
+      13,
+      14
     ],
     "maps": [],
     "notes": [
-      "Available in a past META Showdown"
+      "Available in a past META Showdown or Dossier Analysis"
     ],
     "events": []
   },
@@ -22096,7 +22099,7 @@
     ],
     "maps": [],
     "notes": [
-      "Available in META Showdown"
+      "Available in a past META Showdown"
     ],
     "events": []
   },
@@ -22113,6 +22116,22 @@
     "maps": [],
     "notes": [
       "Available as a Reward from Cruise Pass Season 24"
+    ],
+    "events": []
+  },
+  "30051": {
+    "id": 30051,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [
+      13
+    ],
+    "maps": [],
+    "notes": [
+      "Available in META Showdown"
     ],
     "events": []
   }

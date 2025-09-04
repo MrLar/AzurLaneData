@@ -94188,7 +94188,7 @@
     ],
     "labels": [
       "hnlms",
-      "ca",
+      "cb",
       "mg",
       "he"
     ],
@@ -130462,6 +130462,73 @@
       }
     ],
     "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "150820": {
+    "icon": "150820",
+    "id": 150820,
+    "name": "Sakuran Summons",
+    "rarity": 4,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60930
+    ],
+    "nation": 3,
+    "limit_group": 150820,
+    "hull_restriction": [],
+    "max": 11,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      {
+        "stat": "eva",
+        "values": [
+          6,
+          7,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      }
+    ],
+    "labels": [
+      "ijn",
       "dev"
     ],
     "speciality": "N/A",

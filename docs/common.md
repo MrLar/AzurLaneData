@@ -27,7 +27,7 @@ number represents an in-game Nation (missing values do not exit in game):
 |   2   |   Royal    |         Royal Navy (HMS)         |
 |   3   |   Sakura   |       Sakura Empire (IJN)        |
 |   4   | Iron Blood |     Iron Blood (KMS or SMS)      |
-|   5   |   Dragon   |   Dragon Empery (ROC or PRAN)    |
+|   5   |   Dragon   |  Dragon Empery (ROC or PRAN)\*   |
 |   6   | Sardengna  |      Sardengna Empite (RN)       |
 |   7   |  Northern  |    Northern Parliarment (SN)     |
 |   8   |    Iris    |        Iris Libre (FFNF)         |
@@ -56,6 +56,7 @@ number represents an in-game Nation (missing values do not exit in game):
 |  112  |    B★RS    |        BLACK★ROCK SHOOTER        |
 |  113  |   Yumia    |          Atelier Yumia           |
 
+\* The prefix for all Chinese ships is no longer displayed in-game as of 28th of August 2025.
 
 # Hull
 

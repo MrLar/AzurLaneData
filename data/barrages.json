@@ -683,7 +683,7 @@
           "weapon_id": 67530,
           "weapon_type": 2,
           "bullet_type": 2,
-          "bullet_id": 2125,
+          "bullet_id": 2120,
           "type": "weapon"
         },
         {
@@ -81380,6 +81380,204 @@
       ]
     }
   ],
+  "801870": [
+    {
+      "name": "Burning Claws",
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 22,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.9,
+            0.8
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 2,
+          "pierce": 0,
+          "shell_range": [
+            100,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 170852,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170851,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Standard Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
+          ]
+        },
+        {
+          "damage": 55,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 3,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "tracker": {
+            "angular": 1.6,
+            "range": 14
+          },
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 170853,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 170852,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Standard Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
+          ]
+        }
+      ]
+    }
+  ],
+  "801902": [
+    {
+      "name": "Ashen Might - Yuudachi II",
+      "parts": [
+        {
+          "damage": 65,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 100,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Random",
+          "centered": false,
+          "weapon_id": 169130,
+          "weapon_type": 17,
+          "bullet_type": 4,
+          "bullet_id": 167701,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Special Burn (610 DMG with 1 tick every 5 seconds for 10.1s, ID: 801875)"
+          ]
+        },
+        {
+          "damage": 75,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 100,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Random",
+          "centered": false,
+          "weapon_id": 169130,
+          "weapon_type": 17,
+          "bullet_type": 4,
+          "bullet_id": 167702,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Special Burn (610 DMG with 1 tick every 5 seconds for 10.1s, ID: 801875)"
+          ]
+        }
+      ]
+    }
+  ],
   "901010": [
     {
       "name": "Slash - Spread (Level 1)",
@@ -81591,6 +81789,95 @@
           "weapon_type": 3,
           "bullet_type": 3,
           "bullet_id": 19889,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "1005070": [
+    {
+      "name": "Chevalier's Bouclier+",
+      "parts": [
+        {
+          "damage": 35,
+          "coefficient": 1,
+          "count": 32,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 2,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168870,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161165,
+          "type": "weapon"
+        },
+        {
+          "damage": 65,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 3,
+          "velocity": 7,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168880,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 161166,
           "type": "weapon"
         }
       ]
@@ -81911,6 +82198,193 @@
           "bullet_type": 1,
           "bullet_id": 19005,
           "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "1010190": [
+    {
+      "name": "Vengeance+",
+      "parts": [
+        {
+          "damage": 291,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "avi",
+          "ratio": 0.8,
+          "armor_mod": [
+            0.7,
+            1.05,
+            1.25
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "is_air": true,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 1,
+          "angle": 13,
+          "splash": 28,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            42,
+            42
+          ],
+          "airdrop": true,
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168990,
+          "weapon_type": 2,
+          "bullet_type": 2,
+          "bullet_id": 170820,
+          "type": "weapon",
+          "buffs": [
+            "Increase damage taken from Yorktown by 12.0%"
+          ],
+          "buff_chance": 1
+        },
+        {
+          "damage": 111,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "avi",
+          "ratio": 0.8,
+          "armor_mod": [
+            0.8,
+            0.85,
+            1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "is_air": true,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 1,
+          "angle": 25,
+          "splash": 16,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            33,
+            33
+          ],
+          "airdrop": true,
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 168990,
+          "weapon_type": 2,
+          "bullet_type": 2,
+          "bullet_id": 170821,
+          "type": "weapon",
+          "buffs": [
+            "Increase damage taken from Yorktown by 12.0%"
+          ],
+          "buff_chance": 1
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "avi",
+          "ratio": 0.8,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": true,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 20,
+          "splash": 0,
+          "velocity": 3,
+          "pierce": 50,
+          "shell_range": [
+            150,
+            150
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": true,
+          "weapon_id": 169020,
+          "weapon_type": 1,
+          "bullet_type": 5,
+          "bullet_id": 170822,
+          "type": "weapon"
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 60,
+          "stat": "avi",
+          "ratio": 0.8,
+          "armor_mod": [
+            1,
+            0.8,
+            0.6
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 20,
+          "splash": 0,
+          "velocity": 2,
+          "pierce": 0,
+          "shell_range": [
+            75,
+            85
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": true,
+          "weapon_id": 169020,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170823,
+          "type": "weapon",
+          "buffs": [
+            "Increase damage taken from Yorktown by 12.0%"
+          ],
+          "buff_chance": 1
         }
       ]
     }
@@ -83280,6 +83754,99 @@
       ]
     }
   ],
+  "1011240": [
+    {
+      "name": "The Unsinkable Lucky Ship+",
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 46,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169100,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170825,
+          "type": "weapon"
+        },
+        {
+          "damage": 200,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 3,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            160
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169110,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 170826,
+          "type": "weapon",
+          "buffs": [
+            "Special Flood (179 DMG with 1 tick every second for 10s, ID: 1011246)"
+          ],
+          "buff_chance": 1
+        }
+      ]
+    }
+  ],
   "1011250": [
     {
       "name": "Leyte Gulf's Blitz+",
@@ -83560,6 +84127,54 @@
           "weapon_type": 3,
           "bullet_type": 3,
           "bullet_id": 79311,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "1011450": [
+    {
+      "name": "Firepower Overload+",
+      "parts": [
+        {
+          "damage": 1000,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            20
+          ],
+          "aim_type": 0,
+          "angle": 60,
+          "splash": 30,
+          "velocity": 1,
+          "pierce": 0,
+          "shell_range": [
+            20,
+            20
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": true,
+          "weapon_id": 169120,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 170827,
           "type": "weapon"
         }
       ]
@@ -86182,6 +86797,59 @@
           "weapon_type": 3,
           "bullet_type": 3,
           "bullet_id": 160959,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "1019030": [
+    {
+      "name": "Monarch's Coercion+",
+      "parts": [
+        {
+          "damage": 158,
+          "coefficient": 1,
+          "count": 13,
+          "stat": "fp",
+          "ratio": 1.2,
+          "armor_mod": [
+            0.6,
+            1.4,
+            1.3
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            95
+          ],
+          "aim_type": 1,
+          "angle": 60,
+          "splash": 14,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            102.5,
+            117.5
+          ],
+          "spread": [
+            20,
+            20
+          ],
+          "buffs": [
+            "Slow by 60% for 6s",
+            "Reduce EVA by 10% for 6s"
+          ],
+          "buff_chance": 1,
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169060,
+          "weapon_type": 19,
+          "bullet_type": 2,
+          "bullet_id": 169050,
           "type": "weapon"
         }
       ]

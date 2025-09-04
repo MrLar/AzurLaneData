@@ -17,6 +17,7 @@ Dorm3D Room represents the data associated with a room/location in the Dorm3D fe
 |   **servers**    |      [`AlServer`](#al-server)      |                                                   Servers this room exists on                                                    |
 | **collectables** |             `number[]`             |                     List of [`Dorm3DCollectable`](#dorm3d-collectable) item ids available in this location.                      |
 |    **icons**     |              `string`              |                            The icon of the room. Available under `https://al.mrlar.dev/<icon>.webp`.                             |
+|  **furniture**   |             `number[]`             |                     List of [`Dorm3DFurniture`](#dorm3d-furniture) item ids that can be placed in this room.                     |
 
 # Dorm3D Invite
 
@@ -34,18 +35,17 @@ Dorm3D Invite represents the data associated inviting a character to a location:
 
 Dorm3D Character represents the data associated with character/ship that is available in Dorm3D:
 
-|     Property     |              Type               |                                            Description                                            |
-| :--------------: | :-----------------------------: | :-----------------------------------------------------------------------------------------------: |
-|      **id**      |            `number`             |                                   The ID of the ship/character.                                   |
-|     **gid**      |            `number`             |                                     The group ID of the ship.                                     |
-|     **name**     |            `string`             |                                    The name of the character.                                     |
-|   **room_id**    |            `number`             |                                   The ID of their private room.                                   |
-|     **icon**     |            `string`             |         The icon of the character. . Available under `https://al.mrlar.dev/<icon>.webp`.          |
-|   **servers**    |    [`AlServer`](#al-server)     |                                 Servers this character exists on                                  |
-|    **gifts**     |           `number[]`            |        List of [`Dorm3DGift`](#dorm3d-gift) item ids that can be given to this character.         |
-|  **furniture**   |           `number[]`            | List of [`Dorm3DFurniture`](#dorm3d-furniture) item ids that can be placed in their private room. |
-|    **rarity**    | [`Rarity`](../common.md#rarity) |                               The (ship) rarity of this character.                                |
-| **favor_levels** | [`FavorLevel[]`](#favor-level)  |                              Favor levels this character can reach.                               |
+|     Property     |              Type               |                                    Description                                     |
+| :--------------: | :-----------------------------: | :--------------------------------------------------------------------------------: |
+|      **id**      |            `number`             |                           The ID of the ship/character.                            |
+|     **gid**      |            `number`             |                             The group ID of the ship.                              |
+|     **name**     |            `string`             |                             The name of the character.                             |
+|   **room_id**    |            `number`             |                           The ID of their private room.                            |
+|     **icon**     |            `string`             |  The icon of the character. . Available under `https://al.mrlar.dev/<icon>.webp`.  |
+|   **servers**    |    [`AlServer`](#al-server)     |                          Servers this character exists on                          |
+|    **gifts**     |           `number[]`            | List of [`Dorm3DGift`](#dorm3d-gift) item ids that can be given to this character. |
+|    **rarity**    | [`Rarity`](../common.md#rarity) |                        The (ship) rarity of this character.                        |
+| **favor_levels** | [`FavorLevel[]`](#favor-level)  |                       Favor levels this character can reach.                       |
 
 # Favor Level
 

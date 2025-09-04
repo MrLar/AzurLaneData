@@ -703,6 +703,50 @@
     ],
     "contains": []
   },
+  "323": {
+    "name": "Dream in the Clouds",
+    "description": "Waving clouds, a soft sensation, a comfiness reminiscent of marshmallows. Get together and relax in the sweet fragrance.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 5,
+    "id": 323,
+    "purchaseable": true,
+    "expires": 0,
+    "icon": "dorm3d/items/3ddrom_ankeleiqi_premiumfurniture8",
+    "room_id": 3,
+    "furni_type": 5,
+    "exclusive": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "401": {
+    "name": "Seaside Slide",
+    "description": "Vacation time starts now! Sunlight under the palm tree, a view by the refreshing coast, and water splashes and sea breezes. Your mind is instantly wrapped up in the joys of a tropical vacation.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 6,
+    "id": 401,
+    "purchaseable": true,
+    "expires": 1758178800000,
+    "icon": "dorm3d/items/3ddrom_beach_premiumfurniture1",
+    "room_id": 4,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "1101": {
     "name": "Rabbit's Cradle",
     "description": "A bed designed for comfortable sleep. Its sturdy structure and stability are top-notch.\nIf you sleep here holding a soft, bunny-shaped cushion, you might just dream of a carrot farm under the stars…",

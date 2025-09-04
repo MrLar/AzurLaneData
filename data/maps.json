@@ -66871,7 +66871,7 @@
     "boss": {
       "id": 16734301,
       "hull": 7,
-      "nation": 95,
+      "nation": 97,
       "name": "Glorious META",
       "stats": {
         "hp": 155000,
@@ -69679,5 +69679,61 @@
     "time_limit": 300,
     "type": 6,
     "id": 1688
+  },
+  "meta_show_300_295300": {
+    "name": "Meta Showdown: Yuudachi META (Tier.15)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 295300,
+      "hull": 1,
+      "nation": 97,
+      "name": "Yuudachi META (Tier.15)",
+      "stats": {
+        "hp": 1540000,
+        "fp": 218,
+        "trp": 381,
+        "avi": 0,
+        "aa": 302,
+        "hit": 110,
+        "eva": 75,
+        "spd": 30,
+        "luck": 50,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 126,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "xili_alter",
+      "prio": 90
+    },
+    "buffs": [],
+    "buffs_display": [
+      [
+        {
+          "name": "I'm Gonna Tear You Up",
+          "description": "Yuudachi META continuously locks on to the ship in your fleet with the current highest HP percentage, and inflicts considerable DMG against that ship after 5s with her claws while inflicting a guaranteed special Burn that lasts 20s. She can apply this Burn even if you evade the attack. The special Burn inflicts Burn DMG every 2s. Being afflicted with this special Burn repeatedly will only reset its duration, not stack its effect. She can only perform this attack once every 5s.)\nIf, during the continuous lock-on, a different ship becomes the one with the highest current HP percentage, the lock-on will reset.",
+          "color": 1
+        }
+      ],
+      [
+        {
+          "name": "I'm Gonna Beat You Up",
+          "description": "Yuudachi META's torpedoes have a 30.0% chance to inflict a special Burn that lasts 6s. She can apply this special Burn even if you evade the attack. This special Burn inflicts Burn DMG every 1s and can stack with the special Burn inflicted by her claw attack.\nYuudachi META deals 30.0% more DMG against enemies afflicted with Burn, and her DMG taken decreases by 10.0% for each enemy afflicted with Burn present on the battlefield.",
+          "color": 3
+        }
+      ]
+    ],
+    "expo_id": 296300,
+    "dungeon_id": 296300,
+    "time_limit": 80,
+    "type": 9,
+    "id": 1689
   }
 }
