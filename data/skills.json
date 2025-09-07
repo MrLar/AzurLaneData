@@ -3055,7 +3055,7 @@
   "9037": {
     "description": "It seems to have magical powers...?\nEvery 10s after the start of the battle, fire an enhanced special barrage.",
     "opsi_description": null,
-    "name": "Shinning Ultra Rainbow Hammer!",
+    "name": "Shining Ultra Rainbow Hammer!",
     "max": 1,
     "id": 9037,
     "type": 1,
@@ -18999,7 +18999,7 @@
     ]
   },
   "14950": {
-    "description": "Increases this ship's AA and ASW by $1; If sortied in the same fleet as Richelieu or either 3 or more Iris Libre or Vichya Dominion ships: increases this ship's FP, TRP, and RLD by $2. When this ship is attacked: 15.0% chance to deploy a shield that lasts up to 12s and can block up to 10 shots, and decreases this ship's SPD by 3 (this effect can only activate once every 12s).",
+    "description": "Increases this ship's AA and ASW by $1; If sortied in the same fleet as Richelieu or either 3 or more Iris Libre or Vichya Dominion ships: increases this ship's FP, TRP, and RLD by $2. When this ship is attacked: 15.0% chance to deploy a shield that lasts up to 12s and can block up to 10 shots, and decreases {the duration of burns affecting this ship by 3|The game incorrectly states she reduces her own SPD.} (this effect can only activate once every 12s).",
     "opsi_description": null,
     "name": "Templar's Holy Advance",
     "max": 10,
