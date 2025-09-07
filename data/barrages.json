@@ -42720,6 +42720,55 @@
       ]
     }
   ],
+  "29372": [
+    {
+      "name": "All Out Assault - I-13 II",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 55,
+          "coefficient": 1,
+          "count": 13,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 3,
+          "velocity": 4,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 79372,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 79371,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "29382": [
     {
       "name": "All Out Assault - Kitakaze II",
