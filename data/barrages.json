@@ -37924,6 +37924,59 @@
       ]
     }
   ],
+  "22272": [
+    {
+      "name": "All Out Assault - Asama II",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 38,
+          "coefficient": 1.1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.15,
+            0.8,
+            0.6
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 0,
+          "angle": 80,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            115,
+            125
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Standard Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
+          ],
+          "buff_chance": 0.08,
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 72282,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 72281,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "22312": [
     {
       "name": "All Out Assault - I-class II",
@@ -51274,6 +51327,139 @@
           "weapon_type": 1,
           "bullet_type": 1,
           "bullet_id": 170819,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "30522": [
+    {
+      "name": "All Out Assault - 404 II",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 55,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 3,
+          "velocity": 4,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 170842,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 170824,
+          "type": "weapon"
+        },
+        {
+          "damage": 85,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 3,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 170843,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 1835,
+          "type": "weapon"
+        },
+        {
+          "damage": 429,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.75,
+            1,
+            1.2
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 1,
+          "angle": 16,
+          "splash": 20,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "airdrop": true,
+          "is_air": true,
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 170847,
+          "weapon_type": 2,
+          "bullet_type": 2,
+          "bullet_id": 161173,
           "type": "weapon"
         }
       ]
@@ -66393,7 +66579,11 @@
           "weapon_type": 3,
           "bullet_type": 3,
           "bullet_id": 1841,
-          "type": "weapon"
+          "type": "weapon",
+          "tracker": {
+            "angular": 1.6,
+            "range": 16
+          }
         }
       ]
     }
@@ -73394,6 +73584,946 @@
           "weapon_type": 3,
           "bullet_type": 2,
           "bullet_id": 170817,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "151540": [
+    {
+      "name": "Wispwrought Augury",
+      "parts": [
+        {
+          "damage": 250,
+          "coefficient": 1,
+          "count": 16,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.4,
+            1.1,
+            1.5
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 1,
+          "angle": 25,
+          "splash": 3,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "is_air": true,
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 168980,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 168971,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "151560": [
+    {
+      "name": "Ninja Arts: Shadowless (smoke)",
+      "parts": [
+        {
+          "damage": 39,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 18,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            1,
+            1
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Deploy smokescreen (+40% EVA Rate, Lasts 5s)"
+          ],
+          "buff_chance": 1,
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 920,
+          "weapon_type": 1,
+          "bullet_type": 9,
+          "bullet_id": 920,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Ninja Arts: Shadowless",
+      "parts": [
+        {
+          "damage": 15,
+          "coefficient": 1,
+          "count": 22,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.6
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 9,
+          "pierce": 0,
+          "shell_range": [
+            77.5,
+            82.5
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169030,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161167,
+          "type": "weapon"
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 10,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": false,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 9,
+          "pierce": 0,
+          "shell_range": [
+            13,
+            13
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169040,
+          "weapon_type": 1,
+          "bullet_type": 5,
+          "bullet_id": 161168,
+          "type": "weapon"
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 10,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "reaim": true,
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            100,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169040,
+          "weapon_type": 1,
+          "bullet_type": 5,
+          "bullet_id": 161169,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "151590": [
+    {
+      "name": "Dancer Upon the Waves (cross fleet)",
+      "parts": [
+        {
+          "damage": 429,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.75,
+            1,
+            1.2
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "airdrop": true,
+          "is_air": true,
+          "aim_type": 1,
+          "angle": 16,
+          "splash": 20,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169070,
+          "weapon_type": 2,
+          "bullet_type": 2,
+          "bullet_id": 169080,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Special Burn (404 DMG with 1 tick every 3 seconds for 10s, ID: 151605)",
+            "Increase damage taken by 5.0% while DOT lasts."
+          ]
+        },
+        {
+          "damage": 200,
+          "coefficient": 1,
+          "count": 16,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            0.9,
+            1.1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            1
+          ],
+          "airdrop": true,
+          "is_air": true,
+          "aim_type": 1,
+          "angle": 25,
+          "splash": 18,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            1,
+            1
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169090,
+          "weapon_type": 2,
+          "bullet_type": 2,
+          "bullet_id": 161171,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Special Burn (404 DMG with 1 tick every 3 seconds for 10s, ID: 151605)",
+            "Increase damage taken by 5.0% while DOT lasts."
+          ]
+        }
+      ]
+    }
+  ],
+  "151620": [
+    {
+      "name": "Banquet of a Hundred Verses (Variant 1)",
+      "parts": [
+        {
+          "damage": 141,
+          "coefficient": 1,
+          "count": 10,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            1,
+            0.9
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            95
+          ],
+          "aim_type": 1,
+          "angle": 60,
+          "splash": 14,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            102.5,
+            117.5
+          ],
+          "spread": [
+            16,
+            16
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169170,
+          "weapon_type": 1,
+          "bullet_type": 2,
+          "bullet_id": 170834,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Decrease HIT by 15% for 10s"
+          ]
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 36,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.9,
+            0.8
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 7,
+          "pierce": 0,
+          "shell_range": [
+            150,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169180,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170835,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Decrease HIT by 15% for 10s"
+          ]
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 18,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.9,
+            0.8
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 7,
+          "pierce": 0,
+          "shell_range": [
+            150,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169180,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170836,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Decrease HIT by 15% for 10s"
+          ]
+        },
+        {
+          "damage": 96,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 1,
+          "angle": 60,
+          "splash": 3,
+          "velocity": 4,
+          "pierce": 0,
+          "shell_range": [
+            145,
+            165
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Random",
+          "centered": false,
+          "weapon_id": 169190,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 170837,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Decrease HIT by 15% for 10s"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Banquet of a Hundred Verses (Variant 2)",
+      "parts": [
+        {
+          "damage": 141,
+          "coefficient": 1,
+          "count": 10,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            1,
+            0.9
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            95
+          ],
+          "aim_type": 1,
+          "angle": 60,
+          "splash": 14,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            102.5,
+            117.5
+          ],
+          "spread": [
+            16,
+            16
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169170,
+          "weapon_type": 1,
+          "bullet_type": 2,
+          "bullet_id": 170834,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Decrease FP by 15% for 10s"
+          ]
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 36,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.9,
+            0.8
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 7,
+          "pierce": 0,
+          "shell_range": [
+            150,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169180,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170835,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Decrease FP by 15% for 10s"
+          ]
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 18,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.9,
+            0.8
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 7,
+          "pierce": 0,
+          "shell_range": [
+            150,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169180,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170836,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Decrease FP by 15% for 10s"
+          ]
+        },
+        {
+          "damage": 96,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 1,
+          "angle": 60,
+          "splash": 3,
+          "velocity": 4,
+          "pierce": 0,
+          "shell_range": [
+            145,
+            165
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Random",
+          "centered": false,
+          "weapon_id": 169190,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 170837,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Decrease FP by 15% for 10s"
+          ]
+        }
+      ]
+    }
+  ],
+  "151630": [
+    {
+      "name": "Steadfast Shiratsuyu",
+      "parts": [
+        {
+          "damage": 50,
+          "coefficient": 1,
+          "count": 40,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 22,
+          "pierce": 0,
+          "shell_range": [
+            65,
+            75
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169240,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161174,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "151640": [
+    {
+      "name": "Span of an Instant (10s + every 20s)",
+      "parts": [
+        {
+          "damage": 40,
+          "coefficient": 1,
+          "count": 20,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.15,
+            0.8,
+            0.6
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            115,
+            125
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169200,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 169191,
+          "type": "weapon",
+          "buff_chance": 0.08,
+          "buffs": [
+            "Standard Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
+          ]
+        },
+        {
+          "damage": 100,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 0,
+          "angle": 60,
+          "splash": 3,
+          "velocity": 4.5,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            160
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169210,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 169201,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Span of an Instant (on Torpedo)",
+      "parts": [
+        {
+          "damage": 100,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 0,
+          "angle": 60,
+          "splash": 3,
+          "velocity": 4.5,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            160
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169220,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 169211,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "151670": [
+    {
+      "name": "Stream Chases Thunder's Traces",
+      "parts": [
+        {
+          "damage": 160,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 0,
+          "angle": 60,
+          "splash": 3,
+          "velocity": 4,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169230,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170828,
           "type": "weapon"
         }
       ]

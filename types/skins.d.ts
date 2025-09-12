@@ -68,6 +68,7 @@ export type SkinCategory =
 25 | // wild west
 26 | // dreamland park
 27 | // nile colors
+28 | // ninja
 9997 | // retrofit
 9998 | // oath
 9999 // other

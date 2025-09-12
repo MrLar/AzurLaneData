@@ -84057,6 +84057,331 @@
       "CN"
     ]
   },
+  "38260": {
+    "icon": "38260",
+    "id": 38260,
+    "name": "Ryusei Kai",
+    "rarity": 5,
+    "tech": 0,
+    "type": 8,
+    "skills": [],
+    "nation": 3,
+    "limit_group": 0,
+    "hull_restriction": [
+      10,
+      22,
+      23,
+      24
+    ],
+    "max": 13,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          15,
+          18,
+          21,
+          23,
+          25,
+          27,
+          30,
+          33,
+          35,
+          37,
+          40,
+          42,
+          44,
+          47
+        ],
+        "count": 1,
+        "armor_mod": [
+          1,
+          1,
+          1
+        ],
+        "range": [
+          0,
+          36
+        ],
+        "reload": [
+          120,
+          118,
+          116,
+          113,
+          111,
+          109,
+          107,
+          103,
+          101,
+          99,
+          97,
+          97,
+          97,
+          97
+        ],
+        "id": 50540,
+        "spread_angle": null,
+        "name": "2 x 20mm Cannon",
+        "barrage_id": 2100,
+        "stat": "avi",
+        "ratio": 1,
+        "weapon_type": 4,
+        "aim_type": 1,
+        "bullet_id": 2100,
+        "ammo": 5,
+        "bullet_type": 6,
+        "spread": [
+          0,
+          0
+        ],
+        "splash": 0,
+        "velocity": 12,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 80,
+        "volley_info": [
+          1,
+          1
+        ]
+      },
+      {
+        "aircraft": false,
+        "damage": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "count": 1,
+        "armor_mod": [
+          1,
+          1,
+          1
+        ],
+        "range": [
+          0,
+          30
+        ],
+        "reload": [
+          83,
+          82,
+          80,
+          78,
+          77,
+          76,
+          74,
+          71,
+          70,
+          69,
+          67,
+          67,
+          67,
+          67
+        ],
+        "id": 50840,
+        "spread_angle": null,
+        "name": "1 x 13mm Cannon",
+        "barrage_id": 2100,
+        "stat": "avi",
+        "ratio": 1,
+        "weapon_type": 4,
+        "aim_type": 1,
+        "bullet_id": 2100,
+        "ammo": 5,
+        "bullet_type": 6,
+        "spread": [
+          0,
+          0
+        ],
+        "splash": 0,
+        "velocity": 12,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 180,
+        "volley_info": [
+          1,
+          1
+        ]
+      },
+      {
+        "aircraft": false,
+        "damage": [
+          56,
+          78,
+          99,
+          122,
+          145,
+          167,
+          190,
+          213,
+          235,
+          258,
+          281,
+          292,
+          309,
+          331
+        ],
+        "count": 3,
+        "armor_mod": [
+          0.8,
+          1.1,
+          1.3
+        ],
+        "range": [
+          0,
+          80
+        ],
+        "reload": [],
+        "id": 51660,
+        "spread_angle": null,
+        "name": "3 x Torpedo-Sakura",
+        "barrage_id": 2142,
+        "stat": "avi",
+        "ratio": 1,
+        "weapon_type": 3,
+        "aim_type": 1,
+        "bullet_id": 2112,
+        "ammo": 4,
+        "bullet_type": 3,
+        "spread": [
+          0,
+          0
+        ],
+        "splash": 3,
+        "velocity": 3,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 25,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        2070,
+        2035,
+        2000,
+        1965,
+        1930,
+        1895,
+        1860,
+        1825,
+        1790,
+        1755,
+        1710,
+        1710,
+        1710,
+        1710
+      ],
+      "count": 1,
+      "is_interceptor": false,
+      "id": 38260,
+      "speed": 52,
+      "hp_growth": [
+        1386,
+        1594,
+        1802,
+        2010,
+        2218,
+        2426,
+        2634,
+        2842,
+        3050,
+        3258,
+        3466,
+        3674,
+        3881,
+        4089
+      ],
+      "hp": [
+        36,
+        41,
+        47,
+        52,
+        58,
+        63,
+        68,
+        74,
+        79,
+        85,
+        90,
+        96,
+        101,
+        106
+      ],
+      "dodge": 0.99,
+      "dodge_limit": 5.5,
+      "crash_dmg": 208
+    },
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          45,
+          45,
+          45,
+          45,
+          45,
+          45,
+          45,
+          45,
+          45,
+          45,
+          45,
+          45,
+          45,
+          45
+        ]
+      }
+    ],
+    "labels": [
+      "ijn",
+      "cv",
+      "tb"
+    ],
+    "speciality": "Torpedo",
+    "equippable_main": [
+      6,
+      7
+    ],
+    "equippable_sub": [
+      6,
+      7
+    ],
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Aichi B7A Ryuusei Kai",
+      "Ryuusei Kai"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "38300": {
     "icon": "38300",
     "id": 38300,

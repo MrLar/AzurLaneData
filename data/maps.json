@@ -69735,5 +69735,605 @@
     "time_limit": 80,
     "type": 9,
     "id": 1689
+  },
+  "1960001_a1_16770301": {
+    "name": "A Dance for Amahara Above-A1",
+    "acv": 100,
+    "opsi": false,
+    "boss": {
+      "id": 16770301,
+      "hull": 3,
+      "nation": 95,
+      "name": "Corruption of Amahara - Oni",
+      "stats": {
+        "hp": 2480,
+        "fp": 68,
+        "trp": 52,
+        "avi": 0,
+        "aa": 85,
+        "hit": 19,
+        "eva": 19,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        15,
+        9,
+        9
+      ],
+      "level": 25,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "chongying_u_zhongxun",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1960013,
+    "dungeon_id": 1960013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1690
+  },
+  "1960001_a2_16770302": {
+    "name": "A Dance for Amahara Above-A2",
+    "acv": 130,
+    "opsi": false,
+    "boss": {
+      "id": 16770302,
+      "hull": 5,
+      "nation": 95,
+      "name": "Corruption of Amahara - Kitsune",
+      "stats": {
+        "hp": 8900,
+        "fp": 150,
+        "trp": 0,
+        "avi": 0,
+        "aa": 115,
+        "hit": 20,
+        "eva": 16,
+        "spd": 20,
+        "luck": 0,
+        "armor": 2
+      },
+      "cld": [
+        18.7,
+        9,
+        9
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "chongying_u_zhanlie",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1960113,
+    "dungeon_id": 1960113,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1691
+  },
+  "1960001_a3_16770303": {
+    "name": "A Dance for Amahara Above-A3",
+    "acv": 165,
+    "opsi": false,
+    "boss": {
+      "id": 16770303,
+      "hull": 7,
+      "nation": 95,
+      "name": "Corruption of Amahara - Ootori",
+      "stats": {
+        "hp": 7800,
+        "fp": 55,
+        "trp": 0,
+        "avi": 85,
+        "aa": 125,
+        "hit": 21,
+        "eva": 16,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        18.7,
+        9,
+        9
+      ],
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "chongying_u_hangmu",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1960213,
+    "dungeon_id": 1960213,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1692
+  },
+  "1960002_b1_16771301": {
+    "name": "A Dance for Amahara Above-B1",
+    "acv": 210,
+    "opsi": false,
+    "boss": {
+      "id": 16771301,
+      "hull": 4,
+      "nation": 95,
+      "name": "Corruption of Amahara - Suiryuu",
+      "stats": {
+        "hp": 16500,
+        "fp": 140,
+        "trp": 55,
+        "avi": 0,
+        "aa": 180,
+        "hit": 25,
+        "eva": 16,
+        "spd": 20,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        21,
+        25,
+        25
+      ],
+      "level": 45,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "chongying_u_boss02",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1961013,
+    "dungeon_id": 1961013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1693
+  },
+  "1960002_b2_16771302": {
+    "name": "A Dance for Amahara Above-B2",
+    "acv": 270,
+    "opsi": false,
+    "boss": {
+      "id": 16771302,
+      "hull": 5,
+      "nation": 95,
+      "name": "Corruption of Amahara - Kyuubi Tenko",
+      "stats": {
+        "hp": 24680,
+        "fp": 160,
+        "trp": 0,
+        "avi": 0,
+        "aa": 180,
+        "hit": 27,
+        "eva": 17,
+        "spd": 20,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        21,
+        25,
+        25
+      ],
+      "level": 55,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "chongying_u_boss01",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1961113,
+    "dungeon_id": 1961113,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1694
+  },
+  "1960002_b3_16771303": {
+    "name": "A Dance for Amahara Above-B3",
+    "acv": 330,
+    "opsi": false,
+    "boss": {
+      "id": 16771303,
+      "hull": 18,
+      "nation": 95,
+      "name": "Shadow of Corruption - Penumbral X",
+      "stats": {
+        "hp": 31500,
+        "fp": 180,
+        "trp": 150,
+        "avi": 0,
+        "aa": 280,
+        "hit": 26,
+        "eva": 24,
+        "spd": 18,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        20,
+        35,
+        35
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "wuxing_x",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1961213,
+    "dungeon_id": 1961213,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1695
+  },
+  "1960011_c1_16772301": {
+    "name": "A Dance for Amahara Above-C1",
+    "acv": 455,
+    "opsi": false,
+    "boss": {
+      "id": 16772301,
+      "hull": 3,
+      "nation": 95,
+      "name": "Corruption of Amahara - Oni",
+      "stats": {
+        "hp": 38600,
+        "fp": 180,
+        "trp": 120,
+        "avi": 0,
+        "aa": 185,
+        "hit": 41,
+        "eva": 45,
+        "spd": 18,
+        "luck": 18,
+        "armor": 1
+      },
+      "cld": [
+        15,
+        9,
+        9
+      ],
+      "level": 75,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "chongying_u_zhongxun",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1962013,
+    "dungeon_id": 1962013,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1696
+  },
+  "1960011_c2_16772302": {
+    "name": "A Dance for Amahara Above-C2",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "id": 16772302,
+      "hull": 5,
+      "nation": 95,
+      "name": "Corruption of Amahara - Kitsune",
+      "stats": {
+        "hp": 56200,
+        "fp": 220,
+        "trp": 0,
+        "avi": 0,
+        "aa": 225,
+        "hit": 42,
+        "eva": 42,
+        "spd": 20,
+        "luck": 18,
+        "armor": 2
+      },
+      "cld": [
+        18.7,
+        9,
+        9
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "chongying_u_zhanlie",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1962113,
+    "dungeon_id": 1962113,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1697
+  },
+  "1960011_c3_16772303": {
+    "name": "A Dance for Amahara Above-C3",
+    "acv": 775,
+    "opsi": false,
+    "boss": {
+      "id": 16772303,
+      "hull": 7,
+      "nation": 95,
+      "name": "Corruption of Amahara - Ootori",
+      "stats": {
+        "hp": 46800,
+        "fp": 190,
+        "trp": 0,
+        "avi": 225,
+        "aa": 265,
+        "hit": 40,
+        "eva": 42,
+        "spd": 18,
+        "luck": 18,
+        "armor": 1
+      },
+      "cld": [
+        18.7,
+        9,
+        9
+      ],
+      "level": 85,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "chongying_u_hangmu",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1962213,
+    "dungeon_id": 1962213,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1698
+  },
+  "1960012_d1_16773301": {
+    "name": "A Dance for Amahara Above-D1",
+    "acv": 850,
+    "opsi": false,
+    "boss": {
+      "id": 16773301,
+      "hull": 4,
+      "nation": 95,
+      "name": "Corruption of Amahara - Suiryuu",
+      "stats": {
+        "hp": 82100,
+        "fp": 240,
+        "trp": 130,
+        "avi": 0,
+        "aa": 260,
+        "hit": 69,
+        "eva": 32,
+        "spd": 16,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        21,
+        25,
+        25
+      ],
+      "level": 95,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "chongying_u_boss02",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1963013,
+    "dungeon_id": 1963013,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1699
+  },
+  "1960012_d2_16773302": {
+    "name": "A Dance for Amahara Above-D2",
+    "acv": 1100,
+    "opsi": false,
+    "boss": {
+      "id": 16773302,
+      "hull": 5,
+      "nation": 95,
+      "name": "Corruption of Amahara - Kyuubi Tenko",
+      "stats": {
+        "hp": 98260,
+        "fp": 240,
+        "trp": 190,
+        "avi": 0,
+        "aa": 265,
+        "hit": 68,
+        "eva": 45,
+        "spd": 16,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        21,
+        25,
+        25
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "chongying_u_boss01",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1963113,
+    "dungeon_id": 1963113,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1700
+  },
+  "1960012_d3_16773303": {
+    "name": "A Dance for Amahara Above-D3",
+    "acv": 1410,
+    "opsi": false,
+    "boss": {
+      "id": 16773303,
+      "hull": 18,
+      "nation": 95,
+      "name": "Shadow of Corruption - Penumbral X",
+      "stats": {
+        "hp": 115000,
+        "fp": 300,
+        "trp": 180,
+        "avi": 0,
+        "aa": 460,
+        "hit": 52,
+        "eva": 40,
+        "spd": 18,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        20,
+        35,
+        35
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "wuxing_x",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1963213,
+    "dungeon_id": 1963213,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1701
+  },
+  "1960025_sp_16774301": {
+    "name": "A Dance for Amahara Above-SP",
+    "acv": 1820,
+    "opsi": false,
+    "boss": {
+      "id": 16774301,
+      "hull": 6,
+      "nation": 97,
+      "name": "Houshou META",
+      "stats": {
+        "hp": 155000,
+        "fp": 280,
+        "trp": 0,
+        "avi": 420,
+        "aa": 390,
+        "hit": 35,
+        "eva": 26,
+        "spd": 18,
+        "luck": 30,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fengxiang_alter",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1964013,
+    "dungeon_id": 1964013,
+    "time_limit": 180,
+    "type": 5,
+    "id": 1702
+  },
+  "1960026_extra_16775001": {
+    "name": "A Dance for Amahara Above-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16775001,
+      "hull": 7,
+      "nation": 3,
+      "name": "Hakuhou",
+      "stats": {
+        "hp": 1250000,
+        "fp": 400,
+        "trp": 400,
+        "avi": 400,
+        "aa": 400,
+        "hit": 120,
+        "eva": 0,
+        "spd": 25,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "baifeng",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1965001,
+    "dungeon_id": 1965001,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1703
+  },
+  "1960026_extra_16775101": {
+    "name": "A Dance for Amahara Above-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16775101,
+      "hull": 7,
+      "nation": 3,
+      "name": "Hakuhou",
+      "stats": {
+        "hp": 1250000,
+        "fp": 800,
+        "trp": 800,
+        "avi": 800,
+        "aa": 600,
+        "hit": 9999,
+        "eva": 0,
+        "spd": 25,
+        "luck": 99,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "baifeng",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1965002,
+    "dungeon_id": 1965002,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1704
   }
 }

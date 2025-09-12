@@ -31301,6 +31301,23 @@
       }
     ]
   },
+  "30375": {
+    "id": 30375,
+    "name": "Gear Skin Box (Dreams of Amahara)",
+    "description": "Contains a random Dreams of Amahara-themed gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxhuanmengtianyuan",
+    "rarity": 5,
+    "locations": [
+      "A Dance for Amahara Above"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "30401": {
     "id": 30401,
     "name": "Random Gear Skin Box (Cruise Series 3)",
@@ -44338,6 +44355,23 @@
       }
     ]
   },
+  "30559": {
+    "id": 30559,
+    "name": "Selection Gear Skin Box (Dreams of Amahara)",
+    "description": "Can be opened to receive 1 Dreams of Amahara-themed gear skin of your choosing.",
+    "type": 13,
+    "icon": "props/appearanceboxhuanmengtianyuanzixuan",
+    "rarity": 5,
+    "locations": [
+      "A Dance for Amahara Above"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "30911": {
     "id": 30911,
     "name": "T1 Custom Gear Lab Material Pack",
@@ -47763,6 +47797,82 @@
         "blueprint": false,
         "icon": "props/42040",
         "name": "General Blueprint - Series 5"
+      }
+    ]
+  },
+  "40065": {
+    "id": 40065,
+    "name": "Battle UI Pack - Ninja Castle (Basic)",
+    "description": "Contains the Battle UI - Ninja Castle theme and 1,000 Coins.",
+    "type": 17,
+    "icon": "chargeicon/ui6",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 9999999205,
+        "type": 8,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "props/ui_205",
+        "name": "Ninja Castle"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 1000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ]
+  },
+  "40066": {
+    "id": 40066,
+    "name": "Battle UI Pack - Ninja Castle (Premium)",
+    "description": "Contains the Battle UI - Ninja Castle theme and 3,060 Gems.",
+    "type": 17,
+    "icon": "chargeicon/ui6",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 9999999205,
+        "type": 8,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "props/ui_205",
+        "name": "Ninja Castle"
+      },
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 3060,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
       }
     ]
   },

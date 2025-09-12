@@ -22636,5 +22636,305 @@
       "JP",
       "CN"
     ]
+  },
+  "4222": {
+    "id": 4222,
+    "name": "Will o' the Wisp Shell",
+    "icon": "101401",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Dreams of Amahara",
+    "description": "Follow it and it shall show you the way to the enemy's weak point.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4223": {
+    "id": 4223,
+    "name": "Phoenix Feather Shell",
+    "icon": "101402",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Dreams of Amahara",
+    "description": "Phoenix, bring 'em down!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4224": {
+    "id": 4224,
+    "name": "Tied Knot Shell",
+    "icon": "101403",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Dreams of Amahara",
+    "description": "Unravel your woes, tie up your foes.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4225": {
+    "id": 4225,
+    "name": "Crimson Cherry Branch Torpedo",
+    "icon": "101404",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Dreams of Amahara",
+    "description": "Its crimson flowers bloom like clouds.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4226": {
+    "id": 4226,
+    "name": "Sweet Olive Branch Torpedo",
+    "icon": "101405",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Dreams of Amahara",
+    "description": "When you've already extended every other olive branch, this is one you can fall back on.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4227": {
+    "id": 4227,
+    "name": "Green Pine Branch Torpedo",
+    "icon": "101406",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Dreams of Amahara",
+    "description": "This indomitable branch fears nothing, not even the winter.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4228": {
+    "id": 4228,
+    "name": "Hanging Lantern Shell",
+    "icon": "101407",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Dreams of Amahara",
+    "description": "Let its faint light guide your way.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4229": {
+    "id": 4229,
+    "name": "Wine Gourd Shell",
+    "icon": "101408",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Dreams of Amahara",
+    "description": "The bored gourd gored the guard.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4230": {
+    "id": 4230,
+    "name": "Spinning Sickle Shell",
+    "icon": "101409",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Dreams of Amahara",
+    "description": "You've sowed, and now it's time to reap.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4231": {
+    "id": 4231,
+    "name": "Cloudborne Cherry Tree (Torpedo)",
+    "icon": "101410",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Dreams of Amahara",
+    "description": "Though the cherry tree blooms late, its blossoms are beautiful.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4232": {
+    "id": 4232,
+    "name": "Cloudborne Cherry Tree (Fighter)",
+    "icon": "101410",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Dreams of Amahara",
+    "description": "Though the cherry tree blooms late, its blossoms are beautiful.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4233": {
+    "id": 4233,
+    "name": "Cloudborne Cherry Tree (Bomber)",
+    "icon": "101410",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Dreams of Amahara",
+    "description": "Though the cherry tree blooms late, its blossoms are beautiful.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4234": {
+    "id": 4234,
+    "name": "Cloudborne Sweet Olive Tree (Torpedo)",
+    "icon": "101411",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Dreams of Amahara",
+    "description": "Its fragrance travels for miles, and its purity is a sight for sore eyes.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4235": {
+    "id": 4235,
+    "name": "Cloudborne Sweet Olive Tree (Fighter)",
+    "icon": "101411",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Dreams of Amahara",
+    "description": "Its fragrance travels for miles, and its purity is a sight for sore eyes.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4236": {
+    "id": 4236,
+    "name": "Cloudborne Sweet Olive Tree (Bomber)",
+    "icon": "101411",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Dreams of Amahara",
+    "description": "Its fragrance travels for miles, and its purity is a sight for sore eyes.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4237": {
+    "id": 4237,
+    "name": "Cloudborne Green Pine Tree (Torpedo)",
+    "icon": "101412",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Dreams of Amahara",
+    "description": "This green flows like the puff of a cloud, or the leaves of a pine.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4238": {
+    "id": 4238,
+    "name": "Cloudborne Green Pine Tree (Fighter)",
+    "icon": "101412",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Dreams of Amahara",
+    "description": "This green flows like the puff of a cloud, or the leaves of a pine.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4239": {
+    "id": 4239,
+    "name": "Cloudborne Green Pine Tree (Bomber)",
+    "icon": "101412",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Dreams of Amahara",
+    "description": "This green flows like the puff of a cloud, or the leaves of a pine.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
   }
 }
