@@ -2453,9 +2453,9 @@
     "values": []
   },
   "6290": {
-    "description": "Increases ASR by 1 (2, when fully enhanced) for the submarine using this gear.",
+    "description": "Increases ASR by 1 ({2, at +10 and above|The game states fully enhanced which is misleading due to this gear maxing out at +13. The in-game skill description does however correctly change after +10.}) for the submarine using this gear.",
     "opsi_description": null,
-    "name": "Auxiliary Power Source I",
+    "name": "Auxiliary Power Source",
     "max": 1,
     "id": 6290,
     "type": 0,
@@ -54783,7 +54783,7 @@
     ]
   },
   "151530": {
-    "description": "Increases this ship's AVI and ACC by $1. While this ship is afloat, when a ship in your Vanguard fires her Main Guns: grants Incense to that ship for 5s; ships with Incense take $2 less DMG, and when they hit an enemy with their Main Guns: applies Charcoal Smoke to the enemy for 5s. The following effects apply to enemies with Charcoal Smoke based on their Armor Type:\n1) Light and Medium Armor: decreases that enemy's DMG dealt to Hakuhou by $3;\n2) Heavy Armor: increases that enemy's DMG taken from Hakuhou by $3.",
+    "description": "Increases this ship's AVI and ACC by $1.\n\nWhile this ship is afloat, when a ship in your Vanguard fires her Main Guns: grants Incense to that ship for 5s; ships with Incense take $2 less DMG, and when they hit an enemy with their Main Guns: applies Charcoal Smoke to the enemy for 5s.\n\nThe following effects apply to enemies with Charcoal Smoke based on their Armor Type:\n• Light and Medium Armor: decreases that enemy's DMG dealt to Hakuhou by $3;\n• Heavy Armor: increases that enemy's DMG taken from Hakuhou by $3.",
     "opsi_description": null,
     "name": "Sandalwood Rite",
     "max": 10,
@@ -54830,7 +54830,7 @@
     ]
   },
   "151540": {
-    "description": "When a Sakura Empire ship in your Main Fleet fires her Main Guns or launches an airstrike, activates the following effects in order:\n1) Increases Hakuhou's DMG dealt by $1 for 5s (this effect does not stack);\n2) Hakuhou fires a $2 special barrage (DMG is based on the skill's level);\n3) Decreases your Main Fleet's Detection Gauge by 3 every second for 5s (this effect does not stack).",
+    "description": "When a Sakura Empire ship in your Main Fleet fires her Main Guns or launches an airstrike, activates the following effects in order:\n• Increases Hakuhou's DMG dealt by $1 for 5s (this effect does not stack);\n• Hakuhou fires a $2 special barrage (DMG is based on the skill's level);\n• Decreases your Main Fleet's Detection Gauge by 3 every second for 5s (this effect does not stack).",
     "opsi_description": null,
     "name": "Wispwrought Augury",
     "max": 10,
@@ -54865,7 +54865,7 @@
     ]
   },
   "151550": {
-    "description": "When this ship has Sakura Empire gear equipped in her first gear slot: increases this ship's AVI by $1. When the aircraft in this ship's gear slots hit an enemy: inflicts a special Burn (lasting 15s; inflicts 140 DMG every 0.5s). Additionally, depending on the type of aircraft in this ship's first gear slot, activates one of the following effects:\n1) Torpedo Bomber: increases the efficiency of this ship's first gear slot by $2;\n2) Fighter or Dive Bomber: increases this ship's AA by $3.",
+    "description": "When this ship has Sakura Empire gear equipped in her first gear slot: increases this ship's AVI by $1.\n\nWhen the aircraft in this ship's gear slots hit an enemy: inflicts a special Burn (lasting 15s; inflicts 140 DMG every 0.5s).\n\nAdditionally, depending on the type of aircraft in this ship's first gear slot, activates one of the following effects:\n• Torpedo Bomber: increases the efficiency of this ship's first gear slot by $2;\n• Fighter or Dive Bomber: increases this ship's AA by $3.",
     "opsi_description": null,
     "name": "Smouldering Embrace",
     "max": 10,
@@ -55006,7 +55006,7 @@
     ]
   },
   "151580": {
-    "description": "During battle, if your Airspace Control state is not Air Denial or Air Incapability: increases your SSs' and SSVs' Crit Rate by $1; if the SS or SSV is from the Sakura Empire, also increases that boat's TRP by $2. One time each: when this boat reaches the battlefield, 10s after the battle starts, and when this boat leaves the battlefield: performs an attack with this boat's equipped Seaplanes; after the second attack, I-404 surfaces for 3s and recovers 10 OXY every second, then submerges again.",
+    "description": "During battle, if your Airspace Control state is not Air Denial or Air Incapability: increases your SSs' and SSVs' Crit Rate by $1; if the SS or SSV is from the Sakura Empire, also increases that boat's TRP by $2.\n\nOne time each: when this boat reaches the battlefield, 10s after the battle starts, and when this boat leaves the battlefield: performs an attack with this boat's equipped Seaplanes; after the second attack, I-404 surfaces for 3s and recovers 10 OXY every second, then submerges again.",
     "opsi_description": null,
     "name": "Brighten the Distant Skies",
     "max": 10,
@@ -55041,7 +55041,7 @@
     ]
   },
   "151590": {
-    "description": "Increases this boat's ACC by $1. Once per sortie, even if an engaging fleet is outside of your Submarine Fleet's Attack/Support Range, you can request Submarine Support. As long as this boat has not been sunk, when a fleet this boat is NOT in starts a battle, the following effects activate:\n1) When the battle starts, increases your fleet's ACC by $2;\n2) Once per battle, 15s after the battle starts: performs a $3 supporting attack (DMG is based on the skill's level); for 10s, enemies hit by this attack are inflicted with a special Burn (inflicts 404 DMG every 3s) and take 5.0% increased DMG.",
+    "description": "Increases this boat's ACC by $1.\n\nOnce per sortie, even if an engaging fleet is outside of your Submarine Fleet's Attack/Support Range, you can request Submarine Support.\n\nAs long as this boat has not been sunk, when a fleet this boat is NOT in starts a battle, the following effects activate:\n• When the battle starts, increases your fleet's ACC by $2;\n• Once per battle, 15s after the battle starts: performs a $3 supporting attack (DMG is based on the skill's level); for 10s, enemies hit by this attack are inflicted with a special Burn (inflicts 404 DMG every 3s) and take 5.0% increased DMG.",
     "opsi_description": null,
     "name": "Dancer Upon the Waves",
     "max": 10,
@@ -55123,7 +55123,7 @@
     ]
   },
   "151620": {
-    "description": "When the battle starts, this ship gains the Elegant status and switches between it and the Besotted status every time she fires her Main Guns;\n1) Elegant: increases this ship's and your Vanguard's EVA and AA by $1. When gaining the Elegant status: fires a $2 special barrage (DMG is based on the skill's level); enemies hit by this barrage have their ACC decreased by 15.0% for 10s (does not stack with similar effects).\n2) Besotted: increases this ship's and your Vanguard's FP and ACC by $1. When gaining the Besotted status: fires a $2 special barrage (DMG is based on the skill's level); enemies hit by this barrage have their FP decreased by 15.0% for 10s (does not stack with similar effects).",
+    "description": "When the battle starts, this ship gains the Elegant status and switches between it and the Besotted status every time she fires her Main Guns;\n• Elegant: increases this ship's and your Vanguard's EVA and AA by $1. When gaining the Elegant status: fires a $2 special barrage (DMG is based on the skill's level); enemies hit by this barrage have their ACC decreased by 15.0% for 10s (does not stack with similar effects).\n• Besotted: increases this ship's and your Vanguard's FP and ACC by $1. When gaining the Besotted status: fires a $2 special barrage (DMG is based on the skill's level); enemies hit by this barrage have their FP decreased by 15.0% for 10s (does not stack with similar effects).",
     "opsi_description": null,
     "name": "Banquet of a Hundred Verses",
     "max": 10,
@@ -55311,7 +55311,7 @@
     ]
   },
   "151660": {
-    "description": "Increases this ship's EVA by $1 and SPD by $2. Every 15s after the battle starts: grants 1 of the following effects at random to a random ship in your fleet, but may also decrease her EVA by 10.0% for 3s at a 10.0% chance:\n1) Increases RLD by 8.0% for 8s;\n2) Increases ACC by 8.0% for 8s;\n3) Deploys a shield (lasting 8s; can negate up to 8 enemy shells);\n4) Restores 1.0% of the recipient's max HP;\n5) Increases TRP by 8.0% for 8s.",
+    "description": "Increases this ship's EVA by $1 and SPD by $2.\n\nEvery 15s after the battle starts: grants 1 of the following effects at random to a random ship in your fleet, but may also decrease her EVA by 10.0% for 3s at a 10.0% chance:\n• Increases RLD by 8.0% for 8s;\n• Increases ACC by 8.0% for 8s;\n• Deploys a shield (lasting 8s; can negate up to 8 enemy shells);\n• Restores 1.0% of the recipient's max HP;\n• Increases TRP by 8.0% for 8s",
     "opsi_description": null,
     "name": "Homemade Mystery Hot Pot",
     "max": 10,
