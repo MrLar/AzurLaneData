@@ -148,6 +148,10 @@ export interface FleetTech {
     collect: FleetTechBonusShip
     level: FleetTechBonusShip
     limit_break: Partial<FleetTechBonusShip>
+    sort_data: {
+        index: number
+        class: number
+    }
 }
 
 export interface FleetTechBonusShip extends FleetTechBonus {
@@ -253,4 +257,10 @@ export interface LineConditions {
     nations?: Nation[]
     rarities?: Rarity[]
     impossible?: boolean
+}
+
+export interface FleetTechSortData {
+    primary: number
+    secondary: number
+    nation: Nation
 }

@@ -84,5 +84,5 @@ export type SkinObtainType =
 6 | // oath
 7 | // retrofit
 8 | // promotional (IRL)
-9 | // dual form switching
+9 | // skin switching
 10 // cruise shop

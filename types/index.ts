@@ -19,6 +19,7 @@ import dorm3DRoomList from '../data/dorm3d_rooms.json'
 import equipDropList from '../data/equip_drops.json'
 import equipUpgradeCosts from '../data/equip_upgrade_cost.json'
 import equipmentList from '../data/equipments.json'
+import fleetTechSortData from '../data/fleet_tech_sort.json'
 import gearLabRecipes from '../data/gear_lab.json'
 import gearSkilList from '../data/gear_skins.json'
 import itemData from '../data/items.json'
@@ -53,7 +54,10 @@ import { type MapData } from './maps'
 import { type MeowfficerAbility } from './meowfficer_abilities'
 import { type MeowfficerData } from './meowfficers'
 import { type Research } from './research_projects'
-import { type RetroCost, type ShipData, type ShipDropData, type SkinWords } from './ships'
+import {
+    type FleetTechSortData, type RetroCost,
+    type ShipData, type ShipDropData, type SkinWords
+} from './ships'
 import { type Shop } from './shops'
 import { type SkillData } from './skills'
 import { type SkinInfo } from './skins'
@@ -92,6 +96,7 @@ export const fleetChats = groupChats as Record<number, FleetChat | undefined>
 export const juuProfiles = shipProfiles as Record<number, JuuProfile | undefined>
 export const specialSecretaries = specialSecretaryList as Record<number, SpecialSecretary | undefined>
 export const barrageData = barrages as Record<number, Barrage[] | undefined>
+export const fleetTechSort = fleetTechSortData as Record<number, FleetTechSortData | undefined>
 
 export const SHIP_FLAGS = {
     BULIN: 1 << 0, // 1
