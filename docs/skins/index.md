@@ -26,7 +26,7 @@ Skin Info contains relevant information of a ship skin. Provides the following p
 |   **dual_form**    |               `boolean`                |                                             Whether this skin is a dual form skin.                                              |
 |    **l2d_plus**    |               `boolean`                |                                                 Whether this skin is a Live2D+.                                                 |
 
-\* If `is_permanent` is `true` and `type` is `9` it only indicates that this alternative form is permanently available to switch to *if* the player owns the main skin.
+\* If `is_permanent` is `true` and `type` is `6` (or `obtain_type` is `9`) it only indicates that this alternative form is permanently available to switch to *if* the player owns the main skin.
 
 # Skin Type
 
@@ -90,17 +90,17 @@ each number represents an in-game skin type (missing values do not exit in game)
 Skin Type is a numeric value with the range `[-1, 10]` where each number represents how a skin
 is attainable:
 
-| Value |        Label        |
-| :---: | :-----------------: |
-|  -1   |    Unobtainable     |
-|   0   |  Skin Shop (Gems)   |
-|   1   | Any Core Data Shop  |
-|   2   |       Events        |
-|   3   | Cruise Pass (Paid)  |
-|   4   |     Quest Line      |
-|   5   |     Prize Shop      |
-|   6   |        Oath         |
-|   7   |      Retrofit       |
-|   8   |    IRL Promotion    |
-|   9   | Dual Form Switching |
-|  10   |    Revistor Shop    |
+| Value |       Label        |
+| :---: | :----------------: |
+|  -1   |    Unobtainable    |
+|   0   |  Skin Shop (Gems)  |
+|   1   | Any Core Data Shop |
+|   2   |       Events       |
+|   3   | Cruise Pass (Paid) |
+|   4   |     Quest Line     |
+|   5   |     Prize Shop     |
+|   6   |        Oath        |
+|   7   |      Retrofit      |
+|   8   |   IRL Promotion    |
+|   9   |   Form Switching   |
+|  10   |   Revistor Shop    |
