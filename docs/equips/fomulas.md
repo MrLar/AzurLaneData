@@ -193,13 +193,15 @@ For the more nerdy folk out there here is how it works:
 - Every Barrage (gun firings are just barrages) has a \\(delay\\), \\(first\\_delay\\), \\(delta\\_delay\\), \\(senior\\_delay\\),
   \\(senior\\_repeat\\) and \\(primal\\_repeat\\) property.
 - The gun fires a total of \\((primal\\_repeat + 1) \times (1 + senior\\_repeat)\\) times.
-- For each primal step the game defines the delay relative to the previous one as follows:
-  - primal 0: Equal to: \\(delay\\)
-  - primal i: Equal to: \\(delay + i \times delta\\_delay\\)
-- After all primal steps are concluded the senior steps are excecuted.
+- When the game fires a bullet emitter (barrage) it starts by kicking of the senior chain.
 - For each senior step the game defines the delay relative to the previous one as follows:
   - senior 0: Equal to \\(first\\_delay\\)
   - senior i: Equal to \\(senior\\_delay\\)
+- During each senior step every primal step is executed before the next senior step happens
+- For each primal step the game defines the delay relative to the previous one as follows:
+  - primal 0: Equal to: \\(delay\\)
+  - primal i: Equal to: \\(delay + i \times delta\\_delay\\)
+
 - Putting this all together yields a final delay of:
   $$
   first\_delay + (senior\_delay \times senior\_repeat) + \left( \sum_{i=0}^{primal\_repeat} delay + i \times delta\_delay\right)
