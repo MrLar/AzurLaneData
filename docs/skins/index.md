@@ -33,16 +33,16 @@ Skin Info contains relevant information of a ship skin. Provides the following p
 Skin Type is a numeric value with the range `[-1, 6]` where each number represents an in-game skin
 type:
 
-| Value |     Label     |               Description                |
-| :---: | :-----------: | :--------------------------------------: |
-|  -1   |    Default    |        Type of all default skins.        |
-|   0   |    Normal     |         Type for regular skins.          |
-|   1   |     Oath      |         Type for all Oath skins.         |
-|   2   |   Retrofit    |       Type for all Retrofit skins.       |
-|   3   |      Old      |    Type for all Old (Original) skins.    |
-|   4   |     Promo     |        Type for all Promo skins.         |
-|   5   |   Valentine   |      Type for most Valentine skins.      |
-|   6   | Dual Form Alt | Alternative version of a dual form skin. |
+| Value |   Label   |            Description             |
+| :---: | :-------: | :--------------------------------: |
+|  -1   |  Default  |     Type of all default skins.     |
+|   0   |  Normal   |      Type for regular skins.       |
+|   1   |   Oath    |      Type for all Oath skins.      |
+|   2   | Retrofit  |    Type for all Retrofit skins.    |
+|   3   |    Old    | Type for all Old (Original) skins. |
+|   4   |   Promo   |     Type for all Promo skins.      |
+|   5   | Valentine |   Type for most Valentine skins.   |
+|   6   | Skin Alt  |   Alternative version of a skin.   |
 
 # Skin Category
 
