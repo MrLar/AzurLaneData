@@ -6,25 +6,27 @@ title: Skin Documentation
 
 Skin Info contains relevant information of a ship skin. Provides the following properties:
 
-|     Property     |                  Type                  |                                                           Description                                                           |
-| :--------------: | :------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
-|      **id**      |                `number`                |                                                       The ID of the skin.                                                       |
-|     **name**     |                `string`                |                                                      Names this skin has.                                                       |
-|     **type**     |        [`SkinType`](#skin-type)        |                                                      The type of the skin.                                                      |
-|   **category**   |    [`SkinCategory`](#skin-category)    |                                                    The category of the skin.                                                    |
-|   **servers**    | [`AlServer[]`](../common.md#al-server) |                                List of servers this skin is (or at any point was) obtainable on.                                |
-|     **icon**     |                `string`                | The icon this skin uses lower cased. Available under `https://als.mrlar.dev/<compact, yard, full, qicon or chibi>/<icon>.webp`. |
-|      **bg**      |           `string` \| `null`           |       The custom background this skin uses lower cased if any.    Available under `https://al.mrlar.dev/bg/<icon>.webp`.        |
-| **obtain_type**  | [`SkinObtainType`](#skin-obtain-type)  |                                                  How this skin is obtainable.                                                   |
-|    **price**     |                `number`                |                                The price for this skin in `currency`. 0 if it cannot be bought.                                 |
-|   **currency**   |                `number`                |                          The item ID of the currency to use for purchasing. 0 if it cannot be bought.                           |
-| **is_permanent** |               `boolean`                |                                           Whether this skin is permanently available.                                           |
-|     **l2d**      |               `boolean`                |                                                  Whether this skin is Live2D.                                                   |
-|   **dynamic**    |               `boolean`                |                                                  Whether this skin is dynamic.                                                  |
-|  **custom_bgm**  |               `boolean`                |                                         Whether this skin has custom background music.                                          |
-|  **dynamic_bg**  |               `boolean`                |                                           Whether this skin has a dynamic background.                                           |
-|  **dual_form**   |               `boolean`                |                                             Whether this skin is a dual form skin.                                              |
-|   **l2d_plus**   |               `boolean`                |                                                 Whether this skin is a Live2D+.                                                 |
+|      Property      |                  Type                  |                                                           Description                                                           |
+| :----------------: | :------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
+|       **id**       |                `number`                |                                                       The ID of the skin.                                                       |
+|      **name**      |                `string`                |                                                      Names this skin has.                                                       |
+|      **type**      |        [`SkinType`](#skin-type)        |                                                      The type of the skin.                                                      |
+|    **category**    |    [`SkinCategory`](#skin-category)    |                                                    The category of the skin.                                                    |
+|    **servers**     | [`AlServer[]`](../common.md#al-server) |                                List of servers this skin is (or at any point was) obtainable on.                                |
+|      **icon**      |                `string`                | The icon this skin uses lower cased. Available under `https://als.mrlar.dev/<compact, yard, full, qicon or chibi>/<icon>.webp`. |
+|       **bg**       |           `string` \| `null`           |       The custom background this skin uses lower cased if any.    Available under `https://al.mrlar.dev/bg/<icon>.webp`.        |
+|  **obtain_type**   | [`SkinObtainType`](#skin-obtain-type)  |                                                  How this skin is obtainable.                                                   |
+|     **price**      |                `number`                |                                The price for this skin in `currency`. 0 if it cannot be bought.                                 |
+|    **currency**    |                `number`                |                          The item ID of the currency to use for purchasing. 0 if it cannot be bought.                           |
+| **is_permanent**\* |               `boolean`                |                                           Whether this skin is permanently available.                                           |
+|      **l2d**       |               `boolean`                |                                                  Whether this skin is Live2D.                                                   |
+|    **dynamic**     |               `boolean`                |                                                  Whether this skin is dynamic.                                                  |
+|   **custom_bgm**   |               `boolean`                |                                         Whether this skin has custom background music.                                          |
+|   **dynamic_bg**   |               `boolean`                |                                           Whether this skin has a dynamic background.                                           |
+|   **dual_form**    |               `boolean`                |                                             Whether this skin is a dual form skin.                                              |
+|    **l2d_plus**    |               `boolean`                |                                                 Whether this skin is a Live2D+.                                                 |
+
+\* If `is_permanent` is `true` and `type` is `9` it only indicates that this alternative form is permanently available to switch to *if* the player owns the main skin.
 
 # Skin Type
 
