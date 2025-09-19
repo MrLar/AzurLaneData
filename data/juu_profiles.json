@@ -668,7 +668,7 @@
   "11802": {
     "id": 11802,
     "name": "Guam",
-    "icon": "guandao",
+    "icon": "guandao_3",
     "ship_id": 616
   },
   "19901": {
@@ -686,7 +686,7 @@
   "19903": {
     "id": 19903,
     "name": "Anchorage",
-    "icon": "ankeleiqi_3",
+    "icon": "ankeleiqi_4",
     "ship_id": 20018
   },
   "19904": {
@@ -812,13 +812,13 @@
   "20138": {
     "id": 20138,
     "name": "Trafalgar",
-    "icon": "telafaerjia",
+    "icon": "telafaerjia_2",
     "ship_id": 689
   },
   "20139": {
     "id": 20139,
     "name": "Gallant",
-    "icon": "yongqi",
+    "icon": "yongqi_2",
     "ship_id": 691
   },
   "20202": {
@@ -974,13 +974,13 @@
   "20235": {
     "id": 20235,
     "name": "Cleopatra",
-    "icon": "keliaopeitela",
+    "icon": "keliaopeitela_2",
     "ship_id": 690
   },
   "20236": {
     "id": 20236,
     "name": "Trinidad",
-    "icon": "telinida",
+    "icon": "telinida_2",
     "ship_id": 692
   },
   "20303": {
@@ -1082,7 +1082,7 @@
   "20516": {
     "id": 20516,
     "name": "Lion",
-    "icon": "shi",
+    "icon": "shi_2",
     "ship_id": 138
   },
   "20601": {
@@ -1688,7 +1688,7 @@
   "30319": {
     "id": 30319,
     "name": "Unzen",
-    "icon": "yunxian",
+    "icon": "yunxian_3",
     "ship_id": 605
   },
   "30320": {
@@ -2747,6 +2747,12 @@
     "icon": "nabulesi_2",
     "ship_id": 20035
   },
+  "69903": {
+    "id": 69903,
+    "name": "Cuniberti",
+    "icon": "kunibeierdi",
+    "ship_id": 20040
+  },
   "70102": {
     "id": 70102,
     "name": "Grozny",
@@ -2858,7 +2864,7 @@
   "70301": {
     "id": 70301,
     "name": "Tallinn",
-    "icon": "talin",
+    "icon": "talin_4",
     "ship_id": 496
   },
   "70302": {
@@ -2876,7 +2882,7 @@
   "70502": {
     "id": 70502,
     "name": "Sovetsky Soyuz",
-    "icon": "suweiaitongmengnew",
+    "icon": "suweiaitongmeng_3",
     "ship_id": 438
   },
   "70504": {
@@ -3014,7 +3020,7 @@
   "80302": {
     "id": 80302,
     "name": "Brennus",
-    "icon": "bulunnusi_2",
+    "icon": "bulunnusi_3",
     "ship_id": 643
   },
   "80303": {
@@ -3044,7 +3050,7 @@
   "80503": {
     "id": 80503,
     "name": "Alsace",
-    "icon": "aersasi_2",
+    "icon": "aersasi_3",
     "ship_id": 641
   },
   "80601": {
@@ -3134,7 +3140,7 @@
   "90107": {
     "id": 90107,
     "name": "Mogador",
-    "icon": "mojiaduoer_2",
+    "icon": "mojiaduoer_3",
     "ship_id": 642
   },
   "90111": {
@@ -3212,13 +3218,13 @@
   "90701": {
     "id": 90701,
     "name": "Joffre",
-    "icon": "xiafei_2",
+    "icon": "xiafei_4",
     "ship_id": 555
   },
   "99901": {
     "id": 99901,
     "name": "GascogneT8",
-    "icon": "jiasikenie",
+    "icon": "jiasikenie_3",
     "ship_id": 20012
   },
   "99902": {
