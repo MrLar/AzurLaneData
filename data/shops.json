@@ -7201,6 +7201,19 @@
         "limit_type": 1
       },
       {
+        "id": 21018,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/21018",
+        "name": "META Crystal - Sheffield",
+        "limit": 4,
+        "cost": 80,
+        "limit_type": 1
+      },
+      {
         "id": 21013,
         "type": 0,
         "linkable": true,
@@ -7235,6 +7248,19 @@
         "rarity": 4,
         "icon": "ships/compact/lieren_alter",
         "name": "Hunter META",
+        "limit": 1,
+        "cost": 60,
+        "limit_type": 1
+      },
+      {
+        "id": 30018,
+        "type": 2,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 4,
+        "icon": "ships/compact/xiefeierde_alter",
+        "name": "Sheffield META",
         "limit": 1,
         "cost": 60,
         "limit_type": 1
@@ -7894,6 +7920,20 @@
     "icon_rarity": 5,
     "items": [
       {
+        "id": 301265,
+        "type": 3,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "ships/compact/ximu_5",
+        "name": "Fun in the Sun",
+        "limit": 1,
+        "cost": 880,
+        "limit_type": 1,
+        "ship_id": 176
+      },
+      {
         "id": 107052,
         "type": 3,
         "linkable": true,
@@ -8424,6 +8464,66 @@
         "limit_group": 1,
         "group_limit": 4,
         "limit_type": 1
+      },
+      {
+        "id": 2029,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96441",
+        "name": "Hailstorm Shell",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
+      },
+      {
+        "id": 2030,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96442",
+        "name": "Ball Lightning Shell",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
+      },
+      {
+        "id": 2031,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96443",
+        "name": "Fire Whirl Torpedo",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
+      },
+      {
+        "id": 2032,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96444",
+        "name": "After the Rain",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
       }
     ],
     "currency": {
@@ -8569,6 +8669,34 @@
         "name": "Crystal Candy",
         "limit": 1,
         "cost": 280,
+        "use_alt": 0,
+        "limit_type": 1
+      },
+      {
+        "id": 3070701,
+        "type": 9,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "dorm3d/items/3ddrom_dafeng_fancygift1",
+        "name": "Love Enshackled",
+        "limit": 1,
+        "cost": 280,
+        "use_alt": 0,
+        "limit_type": 1
+      },
+      {
+        "id": 1221,
+        "type": 10,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "dorm3d/items/3ddrom_dafeng_premiumfurniture1",
+        "name": "Love Nest",
+        "limit": 1,
+        "cost": 480,
         "use_alt": 0,
         "limit_type": 1
       },

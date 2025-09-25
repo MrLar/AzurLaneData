@@ -82757,6 +82757,96 @@
       ]
     }
   ],
+  "801932": [
+    {
+      "name": "Ashen Might - Dewey II",
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 10,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": true,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 0,
+          "angle": 25,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 50,
+          "shell_range": [
+            25,
+            25
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 170862,
+          "weapon_type": 2,
+          "bullet_type": 5,
+          "bullet_id": 170861,
+          "type": "weapon"
+        },
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 10,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "reaim": true,
+          "ignore_shield": true,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 0,
+          "angle": 25,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 50,
+          "shell_range": [
+            100,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Random",
+          "centered": false,
+          "weapon_id": 170862,
+          "weapon_type": 2,
+          "bullet_type": 5,
+          "bullet_id": 170862,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "901010": [
     {
       "name": "Slash - Spread (Level 1)",

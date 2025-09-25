@@ -966,5 +966,203 @@
       "CN"
     ],
     "contains": []
+  },
+  "1201": {
+    "name": "Fluffy Bed",
+    "description": "A soft double bed with a complete set of bedding: comfy mattress, blanket, and pillows. Slip under the blanket and sleep off the day's troubles.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1201,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_dafeng_commonfurniture1",
+    "room_id": 12,
+    "furni_type": 4,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1202": {
+    "name": "Wooden Dining Table",
+    "description": "This table is made of quality, long-lasting wood. Its top is smooth and easy to clean, and its dark surface is resistant to stains while showcasing the natural texture of red sandalwood.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1202,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_dafeng_commonfurniture2",
+    "room_id": 12,
+    "furni_type": 6,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1203": {
+    "name": "Comfy Chair",
+    "description": "A simple tatami chair - basically just a seat and a backrest. It's comfy enough that you can sit for a long time without feeling any muscle fatigue.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1203,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_dafeng_commonfurniture3",
+    "room_id": 12,
+    "furni_type": 5,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1211": {
+    "name": "Classical Wall Scroll",
+    "description": "The refined art has a zen vibe to it, harmonizing with the rest of the room. It gives a sense of tranquility and elegance.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 1211,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_dafeng_commonfurniture4",
+    "room_id": 12,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1212": {
+    "name": "Beloved Companion",
+    "description": "The fabric of the black bikini was exceptionally light and soft against the skin. It almost feels like you're wearing nothing at all!",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 1212,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_dafeng_commonfurniture5",
+    "room_id": 12,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1213": {
+    "name": "Floor Lamp",
+    "description": "The tall wooden floor lamp casts a gentle glow in the room. It was a piece Taihou had picked out herself.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 1213,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_dafeng_commonfurniture6",
+    "room_id": 12,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1214": {
+    "name": "Translucent Screen",
+    "description": "The translucent screen features an intricate pattern. Taihou likes to place it by her bed to lend that corner of the room a mysterious allure.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 1214,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_dafeng_commonfurniture7",
+    "room_id": 12,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1215": {
+    "name": "Night Light",
+    "description": "A cute night light, with delicate rattan branches intertwined inside. Its gentle glow fills the room with a comforting warmth.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 1215,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_dafeng_commonfurniture8",
+    "room_id": 12,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1221": {
+    "name": "Love Nest",
+    "description": "A minimalist double bed made of durable materials. Its sturdy metal frame can withstand heavy strain, and when paired with a premium memory foam mattress, it ensures a deeply comfortable and secure rest.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 5,
+    "id": 1221,
+    "purchaseable": true,
+    "expires": 0,
+    "icon": "dorm3d/items/3ddrom_dafeng_premiumfurniture1",
+    "room_id": 12,
+    "furni_type": 4,
+    "exclusive": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
   }
 }

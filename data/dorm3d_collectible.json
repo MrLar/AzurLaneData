@@ -2317,6 +2317,576 @@
     "contains": [],
     "time": 2
   },
+  "1201": {
+    "room_id": 12,
+    "name": "Porcelain",
+    "description": "White porcelain with intricate patterns on display. It's pristine and shiny, proving how well Taihou cares for it.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1201,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item1",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1202": {
+    "room_id": 12,
+    "name": "After-School Fun",
+    "description": "A uniform with an armband and a skirt. It's a nice change of style from her usual red dress.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1202,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item2",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "1203": {
+    "room_id": 12,
+    "name": "Forbidden Feast",
+    "description": "An elegant red slip dress made of soft, light fabric. Taihou wears it to parties and other special occasions.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1203,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item3",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1204": {
+    "room_id": 12,
+    "name": "Wooden Storage Box",
+    "description": "A box containing her treasure collection. It's full of memories of her beloved.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1204,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item4",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1205": {
+    "room_id": 12,
+    "name": "Small Bonsai",
+    "description": "A beautifully maintained bonsai with glossy and vibrant leaves. You can tell at a glance how much care it's given.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1205,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item5",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1206": {
+    "room_id": 12,
+    "name": "Phoenix Hairpin",
+    "description": "A hair ornament with a phoenix motif is left on her vanity. It's the same as the one she always wears. She clearly likes it enough to have multiple.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1206,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item6",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1207": {
+    "room_id": 12,
+    "name": "Geta Clogs",
+    "description": "A pair of traditional geta, with patterns carved into their wooden soles. When worn on a stroll, they make one's footsteps all the more musical.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1207,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item7",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1208": {
+    "room_id": 12,
+    "name": "Book Collection",
+    "description": "Subjects in her collection range from literature to military affairs. Some of these books also seem a little... odd?",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1208,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item8",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1209": {
+    "room_id": 12,
+    "name": "Incense Burner",
+    "description": "The incense burner emits a floral scent. Before bedtime, she likes to fill her room with tranquil aromas.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1209,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item9",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "1210": {
+    "room_id": 12,
+    "name": "Cat Tree",
+    "description": "A cat tree with a cute design, complete with a toy ball on top. Is she thinking of getting a cat, maybe?",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1210,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item10",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1211": {
+    "room_id": 12,
+    "name": "Aromatherapy Candle",
+    "description": "The candle serves as both illumination and decoration. Taihou has also mixed in some essential oils, adding a gentle lavender scent when it burns.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1211,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item11",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "1212": {
+    "room_id": 12,
+    "name": "Vivacious Flowers",
+    "description": "A vibrant arrangement of brightly colored flowers sits by the window. Taihou regularly takes care of the collection, maintaining its freshness.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1212,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item12",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1213": {
+    "room_id": 12,
+    "name": "Cat Bowls",
+    "description": "Brand-new cat bowls divided by color - white for water, black for food.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1213,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item13",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1214": {
+    "room_id": 12,
+    "name": "Fruit Bowl",
+    "description": "A bowl of fresh, delicious-looking fruit sits on the table. She always keeps it filled for her guests' convenience.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1214,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item14",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1215": {
+    "room_id": 12,
+    "name": "Full-Size Fridge",
+    "description": "A large refrigerator full of fruit, vegetables, sweets, and drinks. Taihou frequently replaces the contents to suit her whims.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1215,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item15",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1216": {
+    "room_id": 12,
+    "name": "Ceramic Knife",
+    "description": "A high-quality ceramic kitchen knife. Taihou never fails to use it when making heartfelt lunches for a certain someone.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1216,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item16",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1217": {
+    "room_id": 12,
+    "name": "Kettle",
+    "description": "She often uses this kettle to make tea. Apparently, she accidentally burned herself a lot when she first started.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1217,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item17",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1218": {
+    "room_id": 12,
+    "name": "Temari Ball",
+    "description": "An exquisite temari ball, but it looks like it's only for decoration. She probably hasn't played with it in a long time - you could ask her to teach you how to play.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1218,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item18",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "1219": {
+    "room_id": 12,
+    "name": "Cushioned Seat",
+    "description": "A dark, round cushion. It's comfortable, but so low that it's clearly meant to be used on a tatami floor.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1219,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item19",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1220": {
+    "room_id": 12,
+    "name": "Tuna Sushi",
+    "description": "Fresh sushi with fatty tuna. It's part of a special meal set aside for a loved one. She has more kinds on offer, too.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1220,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item20",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "1221": {
+    "room_id": 12,
+    "name": "Loving Lunch",
+    "description": "A luxurious bento box with nine compartments. The selection of foods is diverse, creating an effective nutritional balance and flavors that you'll never forget.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1221,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item21",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 2
+  },
+  "1222": {
+    "room_id": 12,
+    "name": "Wooden Cabinet",
+    "description": "This small wooden cabinet by the entrance neatly displays her various odds and ends.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1222,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item22",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1223": {
+    "room_id": 12,
+    "name": "Kitchen Set",
+    "description": "A tool set comprising a frying pan, ladle, spatula, and more. All of them are clean and hang neatly on the wall.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1223,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item23",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1224": {
+    "room_id": 12,
+    "name": "Paper Fan",
+    "description": "A traditional red Sakuran fan, illustrated with wild geese and white cherry blossoms. Taihou made it herself.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1224,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item24",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1225": {
+    "room_id": 12,
+    "name": "Calligraphy Desk",
+    "description": "A simple desk with calligraphy paper on top. Sometimes, she writes or paints here.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1225,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item25",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1226": {
+    "room_id": 12,
+    "name": "Decorative Flowers",
+    "description": "A display of flowers with subtle colors and a pleasingly uneven arrangement.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1226,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item26",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1227": {
+    "room_id": 12,
+    "name": "Range Hood",
+    "description": "A practical, efficient, and quiet range hood is placed over the stove.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1227,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item27",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1228": {
+    "room_id": 12,
+    "name": "Framed Fan",
+    "description": "A fan is placed in a frame for decoration. It hangs in a conspicuous place, immediately catching the eye.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1228,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item28",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1229": {
+    "room_id": 12,
+    "name": "Kitty Wall Scroll",
+    "description": "A piece of cat artwork is prominently displayed. The confident brush strokes give a glimpse of the artist's love for cats.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1229,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item29",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
+  "1230": {
+    "room_id": 12,
+    "name": "Ceramic Cups",
+    "description": "A collection of exquisite ceramic cups with fancy patterns. Their smooth surfaces are inviting and pleasant to the touch.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1230,
+    "icon": "dorm3d/collection/3ddrom_dafeng_item30",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "time": 0
+  },
   "1601": {
     "room_id": 16,
     "name": "Menu",

@@ -4167,6 +4167,23 @@
     ],
     "contains": []
   },
+  "21052": {
+    "id": 21052,
+    "name": "META Crystal - Dewey META",
+    "description": "An item that increases the potential of Dewey META. Used in the META Lab during Somatic Activation.",
+    "type": 4,
+    "icon": "props/21052",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 25"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "21101": {
     "id": 21101,
     "name": "Crystallized Heat-Resistant Steel",
@@ -33280,6 +33297,64 @@
       }
     ]
   },
+  "30431": {
+    "id": 30431,
+    "name": "Random Gear Skin Box (Cruise Series 25)",
+    "description": "Contains 1 random Cruise Mission gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxshijiexunyou",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 25"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 2105,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96829",
+        "name": "Stunning Bird Shell"
+      },
+      {
+        "id": 2106,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96830",
+        "name": "Ink-Scaled Fish Torpedo"
+      },
+      {
+        "id": 2107,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96831",
+        "name": "Pure Lotus Shell"
+      },
+      {
+        "id": 2108,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96832",
+        "name": "Red Plum Branch"
+      }
+    ]
+  },
   "30501": {
     "id": 30501,
     "name": "Gear Skin Development Pack (Late Summer)",
@@ -60616,6 +60691,34 @@
         "linkable": false,
         "rarity": 4,
         "icon": "uipreview/108",
+        "name": "Natural Flow"
+      }
+    ]
+  },
+  "9999999109": {
+    "id": 9999999109,
+    "name": "Ink and Bamboo UI",
+    "description": "The Ink and Bamboo themed Battle UI",
+    "type": 97,
+    "icon": "props/ui_109",
+    "rarity": 4,
+    "locations": [
+      "Cruise Pass Season 25 (Paid Only)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 109,
+        "type": 99,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": false,
+        "rarity": 4,
+        "icon": "uipreview/109",
         "name": "Natural Flow"
       }
     ]

@@ -7,14 +7,15 @@ title: Ship Fleet Tech Documentation
 Contains information about bonuses and points granted for each fleet tech task of a ship. Contains
 the following properties:
 
-|      Property       |                          Type                           |                                                              Description                                                              |
-| :-----------------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
-|     **collect**     |     [`ShipFleetTechBonus`](#ship-fleet-tech-bonus)      |                                                  Bonus Data for collecting the ship.                                                  |
-|      **level**      |     [`ShipFleetTechBonus`](#ship-fleet-tech-bonus)      |                                           Bonus Data for reaching level 120 with the ship.                                            |
-|   **limit_break**   | [`Partial(ShipFleetTechBonus)`](#ship-fleet-tech-bonus) |                 Bonus Data for reaching max limit break with the ship.<br>**Only contains "pts" at time of writing.**                 |
-| **sort_data.class** |                        `number`                         | The ID of the sort class this ship belongs to in `fleet_tech_sort.json` can be mapped to [`FleetTechSortData`](#fleet-tech-sort-data) |
-| **sort_data.index** |                        `number`                         |                                                   The sort index within that class                                                    |
+|       Property        |                          Type                           |                                                              Description                                                              |
+| :-------------------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+|      **collect**      |     [`ShipFleetTechBonus`](#ship-fleet-tech-bonus)      |                                                  Bonus Data for collecting the ship.                                                  |
+|       **level**       |     [`ShipFleetTechBonus`](#ship-fleet-tech-bonus)      |                                           Bonus Data for reaching level 120 with the ship.                                            |
+|    **limit_break**    | [`Partial(ShipFleetTechBonus)`](#ship-fleet-tech-bonus) |                 Bonus Data for reaching max limit break with the ship.<br>**Only contains "pts" at time of writing.**                 |
+| **sort_data.class**\* |                        `number`                         | The ID of the sort class this ship belongs to in `fleet_tech_sort.json` can be mapped to [`FleetTechSortData`](#fleet-tech-sort-data) |
+| **sort_data.index**\* |                        `number`                         |                                                   The sort index within that class                                                    |
 
+\* Sorting is not perfectly reproducable by all sorting implementations due to the fact that lua sort is unstable (but consistent).
 
 # Ship Fleet Tech Bonus
 

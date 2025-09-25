@@ -208,5 +208,26 @@
     ],
     "contains": [],
     "favor": 2000
+  },
+  "3070701": {
+    "name": "Love Enshackled",
+    "description": "Handcuffs with a heart charm between them, simple yet profound. The cool touch of metal conveys a loving bond like nothing else.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 5,
+    "id": 3070701,
+    "purchaseable": true,
+    "expires": 0,
+    "icon": "dorm3d/items/3ddrom_dafeng_fancygift1",
+    "ship": 230,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [],
+    "favor": 2000
   }
 }

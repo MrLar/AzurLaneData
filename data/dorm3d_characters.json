@@ -289,6 +289,296 @@
       }
     ]
   },
+  "230": {
+    "id": 230,
+    "gid": 30707,
+    "name": "Taihou",
+    "room_id": 12,
+    "icon": "dorm3d/char/dafeng",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "gifts": [
+      1021001,
+      1021002,
+      1021003,
+      3070701
+    ],
+    "rarity": 5,
+    "favor_levels": [
+      {
+        "needed": 0,
+        "level": 1,
+        "items": []
+      },
+      {
+        "needed": 40,
+        "level": 2,
+        "items": [
+          {
+            "id": 1021001,
+            "type": 9,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_everyone_commongift3",
+            "name": "Bunny Plushie"
+          },
+          {
+            "id": 101201,
+            "type": 11,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/drom3d_camera1003",
+            "name": "HQ Tablet Cover: Invitation to Obsession"
+          }
+        ]
+      },
+      {
+        "needed": 200,
+        "level": 3,
+        "items": [
+          {
+            "id": 1211,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_dafeng_commonfurniture4",
+            "name": "Classical Wall Scroll"
+          }
+        ]
+      },
+      {
+        "needed": 400,
+        "level": 4,
+        "items": [
+          {
+            "id": 1009,
+            "type": 15,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/icon_frame",
+            "name": "Icon Frame: Cherry Blossoms Sing"
+          },
+          {
+            "id": 121,
+            "type": 14,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "dorm3d/recall/recall_121_icon",
+            "name": "Dorm3D Event: Hearts Under Lock and Key"
+          }
+        ]
+      },
+      {
+        "needed": 800,
+        "level": 5,
+        "items": [
+          {
+            "id": 1010,
+            "type": 13,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 4,
+            "icon": "props/drom3d_camera1002",
+            "name": "Camera Frame: Audio Player"
+          }
+        ]
+      },
+      {
+        "needed": 1000,
+        "level": 6,
+        "items": [
+          {
+            "id": 1213,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_dafeng_commonfurniture6",
+            "name": "Floor Lamp"
+          }
+        ]
+      },
+      {
+        "needed": 1500,
+        "level": 7,
+        "items": [
+          {
+            "id": 101202,
+            "type": 11,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/drom3d_camera1003",
+            "name": "HQ Tablet Cover: Mutual Codependence"
+          }
+        ]
+      },
+      {
+        "needed": 2000,
+        "level": 8,
+        "items": [
+          {
+            "id": 1212,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_dafeng_commonfurniture5",
+            "name": "Beloved Companion"
+          },
+          {
+            "id": 122,
+            "type": 14,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "dorm3d/recall/recall_122_icon",
+            "name": "Dorm3D Event: Love Enshackled"
+          }
+        ]
+      },
+      {
+        "needed": 3000,
+        "level": 9,
+        "items": [
+          {
+            "id": 1021002,
+            "type": 9,
+            "linkable": true,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_everyone_commongift2",
+            "name": "Romantic's Bouquet"
+          }
+        ]
+      },
+      {
+        "needed": 4000,
+        "level": 10,
+        "items": [
+          {
+            "id": 101203,
+            "type": 11,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/drom3d_camera1003",
+            "name": "HQ Tablet Cover: Passion at Your Fingertips"
+          }
+        ]
+      },
+      {
+        "needed": 5000,
+        "level": 11,
+        "items": [
+          {
+            "id": 1215,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_dafeng_commonfurniture8",
+            "name": "Night Light"
+          }
+        ]
+      },
+      {
+        "needed": 6000,
+        "level": 12,
+        "items": [
+          {
+            "id": 1021002,
+            "type": 9,
+            "linkable": true,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_everyone_commongift2",
+            "name": "Romantic's Bouquet"
+          },
+          {
+            "id": 123,
+            "type": 14,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "dorm3d/recall/recall_123_icon",
+            "name": "Dorm3D Event: Afternoon Sleeptalking"
+          }
+        ]
+      },
+      {
+        "needed": 7000,
+        "level": 13,
+        "items": [
+          {
+            "id": 1011,
+            "type": 13,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 4,
+            "icon": "props/drom3d_camera1002",
+            "name": "Camera Frame: Chat Window"
+          }
+        ]
+      },
+      {
+        "needed": 8000,
+        "level": 14,
+        "items": [
+          {
+            "id": 1214,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_dafeng_commonfurniture7",
+            "name": "Translucent Screen"
+          }
+        ]
+      },
+      {
+        "needed": 9000,
+        "level": 15,
+        "items": [
+          {
+            "id": 1010,
+            "type": 15,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/icon_frame",
+            "name": "Icon Frame: Golden Phoenix's Radiance"
+          }
+        ]
+      }
+    ]
+  },
   "322": {
     "id": 322,
     "gid": 30221,
