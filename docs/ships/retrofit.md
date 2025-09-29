@@ -27,6 +27,7 @@ properties:
 |         **date**         |                                                                     `number`                                                                      |                                                                     Release date of this retrofit                                                                      |
 |         **id?**          |                                                                     `number`                                                                      |                                                               **(Optional)** GID of the retrofit if any.                                                               |
 |        **tags?**         |                                                                    `string[]`                                                                     | **(Optional)** Game tags assigned to this ship after retrofit in lower case. This overrides existing tags of the ship. If absent the normal tags of the ship are used. |
+|    **gift_dislike?**     |                                                                    `number[]`                                                                     |      **(Optional)** Gift dislikes this ship has after retrofit. This overrides existing dislikes of the ship. If absent the normal dislikes of the ship are used.      |
 
 ## Retrofit Stats Data
 
@@ -46,11 +47,12 @@ DGGM Overrides serves as an object containing data that gets replaced when a DDG
 it extends [`BasicShipStats`](./index.md#basic-ship-stats) and [`ShipScalingStats`](./index.md#scaling-ship-stats)
 and additionally provides:
 
-|     Property     |                          Type                           |          Description           |
-| :--------------: | :-----------------------------------------------------: | :----------------------------: |
-|      **id**      |                        `number`                         | GID of the main fleet version. |
-| **skill_change** | [`SkillUpgradeData[]`](../common.md#skill-upgrade-data) |         Skill changes.         |
-|    **tags?**     |                       `string[]`                        |       Ship tag changes.        |
+|     Property      |                          Type                           |          Description           |
+| :---------------: | :-----------------------------------------------------: | :----------------------------: |
+|      **id**       |                        `number`                         | GID of the main fleet version. |
+| **skill_change**  | [`SkillUpgradeData[]`](../common.md#skill-upgrade-data) |         Skill changes.         |
+|     **tags?**     |                       `string[]`                        |       Ship tag changes.        |
+| **gift_dislike?** |                       `number[]`                        |     Ship dislike changes.      |
 
 
 ### Computing Retrofit Stats

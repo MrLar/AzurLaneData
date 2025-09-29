@@ -58,6 +58,7 @@ export interface ShipData {
     upgrade_text: UpgradeText[]
     oath_skin?: boolean
     unique_aug?: number
+    gift_dislike?: number[] | number[][]
 }
 
 export interface UpgradeText {
@@ -91,6 +92,7 @@ export interface RetroData {
     date: number
     id?: number
     tags?: string[]
+    gift_dislike?: number[]
 }
 
 export interface RetrofitNode {
@@ -137,6 +139,7 @@ export interface DDGMOverrides extends BasicShipStats, ShipScalingStats {
     skill_change: SkillUpgradeData[]
     id: number
     tags?: string[]
+    gift_dislike?: number[]
 }
 
 export interface ShipStatsData extends ShipScalingStats, BasicShipStats {
