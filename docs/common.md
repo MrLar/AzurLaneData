@@ -301,7 +301,7 @@ Represents the relevant data of a single item. Provides the following:
 |  **contains**   | [`ItemDrop[]`](#item-drop) | List of items that can be obtained via this item.<br>Note: The item does **not** have to drop *all* of them. Some only drop one or a handful of them. |
 
 # Item Type
-Item Type is a numeric value with the **five** ranges `[0, 5]`, `[7]`, `[9, 13]` and `[15, 26]` and `[98, 101]` where each
+Item Type is a numeric value with the **five** ranges `[0, 27]`, `[50, 51)` and `[97, 101]` where each
 number represents an in-game item type (missing values do not exit in game):
 
 | Value |        Label         |                                Description                                 |
@@ -333,7 +333,9 @@ number represents an in-game item type (missing values do not exit in game):
 |  25   |   Meta Skill Book    |                      A Book used to level META skills                      |
 |  26   |    Skin Selector     |                         A selector for ship skins                          |
 |  27   |        Dorm3D        |             An Item for the Private Quarters (Dorm3D) Feature              |
-| 27-96 |         N/A          |                              Do not exist yet                              |
+| 27-50 |         N/A          |                              Do not exist yet                              |
+|  27   |      Ship Gift       |                         An affinity gift for ship                          |
+| 51-96 |         N/A          |                              Do not exist yet                              |
 |  97   |      Battle UI       |                               Battle UI Skin                               |
 |  98   |        Other         |                               Any other item                               |
 |  99   |       Display        |                   An item only used for displaying drops                   |
@@ -359,29 +361,33 @@ various sources. It provides the following:
 
 # Item Drop Type
 
-Item Drop Type is a numeric value with the range `[0, 7]` where each
+Item Drop Type is a numeric value with the ranges `[0, 15]`, `[41, 42)` and `[45, 46)` where each
 number represents a type of commodity drop:
 
-| Value |       Label       |                                                            Description                                                            |
-| :---: | :---------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
-|   0   |       Item        |                An item from [`items`](https://github.com/MrLar/AzurLaneData/tree/main/data/items.json) is dropped                 |
-|   1   |       Gear        |            A gear from [`equipments`](https://github.com/MrLar/AzurLaneData/tree/main/data/equipments.json) is dropped            |
-|   2   |       Ship        |                 A ship from [`ships`](https://github.com/MrLar/AzurLaneData/tree/main/data/ships.json) is dropped                 |
-|   3   |       Skin        |                 A skin from [`skins`](https://github.com/MrLar/AzurLaneData/tree/main/data/skins.json) is dropped                 |
-|   4   |     Gear Skin     |           A sSkin from [`gear_skins`](https://github.com/MrLar/AzurLaneData/tree/main/data/gear_skins.json) is dropped            |
-|   5   |     Furniture     |                     A piece of furniture is dropped. These do not link to any data provided by this data set                      |
-|   6   |    Meowfficer     |        A meowfficer from [`meowfficers`](https://github.com/MrLar/AzurLaneData/tree/main/data/meowfficers.json) is dropped        |
-|   7   |      Augment      |            An augment from [`augments`](https://github.com/MrLar/AzurLaneData/tree/main/data/augments.json) is dropped            |
-|   8   |     Battle UI     |                                                    A battle UI skin is dropped                                                    |
-|   9   |   Dorm 3D Gift    |       A gift item from [`dorm3d_gifts`](https://github.com/MrLar/AzurLaneData/tree/main/data/dorm3d_gifts.json) is dropped        |
-|  10   | Dorm 3D Furniture | A furniture item from [`dorm3d_furniture`](https://github.com/MrLar/AzurLaneData/tree/main/data/dorm3d_furniture.json) is dropped |
-|  11   | Living Area Cover |           A piece of living area (HQ Tablet) cover is unlocked. These do not link to any data provided by this data set           |
-|  12   |   Camera Volume   |               A Dorm3D Camera Volume (Filter) is unlocked. These do not link to any data provided by this data set                |
-|  13   |   Camera Frame    |                    A Dorm3D Camera Frame is unlocked. These do not link to any data provided by this data set                     |
-|  14   |   Dorm3D Story    |                        A Dorm3D Story is unlocked. These do not link to any data provided by this data set                        |
-|  15   |    Icon Frame     |                        An Icon frame is unlocked. These do not link to any data provided by this data set                         |
-| 15-98 |        N/A        |                                                         Do not exist yet                                                          |
-|  99   | Battle UI Preview |                                               Meta-Data Type for Battle UI Previews                                               |
+| Value |        Label         |                                                            Description                                                            |
+| :---: | :------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+|   0   |         Item         |                An item from [`items`](https://github.com/MrLar/AzurLaneData/tree/main/data/items.json) is dropped                 |
+|   1   |         Gear         |            A gear from [`equipments`](https://github.com/MrLar/AzurLaneData/tree/main/data/equipments.json) is dropped            |
+|   2   |         Ship         |                 A ship from [`ships`](https://github.com/MrLar/AzurLaneData/tree/main/data/ships.json) is dropped                 |
+|   3   |         Skin         |                 A skin from [`skins`](https://github.com/MrLar/AzurLaneData/tree/main/data/skins.json) is dropped                 |
+|   4   |      Gear Skin       |           A sSkin from [`gear_skins`](https://github.com/MrLar/AzurLaneData/tree/main/data/gear_skins.json) is dropped            |
+|   5   |      Furniture       |                     A piece of furniture is dropped. These do not link to any data provided by this data set                      |
+|   6   |      Meowfficer      |        A meowfficer from [`meowfficers`](https://github.com/MrLar/AzurLaneData/tree/main/data/meowfficers.json) is dropped        |
+|   7   |       Augment        |            An augment from [`augments`](https://github.com/MrLar/AzurLaneData/tree/main/data/augments.json) is dropped            |
+|   8   |      Battle UI       |                                                    A battle UI skin is dropped                                                    |
+|   9   |     Dorm 3D Gift     |       A gift item from [`dorm3d_gifts`](https://github.com/MrLar/AzurLaneData/tree/main/data/dorm3d_gifts.json) is dropped        |
+|  10   |  Dorm 3D Furniture   | A furniture item from [`dorm3d_furniture`](https://github.com/MrLar/AzurLaneData/tree/main/data/dorm3d_furniture.json) is dropped |
+|  11   |  Living Area Cover   |           A piece of living area (HQ Tablet) cover is unlocked. These do not link to any data provided by this data set           |
+|  12   |    Camera Volume     |               A Dorm3D Camera Volume (Filter) is unlocked. These do not link to any data provided by this data set                |
+|  13   |     Camera Frame     |                    A Dorm3D Camera Frame is unlocked. These do not link to any data provided by this data set                     |
+|  14   |     Dorm3D Story     |                        A Dorm3D Story is unlocked. These do not link to any data provided by this data set                        |
+|  15   |      Icon Frame      |                        An Icon frame is unlocked. These do not link to any data provided by this data set                         |
+| 16-40 |         N/A          |                                                         Do not exist yet                                                          |
+|  41   | Island Planner Item  |                                          A generic item for the Island Planner Game mode                                          |
+| 42-44 |         N/A          |                                                         Do not exist yet                                                          |
+|  45   | Island Planner Furni |                                         A furniture item for the Island Planner game mode                                         |
+| 16-98 |         N/A          |                                                         Do not exist yet                                                          |
+|  99   |  Battle UI Preview   |                                               Meta-Data Type for Battle UI Previews                                               |
 
 # Research
 Represents a single research in the game. Has the following properties:

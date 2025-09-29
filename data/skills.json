@@ -61467,7 +61467,7 @@
     ]
   },
   "801920": {
-    "description": "If there is a CV or CVL in your fleet: decreases your Main Fleet's DMG taken by $1 until the battle ends. When this ship fires her torpedoes: $2 chance to fire another wave of torpedoes.",
+    "description": "If there is a CV or CVL in your fleet: decreases your Main Fleet's DMG taken by $1 until the battle ends {and when this ship fires her torpedoes: $2 chance to fire another wave of torpedoes|For this effect to work there has to be a CV/CVL in the fleet. The in-game description puts this effect into a new sentence, heavily implying it does not matter if there is a CV/CVL in the fleet.}.",
     "opsi_description": null,
     "name": "Offensive Stance",
     "max": 10,

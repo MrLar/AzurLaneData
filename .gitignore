@@ -13,3 +13,6 @@ bun.lockb
 .vscode
 # unfinished and only affects planes no one cares about as of now
 interceptor_overrides.json
+# island is not fully mined yet
+data/island
+types/island.d.ts

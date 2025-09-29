@@ -56,6 +56,8 @@ export type ItemDropType =
 13 | // dorm3d camera frame
 14 | // dorm3d camera story
 15 | // icon frame
+41 | // island item
+45 | // island furniture
 99 // battle ui preview
 
 // this could be an enum, but TS enums add uneccesary overhead
@@ -84,6 +86,7 @@ export type ItemType =
 25 | // meta skill book
 26 | // skin selector
 27 | // dorm3d
+50 | // ship gift
 97 | // battle ui
 98 | // other
 99 | // display only

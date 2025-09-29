@@ -57709,6 +57709,44 @@
     ],
     "contains": []
   },
+  "81220": {
+    "id": 81220,
+    "name": "The Heart-Throbber Pack",
+    "description": "Buy to receive Limited-Edition Coins x 10 and T2 EXP Data Packs x 12.",
+    "type": 17,
+    "icon": "chargeicon/boxdokidoki",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 180001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 10,
+        "blueprint": false,
+        "icon": "props/gift01",
+        "name": "Limited-Edition Coin"
+      },
+      {
+        "id": 16502,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 12,
+        "blueprint": false,
+        "icon": "props/16502",
+        "name": "T2 EXP Data Pack"
+      }
+    ]
+  },
   "81407": {
     "id": 81407,
     "name": "Choose-Your-Own Gift Pack I",
@@ -60301,6 +60339,160 @@
         "name": "Supercavitation Generator"
       }
     ]
+  },
+  "180001": {
+    "id": 180001,
+    "name": "Limited-Edition Coin",
+    "description": "A fairly heavy commemorative coin. It has an exceptional glow, and represents a special honor and a memory.\nCan be given to raise Affinity by 5 with shipgirls who like this gift.",
+    "type": 50,
+    "icon": "props/gift01",
+    "rarity": 6,
+    "locations": [
+      "IAP Purchase",
+      "Island Planner"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "180002": {
+    "id": 180002,
+    "name": "Hardcover Book",
+    "description": "A hardcover book that smells of ink and sports a classic vibe. It's worthy of going on your table and being reread time and time again.\nCan be given to raise Affinity by 1 with shipgirls who like this gift.",
+    "type": 50,
+    "icon": "props/gift02",
+    "rarity": 5,
+    "locations": [
+      "Island Planner"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "180003": {
+    "id": 180003,
+    "name": "Bouquet",
+    "description": "A gorgeous, fresh bouquet. Its flowers are brimming with color and life, and they promise joy for the days to come.\nCan be given to raise Affinity by 1 with shipgirls who like this gift.",
+    "type": 50,
+    "icon": "props/gift03",
+    "rarity": 5,
+    "locations": [
+      "Island Planner"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "180004": {
+    "id": 180004,
+    "name": "Ceremonial Sword",
+    "description": "This ceremonial sword with a flowing silhouette gives off the cold brilliance of steel. It silently speaks of order and majesty.\nCan be given to raise Affinity by 1 with shipgirls who like this gift.",
+    "type": 50,
+    "icon": "props/gift04",
+    "rarity": 5,
+    "locations": [
+      "Island Planner"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "180005": {
+    "id": 180005,
+    "name": "Fluffy Stuffed Animal",
+    "description": "An adorable stuffed animal that's soft to the touch. Give it a hug, and its fluffy warmth and innocent smile will soften your heart.\nCan be given to raise Affinity by 1 with shipgirls who like this gift.",
+    "type": 50,
+    "icon": "props/gift05",
+    "rarity": 5,
+    "locations": [
+      "Island Planner"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "180006": {
+    "id": 180006,
+    "name": "Antique Ornament",
+    "description": "The sands of time have poured over this ornament, turning it into an elegant antique. Quietly, it lends an air of tranquility to a room.\nCan be given to raise Affinity by 1 with shipgirls who like this gift.",
+    "type": 50,
+    "icon": "props/gift06",
+    "rarity": 5,
+    "locations": [
+      "Island Planner"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "180007": {
+    "id": 180007,
+    "name": "Exquisite Accessory",
+    "description": "An accessory that, although understated, glimmers with exceptional craftsmanship. It adds just a little light to every moment of one's life.\nCan be given to raise Affinity by 1 with shipgirls who like this gift.",
+    "type": 50,
+    "icon": "props/gift07",
+    "rarity": 5,
+    "locations": [
+      "Island Planner"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "180008": {
+    "id": 180008,
+    "name": "Premium Perfume",
+    "description": "A wonderfully pure aroma hides inside this modest flask. Just one spray of this fragrance brings out tones of refined class.\nCan be given to raise Affinity by 1 with shipgirls who like this gift.",
+    "type": 50,
+    "icon": "props/gift08",
+    "rarity": 5,
+    "locations": [
+      "Island Planner"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "180009": {
+    "id": 180009,
+    "name": "Game Console Set",
+    "description": "An entertainment system that will fill up every moment of your spare time. This thoughtful gift contains just about all the content you need for a fun play session.\nCan be given to raise Affinity by 1 with shipgirls who like this gift.",
+    "type": 50,
+    "icon": "props/gift09",
+    "rarity": 5,
+    "locations": [
+      "Island Planner"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
   },
   "2000000": {
     "id": 2000000,
