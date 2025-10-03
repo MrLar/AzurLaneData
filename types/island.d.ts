@@ -307,6 +307,7 @@ export interface IslandTask {
     event: boolean
     targets: IslandTaskTarget[]
     rewards: ItemDrop[]
+    type: IslandTaskType
 }
 
 export type IslandTaskConditionType =
@@ -319,6 +320,17 @@ export type IslandTaskConditionType =
 8 | // own any commander dress
 9 | // own all commander dress
 99 // impossible
+
+export type IslandTaskType =
+1 | // main
+2 | // branch
+3 | // daily
+4 | // weekly
+5 | // event (branch)
+6 | // event (daily)
+6 | // event (weekly)
+7 | // season
+9 // hidden
 
 export interface IslandTaskCondition {
     type: IslandTaskConditionType
