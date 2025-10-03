@@ -328,8 +328,8 @@ export type IslandTaskType =
 4 | // weekly
 5 | // event (branch)
 6 | // event (daily)
-6 | // event (weekly)
-7 | // season
+7 | // event (weekly)
+8 | // season
 9 // hidden
 
 export interface IslandTaskCondition {
