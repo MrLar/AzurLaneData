@@ -361,37 +361,40 @@ various sources. It provides the following:
 
 # Item Drop Type
 
-Item Drop Type is a numeric value with the ranges `[0, 15]`, `[41, 42)`, `[43, 44)`, `[45, 47]` and `[99, 100)` where each
+Item Drop Type is a numeric value with the ranges `[0, 15]`, `[41, 42)`, `[43, 47]`, `[50, 51]` and `[99, 100)` where each
 number represents a type of commodity drop:
 
-| Value |        Label         |                                                            Description                                                            |
-| :---: | :------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
-|   0   |         Item         |                An item from [`items`](https://github.com/MrLar/AzurLaneData/tree/main/data/items.json) is dropped                 |
-|   1   |         Gear         |            A gear from [`equipments`](https://github.com/MrLar/AzurLaneData/tree/main/data/equipments.json) is dropped            |
-|   2   |         Ship         |                 A ship from [`ships`](https://github.com/MrLar/AzurLaneData/tree/main/data/ships.json) is dropped                 |
-|   3   |         Skin         |                 A skin from [`skins`](https://github.com/MrLar/AzurLaneData/tree/main/data/skins.json) is dropped                 |
-|   4   |      Gear Skin       |           A sSkin from [`gear_skins`](https://github.com/MrLar/AzurLaneData/tree/main/data/gear_skins.json) is dropped            |
-|   5   |      Furniture       |                     A piece of furniture is dropped. These do not link to any data provided by this data set                      |
-|   6   |      Meowfficer      |        A meowfficer from [`meowfficers`](https://github.com/MrLar/AzurLaneData/tree/main/data/meowfficers.json) is dropped        |
-|   7   |       Augment        |            An augment from [`augments`](https://github.com/MrLar/AzurLaneData/tree/main/data/augments.json) is dropped            |
-|   8   |      Battle UI       |                                                    A battle UI skin is dropped                                                    |
-|   9   |     Dorm 3D Gift     |       A gift item from [`dorm3d_gifts`](https://github.com/MrLar/AzurLaneData/tree/main/data/dorm3d_gifts.json) is dropped        |
-|  10   |  Dorm 3D Furniture   | A furniture item from [`dorm3d_furniture`](https://github.com/MrLar/AzurLaneData/tree/main/data/dorm3d_furniture.json) is dropped |
-|  11   |  Living Area Cover   |           A piece of living area (HQ Tablet) cover is unlocked. These do not link to any data provided by this data set           |
-|  12   |    Camera Volume     |               A Dorm3D Camera Volume (Filter) is unlocked. These do not link to any data provided by this data set                |
-|  13   |     Camera Frame     |                    A Dorm3D Camera Frame is unlocked. These do not link to any data provided by this data set                     |
-|  14   |     Dorm3D Story     |                        A Dorm3D Story is unlocked. These do not link to any data provided by this data set                        |
-|  15   |      Icon Frame      |                        An Icon frame is unlocked. These do not link to any data provided by this data set                         |
-| 16-40 |         N/A          |                                                         Do not exist yet                                                          |
-|  41   | Island Planner Item  |                                          A generic item for the Island Planner Game mode                                          |
-|  42   |         N/A          |                                                        Does not exist yet                                                         |
-|  43   |    Island Ability    |                                          An Island mode Ability (used to unlock things)                                           |
-|  44   |         N/A          |                                                        Does not exist yet                                                         |
-|  45   | Island Planner Furni |                                         A furniture item for the Island Planner game mode                                         |
-|  46   |     Island Dress     |                                         A cosmetic item for the Island Planner game mode                                          |
-|  47   |     Island Skin      |                                              A skin for the Island Planner game mode                                              |
-| 48-98 |         N/A          |                                                         Do not exist yet                                                          |
-|  99   |  Battle UI Preview   |                                               Meta-Data Type for Battle UI Previews                                               |
+| Value |          Label           |                                                            Description                                                            |
+| :---: | :----------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+|   0   |           Item           |                An item from [`items`](https://github.com/MrLar/AzurLaneData/tree/main/data/items.json) is dropped                 |
+|   1   |           Gear           |            A gear from [`equipments`](https://github.com/MrLar/AzurLaneData/tree/main/data/equipments.json) is dropped            |
+|   2   |           Ship           |                 A ship from [`ships`](https://github.com/MrLar/AzurLaneData/tree/main/data/ships.json) is dropped                 |
+|   3   |           Skin           |                 A skin from [`skins`](https://github.com/MrLar/AzurLaneData/tree/main/data/skins.json) is dropped                 |
+|   4   |        Gear Skin         |           A sSkin from [`gear_skins`](https://github.com/MrLar/AzurLaneData/tree/main/data/gear_skins.json) is dropped            |
+|   5   |        Furniture         |                     A piece of furniture is dropped. These do not link to any data provided by this data set                      |
+|   6   |        Meowfficer        |        A meowfficer from [`meowfficers`](https://github.com/MrLar/AzurLaneData/tree/main/data/meowfficers.json) is dropped        |
+|   7   |         Augment          |            An augment from [`augments`](https://github.com/MrLar/AzurLaneData/tree/main/data/augments.json) is dropped            |
+|   8   |        Battle UI         |                                                    A battle UI skin is dropped                                                    |
+|   9   |       Dorm 3D Gift       |       A gift item from [`dorm3d_gifts`](https://github.com/MrLar/AzurLaneData/tree/main/data/dorm3d_gifts.json) is dropped        |
+|  10   |    Dorm 3D Furniture     | A furniture item from [`dorm3d_furniture`](https://github.com/MrLar/AzurLaneData/tree/main/data/dorm3d_furniture.json) is dropped |
+|  11   |    Living Area Cover     |           A piece of living area (HQ Tablet) cover is unlocked. These do not link to any data provided by this data set           |
+|  12   |      Camera Volume       |               A Dorm3D Camera Volume (Filter) is unlocked. These do not link to any data provided by this data set                |
+|  13   |       Camera Frame       |                    A Dorm3D Camera Frame is unlocked. These do not link to any data provided by this data set                     |
+|  14   |       Dorm3D Story       |                        A Dorm3D Story is unlocked. These do not link to any data provided by this data set                        |
+|  15   |        Icon Frame        |                        An Icon frame is unlocked. These do not link to any data provided by this data set                         |
+| 16-40 |           N/A            |                                                         Do not exist yet                                                          |
+|  41   |   Island Planner Item    |                                          A generic item for the Island Planner Game mode                                          |
+|  42   |           N/A            |                                                        Does not exist yet                                                         |
+|  43   |      Island Ability      |                                          An Island mode Ability (used to unlock things)                                           |
+|  44   | Island Planner Character |                                           A character for the Island Planner game mode                                            |
+|  45   |   Island Planner Furni   |                                         A furniture item for the Island Planner game mode                                         |
+|  46   |       Island Dress       |                                         A cosmetic item for the Island Planner game mode                                          |
+|  47   |       Island Skin        |                                              A skin for the Island Planner game mode                                              |
+| 48-49 |           N/A            |                                                         Do not exist yet                                                          |
+|  50   |      Island Speedup      |                                        A speed up ticket for the Island Planner game mode                                         |
+|  51   |      Island Action       |                                            An Action for the Island Planner game mode                                             |
+| 52-98 |           N/A            |                                                         Do not exist yet                                                          |
+|  99   |    Battle UI Preview     |                                               Meta-Data Type for Battle UI Previews                                               |
 
 # Research
 Represents a single research in the game. Has the following properties:

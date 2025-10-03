@@ -58,9 +58,11 @@ export type ItemDropType =
 15 | // icon frame
 41 | // island item
 43 | // island ability
+44 | // island character
 45 | // island furniture
 46 | // island dress
 47 | // island skin
+50 | // island speed up ticket
 51 | // island action
 99 // battle ui preview
 
