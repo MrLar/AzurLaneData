@@ -361,7 +361,7 @@ various sources. It provides the following:
 
 # Item Drop Type
 
-Item Drop Type is a numeric value with the ranges `[0, 15]`, `[41, 42)` and `[45, 46)` where each
+Item Drop Type is a numeric value with the ranges `[0, 15]`, `[41, 42)`, `[43, 44)`, `[45, 47]` and `[99, 100)` where each
 number represents a type of commodity drop:
 
 | Value |        Label         |                                                            Description                                                            |
@@ -384,9 +384,13 @@ number represents a type of commodity drop:
 |  15   |      Icon Frame      |                        An Icon frame is unlocked. These do not link to any data provided by this data set                         |
 | 16-40 |         N/A          |                                                         Do not exist yet                                                          |
 |  41   | Island Planner Item  |                                          A generic item for the Island Planner Game mode                                          |
-| 42-44 |         N/A          |                                                         Do not exist yet                                                          |
+|  42   |         N/A          |                                                        Does not exist yet                                                         |
+|  43   |    Island Ability    |                                          An Island mode Ability (used to unlock things)                                           |
+|  44   |         N/A          |                                                        Does not exist yet                                                         |
 |  45   | Island Planner Furni |                                         A furniture item for the Island Planner game mode                                         |
-| 16-98 |         N/A          |                                                         Do not exist yet                                                          |
+|  46   |     Island Dress     |                                         A cosmetic item for the Island Planner game mode                                          |
+|  47   |     Island Skin      |                                              A skin for the Island Planner game mode                                              |
+| 48-98 |         N/A          |                                                         Do not exist yet                                                          |
 |  99   |  Battle UI Preview   |                                               Meta-Data Type for Battle UI Previews                                               |
 
 # Research

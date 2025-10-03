@@ -1,0 +1,3491 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Workerjuu",
+    "skill": {
+      "name": "Infinite Stamina",
+      "icon": "island/skill/chara_all_skill_8",
+      "description": "When performing work of any sort, stamina will not deplete.",
+      "values": []
+    },
+    "icon": "island/char/gongzuojiu",
+    "max_break": 0,
+    "break_interval": 0,
+    "energy": 999,
+    "energy_recover": 5,
+    "upgrade_energy": [
+      0,
+      10,
+      10,
+      10,
+      20
+    ],
+    "base_attr": [
+      {
+        "attr": "plant",
+        "value": 0
+      },
+      {
+        "attr": "collect",
+        "value": 0
+      },
+      {
+        "attr": "conserve",
+        "value": 0
+      },
+      {
+        "attr": "cooking",
+        "value": 0
+      },
+      {
+        "attr": "manage",
+        "value": 0
+      },
+      {
+        "attr": "machinery",
+        "value": 0
+      }
+    ],
+    "growth_attr": [
+      {
+        "attr": "plant",
+        "value": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "attr": "collect",
+        "value": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "attr": "conserve",
+        "value": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "attr": "cooking",
+        "value": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "attr": "manage",
+        "value": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "attr": "machinery",
+        "value": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "extra_attr_limits": [
+      {
+        "attr": "plant",
+        "limit": [
+          0,
+          0
+        ]
+      },
+      {
+        "attr": "collect",
+        "limit": [
+          0,
+          0
+        ]
+      },
+      {
+        "attr": "conserve",
+        "limit": [
+          0,
+          0
+        ]
+      },
+      {
+        "attr": "cooking",
+        "limit": [
+          0,
+          0
+        ]
+      },
+      {
+        "attr": "manage",
+        "limit": [
+          0,
+          0
+        ]
+      },
+      {
+        "attr": "machinery",
+        "limit": [
+          0,
+          0
+        ]
+      }
+    ],
+    "exp_needed": [
+      0
+    ],
+    "skins": [],
+    "dresses": []
+  },
+  "10517": {
+    "id": 10517,
+    "name": "New Jersey",
+    "skill": {
+      "name": "Lumberjack Expertise",
+      "icon": "island/skill/chara_all_skill_2",
+      "description": "When performing work in the Verdant Woods, lumber production time is shortened by $1%.",
+      "values": [
+        [
+          "6",
+          "6.5",
+          "7",
+          "7.5",
+          "8",
+          "8.5",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      ]
+    },
+    "icon": "island/char/xinzexi",
+    "max_break": 4,
+    "break_interval": 10,
+    "energy": 100,
+    "energy_recover": 300,
+    "upgrade_energy": [
+      0,
+      10,
+      10,
+      10,
+      20
+    ],
+    "base_attr": [
+      {
+        "attr": "plant",
+        "value": 10
+      },
+      {
+        "attr": "collect",
+        "value": 7
+      },
+      {
+        "attr": "conserve",
+        "value": 20
+      },
+      {
+        "attr": "cooking",
+        "value": 25
+      },
+      {
+        "attr": "manage",
+        "value": 16
+      },
+      {
+        "attr": "machinery",
+        "value": 2
+      }
+    ],
+    "growth_attr": [
+      {
+        "attr": "plant",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "collect",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "conserve",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "cooking",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "manage",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "machinery",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      }
+    ],
+    "extra_attr_limits": [
+      {
+        "attr": "plant",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "collect",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "conserve",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "cooking",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "manage",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "machinery",
+        "limit": [
+          100,
+          300
+        ]
+      }
+    ],
+    "exp_needed": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600,
+      1700,
+      1800,
+      2000,
+      2200,
+      2400,
+      2600,
+      2800,
+      3000,
+      3200,
+      3400,
+      3600,
+      3800,
+      4000,
+      4500,
+      5000,
+      5500,
+      6000,
+      6500,
+      7000,
+      7500,
+      8000,
+      8500,
+      9000,
+      9500,
+      10000,
+      11000,
+      12000,
+      13000,
+      14000,
+      16000,
+      18000,
+      20000,
+      24000,
+      0
+    ],
+    "skins": [],
+    "dresses": []
+  },
+  "10703": {
+    "id": 10703,
+    "name": "Saratoga",
+    "skill": {
+      "name": "Farming Expertise",
+      "icon": "island/skill/chara_all_skill_5",
+      "description": "When performing work at Faircrop Fields, crop ripening time is shortened by $1%.",
+      "values": [
+        [
+          "6",
+          "6.5",
+          "7",
+          "7.5",
+          "8",
+          "8.5",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      ]
+    },
+    "icon": "island/char/salatuojia",
+    "max_break": 4,
+    "break_interval": 10,
+    "energy": 100,
+    "energy_recover": 300,
+    "upgrade_energy": [
+      0,
+      10,
+      10,
+      10,
+      20
+    ],
+    "base_attr": [
+      {
+        "attr": "plant",
+        "value": 16
+      },
+      {
+        "attr": "collect",
+        "value": 16
+      },
+      {
+        "attr": "conserve",
+        "value": 23
+      },
+      {
+        "attr": "cooking",
+        "value": 6
+      },
+      {
+        "attr": "manage",
+        "value": 10
+      },
+      {
+        "attr": "machinery",
+        "value": 18
+      }
+    ],
+    "growth_attr": [
+      {
+        "attr": "plant",
+        "value": [
+          1,
+          1.5,
+          2,
+          2,
+          3
+        ]
+      },
+      {
+        "attr": "collect",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "conserve",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "cooking",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "manage",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "machinery",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      }
+    ],
+    "extra_attr_limits": [
+      {
+        "attr": "plant",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "collect",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "conserve",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "cooking",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "manage",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "machinery",
+        "limit": [
+          100,
+          300
+        ]
+      }
+    ],
+    "exp_needed": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600,
+      1700,
+      1800,
+      2000,
+      2200,
+      2400,
+      2600,
+      2800,
+      3000,
+      3200,
+      3400,
+      3600,
+      3800,
+      4000,
+      4500,
+      5000,
+      5500,
+      6000,
+      6500,
+      7000,
+      7500,
+      8000,
+      8500,
+      9000,
+      9500,
+      10000,
+      11000,
+      12000,
+      13000,
+      14000,
+      16000,
+      18000,
+      20000,
+      24000,
+      0
+    ],
+    "skins": [],
+    "dresses": []
+  },
+  "20403": {
+    "id": 20403,
+    "name": "Hood",
+    "skill": {
+      "name": "Nursery Expertise",
+      "icon": "island/skill/chara_all_skill_9",
+      "description": "When performing work at Newsprout Nursery, crop ripening time is shortened by $1%.",
+      "values": [
+        [
+          "6",
+          "6.5",
+          "7",
+          "7.5",
+          "8",
+          "8.5",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      ]
+    },
+    "icon": "island/char/hude",
+    "max_break": 4,
+    "break_interval": 10,
+    "energy": 100,
+    "energy_recover": 300,
+    "upgrade_energy": [
+      0,
+      10,
+      10,
+      10,
+      20
+    ],
+    "base_attr": [
+      {
+        "attr": "plant",
+        "value": 9
+      },
+      {
+        "attr": "collect",
+        "value": 8
+      },
+      {
+        "attr": "conserve",
+        "value": 22
+      },
+      {
+        "attr": "cooking",
+        "value": 12
+      },
+      {
+        "attr": "manage",
+        "value": 25
+      },
+      {
+        "attr": "machinery",
+        "value": 4
+      }
+    ],
+    "growth_attr": [
+      {
+        "attr": "plant",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "collect",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "conserve",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "cooking",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "manage",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "machinery",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      }
+    ],
+    "extra_attr_limits": [
+      {
+        "attr": "plant",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "collect",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "conserve",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "cooking",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "manage",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "machinery",
+        "limit": [
+          100,
+          300
+        ]
+      }
+    ],
+    "exp_needed": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600,
+      1700,
+      1800,
+      2000,
+      2200,
+      2400,
+      2600,
+      2800,
+      3000,
+      3200,
+      3400,
+      3600,
+      3800,
+      4000,
+      4500,
+      5000,
+      5500,
+      6000,
+      6500,
+      7000,
+      7500,
+      8000,
+      8500,
+      9000,
+      9500,
+      10000,
+      11000,
+      12000,
+      13000,
+      14000,
+      16000,
+      18000,
+      20000,
+      24000,
+      0
+    ],
+    "skins": [],
+    "dresses": []
+  },
+  "20603": {
+    "id": 20603,
+    "name": "Unicorn",
+    "skill": {
+      "name": "Mining Expertise",
+      "icon": "island/skill/chara_all_skill_1",
+      "description": "When performing work at Rockheap Mine, mineral mining time is shortened by $1%.",
+      "values": [
+        [
+          "6",
+          "6.5",
+          "7",
+          "7.5",
+          "8",
+          "8.5",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      ]
+    },
+    "icon": "island/char/dujiaoshou",
+    "max_break": 4,
+    "break_interval": 10,
+    "energy": 100,
+    "energy_recover": 300,
+    "upgrade_energy": [
+      0,
+      10,
+      10,
+      10,
+      20
+    ],
+    "base_attr": [
+      {
+        "attr": "plant",
+        "value": 3
+      },
+      {
+        "attr": "collect",
+        "value": 16
+      },
+      {
+        "attr": "conserve",
+        "value": 6
+      },
+      {
+        "attr": "cooking",
+        "value": 20
+      },
+      {
+        "attr": "manage",
+        "value": 25
+      },
+      {
+        "attr": "machinery",
+        "value": 10
+      }
+    ],
+    "growth_attr": [
+      {
+        "attr": "plant",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "collect",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "conserve",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "cooking",
+        "value": [
+          1,
+          1.5,
+          2,
+          2,
+          3
+        ]
+      },
+      {
+        "attr": "manage",
+        "value": [
+          1,
+          1.5,
+          2,
+          2,
+          3
+        ]
+      },
+      {
+        "attr": "machinery",
+        "value": [
+          1,
+          1.5,
+          2,
+          2,
+          3
+        ]
+      }
+    ],
+    "extra_attr_limits": [
+      {
+        "attr": "plant",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "collect",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "conserve",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "cooking",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "manage",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "machinery",
+        "limit": [
+          100,
+          300
+        ]
+      }
+    ],
+    "exp_needed": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600,
+      1700,
+      1800,
+      2000,
+      2200,
+      2400,
+      2600,
+      2800,
+      3000,
+      3200,
+      3400,
+      3600,
+      3800,
+      4000,
+      4500,
+      5000,
+      5500,
+      6000,
+      6500,
+      7000,
+      7500,
+      8000,
+      8500,
+      9000,
+      9500,
+      10000,
+      11000,
+      12000,
+      13000,
+      14000,
+      16000,
+      18000,
+      20000,
+      24000,
+      0
+    ],
+    "skins": [],
+    "dresses": []
+  },
+  "29903": {
+    "id": 29903,
+    "name": "Cheshire",
+    "skill": {
+      "name": "Thirst Quencher",
+      "icon": "island/skill/chara_all_skill_4",
+      "description": "When assigned as staff to Café Manjuu or the Polar Bear Teahouse, revenue from food increases by $1% and 1 food item slot is added.",
+      "values": [
+        [
+          "2",
+          "2.2",
+          "2.5",
+          "2.7",
+          "3",
+          "3.2",
+          "3.5",
+          "4",
+          "4.5",
+          "5"
+        ]
+      ]
+    },
+    "icon": "island/char/chaijun",
+    "max_break": 4,
+    "break_interval": 10,
+    "energy": 100,
+    "energy_recover": 300,
+    "upgrade_energy": [
+      0,
+      10,
+      10,
+      10,
+      20
+    ],
+    "base_attr": [
+      {
+        "attr": "plant",
+        "value": 20
+      },
+      {
+        "attr": "collect",
+        "value": 12
+      },
+      {
+        "attr": "conserve",
+        "value": 2
+      },
+      {
+        "attr": "cooking",
+        "value": 13
+      },
+      {
+        "attr": "manage",
+        "value": 16
+      },
+      {
+        "attr": "machinery",
+        "value": 20
+      }
+    ],
+    "growth_attr": [
+      {
+        "attr": "plant",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "collect",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "conserve",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "cooking",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "manage",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "machinery",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      }
+    ],
+    "extra_attr_limits": [
+      {
+        "attr": "plant",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "collect",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "conserve",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "cooking",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "manage",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "machinery",
+        "limit": [
+          100,
+          300
+        ]
+      }
+    ],
+    "exp_needed": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600,
+      1700,
+      1800,
+      2000,
+      2200,
+      2400,
+      2600,
+      2800,
+      3000,
+      3200,
+      3400,
+      3600,
+      3800,
+      4000,
+      4500,
+      5000,
+      5500,
+      6000,
+      6500,
+      7000,
+      7500,
+      8000,
+      8500,
+      9000,
+      9500,
+      10000,
+      11000,
+      12000,
+      13000,
+      14000,
+      16000,
+      18000,
+      20000,
+      24000,
+      0
+    ],
+    "skins": [],
+    "dresses": []
+  },
+  "30129": {
+    "id": 30129,
+    "name": "Shimakaze",
+    "skill": {
+      "name": "Ranching Expertise",
+      "icon": "island/skill/chara_all_skill_6",
+      "description": "When performing work at Laidback Ranch, animal product production time is shortened by $1%.",
+      "values": [
+        [
+          "6",
+          "6.5",
+          "7",
+          "7.5",
+          "8",
+          "8.5",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      ]
+    },
+    "icon": "island/char/daofeng",
+    "max_break": 4,
+    "break_interval": 10,
+    "energy": 100,
+    "energy_recover": 300,
+    "upgrade_energy": [
+      0,
+      10,
+      10,
+      10,
+      20
+    ],
+    "base_attr": [
+      {
+        "attr": "plant",
+        "value": 8
+      },
+      {
+        "attr": "collect",
+        "value": 20
+      },
+      {
+        "attr": "conserve",
+        "value": 6
+      },
+      {
+        "attr": "cooking",
+        "value": 17
+      },
+      {
+        "attr": "manage",
+        "value": 25
+      },
+      {
+        "attr": "machinery",
+        "value": 4
+      }
+    ],
+    "growth_attr": [
+      {
+        "attr": "plant",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "collect",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "conserve",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "cooking",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "manage",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "machinery",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      }
+    ],
+    "extra_attr_limits": [
+      {
+        "attr": "plant",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "collect",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "conserve",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "cooking",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "manage",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "machinery",
+        "limit": [
+          100,
+          300
+        ]
+      }
+    ],
+    "exp_needed": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600,
+      1700,
+      1800,
+      2000,
+      2200,
+      2400,
+      2600,
+      2800,
+      3000,
+      3200,
+      3400,
+      3600,
+      3800,
+      4000,
+      4500,
+      5000,
+      5500,
+      6000,
+      6500,
+      7000,
+      7500,
+      8000,
+      8500,
+      9000,
+      9500,
+      10000,
+      11000,
+      12000,
+      13000,
+      14000,
+      16000,
+      18000,
+      20000,
+      24000,
+      0
+    ],
+    "skins": [],
+    "dresses": []
+  },
+  "30407": {
+    "id": 30407,
+    "name": "Amagi-chan",
+    "skill": {
+      "name": "Fruit-Harvesting Expertise",
+      "icon": "island/skill/chara_all_skill_10",
+      "description": "When performing work at Sweetscent Orchard, there is a $1% chance of getting additional output each time work is done.",
+      "values": [
+        [
+          "6",
+          "6.5",
+          "7",
+          "7.5",
+          "8",
+          "8.5",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      ]
+    },
+    "icon": "island/char/tiancheng_younv",
+    "max_break": 4,
+    "break_interval": 10,
+    "energy": 100,
+    "energy_recover": 300,
+    "upgrade_energy": [
+      0,
+      10,
+      10,
+      10,
+      20
+    ],
+    "base_attr": [
+      {
+        "attr": "plant",
+        "value": 4
+      },
+      {
+        "attr": "collect",
+        "value": 13
+      },
+      {
+        "attr": "conserve",
+        "value": 11
+      },
+      {
+        "attr": "cooking",
+        "value": 24
+      },
+      {
+        "attr": "manage",
+        "value": 12
+      },
+      {
+        "attr": "machinery",
+        "value": 16
+      }
+    ],
+    "growth_attr": [
+      {
+        "attr": "plant",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "collect",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "conserve",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "cooking",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "manage",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "machinery",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      }
+    ],
+    "extra_attr_limits": [
+      {
+        "attr": "plant",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "collect",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "conserve",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "cooking",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "manage",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "machinery",
+        "limit": [
+          100,
+          300
+        ]
+      }
+    ],
+    "exp_needed": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600,
+      1700,
+      1800,
+      2000,
+      2200,
+      2400,
+      2600,
+      2800,
+      3000,
+      3200,
+      3400,
+      3600,
+      3800,
+      4000,
+      4500,
+      5000,
+      5500,
+      6000,
+      6500,
+      7000,
+      7500,
+      8000,
+      8500,
+      9000,
+      9500,
+      10000,
+      11000,
+      12000,
+      13000,
+      14000,
+      16000,
+      18000,
+      20000,
+      24000,
+      0
+    ],
+    "skins": [],
+    "dresses": []
+  },
+  "30707": {
+    "id": 30707,
+    "name": "Taihou",
+    "skill": {
+      "name": "Fruit-Growing Expertise",
+      "icon": "island/skill/chara_all_skill_10",
+      "description": "When performing work at Sweetscent Orchard, fruit ripening time is shortened by $1%.",
+      "values": [
+        [
+          "6",
+          "6.5",
+          "7",
+          "7.5",
+          "8",
+          "8.5",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      ]
+    },
+    "icon": "island/char/dafeng",
+    "max_break": 4,
+    "break_interval": 10,
+    "energy": 100,
+    "energy_recover": 300,
+    "upgrade_energy": [
+      0,
+      10,
+      10,
+      10,
+      20
+    ],
+    "base_attr": [
+      {
+        "attr": "plant",
+        "value": 2
+      },
+      {
+        "attr": "collect",
+        "value": 11
+      },
+      {
+        "attr": "conserve",
+        "value": 13
+      },
+      {
+        "attr": "cooking",
+        "value": 12
+      },
+      {
+        "attr": "manage",
+        "value": 25
+      },
+      {
+        "attr": "machinery",
+        "value": 18
+      }
+    ],
+    "growth_attr": [
+      {
+        "attr": "plant",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "collect",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "conserve",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "cooking",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "manage",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "machinery",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      }
+    ],
+    "extra_attr_limits": [
+      {
+        "attr": "plant",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "collect",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "conserve",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "cooking",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "manage",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "machinery",
+        "limit": [
+          100,
+          300
+        ]
+      }
+    ],
+    "exp_needed": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600,
+      1700,
+      1800,
+      2000,
+      2200,
+      2400,
+      2600,
+      2800,
+      3000,
+      3200,
+      3400,
+      3600,
+      3800,
+      4000,
+      4500,
+      5000,
+      5500,
+      6000,
+      6500,
+      7000,
+      7500,
+      8000,
+      8500,
+      9000,
+      9500,
+      10000,
+      11000,
+      12000,
+      13000,
+      14000,
+      16000,
+      18000,
+      20000,
+      24000,
+      0
+    ],
+    "skins": [],
+    "dresses": []
+  },
+  "31201": {
+    "id": 31201,
+    "name": "Akashi",
+    "skill": {
+      "name": "Research Expertise",
+      "icon": "island/skill/chara_all_skill_3",
+      "description": "When researching Island Technologies, research time is shortened by $1%.",
+      "values": [
+        [
+          "4",
+          "4.5",
+          "5",
+          "5.5",
+          "6",
+          "6.5",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      ]
+    },
+    "icon": "island/char/mingshi",
+    "max_break": 4,
+    "break_interval": 10,
+    "energy": 100,
+    "energy_recover": 300,
+    "upgrade_energy": [
+      0,
+      10,
+      10,
+      10,
+      20
+    ],
+    "base_attr": [
+      {
+        "attr": "plant",
+        "value": 25
+      },
+      {
+        "attr": "collect",
+        "value": 8
+      },
+      {
+        "attr": "conserve",
+        "value": 20
+      },
+      {
+        "attr": "cooking",
+        "value": 4
+      },
+      {
+        "attr": "manage",
+        "value": 10
+      },
+      {
+        "attr": "machinery",
+        "value": 2
+      }
+    ],
+    "growth_attr": [
+      {
+        "attr": "plant",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "collect",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "conserve",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "cooking",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "manage",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "machinery",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      }
+    ],
+    "extra_attr_limits": [
+      {
+        "attr": "plant",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "collect",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "conserve",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "cooking",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "manage",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "machinery",
+        "limit": [
+          100,
+          300
+        ]
+      }
+    ],
+    "exp_needed": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600,
+      1700,
+      1800,
+      2000,
+      2200,
+      2400,
+      2600,
+      2800,
+      3000,
+      3200,
+      3400,
+      3600,
+      3800,
+      4000,
+      4500,
+      5000,
+      5500,
+      6000,
+      6500,
+      7000,
+      7500,
+      8000,
+      8500,
+      9000,
+      9500,
+      10000,
+      11000,
+      12000,
+      13000,
+      14000,
+      16000,
+      18000,
+      20000,
+      24000,
+      0
+    ],
+    "skins": [],
+    "dresses": []
+  },
+  "40303": {
+    "id": 40303,
+    "name": "Prinz Eugen",
+    "skill": {
+      "name": "Food Seller",
+      "icon": "island/skill/chara_all_skill_13",
+      "description": "When assigned as staff to the Fin-'n'-Feather Grill or the Manjuu Eatery, revenue from food increases by $1%.",
+      "values": [
+        [
+          "4",
+          "4.5",
+          "5",
+          "5.5",
+          "6",
+          "6.5",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      ]
+    },
+    "icon": "island/char/ougen",
+    "max_break": 4,
+    "break_interval": 10,
+    "energy": 100,
+    "energy_recover": 300,
+    "upgrade_energy": [
+      0,
+      10,
+      10,
+      10,
+      20
+    ],
+    "base_attr": [
+      {
+        "attr": "plant",
+        "value": 3
+      },
+      {
+        "attr": "collect",
+        "value": 23
+      },
+      {
+        "attr": "conserve",
+        "value": 13
+      },
+      {
+        "attr": "cooking",
+        "value": 16
+      },
+      {
+        "attr": "manage",
+        "value": 20
+      },
+      {
+        "attr": "machinery",
+        "value": 5
+      }
+    ],
+    "growth_attr": [
+      {
+        "attr": "plant",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "collect",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "conserve",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "cooking",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "manage",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "machinery",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      }
+    ],
+    "extra_attr_limits": [
+      {
+        "attr": "plant",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "collect",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "conserve",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "cooking",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "manage",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "machinery",
+        "limit": [
+          100,
+          300
+        ]
+      }
+    ],
+    "exp_needed": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600,
+      1700,
+      1800,
+      2000,
+      2200,
+      2400,
+      2600,
+      2800,
+      3000,
+      3200,
+      3400,
+      3600,
+      3800,
+      4000,
+      4500,
+      5000,
+      5500,
+      6000,
+      6500,
+      7000,
+      7500,
+      8000,
+      8500,
+      9000,
+      9500,
+      10000,
+      11000,
+      12000,
+      13000,
+      14000,
+      16000,
+      18000,
+      20000,
+      24000,
+      0
+    ],
+    "skins": [],
+    "dresses": []
+  },
+  "50204": {
+    "id": 50204,
+    "name": "Ying Swei",
+    "skill": {
+      "name": "Cooking Expertise",
+      "icon": "island/skill/chara_all_skill_7",
+      "description": "When performing work at the Golden Koi Restaurant, food preparation time is shortened by $1%.",
+      "values": [
+        [
+          "6",
+          "6.5",
+          "7",
+          "7.5",
+          "8",
+          "8.5",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      ]
+    },
+    "icon": "island/char/yingrui",
+    "max_break": 4,
+    "break_interval": 10,
+    "energy": 100,
+    "energy_recover": 300,
+    "upgrade_energy": [
+      0,
+      10,
+      10,
+      10,
+      20
+    ],
+    "base_attr": [
+      {
+        "attr": "plant",
+        "value": 18
+      },
+      {
+        "attr": "collect",
+        "value": 14
+      },
+      {
+        "attr": "conserve",
+        "value": 1
+      },
+      {
+        "attr": "cooking",
+        "value": 10
+      },
+      {
+        "attr": "manage",
+        "value": 13
+      },
+      {
+        "attr": "machinery",
+        "value": 25
+      }
+    ],
+    "growth_attr": [
+      {
+        "attr": "plant",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "collect",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "conserve",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "cooking",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "manage",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "machinery",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      }
+    ],
+    "extra_attr_limits": [
+      {
+        "attr": "plant",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "collect",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "conserve",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "cooking",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "manage",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "machinery",
+        "limit": [
+          100,
+          300
+        ]
+      }
+    ],
+    "exp_needed": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600,
+      1700,
+      1800,
+      2000,
+      2200,
+      2400,
+      2600,
+      2800,
+      3000,
+      3200,
+      3400,
+      3600,
+      3800,
+      4000,
+      4500,
+      5000,
+      5500,
+      6000,
+      6500,
+      7000,
+      7500,
+      8000,
+      8500,
+      9000,
+      9500,
+      10000,
+      11000,
+      12000,
+      13000,
+      14000,
+      16000,
+      18000,
+      20000,
+      24000,
+      0
+    ],
+    "skins": [],
+    "dresses": []
+  },
+  "50205": {
+    "id": 50205,
+    "name": "Chao Ho",
+    "skill": {
+      "name": "Restaurant Specialty",
+      "icon": "island/skill/chara_all_skill_7",
+      "description": "When assigned as staff to the Golden Koi Restaurant, revenue from food increases by $1% and 1 food item slot is added.",
+      "values": [
+        [
+          "4",
+          "4.5",
+          "5",
+          "5.5",
+          "6",
+          "6.5",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      ]
+    },
+    "icon": "island/char/zhaohe",
+    "max_break": 4,
+    "break_interval": 10,
+    "energy": 100,
+    "energy_recover": 300,
+    "upgrade_energy": [
+      0,
+      10,
+      10,
+      10,
+      20
+    ],
+    "base_attr": [
+      {
+        "attr": "plant",
+        "value": 12
+      },
+      {
+        "attr": "collect",
+        "value": 17
+      },
+      {
+        "attr": "conserve",
+        "value": 2
+      },
+      {
+        "attr": "cooking",
+        "value": 25
+      },
+      {
+        "attr": "manage",
+        "value": 13
+      },
+      {
+        "attr": "machinery",
+        "value": 12
+      }
+    ],
+    "growth_attr": [
+      {
+        "attr": "plant",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "collect",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "conserve",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "cooking",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "manage",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "machinery",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      }
+    ],
+    "extra_attr_limits": [
+      {
+        "attr": "plant",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "collect",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "conserve",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "cooking",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "manage",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "machinery",
+        "limit": [
+          100,
+          300
+        ]
+      }
+    ],
+    "exp_needed": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600,
+      1700,
+      1800,
+      2000,
+      2200,
+      2400,
+      2600,
+      2800,
+      3000,
+      3200,
+      3400,
+      3600,
+      3800,
+      4000,
+      4500,
+      5000,
+      5500,
+      6000,
+      6500,
+      7000,
+      7500,
+      8000,
+      8500,
+      9000,
+      9500,
+      10000,
+      11000,
+      12000,
+      13000,
+      14000,
+      16000,
+      18000,
+      20000,
+      24000,
+      0
+    ],
+    "skins": [],
+    "dresses": []
+  },
+  "60802": {
+    "id": 60802,
+    "name": "Leonardo da Vinci",
+    "skill": {
+      "name": "Efficient Researcher",
+      "icon": "island/skill/chara_all_skill_3",
+      "description": "When researching Island Technologies, stamina consumption is reduced by $1%.",
+      "values": [
+        [
+          "4",
+          "4.5",
+          "5",
+          "5.5",
+          "6",
+          "6.5",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      ]
+    },
+    "icon": "island/char/dafenqi",
+    "max_break": 4,
+    "break_interval": 10,
+    "energy": 100,
+    "energy_recover": 300,
+    "upgrade_energy": [
+      0,
+      10,
+      10,
+      10,
+      20
+    ],
+    "base_attr": [
+      {
+        "attr": "plant",
+        "value": 10
+      },
+      {
+        "attr": "collect",
+        "value": 7
+      },
+      {
+        "attr": "conserve",
+        "value": 4
+      },
+      {
+        "attr": "cooking",
+        "value": 4
+      },
+      {
+        "attr": "manage",
+        "value": 5
+      },
+      {
+        "attr": "machinery",
+        "value": 26
+      }
+    ],
+    "growth_attr": [
+      {
+        "attr": "plant",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "collect",
+        "value": [
+          1,
+          1,
+          2,
+          2,
+          3
+        ]
+      },
+      {
+        "attr": "conserve",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "cooking",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "manage",
+        "value": [
+          1,
+          1,
+          2,
+          2,
+          3
+        ]
+      },
+      {
+        "attr": "machinery",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      }
+    ],
+    "extra_attr_limits": [
+      {
+        "attr": "plant",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "collect",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "conserve",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "cooking",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "manage",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "machinery",
+        "limit": [
+          100,
+          300
+        ]
+      }
+    ],
+    "exp_needed": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600,
+      1700,
+      1800,
+      2000,
+      2200,
+      2400,
+      2600,
+      2800,
+      3000,
+      3200,
+      3400,
+      3600,
+      3800,
+      4000,
+      4500,
+      5000,
+      5500,
+      6000,
+      6500,
+      7000,
+      7500,
+      8000,
+      8500,
+      9000,
+      9500,
+      10000,
+      11000,
+      12000,
+      13000,
+      14000,
+      16000,
+      18000,
+      20000,
+      24000,
+      0
+    ],
+    "skins": [],
+    "dresses": []
+  },
+  "70104": {
+    "id": 70104,
+    "name": "Tashkent",
+    "skill": {
+      "name": "Manufacturing Expertise",
+      "icon": "island/skill/chara_all_skill_14",
+      "description": "When assigned to the manual workbench at the Base Factory, items take $1% less time to manufacture.",
+      "values": [
+        [
+          "6",
+          "6.5",
+          "7",
+          "7.5",
+          "8",
+          "8.5",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      ]
+    },
+    "icon": "island/char/tashigan",
+    "max_break": 4,
+    "break_interval": 10,
+    "energy": 100,
+    "energy_recover": 300,
+    "upgrade_energy": [
+      0,
+      10,
+      10,
+      10,
+      20
+    ],
+    "base_attr": [
+      {
+        "attr": "plant",
+        "value": 1
+      },
+      {
+        "attr": "collect",
+        "value": 23
+      },
+      {
+        "attr": "conserve",
+        "value": 20
+      },
+      {
+        "attr": "cooking",
+        "value": 16
+      },
+      {
+        "attr": "manage",
+        "value": 2
+      },
+      {
+        "attr": "machinery",
+        "value": 19
+      }
+    ],
+    "growth_attr": [
+      {
+        "attr": "plant",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "collect",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "conserve",
+        "value": [
+          2,
+          2.5,
+          2.5,
+          3,
+          4
+        ]
+      },
+      {
+        "attr": "cooking",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "manage",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      },
+      {
+        "attr": "machinery",
+        "value": [
+          1,
+          1,
+          1,
+          1.5,
+          2.5
+        ]
+      }
+    ],
+    "extra_attr_limits": [
+      {
+        "attr": "plant",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "collect",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "conserve",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "cooking",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "manage",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "machinery",
+        "limit": [
+          100,
+          300
+        ]
+      }
+    ],
+    "exp_needed": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600,
+      1700,
+      1800,
+      2000,
+      2200,
+      2400,
+      2600,
+      2800,
+      3000,
+      3200,
+      3400,
+      3600,
+      3800,
+      4000,
+      4500,
+      5000,
+      5500,
+      6000,
+      6500,
+      7000,
+      7500,
+      8000,
+      8500,
+      9000,
+      9500,
+      10000,
+      11000,
+      12000,
+      13000,
+      14000,
+      16000,
+      18000,
+      20000,
+      24000,
+      0
+    ],
+    "skins": [],
+    "dresses": []
+  },
+  "90111": {
+    "id": 90111,
+    "name": "Le Malin",
+    "skill": {
+      "name": "Efficient Recovery",
+      "icon": "island/skill/chara_all_skill_8",
+      "description": "Stamina recovery is increased by $1%.",
+      "values": [
+        [
+          "3",
+          "3.2",
+          "3.5",
+          "3.7",
+          "4",
+          "4.2",
+          "4.5",
+          "5",
+          "5.5",
+          "6"
+        ]
+      ]
+    },
+    "icon": "island/char/edu",
+    "max_break": 4,
+    "break_interval": 10,
+    "energy": 100,
+    "energy_recover": 300,
+    "upgrade_energy": [
+      0,
+      10,
+      10,
+      10,
+      20
+    ],
+    "base_attr": [
+      {
+        "attr": "plant",
+        "value": 12
+      },
+      {
+        "attr": "collect",
+        "value": 15
+      },
+      {
+        "attr": "conserve",
+        "value": 18
+      },
+      {
+        "attr": "cooking",
+        "value": 18
+      },
+      {
+        "attr": "manage",
+        "value": 16
+      },
+      {
+        "attr": "machinery",
+        "value": 1
+      }
+    ],
+    "growth_attr": [
+      {
+        "attr": "plant",
+        "value": [
+          1,
+          1,
+          2,
+          2,
+          3
+        ]
+      },
+      {
+        "attr": "collect",
+        "value": [
+          1,
+          1,
+          2,
+          2,
+          3
+        ]
+      },
+      {
+        "attr": "conserve",
+        "value": [
+          1,
+          1,
+          2,
+          2,
+          3
+        ]
+      },
+      {
+        "attr": "cooking",
+        "value": [
+          1,
+          1,
+          2,
+          2,
+          3
+        ]
+      },
+      {
+        "attr": "manage",
+        "value": [
+          1,
+          1,
+          2,
+          2,
+          3
+        ]
+      },
+      {
+        "attr": "machinery",
+        "value": [
+          1,
+          1,
+          2,
+          2,
+          3
+        ]
+      }
+    ],
+    "extra_attr_limits": [
+      {
+        "attr": "plant",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "collect",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "conserve",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "cooking",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "manage",
+        "limit": [
+          100,
+          300
+        ]
+      },
+      {
+        "attr": "machinery",
+        "limit": [
+          100,
+          300
+        ]
+      }
+    ],
+    "exp_needed": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600,
+      1700,
+      1800,
+      2000,
+      2200,
+      2400,
+      2600,
+      2800,
+      3000,
+      3200,
+      3400,
+      3600,
+      3800,
+      4000,
+      4500,
+      5000,
+      5500,
+      6000,
+      6500,
+      7000,
+      7500,
+      8000,
+      8500,
+      9000,
+      9500,
+      10000,
+      11000,
+      12000,
+      13000,
+      14000,
+      16000,
+      18000,
+      20000,
+      24000,
+      0
+    ],
+    "skins": [],
+    "dresses": []
+  }
+}

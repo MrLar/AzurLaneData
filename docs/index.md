@@ -143,3 +143,6 @@ There are a few other undocumented icons. However, they are for the most part no
 - [Special Secretary](./special_secretaries/index.md)
 - [Barrages](./barrages/index.md)
   
+# Island Data
+
+Island Mode Data is currently missing it's documentation and will follow at a later date.

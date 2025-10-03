@@ -1,0 +1,2723 @@
+{
+  "1": {
+    "id": 1,
+    "achievements": [
+      {
+        "ids": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "name": "Starting From Zero",
+        "descriptions": [
+          "Reach Island Dev. Level 15",
+          "Reach Island Dev. Level 30",
+          "Reach Island Dev. Level 40",
+          "Reach Island Dev. Level 60",
+          "Reach Island Dev. Level 80",
+          "Reach Island Dev. Level 100"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10421,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10421",
+              "name": "Deep Space Explorer"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 15000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 200015,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_200015",
+              "name": "Island Authority Permit: Leonardo da Vinci"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 40,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ],
+        "name": "Face the Future",
+        "descriptions": [
+          "Research 60 Island Technologies",
+          "Research 80 Island Technologies",
+          "Research 100 Island Technologies",
+          "Research 120 Island Technologies",
+          "Research 150 Island Technologies",
+          "Research 180 Island Technologies"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10409,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10409",
+              "name": "Water Pump"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 15000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 200008,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_200008",
+              "name": "Island Authority Permit: Le Malin"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 40,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36
+        ],
+        "name": "Model Islander",
+        "descriptions": [
+          "Complete Daily Plans 50 Time(s)",
+          "Complete Daily Plans 150 Time(s)",
+          "Complete Daily Plans 300 Time(s)",
+          "Complete Daily Plans 500 Time(s)",
+          "Complete Daily Plans 1000 Time(s)",
+          "Complete Daily Plans 2000 Time(s)"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 4,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 3,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_4",
+              "name": "Ginkgo"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 30,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          41,
+          42,
+          43,
+          44,
+          45,
+          46
+        ],
+        "name": "Reasonable Development Area",
+        "descriptions": [
+          "Amass 100000 Development Funds",
+          "Amass 1000000 Development Funds",
+          "Amass 5000000 Development Funds",
+          "Amass 10000000 Development Funds",
+          "Amass 20000000 Development Funds",
+          "Amass 50000000 Development Funds"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10403,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10403",
+              "name": "Camping Bath"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 30,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          51,
+          52,
+          53,
+          54,
+          55,
+          56
+        ],
+        "name": "The Miraculous Development Area",
+        "descriptions": [
+          "Acquire 3 Commander Outfit(s) - Costume",
+          "Acquire 4 Commander Outfit(s) - Costume",
+          "Acquire 6 Commander Outfit(s) - Costume",
+          "Acquire 8 Commander Outfit(s) - Costume",
+          "Acquire 10 Commander Outfit(s) - Costume",
+          "Acquire 16 Commander Outfit(s) - Costume"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10416,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10416",
+              "name": "Green Pine"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 30,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          61,
+          62,
+          63,
+          64,
+          65,
+          66
+        ],
+        "name": "Don't Look Back",
+        "descriptions": [
+          "Acquire 3 Commander Outfit(s) - Back",
+          "Acquire 4 Commander Outfit(s) - Back",
+          "Acquire 6 Commander Outfit(s) - Back",
+          "Acquire 8 Commander Outfit(s) - Back",
+          "Acquire 10 Commander Outfit(s) - Back",
+          "Acquire 16 Commander Outfit(s) - Back"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10418,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10418",
+              "name": "Small Wooden barrel"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 30,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          71,
+          72,
+          73,
+          74,
+          75,
+          76
+        ],
+        "name": "Leaving My Mark",
+        "descriptions": [
+          "Acquire 3 Commander Outfit(s) - Trail",
+          "Acquire 4 Commander Outfit(s) - Trail",
+          "Acquire 6 Commander Outfit(s) - Trail",
+          "Acquire 8 Commander Outfit(s) - Trail",
+          "Acquire 10 Commander Outfit(s) - Trail",
+          "Acquire 16 Commander Outfit(s) - Trail"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10412,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10412",
+              "name": "Lit Fence"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 30,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          81,
+          82,
+          83,
+          84,
+          85,
+          86
+        ],
+        "name": "I'm Flying!",
+        "descriptions": [
+          "Acquire 3 Commander Outfit(s) - Floating",
+          "Acquire 4 Commander Outfit(s) - Floating",
+          "Acquire 6 Commander Outfit(s) - Floating",
+          "Acquire 8 Commander Outfit(s) - Floating",
+          "Acquire 10 Commander Outfit(s) - Floating",
+          "Acquire 16 Commander Outfit(s) - Floating"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 11,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 3,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_11",
+              "name": "Blue-Green Tree"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 30,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          91,
+          92,
+          93,
+          94,
+          95,
+          96
+        ],
+        "name": "Beat Maniac",
+        "descriptions": [
+          "Acquire 10 Commander Interactive Action(s)",
+          "Acquire 12 Commander Interactive Action(s)",
+          "Acquire 15 Commander Interactive Action(s)",
+          "Acquire 20 Commander Interactive Action(s)",
+          "Acquire 25 Commander Interactive Action(s)",
+          "Acquire 35 Commander Interactive Action(s)"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10414,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10414",
+              "name": "Steel Fence"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 30,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      }
+    ],
+    "name": "Dreambuilder Medal"
+  },
+  "2": {
+    "id": 2,
+    "achievements": [
+      {
+        "ids": [
+          1011,
+          1012,
+          1013,
+          1014,
+          1015,
+          1016
+        ],
+        "name": "Perfect Attendance Medal",
+        "descriptions": [
+          "Log In to the Island Planner Mode for 15 Days",
+          "Log In to the Island Planner Mode for 30 Days",
+          "Log In to the Island Planner Mode for 60 Days",
+          "Log In to the Island Planner Mode for 120 Days",
+          "Log In to the Island Planner Mode for 250 Days",
+          "Log In to the Island Planner Mode for 500 Days"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10421,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10421",
+              "name": "Deep Space Explorer"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 15000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 20,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 40,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          1021,
+          1022,
+          1023,
+          1024,
+          1025,
+          1026
+        ],
+        "name": "There's Gold in Them Thar Hills",
+        "descriptions": [
+          "Manually Collect From Rockheap Mine 15 Time(s)",
+          "Manually Collect From Rockheap Mine 50 Time(s)",
+          "Manually Collect From Rockheap Mine 100 Time(s)",
+          "Manually Collect From Rockheap Mine 250 Time(s)",
+          "Manually Collect From Rockheap Mine 400 Time(s)",
+          "Manually Collect From Rockheap Mine 700 Time(s)"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10418,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10418",
+              "name": "Small Wooden barrel"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 2,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 20000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 20,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          1031,
+          1032,
+          1033,
+          1034,
+          1035,
+          1036
+        ],
+        "name": "An Axe to Grind",
+        "descriptions": [
+          "Manually Collect From the Woods 15 Time(s)",
+          "Manually Collect From the Woods 50 Time(s)",
+          "Manually Collect From the Woods 100 Time(s)",
+          "Manually Collect From the Woods 250 Time(s)",
+          "Manually Collect From the Woods 400 Time(s)",
+          "Manually Collect From the Woods 700 Time(s)"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10412,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10412",
+              "name": "Lit Fence"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 2,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 20000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 20,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          1041,
+          1042,
+          1043,
+          1044,
+          1045,
+          1046
+        ],
+        "name": "Build More Burrows",
+        "descriptions": [
+          "Manually Collect From the Fields 15 Time(s)",
+          "Manually Collect From the Fields 50 Time(s)",
+          "Manually Collect From the Fields 100 Time(s)",
+          "Manually Collect From the Fields 250 Time(s)",
+          "Manually Collect From the Fields 400 Time(s)",
+          "Manually Collect From the Fields 700 Time(s)"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10413,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10413",
+              "name": "Wooden Barricade"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 2,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 20000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 20,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          1051,
+          1052,
+          1053,
+          1054,
+          1055,
+          1056
+        ],
+        "name": "Holy Grail of Fruits",
+        "descriptions": [
+          "Manually Collect From the Orchard 15 Time(s)",
+          "Manually Collect From the Orchard 50 Time(s)",
+          "Manually Collect From the Orchard 100 Time(s)",
+          "Manually Collect From the Orchard 250 Time(s)",
+          "Manually Collect From the Orchard 400 Time(s)",
+          "Manually Collect From the Orchard 700 Time(s)"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10415,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10415",
+              "name": "New Cedar"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 2,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 20000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 20,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          1061,
+          1062,
+          1063,
+          1064,
+          1065,
+          1066
+        ],
+        "name": "The Secret Garden",
+        "descriptions": [
+          "Manually Collect From the Nursery 15 Time(s)",
+          "Manually Collect From the Nursery 50 Time(s)",
+          "Manually Collect From the Nursery 100 Time(s)",
+          "Manually Collect From the Nursery 250 Time(s)",
+          "Manually Collect From the Nursery 400 Time(s)",
+          "Manually Collect From the Nursery 700 Time(s)"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10403,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10403",
+              "name": "Camping Bath"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 2,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 20000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 20,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          1071,
+          1072,
+          1073,
+          1074,
+          1075,
+          1076
+        ],
+        "name": "All About That Hustle",
+        "descriptions": [
+          "Assign Characters a Total of 75 Time(s)",
+          "Assign Characters a Total of 150 Time(s)",
+          "Assign Characters a Total of 300 Time(s)",
+          "Assign Characters a Total of 600 Time(s)",
+          "Assign Characters a Total of 1000 Time(s)",
+          "Assign Characters a Total of 2000 Time(s)"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10420,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10420",
+              "name": "Light Pole"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 2,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 20000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 20,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          1081,
+          1082,
+          1083,
+          1084,
+          1085,
+          1086
+        ],
+        "name": "Let's Get This Party Started",
+        "descriptions": [
+          "Acquire a Total of 30 Kind(s) of Furniture",
+          "Acquire a Total of 40 Kind(s) of Furniture",
+          "Acquire a Total of 50 Kind(s) of Furniture",
+          "Acquire a Total of 70 Kind(s) of Furniture",
+          "Acquire a Total of 90 Kind(s) of Furniture",
+          "Acquire a Total of 200 Kind(s) of Furniture"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10414,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10414",
+              "name": "Steel Fence"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 2,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 20000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 20,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      }
+    ],
+    "name": "Path of Prosperity"
+  },
+  "3": {
+    "id": 3,
+    "achievements": [
+      {
+        "ids": [
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016
+        ],
+        "name": "No Time Like Overtime",
+        "descriptions": [
+          "Complete a Total of 75 Island Request(s)",
+          "Complete a Total of 150 Island Request(s)",
+          "Complete a Total of 300 Island Request(s)",
+          "Complete a Total of 600 Island Request(s)",
+          "Complete a Total of 1000 Island Request(s)",
+          "Complete a Total of 2000 Island Request(s)"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10410,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10410",
+              "name": "Warning Board"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 15000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 20,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 40,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "name": "Delivery Buddy",
+        "descriptions": [
+          "Complete a Total of 20 Transport Job(s)",
+          "Complete a Total of 100 Transport Job(s)",
+          "Complete a Total of 250 Transport Job(s)",
+          "Complete a Total of 500 Transport Job(s)",
+          "Complete a Total of 1000 Transport Job(s)",
+          "Complete a Total of 1500 Transport Job(s)"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10411,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10411",
+              "name": "Wood-Chopping Set"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 15000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 20,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 40,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          2031,
+          2032,
+          2033,
+          2034,
+          2035,
+          2036
+        ],
+        "name": "I Guess It's Technically Free?",
+        "descriptions": [
+          "Spend 100000 Development Funds in the Shop",
+          "Spend 500000 Development Funds in the Shop",
+          "Spend 2500000 Development Funds in the Shop",
+          "Spend 5000000 Development Funds in the Shop",
+          "Spend 10000000 Development Funds in the Shop",
+          "Spend 25000000 Development Funds in the Shop"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10410,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10410",
+              "name": "Warning Board"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 15000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 20,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 40,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          2041,
+          2042,
+          2043,
+          2044,
+          2045,
+          2046
+        ],
+        "name": "Pop-Up Shop Props",
+        "descriptions": [
+          "Manage the Island's Shops 100 Time(s)",
+          "Manage the Island's Shops 200 Time(s)",
+          "Manage the Island's Shops 400 Time(s)",
+          "Manage the Island's Shops 720 Time(s)",
+          "Manage the Island's Shops 1200 Time(s)",
+          "Manage the Island's Shops 2000 Time(s)"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10409,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10409",
+              "name": "Water Pump"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 15000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 20,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 40,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          2051,
+          2052,
+          2053,
+          2054,
+          2055,
+          2056
+        ],
+        "name": "Livin' the Premium Life",
+        "descriptions": [
+          "Play the Stellar Prize Draw 30 Time(s)",
+          "Play the Stellar Prize Draw 80 Time(s)",
+          "Play the Stellar Prize Draw 150 Time(s)",
+          "Play the Stellar Prize Draw 300 Time(s)",
+          "Play the Stellar Prize Draw 600 Time(s)",
+          "Play the Stellar Prize Draw 900 Time(s)"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 9,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 3,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_9",
+              "name": "Blue-Capped Tree"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 15000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 20,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 40,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      }
+    ],
+    "name": "Trader's Trail"
+  },
+  "4": {
+    "id": 4,
+    "achievements": [
+      {
+        "ids": [
+          3011,
+          3012,
+          3013,
+          3014,
+          3015,
+          3016
+        ],
+        "name": "Living Large on the Island",
+        "descriptions": [
+          "Raise 1 Character(s) to Level 50",
+          "Raise 3 Character(s) to Level 50",
+          "Raise 5 Character(s) to Level 50",
+          "Raise 7 Character(s) to Level 50",
+          "Raise 10 Character(s) to Level 50",
+          "Raise 15 Character(s) to Level 50"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10413,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10413",
+              "name": "Wooden Barricade"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 30,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          3021,
+          3022,
+          3023,
+          3024,
+          3025,
+          3026
+        ],
+        "name": "Efficiency is Key!",
+        "descriptions": [
+          "Raise 1 Character Skills to Level 10",
+          "Raise 2 Character Skills to Level 10",
+          "Raise 4 Character Skills to Level 10",
+          "Raise 6 Character Skills to Level 10",
+          "Raise 8 Character Skills to Level 10",
+          "Raise 10 Character Skills to Level 10"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10412,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10412",
+              "name": "Lit Fence"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 30,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          3031,
+          3032,
+          3033,
+          3034,
+          3035,
+          3036
+        ],
+        "name": "Best Friends",
+        "descriptions": [
+          "Interact with Characters 10 Time(s)",
+          "Interact with Characters 20 Time(s)",
+          "Interact with Characters 50 Time(s)",
+          "Interact with Characters 100 Time(s)",
+          "Interact with Characters 150 Time(s)",
+          "Interact with Characters 300 Time(s)"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10416,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10416",
+              "name": "Green Pine"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 30,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          3041,
+          3042,
+          3043,
+          3044,
+          3045,
+          3046
+        ],
+        "name": "It's Basically Telepathy",
+        "descriptions": [
+          "Give Gifts to Characters 10 Time(s)",
+          "Give Gifts to Characters 20 Time(s)",
+          "Give Gifts to Characters 30 Time(s)",
+          "Give Gifts to Characters 40 Time(s)",
+          "Give Gifts to Characters 50 Time(s)",
+          "Give Gifts to Characters 60 Time(s)"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10420,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10420",
+              "name": "Light Pole"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 30,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          3051,
+          3052,
+          3053,
+          3054,
+          3055,
+          3056
+        ],
+        "name": "Fashion Advisor",
+        "descriptions": [
+          "Acquire 1 Character Outfit(s) - Costume",
+          "Acquire 3 Character Outfit(s) - Costume",
+          "Acquire 5 Character Outfit(s) - Costume",
+          "Acquire 10 Character Outfit(s) - Costume",
+          "Acquire 15 Character Outfit(s) - Costume",
+          "Acquire 25 Character Outfit(s) - Costume"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10415,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10415",
+              "name": "New Cedar"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 30,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          3061,
+          3062,
+          3063,
+          3064,
+          3065,
+          3066
+        ],
+        "name": "You Are Your Own Wings",
+        "descriptions": [
+          "Acquire 1 Character Outfit(s) - Back",
+          "Acquire 2 Character Outfit(s) - Back",
+          "Acquire 4 Character Outfit(s) - Back",
+          "Acquire 8 Character Outfit(s) - Back",
+          "Acquire 10 Character Outfit(s) - Back",
+          "Acquire 15 Character Outfit(s) - Back"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10413,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10413",
+              "name": "Wooden Barricade"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 30,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      },
+      {
+        "ids": [
+          3071,
+          3072,
+          3073,
+          3074,
+          3075,
+          3076
+        ],
+        "name": "Aesthetic of Floating Things",
+        "descriptions": [
+          "Acquire 1 Character Outfit(s) - Floating",
+          "Acquire 2 Character Outfit(s) - Floating",
+          "Acquire 4 Character Outfit(s) - Floating",
+          "Acquire 8 Character Outfit(s) - Floating",
+          "Acquire 10 Character Outfit(s) - Floating",
+          "Acquire 15 Character Outfit(s) - Floating"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10414,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10414",
+              "name": "Steel Fence"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 30,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
+      }
+    ],
+    "name": "Journey of Growth"
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "601": {
+    "id": 601,
+    "icon": "island/restaurant/liaolidian",
+    "name": "Golden Koi Restaurant",
+    "opening_time": 28800,
+    "opening_count": 1,
+    "place": 601,
+    "unlockable_staff": 1,
+    "initial_staff": 1,
+    "ranks": [
+      {
+        "icon": "island/restaurant/rank_tong",
+        "name": "Bronze",
+        "exp_needed": 10000,
+        "staff_unlock": false,
+        "coeff": 0.9,
+        "dish_slots": 2,
+        "dish_capacity": 5,
+        "sales_offsets": [
+          -1,
+          0
+        ]
+      },
+      {
+        "icon": "island/restaurant/rank_yin",
+        "name": "Silver",
+        "exp_needed": 100000,
+        "staff_unlock": false,
+        "coeff": 1,
+        "dish_slots": 2,
+        "dish_capacity": 6,
+        "sales_offsets": [
+          -1,
+          0,
+          1
+        ]
+      },
+      {
+        "icon": "island/restaurant/rank_jin",
+        "name": "Gold",
+        "exp_needed": 1000000,
+        "staff_unlock": true,
+        "coeff": 1.1,
+        "dish_slots": 3,
+        "dish_capacity": 6,
+        "sales_offsets": [
+          -1,
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "icon": "island/restaurant/rank_zuanshi",
+        "name": "Diamond",
+        "exp_needed": 0,
+        "staff_unlock": false,
+        "coeff": 1.15,
+        "dish_slots": 4,
+        "dish_capacity": 6,
+        "sales_offsets": [
+          -1,
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "needs_unlock": true,
+    "sellable": [
+      3011,
+      3012,
+      3013,
+      3014,
+      3015,
+      3101,
+      3102
+    ]
+  },
+  "602": {
+    "id": 602,
+    "icon": "island/restaurant/naichadian",
+    "name": "Polar Bear Teahouse",
+    "opening_time": 28800,
+    "opening_count": 1,
+    "place": 602,
+    "unlockable_staff": 1,
+    "initial_staff": 1,
+    "ranks": [
+      {
+        "icon": "island/restaurant/rank_tong",
+        "name": "Bronze",
+        "exp_needed": 10000,
+        "staff_unlock": false,
+        "coeff": 0.9,
+        "dish_slots": 2,
+        "dish_capacity": 5,
+        "sales_offsets": [
+          -1,
+          0
+        ]
+      },
+      {
+        "icon": "island/restaurant/rank_yin",
+        "name": "Silver",
+        "exp_needed": 100000,
+        "staff_unlock": false,
+        "coeff": 1,
+        "dish_slots": 2,
+        "dish_capacity": 6,
+        "sales_offsets": [
+          -1,
+          0,
+          1
+        ]
+      },
+      {
+        "icon": "island/restaurant/rank_jin",
+        "name": "Gold",
+        "exp_needed": 1000000,
+        "staff_unlock": true,
+        "coeff": 1.1,
+        "dish_slots": 3,
+        "dish_capacity": 6,
+        "sales_offsets": [
+          -1,
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "icon": "island/restaurant/rank_zuanshi",
+        "name": "Diamond",
+        "exp_needed": 0,
+        "staff_unlock": false,
+        "coeff": 1.15,
+        "dish_slots": 4,
+        "dish_capacity": 6,
+        "sales_offsets": [
+          -1,
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "needs_unlock": true,
+    "sellable": [
+      3017,
+      3018,
+      3019,
+      3020,
+      3021,
+      3022,
+      3103,
+      3104,
+      3105
+    ]
+  },
+  "603": {
+    "id": 603,
+    "icon": "island/restaurant/naichadian",
+    "name": "Manjuu Eatery",
+    "opening_time": 28800,
+    "opening_count": 1,
+    "place": 603,
+    "unlockable_staff": 1,
+    "initial_staff": 1,
+    "ranks": [
+      {
+        "icon": "island/restaurant/rank_tong",
+        "name": "Bronze",
+        "exp_needed": 10000,
+        "staff_unlock": false,
+        "coeff": 0.9,
+        "dish_slots": 2,
+        "dish_capacity": 5,
+        "sales_offsets": [
+          -1,
+          0
+        ]
+      },
+      {
+        "icon": "island/restaurant/rank_yin",
+        "name": "Silver",
+        "exp_needed": 100000,
+        "staff_unlock": false,
+        "coeff": 1,
+        "dish_slots": 2,
+        "dish_capacity": 6,
+        "sales_offsets": [
+          -1,
+          0,
+          1
+        ]
+      },
+      {
+        "icon": "island/restaurant/rank_jin",
+        "name": "Gold",
+        "exp_needed": 1000000,
+        "staff_unlock": true,
+        "coeff": 1.1,
+        "dish_slots": 3,
+        "dish_capacity": 6,
+        "sales_offsets": [
+          -1,
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "icon": "island/restaurant/rank_zuanshi",
+        "name": "Diamond",
+        "exp_needed": 0,
+        "staff_unlock": false,
+        "coeff": 1.15,
+        "dish_slots": 4,
+        "dish_capacity": 6,
+        "sales_offsets": [
+          -1,
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "needs_unlock": true,
+    "sellable": [
+      3023,
+      3009,
+      3024,
+      3025,
+      3026,
+      3028,
+      3106,
+      3107,
+      3108
+    ]
+  },
+  "604": {
+    "id": 604,
+    "icon": "island/restaurant/naichadian",
+    "name": "Fin-'n'-Feather Grill",
+    "opening_time": 28800,
+    "opening_count": 1,
+    "place": 604,
+    "unlockable_staff": 1,
+    "initial_staff": 1,
+    "ranks": [
+      {
+        "icon": "island/restaurant/rank_tong",
+        "name": "Bronze",
+        "exp_needed": 10000,
+        "staff_unlock": false,
+        "coeff": 0.9,
+        "dish_slots": 2,
+        "dish_capacity": 5,
+        "sales_offsets": [
+          -1,
+          0
+        ]
+      },
+      {
+        "icon": "island/restaurant/rank_yin",
+        "name": "Silver",
+        "exp_needed": 100000,
+        "staff_unlock": false,
+        "coeff": 1,
+        "dish_slots": 2,
+        "dish_capacity": 6,
+        "sales_offsets": [
+          -1,
+          0,
+          1
+        ]
+      },
+      {
+        "icon": "island/restaurant/rank_jin",
+        "name": "Gold",
+        "exp_needed": 1000000,
+        "staff_unlock": true,
+        "coeff": 1.1,
+        "dish_slots": 3,
+        "dish_capacity": 6,
+        "sales_offsets": [
+          -1,
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "icon": "island/restaurant/rank_zuanshi",
+        "name": "Diamond",
+        "exp_needed": 0,
+        "staff_unlock": false,
+        "coeff": 1.15,
+        "dish_slots": 4,
+        "dish_capacity": 6,
+        "sales_offsets": [
+          -1,
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "needs_unlock": true,
+    "sellable": [
+      3029,
+      3030,
+      3032,
+      3033,
+      3034,
+      3109,
+      3110
+    ]
+  },
+  "901": {
+    "id": 901,
+    "icon": "island/restaurant/kafeiguan",
+    "name": "Café Manjuu",
+    "opening_time": 28800,
+    "opening_count": 1,
+    "place": 901,
+    "unlockable_staff": 1,
+    "initial_staff": 1,
+    "ranks": [
+      {
+        "icon": "island/restaurant/rank_tong",
+        "name": "Bronze",
+        "exp_needed": 10000,
+        "staff_unlock": false,
+        "coeff": 0.9,
+        "dish_slots": 2,
+        "dish_capacity": 5,
+        "sales_offsets": [
+          -1,
+          0
+        ]
+      },
+      {
+        "icon": "island/restaurant/rank_yin",
+        "name": "Silver",
+        "exp_needed": 100000,
+        "staff_unlock": false,
+        "coeff": 1,
+        "dish_slots": 2,
+        "dish_capacity": 6,
+        "sales_offsets": [
+          -1,
+          0,
+          1
+        ]
+      },
+      {
+        "icon": "island/restaurant/rank_jin",
+        "name": "Gold",
+        "exp_needed": 1000000,
+        "staff_unlock": true,
+        "coeff": 1.1,
+        "dish_slots": 3,
+        "dish_capacity": 6,
+        "sales_offsets": [
+          -1,
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "icon": "island/restaurant/rank_zuanshi",
+        "name": "Diamond",
+        "exp_needed": 0,
+        "staff_unlock": false,
+        "coeff": 1.15,
+        "dish_slots": 4,
+        "dish_capacity": 6,
+        "sales_offsets": [
+          -1,
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "needs_unlock": true,
+    "sellable": [
+      3059,
+      3005,
+      3006,
+      3007,
+      3008,
+      3010,
+      3111,
+      3112,
+      3113
+    ]
+  }
+}

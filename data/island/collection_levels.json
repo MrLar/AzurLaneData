@@ -1,0 +1,752 @@
+{
+  "1": {
+    "id": 1,
+    "level": 1,
+    "reward": {
+      "id": 100001,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 10,
+      "blueprint": false,
+      "icon": "island/props/item_100001",
+      "name": "Island EXP Textbook T1"
+    },
+    "description": "20 Collection Pt. Total: 10 T1 Island EXP Textbooks"
+  },
+  "2": {
+    "id": 2,
+    "level": 2,
+    "reward": {
+      "id": 100201,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/item_100201",
+      "name": "Island Development Gem"
+    },
+    "description": "40 Collection Pt. Total: 1 Island Development Gem"
+  },
+  "3": {
+    "id": 3,
+    "level": 3,
+    "reward": {
+      "id": 1060006,
+      "type": 46,
+      "linkable": true,
+      "rarity": 5,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/dress/dress_1060006",
+      "name": "Stick Figure Suit"
+    },
+    "description": "60 Collection Pt. Total: Commander Outfit - Stick Figure Suit"
+  },
+  "4": {
+    "id": 4,
+    "level": 4,
+    "reward": {
+      "id": 1006,
+      "type": 51,
+      "linkable": false,
+      "rarity": 5,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/action/akimbo",
+      "name": "Hands on Hips"
+    },
+    "description": "80 Collection Pt. Total: Action - Hands on Hips"
+  },
+  "5": {
+    "id": 5,
+    "level": 5,
+    "reward": {
+      "id": 38001,
+      "type": 43,
+      "linkable": true,
+      "rarity": 5,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/buff",
+      "name": "丰壤农田委派效率提高 4%"
+    },
+    "description": "100 Collection Pt. Total: Working Efficiency at Faircrop Fields +4%"
+  },
+  "6": {
+    "id": 6,
+    "level": 6,
+    "reward": {
+      "id": 100001,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 10,
+      "blueprint": false,
+      "icon": "island/props/item_100001",
+      "name": "Island EXP Textbook T1"
+    },
+    "description": "150 Collection Pt. Total: 10 T1 Island EXP Textbooks"
+  },
+  "7": {
+    "id": 7,
+    "level": 7,
+    "reward": {
+      "id": 100201,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/item_100201",
+      "name": "Island Development Gem"
+    },
+    "description": "200 Collection Pt. Total: 1 Island Development Gem"
+  },
+  "8": {
+    "id": 8,
+    "level": 8,
+    "reward": {
+      "id": 10101,
+      "type": 45,
+      "linkable": false,
+      "rarity": 0,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/furniture/furniture_10101",
+      "name": "Villa in the Woods"
+    },
+    "description": "250 Collection Pt. Total: Villa in the Woods"
+  },
+  "9": {
+    "id": 9,
+    "level": 9,
+    "reward": {
+      "id": 2020002,
+      "type": 46,
+      "linkable": true,
+      "rarity": 5,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/dress/dress_2020002",
+      "name": "Breezy Balloon"
+    },
+    "description": "300 Collection Pt. Total: Character Outfit (Floating) - Breezy Balloon"
+  },
+  "10": {
+    "id": 10,
+    "level": 10,
+    "reward": {
+      "id": 39001,
+      "type": 43,
+      "linkable": true,
+      "rarity": 5,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/buff",
+      "name": "坠香果园委派效率提高 4%"
+    },
+    "description": "350 Collection Pt. Total: Working Efficiency at Sweetscent Orchard +4%"
+  },
+  "11": {
+    "id": 11,
+    "level": 11,
+    "reward": {
+      "id": 100001,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 10,
+      "blueprint": false,
+      "icon": "island/props/item_100001",
+      "name": "Island EXP Textbook T1"
+    },
+    "description": "400 Collection Pt. Total: 10 T1 Island EXP Textbooks"
+  },
+  "12": {
+    "id": 12,
+    "level": 12,
+    "reward": {
+      "id": 100201,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/item_100201",
+      "name": "Island Development Gem"
+    },
+    "description": "450 Collection Pt. Total: 1 Island Development Gem"
+  },
+  "13": {
+    "id": 13,
+    "level": 13,
+    "reward": {
+      "id": 200006,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/item_200006",
+      "name": "Island Authority Permit: Shimakaze"
+    },
+    "description": "500 Collection Pt. Total: Shimakaze's Island Authority Permit"
+  },
+  "14": {
+    "id": 14,
+    "level": 14,
+    "reward": {
+      "id": 2010002,
+      "type": 46,
+      "linkable": true,
+      "rarity": 5,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/dress/dress_2010002",
+      "name": "School Backpack"
+    },
+    "description": "550 Collection Pt. Total: Character Outfit (Back) - School Backpack"
+  },
+  "15": {
+    "id": 15,
+    "level": 15,
+    "reward": {
+      "id": 40001,
+      "type": 43,
+      "linkable": true,
+      "rarity": 5,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/buff",
+      "name": "青芽苗圃委派效率提高 4%"
+    },
+    "description": "600 Collection Pt. Total: Working Efficiency at Newsprout Nursery +4%"
+  },
+  "16": {
+    "id": 16,
+    "level": 16,
+    "reward": {
+      "id": 100002,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 10,
+      "blueprint": false,
+      "icon": "island/props/item_100002",
+      "name": "Island EXP Textbook T2"
+    },
+    "description": "650 Collection Pt. Total: 10 T2 Island EXP Textbooks"
+  },
+  "17": {
+    "id": 17,
+    "level": 17,
+    "reward": {
+      "id": 100201,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/item_100201",
+      "name": "Island Development Gem"
+    },
+    "description": "700 Collection Pt. Total: 1 Island Development Gem"
+  },
+  "18": {
+    "id": 18,
+    "level": 18,
+    "reward": {
+      "id": 1007,
+      "type": 51,
+      "linkable": false,
+      "rarity": 5,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/action/bow",
+      "name": "Bow"
+    },
+    "description": "750 Collection Pt. Total: Action - Bow"
+  },
+  "19": {
+    "id": 19,
+    "level": 19,
+    "reward": {
+      "id": 2030002,
+      "type": 46,
+      "linkable": true,
+      "rarity": 5,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/dress/dress_2030002",
+      "name": "Manjuu Trail"
+    },
+    "description": "800 Collection Pt. Total: Character Outfit (Trail) - Manjuu Trail"
+  },
+  "20": {
+    "id": 20,
+    "level": 20,
+    "reward": {
+      "id": 38002,
+      "type": 43,
+      "linkable": true,
+      "rarity": 5,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/buff",
+      "name": "丰壤农田委派效率提高 8%"
+    },
+    "description": "850 Collection Pt. Total: Working Efficiency at Faircrop Fields +8%"
+  },
+  "21": {
+    "id": 21,
+    "level": 21,
+    "reward": {
+      "id": 100002,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 10,
+      "blueprint": false,
+      "icon": "island/props/item_100002",
+      "name": "Island EXP Textbook T2"
+    },
+    "description": "900 Collection Pt. Total: 10 T2 Island EXP Textbooks"
+  },
+  "22": {
+    "id": 22,
+    "level": 22,
+    "reward": {
+      "id": 100201,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/item_100201",
+      "name": "Island Development Gem"
+    },
+    "description": "950 Collection Pt. Total: 1 Island Development Gem"
+  },
+  "23": {
+    "id": 23,
+    "level": 23,
+    "reward": {
+      "id": 1009,
+      "type": 51,
+      "linkable": false,
+      "rarity": 5,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/action/stomp",
+      "name": "Stamp Feet"
+    },
+    "description": "1000 Collection Pt. Total: Action - Stamp Feet"
+  },
+  "24": {
+    "id": 24,
+    "level": 24,
+    "reward": {
+      "id": 10405,
+      "type": 45,
+      "linkable": false,
+      "rarity": 0,
+      "amount": 4,
+      "blueprint": false,
+      "icon": "island/furniture/furniture_10405",
+      "name": "Beary Nice Bus Stop"
+    },
+    "description": "1100 Collection Pt. Total: 4 Beary Nice Bus Stops"
+  },
+  "25": {
+    "id": 25,
+    "level": 25,
+    "reward": {
+      "id": 39002,
+      "type": 43,
+      "linkable": true,
+      "rarity": 5,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/buff",
+      "name": "坠香果园委派效率提高 8%"
+    },
+    "description": "1200 Collection Pt. Total: Working Efficiency at Sweetscent Orchard +8%"
+  },
+  "26": {
+    "id": 26,
+    "level": 26,
+    "reward": {
+      "id": 100002,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 20,
+      "blueprint": false,
+      "icon": "island/props/item_100002",
+      "name": "Island EXP Textbook T2"
+    },
+    "description": "1300 Collection Pt. Total: 20 T2 Island EXP Textbooks"
+  },
+  "27": {
+    "id": 27,
+    "level": 27,
+    "reward": {
+      "id": 100201,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/item_100201",
+      "name": "Island Development Gem"
+    },
+    "description": "1400 Collection Pt. Total: 1 Island Development Gem"
+  },
+  "28": {
+    "id": 28,
+    "level": 28,
+    "reward": {
+      "id": 3,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/3",
+      "name": "Outfit Colors"
+    },
+    "description": "1500 Collection Pt. Total: Outfit Colors"
+  },
+  "29": {
+    "id": 29,
+    "level": 29,
+    "reward": {
+      "id": 10417,
+      "type": 45,
+      "linkable": false,
+      "rarity": 0,
+      "amount": 2,
+      "blueprint": false,
+      "icon": "island/furniture/furniture_10417",
+      "name": "Stuffed Bear"
+    },
+    "description": "1600 Collection Pt. Total: 2 Stuffed Bears"
+  },
+  "30": {
+    "id": 30,
+    "level": 30,
+    "reward": {
+      "id": 39002,
+      "type": 43,
+      "linkable": true,
+      "rarity": 5,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/buff",
+      "name": "坠香果园委派效率提高 8%"
+    },
+    "description": "1700 Collection Pt. Total: Working Efficiency at Newsprout Nursery +8%"
+  },
+  "31": {
+    "id": 31,
+    "level": 31,
+    "reward": {
+      "id": 100002,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 20,
+      "blueprint": false,
+      "icon": "island/props/item_100002",
+      "name": "Island EXP Textbook T2"
+    },
+    "description": "1800 Collection Pt. Total: 20 T2 Island EXP Textbooks"
+  },
+  "32": {
+    "id": 32,
+    "level": 32,
+    "reward": {
+      "id": 100201,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/item_100201",
+      "name": "Island Development Gem"
+    },
+    "description": "1900 Collection Pt. Total: 1 Island Development Gem"
+  },
+  "33": {
+    "id": 33,
+    "level": 33,
+    "reward": {
+      "id": 180001,
+      "type": 0,
+      "linkable": true,
+      "rarity": 6,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "props/gift01",
+      "name": "Limited-Edition Coin"
+    },
+    "description": "2000 Collection Pt. Total: 1 Limited-Edition Coin"
+  },
+  "34": {
+    "id": 34,
+    "level": 34,
+    "reward": {
+      "id": 10417,
+      "type": 45,
+      "linkable": false,
+      "rarity": 0,
+      "amount": 3,
+      "blueprint": false,
+      "icon": "island/furniture/furniture_10417",
+      "name": "Stuffed Bear"
+    },
+    "description": "2200 Collection Pt. Total: 3 Stuffed Bears"
+  },
+  "35": {
+    "id": 35,
+    "level": 35,
+    "reward": {
+      "id": 59005,
+      "type": 0,
+      "linkable": true,
+      "rarity": 4,
+      "amount": 30,
+      "blueprint": false,
+      "icon": "props/gem",
+      "name": "Gems"
+    },
+    "description": "2400 Collection Pt. Total: 30 Gems"
+  },
+  "36": {
+    "id": 36,
+    "level": 36,
+    "reward": {
+      "id": 100003,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 5,
+      "blueprint": false,
+      "icon": "island/props/item_100003",
+      "name": "Island EXP Textbook T3"
+    },
+    "description": "2600 Collection Pt. Total: 5 T3 Island EXP Textbooks"
+  },
+  "37": {
+    "id": 37,
+    "level": 37,
+    "reward": {
+      "id": 100201,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/item_100201",
+      "name": "Island Development Gem"
+    },
+    "description": "2800 Collection Pt. Total: 1 Island Development Gem"
+  },
+  "38": {
+    "id": 38,
+    "level": 38,
+    "reward": {
+      "id": 3,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/3",
+      "name": "Outfit Colors"
+    },
+    "description": "3000 Collection Pt. Total: Outfit Colors"
+  },
+  "39": {
+    "id": 39,
+    "level": 39,
+    "reward": {
+      "id": 10419,
+      "type": 45,
+      "linkable": false,
+      "rarity": 0,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/furniture/furniture_10419",
+      "name": "Forest House"
+    },
+    "description": "3200 Collection Pt. Total: 1 Forest Cabin"
+  },
+  "40": {
+    "id": 40,
+    "level": 40,
+    "reward": {
+      "id": 59005,
+      "type": 0,
+      "linkable": true,
+      "rarity": 4,
+      "amount": 30,
+      "blueprint": false,
+      "icon": "props/gem",
+      "name": "Gems"
+    },
+    "description": "3400 Collection Pt. Total: 30 Gems"
+  },
+  "41": {
+    "id": 41,
+    "level": 41,
+    "reward": {
+      "id": 100003,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 5,
+      "blueprint": false,
+      "icon": "island/props/item_100003",
+      "name": "Island EXP Textbook T3"
+    },
+    "description": "3600 Collection Pt. Total: 5 T3 Island EXP Textbooks"
+  },
+  "42": {
+    "id": 42,
+    "level": 42,
+    "reward": {
+      "id": 100201,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/item_100201",
+      "name": "Island Development Gem"
+    },
+    "description": "3800 Collection Pt. Total: 1 Island Development Gem"
+  },
+  "43": {
+    "id": 43,
+    "level": 43,
+    "reward": {
+      "id": 180001,
+      "type": 0,
+      "linkable": true,
+      "rarity": 6,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "props/gift01",
+      "name": "Limited-Edition Coin"
+    },
+    "description": "4000 Collection Pt. Total: 1 Limited-Edition Coin"
+  },
+  "44": {
+    "id": 44,
+    "level": 44,
+    "reward": {
+      "id": 10419,
+      "type": 45,
+      "linkable": false,
+      "rarity": 0,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/furniture/furniture_10419",
+      "name": "Forest House"
+    },
+    "description": "4200 Collection Pt. Total: 1 Forest Cabin"
+  },
+  "45": {
+    "id": 45,
+    "level": 45,
+    "reward": {
+      "id": 59005,
+      "type": 0,
+      "linkable": true,
+      "rarity": 4,
+      "amount": 40,
+      "blueprint": false,
+      "icon": "props/gem",
+      "name": "Gems"
+    },
+    "description": "4400 Collection Pt. Total: 40 Gems"
+  },
+  "46": {
+    "id": 46,
+    "level": 46,
+    "reward": {
+      "id": 100003,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 5,
+      "blueprint": false,
+      "icon": "island/props/item_100003",
+      "name": "Island EXP Textbook T3"
+    },
+    "description": "4600 Collection Pt. Total: 5 T3 Island EXP Textbooks"
+  },
+  "47": {
+    "id": 47,
+    "level": 47,
+    "reward": {
+      "id": 100201,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/item_100201",
+      "name": "Island Development Gem"
+    },
+    "description": "4800 Collection Pt. Total: 1 Island Development Gem"
+  },
+  "48": {
+    "id": 48,
+    "level": 48,
+    "reward": {
+      "id": 3,
+      "type": 41,
+      "linkable": true,
+      "rarity": 0,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/3",
+      "name": "Outfit Colors"
+    },
+    "description": "5000 Collection Pt. Total: Outfit Colors"
+  },
+  "49": {
+    "id": 49,
+    "level": 49,
+    "reward": {
+      "id": 10419,
+      "type": 45,
+      "linkable": false,
+      "rarity": 0,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/furniture/furniture_10419",
+      "name": "Forest House"
+    },
+    "description": "5500 Collection Pt. Total: 1 Forest Cabin"
+  },
+  "50": {
+    "id": 50,
+    "level": 50,
+    "reward": {
+      "id": 59005,
+      "type": 0,
+      "linkable": true,
+      "rarity": 4,
+      "amount": 50,
+      "blueprint": false,
+      "icon": "props/gem",
+      "name": "Gems"
+    },
+    "description": "6000 Collection Pt. Total: 50 Gems"
+  }
+}

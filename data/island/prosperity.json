@@ -1,0 +1,82 @@
+{
+  "1": {
+    "level": 1,
+    "prosperity": 300,
+    "reward": [
+      {
+        "id": 1,
+        "type": 41,
+        "linkable": true,
+        "rarity": 0,
+        "amount": 200,
+        "blueprint": false,
+        "icon": "island/props/1",
+        "name": "Development Funds"
+      }
+    ]
+  },
+  "2": {
+    "level": 2,
+    "prosperity": 500,
+    "reward": [
+      {
+        "id": 1,
+        "type": 41,
+        "linkable": true,
+        "rarity": 0,
+        "amount": 300,
+        "blueprint": false,
+        "icon": "island/props/1",
+        "name": "Development Funds"
+      }
+    ]
+  },
+  "3": {
+    "level": 3,
+    "prosperity": 800,
+    "reward": [
+      {
+        "id": 1,
+        "type": 41,
+        "linkable": true,
+        "rarity": 0,
+        "amount": 400,
+        "blueprint": false,
+        "icon": "island/props/1",
+        "name": "Development Funds"
+      }
+    ]
+  },
+  "4": {
+    "level": 4,
+    "prosperity": 1200,
+    "reward": [
+      {
+        "id": 1,
+        "type": 41,
+        "linkable": true,
+        "rarity": 0,
+        "amount": 500,
+        "blueprint": false,
+        "icon": "island/props/1",
+        "name": "Development Funds"
+      }
+    ]
+  },
+  "5": {
+    "level": 5,
+    "prosperity": 1600,
+    "reward": [
+      {
+        "id": 1,
+        "type": 41,
+        "linkable": true,
+        "rarity": 0,
+        "amount": 600,
+        "blueprint": false,
+        "icon": "island/props/1",
+        "name": "Development Funds"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "SSS": {
+    "upper": 999,
+    "lower": 500,
+    "workload_efficiency": 0.25,
+    "manage_efficiency": 1,
+    "icon": "island/grade/SSS",
+    "name": "SSS"
+  },
+  "SS": {
+    "upper": 499,
+    "lower": 320,
+    "workload_efficiency": 0.23,
+    "manage_efficiency": 0.84,
+    "icon": "island/grade/SS",
+    "name": "SS"
+  },
+  "S": {
+    "upper": 319,
+    "lower": 200,
+    "workload_efficiency": 0.2,
+    "manage_efficiency": 0.72,
+    "icon": "island/grade/S",
+    "name": "S"
+  },
+  "A": {
+    "upper": 199,
+    "lower": 120,
+    "workload_efficiency": 0.15,
+    "manage_efficiency": 0.56,
+    "icon": "island/grade/A",
+    "name": "A"
+  },
+  "B": {
+    "upper": 119,
+    "lower": 80,
+    "workload_efficiency": 0.1,
+    "manage_efficiency": 0.42,
+    "icon": "island/grade/B",
+    "name": "B"
+  },
+  "C": {
+    "upper": 79,
+    "lower": 50,
+    "workload_efficiency": 0.05,
+    "manage_efficiency": 0.3,
+    "icon": "island/grade/C",
+    "name": "C"
+  },
+  "D": {
+    "upper": 49,
+    "lower": 25,
+    "workload_efficiency": 0.02,
+    "manage_efficiency": 0.16,
+    "icon": "island/grade/D",
+    "name": "D"
+  },
+  "E": {
+    "upper": 24,
+    "lower": 0,
+    "workload_efficiency": 0,
+    "manage_efficiency": 0.05,
+    "icon": "island/grade/E",
+    "name": "E"
+  }
+}

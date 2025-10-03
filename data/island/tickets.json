@@ -1,0 +1,155 @@
+{
+  "10001": {
+    "id": 10001,
+    "name": "Express Ticket (1 Min.)",
+    "duration": 0,
+    "expires": [
+      [
+        2026,
+        1,
+        8
+      ],
+      [
+        12,
+        0,
+        0
+      ]
+    ],
+    "expire_type": 2,
+    "icon": "island/props/item_speedup_ticket1",
+    "rarity": 3,
+    "type": 1
+  },
+  "10002": {
+    "id": 10002,
+    "name": "Express Ticket (1 Min.)",
+    "duration": 7,
+    "expires": null,
+    "expire_type": 1,
+    "icon": "island/props/item_speedup_ticket1",
+    "rarity": 3,
+    "type": 1
+  },
+  "10003": {
+    "id": 10003,
+    "name": "Express Ticket (1 Min.)",
+    "duration": 3,
+    "expires": null,
+    "expire_type": 1,
+    "icon": "island/props/item_speedup_ticket1",
+    "rarity": 3,
+    "type": 1
+  },
+  "10004": {
+    "id": 10004,
+    "name": "Express Ticket (1 Min.)",
+    "duration": 2,
+    "expires": null,
+    "expire_type": 1,
+    "icon": "island/props/item_speedup_ticket1",
+    "rarity": 3,
+    "type": 1
+  },
+  "20001": {
+    "id": 20001,
+    "name": "Express Ticket (10 Min.)",
+    "duration": 0,
+    "expires": [
+      [
+        2026,
+        1,
+        8
+      ],
+      [
+        12,
+        0,
+        0
+      ]
+    ],
+    "expire_type": 2,
+    "icon": "island/props/item_speedup_ticket2",
+    "rarity": 4,
+    "type": 2
+  },
+  "20002": {
+    "id": 20002,
+    "name": "Express Ticket (10 Min.)",
+    "duration": 7,
+    "expires": null,
+    "expire_type": 1,
+    "icon": "island/props/item_speedup_ticket2",
+    "rarity": 4,
+    "type": 2
+  },
+  "20003": {
+    "id": 20003,
+    "name": "Express Ticket (10 Min.)",
+    "duration": 3,
+    "expires": null,
+    "expire_type": 1,
+    "icon": "island/props/item_speedup_ticket2",
+    "rarity": 4,
+    "type": 2
+  },
+  "20004": {
+    "id": 20004,
+    "name": "Express Ticket (10 Min.)",
+    "duration": 2,
+    "expires": null,
+    "expire_type": 1,
+    "icon": "island/props/item_speedup_ticket2",
+    "rarity": 4,
+    "type": 2
+  },
+  "30001": {
+    "id": 30001,
+    "name": "Express Ticket (60 Min.)",
+    "duration": 0,
+    "expires": [
+      [
+        2026,
+        1,
+        8
+      ],
+      [
+        12,
+        0,
+        0
+      ]
+    ],
+    "expire_type": 2,
+    "icon": "island/props/item_speedup_ticket3",
+    "rarity": 5,
+    "type": 3
+  },
+  "30002": {
+    "id": 30002,
+    "name": "Express Ticket (60 Min.)",
+    "duration": 7,
+    "expires": null,
+    "expire_type": 1,
+    "icon": "island/props/item_speedup_ticket3",
+    "rarity": 5,
+    "type": 3
+  },
+  "30003": {
+    "id": 30003,
+    "name": "Express Ticket (60 Min.)",
+    "duration": 3,
+    "expires": null,
+    "expire_type": 1,
+    "icon": "island/props/item_speedup_ticket3",
+    "rarity": 5,
+    "type": 3
+  },
+  "30004": {
+    "id": 30004,
+    "name": "Express Ticket (60 Min.)",
+    "duration": 2,
+    "expires": null,
+    "expire_type": 1,
+    "icon": "island/props/item_speedup_ticket3",
+    "rarity": 5,
+    "type": 3
+  }
+}
