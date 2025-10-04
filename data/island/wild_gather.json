@@ -6,7 +6,8 @@
     "refreshes": true,
     "visible": true,
     "event": null,
-    "spots": 3
+    "spots": 3,
+    "needs_unlock": false
   },
   "2": {
     "id": 2,
@@ -15,7 +16,8 @@
     "refreshes": true,
     "visible": true,
     "event": null,
-    "spots": 2
+    "spots": 2,
+    "needs_unlock": false
   },
   "3": {
     "id": 3,
@@ -24,7 +26,8 @@
     "refreshes": true,
     "visible": true,
     "event": null,
-    "spots": 3
+    "spots": 3,
+    "needs_unlock": false
   },
   "4": {
     "id": 4,
@@ -33,7 +36,8 @@
     "refreshes": true,
     "visible": true,
     "event": null,
-    "spots": 1
+    "spots": 1,
+    "needs_unlock": true
   },
   "5": {
     "id": 5,
@@ -42,7 +46,8 @@
     "refreshes": true,
     "visible": true,
     "event": null,
-    "spots": 1
+    "spots": 1,
+    "needs_unlock": true
   },
   "6": {
     "id": 6,
@@ -51,7 +56,8 @@
     "refreshes": true,
     "visible": true,
     "event": null,
-    "spots": 1
+    "spots": 1,
+    "needs_unlock": true
   },
   "1001": {
     "id": 1001,
@@ -60,7 +66,8 @@
     "refreshes": true,
     "visible": true,
     "event": "Autumn Specialties",
-    "spots": 1
+    "spots": 1,
+    "needs_unlock": false
   },
   "1002": {
     "id": 1002,
@@ -69,7 +76,8 @@
     "refreshes": true,
     "visible": true,
     "event": "Autumn Specialties",
-    "spots": 1
+    "spots": 1,
+    "needs_unlock": false
   },
   "1003": {
     "id": 1003,
@@ -78,7 +86,8 @@
     "refreshes": true,
     "visible": true,
     "event": "Autumn Specialties",
-    "spots": 1
+    "spots": 1,
+    "needs_unlock": false
   },
   "1004": {
     "id": 1004,
@@ -87,7 +96,8 @@
     "refreshes": true,
     "visible": true,
     "event": "Autumn Specialties",
-    "spots": 1
+    "spots": 1,
+    "needs_unlock": false
   },
   "1005": {
     "id": 1005,
@@ -96,7 +106,8 @@
     "refreshes": true,
     "visible": true,
     "event": "Autumn Specialties",
-    "spots": 1
+    "spots": 1,
+    "needs_unlock": false
   },
   "1006": {
     "id": 1006,
@@ -105,7 +116,8 @@
     "refreshes": true,
     "visible": true,
     "event": "Autumn Specialties",
-    "spots": 1
+    "spots": 1,
+    "needs_unlock": false
   },
   "1007": {
     "id": 1007,
@@ -114,7 +126,8 @@
     "refreshes": true,
     "visible": true,
     "event": "Autumn Specialties",
-    "spots": 1
+    "spots": 1,
+    "needs_unlock": false
   },
   "1008": {
     "id": 1008,
@@ -123,6 +136,7 @@
     "refreshes": true,
     "visible": true,
     "event": "Autumn Specialties",
-    "spots": 1
+    "spots": 1,
+    "needs_unlock": false
   }
 }

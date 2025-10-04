@@ -118,6 +118,7 @@ export interface IslandGatherable {
     event: string | null
     visible: boolean
     spots: number
+    needs_unlock: boolean
 }
 
 export interface IslandFormula {
