@@ -3380,39 +3380,7 @@
         "name": "Shipgirl Costumes",
         "goods": [
           {
-            "name": "Canvas Day",
-            "discount": 0,
-            "discount_time": null,
-            "icon": "island/goods/skin_1070301",
-            "id": 471070301,
-            "limit": 1,
-            "pt_reward": 0,
-            "cost": {
-              "id": 59005,
-              "type": 0,
-              "linkable": true,
-              "rarity": 4,
-              "amount": 900,
-              "blueprint": false,
-              "icon": "props/gem",
-              "name": "Gems"
-            },
-            "gains": [
-              {
-                "id": 1070301,
-                "type": 47,
-                "linkable": true,
-                "rarity": 5,
-                "amount": 1,
-                "blueprint": false,
-                "icon": "island/dress/skin_1070301",
-                "name": "Canvas Day"
-              }
-            ],
-            "time": null
-          },
-          {
-            "name": "Night of the Empty Bell ",
+            "name": "Night of the Empty Bell",
             "discount": 0,
             "discount_time": null,
             "icon": "island/goods/skin_3120101",

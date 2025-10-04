@@ -137,6 +137,7 @@ export interface IslandFormula {
     is_condition: boolean
     event: string | null
     needs_unlock: boolean
+    is_combo: boolean
 }
 
 export interface IslandRestaurant {
@@ -351,4 +352,12 @@ export interface IslandTaskCondition {
 export interface IslandTaskTarget {
     text: string
     amount: number
+}
+
+export interface IslandCombo {
+    created_id: number
+    conditions: Array<{
+        id: number
+        times: number
+    }>
 }

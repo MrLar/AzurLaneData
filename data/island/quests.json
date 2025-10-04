@@ -2000,7 +2000,7 @@
   "10002290": {
     "id": 10002290,
     "type": 1,
-    "name": "Daily Resupply",
+    "name": "Daily Supply",
     "series": "The Legendary Treasure Island",
     "description": "Use the device to send an airdrop signal.",
     "conditions": [
@@ -3144,7 +3144,7 @@
     "event": false,
     "targets": [
       {
-        "text": "Look for Premium Wood around the Verdant Woods.",
+        "text": "Look for Workable Wood around the Verdant Woods.",
         "amount": 10
       }
     ],
@@ -3836,7 +3836,7 @@
     "event": false,
     "targets": [
       {
-        "text": "Go to the forest and investigate.",
+        "text": "Go talk to Homeric.",
         "amount": 1
       }
     ],
@@ -4245,7 +4245,7 @@
     "event": false,
     "targets": [
       {
-        "text": "Turn in 30 Raw Timber.",
+        "text": "Gather Raw Timber.",
         "amount": 10
       }
     ],
@@ -4638,7 +4638,7 @@
     "event": false,
     "targets": [
       {
-        "text": "Check out the request.",
+        "text": "Go to Stephen and scope out the situation.",
         "amount": 1
       }
     ],
@@ -7127,7 +7127,7 @@
   "30601001": {
     "id": 30601001,
     "type": 3,
-    "name": "Daily Resupply",
+    "name": "Daily Supply",
     "series": "Island Life",
     "description": "Another new day has arrived. Head over to Get-Together Island to pick up today's shipment of supplies.",
     "conditions": [
@@ -8851,7 +8851,7 @@
     "type": 8,
     "name": "Watching the Fields",
     "series": "Misc.",
-    "description": "Supply wheat to Island Storage to bolster food stores.\nDeliver 500 Wheat.",
+    "description": "Supply wheat to Island Warehouse to bolster food stores.\nDeliver 500 Wheat.",
     "conditions": [],
     "event": false,
     "targets": [
@@ -9652,7 +9652,7 @@
     "event": false,
     "targets": [
       {
-        "text": "Accept 3 Daily Supplies.",
+        "text": "Accept 5 Daily Supplies.",
         "amount": 5
       }
     ],
@@ -9690,7 +9690,7 @@
     "event": false,
     "targets": [
       {
-        "text": "Accept 5 Daily Supplies.",
+        "text": "Accept 10 Daily Supplies.",
         "amount": 10
       }
     ],
@@ -9728,7 +9728,7 @@
     "event": false,
     "targets": [
       {
-        "text": "Accept 10 Daily Supplies.",
+        "text": "Accept 20 Daily Supplies.",
         "amount": 20
       }
     ],
@@ -9766,7 +9766,7 @@
     "event": false,
     "targets": [
       {
-        "text": "Accept 15 Daily Supplies.",
+        "text": "Accept 30 Daily Supplies.",
         "amount": 30
       }
     ],
@@ -9804,7 +9804,7 @@
     "event": false,
     "targets": [
       {
-        "text": "Accept 20 Daily Supplies.",
+        "text": "Accept 45 Daily Supplies.",
         "amount": 45
       }
     ],
@@ -9842,7 +9842,7 @@
     "event": false,
     "targets": [
       {
-        "text": "Accept 25 Daily Supplies.",
+        "text": "Accept 60 Daily Supplies.",
         "amount": 60
       }
     ],
