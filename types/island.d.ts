@@ -17,6 +17,7 @@ export interface IslandItem {
     convert_points: number
     craftable_at?: number[]
     sellable_at?: number[]
+    used_at?: number[]
     sub_attribute: {
         attr: IslandAttr
         value: number
@@ -45,8 +46,6 @@ export interface IslandCharacter {
     growth_attr: IslandCharacterGrowthAttr[]
     extra_attr_limits: Array<{ attr: IslandAttr, limit: number[] }>
     exp_needed: number[]
-    skins: number[]
-    dresses: number[]
 }
 
 export type IslandAttr = 'plant' | 'collect' | 'conserve' | 'cooking' | 'manage' | 'machinery'
