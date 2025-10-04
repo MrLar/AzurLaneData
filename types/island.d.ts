@@ -365,4 +365,5 @@ export interface IslandCombo {
         id: number
         times: number
     }>
+    hidden: boolean
 }
