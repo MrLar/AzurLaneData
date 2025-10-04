@@ -355,6 +355,7 @@ export interface IslandTaskTarget {
 }
 
 export interface IslandCombo {
+    id: number
     create_id: number
     conditions: Array<{
         id: number
