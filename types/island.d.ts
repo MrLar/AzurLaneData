@@ -228,6 +228,18 @@ export interface IslandTechnology {
     base_time: IslandFormula['base_time']
     workload: IslandFormula['workload']
     base_efficiency: IslandFormula['base_efficiency']
+    conditions: IslandTechCondition[]
+}
+
+type IslandTechConditionType =
+0 | // level
+1 | // task
+2 | // ability
+3 // tech
+
+export interface IslandTechCondition {
+    type: IslandTechConditionType
+    id: number
 }
 
 export interface IslandSeason {

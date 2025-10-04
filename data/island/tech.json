@@ -17,7 +17,8 @@
     "base_time": "00:00:30",
     "workload": 300,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": []
   },
   "100002": {
     "id": 100002,
@@ -37,7 +38,13 @@
     "base_time": "00:00:30",
     "workload": 300,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 100001
+      }
+    ]
   },
   "100003": {
     "id": 100003,
@@ -57,7 +64,21 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10002190
+      },
+      {
+        "type": 3,
+        "id": 110303
+      },
+      {
+        "type": 3,
+        "id": 120001
+      }
+    ]
   },
   "100004": {
     "id": 100004,
@@ -77,7 +98,17 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 110304
+      },
+      {
+        "type": 3,
+        "id": 100302
+      }
+    ]
   },
   "100301": {
     "id": 100301,
@@ -97,7 +128,13 @@
     "base_time": "00:10:00",
     "workload": 6000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 110302
+      }
+    ]
   },
   "100302": {
     "id": 100302,
@@ -117,7 +154,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 110103
+      }
+    ]
   },
   "100303": {
     "id": 100303,
@@ -137,7 +180,17 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 110304
+      },
+      {
+        "type": 3,
+        "id": 100302
+      }
+    ]
   },
   "100304": {
     "id": 100304,
@@ -157,7 +210,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 120003
+      }
+    ]
   },
   "100305": {
     "id": 100305,
@@ -177,7 +236,13 @@
     "base_time": "04:00:00",
     "workload": 144000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 110306
+      }
+    ]
   },
   "100306": {
     "id": 100306,
@@ -197,7 +262,13 @@
     "base_time": "05:00:00",
     "workload": 180000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 110307
+      }
+    ]
   },
   "100307": {
     "id": 100307,
@@ -217,7 +288,13 @@
     "base_time": "06:00:00",
     "workload": 216000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 120004
+      }
+    ]
   },
   "100308": {
     "id": 100308,
@@ -237,7 +314,17 @@
     "base_time": "08:00:00",
     "workload": 288000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 110308
+      },
+      {
+        "type": 3,
+        "id": 100307
+      }
+    ]
   },
   "110001": {
     "id": 110001,
@@ -257,7 +344,17 @@
     "base_time": "00:00:30",
     "workload": 300,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10001070
+      },
+      {
+        "type": 3,
+        "id": 100001
+      }
+    ]
   },
   "110002": {
     "id": 110002,
@@ -277,7 +374,17 @@
     "base_time": "00:00:30",
     "workload": 300,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10001070
+      },
+      {
+        "type": 3,
+        "id": 100001
+      }
+    ]
   },
   "110101": {
     "id": 110101,
@@ -297,7 +404,17 @@
     "base_time": "00:00:30",
     "workload": 300,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10001070
+      },
+      {
+        "type": 3,
+        "id": 100001
+      }
+    ]
   },
   "110102": {
     "id": 110102,
@@ -317,7 +434,25 @@
     "base_time": "00:01:00",
     "workload": 600,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 100002
+      },
+      {
+        "type": 3,
+        "id": 110001
+      },
+      {
+        "type": 3,
+        "id": 110002
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ]
   },
   "110103": {
     "id": 110103,
@@ -337,7 +472,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 140101
+      }
+    ]
   },
   "110301": {
     "id": 110301,
@@ -357,7 +498,13 @@
     "base_time": "00:05:00",
     "workload": 3000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 110102
+      }
+    ]
   },
   "110302": {
     "id": 110302,
@@ -377,7 +524,13 @@
     "base_time": "00:05:00",
     "workload": 3000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 110301
+      }
+    ]
   },
   "110303": {
     "id": 110303,
@@ -397,7 +550,13 @@
     "base_time": "00:10:00",
     "workload": 6000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 100301
+      }
+    ]
   },
   "110304": {
     "id": 110304,
@@ -417,7 +576,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 110103
+      }
+    ]
   },
   "110305": {
     "id": 110305,
@@ -437,7 +602,17 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 100004
+      },
+      {
+        "type": 3,
+        "id": 100303
+      }
+    ]
   },
   "110306": {
     "id": 110306,
@@ -457,7 +632,13 @@
     "base_time": "04:00:00",
     "workload": 144000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 130302
+      }
+    ]
   },
   "110307": {
     "id": 110307,
@@ -477,7 +658,13 @@
     "base_time": "05:00:00",
     "workload": 180000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 100305
+      }
+    ]
   },
   "110308": {
     "id": 110308,
@@ -497,7 +684,13 @@
     "base_time": "06:00:00",
     "workload": 216000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 120004
+      }
+    ]
   },
   "110309": {
     "id": 110309,
@@ -517,7 +710,13 @@
     "base_time": "08:00:00",
     "workload": 288000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 100308
+      }
+    ]
   },
   "110310": {
     "id": 110310,
@@ -537,7 +736,13 @@
     "base_time": "12:00:00",
     "workload": 432000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 120005
+      }
+    ]
   },
   "120001": {
     "id": 120001,
@@ -557,7 +762,13 @@
     "base_time": "00:10:00",
     "workload": 6000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 100301
+      }
+    ]
   },
   "120003": {
     "id": 120003,
@@ -577,7 +788,17 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 130301
+      },
+      {
+        "type": 3,
+        "id": 110305
+      }
+    ]
   },
   "120004": {
     "id": 120004,
@@ -597,7 +818,13 @@
     "base_time": "05:00:00",
     "workload": 180000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 100306
+      }
+    ]
   },
   "120005": {
     "id": 120005,
@@ -617,7 +844,13 @@
     "base_time": "10:00:00",
     "workload": 360000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 110309
+      }
+    ]
   },
   "120006": {
     "id": 120006,
@@ -637,7 +870,13 @@
     "base_time": "12:00:00",
     "workload": 432000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 110310
+      }
+    ]
   },
   "130301": {
     "id": 130301,
@@ -657,7 +896,21 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10002260
+      },
+      {
+        "type": 3,
+        "id": 100004
+      },
+      {
+        "type": 3,
+        "id": 100303
+      }
+    ]
   },
   "130302": {
     "id": 130302,
@@ -677,7 +930,17 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10002260
+      },
+      {
+        "type": 3,
+        "id": 100304
+      }
+    ]
   },
   "140101": {
     "id": 140101,
@@ -697,7 +960,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 1
+    "group": 1,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 100003
+      }
+    ]
   },
   "210101": {
     "id": 210101,
@@ -717,7 +986,13 @@
     "base_time": "00:01:00",
     "workload": 600,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10001030
+      }
+    ]
   },
   "210102": {
     "id": 210102,
@@ -741,7 +1016,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 210101
+      }
+    ]
   },
   "210103": {
     "id": 210103,
@@ -765,7 +1046,13 @@
     "base_time": "04:00:00",
     "workload": 144000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 210102
+      }
+    ]
   },
   "210104": {
     "id": 210104,
@@ -789,7 +1076,13 @@
     "base_time": "04:00:00",
     "workload": 144000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 210103
+      }
+    ]
   },
   "210201": {
     "id": 210201,
@@ -813,7 +1106,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 210101
+      }
+    ]
   },
   "210202": {
     "id": 210202,
@@ -837,7 +1136,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 210201
+      }
+    ]
   },
   "210203": {
     "id": 210203,
@@ -861,7 +1166,13 @@
     "base_time": "04:00:00",
     "workload": 144000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 210202
+      }
+    ]
   },
   "210401": {
     "id": 210401,
@@ -881,7 +1192,13 @@
     "base_time": "00:05:00",
     "workload": 3000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10001030
+      }
+    ]
   },
   "210501": {
     "id": 210501,
@@ -905,7 +1222,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 210401
+      }
+    ]
   },
   "210502": {
     "id": 210502,
@@ -929,7 +1252,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 210501
+      }
+    ]
   },
   "210601": {
     "id": 210601,
@@ -953,7 +1282,13 @@
     "base_time": "08:00:00",
     "workload": 288000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 210502
+      }
+    ]
   },
   "220101": {
     "id": 220101,
@@ -973,7 +1308,13 @@
     "base_time": "00:01:00",
     "workload": 600,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10001020
+      }
+    ]
   },
   "220102": {
     "id": 220102,
@@ -997,7 +1338,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 220101
+      }
+    ]
   },
   "220103": {
     "id": 220103,
@@ -1021,7 +1368,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 220102
+      }
+    ]
   },
   "220104": {
     "id": 220104,
@@ -1045,7 +1398,13 @@
     "base_time": "05:00:00",
     "workload": 180000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 220103
+      }
+    ]
   },
   "220201": {
     "id": 220201,
@@ -1065,7 +1424,13 @@
     "base_time": "00:10:00",
     "workload": 6000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 220101
+      }
+    ]
   },
   "220202": {
     "id": 220202,
@@ -1089,7 +1454,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 220201
+      }
+    ]
   },
   "220203": {
     "id": 220203,
@@ -1113,7 +1484,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 220202
+      }
+    ]
   },
   "220204": {
     "id": 220204,
@@ -1137,7 +1514,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 220203
+      }
+    ]
   },
   "220401": {
     "id": 220401,
@@ -1157,7 +1540,13 @@
     "base_time": "00:10:00",
     "workload": 6000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 220501
+      }
+    ]
   },
   "220501": {
     "id": 220501,
@@ -1177,7 +1566,13 @@
     "base_time": "00:05:00",
     "workload": 3000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10001020
+      }
+    ]
   },
   "220502": {
     "id": 220502,
@@ -1201,7 +1596,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 220401
+      }
+    ]
   },
   "220601": {
     "id": 220601,
@@ -1225,7 +1626,13 @@
     "base_time": "10:00:00",
     "workload": 360000,
     "base_efficiency": 10,
-    "group": 2
+    "group": 2,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 220502
+      }
+    ]
   },
   "310001": {
     "id": 310001,
@@ -1249,7 +1656,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 310102
+      }
+    ]
   },
   "310101": {
     "id": 310101,
@@ -1269,7 +1682,13 @@
     "base_time": "00:05:00",
     "workload": 3000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 310302
+      }
+    ]
   },
   "310102": {
     "id": 310102,
@@ -1293,7 +1712,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 310305
+      }
+    ]
   },
   "310103": {
     "id": 310103,
@@ -1317,7 +1742,13 @@
     "base_time": "04:00:00",
     "workload": 144000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 310308
+      }
+    ]
   },
   "310104": {
     "id": 310104,
@@ -1341,7 +1772,13 @@
     "base_time": "10:00:00",
     "workload": 360000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 310309
+      }
+    ]
   },
   "310201": {
     "id": 310201,
@@ -1361,7 +1798,13 @@
     "base_time": "00:01:00",
     "workload": 600,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10002070
+      }
+    ]
   },
   "310202": {
     "id": 310202,
@@ -1381,7 +1824,13 @@
     "base_time": "00:05:00",
     "workload": 3000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 310201
+      }
+    ]
   },
   "310301": {
     "id": 310301,
@@ -1401,7 +1850,13 @@
     "base_time": "00:01:00",
     "workload": 600,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10002070
+      }
+    ]
   },
   "310302": {
     "id": 310302,
@@ -1421,7 +1876,13 @@
     "base_time": "00:05:00",
     "workload": 3000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 310301
+      }
+    ]
   },
   "310303": {
     "id": 310303,
@@ -1445,7 +1906,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 310302
+      }
+    ]
   },
   "310304": {
     "id": 310304,
@@ -1469,7 +1936,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 310303
+      }
+    ]
   },
   "310305": {
     "id": 310305,
@@ -1493,7 +1966,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 310304
+      }
+    ]
   },
   "310306": {
     "id": 310306,
@@ -1517,7 +1996,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 310305
+      }
+    ]
   },
   "310307": {
     "id": 310307,
@@ -1541,7 +2026,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 310306
+      }
+    ]
   },
   "310308": {
     "id": 310308,
@@ -1565,7 +2056,13 @@
     "base_time": "04:00:00",
     "workload": 144000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 310307
+      }
+    ]
   },
   "310309": {
     "id": 310309,
@@ -1589,7 +2086,13 @@
     "base_time": "05:00:00",
     "workload": 180000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 310308
+      }
+    ]
   },
   "320101": {
     "id": 320101,
@@ -1613,7 +2116,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 320301
+      }
+    ]
   },
   "320102": {
     "id": 320102,
@@ -1637,7 +2146,13 @@
     "base_time": "06:00:00",
     "workload": 216000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 320304
+      }
+    ]
   },
   "320201": {
     "id": 320201,
@@ -1661,7 +2176,17 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10003070
+      },
+      {
+        "type": 3,
+        "id": 550202
+      }
+    ]
   },
   "320202": {
     "id": 320202,
@@ -1685,7 +2210,17 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10003070
+      },
+      {
+        "type": 3,
+        "id": 310202
+      }
+    ]
   },
   "320203": {
     "id": 320203,
@@ -1709,7 +2244,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 320201
+      }
+    ]
   },
   "320204": {
     "id": 320204,
@@ -1733,7 +2274,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 500236
+      }
+    ]
   },
   "320205": {
     "id": 320205,
@@ -1757,7 +2304,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 330201
+      }
+    ]
   },
   "320206": {
     "id": 320206,
@@ -1781,7 +2334,13 @@
     "base_time": "04:00:00",
     "workload": 144000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 540201
+      }
+    ]
   },
   "320301": {
     "id": 320301,
@@ -1801,7 +2360,13 @@
     "base_time": "00:05:00",
     "workload": 3000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10003070
+      }
+    ]
   },
   "320302": {
     "id": 320302,
@@ -1825,7 +2390,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 320101
+      }
+    ]
   },
   "320303": {
     "id": 320303,
@@ -1849,7 +2420,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 320302
+      }
+    ]
   },
   "320304": {
     "id": 320304,
@@ -1873,7 +2450,13 @@
     "base_time": "06:00:00",
     "workload": 216000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 320303
+      }
+    ]
   },
   "330101": {
     "id": 330101,
@@ -1897,7 +2480,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 330301
+      }
+    ]
   },
   "330102": {
     "id": 330102,
@@ -1921,7 +2510,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 330302
+      }
+    ]
   },
   "330103": {
     "id": 330103,
@@ -1945,7 +2540,13 @@
     "base_time": "04:00:00",
     "workload": 144000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 330303
+      }
+    ]
   },
   "330104": {
     "id": 330104,
@@ -1969,7 +2570,13 @@
     "base_time": "08:00:00",
     "workload": 288000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 330103
+      }
+    ]
   },
   "330201": {
     "id": 330201,
@@ -1993,7 +2600,17 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10003070
+      },
+      {
+        "type": 3,
+        "id": 320202
+      }
+    ]
   },
   "330301": {
     "id": 330301,
@@ -2013,7 +2630,13 @@
     "base_time": "00:10:00",
     "workload": 6000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10003070
+      }
+    ]
   },
   "330302": {
     "id": 330302,
@@ -2037,7 +2660,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 330101
+      }
+    ]
   },
   "330303": {
     "id": 330303,
@@ -2061,7 +2690,13 @@
     "base_time": "04:00:00",
     "workload": 144000,
     "base_efficiency": 10,
-    "group": 3
+    "group": 3,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 330102
+      }
+    ]
   },
   "400001": {
     "id": 400001,
@@ -2081,7 +2716,13 @@
     "base_time": "00:10:00",
     "workload": 6000,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10002120
+      }
+    ]
   },
   "410301": {
     "id": 410301,
@@ -2101,7 +2742,13 @@
     "base_time": "00:01:00",
     "workload": 600,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10002120
+      }
+    ]
   },
   "410302": {
     "id": 410302,
@@ -2121,7 +2768,13 @@
     "base_time": "00:05:00",
     "workload": 3000,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 410301
+      }
+    ]
   },
   "410303": {
     "id": 410303,
@@ -2145,7 +2798,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 410302
+      }
+    ]
   },
   "410304": {
     "id": 410304,
@@ -2169,7 +2828,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 410303
+      }
+    ]
   },
   "410305": {
     "id": 410305,
@@ -2193,7 +2858,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 410304
+      }
+    ]
   },
   "420301": {
     "id": 420301,
@@ -2213,7 +2884,13 @@
     "base_time": "00:05:00",
     "workload": 3000,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10002120
+      }
+    ]
   },
   "420302": {
     "id": 420302,
@@ -2233,7 +2910,13 @@
     "base_time": "00:05:00",
     "workload": 3000,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 420301
+      }
+    ]
   },
   "420303": {
     "id": 420303,
@@ -2257,7 +2940,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 420302
+      }
+    ]
   },
   "420304": {
     "id": 420304,
@@ -2281,7 +2970,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 420303
+      }
+    ]
   },
   "430301": {
     "id": 430301,
@@ -2301,7 +2996,13 @@
     "base_time": "00:10:00",
     "workload": 6000,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10002120
+      }
+    ]
   },
   "430302": {
     "id": 430302,
@@ -2325,7 +3026,13 @@
     "base_time": "00:10:00",
     "workload": 6000,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 430301
+      }
+    ]
   },
   "430303": {
     "id": 430303,
@@ -2349,7 +3056,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 430302
+      }
+    ]
   },
   "430304": {
     "id": 430304,
@@ -2373,7 +3086,13 @@
     "base_time": "04:00:00",
     "workload": 144000,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 430303
+      }
+    ]
   },
   "440301": {
     "id": 440301,
@@ -2397,7 +3116,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10002120
+      }
+    ]
   },
   "440302": {
     "id": 440302,
@@ -2421,7 +3146,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 440301
+      }
+    ]
   },
   "440303": {
     "id": 440303,
@@ -2445,7 +3176,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 440302
+      }
+    ]
   },
   "440304": {
     "id": 440304,
@@ -2469,7 +3206,13 @@
     "base_time": "05:00:00",
     "workload": 180000,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 440303
+      }
+    ]
   },
   "450301": {
     "id": 450301,
@@ -2493,7 +3236,8 @@
     "base_time": "04:00:00",
     "workload": 144000,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": []
   },
   "450302": {
     "id": 450302,
@@ -2517,7 +3261,13 @@
     "base_time": "05:00:00",
     "workload": 180000,
     "base_efficiency": 10,
-    "group": 4
+    "group": 4,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 450301
+      }
+    ]
   },
   "500001": {
     "id": 500001,
@@ -2541,7 +3291,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10002190
+      }
+    ]
   },
   "500211": {
     "id": 500211,
@@ -2561,7 +3317,13 @@
     "base_time": "00:01:00",
     "workload": 600,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10002070
+      }
+    ]
   },
   "500212": {
     "id": 500212,
@@ -2581,7 +3343,13 @@
     "base_time": "00:05:00",
     "workload": 3000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10002070
+      }
+    ]
   },
   "500213": {
     "id": 500213,
@@ -2601,7 +3369,13 @@
     "base_time": "00:10:00",
     "workload": 6000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10002070
+      }
+    ]
   },
   "500214": {
     "id": 500214,
@@ -2625,7 +3399,13 @@
     "base_time": "00:10:00",
     "workload": 6000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10002070
+      }
+    ]
   },
   "500215": {
     "id": 500215,
@@ -2645,7 +3425,13 @@
     "base_time": "00:10:00",
     "workload": 6000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 500212
+      }
+    ]
   },
   "500231": {
     "id": 500231,
@@ -2665,7 +3451,13 @@
     "base_time": "00:05:00",
     "workload": 3000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10003070
+      }
+    ]
   },
   "500232": {
     "id": 500232,
@@ -2689,7 +3481,13 @@
     "base_time": "00:10:00",
     "workload": 6000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 520001
+      }
+    ]
   },
   "500233": {
     "id": 500233,
@@ -2713,7 +3511,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 500232
+      }
+    ]
   },
   "500234": {
     "id": 500234,
@@ -2737,7 +3541,17 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10003070
+      },
+      {
+        "type": 3,
+        "id": 500215
+      }
+    ]
   },
   "500235": {
     "id": 500235,
@@ -2761,7 +3575,17 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 320201
+      },
+      {
+        "type": 3,
+        "id": 500233
+      }
+    ]
   },
   "500236": {
     "id": 500236,
@@ -2785,7 +3609,17 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10003070
+      },
+      {
+        "type": 3,
+        "id": 500214
+      }
+    ]
   },
   "510101": {
     "id": 510101,
@@ -2809,7 +3643,17 @@
     "base_time": "05:00:00",
     "workload": 180000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10003020
+      },
+      {
+        "type": 3,
+        "id": 510204
+      }
+    ]
   },
   "510201": {
     "id": 510201,
@@ -2833,7 +3677,17 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10003020
+      },
+      {
+        "type": 3,
+        "id": 500213
+      }
+    ]
   },
   "510202": {
     "id": 510202,
@@ -2857,7 +3711,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 510201
+      }
+    ]
   },
   "510203": {
     "id": 510203,
@@ -2881,7 +3741,17 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 510201
+      },
+      {
+        "type": 3,
+        "id": 500215
+      }
+    ]
   },
   "510204": {
     "id": 510204,
@@ -2905,7 +3775,17 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 510203
+      },
+      {
+        "type": 3,
+        "id": 510202
+      }
+    ]
   },
   "520001": {
     "id": 520001,
@@ -2925,7 +3805,17 @@
     "base_time": "00:10:00",
     "workload": 6000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10003020
+      },
+      {
+        "type": 3,
+        "id": 500231
+      }
+    ]
   },
   "520101": {
     "id": 520101,
@@ -2949,7 +3839,13 @@
     "base_time": "08:00:00",
     "workload": 288000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 520205
+      }
+    ]
   },
   "520201": {
     "id": 520201,
@@ -2973,7 +3869,21 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10003020
+      },
+      {
+        "type": 3,
+        "id": 500233
+      },
+      {
+        "type": 3,
+        "id": 500234
+      }
+    ]
   },
   "520202": {
     "id": 520202,
@@ -2997,7 +3907,17 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 520201
+      },
+      {
+        "type": 3,
+        "id": 500235
+      }
+    ]
   },
   "520203": {
     "id": 520203,
@@ -3021,7 +3941,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 520202
+      }
+    ]
   },
   "520204": {
     "id": 520204,
@@ -3045,7 +3971,17 @@
     "base_time": "04:00:00",
     "workload": 144000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 320203
+      },
+      {
+        "type": 3,
+        "id": 520205
+      }
+    ]
   },
   "520205": {
     "id": 520205,
@@ -3069,7 +4005,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 520203
+      }
+    ]
   },
   "530001": {
     "id": 530001,
@@ -3093,7 +4035,17 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10003020
+      },
+      {
+        "type": 3,
+        "id": 500234
+      }
+    ]
   },
   "530101": {
     "id": 530101,
@@ -3117,7 +4069,13 @@
     "base_time": "10:00:00",
     "workload": 360000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 530204
+      }
+    ]
   },
   "530201": {
     "id": 530201,
@@ -3141,7 +4099,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 530001
+      }
+    ]
   },
   "530202": {
     "id": 530202,
@@ -3165,7 +4129,17 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 530205
+      },
+      {
+        "type": 3,
+        "id": 530206
+      }
+    ]
   },
   "530203": {
     "id": 530203,
@@ -3189,7 +4163,17 @@
     "base_time": "04:00:00",
     "workload": 144000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 520204
+      },
+      {
+        "type": 3,
+        "id": 530202
+      }
+    ]
   },
   "530204": {
     "id": 530204,
@@ -3213,7 +4197,13 @@
     "base_time": "05:00:00",
     "workload": 180000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 530203
+      }
+    ]
   },
   "530205": {
     "id": 530205,
@@ -3237,7 +4227,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 530201
+      }
+    ]
   },
   "530206": {
     "id": 530206,
@@ -3261,7 +4257,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 530201
+      }
+    ]
   },
   "540001": {
     "id": 540001,
@@ -3285,7 +4287,17 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10003020
+      },
+      {
+        "type": 3,
+        "id": 320204
+      }
+    ]
   },
   "540101": {
     "id": 540101,
@@ -3309,7 +4321,13 @@
     "base_time": "12:00:00",
     "workload": 432000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 540205
+      }
+    ]
   },
   "540201": {
     "id": 540201,
@@ -3333,7 +4351,13 @@
     "base_time": "04:00:00",
     "workload": 144000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 540001
+      }
+    ]
   },
   "540202": {
     "id": 540202,
@@ -3357,7 +4381,13 @@
     "base_time": "05:00:00",
     "workload": 180000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 320206
+      }
+    ]
   },
   "540204": {
     "id": 540204,
@@ -3381,7 +4411,13 @@
     "base_time": "05:00:00",
     "workload": 180000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 540202
+      }
+    ]
   },
   "540205": {
     "id": 540205,
@@ -3405,7 +4441,13 @@
     "base_time": "06:00:00",
     "workload": 216000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 540204
+      }
+    ]
   },
   "550201": {
     "id": 550201,
@@ -3425,7 +4467,17 @@
     "base_time": "00:05:00",
     "workload": 3000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10002160
+      },
+      {
+        "type": 3,
+        "id": 500211
+      }
+    ]
   },
   "550202": {
     "id": 550202,
@@ -3449,7 +4501,13 @@
     "base_time": "00:10:00",
     "workload": 6000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 550201
+      }
+    ]
   },
   "550203": {
     "id": 550203,
@@ -3473,7 +4531,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 320201
+      }
+    ]
   },
   "550204": {
     "id": 550204,
@@ -3497,7 +4561,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 5
+    "group": 5,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 320203
+      }
+    ]
   },
   "610101": {
     "id": 610101,
@@ -3517,7 +4587,13 @@
     "base_time": "00:01:00",
     "workload": 600,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10002040
+      }
+    ]
   },
   "610102": {
     "id": 610102,
@@ -3541,7 +4617,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 610401
+      }
+    ]
   },
   "610401": {
     "id": 610401,
@@ -3561,7 +4643,13 @@
     "base_time": "00:05:00",
     "workload": 3000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 610101
+      }
+    ]
   },
   "610402": {
     "id": 610402,
@@ -3585,7 +4673,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 610102
+      }
+    ]
   },
   "610403": {
     "id": 610403,
@@ -3609,7 +4703,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 610402
+      }
+    ]
   },
   "620101": {
     "id": 620101,
@@ -3633,7 +4733,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10002160
+      }
+    ]
   },
   "630101": {
     "id": 630101,
@@ -3657,7 +4763,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 630202
+      }
+    ]
   },
   "630201": {
     "id": 630201,
@@ -3681,7 +4793,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10004030
+      }
+    ]
   },
   "630202": {
     "id": 630202,
@@ -3705,7 +4823,13 @@
     "base_time": "00:30:00",
     "workload": 18000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 630201
+      }
+    ]
   },
   "630203": {
     "id": 630203,
@@ -3729,7 +4853,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 630101
+      }
+    ]
   },
   "630204": {
     "id": 630204,
@@ -3753,7 +4883,13 @@
     "base_time": "04:00:00",
     "workload": 144000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 630203
+      }
+    ]
   },
   "640001": {
     "id": 640001,
@@ -3777,7 +4913,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10004030
+      }
+    ]
   },
   "640101": {
     "id": 640101,
@@ -3801,7 +4943,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 640202
+      }
+    ]
   },
   "640201": {
     "id": 640201,
@@ -3825,7 +4973,13 @@
     "base_time": "01:00:00",
     "workload": 36000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 640001
+      }
+    ]
   },
   "640202": {
     "id": 640202,
@@ -3849,7 +5003,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 640201
+      }
+    ]
   },
   "640203": {
     "id": 640203,
@@ -3873,7 +5033,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 640101
+      }
+    ]
   },
   "640204": {
     "id": 640204,
@@ -3897,7 +5063,13 @@
     "base_time": "05:00:00",
     "workload": 180000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 640203
+      }
+    ]
   },
   "640205": {
     "id": 640205,
@@ -3921,7 +5093,13 @@
     "base_time": "05:00:00",
     "workload": 180000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 640204
+      }
+    ]
   },
   "650001": {
     "id": 650001,
@@ -3945,7 +5123,13 @@
     "base_time": "04:00:00",
     "workload": 144000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10004030
+      }
+    ]
   },
   "650101": {
     "id": 650101,
@@ -3969,7 +5153,13 @@
     "base_time": "06:00:00",
     "workload": 216000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 650201
+      }
+    ]
   },
   "650201": {
     "id": 650201,
@@ -3993,7 +5183,13 @@
     "base_time": "05:00:00",
     "workload": 180000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 650001
+      }
+    ]
   },
   "650202": {
     "id": 650202,
@@ -4017,7 +5213,13 @@
     "base_time": "08:00:00",
     "workload": 288000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 650101
+      }
+    ]
   },
   "650203": {
     "id": 650203,
@@ -4041,7 +5243,13 @@
     "base_time": "10:00:00",
     "workload": 360000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 650202
+      }
+    ]
   },
   "660001": {
     "id": 660001,
@@ -4065,7 +5273,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 1,
+        "id": 10004030
+      }
+    ]
   },
   "660101": {
     "id": 660101,
@@ -4089,7 +5303,13 @@
     "base_time": "05:00:00",
     "workload": 180000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 660204
+      }
+    ]
   },
   "660201": {
     "id": 660201,
@@ -4113,7 +5333,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 660001
+      }
+    ]
   },
   "660202": {
     "id": 660202,
@@ -4137,7 +5363,13 @@
     "base_time": "02:00:00",
     "workload": 72000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 660201
+      }
+    ]
   },
   "660203": {
     "id": 660203,
@@ -4161,7 +5393,13 @@
     "base_time": "04:00:00",
     "workload": 144000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 660202
+      }
+    ]
   },
   "660204": {
     "id": 660204,
@@ -4185,7 +5423,13 @@
     "base_time": "04:00:00",
     "workload": 144000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 660203
+      }
+    ]
   },
   "660205": {
     "id": 660205,
@@ -4209,7 +5453,13 @@
     "base_time": "06:00:00",
     "workload": 216000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 660101
+      }
+    ]
   },
   "660206": {
     "id": 660206,
@@ -4233,6 +5483,12 @@
     "base_time": "08:00:00",
     "workload": 288000,
     "base_efficiency": 10,
-    "group": 6
+    "group": 6,
+    "conditions": [
+      {
+        "type": 3,
+        "id": 660205
+      }
+    ]
   }
 }
