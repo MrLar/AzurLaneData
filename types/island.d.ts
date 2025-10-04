@@ -357,6 +357,9 @@ export interface IslandTaskTarget {
 export interface IslandCombo {
     id: number
     create_id: number
+    name: string
+    icon: string
+    rarity: Rarity
     conditions: Array<{
         id: number
         times: number
