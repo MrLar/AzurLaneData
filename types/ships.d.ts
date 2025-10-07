@@ -145,6 +145,7 @@ export interface DDGMOverrides extends BasicShipStats, ShipScalingStats {
 export interface ShipStatsData extends ShipScalingStats, BasicShipStats {
     armor: number
     range: number[][][] | null
+    surface_time?: number
 }
 
 export interface FleetTech {

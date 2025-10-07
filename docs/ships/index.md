@@ -91,10 +91,11 @@ related. It extends [`BasicShipStats`](#basic-ship-stats)
 and [`ShipScalingStats`](#scaling-ship-stats).
 Contains the following properties:
 
-| Property  |           Type           |                                                                        Description                                                                        |
-| :-------: | :----------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **armor** |         `number`         |                         The armor type of the ship as a number with the range `[0, 3]` for Light, Medium and Heavy respectively.                          |
-| **range** | `number[][][]` \| `null` | The hunting range of this ship if it is a submarine-like or null otherwise. Refer to [Computing Hunting Range](#computing-hunting-range) for computation. |
+|     Property     |           Type           |                                                                        Description                                                                        |
+| :--------------: | :----------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    **armor**     |         `number`         |                         The armor type of the ship as a number with the range `[0, 3]` for Light, Medium and Heavy respectively.                          |
+|    **range**     | `number[][][]` \| `null` | The hunting range of this ship if it is a submarine-like or null otherwise. Refer to [Computing Hunting Range](#computing-hunting-range) for computation. |
+| **surface_time** |         `number`         |                                                 Duration the submarine stays afloat after losing oxygen.                                                  |
 
 
 ### Basic Ship Stats
