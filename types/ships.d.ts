@@ -133,6 +133,7 @@ export interface RetroStatsData extends ShipScalingStats, BasicShipStats {
     ddg_m?: DDGMOverrides
     armor?: number
     range?: number[][][] | null
+    surface_time?: number
 }
 
 export interface DDGMOverrides extends BasicShipStats, ShipScalingStats {
