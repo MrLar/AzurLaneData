@@ -195,6 +195,7 @@ export interface IslandPlace {
     map_id: number
     icon: string | null
     needs_unlock: boolean
+    extra_animal_eff?: number[][]
 }
 
 export interface IslandAttrGrade {
