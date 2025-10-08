@@ -190,21 +190,11 @@ export interface IslandPlace {
     id: number
     name: string
     restaurant: number | null
-    slots: IslandSlot[]
-    manual_slots: IslandSlot[]
+    recipes: IslandFormula[]
+    recipes_manual: IslandFormula[]
     map_id: number
     icon: string | null
     needs_unlock: boolean
-}
-
-export interface IslandSlot {
-    slot: string
-    formulas: IslandFormula[]
-    needs_unlock: boolean
-    slot_id: number
-    lock_slots: number[]
-    locked_by: number[]
-    extra_animal_efficiencies: number[][]
 }
 
 export interface IslandAttrGrade {
