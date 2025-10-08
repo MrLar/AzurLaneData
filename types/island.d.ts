@@ -122,6 +122,7 @@ export interface IslandGatherable {
 }
 
 export interface IslandFormula {
+    id: number
     stamina: number
     item_id: number
     production_limit: number
