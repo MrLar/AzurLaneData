@@ -4312,7 +4312,7 @@
         "workload": 18000,
         "base_efficiency": 10,
         "is_condition": true,
-        "needs_unlock": true,
+        "needs_unlock": false,
         "is_combo": false,
         "event": null
       },

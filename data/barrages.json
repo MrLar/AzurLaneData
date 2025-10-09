@@ -65597,6 +65597,430 @@
       ]
     }
   ],
+  "114020": [
+    {
+      "name": "Dios Aedes Vesta",
+      "parts": [
+        {
+          "damage": 50,
+          "coefficient": 1,
+          "count": 16,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.95,
+            0.7
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            160
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169250,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161175,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "114030": [
+    {
+      "name": "Dios Aedes Vesta+",
+      "parts": [
+        {
+          "damage": 50,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.95,
+            0.7
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            160
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169260,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161175,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "114100": [
+    {
+      "name": "Astraea Record",
+      "parts": [
+        {
+          "damage": 60,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.95,
+            0.7
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            195,
+            205
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169970,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168245,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Astraea Record (Laser)",
+      "parts": [
+        {
+          "damage": 80,
+          "coefficient": 1,
+          "count": 12,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 1,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169970,
+          "weapon_type": 24,
+          "bullet_type": 10,
+          "bullet_id": 168245,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "114110": [
+    {
+      "name": "Luminous Wind",
+      "parts": [
+        {
+          "damage": 40,
+          "coefficient": 1,
+          "count": 28,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.1,
+            1.1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            145,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169990,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168242,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Luminous Wind (Enemy within 45)",
+      "parts": [
+        {
+          "damage": 120,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 14,
+          "pierce": 0,
+          "shell_range": [
+            195,
+            205
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169960,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168244,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "114120": [
+    {
+      "name": "Luminous Wind+ (less than 2 enemies)",
+      "parts": [
+        {
+          "damage": 40,
+          "coefficient": 1,
+          "count": 28,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.1,
+            1.1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            145,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169990,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168242,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Luminous Wind+ (2 or more enemies)",
+      "parts": [
+        {
+          "damage": 40,
+          "coefficient": 1,
+          "count": 56,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.1,
+            1.1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            145,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169950,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168242,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Luminous Wind (Enemy within 45)",
+      "parts": [
+        {
+          "damage": 120,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 14,
+          "pierce": 0,
+          "shell_range": [
+            195,
+            205
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169960,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168244,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "150000": [
     {
       "name": "Sword of Final Judgment",
@@ -86439,6 +86863,140 @@
           "weapon_type": 3,
           "bullet_type": 3,
           "bullet_id": 1801,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "1012430": [
+    {
+      "name": "Lucky A+",
+      "parts": [
+        {
+          "damage": 170,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.5,
+            1.2,
+            1.15
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 50,
+          "splash": 16,
+          "velocity": 14,
+          "pierce": 0,
+          "shell_range": [
+            112.5,
+            127.5
+          ],
+          "spread": [
+            10,
+            10
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169270,
+          "weapon_type": 1,
+          "bullet_type": 2,
+          "bullet_id": 161176,
+          "type": "weapon"
+        },
+        {
+          "damage": 170,
+          "coefficient": 1,
+          "count": 9,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.5,
+            1.2,
+            1.15
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            95
+          ],
+          "aim_type": 1,
+          "angle": 60,
+          "splash": 16,
+          "velocity": 14,
+          "pierce": 0,
+          "shell_range": [
+            112.5,
+            127.5
+          ],
+          "spread": [
+            22,
+            22
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 68600,
+          "weapon_type": 19,
+          "bullet_type": 2,
+          "bullet_id": 19001,
+          "type": "weapon"
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 30,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            0.6,
+            0.6
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            70,
+            80
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Standard Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
+          ],
+          "buff_chance": 0.01,
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 68620,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 19905,
           "type": "weapon"
         }
       ]

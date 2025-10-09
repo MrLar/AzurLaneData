@@ -3843,7 +3843,7 @@
     "conditions": [
       {
         "type": 3,
-        "id": 520205
+        "id": 520204
       }
     ]
   },
@@ -4077,36 +4077,6 @@
       }
     ]
   },
-  "530201": {
-    "id": 530201,
-    "icon": "island/technology/tech_530201",
-    "name": "Corn Cup",
-    "description": "Allows for the production of sweet and fluffy Corn Cups.",
-    "auto_complete": true,
-    "tip": "You can now obtain Corn Cups.",
-    "island_level": 17,
-    "times_completable": 1,
-    "cost": [
-      {
-        "id": 1,
-        "amount": 5000
-      },
-      {
-        "id": 2001,
-        "amount": 63
-      }
-    ],
-    "base_time": "01:00:00",
-    "workload": 36000,
-    "base_efficiency": 10,
-    "group": 5,
-    "conditions": [
-      {
-        "type": 3,
-        "id": 530001
-      }
-    ]
-  },
   "530202": {
     "id": 530202,
     "icon": "island/technology/tech_530201",
@@ -4231,7 +4201,7 @@
     "conditions": [
       {
         "type": 3,
-        "id": 530201
+        "id": 530001
       }
     ]
   },
@@ -4261,7 +4231,7 @@
     "conditions": [
       {
         "type": 3,
-        "id": 530201
+        "id": 530001
       }
     ]
   },

@@ -11403,6 +11403,74 @@
       "CN"
     ]
   },
+  "14400": {
+    "id": 14400,
+    "icon": "14400",
+    "name": "Anchor of Fortune",
+    "limit_group": 401,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902030
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 12430,
+        "with": 1012430
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Alabama's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          10,
+          10,
+          10,
+          11,
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "14420": {
     "id": 14420,
     "icon": "14420",
@@ -11869,6 +11937,206 @@
           15
         ],
         "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "14560": {
+    "id": 14560,
+    "icon": "14560",
+    "name": "Protector of Order",
+    "limit_group": 196,
+    "type": 4,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 4041,
+        "with": 1090430
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Myoukou's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          80,
+          92,
+          104,
+          116,
+          128,
+          140,
+          152,
+          164,
+          176,
+          188,
+          200
+        ],
+        "random": 20
+      },
+      {
+        "stat": "eva",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "14580": {
+    "id": 14580,
+    "icon": "14580",
+    "name": "Hestia's String",
+    "limit_group": 10141,
+    "type": 3,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      114040
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 114020,
+        "with": 114030
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Hestia's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          180,
+          190,
+          200,
+          210,
+          220,
+          230,
+          240,
+          250,
+          260,
+          270,
+          280
+        ]
+      },
+      {
+        "stat": "eva",
+        "values": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "14600": {
+    "id": 14600,
+    "icon": "14600",
+    "name": "Alf's Justitia",
+    "limit_group": 10142,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      114129
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 114110,
+        "with": 114120
+      }
+    ],
+    "craftable": false,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Ryu Lion's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      {
+        "stat": "eva",
+        "values": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
       }
     ],
     "labels": [],

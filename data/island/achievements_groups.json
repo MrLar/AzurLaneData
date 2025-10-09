@@ -2716,6 +2716,99 @@
             }
           ]
         ]
+      },
+      {
+        "ids": [
+          3081,
+          3082,
+          3083,
+          3084,
+          3085,
+          3086
+        ],
+        "name": "One Small Step for Chibikind",
+        "descriptions": [
+          "Acquire 1 Character Outfit(s) - Trail",
+          "Acquire 2 Character Outfit(s) - Trail",
+          "Acquire 4 Character Outfit(s) - Trail",
+          "Acquire 8 Character Outfit(s) - Trail",
+          "Acquire 10 Character Outfit(s) - Trail",
+          "Acquire 15 Character Outfit(s) - Trail"
+        ],
+        "rewards": [
+          [
+            {
+              "id": 10411,
+              "type": 45,
+              "linkable": false,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/furniture/furniture_10411",
+              "name": "Wood-Chopping Set"
+            }
+          ],
+          [
+            {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 10000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            }
+          ],
+          [
+            {
+              "id": 100002,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 5,
+              "blueprint": false,
+              "icon": "island/props/item_100002",
+              "name": "Island EXP Textbook T2"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 10,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ],
+          [
+            {
+              "id": 100201,
+              "type": 41,
+              "linkable": true,
+              "rarity": 0,
+              "amount": 1,
+              "blueprint": false,
+              "icon": "island/props/item_100201",
+              "name": "Island Development Gem"
+            }
+          ],
+          [
+            {
+              "id": 59005,
+              "type": 0,
+              "linkable": true,
+              "rarity": 4,
+              "amount": 30,
+              "blueprint": false,
+              "icon": "props/gem",
+              "name": "Gems"
+            }
+          ]
+        ]
       }
     ],
     "name": "Journey of Growth"

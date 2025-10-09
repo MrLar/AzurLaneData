@@ -967,6 +967,28 @@
     ],
     "contains": []
   },
+  "1153": {
+    "name": "Sanctuary Beyond Heavens",
+    "description": "A quiet place to relax that is the synthesis of technology and artistic beauty. It feels almost like a warm safehouse at the edge of the galaxy.\nSurrender yourself to it, forget your daily troubles, and let the dreams of the cosmos embrace you.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 5,
+    "id": 1153,
+    "purchaseable": true,
+    "expires": 0,
+    "icon": "dorm3d/items/3ddrom_xinzexi_premiumfurniture2",
+    "room_id": 11,
+    "furni_type": 4,
+    "exclusive": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "1201": {
     "name": "Fluffy Bed",
     "description": "A soft double bed with a complete set of bedding: comfy mattress, blanket, and pillows. Slip under the blanket and sleep off the day's troubles.",

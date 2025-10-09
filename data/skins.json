@@ -32678,5 +32678,51 @@
     "dynamic_bg": false,
     "dual_form": false,
     "l2d_plus": false
+  },
+  "11400011": {
+    "id": 11400011,
+    "name": "Godly Vacation!",
+    "type": 0,
+    "category": 6,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "hesitiya_2",
+    "bg": "539",
+    "obtain_type": 0,
+    "price": 1000,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": true,
+    "dynamic_bg": false,
+    "dual_form": false,
+    "l2d_plus": false
+  },
+  "11400021": {
+    "id": 11400021,
+    "name": "Night at the Pub",
+    "type": 0,
+    "category": 17,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "liuliang_2",
+    "bg": "163",
+    "obtain_type": 0,
+    "price": 1000,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": true,
+    "dynamic_bg": false,
+    "dual_form": false,
+    "l2d_plus": false
   }
 }

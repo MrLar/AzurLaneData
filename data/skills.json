@@ -49137,6 +49137,296 @@
     "icon": "augments/14340",
     "values": []
   },
+  "114010": {
+    "description": "When the battle starts, and every 20s: for 6s, increases your Vanguard's FP and TRP by $1 and increases your Vanguard's and Main Fleet's DMG dealt by $2. When this buff ends, all your ships recover 1.0% of their max HP.",
+    "opsi_description": null,
+    "name": "Falna",
+    "max": 10,
+    "id": 114010,
+    "type": 2,
+    "icon": 114010,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "1.0%",
+        "1.4%",
+        "1.8%",
+        "2.2%",
+        "2.6%",
+        "3.0%",
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%"
+      ]
+    ]
+  },
+  "114020": {
+    "description": "Every 20s after the battle starts: activates Dios Aedes Vesta; extinguishes any active Burns (excluding special Burns) your Vanguard is afflicted with, recovers 1.0% of your Vanguard's max HP every 1s for 3s, and fires a $1 special barrage (DMG is based on the skill's level) from a random Vanguard ship with a $2 chance to decrease the EVA of enemies hit by $3 for 5s.",
+    "opsi_description": null,
+    "name": "Dios Aedes Vesta",
+    "max": 10,
+    "id": 114020,
+    "type": 3,
+    "icon": 114020,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "1.0%",
+        "1.4%",
+        "1.8%",
+        "2.2%",
+        "2.6%",
+        "3.0%",
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%"
+      ]
+    ]
+  },
+  "114030": {
+    "description": "Every 20s after the battle starts: activates Dios Aedes Vesta+; extinguishes any active Burns (excluding special Burns) your Vanguard is afflicted with, recovers 1.0% of your Vanguard's max HP every 1s for 5s, and fires a $1 special barrage (DMG is based on the skill's level) from a random Vanguard ship that decreases the EVA of enemies hit by $2 for 5s.",
+    "opsi_description": null,
+    "name": "Dios Aedes Vesta+",
+    "max": 10,
+    "id": 114030,
+    "type": 3,
+    "icon": 114020,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "1.0%",
+        "1.4%",
+        "1.8%",
+        "2.2%",
+        "2.6%",
+        "3.0%",
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%"
+      ]
+    ]
+  },
+  "114040": {
+    "description": "When the battle starts, decreases your Vanguard's DMG taken by 5.0% for 30s.",
+    "opsi_description": null,
+    "name": "Hestia's String",
+    "max": 1,
+    "id": 114040,
+    "type": 0,
+    "icon": "augments/14580",
+    "values": []
+  },
+  "114100": {
+    "description": "When the battle starts, activates Star Justitory, decreasing this ship's SPD by 10.0% and DMG taken by $1 for 10s. When this effect ends, activates Agaris Alvesynth and applies the following effects:\n1) Increases this ship's Crit Rate and Crit DMG by $2 and EVA by $3;\n2) When this ship fires her Main Guns, she additionally fires $4 HE shells (DMG is based on the skill's level) that prioritize humanoid enemies;\n3) Every 8 times this ship fires her Main Guns: performs the $4 special attack Alvelia (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Astraea Record",
+    "max": 10,
+    "id": 114100,
+    "type": 3,
+    "icon": 114100,
+    "values": [
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "10.0%",
+        "11.2%",
+        "12.4%",
+        "14.5%",
+        "15.7%",
+        "16.9%",
+        "19.0%",
+        "20.8%",
+        "22.6%",
+        "25.0%"
+      ],
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "114110": {
+    "description": "Increases this ship's FP by $1. \nEvery 10s after the battle starts: performs the $2 special attack Luminous Wind (DMG is based on the skill's level); when performing this attack, if there is an enemy within 45 units of this ship, additionally performs the $3 special attack Luvia (DMG is based on the skill's level; prioritizes humanoid enemies).",
+    "opsi_description": null,
+    "name": "Luminous Wind",
+    "max": 10,
+    "id": 114110,
+    "type": 1,
+    "icon": 114110,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "114120": {
+    "description": "Increases this ship's FP by $1. \nEvery 10s after the battle starts: performs the $2 special attack Luminous Wind+ (DMG is based on the skill's level; improves the attack if there are 2 or more enemies present); when performing this attack, if there is an enemy within 45 units of this ship, additionally performs the $3 special attack Luvia+ (DMG is based on the skill's level; prioritizes humanoid enemies).",
+    "opsi_description": null,
+    "name": "Luminous Wind+",
+    "max": 10,
+    "id": 114120,
+    "type": 1,
+    "icon": 114110,
+    "values": [
+      [
+        "10.0%",
+        "11.2%",
+        "12.4%",
+        "14.5%",
+        "15.7%",
+        "16.9%",
+        "19.0%",
+        "20.8%",
+        "22.6%",
+        "25.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "114129": {
+    "description": "10s after the battle starts: increases this ship's ACC by 15.0% until the battle ends.",
+    "opsi_description": null,
+    "name": "Alf's Justitia",
+    "max": 1,
+    "id": 114129,
+    "type": 0,
+    "icon": "augments/14600",
+    "values": []
+  },
   "150000": {
     "description": "When the battle starts, summons 6 Swords of Judgment around this ship that can negate up to 7 enemy shells each. Once per battle, when the HP of a ship in your fleet falls below 50.0% as a result of DMG taken: performs a $1 special slashing attack (DMG is based on the skill's level; if there is another Iris Libre or Vichya Dominion ship in your fleet when this attack activates: improves this attack).",
     "opsi_description": null,
@@ -64544,6 +64834,53 @@
       ]
     ]
   },
+  "1012430": {
+    "description": "Increases this ship's EVA and LCK by $1, and decreases torpedo DMG taken by $2. Every 20s, $3 chance to fire a powerful barrage+ (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Lucky A+",
+    "max": 10,
+    "id": 1012430,
+    "type": 1,
+    "icon": 12430,
+    "values": [
+      [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      [
+        "5.0%",
+        "6.2%",
+        "7.4%",
+        "9.0%",
+        "10.5%",
+        "12.0%",
+        "14.0%",
+        "15.8%",
+        "17.6%",
+        "20.0%"
+      ],
+      [
+        "50.0%",
+        "55.0%",
+        "60.0%",
+        "65.0%",
+        "70.0%",
+        "75.0%",
+        "80.0%",
+        "85.0%",
+        "90.0%",
+        "100%"
+      ]
+    ]
+  },
   "1012480": {
     "description": "This ship's Main Gun ammo type changes to $1 Special AP {with $3 modifiers|These modifiers are not stated in game at all instead it just states a generic dmg based on level.}. When this Special AP hits an enemy: $2 chance to inflict that enemy with {special Armor Break|The game introduces a new confusing term for this for no real reason.}; {The special Armor Break|The game introduces a new confusing term for this for no real reason.} lasts for 8s and increases that enemy's shelling DMG received by 8.0%.\n15s after the battle starts, and every 20s after that: this ship gains a stealth mode, evading all enemy attacks for 3s; when this mode ends: fires a $1 special barrage (DMG is based on the skill's level) that inflicts the {the same special Armor Break|The game introduces a new confusing term for this for no real reason.} debuff to enemies hit.",
     "opsi_description": null,
@@ -67370,6 +67707,16 @@
         "40.0%"
       ]
     ]
+  },
+  "1090430": {
+    "description": "When the battle starts, and every 20s: {50%|The game incorrectly handles part of this skill and the chance always remains 50%.} chance to tank 50% of the DMG your Vanguard ships take for 8s (similar skills don't stack); for each other ship in your Vanguard, this ship recovers 1.0% of max HP and DMG taken is decreased by 10.0% for 8s (can be stacked 2 times).",
+    "opsi_description": null,
+    "name": "Draw Fire - Myoukou",
+    "max": 10,
+    "id": 1090430,
+    "type": 2,
+    "icon": 4040,
+    "values": []
   },
   "10150530": {
     "description": "Decreases this ship's SPD by 10.0%. Enemies attacking this ship take $1 more DMG and have their EVA decreased by 4.0% for 4s. Every 10 times this ship is attacked: restores $2 of this ship's max HP and fires a $3 special barrage (DMG is based on the skill's level); this effect can activate up to 3 times per battle. When this special barrage fires: for 5s, when this ship is attacked, it will not count toward the hits taken tally.",
