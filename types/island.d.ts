@@ -221,6 +221,9 @@ export interface IslandTechnology {
     base_time: IslandFormula['base_time']
     workload: IslandFormula['workload']
     base_efficiency: IslandFormula['base_efficiency']
+    attribute: IslandFormula['attribute']
+    stamina: IslandFormula['stamina']
+    pts: IslandFormula['pts']
     conditions: IslandTechCondition[]
 }
 

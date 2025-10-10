@@ -18,7 +18,11 @@
     "workload": 300,
     "base_efficiency": 10,
     "group": 1,
-    "conditions": []
+    "conditions": [],
+    "attribute": "machinery",
+    "exp": 1,
+    "stamina": 1,
+    "pts": 0
   },
   "100002": {
     "id": 100002,
@@ -44,7 +48,11 @@
         "type": 3,
         "id": 100001
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 1,
+    "stamina": 1,
+    "pts": 0
   },
   "100003": {
     "id": 100003,
@@ -78,7 +86,11 @@
         "type": 3,
         "id": 120001
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "100004": {
     "id": 100004,
@@ -108,7 +120,11 @@
         "type": 3,
         "id": 100302
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "100301": {
     "id": 100301,
@@ -134,7 +150,11 @@
         "type": 3,
         "id": 110302
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 10,
+    "stamina": 2,
+    "pts": 0
   },
   "100302": {
     "id": 100302,
@@ -160,7 +180,11 @@
         "type": 3,
         "id": 110103
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "100303": {
     "id": 100303,
@@ -190,7 +214,11 @@
         "type": 3,
         "id": 100302
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "100304": {
     "id": 100304,
@@ -216,7 +244,11 @@
         "type": 3,
         "id": 120003
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "100305": {
     "id": 100305,
@@ -242,7 +274,11 @@
         "type": 3,
         "id": 110306
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 240,
+    "stamina": 48,
+    "pts": 0
   },
   "100306": {
     "id": 100306,
@@ -268,7 +304,11 @@
         "type": 3,
         "id": 110307
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 300,
+    "stamina": 60,
+    "pts": 0
   },
   "100307": {
     "id": 100307,
@@ -294,7 +334,11 @@
         "type": 3,
         "id": 120004
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 360,
+    "stamina": 72,
+    "pts": 0
   },
   "100308": {
     "id": 100308,
@@ -324,7 +368,11 @@
         "type": 3,
         "id": 100307
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 480,
+    "stamina": 96,
+    "pts": 0
   },
   "110001": {
     "id": 110001,
@@ -354,7 +402,11 @@
         "type": 3,
         "id": 100001
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 1,
+    "stamina": 1,
+    "pts": 0
   },
   "110002": {
     "id": 110002,
@@ -384,7 +436,11 @@
         "type": 3,
         "id": 100001
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 1,
+    "stamina": 1,
+    "pts": 0
   },
   "110101": {
     "id": 110101,
@@ -414,7 +470,11 @@
         "type": 3,
         "id": 100001
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 1,
+    "stamina": 1,
+    "pts": 0
   },
   "110102": {
     "id": 110102,
@@ -452,7 +512,11 @@
         "type": 3,
         "id": 110101
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 1,
+    "stamina": 1,
+    "pts": 0
   },
   "110103": {
     "id": 110103,
@@ -478,7 +542,11 @@
         "type": 3,
         "id": 140101
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "110301": {
     "id": 110301,
@@ -504,7 +572,11 @@
         "type": 3,
         "id": 110102
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 5,
+    "stamina": 1,
+    "pts": 0
   },
   "110302": {
     "id": 110302,
@@ -530,7 +602,11 @@
         "type": 3,
         "id": 110301
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 5,
+    "stamina": 1,
+    "pts": 0
   },
   "110303": {
     "id": 110303,
@@ -556,7 +632,11 @@
         "type": 3,
         "id": 100301
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 10,
+    "stamina": 2,
+    "pts": 0
   },
   "110304": {
     "id": 110304,
@@ -582,7 +662,11 @@
         "type": 3,
         "id": 110103
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "110305": {
     "id": 110305,
@@ -612,7 +696,11 @@
         "type": 3,
         "id": 100303
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "110306": {
     "id": 110306,
@@ -638,7 +726,11 @@
         "type": 3,
         "id": 130302
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 240,
+    "stamina": 48,
+    "pts": 0
   },
   "110307": {
     "id": 110307,
@@ -664,7 +756,11 @@
         "type": 3,
         "id": 100305
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 300,
+    "stamina": 60,
+    "pts": 0
   },
   "110308": {
     "id": 110308,
@@ -690,7 +786,11 @@
         "type": 3,
         "id": 120004
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 360,
+    "stamina": 72,
+    "pts": 0
   },
   "110309": {
     "id": 110309,
@@ -716,7 +816,11 @@
         "type": 3,
         "id": 100308
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 480,
+    "stamina": 96,
+    "pts": 0
   },
   "110310": {
     "id": 110310,
@@ -742,7 +846,11 @@
         "type": 3,
         "id": 120005
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 720,
+    "stamina": 144,
+    "pts": 0
   },
   "120001": {
     "id": 120001,
@@ -768,7 +876,11 @@
         "type": 3,
         "id": 100301
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 10,
+    "stamina": 2,
+    "pts": 0
   },
   "120003": {
     "id": 120003,
@@ -798,7 +910,11 @@
         "type": 3,
         "id": 110305
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "120004": {
     "id": 120004,
@@ -824,7 +940,11 @@
         "type": 3,
         "id": 100306
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 300,
+    "stamina": 60,
+    "pts": 0
   },
   "120005": {
     "id": 120005,
@@ -850,7 +970,11 @@
         "type": 3,
         "id": 110309
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 600,
+    "stamina": 120,
+    "pts": 0
   },
   "120006": {
     "id": 120006,
@@ -876,7 +1000,11 @@
         "type": 3,
         "id": 110310
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 720,
+    "stamina": 144,
+    "pts": 0
   },
   "130301": {
     "id": 130301,
@@ -910,7 +1038,11 @@
         "type": 3,
         "id": 100303
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "130302": {
     "id": 130302,
@@ -940,7 +1072,11 @@
         "type": 3,
         "id": 100304
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "140101": {
     "id": 140101,
@@ -966,7 +1102,11 @@
         "type": 3,
         "id": 100003
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "210101": {
     "id": 210101,
@@ -992,7 +1132,11 @@
         "type": 1,
         "id": 10001030
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 1,
+    "stamina": 1,
+    "pts": 0
   },
   "210102": {
     "id": 210102,
@@ -1022,7 +1166,11 @@
         "type": 3,
         "id": 210101
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "210103": {
     "id": 210103,
@@ -1052,7 +1200,11 @@
         "type": 3,
         "id": 210102
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 240,
+    "stamina": 48,
+    "pts": 0
   },
   "210104": {
     "id": 210104,
@@ -1082,7 +1234,11 @@
         "type": 3,
         "id": 210103
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 240,
+    "stamina": 48,
+    "pts": 0
   },
   "210201": {
     "id": 210201,
@@ -1112,7 +1268,11 @@
         "type": 3,
         "id": 210101
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "210202": {
     "id": 210202,
@@ -1142,7 +1302,11 @@
         "type": 3,
         "id": 210201
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "210203": {
     "id": 210203,
@@ -1172,7 +1336,11 @@
         "type": 3,
         "id": 210202
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 240,
+    "stamina": 48,
+    "pts": 0
   },
   "210401": {
     "id": 210401,
@@ -1198,7 +1366,11 @@
         "type": 1,
         "id": 10001030
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 5,
+    "stamina": 1,
+    "pts": 0
   },
   "210501": {
     "id": 210501,
@@ -1228,7 +1400,11 @@
         "type": 3,
         "id": 210401
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "210502": {
     "id": 210502,
@@ -1258,7 +1434,11 @@
         "type": 3,
         "id": 210501
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "210601": {
     "id": 210601,
@@ -1288,7 +1468,11 @@
         "type": 3,
         "id": 210502
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 480,
+    "stamina": 96,
+    "pts": 0
   },
   "220101": {
     "id": 220101,
@@ -1314,7 +1498,11 @@
         "type": 1,
         "id": 10001020
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 1,
+    "stamina": 1,
+    "pts": 0
   },
   "220102": {
     "id": 220102,
@@ -1344,7 +1532,11 @@
         "type": 3,
         "id": 220101
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "220103": {
     "id": 220103,
@@ -1374,7 +1566,11 @@
         "type": 3,
         "id": 220102
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "220104": {
     "id": 220104,
@@ -1404,7 +1600,11 @@
         "type": 3,
         "id": 220103
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 300,
+    "stamina": 60,
+    "pts": 0
   },
   "220201": {
     "id": 220201,
@@ -1430,7 +1630,11 @@
         "type": 3,
         "id": 220101
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 10,
+    "stamina": 2,
+    "pts": 0
   },
   "220202": {
     "id": 220202,
@@ -1460,7 +1664,11 @@
         "type": 3,
         "id": 220201
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "220203": {
     "id": 220203,
@@ -1490,7 +1698,11 @@
         "type": 3,
         "id": 220202
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "220204": {
     "id": 220204,
@@ -1520,7 +1732,11 @@
         "type": 3,
         "id": 220203
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "220401": {
     "id": 220401,
@@ -1546,7 +1762,11 @@
         "type": 3,
         "id": 220501
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 10,
+    "stamina": 2,
+    "pts": 0
   },
   "220501": {
     "id": 220501,
@@ -1572,7 +1792,11 @@
         "type": 1,
         "id": 10001020
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 5,
+    "stamina": 1,
+    "pts": 0
   },
   "220502": {
     "id": 220502,
@@ -1602,7 +1826,11 @@
         "type": 3,
         "id": 220401
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "220601": {
     "id": 220601,
@@ -1632,7 +1860,11 @@
         "type": 3,
         "id": 220502
       }
-    ]
+    ],
+    "attribute": "collect",
+    "exp": 600,
+    "stamina": 120,
+    "pts": 0
   },
   "310001": {
     "id": 310001,
@@ -1662,7 +1894,11 @@
         "type": 3,
         "id": 310102
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "310101": {
     "id": 310101,
@@ -1688,7 +1924,11 @@
         "type": 3,
         "id": 310302
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 5,
+    "stamina": 1,
+    "pts": 0
   },
   "310102": {
     "id": 310102,
@@ -1718,7 +1958,11 @@
         "type": 3,
         "id": 310305
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "310103": {
     "id": 310103,
@@ -1748,7 +1992,11 @@
         "type": 3,
         "id": 310308
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 240,
+    "stamina": 48,
+    "pts": 0
   },
   "310104": {
     "id": 310104,
@@ -1778,7 +2026,11 @@
         "type": 3,
         "id": 310309
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 600,
+    "stamina": 120,
+    "pts": 0
   },
   "310201": {
     "id": 310201,
@@ -1804,7 +2056,11 @@
         "type": 1,
         "id": 10002070
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 1,
+    "stamina": 1,
+    "pts": 0
   },
   "310202": {
     "id": 310202,
@@ -1830,7 +2086,11 @@
         "type": 3,
         "id": 310201
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 5,
+    "stamina": 1,
+    "pts": 0
   },
   "310301": {
     "id": 310301,
@@ -1856,7 +2116,11 @@
         "type": 1,
         "id": 10002070
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 1,
+    "stamina": 1,
+    "pts": 0
   },
   "310302": {
     "id": 310302,
@@ -1882,7 +2146,11 @@
         "type": 3,
         "id": 310301
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 5,
+    "stamina": 1,
+    "pts": 0
   },
   "310303": {
     "id": 310303,
@@ -1912,7 +2180,11 @@
         "type": 3,
         "id": 310302
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "310304": {
     "id": 310304,
@@ -1942,7 +2214,11 @@
         "type": 3,
         "id": 310303
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "310305": {
     "id": 310305,
@@ -1972,7 +2248,11 @@
         "type": 3,
         "id": 310304
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "310306": {
     "id": 310306,
@@ -2002,7 +2282,11 @@
         "type": 3,
         "id": 310305
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "310307": {
     "id": 310307,
@@ -2032,7 +2316,11 @@
         "type": 3,
         "id": 310306
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "310308": {
     "id": 310308,
@@ -2062,7 +2350,11 @@
         "type": 3,
         "id": 310307
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 240,
+    "stamina": 48,
+    "pts": 0
   },
   "310309": {
     "id": 310309,
@@ -2092,7 +2384,11 @@
         "type": 3,
         "id": 310308
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 300,
+    "stamina": 60,
+    "pts": 0
   },
   "320101": {
     "id": 320101,
@@ -2122,7 +2418,11 @@
         "type": 3,
         "id": 320301
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "320102": {
     "id": 320102,
@@ -2152,7 +2452,11 @@
         "type": 3,
         "id": 320304
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 360,
+    "stamina": 72,
+    "pts": 0
   },
   "320201": {
     "id": 320201,
@@ -2186,7 +2490,11 @@
         "type": 3,
         "id": 550202
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "320202": {
     "id": 320202,
@@ -2220,7 +2528,11 @@
         "type": 3,
         "id": 310202
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "320203": {
     "id": 320203,
@@ -2250,7 +2562,11 @@
         "type": 3,
         "id": 320201
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "320204": {
     "id": 320204,
@@ -2280,7 +2596,11 @@
         "type": 3,
         "id": 500236
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "320205": {
     "id": 320205,
@@ -2310,7 +2630,11 @@
         "type": 3,
         "id": 330201
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "320206": {
     "id": 320206,
@@ -2340,7 +2664,11 @@
         "type": 3,
         "id": 540201
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 240,
+    "stamina": 48,
+    "pts": 0
   },
   "320301": {
     "id": 320301,
@@ -2366,7 +2694,11 @@
         "type": 1,
         "id": 10003070
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 5,
+    "stamina": 1,
+    "pts": 0
   },
   "320302": {
     "id": 320302,
@@ -2396,7 +2728,11 @@
         "type": 3,
         "id": 320101
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "320303": {
     "id": 320303,
@@ -2426,7 +2762,11 @@
         "type": 3,
         "id": 320302
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "320304": {
     "id": 320304,
@@ -2456,7 +2796,11 @@
         "type": 3,
         "id": 320303
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 360,
+    "stamina": 72,
+    "pts": 0
   },
   "330101": {
     "id": 330101,
@@ -2486,7 +2830,11 @@
         "type": 3,
         "id": 330301
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "330102": {
     "id": 330102,
@@ -2516,7 +2864,11 @@
         "type": 3,
         "id": 330302
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "330103": {
     "id": 330103,
@@ -2546,7 +2898,11 @@
         "type": 3,
         "id": 330303
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 240,
+    "stamina": 48,
+    "pts": 0
   },
   "330104": {
     "id": 330104,
@@ -2576,7 +2932,11 @@
         "type": 3,
         "id": 330103
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 480,
+    "stamina": 96,
+    "pts": 0
   },
   "330201": {
     "id": 330201,
@@ -2610,7 +2970,11 @@
         "type": 3,
         "id": 320202
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "330301": {
     "id": 330301,
@@ -2636,7 +3000,11 @@
         "type": 1,
         "id": 10003070
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 10,
+    "stamina": 2,
+    "pts": 0
   },
   "330302": {
     "id": 330302,
@@ -2666,7 +3034,11 @@
         "type": 3,
         "id": 330101
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "330303": {
     "id": 330303,
@@ -2696,7 +3068,11 @@
         "type": 3,
         "id": 330102
       }
-    ]
+    ],
+    "attribute": "plant",
+    "exp": 240,
+    "stamina": 48,
+    "pts": 0
   },
   "400001": {
     "id": 400001,
@@ -2722,7 +3098,11 @@
         "type": 1,
         "id": 10002120
       }
-    ]
+    ],
+    "attribute": "conserve",
+    "exp": 10,
+    "stamina": 2,
+    "pts": 0
   },
   "410301": {
     "id": 410301,
@@ -2748,7 +3128,11 @@
         "type": 1,
         "id": 10002120
       }
-    ]
+    ],
+    "attribute": "conserve",
+    "exp": 1,
+    "stamina": 1,
+    "pts": 0
   },
   "410302": {
     "id": 410302,
@@ -2774,7 +3158,11 @@
         "type": 3,
         "id": 410301
       }
-    ]
+    ],
+    "attribute": "conserve",
+    "exp": 5,
+    "stamina": 1,
+    "pts": 0
   },
   "410303": {
     "id": 410303,
@@ -2804,7 +3192,11 @@
         "type": 3,
         "id": 410302
       }
-    ]
+    ],
+    "attribute": "conserve",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "410304": {
     "id": 410304,
@@ -2834,7 +3226,11 @@
         "type": 3,
         "id": 410303
       }
-    ]
+    ],
+    "attribute": "conserve",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "410305": {
     "id": 410305,
@@ -2864,7 +3260,11 @@
         "type": 3,
         "id": 410304
       }
-    ]
+    ],
+    "attribute": "conserve",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "420301": {
     "id": 420301,
@@ -2890,7 +3290,11 @@
         "type": 1,
         "id": 10002120
       }
-    ]
+    ],
+    "attribute": "conserve",
+    "exp": 5,
+    "stamina": 1,
+    "pts": 0
   },
   "420302": {
     "id": 420302,
@@ -2916,7 +3320,11 @@
         "type": 3,
         "id": 420301
       }
-    ]
+    ],
+    "attribute": "conserve",
+    "exp": 5,
+    "stamina": 1,
+    "pts": 0
   },
   "420303": {
     "id": 420303,
@@ -2946,7 +3354,11 @@
         "type": 3,
         "id": 420302
       }
-    ]
+    ],
+    "attribute": "conserve",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "420304": {
     "id": 420304,
@@ -2976,7 +3388,11 @@
         "type": 3,
         "id": 420303
       }
-    ]
+    ],
+    "attribute": "conserve",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "430301": {
     "id": 430301,
@@ -3002,7 +3418,11 @@
         "type": 1,
         "id": 10002120
       }
-    ]
+    ],
+    "attribute": "conserve",
+    "exp": 10,
+    "stamina": 2,
+    "pts": 0
   },
   "430302": {
     "id": 430302,
@@ -3032,7 +3452,11 @@
         "type": 3,
         "id": 430301
       }
-    ]
+    ],
+    "attribute": "conserve",
+    "exp": 10,
+    "stamina": 2,
+    "pts": 0
   },
   "430303": {
     "id": 430303,
@@ -3062,7 +3486,11 @@
         "type": 3,
         "id": 430302
       }
-    ]
+    ],
+    "attribute": "conserve",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "430304": {
     "id": 430304,
@@ -3092,7 +3520,11 @@
         "type": 3,
         "id": 430303
       }
-    ]
+    ],
+    "attribute": "conserve",
+    "exp": 240,
+    "stamina": 48,
+    "pts": 0
   },
   "440301": {
     "id": 440301,
@@ -3122,7 +3554,11 @@
         "type": 1,
         "id": 10002120
       }
-    ]
+    ],
+    "attribute": "conserve",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "440302": {
     "id": 440302,
@@ -3152,7 +3588,11 @@
         "type": 3,
         "id": 440301
       }
-    ]
+    ],
+    "attribute": "conserve",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "440303": {
     "id": 440303,
@@ -3182,7 +3622,11 @@
         "type": 3,
         "id": 440302
       }
-    ]
+    ],
+    "attribute": "conserve",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "440304": {
     "id": 440304,
@@ -3212,7 +3656,11 @@
         "type": 3,
         "id": 440303
       }
-    ]
+    ],
+    "attribute": "conserve",
+    "exp": 300,
+    "stamina": 60,
+    "pts": 0
   },
   "450301": {
     "id": 450301,
@@ -3237,7 +3685,11 @@
     "workload": 144000,
     "base_efficiency": 10,
     "group": 4,
-    "conditions": []
+    "conditions": [],
+    "attribute": "conserve",
+    "exp": 240,
+    "stamina": 48,
+    "pts": 0
   },
   "450302": {
     "id": 450302,
@@ -3267,7 +3719,11 @@
         "type": 3,
         "id": 450301
       }
-    ]
+    ],
+    "attribute": "conserve",
+    "exp": 300,
+    "stamina": 60,
+    "pts": 0
   },
   "500001": {
     "id": 500001,
@@ -3297,7 +3753,11 @@
         "type": 1,
         "id": 10002190
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "500211": {
     "id": 500211,
@@ -3323,7 +3783,11 @@
         "type": 1,
         "id": 10002070
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 1,
+    "stamina": 1,
+    "pts": 0
   },
   "500212": {
     "id": 500212,
@@ -3349,7 +3813,11 @@
         "type": 1,
         "id": 10002070
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 5,
+    "stamina": 1,
+    "pts": 0
   },
   "500213": {
     "id": 500213,
@@ -3375,7 +3843,11 @@
         "type": 1,
         "id": 10002070
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 10,
+    "stamina": 2,
+    "pts": 0
   },
   "500214": {
     "id": 500214,
@@ -3405,7 +3877,11 @@
         "type": 1,
         "id": 10002070
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 10,
+    "stamina": 2,
+    "pts": 0
   },
   "500215": {
     "id": 500215,
@@ -3431,7 +3907,11 @@
         "type": 3,
         "id": 500212
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 10,
+    "stamina": 2,
+    "pts": 0
   },
   "500231": {
     "id": 500231,
@@ -3457,7 +3937,11 @@
         "type": 1,
         "id": 10003070
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 5,
+    "stamina": 1,
+    "pts": 0
   },
   "500232": {
     "id": 500232,
@@ -3487,7 +3971,11 @@
         "type": 3,
         "id": 520001
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 10,
+    "stamina": 2,
+    "pts": 0
   },
   "500233": {
     "id": 500233,
@@ -3517,7 +4005,11 @@
         "type": 3,
         "id": 500232
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "500234": {
     "id": 500234,
@@ -3551,7 +4043,11 @@
         "type": 3,
         "id": 500215
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "500235": {
     "id": 500235,
@@ -3585,7 +4081,11 @@
         "type": 3,
         "id": 500233
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "500236": {
     "id": 500236,
@@ -3619,7 +4119,11 @@
         "type": 3,
         "id": 500214
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "510101": {
     "id": 510101,
@@ -3653,7 +4157,11 @@
         "type": 3,
         "id": 510204
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 300,
+    "stamina": 60,
+    "pts": 0
   },
   "510201": {
     "id": 510201,
@@ -3687,7 +4195,11 @@
         "type": 3,
         "id": 500213
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "510202": {
     "id": 510202,
@@ -3717,7 +4229,11 @@
         "type": 3,
         "id": 510201
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "510203": {
     "id": 510203,
@@ -3751,7 +4267,11 @@
         "type": 3,
         "id": 500215
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "510204": {
     "id": 510204,
@@ -3785,7 +4305,11 @@
         "type": 3,
         "id": 510202
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "520001": {
     "id": 520001,
@@ -3815,7 +4339,11 @@
         "type": 3,
         "id": 500231
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 10,
+    "stamina": 2,
+    "pts": 0
   },
   "520101": {
     "id": 520101,
@@ -3845,7 +4373,11 @@
         "type": 3,
         "id": 520204
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 480,
+    "stamina": 96,
+    "pts": 0
   },
   "520201": {
     "id": 520201,
@@ -3883,7 +4415,11 @@
         "type": 3,
         "id": 500234
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "520202": {
     "id": 520202,
@@ -3917,7 +4453,11 @@
         "type": 3,
         "id": 500235
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "520203": {
     "id": 520203,
@@ -3947,7 +4487,11 @@
         "type": 3,
         "id": 520202
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "520204": {
     "id": 520204,
@@ -3981,7 +4525,11 @@
         "type": 3,
         "id": 520205
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 240,
+    "stamina": 48,
+    "pts": 0
   },
   "520205": {
     "id": 520205,
@@ -4011,7 +4559,11 @@
         "type": 3,
         "id": 520203
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "530001": {
     "id": 530001,
@@ -4045,7 +4597,11 @@
         "type": 3,
         "id": 500234
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "530101": {
     "id": 530101,
@@ -4075,7 +4631,11 @@
         "type": 3,
         "id": 530204
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 600,
+    "stamina": 120,
+    "pts": 0
   },
   "530202": {
     "id": 530202,
@@ -4109,7 +4669,11 @@
         "type": 3,
         "id": 530206
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "530203": {
     "id": 530203,
@@ -4143,7 +4707,11 @@
         "type": 3,
         "id": 530202
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 240,
+    "stamina": 48,
+    "pts": 0
   },
   "530204": {
     "id": 530204,
@@ -4173,7 +4741,11 @@
         "type": 3,
         "id": 530203
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 300,
+    "stamina": 60,
+    "pts": 0
   },
   "530205": {
     "id": 530205,
@@ -4203,7 +4775,11 @@
         "type": 3,
         "id": 530001
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "530206": {
     "id": 530206,
@@ -4233,7 +4809,11 @@
         "type": 3,
         "id": 530001
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "540001": {
     "id": 540001,
@@ -4267,7 +4847,11 @@
         "type": 3,
         "id": 320204
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "540101": {
     "id": 540101,
@@ -4297,7 +4881,11 @@
         "type": 3,
         "id": 540205
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 720,
+    "stamina": 144,
+    "pts": 0
   },
   "540201": {
     "id": 540201,
@@ -4327,7 +4915,11 @@
         "type": 3,
         "id": 540001
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 240,
+    "stamina": 48,
+    "pts": 0
   },
   "540202": {
     "id": 540202,
@@ -4357,7 +4949,11 @@
         "type": 3,
         "id": 320206
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 300,
+    "stamina": 60,
+    "pts": 0
   },
   "540204": {
     "id": 540204,
@@ -4387,7 +4983,11 @@
         "type": 3,
         "id": 540202
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 300,
+    "stamina": 60,
+    "pts": 0
   },
   "540205": {
     "id": 540205,
@@ -4417,7 +5017,11 @@
         "type": 3,
         "id": 540204
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 360,
+    "stamina": 72,
+    "pts": 0
   },
   "550201": {
     "id": 550201,
@@ -4447,7 +5051,11 @@
         "type": 3,
         "id": 500211
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 5,
+    "stamina": 1,
+    "pts": 0
   },
   "550202": {
     "id": 550202,
@@ -4477,7 +5085,11 @@
         "type": 3,
         "id": 550201
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 10,
+    "stamina": 2,
+    "pts": 0
   },
   "550203": {
     "id": 550203,
@@ -4507,7 +5119,11 @@
         "type": 3,
         "id": 320201
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "550204": {
     "id": 550204,
@@ -4537,7 +5153,11 @@
         "type": 3,
         "id": 320203
       }
-    ]
+    ],
+    "attribute": "cooking",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "610101": {
     "id": 610101,
@@ -4563,7 +5183,11 @@
         "type": 1,
         "id": 10002040
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 1,
+    "stamina": 1,
+    "pts": 0
   },
   "610102": {
     "id": 610102,
@@ -4593,7 +5217,11 @@
         "type": 3,
         "id": 610401
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "610401": {
     "id": 610401,
@@ -4619,7 +5247,11 @@
         "type": 3,
         "id": 610101
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 5,
+    "stamina": 1,
+    "pts": 0
   },
   "610402": {
     "id": 610402,
@@ -4649,7 +5281,11 @@
         "type": 3,
         "id": 610102
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "610403": {
     "id": 610403,
@@ -4679,7 +5315,11 @@
         "type": 3,
         "id": 610402
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "620101": {
     "id": 620101,
@@ -4709,7 +5349,11 @@
         "type": 1,
         "id": 10002160
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "630101": {
     "id": 630101,
@@ -4739,7 +5383,11 @@
         "type": 3,
         "id": 630202
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "630201": {
     "id": 630201,
@@ -4769,7 +5417,11 @@
         "type": 1,
         "id": 10004030
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "630202": {
     "id": 630202,
@@ -4799,7 +5451,11 @@
         "type": 3,
         "id": 630201
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 30,
+    "stamina": 6,
+    "pts": 0
   },
   "630203": {
     "id": 630203,
@@ -4829,7 +5485,11 @@
         "type": 3,
         "id": 630101
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "630204": {
     "id": 630204,
@@ -4859,7 +5519,11 @@
         "type": 3,
         "id": 630203
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 240,
+    "stamina": 48,
+    "pts": 0
   },
   "640001": {
     "id": 640001,
@@ -4889,7 +5553,11 @@
         "type": 1,
         "id": 10004030
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "640101": {
     "id": 640101,
@@ -4919,7 +5587,11 @@
         "type": 3,
         "id": 640202
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "640201": {
     "id": 640201,
@@ -4949,7 +5621,11 @@
         "type": 3,
         "id": 640001
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 60,
+    "stamina": 12,
+    "pts": 0
   },
   "640202": {
     "id": 640202,
@@ -4979,7 +5655,11 @@
         "type": 3,
         "id": 640201
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "640203": {
     "id": 640203,
@@ -5009,7 +5689,11 @@
         "type": 3,
         "id": 640101
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "640204": {
     "id": 640204,
@@ -5039,7 +5723,11 @@
         "type": 3,
         "id": 640203
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 300,
+    "stamina": 60,
+    "pts": 0
   },
   "640205": {
     "id": 640205,
@@ -5069,7 +5757,11 @@
         "type": 3,
         "id": 640204
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 300,
+    "stamina": 60,
+    "pts": 0
   },
   "650001": {
     "id": 650001,
@@ -5099,7 +5791,11 @@
         "type": 1,
         "id": 10004030
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 240,
+    "stamina": 48,
+    "pts": 0
   },
   "650101": {
     "id": 650101,
@@ -5129,7 +5825,11 @@
         "type": 3,
         "id": 650201
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 360,
+    "stamina": 72,
+    "pts": 0
   },
   "650201": {
     "id": 650201,
@@ -5159,7 +5859,11 @@
         "type": 3,
         "id": 650001
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 300,
+    "stamina": 60,
+    "pts": 0
   },
   "650202": {
     "id": 650202,
@@ -5189,7 +5893,11 @@
         "type": 3,
         "id": 650101
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 480,
+    "stamina": 96,
+    "pts": 0
   },
   "650203": {
     "id": 650203,
@@ -5219,7 +5927,11 @@
         "type": 3,
         "id": 650202
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 600,
+    "stamina": 120,
+    "pts": 0
   },
   "660001": {
     "id": 660001,
@@ -5249,7 +5961,11 @@
         "type": 1,
         "id": 10004030
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "660101": {
     "id": 660101,
@@ -5279,7 +5995,11 @@
         "type": 3,
         "id": 660204
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 300,
+    "stamina": 60,
+    "pts": 0
   },
   "660201": {
     "id": 660201,
@@ -5309,7 +6029,11 @@
         "type": 3,
         "id": 660001
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "660202": {
     "id": 660202,
@@ -5339,7 +6063,11 @@
         "type": 3,
         "id": 660201
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 120,
+    "stamina": 24,
+    "pts": 0
   },
   "660203": {
     "id": 660203,
@@ -5369,7 +6097,11 @@
         "type": 3,
         "id": 660202
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 240,
+    "stamina": 48,
+    "pts": 0
   },
   "660204": {
     "id": 660204,
@@ -5399,7 +6131,11 @@
         "type": 3,
         "id": 660203
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 240,
+    "stamina": 48,
+    "pts": 0
   },
   "660205": {
     "id": 660205,
@@ -5429,7 +6165,11 @@
         "type": 3,
         "id": 660101
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 360,
+    "stamina": 72,
+    "pts": 0
   },
   "660206": {
     "id": 660206,
@@ -5459,6 +6199,10 @@
         "type": 3,
         "id": 660205
       }
-    ]
+    ],
+    "attribute": "machinery",
+    "exp": 480,
+    "stamina": 96,
+    "pts": 0
   }
 }
