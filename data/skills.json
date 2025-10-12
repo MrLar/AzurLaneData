@@ -51068,7 +51068,7 @@
     ]
   },
   "150440": {
-    "description": "Increases this ship's FP by $1. When the shells of a BB or BC in your fleet hits an enemy: increases this ship's ACC by $2 for 6s and fires a $3 special barrage (DMG is based on the skill's level; 20s cooldown between activations; enemies hit have their EVA decreased by 10.0% for 6s).",
+    "description": "Increases this ship's FP by $1. When the shells of a BB or BC in your fleet hits an enemy: increases this ship's ACC by {4.5%|The game incorrectly handles part of this skill which leads to her always only gaining an increase of 4.5%.} for 6s and fires a $2 special barrage (DMG is based on the skill's level; 20s cooldown between activations; enemies hit have their EVA decreased by 10.0% for 6s).",
     "opsi_description": null,
     "name": "Final Bound",
     "max": 10,
@@ -51087,18 +51087,6 @@
         "17.7%",
         "18.8%",
         "20.0%"
-      ],
-      [
-        "4.5%",
-        "5.2%",
-        "6.0%",
-        "7.0%",
-        "7.7%",
-        "8.5%",
-        "9.5%",
-        "10.2%",
-        "11.0%",
-        "12.0%"
       ],
       [
         "Lv.1",
