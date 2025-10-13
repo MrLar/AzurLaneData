@@ -16653,7 +16653,7 @@
             0
           ],
           "buffs": [
-            "Special Flood (DMG equal to 10 + Barrage Damage * Damage Modifier * (1 + (AVI / 100)) * 0.3 with 1 tick every 3 seconds for 15s, ID: 319)"
+            "Special Flood (DMG equal to 10 + Barrage Damage * Damage Modifier * (1 + (AVI / 100)) * 0.3 with 1 tick every 3 seconds for 15s, ID: 449)"
           ],
           "buff_chance": 1,
           "is_air": true,
@@ -17027,7 +17027,7 @@
             0.1
           ],
           "buffs": [
-            "Spawns an effect cloud that inflicts Special Burn (81 DMG with 1 tick every 1 seconds for 1s, ID: 394) while in it and applied Special Burn (81 DMG with 1 tick every 1 seconds for 1s, ID: 395) after leaving it."
+            "Spawns an effect cloud that inflicts Special Burn (81 DMG with 1 tick every 1 seconds for 1s, ID: 394) while in it and applied Special Burn (81 DMG with 1 tick every 1 seconds for 1s, ID: 396) after leaving it."
           ],
           "buff_chance": 1,
           "targeting": null,
@@ -17035,7 +17035,7 @@
           "weapon_type": 1,
           "bullet_type": 9,
           "weapon_id": 65993,
-          "bullet_id": 19600,
+          "bullet_id": 19601,
           "type": "weapon"
         }
       ]
@@ -27765,7 +27765,7 @@
   ],
   "18210": [
     {
-      "name": "Special Gunnery Training",
+      "name": "Special Gunnery Training+",
       "parts": [
         {
           "damage": 15,
@@ -27809,13 +27809,13 @@
           "weapon_type": 1,
           "weapon_id": 68100,
           "bullet_type": 1,
-          "bullet_id": 19995,
+          "bullet_id": 19296,
           "type": "weapon"
         }
       ]
     },
     {
-      "name": "Special Gunnery Training (Enhanced, Close)",
+      "name": "Special Gunnery Training+ (Enhanced, Close)",
       "parts": [
         {
           "damage": 62,
@@ -27851,7 +27851,7 @@
             0
           ],
           "buffs": [
-            "Standard Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
+            "Special Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 357)"
           ],
           "buff_chance": 1,
           "targeting": null,
@@ -27859,7 +27859,7 @@
           "weapon_type": 2,
           "weapon_id": 68120,
           "bullet_type": 1,
-          "bullet_id": 19996,
+          "bullet_id": 19297,
           "type": "weapon"
         },
         {
@@ -27904,13 +27904,13 @@
           "weapon_type": 1,
           "weapon_id": 68100,
           "bullet_type": 1,
-          "bullet_id": 19995,
+          "bullet_id": 19296,
           "type": "weapon"
         }
       ]
     },
     {
-      "name": "Special Gunnery Training (Enhanced, Far)",
+      "name": "Special Gunnery Training+ (Enhanced, Far)",
       "parts": [
         {
           "damage": 62,
@@ -27946,7 +27946,7 @@
             6
           ],
           "buffs": [
-            "Standard Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
+            "Special Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 357)"
           ],
           "buff_chance": 1,
           "targeting": null,
@@ -27954,7 +27954,7 @@
           "weapon_type": 19,
           "weapon_id": 68110,
           "bullet_type": 2,
-          "bullet_id": 19994,
+          "bullet_id": 19295,
           "type": "weapon"
         },
         {
@@ -27999,7 +27999,7 @@
           "weapon_type": 1,
           "weapon_id": 68100,
           "bullet_type": 1,
-          "bullet_id": 19995,
+          "bullet_id": 19296,
           "type": "weapon"
         }
       ]
@@ -29506,16 +29506,12 @@
             0,
             0
           ],
-          "buffs": [
-            "Special Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15s, ID: 357)"
-          ],
-          "buff_chance": 1,
           "targeting": null,
           "centered": false,
           "weapon_id": 68100,
           "weapon_type": 1,
           "bullet_type": 1,
-          "bullet_id": 19995,
+          "bullet_id": 19994,
           "type": "weapon"
         }
       ]
@@ -29601,10 +29597,6 @@
             0,
             0
           ],
-          "buffs": [
-            "Special Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15s, ID: 357)"
-          ],
-          "buff_chance": 1,
           "targeting": null,
           "centered": false,
           "weapon_id": 68100,
@@ -29696,10 +29688,6 @@
             0,
             0
           ],
-          "buffs": [
-            "Special Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15s, ID: 357)"
-          ],
-          "buff_chance": 1,
           "targeting": null,
           "centered": false,
           "weapon_id": 68100,
@@ -73443,7 +73431,7 @@
           "weapon_id": 168940,
           "weapon_type": 1,
           "bullet_type": 1,
-          "bullet_id": 168931,
+          "bullet_id": 168921,
           "type": "weapon"
         }
       ]
@@ -74287,7 +74275,7 @@
           "weapon_id": 169070,
           "weapon_type": 2,
           "bullet_type": 2,
-          "bullet_id": 169080,
+          "bullet_id": 161170,
           "type": "weapon",
           "buff_chance": 1,
           "buffs": [
@@ -78425,7 +78413,7 @@
             0
           ],
           "buffs": [
-            "Standard Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311)"
+            "Special Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 486)"
           ],
           "buff_chance": 1,
           "targeting": null,
