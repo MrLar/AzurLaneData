@@ -236,6 +236,16 @@
           ]
         }
       ],
+      "barrages": [
+        null,
+        40000,
+        40002
+      ],
+      "opsi_barrages": [
+        null,
+        40000,
+        40002
+      ],
       "default_level": 0
     }
   },
@@ -3343,6 +3353,16 @@
             }
           ]
         }
+      ],
+      "barrages": [
+        null,
+        null,
+        40530
+      ],
+      "opsi_barrages": [
+        null,
+        null,
+        40530
       ],
       "default_level": 2
     }

@@ -74,7 +74,8 @@ export type FurnitureType =
 3 | // decoration
 4 | // bed
 5 | // couch
-6 // table
+6 | // table
+99 // special
 
 // common | private
 export type RoomType = 1 | 2

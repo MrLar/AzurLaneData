@@ -1186,5 +1186,27 @@
       "CN"
     ],
     "contains": []
+  },
+  "1222": {
+    "name": "Floralized Rhythm",
+    "description": "Gentle light caresses the petals, and brings forth her silhouette. Music and flowers intermingle amidst the flowing whispers of nature.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 6,
+    "id": 1222,
+    "purchaseable": true,
+    "expires": 1761116400000,
+    "icon": "dorm3d/items/3ddrom_dafeng_premiumfurniture2",
+    "room_id": 12,
+    "furni_type": 99,
+    "exclusive": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
   }
 }

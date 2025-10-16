@@ -104,14 +104,16 @@ number represents an in-game shop type:
 
 # Furniture Type
 
-Furniture Type is a numeric value with the range `[1, 6]` where each
+Furniture Type is a numeric value with the ranges `[1, 6]` and `[99, 100)` where each
 number represents an in-game shop type:
 
-| Value |   Label    |
-| :---: | :--------: |
-|   1   | Wallpaper  |
-|   2   |   Floor    |
-|   3   | Decoration |
-|   4   |    Bed     |
-|   5   |   Couch    |
-|   6   |   Table    |
+| Value |      Label       |
+| :---: | :--------------: |
+|   1   |    Wallpaper     |
+|   2   |      Floor       |
+|   3   |    Decoration    |
+|   4   |       Bed        |
+|   5   |      Couch       |
+|   6   |      Table       |
+| 7-98  | Do not exist yet |
+|  99   |     Special      |

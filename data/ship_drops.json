@@ -18155,7 +18155,7 @@
   "610": {
     "id": 610,
     "timer": "01:26:18",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": "Tempesta and the Fountain of Youth",
     "special": false,
@@ -18172,7 +18172,7 @@
     "light": false,
     "heavy": false,
     "limited": "Tempesta and the Fountain of Youth",
-    "special": false,
+    "special": true,
     "other": [],
     "maps": [],
     "notes": [
@@ -18191,7 +18191,9 @@
     "heavy": false,
     "limited": null,
     "special": false,
-    "other": [],
+    "other": [
+      3
+    ],
     "maps": [],
     "notes": [
       "Available as point accumulation reward during Tempesta and the Fountain of Youth"
@@ -18204,7 +18206,7 @@
     "id": 613,
     "timer": "04:26:21",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Tempesta and the Fountain of Youth",
     "special": false,
     "other": [],
@@ -18220,7 +18222,7 @@
     "light": false,
     "heavy": false,
     "limited": "Tempesta and the Fountain of Youth",
-    "special": false,
+    "special": true,
     "other": [],
     "maps": [],
     "notes": [],

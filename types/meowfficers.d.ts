@@ -30,12 +30,14 @@ export interface MeowSkill {
     id: number
     icon: number
     default_level: number
+    barrages?: Array<number | null>
+    opsi_barrages?: Array<number | null>
 }
 
 export interface SkillEffect {
     slot?: number
     hulls?: Hull[]
-    stats?: Stat[]
+    stats?: MeowStatEffect[]
     condition?: SkillCondition
     position?: {
         type: FleetRowType
@@ -52,7 +54,7 @@ export interface SkillCondition {
     count?: number
 }
 
-export interface Stat {
+export interface MeowStatEffect {
     stat: BuffStatKey
     meow_stat: MeowStat | null
     amount: number

@@ -1101,6 +1101,18 @@
         "name": "Elite Pool",
         "items": [
           {
+            "id": 612,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/jialimaoxian",
+            "name": "Adventure Galley",
+            "limit": -1,
+            "cost": 8000
+          },
+          {
             "id": 545,
             "type": 2,
             "amount": -1,
@@ -1848,6 +1860,42 @@
     "type": 4,
     "manual_refresh": false,
     "items": [
+      {
+        "id": 960031,
+        "type": 6,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "meow/icon/960031",
+        "name": "Bellamy",
+        "limit": 1,
+        "cost": 500
+      },
+      {
+        "id": 960021,
+        "type": 6,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "meow/icon/960021",
+        "name": "Kidd",
+        "limit": 1,
+        "cost": 1200
+      },
+      {
+        "id": 960011,
+        "type": 6,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "meow/icon/960011",
+        "name": "Drake",
+        "limit": 1,
+        "cost": 1200
+      },
       {
         "id": 3400,
         "level": 0,
@@ -8709,6 +8757,20 @@
         "blueprint": false,
         "icon": "dorm3d/items/3ddrom_dafeng_premiumfurniture1",
         "name": "Love Nest",
+        "limit": 1,
+        "cost": 480,
+        "use_alt": 0,
+        "limit_type": 1
+      },
+      {
+        "id": 1222,
+        "type": 10,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "dorm3d/items/3ddrom_dafeng_premiumfurniture2",
+        "name": "Floralized Rhythm",
         "limit": 1,
         "cost": 480,
         "use_alt": 0,

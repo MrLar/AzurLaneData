@@ -1299,7 +1299,7 @@
         "base_time": "00:30:00",
         "workload": 18000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": false,
         "is_combo": false,
         "event": "Autumn Specialties"
@@ -1330,7 +1330,7 @@
         "base_time": "00:30:00",
         "workload": 18000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": false,
         "is_combo": false,
         "event": "Autumn Specialties"
@@ -1580,7 +1580,7 @@
         "base_time": "00:20:00",
         "workload": 12000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": false,
         "is_combo": false,
         "event": "Autumn Specialties"
@@ -1611,7 +1611,7 @@
         "base_time": "00:20:00",
         "workload": 12000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": false,
         "is_combo": false,
         "event": "Autumn Specialties"
@@ -2343,7 +2343,7 @@
         "base_time": "00:30:00",
         "workload": 18000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": false,
         "is_combo": false,
         "event": "Autumn Specialties"
@@ -2378,7 +2378,7 @@
         "base_time": "00:30:00",
         "workload": 18000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": false,
         "is_combo": false,
         "event": "Autumn Specialties"
@@ -2735,7 +2735,7 @@
         "base_time": "00:30:00",
         "workload": 18000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": false,
         "is_combo": false,
         "event": "Autumn Specialties"
@@ -2766,7 +2766,7 @@
         "base_time": "00:30:00",
         "workload": 18000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": false,
         "is_combo": false,
         "event": "Autumn Specialties"
@@ -3404,7 +3404,7 @@
         "base_time": "01:00:00",
         "workload": 36000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": false,
         "is_combo": false,
         "event": null
@@ -3439,7 +3439,7 @@
         "base_time": "02:00:00",
         "workload": 72000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": true,
         "is_combo": false,
         "event": null
@@ -3474,7 +3474,7 @@
         "base_time": "03:00:00",
         "workload": 108000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": true,
         "is_combo": false,
         "event": null
@@ -3509,7 +3509,7 @@
         "base_time": "03:00:00",
         "workload": 108000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": true,
         "is_combo": false,
         "event": null
@@ -3544,7 +3544,7 @@
         "base_time": "05:00:00",
         "workload": 180000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": true,
         "is_combo": false,
         "event": null
@@ -3590,7 +3590,7 @@
         "base_time": "01:00:00",
         "workload": 36000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": false,
         "is_combo": false,
         "event": null
@@ -3625,7 +3625,7 @@
         "base_time": "03:00:00",
         "workload": 108000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": true,
         "is_combo": false,
         "event": null
@@ -3656,7 +3656,7 @@
         "base_time": "04:00:00",
         "workload": 144000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": true,
         "is_combo": false,
         "event": null
@@ -3687,7 +3687,7 @@
         "base_time": "02:00:00",
         "workload": 72000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": true,
         "is_combo": false,
         "event": null
@@ -3722,7 +3722,7 @@
         "base_time": "02:00:00",
         "workload": 72000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": true,
         "is_combo": false,
         "event": null
@@ -3753,7 +3753,7 @@
         "base_time": "06:00:00",
         "workload": 216000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": true,
         "is_combo": false,
         "event": null
@@ -3799,7 +3799,7 @@
         "base_time": "02:00:00",
         "workload": 72000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": false,
         "is_combo": false,
         "event": null
@@ -3838,7 +3838,7 @@
         "base_time": "06:00:00",
         "workload": 216000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": true,
         "is_combo": false,
         "event": null
@@ -3877,7 +3877,7 @@
         "base_time": "03:00:00",
         "workload": 108000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": true,
         "is_combo": false,
         "event": null
@@ -3916,7 +3916,7 @@
         "base_time": "04:00:00",
         "workload": 144000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": true,
         "is_combo": false,
         "event": null
@@ -3958,7 +3958,7 @@
         "base_time": "00:30:00",
         "workload": 18000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": false,
         "is_combo": false,
         "event": null
@@ -3989,7 +3989,7 @@
         "base_time": "01:40:00",
         "workload": 60000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": true,
         "is_combo": false,
         "event": null
@@ -4024,7 +4024,7 @@
         "base_time": "03:00:00",
         "workload": 108000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": true,
         "is_combo": false,
         "event": null
@@ -4059,7 +4059,7 @@
         "base_time": "02:00:00",
         "workload": 72000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": true,
         "is_combo": false,
         "event": null
@@ -4094,7 +4094,7 @@
         "base_time": "03:00:00",
         "workload": 108000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": true,
         "is_combo": false,
         "event": null
@@ -4133,7 +4133,7 @@
         "base_time": "04:00:00",
         "workload": 144000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": true,
         "is_combo": false,
         "event": null
@@ -4172,7 +4172,7 @@
         "base_time": "01:20:00",
         "workload": 48000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": true,
         "is_combo": false,
         "event": null
@@ -4207,7 +4207,7 @@
         "base_time": "00:30:00",
         "workload": 18000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": false,
         "is_combo": false,
         "event": "Autumn Specialties"
@@ -4238,7 +4238,7 @@
         "base_time": "00:30:00",
         "workload": 18000,
         "base_efficiency": 10,
-        "is_condition": true,
+        "is_condition": false,
         "needs_unlock": false,
         "is_combo": false,
         "event": "Autumn Specialties"

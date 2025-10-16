@@ -70335,5 +70335,245 @@
     "time_limit": 300,
     "type": 6,
     "id": 1704
+  },
+  "2200140_t1_16560301": {
+    "name": "Tempesta and the Fountain of Youth-T1 - War Archive",
+    "acv": 50,
+    "opsi": false,
+    "boss": {
+      "id": 16560301,
+      "hull": 24,
+      "nation": 96,
+      "name": "Light of Old - Ship of the Line",
+      "stats": {
+        "hp": 7200,
+        "fp": 120,
+        "trp": 80,
+        "avi": 0,
+        "aa": 140,
+        "hit": 18,
+        "eva": 18,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        13,
+        8,
+        8
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fengfan_xl",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1760013,
+    "dungeon_id": 1760013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1705
+  },
+  "2200140_t2_16561301": {
+    "name": "Tempesta and the Fountain of Youth-T2 - War Archive",
+    "acv": 295,
+    "opsi": false,
+    "boss": {
+      "id": 16561301,
+      "hull": 24,
+      "nation": 96,
+      "name": "São Martinho",
+      "stats": {
+        "hp": 11000,
+        "fp": 130,
+        "trp": 32,
+        "avi": 65,
+        "aa": 135,
+        "hit": 20,
+        "eva": 18,
+        "spd": 20,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shengmading",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1761013,
+    "dungeon_id": 1761013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1706
+  },
+  "2200140_t3_16562301": {
+    "name": "Tempesta and the Fountain of Youth-T3 - War Archive",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "id": 16562301,
+      "hull": 24,
+      "nation": 96,
+      "name": "Light of Old - Ship of the Line",
+      "stats": {
+        "hp": 16500,
+        "fp": 160,
+        "trp": 0,
+        "avi": 0,
+        "aa": 180,
+        "hit": 24,
+        "eva": 15,
+        "spd": 20,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        13,
+        8,
+        8
+      ],
+      "level": 40,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fengfan_xl",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1762013,
+    "dungeon_id": 1762013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1707
+  },
+  "2200141_t4_16563301": {
+    "name": "Tempesta and the Fountain of Youth-T4 - War Archive",
+    "acv": 600,
+    "opsi": false,
+    "boss": {
+      "id": 16563301,
+      "hull": 7,
+      "nation": 99,
+      "name": "Strategist I",
+      "stats": {
+        "hp": 25600,
+        "fp": 150,
+        "trp": 0,
+        "avi": 105,
+        "aa": 240,
+        "hit": 26,
+        "eva": 27,
+        "spd": 16,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenhangmu",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1763013,
+    "dungeon_id": 1763013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1708
+  },
+  "2200141_t5_16564301": {
+    "name": "Tempesta and the Fountain of Youth-T5 - War Archive",
+    "acv": 600,
+    "opsi": false,
+    "boss": {
+      "id": 16564301,
+      "hull": 23,
+      "nation": 96,
+      "name": "Adventure Galley",
+      "stats": {
+        "hp": 45000,
+        "fp": 220,
+        "trp": 180,
+        "avi": 0,
+        "aa": 460,
+        "hit": 46,
+        "eva": 55,
+        "spd": 22,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "jialimaoxian",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1764013,
+    "dungeon_id": 1764013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1709
+  },
+  "2200141_t6_16565301": {
+    "name": "Tempesta and the Fountain of Youth-T6 - War Archive",
+    "acv": 600,
+    "opsi": false,
+    "boss": {
+      "id": 16565301,
+      "hull": 5,
+      "nation": 99,
+      "name": "Tester ErrObj",
+      "stats": {
+        "hp": 86200,
+        "fp": 280,
+        "trp": 0,
+        "avi": 0,
+        "aa": 260,
+        "hit": 71,
+        "eva": 33,
+        "spd": 20,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknown1",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1765013,
+    "dungeon_id": 1765013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1710
   }
 }
