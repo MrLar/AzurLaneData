@@ -228,7 +228,7 @@ export interface IslandTechnology {
     conditions: IslandTechCondition[]
 }
 
-type IslandTechConditionType =
+export type IslandTechConditionType =
 0 | // level
 1 | // task
 2 | // ability

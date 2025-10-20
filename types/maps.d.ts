@@ -23,13 +23,13 @@ export interface MapData {
     time_limit: number
 }
 
-interface BossBuff {
+export interface BossBuff {
     key: BuffStatKey
     amount: number
     self: boolean
 }
 
-interface DisplayOnlyBuff {
+export interface DisplayOnlyBuff {
     name: string
     description: string
     // 0 indexed
@@ -38,7 +38,7 @@ interface DisplayOnlyBuff {
     color?: SkillType
 }
 
-type MapType =
+export type MapType =
 1 | // Normal
 2 | // Hard
 3 | // Event Normal
@@ -58,9 +58,9 @@ type MapType =
 17 | // raid map
 18 // coalation map
 
-type EnemyStatKey = 'hp' | 'fp' | 'trp' | 'avi' | 'aa' | 'hit' | 'eva' | 'spd' | 'luck' | 'armor'
+export type EnemyStatKey = 'hp' | 'fp' | 'trp' | 'avi' | 'aa' | 'hit' | 'eva' | 'spd' | 'luck' | 'armor'
 
-interface BossData {
+export interface BossData {
     id: number
     name: string
     hull: Hull

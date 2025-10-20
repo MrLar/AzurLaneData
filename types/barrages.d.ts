@@ -9,26 +9,26 @@
 import { type Hull, type ScalableStatKey, type WeaponStat } from './common'
 import { type AimType, type AmmoType, type BulletType, type WeaponType } from './equipments'
 
-interface Barrage {
+export interface Barrage {
     name: string
     parts: BarragePart[]
     is_aoa?: boolean
 }
 
-type BarragePart = BarrageWeapon | BarrageSlash | BarrageSummon
+export type BarragePart = BarrageWeapon | BarrageSlash | BarrageSummon
 
-interface BarrageEntry<T> {
+export interface BarrageEntry<T> {
     type: T
     buffs?: string[]
     buff_chance?: number
 }
 
-interface DamagingBarrage<T> extends BarrageEntry<T> {
+export interface DamagingBarrage<T> extends BarrageEntry<T> {
     damage: number
     count: number
 }
 
-interface BarrageWeapon extends DamagingBarrage<'weapon'> {
+export interface BarrageWeapon extends DamagingBarrage<'weapon'> {
     fix_damage?: number
     coefficient: number
     range: number[]
