@@ -51453,6 +51453,154 @@
       ]
     }
   ],
+  "30532": [
+    {
+      "name": "All Out Assault - Royal James II",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 25,
+          "coefficient": 1,
+          "count": 48,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.6
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 170882,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 170881,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "30542": [
+    {
+      "name": "All Out Assault - Adventure II",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.4
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 6,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            20,
+            20
+          ],
+          "airdrop": true,
+          "targeting": "Random",
+          "centered": false,
+          "weapon_id": 170872,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 170838,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "30552": [
+    {
+      "name": "All Out Assault - Lymes II",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 180,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.95,
+            0.7
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            95
+          ],
+          "aim_type": 1,
+          "angle": 60,
+          "splash": 16,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            112.5,
+            127.5
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 170892,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170897,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "60130": [
     {
       "name": "Inflict Burns",
@@ -74936,6 +75084,741 @@
           "weapon_type": 1,
           "bullet_type": 1,
           "bullet_id": 170828,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "151680": [
+    {
+      "name": "The Best-Laid Plans go Boom!",
+      "parts": [
+        {
+          "damage": 200,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 20,
+          "velocity": 10,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            20,
+            20
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169460,
+          "weapon_type": 23,
+          "bullet_type": 2,
+          "bullet_id": 161186,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "151710": [
+    {
+      "name": "Horror From the Deeps+",
+      "parts": [
+        {
+          "damage": 145,
+          "coefficient": 1,
+          "count": 5,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": true,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 11,
+          "pierce": 99,
+          "shell_range": [
+            100,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169330,
+          "weapon_type": 1,
+          "bullet_type": 5,
+          "bullet_id": 161177,
+          "type": "weapon"
+        },
+        {
+          "damage": 145,
+          "coefficient": 1,
+          "count": 30,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": true,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            0.1,
+            0.1
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169330,
+          "weapon_type": 1,
+          "bullet_type": 5,
+          "bullet_id": 161178,
+          "type": "weapon"
+        },
+        {
+          "damage": 145,
+          "coefficient": 1,
+          "count": 30,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [
+            "Can damage subs (60% of DMG)"
+          ],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 0.05,
+          "pierce": 50,
+          "shell_range": [
+            0.1,
+            0.1
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169330,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161178,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "151720": [
+    {
+      "name": "Dreams in the Pirate's House",
+      "parts": [
+        {
+          "damage": 18,
+          "coefficient": 1,
+          "count": 36,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.4
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 1,
+          "angle": 150,
+          "splash": 0,
+          "velocity": 7,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169340,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161182,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Dreams in the Pirate's House (Followup)",
+      "parts": [
+        {
+          "damage": 160,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": true,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 11,
+          "pierce": 0,
+          "shell_range": [
+            100,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169350,
+          "weapon_type": 1,
+          "bullet_type": 5,
+          "bullet_id": 161183,
+          "type": "weapon"
+        },
+        {
+          "damage": 160,
+          "coefficient": 1,
+          "count": 18,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": true,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            0.1,
+            0.1
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169350,
+          "weapon_type": 1,
+          "bullet_type": 5,
+          "bullet_id": 161184,
+          "type": "weapon"
+        },
+        {
+          "damage": 145,
+          "coefficient": 1,
+          "count": 18,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [
+            "Can damage subs (60% of DMG)"
+          ],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 0.05,
+          "pierce": 50,
+          "shell_range": [
+            0.1,
+            0.1
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169350,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161185,
+          "type": "weapon",
+          "buffs": [
+            "Slow by 30% for 3s"
+          ],
+          "buff_chance": 1
+        }
+      ]
+    }
+  ],
+  "151750": [
+    {
+      "name": "The Blackmane Tempesta",
+      "parts": [
+        {
+          "damage": 150,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.4
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 60,
+          "splash": 7,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            112.5,
+            127.5
+          ],
+          "spread": [
+            16,
+            16
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169470,
+          "weapon_type": 1,
+          "bullet_type": 2,
+          "bullet_id": 161187,
+          "type": "weapon"
+        },
+        {
+          "damage": 150,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.4
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            95
+          ],
+          "aim_type": 1,
+          "angle": 60,
+          "splash": 7,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            102.5,
+            117.5
+          ],
+          "spread": [
+            20,
+            20
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169470,
+          "weapon_type": 1,
+          "bullet_type": 2,
+          "bullet_id": 161187,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "151770": [
+    {
+      "name": "Pearl of the Sky, Sapphire of the Sea",
+      "parts": [
+        {
+          "damage": 90,
+          "coefficient": 1,
+          "count": 32,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.4,
+            1,
+            0.8
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            95
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 7,
+          "velocity": 10,
+          "pierce": 0,
+          "shell_range": [
+            125,
+            130
+          ],
+          "spread": [
+            30,
+            30
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169490,
+          "weapon_type": 1,
+          "bullet_type": 2,
+          "bullet_id": 161189,
+          "type": "weapon",
+          "buffs": [
+            "Decrease ACC by 15% until end of battle",
+            "Attach Moonlight status"
+          ],
+          "buff_chance": 1
+        }
+      ]
+    }
+  ],
+  "151790": [
+    {
+      "name": "Pearl of the Sky, Sapphire of the Sea+",
+      "parts": [
+        {
+          "damage": 90,
+          "coefficient": 1,
+          "count": 32,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.4,
+            1,
+            0.8
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            95
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 7,
+          "velocity": 10,
+          "pierce": 0,
+          "shell_range": [
+            125,
+            130
+          ],
+          "spread": [
+            30,
+            30
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169490,
+          "weapon_type": 1,
+          "bullet_type": 2,
+          "bullet_id": 161189,
+          "type": "weapon",
+          "buffs": [
+            "Decrease ACC by 15% until end of battle",
+            "Attach Moonlight status"
+          ],
+          "buff_chance": 1
+        }
+      ]
+    }
+  ],
+  "151800": [
+    {
+      "name": "Judgment of Spear and Sword (Every 5s)",
+      "parts": [
+        {
+          "damage": 100,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.95,
+            0.7
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            75,
+            85
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169510,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170891,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Judgment of Spear and Sword (Every 20s)",
+      "parts": [
+        {
+          "damage": 240,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.95,
+            0.7
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": true,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 2,
+          "pierce": 0,
+          "shell_range": [
+            100,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169530,
+          "weapon_type": 1,
+          "bullet_type": 5,
+          "bullet_id": 170892,
+          "type": "weapon"
+        },
+        {
+          "damage": 240,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.95,
+            0.7
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": true,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            0.1,
+            0.1
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169530,
+          "weapon_type": 1,
+          "bullet_type": 5,
+          "bullet_id": 170893,
+          "type": "weapon"
+        },
+        {
+          "damage": 240,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.95,
+            0.7
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [
+            "Can damage subs (60% of DMG)"
+          ],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 0.05,
+          "pierce": 50,
+          "shell_range": [
+            0.1,
+            0.1
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169530,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170895,
           "type": "weapon"
         }
       ]

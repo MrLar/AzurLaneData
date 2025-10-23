@@ -3366,5 +3366,206 @@
       ],
       "default_level": 2
     }
+  },
+  "960061": {
+    "name": "Teach",
+    "timer": null,
+    "nation": 96,
+    "icon": 960061,
+    "id": 960061,
+    "rarity": 5,
+    "stats": {
+      "command": 55,
+      "tactics": 67,
+      "logistics": 40
+    },
+    "fixed_abilities": [
+      5171,
+      831,
+      832,
+      321,
+      833,
+      5101,
+      322,
+      5131
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "未了的传奇",
+      "descriptions": [
+        "依据指挥喵战术属性,提高所在舰队中战列、战巡、航战、风帆M的炮击属性(效果中)",
+        "与主力舰队交战时,依据指挥喵战术属性,提高所在舰队中战列、正航、风帆M的命中属性(效果中)",
+        "所在舰队中包含安妮女王复仇号时,进入战斗后发射一轮特殊弹幕,每场战斗一次"
+      ],
+      "opsi_descriptions": [
+        "依据指挥喵战术属性,提高所在舰队中战列、战巡、航战、风帆M的炮击属性(效果中)",
+        "与主力舰队交战时,依据指挥喵战术属性,提高所在舰队中战列、正航、风帆M的命中属性(效果中)",
+        "所在舰队中包含安妮女王复仇号时,进入战斗后发射一轮特殊弹幕,每场战斗一次"
+      ],
+      "icon": 960061,
+      "id": 960061,
+      "effects": [
+        {
+          "slot": -1,
+          "hulls": [
+            4,
+            5,
+            10,
+            24
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "tactics",
+              "amount": 8
+            }
+          ]
+        },
+        null,
+        null
+      ],
+      "opsi_effects": [
+        {
+          "slot": -1,
+          "hulls": [
+            4,
+            5,
+            10,
+            24
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "tactics",
+              "amount": 8
+            }
+          ]
+        },
+        null,
+        null
+      ],
+      "barrages": [
+        null,
+        null,
+        40570
+      ],
+      "opsi_barrages": [
+        null,
+        null,
+        40570
+      ],
+      "default_level": 2
+    }
+  },
+  "960071": {
+    "name": "Bonnet",
+    "timer": null,
+    "nation": 96,
+    "icon": 960071,
+    "id": 960071,
+    "rarity": 4,
+    "stats": {
+      "command": 42,
+      "tactics": 37,
+      "logistics": 55
+    },
+    "fixed_abilities": [
+      5181,
+      771,
+      772,
+      141,
+      773,
+      5111,
+      142,
+      5121
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "skill": {
+      "name": "绅士海盗的传说",
+      "descriptions": [
+        "依据指挥喵后勤属性,降低所在舰队遭遇伏击的概率",
+        "作为参谋位指挥喵时,依据指挥喵后勤属性,提高先锋舰队的炮击属性(效果小)",
+        "舰队旗舰及先锋领舰在战斗中受到伤害,导致耐久低于50%后,为其恢复5%耐久(每场战斗1次)"
+      ],
+      "opsi_descriptions": [
+        "作为参谋位指挥喵时,依据指挥喵后勤属性,提高所在舰队中轻巡、重巡、超巡、风帆V的机动属性(效果小)",
+        "作为参谋位指挥喵时,依据指挥喵后勤属性,提高先锋舰队的炮击属性(效果小)",
+        "舰队旗舰及先锋领舰在战斗中受到伤害,导致耐久低于50%后,为其恢复5%耐久(每场战斗1次)"
+      ],
+      "icon": 960071,
+      "id": 960071,
+      "effects": [
+        null,
+        {
+          "slot": 1,
+          "hulls": [
+            1,
+            2,
+            3,
+            9,
+            11,
+            18,
+            19,
+            20,
+            23
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "opsi_effects": [
+        {
+          "slot": 1,
+          "hulls": [
+            2,
+            3,
+            18,
+            23
+          ],
+          "stats": [
+            {
+              "stat": "eva",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "hulls": [
+            1,
+            2,
+            3,
+            9,
+            11,
+            18,
+            19,
+            20,
+            23
+          ],
+          "stats": [
+            {
+              "stat": "fp",
+              "meow_stat": "logistics",
+              "amount": 4
+            }
+          ]
+        }
+      ],
+      "default_level": 2
+    }
   }
 }

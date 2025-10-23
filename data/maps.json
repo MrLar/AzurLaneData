@@ -41996,7 +41996,7 @@
       "offense_boost": 0,
       "survival_boost": 0,
       "tactics_boost": 0,
-      "icon": "fengfan_haigu01",
+      "icon": "fengfan_haigu_quzhu",
       "prio": -200
     },
     "buffs": [],
@@ -42052,9 +42052,9 @@
     "opsi": false,
     "boss": {
       "id": 16673301,
-      "hull": 4,
+      "hull": 5,
       "nation": 96,
-      "name": "Silent Sentry - Dormant Lurker",
+      "name": "Silent Sentry - Thrusting Lancer",
       "stats": {
         "hp": 31500,
         "fp": 180,
@@ -42065,18 +42065,18 @@
         "eva": 23,
         "spd": 30,
         "luck": 8,
-        "armor": 1
+        "armor": 2
       },
       "cld": [
-        13,
-        8,
-        8
+        18.7,
+        9,
+        9
       ],
       "level": 60,
       "offense_boost": 0,
       "survival_boost": 0,
       "tactics_boost": 0,
-      "icon": "fengfan_haigu02",
+      "icon": "fengfan_haigu_zhanlie",
       "prio": 95
     },
     "buffs": [],
@@ -42116,7 +42116,7 @@
       "offense_boost": 0,
       "survival_boost": 0,
       "tactics_boost": 0,
-      "icon": "fengfan_haigu03",
+      "icon": "fengfan_haigu_boss01",
       "prio": 95
     },
     "buffs": [],
@@ -42156,7 +42156,7 @@
       "offense_boost": 0,
       "survival_boost": 0,
       "tactics_boost": 0,
-      "icon": "fengfan_haigu06",
+      "icon": "fengfan_lingti_boss01",
       "prio": 95
     },
     "buffs": [],
@@ -42196,7 +42196,7 @@
       "offense_boost": 0,
       "survival_boost": 0,
       "tactics_boost": 0,
-      "icon": "fengfan_haigu06",
+      "icon": "fengfan_lingti_boss01",
       "prio": 95
     },
     "buffs": [],
@@ -70575,5 +70575,445 @@
     "time_limit": 180,
     "type": 15,
     "id": 1710
+  },
+  "1970001_t1_16780301": {
+    "name": "Tempesta and Islas de Libertád-T1",
+    "acv": 50,
+    "opsi": false,
+    "boss": {
+      "id": 16780301,
+      "hull": 3,
+      "nation": 96,
+      "name": "Silent Sentry - Dormant Lurker",
+      "stats": {
+        "hp": 5400,
+        "fp": 95,
+        "trp": 50,
+        "avi": 0,
+        "aa": 115,
+        "hit": 18,
+        "eva": 14,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        13,
+        8,
+        8
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fengfan_haigu_zhongxun",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1970013,
+    "dungeon_id": 1970013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1711
+  },
+  "1970001_t2_16781301": {
+    "name": "Tempesta and Islas de Libertád-T2",
+    "acv": 295,
+    "opsi": false,
+    "boss": {
+      "id": 16781301,
+      "hull": 5,
+      "nation": 96,
+      "name": "Silent Sentry - Thrusting Lancer",
+      "stats": {
+        "hp": 8900,
+        "fp": 150,
+        "trp": 0,
+        "avi": 0,
+        "aa": 115,
+        "hit": 20,
+        "eva": 16,
+        "spd": 20,
+        "luck": 0,
+        "armor": 2
+      },
+      "cld": [
+        18.7,
+        9,
+        9
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fengfan_haigu_zhanlie",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1971013,
+    "dungeon_id": 1971013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1712
+  },
+  "1970001_t3_16782301": {
+    "name": "Tempesta and Islas de Libertád-T3",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "id": 16782301,
+      "hull": 7,
+      "nation": 96,
+      "name": "Silent Sentry - Abyssal Wings",
+      "stats": {
+        "hp": 13200,
+        "fp": 95,
+        "trp": 0,
+        "avi": 120,
+        "aa": 135,
+        "hit": 22,
+        "eva": 17,
+        "spd": 20,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        18.7,
+        9,
+        9
+      ],
+      "level": 40,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fengfan_haigu_hangmu",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1972013,
+    "dungeon_id": 1972013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1713
+  },
+  "1970002_t4_16783301": {
+    "name": "Tempesta and Islas de Libertád-T4",
+    "acv": 600,
+    "opsi": false,
+    "boss": {
+      "id": 16783301,
+      "hull": 7,
+      "nation": 96,
+      "name": "Silent Soul - Abyssal Wings",
+      "stats": {
+        "hp": 24600,
+        "fp": 150,
+        "trp": 0,
+        "avi": 180,
+        "aa": 240,
+        "hit": 26,
+        "eva": 20,
+        "spd": 20,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        18.7,
+        9,
+        9
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fengfan_lingti_hangmu",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1973013,
+    "dungeon_id": 1973013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1714
+  },
+  "1970002_t5_16784301": {
+    "name": "Tempesta and Islas de Libertád-T5",
+    "acv": 600,
+    "opsi": false,
+    "boss": {
+      "id": 16784301,
+      "hull": 5,
+      "nation": 96,
+      "name": "Silent Sentry - Kraken",
+      "stats": {
+        "hp": 56200,
+        "fp": 220,
+        "trp": 0,
+        "avi": 0,
+        "aa": 225,
+        "hit": 42,
+        "eva": 42,
+        "spd": 20,
+        "luck": 18,
+        "armor": 2
+      },
+      "cld": [
+        21,
+        35,
+        35
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fengfan_lingti_boss01",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1974013,
+    "dungeon_id": 1974013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1715
+  },
+  "1970002_t6_16785301": {
+    "name": "Tempesta and Islas de Libertád-T6",
+    "acv": 600,
+    "opsi": false,
+    "boss": {
+      "id": 16785301,
+      "hull": 13,
+      "nation": 96,
+      "name": "Silent Overlord - Paguroidea",
+      "stats": {
+        "hp": 32100,
+        "fp": 270,
+        "trp": 0,
+        "avi": 0,
+        "aa": 260,
+        "hit": 71,
+        "eva": 33,
+        "spd": 20,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        21,
+        35,
+        35
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fengfan_haigu_boss02",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1975013,
+    "dungeon_id": 1975013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1716
+  },
+  "1970002_t6_16785302": {
+    "name": "Tempesta and Islas de Libertád-T6",
+    "acv": 600,
+    "opsi": false,
+    "boss": {
+      "id": 16785302,
+      "hull": 13,
+      "nation": 96,
+      "name": "Silent Overlord - Paguroidea",
+      "stats": {
+        "hp": 52100,
+        "fp": 270,
+        "trp": 0,
+        "avi": 0,
+        "aa": 260,
+        "hit": 71,
+        "eva": 33,
+        "spd": 20,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        21,
+        35,
+        35
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fengfan_lingti_boss02",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1975013,
+    "dungeon_id": 1975013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1717
+  },
+  "1970003_sp_16786301": {
+    "name": "Tempesta and Islas de Libertád-SP",
+    "acv": 1320,
+    "opsi": false,
+    "boss": {
+      "id": 16786301,
+      "hull": 13,
+      "nation": 96,
+      "name": "Silent Overlord - Paguroidea",
+      "stats": {
+        "hp": 55000,
+        "fp": 300,
+        "trp": 0,
+        "avi": 0,
+        "aa": 440,
+        "hit": 69,
+        "eva": 48,
+        "spd": 18,
+        "luck": 30,
+        "armor": 2
+      },
+      "cld": [
+        21,
+        35,
+        35
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fengfan_haigu_boss02",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1976013,
+    "dungeon_id": 1976013,
+    "time_limit": 180,
+    "type": 5,
+    "id": 1718
+  },
+  "1970003_sp_16786302": {
+    "name": "Tempesta and Islas de Libertád-SP",
+    "acv": 1320,
+    "opsi": false,
+    "boss": {
+      "id": 16786302,
+      "hull": 13,
+      "nation": 96,
+      "name": "Silent Overlord - Paguroidea",
+      "stats": {
+        "hp": 65000,
+        "fp": 300,
+        "trp": 0,
+        "avi": 0,
+        "aa": 440,
+        "hit": 69,
+        "eva": 48,
+        "spd": 18,
+        "luck": 30,
+        "armor": 2
+      },
+      "cld": [
+        21,
+        35,
+        35
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fengfan_lingti_boss02",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1976013,
+    "dungeon_id": 1976013,
+    "time_limit": 180,
+    "type": 5,
+    "id": 1719
+  },
+  "1970004_extra_16787001": {
+    "name": "Tempesta and Islas de Libertád-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16787001,
+      "hull": 23,
+      "nation": 96,
+      "name": "Lyme",
+      "stats": {
+        "hp": 1200000,
+        "fp": 400,
+        "trp": 400,
+        "avi": 0,
+        "aa": 400,
+        "hit": 120,
+        "eva": 0,
+        "spd": 25,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "laimuhao",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1977001,
+    "dungeon_id": 1977001,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1720
+  },
+  "1970004_extra_16787101": {
+    "name": "Tempesta and Islas de Libertád-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16787101,
+      "hull": 23,
+      "nation": 96,
+      "name": "Lyme",
+      "stats": {
+        "hp": 1200000,
+        "fp": 800,
+        "trp": 800,
+        "avi": 0,
+        "aa": 400,
+        "hit": 9999,
+        "eva": 0,
+        "spd": 25,
+        "luck": 99,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "laimuhao",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1977002,
+    "dungeon_id": 1977002,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1721
   }
 }

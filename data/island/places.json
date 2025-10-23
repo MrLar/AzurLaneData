@@ -546,26 +546,76 @@
         "needs_unlock": false,
         "is_combo": false,
         "event": null,
-        "extra_animal_eff": [
+        "research_eff": [
           [
-            0.01,
-            0.01
+            {
+              "time": 0,
+              "cost": 2,
+              "gains": 3,
+              "gains_extra": 2
+            },
+            {
+              "time": 0,
+              "cost": 2,
+              "gains": 2,
+              "gains_extra": 2
+            }
           ],
           [
-            0.01,
-            0.02
+            {
+              "time": 0,
+              "cost": 2,
+              "gains": 3,
+              "gains_extra": 2
+            },
+            {
+              "time": 0,
+              "cost": 2,
+              "gains": 2,
+              "gains_extra": 2
+            }
           ],
           [
-            0.01,
-            0.02
+            {
+              "time": 0,
+              "cost": 2,
+              "gains": 3,
+              "gains_extra": 2
+            },
+            {
+              "time": 0,
+              "cost": 2,
+              "gains": 2,
+              "gains_extra": 2
+            }
           ],
           [
-            0.01,
-            0.02
+            {
+              "time": 0,
+              "cost": 2,
+              "gains": 3,
+              "gains_extra": 2
+            },
+            {
+              "time": 0,
+              "cost": 2,
+              "gains": 2,
+              "gains_extra": 2
+            }
           ],
           [
-            0.02,
-            0.02
+            {
+              "time": 0,
+              "cost": 2,
+              "gains": 3,
+              "gains_extra": 2
+            },
+            {
+              "time": 0,
+              "cost": 2,
+              "gains": 2,
+              "gains_extra": 2
+            }
           ]
         ]
       },
@@ -599,18 +649,48 @@
         "needs_unlock": false,
         "is_combo": false,
         "event": null,
-        "extra_animal_eff": [
+        "research_eff": [
           [
-            0.01,
-            0.01
+            {
+              "time": 0,
+              "cost": 2,
+              "gains": 2,
+              "gains_extra": 0
+            },
+            {
+              "time": 0,
+              "cost": 1,
+              "gains": 2,
+              "gains_extra": 0
+            }
           ],
           [
-            0.01,
-            0.02
+            {
+              "time": 0,
+              "cost": 2,
+              "gains": 2,
+              "gains_extra": 0
+            },
+            {
+              "time": 0,
+              "cost": 1,
+              "gains": 2,
+              "gains_extra": 0
+            }
           ],
           [
-            0.02,
-            0.03
+            {
+              "time": 0,
+              "cost": 2,
+              "gains": 2,
+              "gains_extra": 0
+            },
+            {
+              "time": 0,
+              "cost": 1,
+              "gains": 2,
+              "gains_extra": 0
+            }
           ]
         ]
       },
@@ -649,18 +729,48 @@
         "needs_unlock": false,
         "is_combo": false,
         "event": null,
-        "extra_animal_eff": [
+        "research_eff": [
           [
-            0.01,
-            0.01
+            {
+              "time": 0,
+              "cost": 1,
+              "gains": 2,
+              "gains_extra": 2
+            },
+            {
+              "time": 0,
+              "cost": 1,
+              "gains": 2,
+              "gains_extra": 2
+            }
           ],
           [
-            0.01,
-            0.02
+            {
+              "time": 0,
+              "cost": 1,
+              "gains": 2,
+              "gains_extra": 2
+            },
+            {
+              "time": 0,
+              "cost": 1,
+              "gains": 2,
+              "gains_extra": 2
+            }
           ],
           [
-            0.02,
-            0.03
+            {
+              "time": 0,
+              "cost": 1,
+              "gains": 2,
+              "gains_extra": 2
+            },
+            {
+              "time": 0,
+              "cost": 1,
+              "gains": 2,
+              "gains_extra": 2
+            }
           ]
         ]
       },
@@ -694,18 +804,48 @@
         "needs_unlock": false,
         "is_combo": false,
         "event": null,
-        "extra_animal_eff": [
+        "research_eff": [
           [
-            0.01,
-            0.01
+            {
+              "time": 0,
+              "cost": 1,
+              "gains": 1,
+              "gains_extra": 0
+            },
+            {
+              "time": 0,
+              "cost": 1,
+              "gains": 1,
+              "gains_extra": 0
+            }
           ],
           [
-            0.01,
-            0.02
+            {
+              "time": 0,
+              "cost": 1,
+              "gains": 1,
+              "gains_extra": 0
+            },
+            {
+              "time": 0,
+              "cost": 1,
+              "gains": 1,
+              "gains_extra": 0
+            }
           ],
           [
-            0.02,
-            0.03
+            {
+              "time": 0,
+              "cost": 1,
+              "gains": 1,
+              "gains_extra": 0
+            },
+            {
+              "time": 0,
+              "cost": 1,
+              "gains": 1,
+              "gains_extra": 0
+            }
           ]
         ]
       }
@@ -891,13 +1031,13 @@
         "produce": [
           {
             "id": 2700,
-            "amount": 2
+            "amount": 8
           }
         ],
         "extra_produce": null,
         "hp": 80,
-        "base_time": "00:15:00",
-        "workload": 9000,
+        "base_time": "Fixed Time",
+        "workload": -1,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": false,
@@ -1033,13 +1173,13 @@
         "produce": [
           {
             "id": 2800,
-            "amount": 2
+            "amount": 8
           }
         ],
         "extra_produce": null,
         "hp": 80,
-        "base_time": "00:15:00",
-        "workload": 9000,
+        "base_time": "Fixed Time",
+        "workload": -1,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": false,

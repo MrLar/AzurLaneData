@@ -130866,5 +130866,55 @@
       "JP",
       "CN"
     ]
+  },
+  "150840": {
+    "icon": "150840",
+    "id": 150840,
+    "name": "Invitation to Islas de Libertád",
+    "rarity": 4,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60940
+    ],
+    "nation": 96,
+    "limit_group": 150840,
+    "hull_restriction": [],
+    "max": 11,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          200,
+          230,
+          260,
+          290,
+          320,
+          350,
+          380,
+          410,
+          440,
+          470,
+          500,
+          530
+        ]
+      }
+    ],
+    "labels": [
+      "mot",
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
   }
 }

@@ -19145,6 +19145,23 @@
       "CN"
     ]
   },
+  "3054": {
+    "id": 3054,
+    "name": "魔法炮弹",
+    "icon": "99175",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "二宝魔法,甜蜜惊喜!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "4001": {
     "id": 4001,
     "name": "Little Blocks Shell",
@@ -23119,6 +23136,306 @@
     "rarity": 4,
     "theme": "Dreams of Amahara",
     "description": "This green flows like the puff of a cloud, or the leaves of a pine.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4240": {
+    "id": 4240,
+    "name": "Fireball Shell",
+    "icon": "101501",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Deep-Sea Treasure Hunt",
+    "description": "Take aim and unleash the fireballs!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4241": {
+    "id": 4241,
+    "name": "Spectral Eye Shell",
+    "icon": "101502",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Deep-Sea Treasure Hunt",
+    "description": "An envoy of the Netherrealm appears, unveiling the secrets of the deep sea.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4242": {
+    "id": 4242,
+    "name": "Octopus Eye Shell",
+    "icon": "101503",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Deep-Sea Treasure Hunt",
+    "description": "You cannot grasp its true form.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4243": {
+    "id": 4243,
+    "name": "Anchor Torpedo",
+    "icon": "101504",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Deep-Sea Treasure Hunt",
+    "description": "Some anchors end up in the depths and never return.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4244": {
+    "id": 4244,
+    "name": "Tridentacle Torpedo",
+    "icon": "101505",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Deep-Sea Treasure Hunt",
+    "description": "Squishy and pointy at the same time... in all the wrong places.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4245": {
+    "id": 4245,
+    "name": "Tattered Mast Torpedo",
+    "icon": "101506",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Deep-Sea Treasure Hunt",
+    "description": "It weathered many storms, and now it weathers one more.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4246": {
+    "id": 4246,
+    "name": "Captain's Hat Shell",
+    "icon": "101507",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Deep-Sea Treasure Hunt",
+    "description": "The captain is on deck! Set sail, mateys!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4247": {
+    "id": 4247,
+    "name": "Aging Barrel Shell",
+    "icon": "101508",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Deep-Sea Treasure Hunt",
+    "description": "Experts say it's still drinkable.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4248": {
+    "id": 4248,
+    "name": "Lantern o' the Deep Shell",
+    "icon": "101509",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Deep-Sea Treasure Hunt",
+    "description": "Take the lantern and dive into the abyss.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4249": {
+    "id": 4249,
+    "name": "Icy Ghost Ship (Torpedo)",
+    "icon": "101510",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Deep-Sea Treasure Hunt",
+    "description": "A phantom cloaked in ice and snow whizzes by.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4250": {
+    "id": 4250,
+    "name": "Icy Ghost Ship (Fighter)",
+    "icon": "101510",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Deep-Sea Treasure Hunt",
+    "description": "A phantom cloaked in ice and snow whizzes by.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4251": {
+    "id": 4251,
+    "name": "Icy Ghost Ship (Bomber)",
+    "icon": "101510",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Deep-Sea Treasure Hunt",
+    "description": "A phantom cloaked in ice and snow whizzes by.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4252": {
+    "id": 4252,
+    "name": "Deep-Sea Ghost Ship (Torpedo)",
+    "icon": "101511",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Deep-Sea Treasure Hunt",
+    "description": "A phantom of the deep sea fades in and out of view.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4253": {
+    "id": 4253,
+    "name": "Deep-Sea Ghost Ship (Fighter)",
+    "icon": "101511",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Deep-Sea Treasure Hunt",
+    "description": "A phantom of the deep sea fades in and out of view.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4254": {
+    "id": 4254,
+    "name": "Deep-Sea Ghost Ship (Bomber)",
+    "icon": "101511",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Deep-Sea Treasure Hunt",
+    "description": "A phantom of the deep sea fades in and out of view.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4255": {
+    "id": 4255,
+    "name": "Foggy Ghost Ship (Torpedo)",
+    "icon": "101512",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Deep-Sea Treasure Hunt",
+    "description": "An indescribable phantom appears in the fog.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4256": {
+    "id": 4256,
+    "name": "Foggy Ghost Ship (Fighter)",
+    "icon": "101512",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Deep-Sea Treasure Hunt",
+    "description": "An indescribable phantom appears in the fog.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4257": {
+    "id": 4257,
+    "name": "Foggy Ghost Ship (Bomber)",
+    "icon": "101512",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Deep-Sea Treasure Hunt",
+    "description": "An indescribable phantom appears in the fog.",
     "servers": [
       "EN",
       "JP",

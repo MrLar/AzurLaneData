@@ -31516,6 +31516,23 @@
       }
     ]
   },
+  "30376": {
+    "id": 30376,
+    "name": "Gear Skin Box (Deep-Sea Treasure Hunt)",
+    "description": "Use to obtain a random Deep-Sea Treasure Hunt-themed gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxshenhaixunbao",
+    "rarity": 5,
+    "locations": [
+      "Tempesta and Islas de Libertád"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "30401": {
     "id": 30401,
     "name": "Random Gear Skin Box (Cruise Series 3)",
@@ -44808,6 +44825,23 @@
         "name": "Cloudborne Green Pine Tree (Bomber)"
       }
     ]
+  },
+  "30560": {
+    "id": 30560,
+    "name": "Selection Gear Skin Box (Deep-Sea Treasure Hunt)",
+    "description": "Can be opened to receive 1 Deep-Sea Treasure Hunt-themed gear skin of your choosing.",
+    "type": 13,
+    "icon": "props/appearanceboxshenhaixunbaozixuan",
+    "rarity": 5,
+    "locations": [
+      "Tempesta and Islas de Libertád"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
   },
   "30911": {
     "id": 30911,

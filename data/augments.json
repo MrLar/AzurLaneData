@@ -12147,6 +12147,346 @@
       "CN"
     ]
   },
+  "14620": {
+    "id": 14620,
+    "icon": "14620",
+    "name": "Evening Rose",
+    "limit_group": 709,
+    "type": 10,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902340
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 151760,
+        "with": 10151760
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Queen Anne's Revenge's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "14640": {
+    "id": 14640,
+    "icon": "14640",
+    "name": "Spear of Order and Judgment",
+    "limit_group": 710,
+    "type": 10,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902240
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 151810,
+        "with": 10151810
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Lyme's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      },
+      {
+        "stat": "hp",
+        "values": [
+          130,
+          135,
+          140,
+          145,
+          150,
+          155,
+          160,
+          165,
+          170,
+          175,
+          180
+        ],
+        "random": 20
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "14660": {
+    "id": 14660,
+    "icon": "14660",
+    "name": "Heart of Pearl",
+    "limit_group": 711,
+    "type": 10,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902250
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 151770,
+        "with": 151790
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Pearl's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "14680": {
+    "id": 14680,
+    "icon": "14680",
+    "name": "Seeker's Saber",
+    "limit_group": 712,
+    "type": 10,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902240
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 151680,
+        "with": 151740
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Royal James' Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hp",
+        "values": [
+          130,
+          135,
+          140,
+          145,
+          150,
+          155,
+          160,
+          165,
+          170,
+          175,
+          180
+        ],
+        "random": 20
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "14700": {
+    "id": 14700,
+    "icon": "14700",
+    "name": "Adventure's Staff",
+    "limit_group": 713,
+    "type": 10,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902230
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 151700,
+        "with": 151710
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Adventure's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          100,
+          105,
+          110,
+          115,
+          120,
+          125,
+          130,
+          135,
+          140,
+          145,
+          150
+        ],
+        "random": 20
+      },
+      {
+        "stat": "rld",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "1010100": {
     "id": 1010100,
     "icon": "1010100",

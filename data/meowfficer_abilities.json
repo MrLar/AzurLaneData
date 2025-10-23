@@ -468,6 +468,59 @@
       "CN"
     ]
   },
+  "321": {
+    "names": [
+      "Azure Sky Affinity - Rookie",
+      "Azure Sky Affinity - Ace"
+    ],
+    "descriptions": [
+      "Your CVs and CVLs gain 7 AVI and your IXMs gain 7 FP.",
+      "Your CVs and CVLs gain 10 AVI and your IXMs gain 10 FP."
+    ],
+    "icons": [
+      "teshu_hangkong_1",
+      "teshu_hangkong_2"
+    ],
+    "effect": {
+      "hulls": [
+        6,
+        7,
+        24
+      ],
+      "stats": [
+        {
+          "stat": "avi",
+          "amount": [
+            7,
+            10
+          ],
+          "restrict": [
+            24
+          ]
+        },
+        {
+          "stat": "fp",
+          "amount": [
+            7,
+            10
+          ],
+          "restrict": [
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    "id": 321,
+    "max": 2,
+    "rollable": false,
+    "obtainable": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "401": {
     "names": [
       "Anti-Air Rookie - Vanguard",
@@ -1211,6 +1264,52 @@
     "max": 3,
     "rollable": false,
     "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "771": {
+    "names": [
+      "Rookie Engineer - Vanguard",
+      "Adept Engineer - Vanguard",
+      "Ace Engineer - Vanguard"
+    ],
+    "descriptions": [
+      "Your {Vanguard|Does not include Munition Ships} gains 30 HP.",
+      "Your {Vanguard|Does not include Munition Ships} gains 42 HP.",
+      "Your {Vanguard|Does not include Munition Ships} gains 60 HP."
+    ],
+    "icons": [
+      "quzhu_naijiu_1",
+      "quzhu_naijiu_2",
+      "quzhu_naijiu_3"
+    ],
+    "effect": {
+      "hulls": [
+        1,
+        2,
+        3,
+        18,
+        20,
+        23
+      ],
+      "stats": [
+        {
+          "stat": "hp",
+          "amount": [
+            30,
+            42,
+            60
+          ]
+        }
+      ]
+    },
+    "id": 771,
+    "max": 3,
+    "rollable": false,
+    "obtainable": false,
     "servers": [
       "EN",
       "JP",
@@ -2809,6 +2908,88 @@
     "max": 1,
     "rollable": false,
     "obtainable": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "5171": {
+    "names": [
+      "A Bold Challenge"
+    ],
+    "descriptions": [
+      "Your CVs gain 10 AVI and RLD and your IXs gain 15 FP."
+    ],
+    "icons": [
+      "special_one"
+    ],
+    "effect": {
+      "hulls": [
+        7,
+        22,
+        23,
+        24
+      ],
+      "stats": [
+        {
+          "stat": "rld",
+          "amount": [
+            10
+          ],
+          "restrict": [
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "stat": "avi",
+          "amount": [
+            10
+          ],
+          "restrict": [
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "stat": "fp",
+          "amount": [
+            15
+          ],
+          "restrict": [
+            7
+          ]
+        }
+      ]
+    },
+    "id": 5171,
+    "max": 1,
+    "rollable": false,
+    "obtainable": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "5181": {
+    "names": [
+      "战旗重扬"
+    ],
+    "descriptions": [
+      "轻巡、重巡、风帆V炮击提高10点，装填提高10点"
+    ],
+    "icons": [
+      "special_one"
+    ],
+    "effect": null,
+    "id": 5181,
+    "max": 1,
+    "rollable": false,
+    "obtainable": false,
     "servers": [
       "EN",
       "JP",

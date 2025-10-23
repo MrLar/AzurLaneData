@@ -15074,7 +15074,8 @@
     "other": [],
     "maps": [],
     "notes": [
-      "Available as task reward during Lunar New Year 2020"
+      "Available as task reward during Lunar New Year 2020",
+      "Available as task reward during Manjuu Tower Rerun (Winter Pathfinder Prelude)"
     ],
     "events": [
       "Lunar New Year 2020"
@@ -18182,6 +18183,22 @@
     "events": [
       "Tempesta and the Fountain of Youth",
       "Tempesta and the Sleeping Sea"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "T6",
+            "type": 1
+          },
+          {
+            "map": "HT6",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "612": {
@@ -18954,10 +18971,12 @@
     "other": [],
     "maps": [],
     "notes": [
-      "Available as Map drop (T6, Special; boss only) and in the Event shop during Tempesta and the Sleeping Sea"
+      "Available as Map drop (T6, Special; boss only) and in the Event shop during Tempesta and the Sleeping Sea",
+      "Available in the Event shop during Tempesta and Islas de Libertád"
     ],
     "events": [
-      "Tempesta and the Sleeping Sea"
+      "Tempesta and the Sleeping Sea",
+      "Tempesta and Islas de Libertád"
     ]
   },
   "667": {
@@ -19589,6 +19608,80 @@
     "notes": [],
     "events": [
       "A Dance for Amahara Above"
+    ]
+  },
+  "709": {
+    "id": 709,
+    "timer": "Unknown",
+    "light": false,
+    "heavy": false,
+    "limited": "Tempesta and Islas de Libertád",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [],
+    "events": [
+      "Tempesta and Islas de Libertád"
+    ]
+  },
+  "710": {
+    "id": 710,
+    "timer": "Unknown",
+    "light": false,
+    "heavy": false,
+    "limited": "Tempesta and Islas de Libertád",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [],
+    "events": [
+      "Tempesta and Islas de Libertád"
+    ]
+  },
+  "711": {
+    "id": 711,
+    "timer": "Unknown",
+    "light": false,
+    "heavy": false,
+    "limited": "Tempesta and Islas de Libertád",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available as Map drop (T6, HT6, SP; boss only) and in the Event shop during Tempesta and Islas de Libertád"
+    ],
+    "events": [
+      "Tempesta and Islas de Libertád"
+    ]
+  },
+  "712": {
+    "id": 712,
+    "timer": "Unknown",
+    "light": false,
+    "heavy": false,
+    "limited": "Tempesta and Islas de Libertád",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [],
+    "events": [
+      "Tempesta and Islas de Libertád"
+    ]
+  },
+  "713": {
+    "id": 713,
+    "timer": "Unknown",
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available as point accumulation reward during Tempesta and Islas de Libertád"
+    ],
+    "events": [
+      "Tempesta and Islas de Libertád"
     ]
   },
   "10001": {
