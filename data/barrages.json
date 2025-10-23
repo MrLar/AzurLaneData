@@ -75091,6 +75091,54 @@
   ],
   "151680": [
     {
+      "name": "The Best-Laid Plans go Boom!+",
+      "parts": [
+        {
+          "damage": 200,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 20,
+          "velocity": 10,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            20,
+            20
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169460,
+          "weapon_type": 23,
+          "bullet_type": 2,
+          "bullet_id": 161186,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "151690": [
+    {
       "name": "The Best-Laid Plans go Boom!",
       "parts": [
         {

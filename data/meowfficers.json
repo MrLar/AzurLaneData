@@ -3395,16 +3395,16 @@
       "CN"
     ],
     "skill": {
-      "name": "未了的传奇",
+      "name": "Unfinished Legend",
       "descriptions": [
-        "依据指挥喵战术属性,提高所在舰队中战列、战巡、航战、风帆M的炮击属性(效果中)",
-        "与主力舰队交战时,依据指挥喵战术属性,提高所在舰队中战列、正航、风帆M的命中属性(效果中)",
-        "所在舰队中包含安妮女王复仇号时,进入战斗后发射一轮特殊弹幕,每场战斗一次"
+        "When assigned to a fleet: increases the FP of your BBs, BCs, BBVs, and IXMs by a moderate amount based on the Tactics stat.",
+        "When engaging an enemy Main Fleet: increases the ACC of your BBs, CVs, and IXMs by a moderate amount based on the Tactics stat.",
+        "When assigned to a fleet with Queen Anne's Revenge: once per battle, when the battle starts, fires a special barrage."
       ],
       "opsi_descriptions": [
-        "依据指挥喵战术属性,提高所在舰队中战列、战巡、航战、风帆M的炮击属性(效果中)",
-        "与主力舰队交战时,依据指挥喵战术属性,提高所在舰队中战列、正航、风帆M的命中属性(效果中)",
-        "所在舰队中包含安妮女王复仇号时,进入战斗后发射一轮特殊弹幕,每场战斗一次"
+        "When assigned to a fleet: increases the FP of your BBs, BCs, BBVs, and IXMs by a moderate amount based on the Tactics stat.",
+        "When engaging an enemy Main Fleet: increases the ACC of your BBs, CVs, and IXMs by a moderate amount based on the Tactics stat.",
+        "When assigned to a fleet with Queen Anne's Revenge: once per battle, when the battle starts, fires a special barrage."
       ],
       "icon": 960061,
       "id": 960061,
@@ -3489,16 +3489,16 @@
       "CN"
     ],
     "skill": {
-      "name": "绅士海盗的传说",
+      "name": "Tale of the Gentleman Pirate",
       "descriptions": [
-        "依据指挥喵后勤属性,降低所在舰队遭遇伏击的概率",
-        "作为参谋位指挥喵时,依据指挥喵后勤属性,提高先锋舰队的炮击属性(效果小)",
-        "舰队旗舰及先锋领舰在战斗中受到伤害,导致耐久低于50%后,为其恢复5%耐久(每场战斗1次)"
+        "Decreases the fleet's chance of running into an Ambush based on the Logistics stat.",
+        "When assigned as the Staff Cat: increases your Vanguard's FP by a small amount based on the Logistics stat.",
+        "Once per battle, when the HP of your Flagship or frontmost Vanguard ship falls below 50.0% as a result of DMG taken: restores 5.0% of that ship's HP."
       ],
       "opsi_descriptions": [
-        "作为参谋位指挥喵时,依据指挥喵后勤属性,提高所在舰队中轻巡、重巡、超巡、风帆V的机动属性(效果小)",
-        "作为参谋位指挥喵时,依据指挥喵后勤属性,提高先锋舰队的炮击属性(效果小)",
-        "舰队旗舰及先锋领舰在战斗中受到伤害,导致耐久低于50%后,为其恢复5%耐久(每场战斗1次)"
+        "When assigned as the Staff Cat: increases the EVA of your CLs, CAs, CBs, and IXVs by a small amount based on the Logistics stat.",
+        "When assigned as the Staff Cat: increases your Vanguard's FP by a small amount based on the Logistics stat.",
+        "Once per battle, when the HP of your Flagship or frontmost Vanguard ship falls below 50.0% as a result of DMG taken: restores 5.0% of that ship's HP."
       ],
       "icon": 960071,
       "id": 960071,

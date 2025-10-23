@@ -514,7 +514,7 @@
     "id": 321,
     "max": 2,
     "rollable": false,
-    "obtainable": false,
+    "obtainable": true,
     "servers": [
       "EN",
       "JP",
@@ -1309,7 +1309,7 @@
     "id": 771,
     "max": 3,
     "rollable": false,
-    "obtainable": false,
+    "obtainable": true,
     "servers": [
       "EN",
       "JP",
@@ -2977,10 +2977,10 @@
   },
   "5181": {
     "names": [
-      "战旗重扬"
+      "Hoist Sails Again"
     ],
     "descriptions": [
-      "轻巡、重巡、风帆V炮击提高10点，装填提高10点"
+      "Your CLs, CAs, and IXVs gain 10 FP and 10 RLD."
     ],
     "icons": [
       "special_one"
@@ -2989,7 +2989,7 @@
     "id": 5181,
     "max": 1,
     "rollable": false,
-    "obtainable": false,
+    "obtainable": true,
     "servers": [
       "EN",
       "JP",

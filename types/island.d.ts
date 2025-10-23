@@ -140,7 +140,12 @@ export interface IslandFormula {
     event: string | null
     needs_unlock: boolean
     is_combo: boolean
-    extra_animal_eff?: number[][]
+    research_eff?: Array<Array<{
+        time: number
+        cost: number
+        gains: number
+        gains_extra: number
+    }>>
 }
 
 export interface IslandRestaurant {
