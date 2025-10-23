@@ -2259,6 +2259,11 @@
               "stat": "hit",
               "meow_stat": "command",
               "amount": 8
+            },
+            {
+              "stat": "fp",
+              "meow_stat": "command",
+              "amount": 8
             }
           ]
         }
@@ -2274,6 +2279,11 @@
           "stats": [
             {
               "stat": "hit",
+              "meow_stat": "command",
+              "amount": 8
+            },
+            {
+              "stat": "fp",
               "meow_stat": "command",
               "amount": 8
             }
