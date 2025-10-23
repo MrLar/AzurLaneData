@@ -2968,7 +2968,7 @@
     "id": 5171,
     "max": 1,
     "rollable": false,
-    "obtainable": false,
+    "obtainable": true,
     "servers": [
       "EN",
       "JP",
@@ -2980,12 +2980,39 @@
       "Hoist Sails Again"
     ],
     "descriptions": [
-      "Your CLs, CAs, and IXVs gain 10 FP and 10 RLD."
+      "Your CLs, CAs, and IXVs gain 10 FP {and your CLs, CAs, and CBs gain 10 RLD|The game handles this portion incorrectly and the RLD applies to CBs not IXms}."
     ],
     "icons": [
       "special_one"
     ],
-    "effect": null,
+    "effect": {
+      "hulls": [
+        2,
+        3,
+        23,
+        18
+      ],
+      "stats": [
+        {
+          "stat": "rld",
+          "amount": [
+            10
+          ],
+          "restrict": [
+            23
+          ]
+        },
+        {
+          "stat": "fp",
+          "amount": [
+            10
+          ],
+          "restrict": [
+            18
+          ]
+        }
+      ]
+    },
     "id": 5181,
     "max": 1,
     "rollable": false,
