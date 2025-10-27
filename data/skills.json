@@ -55927,7 +55927,7 @@
     ]
   },
   "151750": {
-    "description": "If this ship is your Flagship: increases your Tempesta ships' FP, ACC, and EVA by $1; if she is not your Flagship: increases this ship's FP and EVA by $2. When this ship fires her Main Guns: $3 chance to fire a $4 special barrage (DMG is based on the skill's level); if there is another Tempesta ship in your fleet, increases this barrage's activation chance by 30.0%.",
+    "description": "If this ship is your Flagship: increases your Tempesta ships' FP, ACC, and EVA by $1;\n\nIf she is not your Flagship: increases this ship's FP and EVA by $2.\n\nWhen this ship fires her Main Guns: $3 chance to fire a $4 special barrage (DMG is based on the skill's level); if there is another Tempesta ship in your fleet, increases this barrage's activation chance by 30.0%.",
     "opsi_description": null,
     "name": "The Blackmane Tempesta",
     "max": 10,
@@ -55986,7 +55986,7 @@
     ]
   },
   "151760": {
-    "description": "When this ship finishes loading her Main Guns, if there is no enemy with Plunder Target on the battlefield, inflicts Plunder Target to a random enemy (prioritizes humanoid enemies); enemies with Plunder Target have $1 decreased EVA and take $1 more DMG from Queen Anne's Revenge. When an enemy with Plunder Target is sunk, all your Tempesta ships recover $2 of their max HP.",
+    "description": "When this ship finishes loading her Main Guns, if there is no enemy with Plunder Target on the battlefield, inflicts Plunder Target to a random enemy (prioritizes humanoid enemies)\n\nEnemies with Plunder Target have $1 decreased EVA and take $1 more DMG from Queen Anne's Revenge.\n\nWhen an enemy with Plunder Target is sunk, all your Tempesta ships recover $2 of their max HP.",
     "opsi_description": null,
     "name": "Share the Spoils",
     "max": 10,
@@ -68525,7 +68525,7 @@
     ]
   },
   "10151760": {
-    "description": "When this ship finishes loading her Main Guns, if there is an enemy with Plunder Target on the battlefield: decreases that enemy's SPD by 20.0% for 5s; if there is no enemy with Plunder Target, inflicts Plunder Target to a random enemy (prioritizes humanoid enemies); enemies with Plunder Target have $1 decreased EVA and take $1 more DMG from Queen Anne's Revenge. When an enemy with Plunder Target is sunk, all your Tempesta ships recover $2 of their max HP and their DMG taken is decreased by $2 until the battle ends (this effect can be stacked up to 3 times).",
+    "description": "When this ship finishes loading her Main Guns:\n• if there is an enemy with Plunder Target on the battlefield: decreases that enemy's SPD by 20.0% for 5s\n• if there is no enemy with Plunder Target, inflicts Plunder Target to a random enemy (prioritizes humanoid enemies)\n\nEnemies with Plunder Target have $1 decreased EVA and take $1 more DMG from Queen Anne's Revenge.\n\nWhen an enemy with Plunder Target is sunk, all your Tempesta ships recover $2 of their max HP and their DMG taken is decreased by $2 until the battle ends (this effect can be stacked up to 3 times).",
     "opsi_description": null,
     "name": "Share the Spoils+",
     "max": 10,
