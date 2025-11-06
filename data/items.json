@@ -48709,6 +48709,64 @@
       }
     ]
   },
+  "40070": {
+    "id": 40070,
+    "name": "Outfit Selection Pack (Musashi)",
+    "description": "Contains loads of valuable rewards.",
+    "type": 17,
+    "icon": "chargeicon/huteng_package",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 59565,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/skin_exchange_huteng",
+        "name": "Outfit Selection Voucher (Musashi)"
+      },
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 40,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 30000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      },
+      {
+        "id": 16502,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 50,
+        "blueprint": false,
+        "icon": "props/16502",
+        "name": "T2 EXP Data Pack"
+      }
+    ]
+  },
   "40100": {
     "id": 40100,
     "name": "Promise Crate",
@@ -57822,6 +57880,46 @@
         "icon": "ships/compact/qianwei_2",
         "name": "Half-Hearted Masquerade",
         "ship_id": 137
+      }
+    ]
+  },
+  "59565": {
+    "id": 59565,
+    "name": "Outfit Selection Voucher (Musashi)",
+    "description": "Can be used from your Depot to select 1 skin of your choosing.\n(You may only choose from the skins presented. If you already own all the skins, you will instead receive a Skin Voucher.)",
+    "type": 26,
+    "icon": "props/skin_exchange_huteng",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 305101,
+        "type": 3,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "ships/compact/wuzang_2",
+        "name": "Violet Moonglow",
+        "ship_id": 217
+      },
+      {
+        "id": 305102,
+        "type": 3,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "ships/compact/wuzang_3",
+        "name": "The Purple Rabbit's Marksmanship",
+        "ship_id": 217
       }
     ]
   },

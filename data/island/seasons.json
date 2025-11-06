@@ -81,14 +81,14 @@
         "name": "Manufacturing Textbook T1"
       },
       {
-        "id": 10301,
+        "id": 10303,
         "type": 45,
         "linkable": false,
-        "rarity": 4,
+        "rarity": 3,
         "amount": 6,
         "blueprint": false,
-        "icon": "island/furniture/furniture_10301",
-        "name": "Outdoor Table and Chairs"
+        "icon": "island/furniture/furniture_10303",
+        "name": "Camping Gate"
       },
       {
         "id": 100041,
@@ -181,14 +181,14 @@
         "name": "Island Development Gem"
       },
       {
-        "id": 10401,
+        "id": 10406,
         "type": 45,
         "linkable": false,
-        "rarity": 4,
-        "amount": 5,
+        "rarity": 3,
+        "amount": 10,
         "blueprint": false,
-        "icon": "island/furniture/furniture_10401",
-        "name": "Small Boat Fishing Spot"
+        "icon": "island/furniture/furniture_10406",
+        "name": "Pile of Leaves"
       },
       {
         "id": 100012,
@@ -331,14 +331,14 @@
         "name": "Cooking Textbook T2"
       },
       {
-        "id": 10408,
+        "id": 10407,
         "type": 45,
         "linkable": false,
-        "rarity": 4,
-        "amount": 3,
+        "rarity": 3,
+        "amount": 4,
         "blueprint": false,
-        "icon": "island/furniture/furniture_10408",
-        "name": "Beary Nice Seesaw"
+        "icon": "island/furniture/furniture_10407",
+        "name": "Portable Grill Set"
       },
       {
         "id": 100003,
@@ -361,14 +361,14 @@
         "name": "Production Textbook T3"
       },
       {
-        "id": 10404,
+        "id": 10305,
         "type": 45,
         "linkable": false,
         "rarity": 3,
-        "amount": 6,
+        "amount": 4,
         "blueprint": false,
-        "icon": "island/furniture/furniture_10404",
-        "name": "Beary Nice Stone Ornament"
+        "icon": "island/furniture/furniture_10305",
+        "name": "Bear Cub Hammock"
       },
       {
         "id": 100003,
@@ -381,14 +381,14 @@
         "name": "Island EXP Textbook T3"
       },
       {
-        "id": 10402,
+        "id": 10306,
         "type": 45,
         "linkable": false,
         "rarity": 3,
-        "amount": 4,
+        "amount": 3,
         "blueprint": false,
-        "icon": "island/furniture/furniture_10402",
-        "name": "Campfire"
+        "icon": "island/furniture/furniture_10306",
+        "name": "Camping Tent"
       },
       {
         "id": 3,
@@ -411,14 +411,14 @@
         "name": "Island EXP Textbook T3"
       },
       {
-        "id": 10408,
+        "id": 10304,
         "type": 45,
         "linkable": false,
-        "rarity": 4,
+        "rarity": 3,
         "amount": 3,
         "blueprint": false,
-        "icon": "island/furniture/furniture_10408",
-        "name": "Beary Nice Seesaw"
+        "icon": "island/furniture/furniture_10304",
+        "name": "Camping Car"
       }
     ],
     "ranks": [
@@ -623,8 +623,8 @@
       [
         [
           2026,
-          1,
-          8
+          2,
+          5
         ],
         [
           12,

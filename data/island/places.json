@@ -5,11 +5,11 @@
     "recipes": [
       {
         "id": 101001,
-        "stamina": 6,
+        "stamina": 8,
         "item_id": 2000,
         "item_name": "Wheat",
-        "production_limit": 5,
-        "exp": 30,
+        "production_limit": 12,
+        "exp": 40,
         "pts": 0,
         "attribute": "plant",
         "cost": [
@@ -21,13 +21,13 @@
         "produce": [
           {
             "id": 2000,
-            "amount": 9
+            "amount": 162
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "00:30:00",
-        "workload": 18000,
+        "base_time": "00:40:00",
+        "workload": 24000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": false,
@@ -36,11 +36,11 @@
       },
       {
         "id": 101002,
-        "stamina": 12,
+        "stamina": 8,
         "item_id": 2001,
         "item_name": "Corn",
-        "production_limit": 5,
-        "exp": 60,
+        "production_limit": 12,
+        "exp": 40,
         "pts": 0,
         "attribute": "plant",
         "cost": [
@@ -52,13 +52,13 @@
         "produce": [
           {
             "id": 2001,
-            "amount": 18
+            "amount": 162
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "01:00:00",
-        "workload": 36000,
+        "base_time": "00:40:00",
+        "workload": 24000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -70,7 +70,7 @@
         "stamina": 8,
         "item_id": 2008,
         "item_name": "Grass",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 40,
         "pts": 0,
         "attribute": "plant",
@@ -83,7 +83,7 @@
         "produce": [
           {
             "id": 2008,
-            "amount": 9
+            "amount": 108
           }
         ],
         "extra_produce": null,
@@ -98,11 +98,11 @@
       },
       {
         "id": 101004,
-        "stamina": 40,
+        "stamina": 28,
         "item_id": 2009,
         "item_name": "Coffee Beans",
         "production_limit": 5,
-        "exp": 200,
+        "exp": 140,
         "pts": 0,
         "attribute": "plant",
         "cost": [
@@ -114,13 +114,13 @@
         "produce": [
           {
             "id": 2009,
-            "amount": 9
+            "amount": 81
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "03:20:00",
-        "workload": 120000,
+        "base_time": "02:20:00",
+        "workload": 84000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -129,11 +129,11 @@
       },
       {
         "id": 101005,
-        "stamina": 24,
+        "stamina": 16,
         "item_id": 2002,
         "item_name": "Rice",
-        "production_limit": 5,
-        "exp": 120,
+        "production_limit": 6,
+        "exp": 80,
         "pts": 0,
         "attribute": "plant",
         "cost": [
@@ -145,13 +145,13 @@
         "produce": [
           {
             "id": 2002,
-            "amount": 18
+            "amount": 162
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "02:00:00",
-        "workload": 72000,
+        "base_time": "01:20:00",
+        "workload": 48000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -160,11 +160,11 @@
       },
       {
         "id": 101006,
-        "stamina": 10,
+        "stamina": 8,
         "item_id": 2003,
         "item_name": "Napa Cabbage",
-        "production_limit": 5,
-        "exp": 50,
+        "production_limit": 12,
+        "exp": 40,
         "pts": 0,
         "attribute": "plant",
         "cost": [
@@ -176,13 +176,13 @@
         "produce": [
           {
             "id": 2003,
-            "amount": 9
+            "amount": 81
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "00:50:00",
-        "workload": 30000,
+        "base_time": "00:40:00",
+        "workload": 24000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -191,11 +191,11 @@
       },
       {
         "id": 101007,
-        "stamina": 72,
+        "stamina": 36,
         "item_id": 2005,
         "item_name": "Potato",
         "production_limit": 5,
-        "exp": 360,
+        "exp": 180,
         "pts": 0,
         "attribute": "plant",
         "cost": [
@@ -207,13 +207,13 @@
         "produce": [
           {
             "id": 2005,
-            "amount": 9
+            "amount": 243
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "06:00:00",
-        "workload": 216000,
+        "base_time": "03:00:00",
+        "workload": 108000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -222,11 +222,11 @@
       },
       {
         "id": 101008,
-        "stamina": 20,
+        "stamina": 14,
         "item_id": 2006,
         "item_name": "Soy Beans",
-        "production_limit": 5,
-        "exp": 100,
+        "production_limit": 6,
+        "exp": 70,
         "pts": 0,
         "attribute": "plant",
         "cost": [
@@ -238,13 +238,13 @@
         "produce": [
           {
             "id": 2006,
-            "amount": 27
+            "amount": 243
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "01:40:00",
-        "workload": 60000,
+        "base_time": "01:10:00",
+        "workload": 42000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -276,8 +276,8 @@
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "00:20:00",
-        "workload": 12000,
+        "base_time": "00:26:40",
+        "workload": 16000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": false,
@@ -307,8 +307,8 @@
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "00:40:00",
-        "workload": 24000,
+        "base_time": "00:26:40",
+        "workload": 16000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -369,8 +369,8 @@
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "02:13:20",
-        "workload": 80000,
+        "base_time": "01:33:20",
+        "workload": 56000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -400,8 +400,8 @@
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "01:20:00",
-        "workload": 48000,
+        "base_time": "00:53:20",
+        "workload": 32000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -431,8 +431,8 @@
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "00:33:20",
-        "workload": 20000,
+        "base_time": "00:26:40",
+        "workload": 16000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -457,13 +457,13 @@
         "produce": [
           {
             "id": 2005,
-            "amount": 9
+            "amount": 27
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "04:00:00",
-        "workload": 144000,
+        "base_time": "02:00:00",
+        "workload": 72000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -493,8 +493,8 @@
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "01:06:40",
-        "workload": 40000,
+        "base_time": "00:46:40",
+        "workload": 28000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -513,17 +513,17 @@
     "recipes": [
       {
         "id": 101013,
-        "stamina": 16,
+        "stamina": 12,
         "item_id": 2601,
         "item_name": "Eggs",
-        "production_limit": 5,
-        "exp": 80,
+        "production_limit": 8,
+        "exp": 60,
         "pts": 0,
         "attribute": "conserve",
         "cost": [
           {
             "id": 3000,
-            "amount": 4
+            "amount": 2
           }
         ],
         "produce": [
@@ -539,8 +539,8 @@
           "needs_unlock": true
         },
         "hp": 0,
-        "base_time": "01:20:00",
-        "workload": 48000,
+        "base_time": "01:00:00",
+        "workload": 36000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": false,
@@ -550,13 +550,13 @@
           [
             {
               "time": 0,
-              "cost": 2,
+              "cost": 1,
               "gains": 3,
               "gains_extra": 2
             },
             {
               "time": 0,
-              "cost": 2,
+              "cost": 1,
               "gains": 2,
               "gains_extra": 2
             }
@@ -564,13 +564,13 @@
           [
             {
               "time": 0,
-              "cost": 2,
+              "cost": 1,
               "gains": 3,
               "gains_extra": 2
             },
             {
               "time": 0,
-              "cost": 2,
+              "cost": 1,
               "gains": 2,
               "gains_extra": 2
             }
@@ -578,13 +578,13 @@
           [
             {
               "time": 0,
-              "cost": 2,
+              "cost": 1,
               "gains": 3,
               "gains_extra": 2
             },
             {
               "time": 0,
-              "cost": 2,
+              "cost": 1,
               "gains": 2,
               "gains_extra": 2
             }
@@ -592,13 +592,13 @@
           [
             {
               "time": 0,
-              "cost": 2,
+              "cost": 1,
               "gains": 3,
               "gains_extra": 2
             },
             {
               "time": 0,
-              "cost": 2,
+              "cost": 1,
               "gains": 2,
               "gains_extra": 2
             }
@@ -606,13 +606,13 @@
           [
             {
               "time": 0,
-              "cost": 2,
+              "cost": 1,
               "gains": 3,
               "gains_extra": 2
             },
             {
               "time": 0,
-              "cost": 2,
+              "cost": 1,
               "gains": 2,
               "gains_extra": 2
             }
@@ -621,17 +621,17 @@
       },
       {
         "id": 101015,
-        "stamina": 36,
+        "stamina": 24,
         "item_id": 2600,
         "item_name": "Fresh Meat",
         "production_limit": 5,
-        "exp": 180,
+        "exp": 120,
         "pts": 0,
         "attribute": "conserve",
         "cost": [
           {
             "id": 3001,
-            "amount": 3
+            "amount": 2
           }
         ],
         "produce": [
@@ -642,8 +642,8 @@
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "03:00:00",
-        "workload": 108000,
+        "base_time": "02:00:00",
+        "workload": 72000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": false,
@@ -653,7 +653,7 @@
           [
             {
               "time": 0,
-              "cost": 2,
+              "cost": 1,
               "gains": 2,
               "gains_extra": 0
             },
@@ -667,7 +667,7 @@
           [
             {
               "time": 0,
-              "cost": 2,
+              "cost": 1,
               "gains": 2,
               "gains_extra": 0
             },
@@ -681,7 +681,7 @@
           [
             {
               "time": 0,
-              "cost": 2,
+              "cost": 1,
               "gains": 2,
               "gains_extra": 0
             },
@@ -696,11 +696,11 @@
       },
       {
         "id": 101016,
-        "stamina": 72,
+        "stamina": 18,
         "item_id": 2603,
         "item_name": "Milk",
         "production_limit": 5,
-        "exp": 360,
+        "exp": 90,
         "pts": 0,
         "attribute": "conserve",
         "cost": [
@@ -722,8 +722,8 @@
           "needs_unlock": true
         },
         "hp": 0,
-        "base_time": "06:00:00",
-        "workload": 216000,
+        "base_time": "01:30:00",
+        "workload": 54000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": false,
@@ -776,11 +776,11 @@
       },
       {
         "id": 101018,
-        "stamina": 94,
+        "stamina": 60,
         "item_id": 2605,
         "item_name": "Wool",
         "production_limit": 5,
-        "exp": 470,
+        "exp": 300,
         "pts": 0,
         "attribute": "conserve",
         "cost": [
@@ -792,13 +792,13 @@
         "produce": [
           {
             "id": 2605,
-            "amount": 2
+            "amount": 4
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "07:50:00",
-        "workload": 282000,
+        "base_time": "05:00:00",
+        "workload": 180000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": false,
@@ -809,13 +809,13 @@
             {
               "time": 0,
               "cost": 1,
-              "gains": 1,
+              "gains": 2,
               "gains_extra": 0
             },
             {
               "time": 0,
               "cost": 1,
-              "gains": 1,
+              "gains": 2,
               "gains_extra": 0
             }
           ],
@@ -823,13 +823,13 @@
             {
               "time": 0,
               "cost": 1,
-              "gains": 1,
+              "gains": 2,
               "gains_extra": 0
             },
             {
               "time": 0,
               "cost": 1,
-              "gains": 1,
+              "gains": 2,
               "gains_extra": 0
             }
           ],
@@ -837,13 +837,13 @@
             {
               "time": 0,
               "cost": 1,
-              "gains": 1,
+              "gains": 2,
               "gains_extra": 0
             },
             {
               "time": 0,
               "cost": 1,
-              "gains": 1,
+              "gains": 2,
               "gains_extra": 0
             }
           ]
@@ -865,7 +865,7 @@
         "stamina": 4,
         "item_id": 2700,
         "item_name": "Coal",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 20,
         "pts": 0,
         "attribute": "collect",
@@ -873,7 +873,7 @@
         "produce": [
           {
             "id": 2700,
-            "amount": 2
+            "amount": 8
           }
         ],
         "extra_produce": null,
@@ -891,7 +891,7 @@
         "stamina": 8,
         "item_id": 2701,
         "item_name": "Copper Ore",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 40,
         "pts": 0,
         "attribute": "collect",
@@ -899,7 +899,7 @@
         "produce": [
           {
             "id": 2701,
-            "amount": 1
+            "amount": 4
           }
         ],
         "extra_produce": null,
@@ -925,7 +925,7 @@
         "produce": [
           {
             "id": 2702,
-            "amount": 1
+            "amount": 4
           }
         ],
         "extra_produce": null,
@@ -943,7 +943,7 @@
         "stamina": 12,
         "item_id": 2703,
         "item_name": "Iron Ore",
-        "production_limit": 5,
+        "production_limit": 8,
         "exp": 60,
         "pts": 0,
         "attribute": "collect",
@@ -951,7 +951,7 @@
         "produce": [
           {
             "id": 2703,
-            "amount": 1
+            "amount": 4
           }
         ],
         "extra_produce": null,
@@ -977,7 +977,7 @@
         "produce": [
           {
             "id": 2704,
-            "amount": 1
+            "amount": 4
           }
         ],
         "extra_produce": null,
@@ -1003,7 +1003,7 @@
         "produce": [
           {
             "id": 2705,
-            "amount": 1
+            "amount": 4
           }
         ],
         "extra_produce": null,
@@ -1059,7 +1059,7 @@
         "stamina": 4,
         "item_id": 2800,
         "item_name": "Raw Timber",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 20,
         "pts": 0,
         "attribute": "collect",
@@ -1067,7 +1067,7 @@
         "produce": [
           {
             "id": 2800,
-            "amount": 2
+            "amount": 8
           }
         ],
         "extra_produce": null,
@@ -1085,7 +1085,7 @@
         "stamina": 10,
         "item_id": 2801,
         "item_name": "Workable Wood",
-        "production_limit": 5,
+        "production_limit": 9,
         "exp": 50,
         "pts": 0,
         "attribute": "collect",
@@ -1093,7 +1093,7 @@
         "produce": [
           {
             "id": 2801,
-            "amount": 1
+            "amount": 4
           }
         ],
         "extra_produce": null,
@@ -1119,7 +1119,7 @@
         "produce": [
           {
             "id": 2802,
-            "amount": 1
+            "amount": 4
           }
         ],
         "extra_produce": null,
@@ -1145,7 +1145,7 @@
         "produce": [
           {
             "id": 2803,
-            "amount": 1
+            "amount": 4
           }
         ],
         "extra_produce": null,
@@ -1198,29 +1198,29 @@
     "recipes": [
       {
         "id": 501001,
-        "stamina": 24,
+        "stamina": 15,
         "item_id": 2016,
         "item_name": "Apple",
-        "production_limit": 5,
-        "exp": 120,
+        "production_limit": 6,
+        "exp": 75,
         "pts": 0,
         "attribute": "plant",
         "cost": [
           {
             "id": 1016,
-            "amount": 1
+            "amount": 4
           }
         ],
         "produce": [
           {
             "id": 2016,
-            "amount": 8
+            "amount": 32
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "02:00:00",
-        "workload": 72000,
+        "base_time": "01:15:00",
+        "workload": 45000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": false,
@@ -1229,29 +1229,29 @@
       },
       {
         "id": 501002,
-        "stamina": 32,
+        "stamina": 15,
         "item_id": 2017,
         "item_name": "Citrus Fruit",
-        "production_limit": 5,
-        "exp": 160,
+        "production_limit": 6,
+        "exp": 75,
         "pts": 0,
         "attribute": "plant",
         "cost": [
           {
             "id": 1017,
-            "amount": 1
+            "amount": 4
           }
         ],
         "produce": [
           {
             "id": 2017,
-            "amount": 8
+            "amount": 32
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "02:40:00",
-        "workload": 96000,
+        "base_time": "01:15:00",
+        "workload": 45000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -1260,85 +1260,23 @@
       },
       {
         "id": 501003,
-        "stamina": 40,
+        "stamina": 20,
         "item_id": 2018,
         "item_name": "Banana",
-        "production_limit": 5,
-        "exp": 200,
-        "pts": 0,
-        "attribute": "plant",
-        "cost": [
-          {
-            "id": 1018,
-            "amount": 1
-          }
-        ],
-        "produce": [
-          {
-            "id": 2018,
-            "amount": 8
-          }
-        ],
-        "extra_produce": null,
-        "hp": 0,
-        "base_time": "03:20:00",
-        "workload": 120000,
-        "base_efficiency": 10,
-        "is_condition": false,
-        "needs_unlock": true,
-        "is_combo": false,
-        "event": null
-      },
-      {
-        "id": 501004,
-        "stamina": 60,
-        "item_id": 2019,
-        "item_name": "Mango",
-        "production_limit": 5,
-        "exp": 300,
-        "pts": 0,
-        "attribute": "plant",
-        "cost": [
-          {
-            "id": 1019,
-            "amount": 1
-          }
-        ],
-        "produce": [
-          {
-            "id": 2019,
-            "amount": 6
-          }
-        ],
-        "extra_produce": null,
-        "hp": 0,
-        "base_time": "05:00:00",
-        "workload": 180000,
-        "base_efficiency": 10,
-        "is_condition": false,
-        "needs_unlock": true,
-        "is_combo": false,
-        "event": null
-      },
-      {
-        "id": 501005,
-        "stamina": 20,
-        "item_id": 2020,
-        "item_name": "Lemon",
         "production_limit": 5,
         "exp": 100,
         "pts": 0,
         "attribute": "plant",
         "cost": [
           {
-            "id": 1020,
-            "amount": 1
+            "id": 1018,
+            "amount": 4
           }
         ],
         "produce": [
           {
-            "id": 2020,
-            "amount": 12
+            "id": 2018,
+            "amount": 32
           }
         ],
         "extra_produce": null,
@@ -1352,30 +1290,92 @@
         "event": null
       },
       {
+        "id": 501004,
+        "stamina": 30,
+        "item_id": 2019,
+        "item_name": "Mango",
+        "production_limit": 5,
+        "exp": 150,
+        "pts": 0,
+        "attribute": "plant",
+        "cost": [
+          {
+            "id": 1019,
+            "amount": 4
+          }
+        ],
+        "produce": [
+          {
+            "id": 2019,
+            "amount": 32
+          }
+        ],
+        "extra_produce": null,
+        "hp": 0,
+        "base_time": "02:30:00",
+        "workload": 90000,
+        "base_efficiency": 10,
+        "is_condition": false,
+        "needs_unlock": true,
+        "is_combo": false,
+        "event": null
+      },
+      {
+        "id": 501005,
+        "stamina": 12,
+        "item_id": 2020,
+        "item_name": "Lemon",
+        "production_limit": 8,
+        "exp": 60,
+        "pts": 0,
+        "attribute": "plant",
+        "cost": [
+          {
+            "id": 1020,
+            "amount": 4
+          }
+        ],
+        "produce": [
+          {
+            "id": 2020,
+            "amount": 48
+          }
+        ],
+        "extra_produce": null,
+        "hp": 0,
+        "base_time": "01:00:00",
+        "workload": 36000,
+        "base_efficiency": 10,
+        "is_condition": false,
+        "needs_unlock": true,
+        "is_combo": false,
+        "event": null
+      },
+      {
         "id": 501006,
-        "stamina": 72,
+        "stamina": 40,
         "item_id": 2021,
         "item_name": "Avocado",
         "production_limit": 5,
-        "exp": 360,
+        "exp": 200,
         "pts": 0,
         "attribute": "plant",
         "cost": [
           {
             "id": 1021,
-            "amount": 1
+            "amount": 4
           }
         ],
         "produce": [
           {
             "id": 2021,
-            "amount": 4
+            "amount": 16
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "06:00:00",
-        "workload": 216000,
+        "base_time": "03:20:00",
+        "workload": 120000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -1384,29 +1384,29 @@
       },
       {
         "id": 501007,
-        "stamina": 98,
+        "stamina": 32,
         "item_id": 2022,
         "item_name": "Rubber",
         "production_limit": 5,
-        "exp": 490,
+        "exp": 160,
         "pts": 0,
         "attribute": "plant",
         "cost": [
           {
             "id": 1022,
-            "amount": 1
+            "amount": 4
           }
         ],
         "produce": [
           {
             "id": 2022,
-            "amount": 8
+            "amount": 32
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "08:10:00",
-        "workload": 294000,
+        "base_time": "02:40:00",
+        "workload": 96000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -1500,8 +1500,8 @@
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "01:20:00",
-        "workload": 48000,
+        "base_time": "00:50:00",
+        "workload": 30000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": false,
@@ -1531,8 +1531,8 @@
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "01:46:40",
-        "workload": 64000,
+        "base_time": "00:50:00",
+        "workload": 30000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -1562,8 +1562,8 @@
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "02:13:20",
-        "workload": 80000,
+        "base_time": "01:06:40",
+        "workload": 40000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -1588,13 +1588,13 @@
         "produce": [
           {
             "id": 2019,
-            "amount": 6
+            "amount": 8
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "03:20:00",
-        "workload": 120000,
+        "base_time": "01:40:00",
+        "workload": 60000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -1624,8 +1624,8 @@
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "01:06:40",
-        "workload": 40000,
+        "base_time": "00:40:00",
+        "workload": 24000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -1655,8 +1655,8 @@
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "04:00:00",
-        "workload": 144000,
+        "base_time": "02:13:20",
+        "workload": 80000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -1686,8 +1686,8 @@
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "05:26:40",
-        "workload": 196000,
+        "base_time": "01:46:40",
+        "workload": 64000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -1768,29 +1768,29 @@
     "recipes": [
       {
         "id": 502001,
-        "stamina": 14,
+        "stamina": 8,
         "item_id": 2010,
         "item_name": "Flax",
-        "production_limit": 5,
-        "exp": 70,
+        "production_limit": 12,
+        "exp": 40,
         "pts": 0,
         "attribute": "plant",
         "cost": [
           {
             "id": 1010,
-            "amount": 1
+            "amount": 3
           }
         ],
         "produce": [
           {
             "id": 2010,
-            "amount": 3
+            "amount": 18
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "01:10:00",
-        "workload": 42000,
+        "base_time": "00:40:00",
+        "workload": 24000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": false,
@@ -1799,54 +1799,23 @@
       },
       {
         "id": 502002,
-        "stamina": 32,
+        "stamina": 18,
         "item_id": 2011,
         "item_name": "Strawberries",
-        "production_limit": 5,
-        "exp": 160,
-        "pts": 0,
-        "attribute": "plant",
-        "cost": [
-          {
-            "id": 1011,
-            "amount": 1
-          }
-        ],
-        "produce": [
-          {
-            "id": 2011,
-            "amount": 9
-          }
-        ],
-        "extra_produce": null,
-        "hp": 0,
-        "base_time": "02:40:00",
-        "workload": 96000,
-        "base_efficiency": 10,
-        "is_condition": false,
-        "needs_unlock": true,
-        "is_combo": false,
-        "event": null
-      },
-      {
-        "id": 502003,
-        "stamina": 18,
-        "item_id": 2012,
-        "item_name": "Cotton",
         "production_limit": 5,
         "exp": 90,
         "pts": 0,
         "attribute": "plant",
         "cost": [
           {
-            "id": 1012,
-            "amount": 1
+            "id": 1011,
+            "amount": 3
           }
         ],
         "produce": [
           {
-            "id": 2012,
-            "amount": 3
+            "id": 2011,
+            "amount": 54
           }
         ],
         "extra_produce": null,
@@ -1860,30 +1829,61 @@
         "event": null
       },
       {
+        "id": 502003,
+        "stamina": 12,
+        "item_id": 2012,
+        "item_name": "Cotton",
+        "production_limit": 8,
+        "exp": 60,
+        "pts": 0,
+        "attribute": "plant",
+        "cost": [
+          {
+            "id": 1012,
+            "amount": 3
+          }
+        ],
+        "produce": [
+          {
+            "id": 2012,
+            "amount": 18
+          }
+        ],
+        "extra_produce": null,
+        "hp": 0,
+        "base_time": "01:00:00",
+        "workload": 36000,
+        "base_efficiency": 10,
+        "is_condition": false,
+        "needs_unlock": true,
+        "is_combo": false,
+        "event": null
+      },
+      {
         "id": 502004,
-        "stamina": 60,
+        "stamina": 18,
         "item_id": 2014,
         "item_name": "Tea Leaves",
         "production_limit": 5,
-        "exp": 300,
+        "exp": 90,
         "pts": 0,
         "attribute": "plant",
         "cost": [
           {
             "id": 1014,
-            "amount": 1
+            "amount": 3
           }
         ],
         "produce": [
           {
             "id": 2014,
-            "amount": 9
+            "amount": 36
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "05:00:00",
-        "workload": 180000,
+        "base_time": "01:30:00",
+        "workload": 54000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -1892,29 +1892,29 @@
       },
       {
         "id": 502005,
-        "stamina": 100,
+        "stamina": 36,
         "item_id": 2015,
         "item_name": "Lavender",
         "production_limit": 5,
-        "exp": 500,
+        "exp": 180,
         "pts": 0,
         "attribute": "plant",
         "cost": [
           {
             "id": 1015,
-            "amount": 1
+            "amount": 3
           }
         ],
         "produce": [
           {
             "id": 2015,
-            "amount": 6
+            "amount": 24
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "08:20:00",
-        "workload": 300000,
+        "base_time": "03:00:00",
+        "workload": 108000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -1923,29 +1923,29 @@
       },
       {
         "id": 502006,
-        "stamina": 24,
+        "stamina": 8,
         "item_id": 2004,
         "item_name": "Carrot",
-        "production_limit": 5,
-        "exp": 120,
+        "production_limit": 12,
+        "exp": 40,
         "pts": 0,
         "attribute": "plant",
         "cost": [
           {
             "id": 1004,
-            "amount": 1
+            "amount": 3
           }
         ],
         "produce": [
           {
             "id": 2004,
-            "amount": 9
+            "amount": 36
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "02:00:00",
-        "workload": 72000,
+        "base_time": "00:40:00",
+        "workload": 24000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -1954,29 +1954,29 @@
       },
       {
         "id": 502007,
-        "stamina": 48,
+        "stamina": 18,
         "item_id": 2007,
         "item_name": "Onion",
         "production_limit": 5,
-        "exp": 240,
+        "exp": 90,
         "pts": 0,
         "attribute": "plant",
         "cost": [
           {
             "id": 1007,
-            "amount": 1
+            "amount": 3
           }
         ],
         "produce": [
           {
             "id": 2007,
-            "amount": 3
+            "amount": 12
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "04:00:00",
-        "workload": 144000,
+        "base_time": "01:30:00",
+        "workload": 54000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -2003,13 +2003,13 @@
         "produce": [
           {
             "id": 2010,
-            "amount": 3
+            "amount": 6
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "00:46:40",
-        "workload": 28000,
+        "base_time": "00:26:40",
+        "workload": 16000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": false,
@@ -2034,13 +2034,13 @@
         "produce": [
           {
             "id": 2011,
-            "amount": 9
+            "amount": 18
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "01:46:40",
-        "workload": 64000,
+        "base_time": "01:00:00",
+        "workload": 36000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -2065,13 +2065,13 @@
         "produce": [
           {
             "id": 2012,
-            "amount": 3
+            "amount": 6
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "01:00:00",
-        "workload": 36000,
+        "base_time": "00:40:00",
+        "workload": 24000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -2096,13 +2096,13 @@
         "produce": [
           {
             "id": 2014,
-            "amount": 9
+            "amount": 12
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "03:20:00",
-        "workload": 120000,
+        "base_time": "01:00:00",
+        "workload": 36000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -2127,13 +2127,13 @@
         "produce": [
           {
             "id": 2015,
-            "amount": 6
+            "amount": 8
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "05:33:20",
-        "workload": 200000,
+        "base_time": "02:00:00",
+        "workload": 72000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -2158,13 +2158,13 @@
         "produce": [
           {
             "id": 2004,
-            "amount": 9
+            "amount": 12
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "01:20:00",
-        "workload": 48000,
+        "base_time": "00:26:40",
+        "workload": 16000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -2189,13 +2189,13 @@
         "produce": [
           {
             "id": 2007,
-            "amount": 3
+            "amount": 4
           }
         ],
         "extra_produce": null,
         "hp": 0,
-        "base_time": "02:40:00",
-        "workload": 96000,
+        "base_time": "01:00:00",
+        "workload": 36000,
         "base_efficiency": 10,
         "is_condition": false,
         "needs_unlock": true,
@@ -2248,7 +2248,7 @@
         "stamina": 16,
         "item_id": 3012,
         "item_name": "Tofu with Minced Meat",
-        "production_limit": 5,
+        "production_limit": 6,
         "exp": 80,
         "pts": 0,
         "attribute": "cooking",
@@ -2283,7 +2283,7 @@
         "stamina": 8,
         "item_id": 3013,
         "item_name": "Omurice",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 40,
         "pts": 0,
         "attribute": "cooking",
@@ -2318,7 +2318,7 @@
         "stamina": 12,
         "item_id": 3014,
         "item_name": "Cabbage and Tofu Soup",
-        "production_limit": 5,
+        "production_limit": 8,
         "exp": 60,
         "pts": 0,
         "attribute": "cooking",
@@ -2353,7 +2353,7 @@
         "stamina": 4,
         "item_id": 3015,
         "item_name": "Vegetable Salad",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 20,
         "pts": 0,
         "attribute": "cooking",
@@ -2392,7 +2392,7 @@
         "stamina": 2,
         "item_id": 3101,
         "item_name": "Classic Tofu Combo",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 10,
         "pts": 0,
         "attribute": "cooking",
@@ -2427,7 +2427,7 @@
         "stamina": 2,
         "item_id": 3102,
         "item_name": "Hearty Meal",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 10,
         "pts": 0,
         "attribute": "cooking",
@@ -2539,7 +2539,7 @@
         "stamina": 4,
         "item_id": 3017,
         "item_name": "Apple Juice",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 20,
         "pts": 0,
         "attribute": "cooking",
@@ -2570,7 +2570,7 @@
         "stamina": 6,
         "item_id": 3018,
         "item_name": "Banana and Mango Juice",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 30,
         "pts": 0,
         "attribute": "cooking",
@@ -2605,7 +2605,7 @@
         "stamina": 4,
         "item_id": 3019,
         "item_name": "Honey and Lemon Water",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 20,
         "pts": 0,
         "attribute": "cooking",
@@ -2640,7 +2640,7 @@
         "stamina": 8,
         "item_id": 3020,
         "item_name": "Strawberry Lemon Drink",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 40,
         "pts": 0,
         "attribute": "cooking",
@@ -2675,7 +2675,7 @@
         "stamina": 16,
         "item_id": 3021,
         "item_name": "Lavender Tea",
-        "production_limit": 5,
+        "production_limit": 6,
         "exp": 80,
         "pts": 0,
         "attribute": "cooking",
@@ -2710,7 +2710,7 @@
         "stamina": 12,
         "item_id": 3022,
         "item_name": "Strawberry Honey Frappé",
-        "production_limit": 5,
+        "production_limit": 8,
         "exp": 60,
         "pts": 0,
         "attribute": "cooking",
@@ -2745,7 +2745,7 @@
         "stamina": 2,
         "item_id": 3103,
         "item_name": "Floral and Fruity",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 10,
         "pts": 0,
         "attribute": "cooking",
@@ -2780,7 +2780,7 @@
         "stamina": 2,
         "item_id": 3104,
         "item_name": "Colorful Fruit Paradise",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 10,
         "pts": 0,
         "attribute": "cooking",
@@ -2815,7 +2815,7 @@
         "stamina": 2,
         "item_id": 3105,
         "item_name": "Sunny Honey",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 10,
         "pts": 0,
         "attribute": "cooking",
@@ -2927,7 +2927,7 @@
         "stamina": 2,
         "item_id": 3023,
         "item_name": "Corn Cup",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 10,
         "pts": 0,
         "attribute": "cooking",
@@ -2962,7 +2962,7 @@
         "stamina": 12,
         "item_id": 3009,
         "item_name": "Apple Pie",
-        "production_limit": 5,
+        "production_limit": 8,
         "exp": 60,
         "pts": 0,
         "attribute": "cooking",
@@ -2997,7 +2997,7 @@
         "stamina": 12,
         "item_id": 3024,
         "item_name": "Orange Pie",
-        "production_limit": 5,
+        "production_limit": 8,
         "exp": 60,
         "pts": 0,
         "attribute": "cooking",
@@ -3032,7 +3032,7 @@
         "stamina": 8,
         "item_id": 3025,
         "item_name": "Sticky Rice with Mango",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 40,
         "pts": 0,
         "attribute": "cooking",
@@ -3067,7 +3067,7 @@
         "stamina": 6,
         "item_id": 3026,
         "item_name": "Banana Crêpe",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 30,
         "pts": 0,
         "attribute": "cooking",
@@ -3102,7 +3102,7 @@
         "stamina": 14,
         "item_id": 3028,
         "item_name": "Strawberry Charlotte",
-        "production_limit": 5,
+        "production_limit": 6,
         "exp": 70,
         "pts": 0,
         "attribute": "cooking",
@@ -3141,7 +3141,7 @@
         "stamina": 2,
         "item_id": 3106,
         "item_name": "Succulently Sweet",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 10,
         "pts": 0,
         "attribute": "cooking",
@@ -3176,7 +3176,7 @@
         "stamina": 2,
         "item_id": 3107,
         "item_name": "Orchard Duo",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 10,
         "pts": 0,
         "attribute": "cooking",
@@ -3211,7 +3211,7 @@
         "stamina": 2,
         "item_id": 3108,
         "item_name": "Berry and Orange Dessert",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 10,
         "pts": 0,
         "attribute": "cooking",
@@ -3257,7 +3257,7 @@
         "stamina": 8,
         "item_id": 3029,
         "item_name": "Coal-Roasted Skewer",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 40,
         "pts": 0,
         "attribute": "cooking",
@@ -3288,7 +3288,7 @@
         "stamina": 12,
         "item_id": 3030,
         "item_name": "Chicken and Potato Hors d'Oeuvre",
-        "production_limit": 5,
+        "production_limit": 8,
         "exp": 60,
         "pts": 0,
         "attribute": "cooking",
@@ -3323,7 +3323,7 @@
         "stamina": 10,
         "item_id": 3032,
         "item_name": "Stir-Fried Chicken",
-        "production_limit": 5,
+        "production_limit": 9,
         "exp": 50,
         "pts": 0,
         "attribute": "cooking",
@@ -3358,7 +3358,7 @@
         "stamina": 4,
         "item_id": 3033,
         "item_name": "Rolled Carrot Omelette",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 20,
         "pts": 0,
         "attribute": "cooking",
@@ -3393,7 +3393,7 @@
         "stamina": 10,
         "item_id": 3034,
         "item_name": "Steak Bowl",
-        "production_limit": 5,
+        "production_limit": 9,
         "exp": 50,
         "pts": 0,
         "attribute": "cooking",
@@ -3432,7 +3432,7 @@
         "stamina": 2,
         "item_id": 3109,
         "item_name": "The Carne-val",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 10,
         "pts": 0,
         "attribute": "cooking",
@@ -3467,7 +3467,7 @@
         "stamina": 2,
         "item_id": 3110,
         "item_name": "Double Energy Combo",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 10,
         "pts": 0,
         "attribute": "cooking",
@@ -3523,7 +3523,7 @@
         "stamina": 12,
         "item_id": 3048,
         "item_name": "Paper",
-        "production_limit": 5,
+        "production_limit": 8,
         "exp": 60,
         "pts": 0,
         "attribute": "machinery",
@@ -3705,7 +3705,7 @@
         "stamina": 12,
         "item_id": 3042,
         "item_name": "Charcoal Brush",
-        "production_limit": 5,
+        "production_limit": 8,
         "exp": 60,
         "pts": 0,
         "attribute": "machinery",
@@ -4077,7 +4077,7 @@
         "stamina": 6,
         "item_id": 3035,
         "item_name": "Cloth",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 30,
         "pts": 0,
         "attribute": "machinery",
@@ -4283,7 +4283,7 @@
         "stamina": 16,
         "item_id": 3041,
         "item_name": "Wound Dressings",
-        "production_limit": 5,
+        "production_limit": 6,
         "exp": 80,
         "pts": 0,
         "attribute": "machinery",
@@ -4399,7 +4399,7 @@
         "stamina": 2,
         "item_id": 3059,
         "item_name": "Omelette",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 10,
         "pts": 0,
         "attribute": "cooking",
@@ -4430,7 +4430,7 @@
         "stamina": 6,
         "item_id": 3005,
         "item_name": "Iced Coffee",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 30,
         "pts": 0,
         "attribute": "cooking",
@@ -4492,7 +4492,7 @@
         "stamina": 8,
         "item_id": 3007,
         "item_name": "Latte",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 40,
         "pts": 0,
         "attribute": "cooking",
@@ -4527,7 +4527,7 @@
         "stamina": 6,
         "item_id": 3008,
         "item_name": "Citrus Coffee",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 30,
         "pts": 0,
         "attribute": "cooking",
@@ -4562,7 +4562,7 @@
         "stamina": 8,
         "item_id": 3010,
         "item_name": "Strawberry Milkshake",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 40,
         "pts": 0,
         "attribute": "cooking",
@@ -4601,7 +4601,7 @@
         "stamina": 2,
         "item_id": 3111,
         "item_name": "Morning Light Energy Combo",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 10,
         "pts": 0,
         "attribute": "cooking",
@@ -4636,7 +4636,7 @@
         "stamina": 2,
         "item_id": 3112,
         "item_name": "The Wake-Up Call",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 10,
         "pts": 0,
         "attribute": "cooking",
@@ -4671,7 +4671,7 @@
         "stamina": 2,
         "item_id": 3113,
         "item_name": "Fruity & Fruitier",
-        "production_limit": 5,
+        "production_limit": 12,
         "exp": 10,
         "pts": 0,
         "attribute": "cooking",

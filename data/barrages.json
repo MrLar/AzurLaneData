@@ -84406,6 +84406,101 @@
       ]
     }
   ],
+  "902350": [
+    {
+      "name": "Rapid Response",
+      "parts": [
+        {
+          "damage": 69,
+          "coefficient": 1,
+          "count": 5,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 5,
+          "is_critical": false,
+          "notes": [
+            "AA Gun reload of 0.60s"
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            30
+          ],
+          "aim_type": 1,
+          "angle": 180,
+          "splash": 0,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            20,
+            40
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "is_air": true,
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169570,
+          "weapon_type": 4,
+          "bullet_type": 6,
+          "bullet_id": 2100,
+          "type": "weapon"
+        },
+        {
+          "damage": 40,
+          "coefficient": 1,
+          "count": 3,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 5,
+          "is_critical": false,
+          "notes": [
+            "AA Gun reload of 0.66s"
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            36
+          ],
+          "aim_type": 1,
+          "angle": 80,
+          "splash": 0,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            20,
+            40
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "is_air": true,
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169580,
+          "weapon_type": 4,
+          "bullet_type": 6,
+          "bullet_id": 2100,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "1005070": [
     {
       "name": "Chevalier's Bouclier+",
@@ -87507,6 +87602,56 @@
           "bullet_type": 3,
           "bullet_id": 19987,
           "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "1011910": [
+    {
+      "name": "Patriotic Spirit+",
+      "parts": [
+        {
+          "damage": 100,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.4,
+            1.1,
+            0.5
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 1,
+          "angle": 45,
+          "splash": 7,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            12,
+            5
+          ],
+          "is_air": true,
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169550,
+          "weapon_type": 3,
+          "bullet_type": 2,
+          "bullet_id": 170898,
+          "type": "weapon",
+          "airdrop": true
         }
       ]
     }

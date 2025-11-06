@@ -1101,6 +1101,18 @@
         "name": "Elite Pool",
         "items": [
           {
+            "id": 154,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/shenxue",
+            "name": "Miyuki",
+            "limit": -1,
+            "cost": 8000
+          },
+          {
             "id": 612,
             "type": 2,
             "amount": -1,

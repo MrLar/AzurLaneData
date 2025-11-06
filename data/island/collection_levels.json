@@ -748,5 +748,335 @@
       "name": "Gems"
     },
     "description": "6000 Collection Pt. Total: 50 Gems"
+  },
+  "2001": {
+    "id": 2001,
+    "level": 1,
+    "reward": {
+      "id": 1,
+      "type": 41,
+      "linkable": true,
+      "rarity": 2,
+      "amount": 2000,
+      "blueprint": false,
+      "icon": "island/props/1",
+      "name": "Development Funds"
+    },
+    "description": "20 Collection Pt. Total: 2000 Development Funds"
+  },
+  "2002": {
+    "id": 2002,
+    "level": 2,
+    "reward": {
+      "id": 100001,
+      "type": 41,
+      "linkable": true,
+      "rarity": 3,
+      "amount": 10,
+      "blueprint": false,
+      "icon": "island/props/item_100001",
+      "name": "Island EXP Textbook T1"
+    },
+    "description": "40 Collection Pt. Total: 10 T1 Island EXP Textbooks"
+  },
+  "2003": {
+    "id": 2003,
+    "level": 3,
+    "reward": {
+      "id": 1,
+      "type": 41,
+      "linkable": true,
+      "rarity": 2,
+      "amount": 2000,
+      "blueprint": false,
+      "icon": "island/props/1",
+      "name": "Development Funds"
+    },
+    "description": "60 Collection Pt. Total: 2000 Development Funds"
+  },
+  "2004": {
+    "id": 2004,
+    "level": 4,
+    "reward": {
+      "id": 100001,
+      "type": 41,
+      "linkable": true,
+      "rarity": 3,
+      "amount": 10,
+      "blueprint": false,
+      "icon": "island/props/item_100001",
+      "name": "Island EXP Textbook T1"
+    },
+    "description": "80 Collection Pt. Total: 10 T1 Island EXP Textbooks"
+  },
+  "2005": {
+    "id": 2005,
+    "level": 5,
+    "reward": {
+      "id": 1,
+      "type": 41,
+      "linkable": true,
+      "rarity": 2,
+      "amount": 2000,
+      "blueprint": false,
+      "icon": "island/props/1",
+      "name": "Development Funds"
+    },
+    "description": "100 Collection Pt. Total: 2000 Development Funds"
+  },
+  "2006": {
+    "id": 2006,
+    "level": 6,
+    "reward": {
+      "id": 100002,
+      "type": 41,
+      "linkable": true,
+      "rarity": 4,
+      "amount": 10,
+      "blueprint": false,
+      "icon": "island/props/item_100002",
+      "name": "Island EXP Textbook T2"
+    },
+    "description": "120 Collection Pt. Total: 10 T2 Island EXP Textbooks"
+  },
+  "2007": {
+    "id": 2007,
+    "level": 7,
+    "reward": {
+      "id": 1,
+      "type": 41,
+      "linkable": true,
+      "rarity": 2,
+      "amount": 5000,
+      "blueprint": false,
+      "icon": "island/props/1",
+      "name": "Development Funds"
+    },
+    "description": "160 Collection Pt. Total: 5000 Development Funds"
+  },
+  "2008": {
+    "id": 2008,
+    "level": 8,
+    "reward": {
+      "id": 100002,
+      "type": 41,
+      "linkable": true,
+      "rarity": 4,
+      "amount": 10,
+      "blueprint": false,
+      "icon": "island/props/item_100002",
+      "name": "Island EXP Textbook T2"
+    },
+    "description": "200 Collection Pt. Total: 10 T2 Island EXP Textbooks"
+  },
+  "2009": {
+    "id": 2009,
+    "level": 9,
+    "reward": {
+      "id": 1,
+      "type": 41,
+      "linkable": true,
+      "rarity": 2,
+      "amount": 5000,
+      "blueprint": false,
+      "icon": "island/props/1",
+      "name": "Development Funds"
+    },
+    "description": "240 Collection Pt. Total: 5000 Development Funds"
+  },
+  "2010": {
+    "id": 2010,
+    "level": 10,
+    "reward": {
+      "id": 100002,
+      "type": 41,
+      "linkable": true,
+      "rarity": 4,
+      "amount": 10,
+      "blueprint": false,
+      "icon": "island/props/item_100002",
+      "name": "Island EXP Textbook T2"
+    },
+    "description": "300 Collection Pt. Total: 10 T2 Island EXP Textbooks"
+  },
+  "3001": {
+    "id": 3001,
+    "level": 1,
+    "reward": {
+      "id": 1,
+      "type": 41,
+      "linkable": true,
+      "rarity": 2,
+      "amount": 2000,
+      "blueprint": false,
+      "icon": "island/props/1",
+      "name": "Development Funds"
+    },
+    "description": "20 Collection Pt. Total: 2000 Development Funds"
+  },
+  "3002": {
+    "id": 3002,
+    "level": 2,
+    "reward": {
+      "id": 100001,
+      "type": 41,
+      "linkable": true,
+      "rarity": 3,
+      "amount": 10,
+      "blueprint": false,
+      "icon": "island/props/item_100001",
+      "name": "Island EXP Textbook T1"
+    },
+    "description": "60 Collection Pt. Total: 10 T1 Island EXP Textbooks"
+  },
+  "3003": {
+    "id": 3003,
+    "level": 3,
+    "reward": {
+      "id": 1,
+      "type": 41,
+      "linkable": true,
+      "rarity": 2,
+      "amount": 2000,
+      "blueprint": false,
+      "icon": "island/props/1",
+      "name": "Development Funds"
+    },
+    "description": "100 Collection Pt. Total: 2000 Development Funds"
+  },
+  "3004": {
+    "id": 3004,
+    "level": 4,
+    "reward": {
+      "id": 100001,
+      "type": 41,
+      "linkable": true,
+      "rarity": 3,
+      "amount": 10,
+      "blueprint": false,
+      "icon": "island/props/item_100001",
+      "name": "Island EXP Textbook T1"
+    },
+    "description": "200 Collection Pt. Total: 10 T1 Island EXP Textbooks"
+  },
+  "3005": {
+    "id": 3005,
+    "level": 5,
+    "reward": {
+      "id": 1,
+      "type": 41,
+      "linkable": true,
+      "rarity": 2,
+      "amount": 5000,
+      "blueprint": false,
+      "icon": "island/props/1",
+      "name": "Development Funds"
+    },
+    "description": "400 Collection Pt. Total: 5000 Development Funds"
+  },
+  "3006": {
+    "id": 3006,
+    "level": 6,
+    "reward": {
+      "id": 100002,
+      "type": 41,
+      "linkable": true,
+      "rarity": 4,
+      "amount": 10,
+      "blueprint": false,
+      "icon": "island/props/item_100002",
+      "name": "Island EXP Textbook T2"
+    },
+    "description": "600 Collection Pt. Total: 10 T2 Island EXP Textbooks"
+  },
+  "3007": {
+    "id": 3007,
+    "level": 7,
+    "reward": {
+      "id": 1,
+      "type": 41,
+      "linkable": true,
+      "rarity": 2,
+      "amount": 5000,
+      "blueprint": false,
+      "icon": "island/props/1",
+      "name": "Development Funds"
+    },
+    "description": "1000 Collection Pt. Total: 5000 Development Funds"
+  },
+  "3008": {
+    "id": 3008,
+    "level": 8,
+    "reward": {
+      "id": 100201,
+      "type": 41,
+      "linkable": true,
+      "rarity": 4,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/item_100201",
+      "name": "Island Development Gem"
+    },
+    "description": "1500 Collection Pt. Total: Island Development Gem"
+  },
+  "3009": {
+    "id": 3009,
+    "level": 9,
+    "reward": {
+      "id": 1,
+      "type": 41,
+      "linkable": true,
+      "rarity": 2,
+      "amount": 10000,
+      "blueprint": false,
+      "icon": "island/props/1",
+      "name": "Development Funds"
+    },
+    "description": "2000 Collection Pt. Total: 10,000 Development Funds"
+  },
+  "3010": {
+    "id": 3010,
+    "level": 10,
+    "reward": {
+      "id": 3,
+      "type": 41,
+      "linkable": true,
+      "rarity": 2,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "island/props/3",
+      "name": "Outfit Colors"
+    },
+    "description": "2500 Collection Pt. Total: Outfit Colors"
+  },
+  "3011": {
+    "id": 3011,
+    "level": 11,
+    "reward": {
+      "id": 1,
+      "type": 41,
+      "linkable": true,
+      "rarity": 2,
+      "amount": 10000,
+      "blueprint": false,
+      "icon": "island/props/1",
+      "name": "Development Funds"
+    },
+    "description": "3000 Collection Pt. Total: 10,000 Development Funds"
+  },
+  "3012": {
+    "id": 3012,
+    "level": 12,
+    "reward": {
+      "id": 180001,
+      "type": 0,
+      "linkable": true,
+      "rarity": 6,
+      "amount": 1,
+      "blueprint": false,
+      "icon": "props/gift01",
+      "name": "Limited-Edition Coin"
+    },
+    "description": "4000 Collection Pt. Total: Premium Gift"
   }
 }

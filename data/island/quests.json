@@ -5598,7 +5598,7 @@
   },
   "20013000": {
     "id": 20013000,
-    "type": 2,
+    "type": 9,
     "name": "Raise the Island Development Level",
     "series": "Raise the Island Development Level",
     "description": "Raise the Island Development Level",
@@ -5960,7 +5960,7 @@
     "id": 20015001,
     "type": 2,
     "name": "Let's Get Started!",
-    "series": "Development Season",
+    "series": "Island Season",
     "description": "It's time to develop the island! Peary is putting together a resource plan. Go see her.",
     "conditions": [
       {
@@ -6005,7 +6005,7 @@
     "id": 20015002,
     "type": 2,
     "name": "Great Island Development",
-    "series": "Development Season",
+    "series": "Island Season",
     "description": "It's the season of hard work! Get out there and develop the island!",
     "conditions": [
       {
@@ -7959,7 +7959,7 @@
     "targets": [
       {
         "text": "Obtain Development Funds.",
-        "amount": 400000
+        "amount": 120000
       }
     ],
     "exp": 500,
@@ -7973,6 +7973,41 @@
         "blueprint": false,
         "icon": "island/props/item_100103",
         "name": "Production Textbook T3"
+      }
+    ]
+  },
+  "50000001": {
+    "id": 50000001,
+    "type": 5,
+    "name": "Improvement in Progress",
+    "series": "Island Season",
+    "description": "The island's development has run into trouble. Peary seems to be in an infinite loop of redoing things. You should go check on her.",
+    "conditions": [
+      {
+        "type": 2,
+        "ids": [
+          20015002
+        ]
+      }
+    ],
+    "event": true,
+    "targets": [
+      {
+        "text": "Go see Peary.",
+        "amount": 1
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 1,
+        "type": 41,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 2000,
+        "blueprint": false,
+        "icon": "island/props/1",
+        "name": "Development Funds"
       }
     ]
   },
@@ -8849,6 +8884,1316 @@
   "80001001": {
     "id": 80001001,
     "type": 8,
+    "name": "Watching the Fields (Expired)",
+    "series": "Misc.",
+    "description": "Supply wheat to Island Warehouse to bolster food stores.\nDeliver 500 Wheat.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Deliver 500 Wheat.",
+        "amount": 500
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100003,
+        "type": 41,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100003",
+        "name": "Island EXP Textbook T3"
+      },
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 170000,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/170000",
+        "name": "Stellar Tickets"
+      }
+    ]
+  },
+  "80001002": {
+    "id": 80001002,
+    "type": 8,
+    "name": "The Beasts Hunger (Expired)",
+    "series": "Misc.",
+    "description": "Supply fresh grass to the pasture for animal feed.\nDeliver 500 Grass.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Deliver 500 Grass.",
+        "amount": 500
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100003,
+        "type": 41,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100003",
+        "name": "Island EXP Textbook T3"
+      },
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 170000,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/170000",
+        "name": "Stellar Tickets"
+      }
+    ]
+  },
+  "80001003": {
+    "id": 80001003,
+    "type": 8,
+    "name": "Beans or Bust (Expired)",
+    "series": "Misc.",
+    "description": "Supply high-protein soy beans to enrich food processing.\nDeliver 500 Soy Beans.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Deliver 500 Soy Beans.",
+        "amount": 500
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100003,
+        "type": 41,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100003",
+        "name": "Island EXP Textbook T3"
+      },
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 170000,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/170000",
+        "name": "Stellar Tickets"
+      }
+    ]
+  },
+  "80001004": {
+    "id": 80001004,
+    "type": 8,
+    "name": "More Rice! (Expired)",
+    "series": "Misc.",
+    "description": "A stable supply of staple foods is necessary for development.\nDeliver 500 Rice.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Deliver 500 Rice.",
+        "amount": 500
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100003,
+        "type": 41,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100003",
+        "name": "Island EXP Textbook T3"
+      },
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 170000,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/170000",
+        "name": "Stellar Tickets"
+      }
+    ]
+  },
+  "80001005": {
+    "id": 80001005,
+    "type": 8,
+    "name": "Golden Granary (Expired)",
+    "series": "Misc.",
+    "description": "Supply vast cobs of corn to add variety to the islanders' diets.\nDeliver 500 Corn.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Deliver 500 Corn.",
+        "amount": 500
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100003,
+        "type": 41,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100003",
+        "name": "Island EXP Textbook T3"
+      },
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 170000,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/170000",
+        "name": "Stellar Tickets"
+      }
+    ]
+  },
+  "80001006": {
+    "id": 80001006,
+    "type": 8,
+    "name": "The Juiciest of Oranges (Expired)",
+    "series": "Misc.",
+    "description": "Supply carrots to support vitamin intake and health.\nDeliver 250 Carrots.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Deliver 250 Carrots.",
+        "amount": 250
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100003,
+        "type": 41,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100003",
+        "name": "Island EXP Textbook T3"
+      },
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 170000,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/170000",
+        "name": "Stellar Tickets"
+      }
+    ]
+  },
+  "80001007": {
+    "id": 80001007,
+    "type": 8,
+    "name": "Donations of Dairy (Expired)",
+    "series": "Misc.",
+    "description": "Supply milk to bolster calcium intake.\nDeliver 250 Milk.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Deliver 250 Milk.",
+        "amount": 250
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100003,
+        "type": 41,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100003",
+        "name": "Island EXP Textbook T3"
+      },
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 170000,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/170000",
+        "name": "Stellar Tickets"
+      }
+    ]
+  },
+  "80001008": {
+    "id": 80001008,
+    "type": 8,
+    "name": "Sugar in the Tank (Expired)",
+    "series": "Misc.",
+    "description": "Supply apple pies to increase development efficiency.\nDeliver 250 Apple Pies.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Deliver 250 Apple Pies.",
+        "amount": 250
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100003,
+        "type": 41,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100003",
+        "name": "Island EXP Textbook T3"
+      },
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 170000,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/170000",
+        "name": "Stellar Tickets"
+      }
+    ]
+  },
+  "80001009": {
+    "id": 80001009,
+    "type": 8,
+    "name": "Needs More Coffee (Expired)",
+    "series": "Misc.",
+    "description": "Feed that addiction and maintain morale with iced coffee.\nDeliver 250 Iced Coffee.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Deliver 250 Iced Coffee.",
+        "amount": 250
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100003,
+        "type": 41,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100003",
+        "name": "Island EXP Textbook T3"
+      },
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 170000,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/170000",
+        "name": "Stellar Tickets"
+      }
+    ]
+  },
+  "80001010": {
+    "id": 80001010,
+    "type": 8,
+    "name": "Meat Is Energy (Expired)",
+    "series": "Misc.",
+    "description": "Supply coal-roasted skewers for quick re-energizing.\nDeliver 250 Coal-Roasted Skewers.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Deliver 250 Coal-Roasted Skewers.",
+        "amount": 250
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100003,
+        "type": 41,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100003",
+        "name": "Island EXP Textbook T3"
+      },
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 170000,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/170000",
+        "name": "Stellar Tickets"
+      }
+    ]
+  },
+  "80001011": {
+    "id": 80001011,
+    "type": 8,
+    "name": "Basic Seasoning (Expired)",
+    "series": "Misc.",
+    "description": "Supply onions to enhance the flavors of meals.\nDeliver 100 Onions.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Deliver 100 Onions.",
+        "amount": 100
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100003,
+        "type": 41,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100003",
+        "name": "Island EXP Textbook T3"
+      },
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 170000,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/170000",
+        "name": "Stellar Tickets"
+      }
+    ]
+  },
+  "80001012": {
+    "id": 80001012,
+    "type": 8,
+    "name": "A Healthy Menu (Expired)",
+    "series": "Misc.",
+    "description": "Make vegetable salads for nutritious and delicious meals.\nDeliver 100 Vegetable Salads.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Deliver 100 Vegetable Salads.",
+        "amount": 100
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100003,
+        "type": 41,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100003",
+        "name": "Island EXP Textbook T3"
+      },
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 170000,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/170000",
+        "name": "Stellar Tickets"
+      }
+    ]
+  },
+  "80001013": {
+    "id": 80001013,
+    "type": 8,
+    "name": "Nutritional Combos (Expired)",
+    "series": "Misc.",
+    "description": "Make tofu with minced meat to meet diverse dietary needs.\nDeliver 100 Tofu with Minced Meat.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Deliver 100 Tofu with Minced Meat.",
+        "amount": 100
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100003,
+        "type": 41,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100003",
+        "name": "Island EXP Textbook T3"
+      },
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 170000,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/170000",
+        "name": "Stellar Tickets"
+      }
+    ]
+  },
+  "80001014": {
+    "id": 80001014,
+    "type": 8,
+    "name": "Latte Time (Expired)",
+    "series": "Misc.",
+    "description": "Supply lattes to increase morale.\nDeliver 100 Lattes.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Deliver 100 Lattes.",
+        "amount": 100
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100003,
+        "type": 41,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100003",
+        "name": "Island EXP Textbook T3"
+      },
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 170000,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/170000",
+        "name": "Stellar Tickets"
+      }
+    ]
+  },
+  "80001015": {
+    "id": 80001015,
+    "type": 8,
+    "name": "Stir-Fry Resupply (Expired)",
+    "series": "Misc.",
+    "description": "Supply stir-fried chicken for tasty and efficient meals.\nDeliver 100 Stir-Fried Chicken.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Deliver 100 Stir-Fried Chicken.",
+        "amount": 100
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100003,
+        "type": 41,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100003",
+        "name": "Island EXP Textbook T3"
+      },
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 170000,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/170000",
+        "name": "Stellar Tickets"
+      }
+    ]
+  },
+  "80001016": {
+    "id": 80001016,
+    "type": 8,
+    "name": "Fast Food (Expired)",
+    "series": "Misc.",
+    "description": "Energize workers with convenient steak bowls.\nDeliver 50 Steak Bowls.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Deliver 50 Steak Bowls.",
+        "amount": 50
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100003,
+        "type": 41,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100003",
+        "name": "Island EXP Textbook T3"
+      },
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 170000,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/170000",
+        "name": "Stellar Tickets"
+      }
+    ]
+  },
+  "80001017": {
+    "id": 80001017,
+    "type": 8,
+    "name": "Your First Receipt (Expired)",
+    "series": "Misc.",
+    "description": "Accept your first daily supplies.\nAccept 1 Daily Supply.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Accept 1 Daily Supply.",
+        "amount": 1
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      }
+    ]
+  },
+  "80001018": {
+    "id": 80001018,
+    "type": 8,
+    "name": "Safely Stored (Expired)",
+    "series": "Misc.",
+    "description": "Fill up that warehouse with three sets of daily supplies.\nAccept 5 Daily Supplies.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Accept 5 Daily Supplies.",
+        "amount": 5
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 100201,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100201",
+        "name": "Island Development Gem"
+      }
+    ]
+  },
+  "80001019": {
+    "id": 80001019,
+    "type": 8,
+    "name": "Regular Resupply (Expired)",
+    "series": "Misc.",
+    "description": "Build a habit of grabbing your daily goodies.\nAccept 10 Daily Supplies.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Accept 10 Daily Supplies.",
+        "amount": 10
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 100201,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "island/props/item_100201",
+        "name": "Island Development Gem"
+      }
+    ]
+  },
+  "80001020": {
+    "id": 80001020,
+    "type": 8,
+    "name": "Efficient Delivery (Expired)",
+    "series": "Misc.",
+    "description": "Free stuff, easy and efficient!\nAccept 20 Daily Supplies.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Accept 20 Daily Supplies.",
+        "amount": 20
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 100101,
+        "type": 41,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 5,
+        "blueprint": false,
+        "icon": "island/props/item_100101",
+        "name": "Production Textbook T1"
+      }
+    ]
+  },
+  "80001021": {
+    "id": 80001021,
+    "type": 8,
+    "name": "Well Stocked (Expired)",
+    "series": "Misc.",
+    "description": "Abundant reserves for a confident settlement!\nAccept 30 Daily Supplies.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Accept 30 Daily Supplies.",
+        "amount": 30
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 100102,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "island/props/item_100102",
+        "name": "Production Textbook T2"
+      }
+    ]
+  },
+  "80001022": {
+    "id": 80001022,
+    "type": 8,
+    "name": "Sustainable Reserves (Expired)",
+    "series": "Misc.",
+    "description": "Steady supplies, a vital resource for this island.\nAccept 45 Daily Supplies.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Accept 45 Daily Supplies.",
+        "amount": 45
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 100102,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 3,
+        "blueprint": false,
+        "icon": "island/props/item_100102",
+        "name": "Production Textbook T2"
+      }
+    ]
+  },
+  "80001023": {
+    "id": 80001023,
+    "type": 8,
+    "name": "Foundation for Development (Expired)",
+    "series": "Misc.",
+    "description": "Regular accumulation of goods has become the basis of your development.\nAccept 60 Daily Supplies.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Accept 60 Daily Supplies.",
+        "amount": 60
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 100103,
+        "type": 41,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 5,
+        "blueprint": false,
+        "icon": "island/props/item_100103",
+        "name": "Production Textbook T3"
+      },
+      {
+        "id": 170000,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/170000",
+        "name": "Stellar Tickets"
+      }
+    ]
+  },
+  "80001024": {
+    "id": 80001024,
+    "type": 8,
+    "name": "Your First Request (Expired)",
+    "series": "Misc.",
+    "description": "You have a basic understanding of requests.\nComplete 10 Island Requests.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Complete 10 Island Requests.",
+        "amount": 10
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      }
+    ]
+  },
+  "80001025": {
+    "id": 80001025,
+    "type": 8,
+    "name": "A Reliable Helper (Expired)",
+    "series": "Misc.",
+    "description": "You're a consistent fulfiller of requests.\nComplete 30 Island Requests.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Complete 30 Island Requests.",
+        "amount": 30
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 100201,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100201",
+        "name": "Island Development Gem"
+      }
+    ]
+  },
+  "80001026": {
+    "id": 80001026,
+    "type": 8,
+    "name": "Firm Support (Expired)",
+    "series": "Misc.",
+    "description": "This development couldn't function without you!\nComplete 50 Island Requests.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Complete 50 Island Requests.",
+        "amount": 50
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 100201,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "island/props/item_100201",
+        "name": "Island Development Gem"
+      }
+    ]
+  },
+  "80001027": {
+    "id": 80001027,
+    "type": 8,
+    "name": "Request Master (Expired)",
+    "series": "Misc.",
+    "description": "You understand people's needs and respond efficiently.\nComplete 100 Island Requests.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Complete 100 Island Requests.",
+        "amount": 100
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 100101,
+        "type": 41,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 5,
+        "blueprint": false,
+        "icon": "island/props/item_100101",
+        "name": "Production Textbook T1"
+      }
+    ]
+  },
+  "80001028": {
+    "id": 80001028,
+    "type": 8,
+    "name": "Pillar of Development (Expired)",
+    "series": "Misc.",
+    "description": "Your continuous support is the very engine of development.\nComplete 150 Island Requests.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Complete 150 Island Requests.",
+        "amount": 150
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 100102,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 5,
+        "blueprint": false,
+        "icon": "island/props/item_100102",
+        "name": "Production Textbook T2"
+      }
+    ]
+  },
+  "80001029": {
+    "id": 80001029,
+    "type": 8,
+    "name": "Core of Development (Expired)",
+    "series": "Misc.",
+    "description": "Nobody is more reliable and beloved than you.\nComplete 200 Island Requests.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Complete 200 Island Requests.",
+        "amount": 200
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 100103,
+        "type": 41,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 5,
+        "blueprint": false,
+        "icon": "island/props/item_100103",
+        "name": "Production Textbook T3"
+      },
+      {
+        "id": 170000,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/170000",
+        "name": "Stellar Tickets"
+      }
+    ]
+  },
+  "80001030": {
+    "id": 80001030,
+    "type": 8,
+    "name": "Foundation for Prosperity",
+    "series": "Misc.",
+    "description": "You carry the heavy burden of development and build a prosperous future.\nComplete 300 Island Requests.",
+    "conditions": [],
+    "event": true,
+    "targets": [
+      {
+        "text": "Complete 300 Island Requests.",
+        "amount": 300
+      }
+    ],
+    "exp": 0,
+    "rewards": [
+      {
+        "id": 100002,
+        "type": 41,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "island/props/item_100002",
+        "name": "Island EXP Textbook T2"
+      },
+      {
+        "id": 100103,
+        "type": 41,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 5,
+        "blueprint": false,
+        "icon": "island/props/item_100103",
+        "name": "Production Textbook T3"
+      },
+      {
+        "id": 170000,
+        "type": 0,
+        "linkable": false,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/170000",
+        "name": "Stellar Tickets"
+      }
+    ]
+  },
+  "80001101": {
+    "id": 80001101,
+    "type": 8,
     "name": "Watching the Fields",
     "series": "Misc.",
     "description": "Supply wheat to Island Warehouse to bolster food stores.\nDeliver 500 Wheat.",
@@ -8894,8 +10239,8 @@
       }
     ]
   },
-  "80001002": {
-    "id": 80001002,
+  "80001102": {
+    "id": 80001102,
     "type": 8,
     "name": "The Beasts Hunger",
     "series": "Misc.",
@@ -8942,8 +10287,8 @@
       }
     ]
   },
-  "80001003": {
-    "id": 80001003,
+  "80001103": {
+    "id": 80001103,
     "type": 8,
     "name": "Beans or Bust",
     "series": "Misc.",
@@ -8990,8 +10335,8 @@
       }
     ]
   },
-  "80001004": {
-    "id": 80001004,
+  "80001104": {
+    "id": 80001104,
     "type": 8,
     "name": "More Rice!",
     "series": "Misc.",
@@ -9038,8 +10383,8 @@
       }
     ]
   },
-  "80001005": {
-    "id": 80001005,
+  "80001105": {
+    "id": 80001105,
     "type": 8,
     "name": "Golden Granary",
     "series": "Misc.",
@@ -9086,8 +10431,8 @@
       }
     ]
   },
-  "80001006": {
-    "id": 80001006,
+  "80001106": {
+    "id": 80001106,
     "type": 8,
     "name": "The Juiciest of Oranges",
     "series": "Misc.",
@@ -9134,8 +10479,8 @@
       }
     ]
   },
-  "80001007": {
-    "id": 80001007,
+  "80001107": {
+    "id": 80001107,
     "type": 8,
     "name": "Donations of Dairy",
     "series": "Misc.",
@@ -9182,17 +10527,17 @@
       }
     ]
   },
-  "80001008": {
-    "id": 80001008,
+  "80001108": {
+    "id": 80001108,
     "type": 8,
     "name": "Sugar in the Tank",
     "series": "Misc.",
-    "description": "Supply apple pies to increase development efficiency.\nDeliver 250 Apple Pies.",
+    "description": "Supply apple juice to increase development efficiency.\nDeliver 250 Apple Juice.",
     "conditions": [],
     "event": false,
     "targets": [
       {
-        "text": "Deliver 250 Apple Pies.",
+        "text": "Deliver 250 Apple Juice.",
         "amount": 250
       }
     ],
@@ -9230,8 +10575,8 @@
       }
     ]
   },
-  "80001009": {
-    "id": 80001009,
+  "80001109": {
+    "id": 80001109,
     "type": 8,
     "name": "Needs More Coffee",
     "series": "Misc.",
@@ -9278,8 +10623,8 @@
       }
     ]
   },
-  "80001010": {
-    "id": 80001010,
+  "80001110": {
+    "id": 80001110,
     "type": 8,
     "name": "Meat Is Energy",
     "series": "Misc.",
@@ -9326,8 +10671,8 @@
       }
     ]
   },
-  "80001011": {
-    "id": 80001011,
+  "80001111": {
+    "id": 80001111,
     "type": 8,
     "name": "Basic Seasoning",
     "series": "Misc.",
@@ -9374,8 +10719,8 @@
       }
     ]
   },
-  "80001012": {
-    "id": 80001012,
+  "80001112": {
+    "id": 80001112,
     "type": 8,
     "name": "A Healthy Menu",
     "series": "Misc.",
@@ -9422,17 +10767,17 @@
       }
     ]
   },
-  "80001013": {
-    "id": 80001013,
+  "80001113": {
+    "id": 80001113,
     "type": 8,
     "name": "Nutritional Combos",
     "series": "Misc.",
-    "description": "Make tofu with minced meat to meet diverse dietary needs.\nDeliver 100 Tofu with Minced Meat.",
+    "description": "Make rolled carrot omelettes to meet diverse dietary needs.\nDeliver 100 Rolled Carrot Omelettes.",
     "conditions": [],
     "event": false,
     "targets": [
       {
-        "text": "Deliver 100 Tofu with Minced Meat.",
+        "text": "Deliver 100 Rolled Carrot Omelettes.",
         "amount": 100
       }
     ],
@@ -9470,8 +10815,8 @@
       }
     ]
   },
-  "80001014": {
-    "id": 80001014,
+  "80001114": {
+    "id": 80001114,
     "type": 8,
     "name": "Latte Time",
     "series": "Misc.",
@@ -9518,8 +10863,8 @@
       }
     ]
   },
-  "80001015": {
-    "id": 80001015,
+  "80001115": {
+    "id": 80001115,
     "type": 8,
     "name": "Stir-Fry Resupply",
     "series": "Misc.",
@@ -9566,8 +10911,8 @@
       }
     ]
   },
-  "80001016": {
-    "id": 80001016,
+  "80001116": {
+    "id": 80001116,
     "type": 8,
     "name": "Fast Food",
     "series": "Misc.",
@@ -9614,8 +10959,8 @@
       }
     ]
   },
-  "80001017": {
-    "id": 80001017,
+  "80001117": {
+    "id": 80001117,
     "type": 8,
     "name": "Your First Receipt",
     "series": "Misc.",
@@ -9642,8 +10987,8 @@
       }
     ]
   },
-  "80001018": {
-    "id": 80001018,
+  "80001118": {
+    "id": 80001118,
     "type": 8,
     "name": "Safely Stored",
     "series": "Misc.",
@@ -9680,8 +11025,8 @@
       }
     ]
   },
-  "80001019": {
-    "id": 80001019,
+  "80001119": {
+    "id": 80001119,
     "type": 8,
     "name": "Regular Resupply",
     "series": "Misc.",
@@ -9718,8 +11063,8 @@
       }
     ]
   },
-  "80001020": {
-    "id": 80001020,
+  "80001120": {
+    "id": 80001120,
     "type": 8,
     "name": "Efficient Delivery",
     "series": "Misc.",
@@ -9756,10 +11101,10 @@
       }
     ]
   },
-  "80001021": {
-    "id": 80001021,
+  "80001121": {
+    "id": 80001121,
     "type": 8,
-    "name": "Space to Spare",
+    "name": "Well Stocked",
     "series": "Misc.",
     "description": "Abundant reserves for a confident settlement!\nAccept 30 Daily Supplies.",
     "conditions": [],
@@ -9794,8 +11139,8 @@
       }
     ]
   },
-  "80001022": {
-    "id": 80001022,
+  "80001122": {
+    "id": 80001122,
     "type": 8,
     "name": "Sustainable Reserves",
     "series": "Misc.",
@@ -9832,8 +11177,8 @@
       }
     ]
   },
-  "80001023": {
-    "id": 80001023,
+  "80001123": {
+    "id": 80001123,
     "type": 8,
     "name": "Foundation for Development",
     "series": "Misc.",
@@ -9880,8 +11225,8 @@
       }
     ]
   },
-  "80001024": {
-    "id": 80001024,
+  "80001124": {
+    "id": 80001124,
     "type": 8,
     "name": "Your First Request",
     "series": "Misc.",
@@ -9908,8 +11253,8 @@
       }
     ]
   },
-  "80001025": {
-    "id": 80001025,
+  "80001125": {
+    "id": 80001125,
     "type": 8,
     "name": "A Reliable Helper",
     "series": "Misc.",
@@ -9946,8 +11291,8 @@
       }
     ]
   },
-  "80001026": {
-    "id": 80001026,
+  "80001126": {
+    "id": 80001126,
     "type": 8,
     "name": "Firm Support",
     "series": "Misc.",
@@ -9984,8 +11329,8 @@
       }
     ]
   },
-  "80001027": {
-    "id": 80001027,
+  "80001127": {
+    "id": 80001127,
     "type": 8,
     "name": "Request Master",
     "series": "Misc.",
@@ -10022,8 +11367,8 @@
       }
     ]
   },
-  "80001028": {
-    "id": 80001028,
+  "80001128": {
+    "id": 80001128,
     "type": 8,
     "name": "Pillar of Development",
     "series": "Misc.",
@@ -10060,8 +11405,8 @@
       }
     ]
   },
-  "80001029": {
-    "id": 80001029,
+  "80001129": {
+    "id": 80001129,
     "type": 8,
     "name": "Core of Development",
     "series": "Misc.",
@@ -10108,8 +11453,8 @@
       }
     ]
   },
-  "80001030": {
-    "id": 80001030,
+  "80001130": {
+    "id": 80001130,
     "type": 8,
     "name": "Foundation for Prosperity",
     "series": "Misc.",

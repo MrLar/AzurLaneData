@@ -8688,7 +8688,9 @@
     "heavy": false,
     "limited": null,
     "special": false,
-    "other": [],
+    "other": [
+      3
+    ],
     "maps": [],
     "notes": [
       "Available as point accumulation reward during Violet Tempest, Blooming Lycoris"
@@ -9752,7 +9754,7 @@
     "id": 199,
     "timer": "01:55:00",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Violet Tempest, Blooming Lycoris",
     "special": false,
     "other": [],
@@ -10175,10 +10177,12 @@
     "id": 217,
     "timer": "05:15:00",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Violet Tempest, Blooming Lycoris",
-    "special": false,
-    "other": [],
+    "special": true,
+    "other": [
+      6
+    ],
     "maps": [],
     "notes": [],
     "events": [
@@ -12988,7 +12992,7 @@
   "324": {
     "id": 324,
     "timer": "01:20:00",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": "Violet Tempest, Blooming Lycoris",
     "special": false,
@@ -17493,7 +17497,7 @@
   "567": {
     "id": 567,
     "timer": "00:29:00",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": "Violet Tempest, Blooming Lycoris",
     "special": false,

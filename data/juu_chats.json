@@ -7527,6 +7527,893 @@
     "icon": "shengtafei",
     "type": 1
   },
+  "10324": {
+    "id": 10324,
+    "name": "Bremerton",
+    "topics": [
+      {
+        "id": 201,
+        "name": "Consultation",
+        "unlock": {
+          "type": 1,
+          "ship_id": 443
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 6333,
+            "text": "Yo Commander I need some help...",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6334,
+            "text": "My communicator's been on all night just ringing nonstop!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6335,
+            "text": "I'm getting sooo many comments and dms it just never stops and I'm at my limit here!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6336,
+            "text": "I set up a counseling account on a whim and didn't expect it to blow tf up...",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6337,
+            "text": "The heck am I supposed to do?",
+            "user": 10324,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Prioritize important messages..."
+              },
+              {
+                "option_id": 2,
+                "text": "Go from oldest to newest..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 6338,
+            "text": "You could prioritize the important messages.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6339,
+            "text": "How about going in the order of responding to the people who messaged you first?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6340,
+            "text": "Sure, that's one solution, but I'll be doing this forever with how many there are!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6341,
+            "text": "When I started out, I'd only get a dm every now and then.",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6342,
+            "text": "Then my account got some attention and my consultation requests started snowballing out of control!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6343,
+            "text": "Like I type really fast, and even I can't keep up!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6344,
+            "text": "But it's not like I can ghost ppl either since they confided in me...",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6345,
+            "text": "Got any good ideas, Commander?",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6346,
+            "text": "Cause at this rate, I'm gonna be doing this...",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6347,
+            "text": "5",
+            "user": 10324,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "What kind of troubles do they have?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 6348,
+            "text": "What kind of troubles do they have?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6349,
+            "text": "I can't give you any concrete deets for obvious reasons, but it's basically like:",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6350,
+            "text": "What should I have for breakfast lunch and dinner?",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6351,
+            "text": "My sister's gonna be mad with me, how do I get out of that?",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6352,
+            "text": "Heh some people also have questions related to you, of course.",
+            "user": 10324,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "I can relate to the food questions."
+              },
+              {
+                "option_id": 5,
+                "text": "Family issues demand quick solutions."
+              },
+              {
+                "option_id": 6,
+                "text": "That's really long..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 6353,
+            "text": "I can relate to the food questions.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6354,
+            "text": "Family issues demand quick solutions.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 6355,
+            "text": "Wait, some were about me?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6356,
+            "text": "Ahaha yeah, you get the gist.",
+            "user": 10324,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 7,
+                "text": "To me, it sounds like..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 7,
+            "id": 6357,
+            "text": "To me, it sounds like most of their problems stem from a lack of communication and advice.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 6358,
+            "text": "Why not make a consultation bulletin board? Like sorting all the problems into categories and letting people discuss them with each other.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 6359,
+            "text": "Ohh! I get what you mean!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 6360,
+            "text": "Then they could work out straightforward issues among themselves and stuff!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 6361,
+            "text": "And if someone's got something more serious then I can come in and help!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 6362,
+            "text": "You're a genius, Commander!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 6363,
+            "text": "But I've still not got enough responses to make a summary out of...",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 6364,
+            "text": "Guess I could make a questionnaire to get some direction on ppl's questions!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 6365,
+            "text": "Yeah let's go with that!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 6366,
+            "text": "Thanks for the help, Commander!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 202,
+        "name": "Health Questionnaire",
+        "unlock": {
+          "type": 2,
+          "ship_id": 443,
+          "affinity": 100
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 6367,
+            "text": "I made a questionnaire just for you, Commander!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6368,
+            "text": "Think you can fill it out when you've got time?",
+            "user": 10324,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "A questionnaire just for me?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 6369,
+            "text": "A questionnaire just for me?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6370,
+            "text": "Is it the same one you mentioned a while back? Are you asking for some information about me?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6371,
+            "text": "Nah you're thinking of my consultation questionnaire.",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6372,
+            "text": "This is a special one made just for you specifically! Took quite some time to come up with the questions for it!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6373,
+            "text": "I changed the name of it several times too and the one I ultimately settled on is...",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6374,
+            "text": "A Non-Compulsory Questionnaire Concerning Your Health This Week",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6375,
+            "text": "Sounds pretty interesting huh?",
+            "user": 10324,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "That's really long..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 6376,
+            "text": "Did you make it really long on purpose?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6377,
+            "text": "Something tells me there aren't any proper questions in that questionnaire...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6378,
+            "text": "Hahah of course there are! I picked each and every one carefully.",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6379,
+            "text": "For example: do you think caffeine intake has any correlation with sleep quality and dreams?",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6380,
+            "text": "Or: do you think volleyball and baseball are good for your mental and physical health?",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6381,
+            "text": "Bam! All proper questions concerning sleep and health!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6382,
+            "text": "And there's about 100 more of those.",
+            "user": 10324,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "Could we do this more... efficiently?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 6383,
+            "text": "Could we do this more... efficiently?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6384,
+            "text": "Good point actually! Let's go with a few of the more important questions and have you answer those!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6385,
+            "text": "First question...",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6386,
+            "text": "Do you feel that drinking coffee helps keep you awake?",
+            "user": 10324,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "Yes."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 6387,
+            "text": "Yes.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 6388,
+            "text": "Do you think that exercise can improve your physical strength?",
+            "user": 10324,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "Yes."
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 6389,
+            "text": "Yes.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6390,
+            "text": "Do you believe that baseball and volleyball are popular sports?",
+            "user": 10324,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "Yes."
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 6391,
+            "text": "Yes.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 6,
+            "id": 6392,
+            "text": "Are gym uniforms your favorite kind of costume?",
+            "user": 10324,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 7,
+                "text": "Yes."
+              },
+              {
+                "option_id": 8,
+                "text": "No."
+              }
+            ]
+          },
+          {
+            "choosen_option": 7,
+            "id": 6393,
+            "text": "Yes.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 6394,
+            "text": "Wait, hang on!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 6395,
+            "text": "Wait... hang on!",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6396,
+            "text": "Ahaha I know what you're thinking rn.",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6397,
+            "text": "I just bought a new one yesterday so I'll wear it tomorrow.",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6398,
+            "text": "Knowing you you're gonna love it!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6399,
+            "text": "line_part2_24",
+            "user": 10324,
+            "type": 4,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 203,
+        "name": "Special Exercise Plan",
+        "unlock": {
+          "type": 2,
+          "ship_id": 443,
+          "affinity": 150
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 6400,
+            "text": "Commander, you know what day it is tomorrow?",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6401,
+            "text": "Hint: it starts with a D!",
+            "user": 10324,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "That's easy..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 6402,
+            "text": "Date day for us, right?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6403,
+            "text": "Don't think we've talked about where we're going yet.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6404,
+            "text": "Heh! That's cause the more excitement you build, the more impactful it is when you find out!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6405,
+            "text": "After many hours of hard work, I've finally finished an exercise plan for us!",
+            "user": 10324,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Exercise?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 6406,
+            "text": "Exercise? So... Baseball? Volleyball? Some other activity entirely?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6407,
+            "text": "Bzzt! All wrong.",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6408,
+            "text": "No, the place we're going this time is...",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6409,
+            "text": "The arcade!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6410,
+            "text": "32",
+            "user": 10324,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "Games count as exercise now?"
+              },
+              {
+                "option_id": 4,
+                "text": "So, you can exercise at an arcade...?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 6411,
+            "text": "Games count as exercise now?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 6412,
+            "text": "So, you can exercise at an arcade...?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6413,
+            "text": "They've got crane games dancing games and even the hottest VR titles.",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6414,
+            "text": "Then once we're done gaming let's hit up a restaurant famous for its home cooking!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6415,
+            "text": "A tasty bite right after some exercise sounds perfect am I right?",
+            "user": 10324,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "I like the plan, don't get me wrong..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 6416,
+            "text": "I like the plan, don't get me wrong, but does it really qualify as exercise?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6417,
+            "text": "I mean, dancing games improve your reaction speed and flexibility.",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6418,
+            "text": "Crane games improve your hand-eye coordination and build concentration and patience.",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6419,
+            "text": "And VR games put your whole body to work!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6420,
+            "text": "But most important of all...",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6421,
+            "text": "Being on a date with you raises my heart's bpm by double digits!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6422,
+            "text": "And anything that does that to your heart is good exercise in my book!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6423,
+            "text": "And that's why this date",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6424,
+            "text": "Oops, I mean...",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6425,
+            "text": "Why this exercise plan is 100% sound and proper!",
+            "user": 10324,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6426,
+            "text": "line_part2_39",
+            "user": 10324,
+            "type": 4,
+            "options": []
+          }
+        ]
+      }
+    ],
+    "icon": "bulaimodun",
+    "type": 1
+  },
   "10709": {
     "id": 10709,
     "name": "EssexG1",
@@ -18693,7 +19580,7 @@
           {
             "choosen_option": 2,
             "id": 5421,
-            "text": "It's a means of cultivation, an appreciation of aesthetics, and most of all, spiritual sustenance.",
+            "text": "It's an elegant way to soothe the mind, too.",
             "user": 30716,
             "type": 1,
             "options": []
@@ -44718,6 +45605,843 @@
       }
     ],
     "icon": "masaina",
+    "type": 1
+  },
+  "80503": {
+    "id": 80503,
+    "name": "Alsace",
+    "topics": [
+      {
+        "id": 204,
+        "name": "Getting Crowded Here...",
+        "unlock": {
+          "type": 1,
+          "ship_id": 641
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 6427,
+            "text": "Commander...",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6428,
+            "text": "One is really annoyed by FleetChat's username character limit.",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6429,
+            "text": "One came up with the perfect username, but it's too long...",
+            "user": 80503,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Oh yeah? What is it?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 6430,
+            "text": "Oh yeah? What is it?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6431,
+            "text": "Sacrament of the Unified Orthodoxy, an Unreachable Dream, Guardian of the Holy See, the Commander's Noble Protecting Blade - Battleship Alsace",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6432,
+            "text": "It not only symbolizes the Orthodoxy's glory, but it also speaks to one's duty of protecting you.",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6433,
+            "text": "It's a wonderful name!",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6434,
+            "text": "And yet it cuts off partway through...",
+            "user": 80503,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Don't let it get you down."
+              },
+              {
+                "option_id": 3,
+                "text": "There's always more than one solution."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 6435,
+            "text": "Don't let it get you down. We can think of something else.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6436,
+            "text": "There's always more than one solution. We'll surely find one if we think about it.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6437,
+            "text": "Think...",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6438,
+            "text": "A solution just dawned upon this one!",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6439,
+            "text": "Let us give it a try!",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6440,
+            "text": "User \"Sacrament of the Unified Orthodoxy\" has entered the channel",
+            "user": 1,
+            "type": 5,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6441,
+            "text": "User \"an Unreachable Dream\" has entered the channel",
+            "user": 1,
+            "type": 5,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6442,
+            "text": "User \"Guardian of the Holy See\" has entered the channel",
+            "user": 1,
+            "type": 5,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6443,
+            "text": "User \"the Commander's Noble Protecting Blade\" has entered the channel",
+            "user": 1,
+            "type": 5,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "It's getting really crowded here..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 6444,
+            "text": "It's getting really crowded here for being a private channel...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 6445,
+            "text": "There we are!",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 6446,
+            "text": "Now one needs only make a few more alt accounts and change their names.",
+            "user": 80503,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "Stick to just \"Alsace.\" It's cuter that way."
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 6447,
+            "text": "Stick to just \"Alsace.\" It's cuter that way.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6448,
+            "text": "Cute... You said I'm cute! CUTE!",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6449,
+            "text": "36",
+            "user": 80503,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6450,
+            "text": "User \"Sacrament of the Unified Orthodoxy\" has left the channel",
+            "user": 1,
+            "type": 5,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6451,
+            "text": "User \"an Unreachable Dream\" has left the channel",
+            "user": 1,
+            "type": 5,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6452,
+            "text": "User \"Guardian of the Holy See\" has left the channel",
+            "user": 1,
+            "type": 5,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6453,
+            "text": "User \"the Commander's Noble Protecting Blade\" has left the channel",
+            "user": 1,
+            "type": 5,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6454,
+            "text": "Tell me more, Commander! Your cute girl is here and listening!",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 205,
+        "name": "Heating Up",
+        "unlock": {
+          "type": 2,
+          "ship_id": 641,
+          "affinity": 100
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 6455,
+            "text": "Greetings, Commander...",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6456,
+            "text": "From the Sacrament of the Unified Orthodoxy, the cute Alsace.",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6457,
+            "text": "25",
+            "user": 80503,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6458,
+            "text": "Oh no! I let my inner voice leak out!",
+            "user": 80503,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "You ARE extremely cute."
+              },
+              {
+                "option_id": 2,
+                "text": "You're absolutely right about that."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 6459,
+            "text": "You ARE extremely cute.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6460,
+            "text": "You're absolutely right about that.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6461,
+            "text": "Oh god... I can't... We just started chatting, and it's already getting hot...",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6462,
+            "text": "Help, Commander, or I'm gonna lose it...",
+            "user": 80503,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "Is your device overheating?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 6463,
+            "text": "Is your device overheating?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6464,
+            "text": "Try removing your case. It'll help with the heat.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6465,
+            "text": "Remove... my case? Right now?",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6466,
+            "text": "Okay, I'll give it a try... This might take a minute, so just hold on...",
+            "user": 80503,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "So? Did it help?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 6467,
+            "text": "So? Did it help?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 6468,
+            "text": "Well, the temperature did go down once I took it off...",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 6469,
+            "text": "But seeing your message now is making it go up again, and even more than last time...",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 6470,
+            "text": "I need help, Commander!",
+            "user": 80503,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 5,
+                "text": "Just receiving a message raises the temp?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 5,
+            "id": 6471,
+            "text": "Just receiving a message raises the temp? Sounds like a serious issue.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6472,
+            "text": "Doubt the in-built heat dissipation will be enough. You've gotta get some external cooling.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6473,
+            "text": "External... cooling?",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6474,
+            "text": "I get it! It just so happens I have something like that.",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6475,
+            "text": "Wait a minute, Commander. It'll be ready soon...",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6476,
+            "text": "8",
+            "user": 80503,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6477,
+            "text": "Commander, I did as you asked and entered the external cooling device.",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6478,
+            "text": "It does work to an extent, but it still feels hot...",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6479,
+            "text": "It only ever gets this bad when we chat with each other…",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 5,
+            "id": 6480,
+            "text": "Even my cooling liquid is on the brink of boiling...",
+            "user": 80503,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 6,
+                "text": "What is your \"cooling device\"?"
+              },
+              {
+                "option_id": 7,
+                "text": "Where are you now?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 6,
+            "id": 6481,
+            "text": "What is your \"cooling device\"?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 7,
+            "id": 6482,
+            "text": "Where are you now?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6483,
+            "text": "What? I did as you told me to...",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6484,
+            "text": "I'm in my bath now, chatting with you...",
+            "user": 80503,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 8,
+                "text": "Oh..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 8,
+            "id": 6485,
+            "text": "Oh...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 6486,
+            "text": "This whole time, I thought it was your phone getting hot... This is another problem entirely...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 6487,
+            "text": "akk",
+            "user": 80503,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 8,
+            "id": 6488,
+            "text": "User \"Alsace\" has lost connection",
+            "user": 1,
+            "type": 5,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 206,
+        "name": "Commander's Brainwaves",
+        "unlock": {
+          "type": 2,
+          "ship_id": 641,
+          "affinity": 150
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 6489,
+            "text": "Commander! Do you have a moment?",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6490,
+            "text": "You see, one bought a new cellphone! According to Akashi, its thermal performance is outstanding.",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6491,
+            "text": "It surely won't break like the previous one did!",
+            "user": 80503,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "So that's what happened?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 6492,
+            "text": "So that's why you disconnected earlier. Your phone broke.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6493,
+            "text": "That's so weird. Does your temperature go up from just chatting with me, even if we're not physically interacting?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6494,
+            "text": "Yes! It happens even through text.",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6495,
+            "text": "One knows the cause: it's your brainwaves, relentlessly shooting into this one's body!",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6496,
+            "text": "Simply being aware that one is chatting with you makes one's emotion module warm to the touch...",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6497,
+            "text": "shancheng",
+            "user": 80503,
+            "type": 4,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Sounds kind of like..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 6498,
+            "text": "Sounds kind of like how a cellphone receives radio waves, doesn't it?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6499,
+            "text": "Oh!",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6500,
+            "text": "Maybe sending a message through the phone... can also transmit this one's brainwaves into your heart?!",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6501,
+            "text": "It's worth a shot!",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6502,
+            "text": "Transmitting one's brainwaves now!",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6503,
+            "text": "[One wants to chat with you forever!]",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6504,
+            "text": "[One wants to be with you forever!]",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6505,
+            "text": "Did that work? Did it reach your heart?",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6506,
+            "text": "I sent you my brainwaves, my feelings...",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6507,
+            "text": "But...",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6508,
+            "text": "My body still keeps getting hotter…",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6509,
+            "text": "My emotion module... feels like it's gonna explode...♡",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6510,
+            "text": "I need to amplify these burning hot feelings and send them to you!",
+            "user": 80503,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "I'm getting them."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 6511,
+            "text": "I'm getting them. They're making me wanna see you.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6512,
+            "text": "part2_hnnn",
+            "user": 80503,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6513,
+            "text": "User \"Alsace\" has lost connection",
+            "user": 1,
+            "type": 5,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6514,
+            "text": "Connection restored",
+            "user": 1,
+            "type": 5,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6515,
+            "text": "Can I really... come see you?",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6516,
+            "text": "Then... I'll go! Right now!",
+            "user": 80503,
+            "type": 1,
+            "options": []
+          }
+        ]
+      }
+    ],
+    "icon": "aersasi",
     "type": 1
   },
   "80601": {

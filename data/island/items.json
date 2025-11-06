@@ -161,6 +161,24 @@
     "convert_points": 0,
     "sub_attribute": null
   },
+  "10": {
+    "id": 10,
+    "name": "Island Seasonal PT Exchange Ticket",
+    "icon": "island/props/item_6",
+    "description": "A ticket that can be exchanged for Island Dev. Points. Will be automatically converted into Island Dev. Points when a season ends, but can also be used manually in your Warehouse.",
+    "type": 1,
+    "rarity": 2,
+    "limit": 0,
+    "max_slots": 0,
+    "influence": 0,
+    "order_price": 0,
+    "categories": [
+      "Misc."
+    ],
+    "can_convert": true,
+    "convert_points": 1,
+    "sub_attribute": null
+  },
   "1000": {
     "id": 1000,
     "name": "Wheat Seeds",
@@ -174,7 +192,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -196,7 +214,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -218,7 +236,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -240,7 +258,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -262,7 +280,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -284,7 +302,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -306,7 +324,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -328,7 +346,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -350,7 +368,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -372,7 +390,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -394,7 +412,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -416,7 +434,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -438,7 +456,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -460,7 +478,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -482,7 +500,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -504,7 +522,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -526,7 +544,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -548,7 +566,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -570,7 +588,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -592,7 +610,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -614,7 +632,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -636,7 +654,7 @@
     "order_price": 0,
     "categories": [
       "Misc.",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -759,7 +777,7 @@
     "order_price": 34,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Newsprout Nursery"
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -836,7 +854,7 @@
     "order_price": 244,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Newsprout Nursery"
     ],
     "can_convert": true,
     "convert_points": 24,
@@ -908,7 +926,7 @@
     "order_price": 72,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Newsprout Nursery"
     ],
     "can_convert": true,
     "convert_points": 6,
@@ -933,7 +951,7 @@
     "order_price": 54,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Newsprout Nursery"
     ],
     "can_convert": true,
     "convert_points": 5,
@@ -960,7 +978,7 @@
     "order_price": 92,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Newsprout Nursery"
     ],
     "can_convert": true,
     "convert_points": 6,
@@ -986,7 +1004,7 @@
     "order_price": 118,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Newsprout Nursery"
     ],
     "can_convert": true,
     "convert_points": 14,
@@ -1012,7 +1030,7 @@
     "order_price": 294,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Newsprout Nursery"
     ],
     "can_convert": true,
     "convert_points": 35,
@@ -1038,7 +1056,7 @@
     "order_price": 50,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Sweetscent Orchard"
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -1064,7 +1082,7 @@
     "order_price": 65,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Sweetscent Orchard"
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -1090,7 +1108,7 @@
     "order_price": 80,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Sweetscent Orchard"
     ],
     "can_convert": true,
     "convert_points": 1,
@@ -1116,7 +1134,7 @@
     "order_price": 180,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Sweetscent Orchard"
     ],
     "can_convert": true,
     "convert_points": 18,
@@ -1142,7 +1160,7 @@
     "order_price": 32,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Sweetscent Orchard"
     ],
     "can_convert": true,
     "convert_points": 3,
@@ -1167,7 +1185,7 @@
     "order_price": 375,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Sweetscent Orchard"
     ],
     "can_convert": true,
     "convert_points": 45,
@@ -1189,7 +1207,7 @@
     "order_price": 250,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Sweetscent Orchard"
     ],
     "can_convert": true,
     "convert_points": 30,
@@ -1364,7 +1382,7 @@
     "order_price": 200,
     "categories": [
       "Basic Resource",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 2,
@@ -1643,10 +1661,10 @@
     "order_price": 25,
     "categories": [
       "Product",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
-    "convert_points": 1,
+    "convert_points": 3,
     "sub_attribute": null,
     "used_at": [
       102
@@ -1665,10 +1683,10 @@
     "order_price": 25,
     "categories": [
       "Product",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
-    "convert_points": 1,
+    "convert_points": 3,
     "sub_attribute": null,
     "used_at": [
       102
@@ -1687,7 +1705,7 @@
     "order_price": 40,
     "categories": [
       "Product",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 4,
@@ -1709,7 +1727,7 @@
     "order_price": 40,
     "categories": [
       "Product",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
     "convert_points": 4,
@@ -1731,10 +1749,10 @@
     "order_price": 50,
     "categories": [
       "Product",
-      "Golden Koi Restaurant"
+      "Misc."
     ],
     "can_convert": true,
-    "convert_points": 1,
+    "convert_points": 6,
     "sub_attribute": null,
     "used_at": [
       603
@@ -1756,7 +1774,7 @@
       "Café Manjuu"
     ],
     "can_convert": true,
-    "convert_points": 1,
+    "convert_points": 15,
     "sub_attribute": {
       "attr": "manage",
       "value": 0.35
@@ -1850,7 +1868,7 @@
       "Café Manjuu"
     ],
     "can_convert": true,
-    "convert_points": 20,
+    "convert_points": 25,
     "sub_attribute": {
       "attr": "manage",
       "value": 0.35
@@ -1878,7 +1896,7 @@
     "order_price": 385,
     "categories": [
       "Produce",
-      "Café Manjuu"
+      "Manjuu Eatery"
     ],
     "can_convert": true,
     "convert_points": 35,
@@ -1912,7 +1930,7 @@
       "Café Manjuu"
     ],
     "can_convert": true,
-    "convert_points": 25,
+    "convert_points": 60,
     "sub_attribute": {
       "attr": "cooking",
       "value": 0.35
@@ -1939,7 +1957,8 @@
     "influence": 1.7,
     "order_price": 340,
     "categories": [
-      "Produce"
+      "Produce",
+      "Golden Koi Restaurant"
     ],
     "can_convert": true,
     "convert_points": 35,
@@ -1969,7 +1988,8 @@
     "influence": 1.8,
     "order_price": 1300,
     "categories": [
-      "Produce"
+      "Produce",
+      "Golden Koi Restaurant"
     ],
     "can_convert": true,
     "convert_points": 155,
@@ -1999,7 +2019,8 @@
     "influence": 2.4,
     "order_price": 355,
     "categories": [
-      "Produce"
+      "Produce",
+      "Golden Koi Restaurant"
     ],
     "can_convert": true,
     "convert_points": 35,
@@ -2029,10 +2050,11 @@
     "influence": 1.8,
     "order_price": 425,
     "categories": [
-      "Produce"
+      "Produce",
+      "Golden Koi Restaurant"
     ],
     "can_convert": true,
-    "convert_points": 40,
+    "convert_points": 65,
     "sub_attribute": {
       "attr": "manage",
       "value": 0.35
@@ -2059,7 +2081,8 @@
     "influence": 1.6,
     "order_price": 105,
     "categories": [
-      "Produce"
+      "Produce",
+      "Golden Koi Restaurant"
     ],
     "can_convert": true,
     "convert_points": 10,
@@ -2086,7 +2109,8 @@
     "influence": 2,
     "order_price": 105,
     "categories": [
-      "Produce"
+      "Produce",
+      "Polar Bear Teahouse"
     ],
     "can_convert": true,
     "convert_points": 10,
@@ -2116,10 +2140,11 @@
     "influence": 1.9,
     "order_price": 215,
     "categories": [
-      "Produce"
+      "Produce",
+      "Polar Bear Teahouse"
     ],
     "can_convert": true,
-    "convert_points": 20,
+    "convert_points": 25,
     "sub_attribute": {
       "attr": "conserve",
       "value": 0.35
@@ -2146,7 +2171,8 @@
     "influence": 2.4,
     "order_price": 140,
     "categories": [
-      "Produce"
+      "Produce",
+      "Polar Bear Teahouse"
     ],
     "can_convert": true,
     "convert_points": 15,
@@ -2176,10 +2202,11 @@
     "influence": 1.8,
     "order_price": 270,
     "categories": [
-      "Produce"
+      "Produce",
+      "Polar Bear Teahouse"
     ],
     "can_convert": true,
-    "convert_points": 25,
+    "convert_points": 50,
     "sub_attribute": {
       "attr": "cooking",
       "value": 0.35
@@ -2206,7 +2233,8 @@
     "influence": 1.6,
     "order_price": 1590,
     "categories": [
-      "Produce"
+      "Produce",
+      "Polar Bear Teahouse"
     ],
     "can_convert": true,
     "convert_points": 240,
@@ -2236,7 +2264,8 @@
     "influence": 2.2,
     "order_price": 790,
     "categories": [
-      "Produce"
+      "Produce",
+      "Polar Bear Teahouse"
     ],
     "can_convert": true,
     "convert_points": 95,
@@ -2266,10 +2295,11 @@
     "influence": 1.8,
     "order_price": 45,
     "categories": [
-      "Produce"
+      "Produce",
+      "Manjuu Eatery"
     ],
     "can_convert": true,
-    "convert_points": 4,
+    "convert_points": 7,
     "sub_attribute": {
       "attr": "manage",
       "value": 0.35
@@ -2297,7 +2327,7 @@
     "order_price": 375,
     "categories": [
       "Produce",
-      "Café Manjuu"
+      "Manjuu Eatery"
     ],
     "can_convert": true,
     "convert_points": 35,
@@ -2328,7 +2358,7 @@
     "order_price": 510,
     "categories": [
       "Produce",
-      "Café Manjuu"
+      "Manjuu Eatery"
     ],
     "can_convert": true,
     "convert_points": 60,
@@ -2359,7 +2389,7 @@
     "order_price": 230,
     "categories": [
       "Produce",
-      "Café Manjuu"
+      "Manjuu Eatery"
     ],
     "can_convert": true,
     "convert_points": 30,
@@ -2390,7 +2420,7 @@
     "order_price": 1350,
     "categories": [
       "Produce",
-      "Café Manjuu"
+      "Manjuu Eatery"
     ],
     "can_convert": true,
     "convert_points": 200,
@@ -2420,7 +2450,8 @@
     "influence": 2.1,
     "order_price": 390,
     "categories": [
-      "Produce"
+      "Produce",
+      "Fin-'n'-Feather Grill"
     ],
     "can_convert": true,
     "convert_points": 40,
@@ -2450,7 +2481,8 @@
     "influence": 2.3,
     "order_price": 370,
     "categories": [
-      "Produce"
+      "Produce",
+      "Fin-'n'-Feather Grill"
     ],
     "can_convert": true,
     "convert_points": 36,
@@ -2480,7 +2512,8 @@
     "influence": 2.2,
     "order_price": 580,
     "categories": [
-      "Produce"
+      "Produce",
+      "Fin-'n'-Feather Grill"
     ],
     "can_convert": true,
     "convert_points": 70,
@@ -2510,7 +2543,8 @@
     "influence": 1.8,
     "order_price": 170,
     "categories": [
-      "Produce"
+      "Produce",
+      "Fin-'n'-Feather Grill"
     ],
     "can_convert": true,
     "convert_points": 16,
@@ -2537,7 +2571,8 @@
     "influence": 1.5,
     "order_price": 845,
     "categories": [
-      "Produce"
+      "Produce",
+      "Fin-'n'-Feather Grill"
     ],
     "can_convert": true,
     "convert_points": 100,
@@ -2568,7 +2603,7 @@
     "order_price": 340,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 34,
@@ -2593,7 +2628,7 @@
     "order_price": 600,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 60,
@@ -2618,7 +2653,7 @@
     "order_price": 600,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 72,
@@ -2640,7 +2675,7 @@
     "order_price": 890,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 105,
@@ -2662,7 +2697,7 @@
     "order_price": 1100,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 130,
@@ -2684,7 +2719,7 @@
     "order_price": 2380,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 350,
@@ -2706,7 +2741,7 @@
     "order_price": 2380,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 350,
@@ -2728,7 +2763,7 @@
     "order_price": 300,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 30,
@@ -2750,7 +2785,7 @@
     "order_price": 770,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 92,
@@ -2772,7 +2807,7 @@
     "order_price": 660,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 66,
@@ -2797,7 +2832,7 @@
     "order_price": 840,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 84,
@@ -2823,7 +2858,7 @@
     "order_price": 1200,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 150,
@@ -2845,7 +2880,7 @@
     "order_price": 2560,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 380,
@@ -2867,10 +2902,10 @@
     "order_price": 175,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
-    "convert_points": 1,
+    "convert_points": 6,
     "sub_attribute": null,
     "craftable_at": [
       703
@@ -2892,7 +2927,7 @@
     "order_price": 1230,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 120,
@@ -2914,7 +2949,7 @@
     "order_price": 810,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 80,
@@ -2936,7 +2971,7 @@
     "order_price": 1610,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 190,
@@ -2958,7 +2993,7 @@
     "order_price": 2880,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 430,
@@ -2980,7 +3015,7 @@
     "order_price": 570,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 55,
@@ -3002,7 +3037,7 @@
     "order_price": 2590,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 310,
@@ -3024,7 +3059,7 @@
     "order_price": 1750,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 210,
@@ -3046,7 +3081,7 @@
     "order_price": 2400,
     "categories": [
       "Basic Resource",
-      "Faircrop Fields"
+      "Base Factory"
     ],
     "can_convert": true,
     "convert_points": 360,
@@ -3071,7 +3106,7 @@
       "Café Manjuu"
     ],
     "can_convert": true,
-    "convert_points": 1,
+    "convert_points": 2,
     "sub_attribute": {
       "attr": "manage",
       "value": 0.35
@@ -3098,10 +3133,11 @@
     "influence": 2.1,
     "order_price": 1735,
     "categories": [
-      "Produce"
+      "Produce",
+      "Golden Koi Restaurant"
     ],
     "can_convert": true,
-    "convert_points": 200,
+    "convert_points": 230,
     "sub_attribute": {
       "attr": "manage",
       "value": 0.35
@@ -3125,7 +3161,8 @@
     "influence": 2.2,
     "order_price": 695,
     "categories": [
-      "Produce"
+      "Produce",
+      "Golden Koi Restaurant"
     ],
     "can_convert": true,
     "convert_points": 100,
@@ -3152,10 +3189,11 @@
     "influence": 2.1,
     "order_price": 1700,
     "categories": [
-      "Produce"
+      "Produce",
+      "Polar Bear Teahouse"
     ],
     "can_convert": true,
-    "convert_points": 200,
+    "convert_points": 250,
     "sub_attribute": {
       "attr": "conserve",
       "value": 0.35
@@ -3179,7 +3217,8 @@
     "influence": 2.15,
     "order_price": 1000,
     "categories": [
-      "Produce"
+      "Produce",
+      "Polar Bear Teahouse"
     ],
     "can_convert": true,
     "convert_points": 120,
@@ -3206,10 +3245,11 @@
     "influence": 2.6,
     "order_price": 410,
     "categories": [
-      "Produce"
+      "Produce",
+      "Polar Bear Teahouse"
     ],
     "can_convert": true,
-    "convert_points": 60,
+    "convert_points": 70,
     "sub_attribute": {
       "attr": "manage",
       "value": 0.35
@@ -3233,10 +3273,11 @@
     "influence": 2.5,
     "order_price": 560,
     "categories": [
-      "Produce"
+      "Produce",
+      "Manjuu Eatery"
     ],
     "can_convert": true,
-    "convert_points": 65,
+    "convert_points": 70,
     "sub_attribute": {
       "attr": "conserve",
       "value": 0.35
@@ -3260,7 +3301,8 @@
     "influence": 2.4,
     "order_price": 615,
     "categories": [
-      "Produce"
+      "Produce",
+      "Manjuu Eatery"
     ],
     "can_convert": true,
     "convert_points": 70,
@@ -3287,7 +3329,8 @@
     "influence": 2.1,
     "order_price": 1730,
     "categories": [
-      "Produce"
+      "Produce",
+      "Manjuu Eatery"
     ],
     "can_convert": true,
     "convert_points": 260,
@@ -3314,7 +3357,8 @@
     "influence": 2.3,
     "order_price": 760,
     "categories": [
-      "Produce"
+      "Produce",
+      "Fin-'n'-Feather Grill"
     ],
     "can_convert": true,
     "convert_points": 90,
@@ -3341,7 +3385,8 @@
     "influence": 2.1,
     "order_price": 1430,
     "categories": [
-      "Produce"
+      "Produce",
+      "Fin-'n'-Feather Grill"
     ],
     "can_convert": true,
     "convert_points": 210,
@@ -3368,7 +3413,8 @@
     "influence": 2.5,
     "order_price": 300,
     "categories": [
-      "Produce"
+      "Produce",
+      "Café Manjuu"
     ],
     "can_convert": true,
     "convert_points": 36,
@@ -3395,7 +3441,8 @@
     "influence": 2.4,
     "order_price": 650,
     "categories": [
-      "Produce"
+      "Produce",
+      "Café Manjuu"
     ],
     "can_convert": true,
     "convert_points": 80,
@@ -3422,10 +3469,11 @@
     "influence": 2.6,
     "order_price": 450,
     "categories": [
-      "Produce"
+      "Produce",
+      "Café Manjuu"
     ],
     "can_convert": true,
-    "convert_points": 65,
+    "convert_points": 90,
     "sub_attribute": {
       "attr": "conserve",
       "value": 0.35
@@ -3627,7 +3675,7 @@
     "order_price": 210,
     "categories": [
       "Produce",
-      "Manjuu Eatery"
+      "Golden Koi Restaurant"
     ],
     "can_convert": true,
     "convert_points": 25,
@@ -3652,7 +3700,7 @@
     "order_price": 900,
     "categories": [
       "Produce",
-      "Manjuu Eatery"
+      "Golden Koi Restaurant"
     ],
     "can_convert": true,
     "convert_points": 135,

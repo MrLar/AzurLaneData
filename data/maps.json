@@ -71015,5 +71015,485 @@
     "time_limit": 300,
     "type": 6,
     "id": 1721
+  },
+  "2100521_a1_16200301": {
+    "name": "Violet Tempest, Blooming Lycoris-A1 - War Archive",
+    "acv": 100,
+    "opsi": false,
+    "boss": {
+      "id": 16200301,
+      "hull": 5,
+      "nation": 99,
+      "name": "Tester",
+      "stats": {
+        "hp": 8900,
+        "fp": 150,
+        "trp": 0,
+        "avi": 0,
+        "aa": 115,
+        "hit": 19,
+        "eva": 15,
+        "spd": 20,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 25,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknown1",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1680013,
+    "dungeon_id": 1680013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1722
+  },
+  "2100521_a2_16200302": {
+    "name": "Violet Tempest, Blooming Lycoris-A2 - War Archive",
+    "acv": 130,
+    "opsi": false,
+    "boss": {
+      "id": 16200302,
+      "hull": 17,
+      "nation": 99,
+      "name": "Compiler",
+      "stats": {
+        "hp": 2840,
+        "fp": 41,
+        "trp": 162,
+        "avi": 120,
+        "aa": 112,
+        "hit": 21,
+        "eva": 21,
+        "spd": 18,
+        "luck": 0,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknown5",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1680113,
+    "dungeon_id": 1680113,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1723
+  },
+  "2100521_a3_16200303": {
+    "name": "Violet Tempest, Blooming Lycoris-A3 - War Archive",
+    "acv": 165,
+    "opsi": false,
+    "boss": {
+      "id": 16200303,
+      "hull": 5,
+      "nation": 99,
+      "name": "Omitter",
+      "stats": {
+        "hp": 12000,
+        "fp": 120,
+        "trp": 80,
+        "avi": 0,
+        "aa": 135,
+        "hit": 21,
+        "eva": 18,
+        "spd": 20,
+        "luck": 0,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qingchuzhe",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1680213,
+    "dungeon_id": 1680213,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1724
+  },
+  "2100522_b1_16201301": {
+    "name": "Violet Tempest, Blooming Lycoris-B1 - War Archive",
+    "acv": 210,
+    "opsi": false,
+    "boss": {
+      "id": 16201301,
+      "hull": 5,
+      "nation": 99,
+      "name": "Purifier",
+      "stats": {
+        "hp": 16500,
+        "fp": 160,
+        "trp": 0,
+        "avi": 0,
+        "aa": 180,
+        "hit": 25,
+        "eva": 16,
+        "spd": 20,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 45,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknown3",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1681013,
+    "dungeon_id": 1681013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1725
+  },
+  "2100522_b2_16201302": {
+    "name": "Violet Tempest, Blooming Lycoris-B2 - War Archive",
+    "acv": 270,
+    "opsi": false,
+    "boss": {
+      "id": 16201302,
+      "hull": 5,
+      "nation": 3,
+      "name": "Mikasa",
+      "stats": {
+        "hp": 24680,
+        "fp": 160,
+        "trp": 0,
+        "avi": 0,
+        "aa": 180,
+        "hit": 27,
+        "eva": 17,
+        "spd": 20,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 55,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sanli",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1681113,
+    "dungeon_id": 1681113,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1726
+  },
+  "2100522_b3_16201303": {
+    "name": "Violet Tempest, Blooming Lycoris-B3 - War Archive",
+    "acv": 330,
+    "opsi": false,
+    "boss": {
+      "id": 16201303,
+      "hull": 5,
+      "nation": 99,
+      "name": "Arbiter: The Hermit IX",
+      "stats": {
+        "hp": 31500,
+        "fp": 180,
+        "trp": 120,
+        "avi": 0,
+        "aa": 360,
+        "hit": 26,
+        "eva": 23,
+        "spd": 18,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss5",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1681213,
+    "dungeon_id": 1681213,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1727
+  },
+  "2100531_c1_16202301": {
+    "name": "Violet Tempest, Blooming Lycoris-C1 - War Archive",
+    "acv": 455,
+    "opsi": false,
+    "boss": {
+      "id": 16202301,
+      "hull": 5,
+      "nation": 99,
+      "name": "Tester",
+      "stats": {
+        "hp": 52100,
+        "fp": 210,
+        "trp": 0,
+        "avi": 0,
+        "aa": 206,
+        "hit": 41,
+        "eva": 41,
+        "spd": 20,
+        "luck": 18,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 75,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknown1",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1682013,
+    "dungeon_id": 1682013,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1728
+  },
+  "2100531_c2_16202302": {
+    "name": "Violet Tempest, Blooming Lycoris-C2 - War Archive",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "id": 16202302,
+      "hull": 17,
+      "nation": 99,
+      "name": "Compiler",
+      "stats": {
+        "hp": 17150,
+        "fp": 106,
+        "trp": 312,
+        "avi": 220,
+        "aa": 206,
+        "hit": 45,
+        "eva": 47,
+        "spd": 18,
+        "luck": 18,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknown5",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1682113,
+    "dungeon_id": 1682113,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1729
+  },
+  "2100531_c3_16202303": {
+    "name": "Violet Tempest, Blooming Lycoris-C3 - War Archive",
+    "acv": 775,
+    "opsi": false,
+    "boss": {
+      "id": 16202303,
+      "hull": 5,
+      "nation": 99,
+      "name": "Omitter",
+      "stats": {
+        "hp": 62500,
+        "fp": 255,
+        "trp": 150,
+        "avi": 0,
+        "aa": 325,
+        "hit": 38,
+        "eva": 44,
+        "spd": 18,
+        "luck": 20,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 85,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qingchuzhe",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1682213,
+    "dungeon_id": 1682213,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1730
+  },
+  "2100532_d1_16203301": {
+    "name": "Violet Tempest, Blooming Lycoris-D1 - War Archive",
+    "acv": 850,
+    "opsi": false,
+    "boss": {
+      "id": 16203301,
+      "hull": 5,
+      "nation": 99,
+      "name": "Purifier",
+      "stats": {
+        "hp": 82100,
+        "fp": 270,
+        "trp": 0,
+        "avi": 0,
+        "aa": 260,
+        "hit": 69,
+        "eva": 32,
+        "spd": 20,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 95,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknown3",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1683013,
+    "dungeon_id": 1683013,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1731
+  },
+  "2100532_d2_16203302": {
+    "name": "Violet Tempest, Blooming Lycoris-D2 - War Archive",
+    "acv": 1100,
+    "opsi": false,
+    "boss": {
+      "id": 16203302,
+      "hull": 5,
+      "nation": 3,
+      "name": "Mikasa",
+      "stats": {
+        "hp": 96200,
+        "fp": 280,
+        "trp": 0,
+        "avi": 0,
+        "aa": 260,
+        "hit": 71,
+        "eva": 33,
+        "spd": 16,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sanli",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1683113,
+    "dungeon_id": 1683113,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1732
+  },
+  "2100532_d3_16203303": {
+    "name": "Violet Tempest, Blooming Lycoris-D3 - War Archive",
+    "acv": 1410,
+    "opsi": false,
+    "boss": {
+      "id": 16203303,
+      "hull": 5,
+      "nation": 99,
+      "name": "Arbiter: The Hermit IX",
+      "stats": {
+        "hp": 115000,
+        "fp": 300,
+        "trp": 0,
+        "avi": 0,
+        "aa": 460,
+        "hit": 52,
+        "eva": 40,
+        "spd": 18,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss5",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1683213,
+    "dungeon_id": 1683213,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1733
   }
 }

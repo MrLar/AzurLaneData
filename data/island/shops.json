@@ -874,32 +874,7 @@
         "refresh_player": null,
         "refresh_time": 0,
         "refresh_set": 0,
-        "exists": [
-          [
-            [
-              2025,
-              9,
-              29
-            ],
-            [
-              0,
-              0,
-              0
-            ]
-          ],
-          [
-            [
-              2026,
-              1,
-              8
-            ],
-            [
-              12,
-              0,
-              0
-            ]
-          ]
-        ]
+        "exists": "stop"
       },
       {
         "name": "Stage 2",
@@ -1421,32 +1396,7 @@
         "refresh_player": null,
         "refresh_time": 0,
         "refresh_set": 0,
-        "exists": [
-          [
-            [
-              2025,
-              11,
-              6
-            ],
-            [
-              0,
-              0,
-              0
-            ]
-          ],
-          [
-            [
-              2026,
-              1,
-              8
-            ],
-            [
-              12,
-              0,
-              0
-            ]
-          ]
-        ]
+        "exists": "stop"
       },
       {
         "name": "Stage 3",
@@ -1968,6 +1918,1491 @@
         "refresh_player": null,
         "refresh_time": 0,
         "refresh_set": 0,
+        "exists": "stop"
+      },
+      {
+        "name": "Stage 1",
+        "goods": [
+          {
+            "name": "Hay Bale Shadow",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/dress/dress_1010007",
+            "id": 10102,
+            "limit": 1,
+            "pt_reward": 1000,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 10000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 1010007,
+                "type": 46,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/dress/dress_1010007",
+                "name": "Hay Bale Shadow"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Floating Gun",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/dress/dress_1020001",
+            "id": 10000,
+            "limit": 1,
+            "pt_reward": 1000,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 10000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 1020001,
+                "type": 46,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/dress/dress_1020001",
+                "name": "Floating Gun"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "The Hero is Here",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/action/herocoming",
+            "id": 10103,
+            "limit": 1,
+            "pt_reward": 500,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 5000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 1013,
+                "type": 51,
+                "linkable": false,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/action/herocoming",
+                "name": "The Hero is Here"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Shake Hands",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/action/handshake",
+            "id": 10001,
+            "limit": 1,
+            "pt_reward": 500,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 5000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 2001,
+                "type": 51,
+                "linkable": false,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/action/handshake",
+                "name": "Shake Hands"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Excited Jump",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/action/vjump",
+            "id": 10002,
+            "limit": 1,
+            "pt_reward": 500,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 5000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 1008,
+                "type": 51,
+                "linkable": false,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/action/vjump",
+                "name": "Excited Jump"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Flaunt Muscles",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/action/muscle",
+            "id": 10003,
+            "limit": 1,
+            "pt_reward": 500,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 5000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 1011,
+                "type": 51,
+                "linkable": false,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/action/muscle",
+                "name": "Flaunt Muscles"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Stellar Tickets",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/170000",
+            "id": 10104,
+            "limit": 10,
+            "pt_reward": 2000,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 20000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 170000,
+                "type": 0,
+                "linkable": false,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/170000",
+                "name": "Stellar Tickets"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Wheat",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_2000",
+            "id": 10105,
+            "limit": 5,
+            "pt_reward": 20,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 200,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 2000,
+                "type": 41,
+                "linkable": true,
+                "rarity": 2,
+                "amount": 10,
+                "blueprint": false,
+                "icon": "island/props/item_2000",
+                "name": "Wheat"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Corn",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_2001",
+            "id": 10106,
+            "limit": 5,
+            "pt_reward": 20,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 200,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 2001,
+                "type": 41,
+                "linkable": true,
+                "rarity": 2,
+                "amount": 10,
+                "blueprint": false,
+                "icon": "island/props/item_2001",
+                "name": "Corn"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Grass",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_2008",
+            "id": 10107,
+            "limit": 5,
+            "pt_reward": 20,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 200,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 2008,
+                "type": 41,
+                "linkable": true,
+                "rarity": 2,
+                "amount": 10,
+                "blueprint": false,
+                "icon": "island/props/item_2008",
+                "name": "Grass"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Rice",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_2002",
+            "id": 10108,
+            "limit": 5,
+            "pt_reward": 20,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 200,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 2002,
+                "type": 41,
+                "linkable": true,
+                "rarity": 2,
+                "amount": 10,
+                "blueprint": false,
+                "icon": "island/props/item_2002",
+                "name": "Rice"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Napa Cabbage",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_2003",
+            "id": 10109,
+            "limit": 5,
+            "pt_reward": 20,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 200,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 2003,
+                "type": 41,
+                "linkable": true,
+                "rarity": 2,
+                "amount": 10,
+                "blueprint": false,
+                "icon": "island/props/item_2003",
+                "name": "Napa Cabbage"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Soy Beans",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_2006",
+            "id": 10110,
+            "limit": 5,
+            "pt_reward": 20,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 200,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 2006,
+                "type": 41,
+                "linkable": true,
+                "rarity": 2,
+                "amount": 10,
+                "blueprint": false,
+                "icon": "island/props/item_2006",
+                "name": "Soy Beans"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Potato",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_2005",
+            "id": 10111,
+            "limit": 5,
+            "pt_reward": 40,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 400,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 2005,
+                "type": 41,
+                "linkable": true,
+                "rarity": 2,
+                "amount": 10,
+                "blueprint": false,
+                "icon": "island/props/item_2005",
+                "name": "Potato"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Island EXP Textbook T1",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100001",
+            "id": 10112,
+            "limit": 25,
+            "pt_reward": 20,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 200,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100001,
+                "type": 41,
+                "linkable": true,
+                "rarity": 3,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100001",
+                "name": "Island EXP Textbook T1"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Island EXP Textbook T2",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100002",
+            "id": 10113,
+            "limit": 5,
+            "pt_reward": 400,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 4000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100002,
+                "type": 41,
+                "linkable": true,
+                "rarity": 4,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100002",
+                "name": "Island EXP Textbook T2"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Island EXP Textbook T3",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100003",
+            "id": 10114,
+            "limit": 5,
+            "pt_reward": 1600,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 16000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100003,
+                "type": 41,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100003",
+                "name": "Island EXP Textbook T3"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Production Textbook T1",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100101",
+            "id": 10115,
+            "limit": 5,
+            "pt_reward": 200,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 200,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100101,
+                "type": 41,
+                "linkable": true,
+                "rarity": 3,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100101",
+                "name": "Production Textbook T1"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Production Textbook T2",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100102",
+            "id": 10116,
+            "limit": 5,
+            "pt_reward": 400,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 4000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100102,
+                "type": 41,
+                "linkable": true,
+                "rarity": 4,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100102",
+                "name": "Production Textbook T2"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Production Textbook T3",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100103",
+            "id": 10117,
+            "limit": 6,
+            "pt_reward": 1500,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 15000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100103,
+                "type": 41,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100103",
+                "name": "Production Textbook T3"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Island Development Gem",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100201",
+            "id": 10118,
+            "limit": 2,
+            "pt_reward": 2000,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 20000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100201,
+                "type": 41,
+                "linkable": true,
+                "rarity": 4,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100201",
+                "name": "Island Development Gem"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Hardcover Book",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift02",
+            "id": 10119,
+            "limit": 2,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180002,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift02",
+                "name": "Hardcover Book"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Bouquet",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift03",
+            "id": 10120,
+            "limit": 2,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180003,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift03",
+                "name": "Bouquet"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Ceremonial Sword",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift04",
+            "id": 10121,
+            "limit": 2,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180004,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift04",
+                "name": "Ceremonial Sword"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Fluffy Stuffed Animal",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift05",
+            "id": 10122,
+            "limit": 2,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180005,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift05",
+                "name": "Fluffy Stuffed Animal"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Antique Ornament",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift06",
+            "id": 10123,
+            "limit": 2,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180006,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift06",
+                "name": "Antique Ornament"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Exquisite Accessory",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift07",
+            "id": 10124,
+            "limit": 2,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180007,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift07",
+                "name": "Exquisite Accessory"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Premium Perfume",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift08",
+            "id": 10125,
+            "limit": 2,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180008,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift08",
+                "name": "Premium Perfume"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Game Console Set",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift09",
+            "id": 10126,
+            "limit": 2,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180009,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift09",
+                "name": "Game Console Set"
+              }
+            ],
+            "time": null
+          }
+        ],
+        "free_refreshes": 0,
+        "refresh_player": null,
+        "refresh_time": 0,
+        "refresh_set": 0,
+        "exists": [
+          [
+            [
+              2025,
+              11,
+              6
+            ],
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          [
+            [
+              2026,
+              2,
+              5
+            ],
+            [
+              12,
+              0,
+              0
+            ]
+          ]
+        ]
+      },
+      {
+        "name": "Stage 2",
+        "goods": [
+          {
+            "name": "Stellar Tickets",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/170000",
+            "id": 10127,
+            "limit": 10,
+            "pt_reward": 2000,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 20000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 170000,
+                "type": 0,
+                "linkable": false,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/170000",
+                "name": "Stellar Tickets"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Island EXP Textbook T1",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100001",
+            "id": 10128,
+            "limit": 25,
+            "pt_reward": 20,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 200,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100001,
+                "type": 41,
+                "linkable": true,
+                "rarity": 3,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100001",
+                "name": "Island EXP Textbook T1"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Island EXP Textbook T2",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100002",
+            "id": 10129,
+            "limit": 10,
+            "pt_reward": 400,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 4000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100002,
+                "type": 41,
+                "linkable": true,
+                "rarity": 4,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100002",
+                "name": "Island EXP Textbook T2"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Island EXP Textbook T3",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100003",
+            "id": 10130,
+            "limit": 5,
+            "pt_reward": 1600,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 16000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100003,
+                "type": 41,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100003",
+                "name": "Island EXP Textbook T3"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Production Textbook T1",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100101",
+            "id": 10131,
+            "limit": 5,
+            "pt_reward": 200,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 200,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100101,
+                "type": 41,
+                "linkable": true,
+                "rarity": 3,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100101",
+                "name": "Production Textbook T1"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Production Textbook T2",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100102",
+            "id": 10132,
+            "limit": 5,
+            "pt_reward": 400,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 4000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100102,
+                "type": 41,
+                "linkable": true,
+                "rarity": 4,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100102",
+                "name": "Production Textbook T2"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Production Textbook T3",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100103",
+            "id": 10133,
+            "limit": 8,
+            "pt_reward": 1500,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 15000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100103,
+                "type": 41,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100103",
+                "name": "Production Textbook T3"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Island Development Gem",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100201",
+            "id": 10134,
+            "limit": 3,
+            "pt_reward": 2000,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 20000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100201,
+                "type": 41,
+                "linkable": true,
+                "rarity": 4,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100201",
+                "name": "Island Development Gem"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Hardcover Book",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift02",
+            "id": 10135,
+            "limit": 2,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180002,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift02",
+                "name": "Hardcover Book"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Bouquet",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift03",
+            "id": 10136,
+            "limit": 2,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180003,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift03",
+                "name": "Bouquet"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Ceremonial Sword",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift04",
+            "id": 10137,
+            "limit": 2,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180004,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift04",
+                "name": "Ceremonial Sword"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Fluffy Stuffed Animal",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift05",
+            "id": 10138,
+            "limit": 2,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180005,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift05",
+                "name": "Fluffy Stuffed Animal"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Antique Ornament",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift06",
+            "id": 10139,
+            "limit": 2,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180006,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift06",
+                "name": "Antique Ornament"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Exquisite Accessory",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift07",
+            "id": 10140,
+            "limit": 2,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180007,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift07",
+                "name": "Exquisite Accessory"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Premium Perfume",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift08",
+            "id": 10141,
+            "limit": 2,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180008,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift08",
+                "name": "Premium Perfume"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Game Console Set",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift09",
+            "id": 10142,
+            "limit": 2,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180009,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift09",
+                "name": "Game Console Set"
+              }
+            ],
+            "time": null
+          }
+        ],
+        "free_refreshes": 0,
+        "refresh_player": null,
+        "refresh_time": 0,
+        "refresh_set": 0,
         "exists": [
           [
             [
@@ -1984,8 +3419,555 @@
           [
             [
               2026,
+              2,
+              5
+            ],
+            [
+              12,
+              0,
+              0
+            ]
+          ]
+        ]
+      },
+      {
+        "name": "Stage 3",
+        "goods": [
+          {
+            "name": "Stellar Tickets",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/170000",
+            "id": 10143,
+            "limit": 10,
+            "pt_reward": 2000,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 20000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 170000,
+                "type": 0,
+                "linkable": false,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/170000",
+                "name": "Stellar Tickets"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Island EXP Textbook T1",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100001",
+            "id": 10144,
+            "limit": 50,
+            "pt_reward": 20,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 200,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100001,
+                "type": 41,
+                "linkable": true,
+                "rarity": 3,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100001",
+                "name": "Island EXP Textbook T1"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Island EXP Textbook T2",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100002",
+            "id": 10145,
+            "limit": 15,
+            "pt_reward": 400,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 4000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100002,
+                "type": 41,
+                "linkable": true,
+                "rarity": 4,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100002",
+                "name": "Island EXP Textbook T2"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Island EXP Textbook T3",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100003",
+            "id": 10146,
+            "limit": 10,
+            "pt_reward": 1600,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 16000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100003,
+                "type": 41,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100003",
+                "name": "Island EXP Textbook T3"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Production Textbook T1",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100101",
+            "id": 10147,
+            "limit": 10,
+            "pt_reward": 200,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 200,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100101,
+                "type": 41,
+                "linkable": true,
+                "rarity": 3,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100101",
+                "name": "Production Textbook T1"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Production Textbook T2",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100102",
+            "id": 10148,
+            "limit": 10,
+            "pt_reward": 400,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 4000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100102,
+                "type": 41,
+                "linkable": true,
+                "rarity": 4,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100102",
+                "name": "Production Textbook T2"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Production Textbook T3",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100103",
+            "id": 10149,
+            "limit": 10,
+            "pt_reward": 1500,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 15000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100103,
+                "type": 41,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100103",
+                "name": "Production Textbook T3"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Island Development Gem",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/props/item_100201",
+            "id": 10150,
+            "limit": 5,
+            "pt_reward": 2000,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 20000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 100201,
+                "type": 41,
+                "linkable": true,
+                "rarity": 4,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "island/props/item_100201",
+                "name": "Island Development Gem"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Hardcover Book",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift02",
+            "id": 10151,
+            "limit": 4,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180002,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift02",
+                "name": "Hardcover Book"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Bouquet",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift03",
+            "id": 10152,
+            "limit": 4,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180003,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift03",
+                "name": "Bouquet"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Ceremonial Sword",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift04",
+            "id": 10153,
+            "limit": 4,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180004,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift04",
+                "name": "Ceremonial Sword"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Fluffy Stuffed Animal",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift05",
+            "id": 10154,
+            "limit": 4,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180005,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift05",
+                "name": "Fluffy Stuffed Animal"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Antique Ornament",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift06",
+            "id": 10155,
+            "limit": 4,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180006,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift06",
+                "name": "Antique Ornament"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Exquisite Accessory",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift07",
+            "id": 10156,
+            "limit": 4,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180007,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift07",
+                "name": "Exquisite Accessory"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Premium Perfume",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift08",
+            "id": 10157,
+            "limit": 4,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180008,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift08",
+                "name": "Premium Perfume"
+              }
+            ],
+            "time": null
+          },
+          {
+            "name": "Game Console Set",
+            "discount": 0,
+            "discount_time": null,
+            "icon": "island/goods/gift09",
+            "id": 10158,
+            "limit": 4,
+            "pt_reward": 300,
+            "cost": {
+              "id": 1,
+              "type": 41,
+              "linkable": true,
+              "rarity": 2,
+              "amount": 3000,
+              "blueprint": false,
+              "icon": "island/props/1",
+              "name": "Development Funds"
+            },
+            "gains": [
+              {
+                "id": 180009,
+                "type": 0,
+                "linkable": true,
+                "rarity": 5,
+                "amount": 1,
+                "blueprint": false,
+                "icon": "props/gift09",
+                "name": "Game Console Set"
+              }
+            ],
+            "time": null
+          }
+        ],
+        "free_refreshes": 0,
+        "refresh_player": null,
+        "refresh_time": 0,
+        "refresh_set": 0,
+        "exists": [
+          [
+            [
+              2026,
               1,
               8
+            ],
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          [
+            [
+              2026,
+              2,
+              5
             ],
             [
               12,
@@ -2716,8 +4698,8 @@
               [
                 [
                   2026,
-                  1,
-                  8
+                  2,
+                  5
                 ],
                 [
                   12,
@@ -2773,8 +4755,8 @@
               [
                 [
                   2026,
-                  1,
-                  8
+                  2,
+                  5
                 ],
                 [
                   12,
@@ -3112,8 +5094,8 @@
               [
                 [
                   2026,
-                  1,
-                  8
+                  2,
+                  5
                 ],
                 [
                   12,
@@ -3169,8 +5151,8 @@
               [
                 [
                   2026,
-                  1,
-                  8
+                  2,
+                  5
                 ],
                 [
                   12,
@@ -3226,8 +5208,8 @@
               [
                 [
                   2026,
-                  1,
-                  8
+                  2,
+                  5
                 ],
                 [
                   12,
