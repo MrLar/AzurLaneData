@@ -5424,8 +5424,24 @@
     "other": [],
     "maps": [],
     "notes": [
-      "Available as map clear reward during Glorious Battle",
-      "Available as map drop (SP2) during Glorious Battle"
+      "Available as map clear 3 star reward during Glorious Battle"
+    ],
+    "events": [
+      "Glorious Battle"
+    ]
+  },
+  "83": {
+    "id": 83,
+    "timer": "00:19:00",
+    "light": true,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available as map drop (SP2) during Glorious Battle",
+      "Available as map clear reward during Glorious Battle"
     ],
     "events": [
       "Glorious Battle"
@@ -5441,18 +5457,6 @@
         ]
       }
     ]
-  },
-  "83": {
-    "id": 83,
-    "timer": "00:19:00",
-    "light": true,
-    "heavy": false,
-    "limited": null,
-    "special": false,
-    "other": [],
-    "maps": [],
-    "notes": [],
-    "events": []
   },
   "86": {
     "id": 86,
