@@ -49870,6 +49870,34 @@
       }
     ]
   },
+  "40141": {
+    "id": 40141,
+    "name": "Race Track Fever Bundle",
+    "description": "Buy 3 featured skins to receive a Promise Ring",
+    "type": 17,
+    "icon": "props/black5bundle1",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 15006,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/ring",
+        "name": "Promise Ring"
+      }
+    ]
+  },
   "40701": {
     "id": 40701,
     "name": "Homecoming Supply Pack (Day 1)",
@@ -58710,6 +58738,427 @@
       }
     ]
   },
+  "81429": {
+    "id": 81429,
+    "name": "Choose-Your-Own Gift Pack I 2025",
+    "description": "Can be used to obtain one of the following items: 1x Prototype Bulin MKII, 15x Wisdom Cubes.",
+    "type": 13,
+    "icon": "props/59555",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN"
+    ],
+    "contains": [
+      {
+        "id": 2,
+        "type": 2,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "ships/compact/kin",
+        "name": "Prototype Bulin MKII"
+      },
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 15,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      }
+    ]
+  },
+  "81430": {
+    "id": 81430,
+    "name": "Choose-Your-Own Gift Pack II 2025",
+    "description": "Can be used to obtain one of the following items: 1x Promise Ring, 15x Special General Blueprints - Series 8, 20x Wisdom Cubes.",
+    "type": 13,
+    "icon": "props/59504",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN"
+    ],
+    "contains": [
+      {
+        "id": 15006,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/ring",
+        "name": "Promise Ring"
+      },
+      {
+        "id": 42076,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 15,
+        "blueprint": false,
+        "icon": "props/42076",
+        "name": "Special General Blueprint - Series 8"
+      },
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 20,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      }
+    ]
+  },
+  "81431": {
+    "id": 81431,
+    "name": "Choose-Your-Own Gift Pack III 2025",
+    "description": "Can be used to obtain one of the following items: 1x Skin Voucher (2025), 25x Prototype Weapon Blueprints - Series 1, 25x Prototype Weapon Blueprints - Series 2, 25x Prototype Weapon Blueprints - Series 3, 25x Prototype Weapon Blueprints - Series 4, 25x Prototype Weapon Blueprints - Series 5, 25x Prototype Weapon Blueprints - Series 6, 25x Prototype Weapon Blueprints - Series 7, 30x Wisdom Cubes.",
+    "type": 13,
+    "icon": "props/59505",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN"
+    ],
+    "contains": [
+      {
+        "id": 81432,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/skin_exchange_n",
+        "name": "Static Skin Voucher (2025)"
+      },
+      {
+        "id": 14001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 25,
+        "blueprint": false,
+        "icon": "props/14001",
+        "name": "Prototype Weapon Blueprint - Series 1"
+      },
+      {
+        "id": 14002,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 25,
+        "blueprint": false,
+        "icon": "props/14002",
+        "name": "Prototype Weapon Blueprint - Series 2"
+      },
+      {
+        "id": 14003,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 25,
+        "blueprint": false,
+        "icon": "props/14003",
+        "name": "Prototype Weapon Blueprint - Series 3"
+      },
+      {
+        "id": 14004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 25,
+        "blueprint": false,
+        "icon": "props/14004",
+        "name": "Prototype Weapon Blueprint - Series 4"
+      },
+      {
+        "id": 14005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 25,
+        "blueprint": false,
+        "icon": "props/14005",
+        "name": "Prototype Weapon Blueprint - Series 5"
+      },
+      {
+        "id": 14006,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 25,
+        "blueprint": false,
+        "icon": "props/14006",
+        "name": "Prototype Weapon Blueprint - Series 6"
+      },
+      {
+        "id": 14007,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 25,
+        "blueprint": false,
+        "icon": "props/14007",
+        "name": "Prototype Weapon Blueprint - Series 7"
+      },
+      {
+        "id": 20001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 30,
+        "blueprint": false,
+        "icon": "props/20001",
+        "name": "Wisdom Cube"
+      }
+    ]
+  },
+  "81432": {
+    "id": 81432,
+    "name": "Static Skin Voucher (2025)",
+    "description": "Use from your Depot to receive 1 skin of your choosing.\n(You may only choose from the offered lineup. If you already own every skin, you will instead receive an Outfit Coupon.)",
+    "type": 26,
+    "icon": "props/skin_exchange_n",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN"
+    ],
+    "contains": []
+  },
+  "81433": {
+    "id": 81433,
+    "name": "Choose-Your-Own Gift Pack I 2025",
+    "description": "Contains 980x Gems, 1x Choose-Your-Own Gift Pack I, and loads of other valuable rewards.",
+    "type": 17,
+    "icon": "props/pack_2024_98",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN"
+    ],
+    "contains": [
+      {
+        "id": 81429,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/59555",
+        "name": "Choose-Your-Own Gift Pack I 2025"
+      },
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 980,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
+      },
+      {
+        "id": 16501,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 100,
+        "blueprint": false,
+        "icon": "props/16501",
+        "name": "T1 EXP Data Pack"
+      },
+      {
+        "id": 59010,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1000,
+        "blueprint": false,
+        "icon": "props/specialarmor_prt",
+        "name": "Specialized Core"
+      }
+    ]
+  },
+  "81434": {
+    "id": 81434,
+    "name": "Choose-Your-Own Gift Pack II 2025",
+    "description": "Contains 1980x Gems, 1x Choose-Your-Own Gift Pack II, and loads of other valuable rewards.",
+    "type": 17,
+    "icon": "props/pack_2024_198",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN"
+    ],
+    "contains": [
+      {
+        "id": 81430,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/59504",
+        "name": "Choose-Your-Own Gift Pack II 2025"
+      },
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1980,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
+      },
+      {
+        "id": 15008,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1000,
+        "blueprint": false,
+        "icon": "props/15008",
+        "name": "Cognitive Chips"
+      },
+      {
+        "id": 30114,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 30,
+        "blueprint": false,
+        "icon": "props/30114",
+        "name": "Universal T4 Part"
+      },
+      {
+        "id": 59010,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 2000,
+        "blueprint": false,
+        "icon": "props/specialarmor_prt",
+        "name": "Specialized Core"
+      }
+    ]
+  },
+  "81435": {
+    "id": 81435,
+    "name": "Choose-Your-Own Gift Pack III 2025",
+    "description": "Contains 3280x Gems, 1x Choose-Your-Own Gift Pack III, and loads of other valuable rewards.",
+    "type": 17,
+    "icon": "props/pack_2024_328",
+    "rarity": 5,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN"
+    ],
+    "contains": [
+      {
+        "id": 81431,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/59505",
+        "name": "Choose-Your-Own Gift Pack III 2025"
+      },
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 3280,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
+      },
+      {
+        "id": 15012,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 150,
+        "blueprint": false,
+        "icon": "props/15012",
+        "name": "Cognitive Array"
+      },
+      {
+        "id": 15008,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 2000,
+        "blueprint": false,
+        "icon": "props/15008",
+        "name": "Cognitive Chips"
+      },
+      {
+        "id": 16004,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "props/16004",
+        "name": "T4 Offensive Skill Book"
+      },
+      {
+        "id": 16014,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "props/16014",
+        "name": "T4 Defensive Skill Book"
+      },
+      {
+        "id": 16024,
+        "type": 0,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 2,
+        "blueprint": false,
+        "icon": "props/16024",
+        "name": "T4 Support Skill Book"
+      },
+      {
+        "id": 16032,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 30,
+        "blueprint": false,
+        "icon": "props/16032",
+        "name": "T2 META Universal Skill Book"
+      }
+    ]
+  },
   "100031": {
     "id": 100031,
     "name": "Map Coordinates: Southwest Ocean Ridge A",
@@ -61210,6 +61659,34 @@
         "rarity": 5,
         "icon": "uipreview/103",
         "name": "Iridescent Fantasy"
+      }
+    ]
+  },
+  "9999999110": {
+    "id": 9999999110,
+    "name": "Black Friday UI",
+    "description": "The Black Friday themed Battle UI",
+    "type": 97,
+    "icon": "props/ui_110",
+    "rarity": 4,
+    "locations": [
+      "Black Friday Event (involves real money)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 110,
+        "type": 99,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": false,
+        "rarity": 5,
+        "icon": "uipreview/110",
+        "name": "Black Friday"
       }
     ]
   },

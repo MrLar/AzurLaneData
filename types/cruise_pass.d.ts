@@ -12,4 +12,5 @@ export interface CruisePass {
     season: number
     free_items: ItemDrop[]
     paid_items: ItemDrop[]
+    is_black_friday: boolean
 }
