@@ -96,7 +96,7 @@ Describes growth for a single attribute across levels.
 | **attr**  | [`IslandAttr`](#island-attr) |           The Island attribute.           |
 | **value** |          `number[]`          | Attribute values or increments per level. |
 
-TODO: Formula
+TODO: The formula for how character attributes are built will follow at a later date.
 
 # Island Skill
 
@@ -127,17 +127,17 @@ Represents a skin for an Island character.
 
 Represents a cosmetic dress/accessory for Island characters or the Commander.
 
-|     Property      |                  Type                   |                                          Description                                          |
-| :---------------: | :-------------------------------------: | :-------------------------------------------------------------------------------------------: |
-|     **name**      |                `string`                 |                                      Name of the dress.                                       |
-|     **icon**      |                `string`                 |                                      Icon of the dress.                                       |
-|      **id**       |                `number`                 |                                    Unique ID of the dress.                                    |
-|    **related**    |                `number`                 | Related character/skin ID. TODO: Clarify whether this links to a character or an Island Skin. |
-| **default_skins** |               `number[]`                |                Skin IDs that are enabled by default when this dress is owned.                 |
-|     **skins**     |               `number[]`                |                 All skin IDs that interact with / are affected by this dress.                 |
-|    **rarity**     |     [`Rarity`](../common.md#rarity)     |                                     Rarity of the dress.                                      |
-|     **type**      | [`IslandDressType`](#island-dress-type) |                                   Dress type slot/category.                                   |
-| **is_commander**  |                `boolean`                |            Whether this dress is for the Commander avatar rather than ship girls.             |
+|     Property      |                  Type                   |                              Description                               |
+| :---------------: | :-------------------------------------: | :--------------------------------------------------------------------: |
+|     **name**      |                `string`                 |                           Name of the dress.                           |
+|     **icon**      |                `string`                 |                           Icon of the dress.                           |
+|      **id**       |                `number`                 |                        Unique ID of the dress.                         |
+|    **related**    |                `number`                 |                       Related character/skin ID.                       |
+| **default_skins** |               `number[]`                |     Skin IDs that are enabled by default when this dress is owned.     |
+|     **skins**     |               `number[]`                |     All skin IDs that interact with / are affected by this dress.      |
+|    **rarity**     |     [`Rarity`](../common.md#rarity)     |                          Rarity of the dress.                          |
+|     **type**      | [`IslandDressType`](#island-dress-type) |                       Dress type slot/category.                        |
+| **is_commander**  |                `boolean`                | Whether this dress is for the Commander avatar rather than ship girls. |
 
 ## Island Dress Type
 
