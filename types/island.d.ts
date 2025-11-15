@@ -40,7 +40,7 @@ export interface IslandCharacter {
     max_break: number
     break_interval: number
     energy: number
-    energy_recover: number
+    energy_recover: number | number[]
     upgrade_energy: number[]
     base_attr: IslandCharacterAttr[]
     growth_attr: IslandCharacterGrowthAttr[]
@@ -177,12 +177,10 @@ export interface IslandSpeedupTicket {
     id: number
     icon: string
     name: string
-    speedup: number
     duration: number
     expires: number[][] | null
     expire_type: 1 | 2
     rarity: Rarity
-    // same as duration really
     type: 1 | 2 | 3
 }
 
@@ -290,11 +288,6 @@ export interface IslandSubShop {
     id: number
     name: string
     goods: IslandShopGood[]
-    free_refreshes: number
-    // unused currently
-    refresh_player: null
-    refresh_time: number
-    refresh_set: number
     exists: number[][][] | null
 }
 

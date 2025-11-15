@@ -12,13 +12,9 @@
     "max_break": 0,
     "break_interval": 0,
     "energy": 999,
-    "energy_recover": 5,
+    "energy_recover": 0,
     "upgrade_energy": [
-      0,
-      10,
-      10,
-      10,
-      20
+      0
     ],
     "base_attr": [
       {
@@ -3248,7 +3244,10 @@
     "max_break": 4,
     "break_interval": 10,
     "energy": 100,
-    "energy_recover": 300,
+    "energy_recover": [
+      291.2621359223301,
+      283.0188679245283
+    ],
     "upgrade_energy": [
       0,
       10,
