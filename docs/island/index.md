@@ -23,7 +23,7 @@ Represents a single item used in the Island Planner game mode.
 |   **influence**    |                           `number`                            |                            Item demand, used for sales.                             |
 |  **order_price**   |                           `number`                            |                             Item price, used for sales.                             |
 |   **categories**   |                          `string[]`                           |      Tags / categories this item belongs to (used for filtering and grouping).      |
-|  **can_convert**   |                           `boolean`                           |      Whether this item can be converted into season points or other resources.      |
+|  **can_convert**   |                           `boolean`                           |               Whether this item can be converted into season points.                |
 | **convert_points** |                           `number`                            |                 Amount of points gained when converting this item.                  |
 | **craftable_at?**  |                          `number[]`                           |          **(Optional)** List of place IDs where this item can be crafted.           |
 |  **sellable_at?**  |                          `number[]`                           |            **(Optional)** List of place IDs where this item can be sold.            |
@@ -62,21 +62,21 @@ Island attributes represent the various skills used in Island Planner:
 
 Represents a single Island Planner character (usually a ship acting as staff).
 
-|       Property        |                              Type                              |                                                       Description                                                        |
-| :-------------------: | :------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
-|        **id**         |                            `number`                            |                                            Unique ID of the Island character.                                            |
-|       **name**        |                            `string`                            |                                      Display name of the character in Island mode.                                       |
-|       **icon**        |                            `string`                            |                                              Icon used for this character..                                              |
-|       **skill**       |                 [`IslandSkill`](#island-skill)                 |                                         Unique Island skill this character has.                                          |
-|     **max_break**     |                            `number`                            |                                Maximum break/limit-break level this character can reach.                                 |
-|  **break_interval**   |                            `number`                            |                                          Amount of levels in each limit break.                                           |
-|      **energy**       |                            `number`                            |                                        Maximum energy (stamina) of the character.                                        |
-|  **energy_recover**   |                      `number \| number[]`                      | Energy recovery value or per-level recovery values. Every limit break simply adds its index, No limit breaks is index 0. |
-|  **upgrade_energy**   |                           `number[]`                           |                                 Energy required to upgrade the character at each stage.                                  |
-|     **base_attr**     |       [`IslandCharacterAttr[]`](#island-character-attr)        |                                              Base Island attribute values.                                               |
-|    **growth_attr**    | [`IslandCharacterGrowthAttr[]`](#island-character-growth-attr) |                                            Attribute growth values per level.                                            |
-| **extra_attr_limits** | [`Array<{ attr: IslandAttr; limit: number[] }>`](#island-attr) |                                           Per-attribute caps/limits for books.                                           |
-|    **exp_needed**     |                           `number[]`                           |                                         Experience required to reach each level.                                         |
+|       Property        |                              Type                              |                                                                                                        Description                                                                                                         |
+| :-------------------: | :------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|        **id**         |                            `number`                            |                                                                                             Unique ID of the Island character.                                                                                             |
+|       **name**        |                            `string`                            |                                                                                       Display name of the character in Island mode.                                                                                        |
+|       **icon**        |                            `string`                            |                                                                                               Icon used for this character..                                                                                               |
+|       **skill**       |                 [`IslandSkill`](#island-skill)                 |                                                                                          Unique Island skill this character has.                                                                                           |
+|     **max_break**     |                            `number`                            |                                                                                 Maximum break/limit-break level this character can reach.                                                                                  |
+|  **break_interval**   |                            `number`                            |                                                                                           Amount of levels in each limit break.                                                                                            |
+|      **energy**       |                            `number`                            |                                                                                         Maximum energy (stamina) of the character.                                                                                         |
+|  **energy_recover**   |                      `number \| number[]`                      | Amount of seconds it takes this character to regenerate 1 stamina. If this is an array index 0 is the base recovery, index 1 recovery with min level skills accounted for and index 3 with max level skills accounted for. |
+|  **upgrade_energy**   |                           `number[]`                           |                                                                                  Energy required to upgrade the character at each stage.                                                                                   |
+|     **base_attr**     |       [`IslandCharacterAttr[]`](#island-character-attr)        |                                                                                               Base Island attribute values.                                                                                                |
+|    **growth_attr**    | [`IslandCharacterGrowthAttr[]`](#island-character-growth-attr) |                                                                                             Attribute growth values per level.                                                                                             |
+| **extra_attr_limits** | [`Array<{ attr: IslandAttr; limit: number[] }>`](#island-attr) |                                                                                            Per-attribute caps/limits for books.                                                                                            |
+|    **exp_needed**     |                           `number[]`                           |                                                                                          Experience required to reach each level.                                                                                          |
 
 # Island Character Attr
 
@@ -91,10 +91,10 @@ Describes a single base attribute value for an Island character.
 
 Describes growth for a single attribute across levels.
 
-| Property  |             Type             |                Description                |
-| :-------: | :--------------------------: | :---------------------------------------: |
-| **attr**  | [`IslandAttr`](#island-attr) |           The Island attribute.           |
-| **value** |          `number[]`          | Attribute values or increments per level. |
+| Property  |             Type             |      Description       |
+| :-------: | :--------------------------: | :--------------------: |
+| **attr**  | [`IslandAttr`](#island-attr) | The Island attribute.  |
+| **value** |          `number[]`          | Growth at limit break. |
 
 TODO: The formula for how character attributes are built will follow at a later date.
 
@@ -253,7 +253,7 @@ Represents a management rank level for a restaurant.
 | **staff_unlock**  | `boolean`  |  Whether reaching this rank unlocks an additional staff slot.  |
 |     **coeff**     |  `number`  |            Sales coefficient applied at this rank.             |
 |  **dish_slots**   |  `number`  | Number of different dishes that can be offered simultaneously. |
-| **dish_capacity** |  `number`  |            Capacity of dishes per slot or in total.            |
+| **dish_capacity** |  `number`  |                  Capacity of dishes per slot.                  |
 | **sales_offsets** | `number[]` |      Modifiers applied to sales based on time/conditions.      |
 
 ---
@@ -541,12 +541,12 @@ Represents a single progress target within a task.
 
 Represents a combo recipe unlocked after specific conditions.
 
-|    Property    |                          Type                          |                                   Description                                   |
-| :------------: | :----------------------------------------------------: | :-----------------------------------------------------------------------------: |
-|     **id**     |                        `number`                        |                             Unique ID of the combo.                             |
-| **create_id**  |                        `number`                        | ID of the [`IslandFormula`](#island-formula) created or modified by this combo. |
-|    **name**    |                        `string`                        |                               Name of the combo.                                |
-|    **icon**    |                        `string`                        |                          Icon representing the combo.                           |
-|   **rarity**   |            [`Rarity`](../common.md#rarity)             |                           Rarity of the combo effect.                           |
-| **conditions** | [`Array<{ id: number; times: number }>`](#island-item) |                       Conditions for unlocking the combo.                       |
-|   **hidden**   |                       `boolean`                        |    Whether the combo remains hidden from the guidebook until fully unlocked.    |
+|    Property    |                          Type                          |                                Description                                |
+| :------------: | :----------------------------------------------------: | :-----------------------------------------------------------------------: |
+|     **id**     |                        `number`                        |                          Unique ID of the combo.                          |
+| **create_id**  |                        `number`                        |        ID of the [`IslandItem`](#island-item) this combo creates.         |
+|    **name**    |                        `string`                        |                            Name of the combo.                             |
+|    **icon**    |                        `string`                        |                       Icon representing the combo.                        |
+|   **rarity**   |            [`Rarity`](../common.md#rarity)             |                        Rarity of the combo effect.                        |
+| **conditions** | [`Array<{ id: number; times: number }>`](#island-item) |                    Conditions for unlocking the combo.                    |
+|   **hidden**   |                       `boolean`                        | Whether the combo remains hidden from the guidebook until fully unlocked. |
