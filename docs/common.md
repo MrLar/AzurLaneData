@@ -17,7 +17,7 @@ Rarity is a numeric value with the range `[1, 6]` where each number represents a
 
 # Nation
 
-Rarity is a numeric value with the **three** ranges `[0, 11]`, `[94, 99]` and `[101, 114]` where each
+Rarity is a numeric value with the **three** ranges `[0, 11]`, `[94, 99]` and `[101, 115]` where each
 number represents an in-game Nation (missing values do not exit in game):
 
 | Value |   Label    |           Description            |
@@ -56,6 +56,7 @@ number represents an in-game Nation (missing values do not exit in game):
 |  112  |    B★RS    |        BLACK★ROCK SHOOTER        |
 |  113  |   Yumia    |          Atelier Yumia           |
 |  114  |  Danmachi  |             DanMachi             |
+|  115  |    DAL     |           Date A Live            |
 
 \* The prefix for all Chinese ships is no longer displayed in-game as of 28th of August 2025.
 

@@ -68830,7 +68830,7 @@
       "offense_boost": 0,
       "survival_boost": 0,
       "tactics_boost": 0,
-      "icon": "sairenboss27",
+      "icon": "weixu_baojian_2",
       "prio": 95
     },
     "buffs": [],
@@ -68870,7 +68870,7 @@
       "offense_boost": 0,
       "survival_boost": 0,
       "tactics_boost": 0,
-      "icon": "sairenboss27",
+      "icon": "weixu_baojian_2",
       "prio": 95
     },
     "buffs": [],
@@ -68910,7 +68910,7 @@
       "offense_boost": 0,
       "survival_boost": 0,
       "tactics_boost": 0,
-      "icon": "sairenboss27",
+      "icon": "weixu_baojian_2",
       "prio": 95
     },
     "buffs": [],
@@ -71495,5 +71495,965 @@
     "time_limit": 180,
     "type": 16,
     "id": 1733
+  },
+  "coalation_1980001_16790301": {
+    "name": "DATE A LANE: SECTOR-1: Normal (Lv. 20) (Boss #1)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16790301,
+      "hull": 2,
+      "nation": 99,
+      "name": "Obstructor Mk. IV",
+      "stats": {
+        "hp": 3924,
+        "fp": 65,
+        "trp": 93,
+        "avi": 0,
+        "aa": 183,
+        "hit": 18,
+        "eva": 18,
+        "spd": 20,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qinraozhe_iv",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1980001,
+    "dungeon_id": 1980001,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1734
+  },
+  "coalation_1980002_16790302": {
+    "name": "DATE A LANE: SECTOR-1: Normal (Lv. 20) (Boss #2)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16790302,
+      "hull": 2,
+      "nation": 99,
+      "name": "Ordering Unit - Sword II \"Resist\"",
+      "stats": {
+        "hp": 3600,
+        "fp": 40,
+        "trp": 60,
+        "avi": 0,
+        "aa": 125,
+        "hit": 18,
+        "eva": 14,
+        "spd": 20,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1980002,
+    "dungeon_id": 1980002,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1735
+  },
+  "coalation_1980101_16790401": {
+    "name": "DATE A LANE: SECTOR-1: Hard (Lv. 35) (Boss #1)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16790401,
+      "hull": 2,
+      "nation": 99,
+      "name": "Obstructor Mk. IV",
+      "stats": {
+        "hp": 5449,
+        "fp": 84,
+        "trp": 118,
+        "avi": 0,
+        "aa": 237,
+        "hit": 21,
+        "eva": 21,
+        "spd": 20,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qinraozhe_iv",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1980101,
+    "dungeon_id": 1980101,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1736
+  },
+  "coalation_1980102_16790402": {
+    "name": "DATE A LANE: SECTOR-1: Hard (Lv. 35) (Boss #2)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16790402,
+      "hull": 2,
+      "nation": 99,
+      "name": "Ordering Unit - Sword II \"Resist\"",
+      "stats": {
+        "hp": 7200,
+        "fp": 132,
+        "trp": 0,
+        "avi": 0,
+        "aa": 115,
+        "hit": 21,
+        "eva": 16,
+        "spd": 20,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1980102,
+    "dungeon_id": 1980102,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1737
+  },
+  "coalation_1981001_16791301": {
+    "name": "DATE A LANE: SECTOR-5: Normal (Lv. 50) (Boss #1)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16791301,
+      "hull": 2,
+      "nation": 99,
+      "name": "Obstructor Mk. IV",
+      "stats": {
+        "hp": 7635,
+        "fp": 133,
+        "trp": 178,
+        "avi": 0,
+        "aa": 321,
+        "hit": 24,
+        "eva": 19,
+        "spd": 20,
+        "luck": 4,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qinraozhe_iv",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1981001,
+    "dungeon_id": 1981001,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1756
+  },
+  "coalation_1981002_16791302": {
+    "name": "DATE A LANE: SECTOR-5: Normal (Lv. 50) (Boss #2)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16791302,
+      "hull": 2,
+      "nation": 99,
+      "name": "Ordering Unit - Sword II \"Resist\"",
+      "stats": {
+        "hp": 18960,
+        "fp": 89,
+        "trp": 175,
+        "avi": 0,
+        "aa": 210,
+        "hit": 28,
+        "eva": 27,
+        "spd": 18,
+        "luck": 8,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1981002,
+    "dungeon_id": 1981002,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1757
+  },
+  "coalation_1981003_16791303": {
+    "name": "DATE A LANE: SECTOR-2: Normal (Lv. 50) (Boss #3)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16791303,
+      "hull": 2,
+      "nation": 99,
+      "name": "DOS - Sword III - Collide",
+      "stats": {
+        "hp": 18960,
+        "fp": 89,
+        "trp": 175,
+        "avi": 0,
+        "aa": 210,
+        "hit": 28,
+        "eva": 27,
+        "spd": 18,
+        "luck": 8,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_3",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1981003,
+    "dungeon_id": 1981003,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1740
+  },
+  "coalation_1982001_16792301": {
+    "name": "DATE A LANE: SECTOR-5: Hard (Lv. 65) (Boss #1)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16792301,
+      "hull": 2,
+      "nation": 99,
+      "name": "Obstructor Mk. IV",
+      "stats": {
+        "hp": 7600,
+        "fp": 70,
+        "trp": 110,
+        "avi": 0,
+        "aa": 150,
+        "hit": 27,
+        "eva": 27,
+        "spd": 18,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 65,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qinraozhe_iv",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1982001,
+    "dungeon_id": 1982001,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1759
+  },
+  "coalation_1982002_16792302": {
+    "name": "DATE A LANE: SECTOR-5: Hard (Lv. 65) (Boss #2)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16792302,
+      "hull": 2,
+      "nation": 99,
+      "name": "Ordering Unit - Sword II \"Resist\"",
+      "stats": {
+        "hp": 29600,
+        "fp": 155,
+        "trp": 145,
+        "avi": 0,
+        "aa": 235,
+        "hit": 38,
+        "eva": 46,
+        "spd": 20,
+        "luck": 18,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 65,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1982002,
+    "dungeon_id": 1982002,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1760
+  },
+  "coalation_1982003_16792303": {
+    "name": "DATE A LANE: SECTOR-2: Hard (Lv. 65) (Boss #3)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16792303,
+      "hull": 2,
+      "nation": 99,
+      "name": "DOS - Sword III - Collide",
+      "stats": {
+        "hp": 29600,
+        "fp": 155,
+        "trp": 145,
+        "avi": 0,
+        "aa": 235,
+        "hit": 38,
+        "eva": 46,
+        "spd": 20,
+        "luck": 18,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 65,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_3",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1982003,
+    "dungeon_id": 1982003,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1743
+  },
+  "coalation_1981004_16791304": {
+    "name": "DATE A LANE: SECTOR-3: Normal (Lv. 50) (Boss #3)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16791304,
+      "hull": 12,
+      "nation": 99,
+      "name": "DOS - Sword IV - Recover",
+      "stats": {
+        "hp": 22800,
+        "fp": 89,
+        "trp": 120,
+        "avi": 0,
+        "aa": 165,
+        "hit": 24,
+        "eva": 22,
+        "spd": 16,
+        "luck": 8,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_4",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1981004,
+    "dungeon_id": 1981004,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1746
+  },
+  "coalation_1982004_16792304": {
+    "name": "DATE A LANE: SECTOR-3: Hard (Lv. 65) (Boss #3)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16792304,
+      "hull": 12,
+      "nation": 99,
+      "name": "DOS - Sword IV - Recover",
+      "stats": {
+        "hp": 25600,
+        "fp": 150,
+        "trp": 0,
+        "avi": 0,
+        "aa": 240,
+        "hit": 27,
+        "eva": 28,
+        "spd": 16,
+        "luck": 8,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 65,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_4",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1982004,
+    "dungeon_id": 1982004,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1749
+  },
+  "coalation_1981005_16791305": {
+    "name": "DATE A LANE: SECTOR-4: Normal (Lv. 50) (Boss #3)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16791305,
+      "hull": 3,
+      "nation": 99,
+      "name": "DOS - Sword V - Repay",
+      "stats": {
+        "hp": 21800,
+        "fp": 120,
+        "trp": 114,
+        "avi": 0,
+        "aa": 165,
+        "hit": 24,
+        "eva": 22,
+        "spd": 16,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_5",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1981005,
+    "dungeon_id": 1981005,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1752
+  },
+  "coalation_1982005_16792305": {
+    "name": "DATE A LANE: SECTOR-4: Hard (Lv. 65) (Boss #3)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16792305,
+      "hull": 3,
+      "nation": 99,
+      "name": "DOS - Sword V - Repay",
+      "stats": {
+        "hp": 31500,
+        "fp": 180,
+        "trp": 120,
+        "avi": 0,
+        "aa": 360,
+        "hit": 27,
+        "eva": 24,
+        "spd": 18,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 65,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_5",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1982005,
+    "dungeon_id": 1982005,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1755
+  },
+  "coalation_1981006_16791306": {
+    "name": "DATE A LANE: SECTOR-5: Normal (Lv. 50) (Boss #3)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16791306,
+      "hull": 13,
+      "nation": 99,
+      "name": "DOS - Sword VI - Pilgrimage",
+      "stats": {
+        "hp": 23600,
+        "fp": 135,
+        "trp": 65,
+        "avi": 0,
+        "aa": 125,
+        "hit": 24,
+        "eva": 23,
+        "spd": 18,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_6",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1981006,
+    "dungeon_id": 1981006,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1758
+  },
+  "coalation_1982006_16792306": {
+    "name": "DATE A LANE: SECTOR-5: Hard (Lv. 65) (Boss #3)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16792306,
+      "hull": 13,
+      "nation": 99,
+      "name": "DOS - Sword VI - Pilgrimage",
+      "stats": {
+        "hp": 32400,
+        "fp": 186,
+        "trp": 0,
+        "avi": 0,
+        "aa": 365,
+        "hit": 27,
+        "eva": 22,
+        "spd": 16,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 65,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_6",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1982006,
+    "dungeon_id": 1982006,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1761
+  },
+  "coalation_1983001_16793301": {
+    "name": "DATE A LANE: SECTOR-6: Normal (Lv. 80) (Boss #1)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16793301,
+      "hull": 2,
+      "nation": 99,
+      "name": "DOS - Sword III - Collide",
+      "stats": {
+        "hp": 42000,
+        "fp": 180,
+        "trp": 220,
+        "avi": 0,
+        "aa": 560,
+        "hit": 62,
+        "eva": 58,
+        "spd": 18,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_3",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1983001,
+    "dungeon_id": 1983001,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1762
+  },
+  "coalation_1983002_16793302": {
+    "name": "DATE A LANE: SECTOR-6: Normal (Lv. 80) (Boss #2)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16793302,
+      "hull": 3,
+      "nation": 99,
+      "name": "DOS - Sword V - Repay",
+      "stats": {
+        "hp": 45000,
+        "fp": 120,
+        "trp": 0,
+        "avi": 0,
+        "aa": 520,
+        "hit": 43,
+        "eva": 44,
+        "spd": 18,
+        "luck": 30,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_5",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1983002,
+    "dungeon_id": 1983002,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1763
+  },
+  "coalation_1983003_16793303": {
+    "name": "DATE A LANE: SECTOR-6: Normal (Lv. 80) (Boss #3)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16793303,
+      "hull": 13,
+      "nation": 99,
+      "name": "DOS - Sword VI - Pilgrimage",
+      "stats": {
+        "hp": 46000,
+        "fp": 220,
+        "trp": 180,
+        "avi": 0,
+        "aa": 460,
+        "hit": 46,
+        "eva": 55,
+        "spd": 22,
+        "luck": 30,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_6",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1983003,
+    "dungeon_id": 1983003,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1764
+  },
+  "coalation_1983004_16793304": {
+    "name": "DATE A LANE: SECTOR-6: Normal (Lv. 80) (Boss #4)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16793304,
+      "hull": 6,
+      "nation": 99,
+      "name": "DOS - Sword VII - Impulse",
+      "stats": {
+        "hp": 56200,
+        "fp": 220,
+        "trp": 0,
+        "avi": 110,
+        "aa": 225,
+        "hit": 42,
+        "eva": 42,
+        "spd": 20,
+        "luck": 18,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_7",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1983004,
+    "dungeon_id": 1983004,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1765
+  },
+  "coalation_1984001_16794301": {
+    "name": "DATE A LANE: SECTOR-6: Hard (Lv. 100) (Boss #1)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16794301,
+      "hull": 2,
+      "nation": 99,
+      "name": "DOS - Sword III - Collide",
+      "stats": {
+        "hp": 89250,
+        "fp": 198,
+        "trp": 260,
+        "avi": 0,
+        "aa": 350,
+        "hit": 43,
+        "eva": 41,
+        "spd": 18,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_3",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1984001,
+    "dungeon_id": 1984001,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1766
+  },
+  "coalation_1984002_16794302": {
+    "name": "DATE A LANE: SECTOR-6: Hard (Lv. 100) (Boss #2)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16794302,
+      "hull": 3,
+      "nation": 99,
+      "name": "DOS - Sword V - Repay",
+      "stats": {
+        "hp": 91000,
+        "fp": 160,
+        "trp": 0,
+        "avi": 0,
+        "aa": 390,
+        "hit": 43,
+        "eva": 53,
+        "spd": 20,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_5",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1984002,
+    "dungeon_id": 1984002,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1767
+  },
+  "coalation_1984003_16794303": {
+    "name": "DATE A LANE: SECTOR-6: Hard (Lv. 100) (Boss #3)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16794303,
+      "hull": 13,
+      "nation": 99,
+      "name": "DOS - Sword VI - Pilgrimage",
+      "stats": {
+        "hp": 94260,
+        "fp": 240,
+        "trp": 190,
+        "avi": 0,
+        "aa": 265,
+        "hit": 68,
+        "eva": 45,
+        "spd": 16,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_6",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1984003,
+    "dungeon_id": 1984003,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1768
+  },
+  "coalation_1984004_16794304": {
+    "name": "DATE A LANE: SECTOR-6: Hard (Lv. 100) (Boss #4)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16794304,
+      "hull": 6,
+      "nation": 99,
+      "name": "DOS - Sword VII - Impulse",
+      "stats": {
+        "hp": 96200,
+        "fp": 280,
+        "trp": 0,
+        "avi": 0,
+        "aa": 260,
+        "hit": 71,
+        "eva": 33,
+        "spd": 16,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "weixu_baojian_7",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1984004,
+    "dungeon_id": 1984004,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1769
   }
 }

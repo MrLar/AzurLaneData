@@ -66157,6 +66157,1196 @@
       ]
     }
   ],
+  "115010": [
+    {
+      "name": "Halvanhelev",
+      "parts": [
+        {
+          "damage": 180,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            195,
+            205
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169320,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168263,
+          "type": "weapon",
+          "buffs": [
+            "Slow by 5% for 3s"
+          ],
+          "buff_chance": 1
+        }
+      ]
+    }
+  ],
+  "115020": [
+    {
+      "name": "Astral Dress - Adonai Melek",
+      "parts": [
+        {
+          "damage": 240,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            195,
+            205
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169390,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168264,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "115030": [
+    {
+      "name": "Halvanhelev",
+      "parts": [
+        {
+          "damage": 180,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            195,
+            205
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169320,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168263,
+          "type": "weapon",
+          "buffs": [
+            "Slow by 5% for 3s"
+          ],
+          "buff_chance": 1
+        }
+      ]
+    },
+    {
+      "name": "Halvanhelev+ (low hp)",
+      "parts": [
+        {
+          "damage": 800,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.1,
+            1.1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 0.1,
+          "pierce": 0,
+          "shell_range": [
+            1,
+            1
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169440,
+          "weapon_type": 3,
+          "bullet_type": 9,
+          "bullet_id": 168267,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "115050": [
+    {
+      "name": "Astral Dress - Elohim Gibor (Camael)",
+      "parts": [
+        {
+          "damage": 115,
+          "coefficient": 1,
+          "count": 5,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.9,
+            0.7
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            95
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 5,
+          "shell_range": [
+            122.5,
+            137.5
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169280,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168259,
+          "type": "weapon"
+        },
+        {
+          "damage": 500,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 0,
+          "pierce": 5,
+          "shell_range": [
+            190,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169290,
+          "weapon_type": 2,
+          "bullet_type": 2,
+          "bullet_id": 168256,
+          "type": "weapon",
+          "airdrop": true,
+          "buffs": [
+            "Special Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.1 with 1 tick every second for 10s, ID: 115059, Level: 1)"
+          ],
+          "buff_chance": 1
+        },
+        {
+          "damage": 1,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 0,
+          "pierce": 5,
+          "shell_range": [
+            0.5,
+            1.5
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 180018,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 168261,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Astral Dress - Elohim Gibor (Megiddo)",
+      "parts": [
+        {
+          "damage": 140,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.9,
+            0.7
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 15,
+          "velocity": 14,
+          "pierce": 5,
+          "shell_range": [
+            112.5,
+            127.5
+          ],
+          "spread": [
+            16,
+            16
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169300,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168258,
+          "type": "weapon",
+          "buffs": [
+            "Special Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.1 with 1 tick every second for 10s, ID: 115059, Level: 1)"
+          ],
+          "buff_chance": 1
+        },
+        {
+          "damage": 60,
+          "coefficient": 1,
+          "count": 20,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 200,
+          "splash": 0,
+          "velocity": 0,
+          "pierce": 5,
+          "shell_range": [
+            90,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169310,
+          "weapon_type": 24,
+          "bullet_type": 10,
+          "bullet_id": 168257,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "115150": [
+    {
+      "name": "Astral Dress - Elohim (Summon)",
+      "parts": [
+        {
+          "type": "summon",
+          "armor": 0,
+          "hull": 2,
+          "hp": "Current Caster HP",
+          "fp": "100%",
+          "trp": "100%",
+          "aa": "100%",
+          "avi": "0",
+          "rld": "100%",
+          "hit": "100%",
+          "eva": "50%",
+          "spd": "30",
+          "luck": "100%",
+          "asw": "100%",
+          "weapons": [
+            {
+              "type": "weapon",
+              "damage": 20,
+              "coefficient": 1,
+              "count": 1,
+              "stat": "fp",
+              "ratio": 1,
+              "armor_mod": [
+                1.3,
+                1.1,
+                0.9
+              ],
+              "ammo": 3,
+              "is_critical": false,
+              "notes": [],
+              "shrapnel": false,
+              "ignore_shield": true,
+              "range": [
+                0,
+                90
+              ],
+              "aim_type": 1,
+              "angle": 360,
+              "splash": 0,
+              "velocity": 10,
+              "pierce": 0,
+              "shell_range": [
+                200,
+                200
+              ],
+              "spread": [
+                0,
+                0
+              ],
+              "targeting": null,
+              "centered": false,
+              "weapon_id": 169860,
+              "weapon_type": 2,
+              "bullet_type": 1,
+              "bullet_id": 180016,
+              "rld": "2.86s"
+            },
+            {
+              "type": "weapon",
+              "damage": 26,
+              "coefficient": 1,
+              "count": 1,
+              "stat": "fp",
+              "ratio": 1,
+              "armor_mod": [
+                1.3,
+                1.1,
+                0.9
+              ],
+              "ammo": 3,
+              "is_critical": false,
+              "notes": [],
+              "shrapnel": false,
+              "ignore_shield": true,
+              "range": [
+                0,
+                90
+              ],
+              "aim_type": 1,
+              "angle": 360,
+              "splash": 0,
+              "velocity": 10,
+              "pierce": 0,
+              "shell_range": [
+                200,
+                200
+              ],
+              "spread": [
+                0,
+                0
+              ],
+              "targeting": null,
+              "centered": false,
+              "weapon_id": 169860,
+              "weapon_type": 2,
+              "bullet_type": 1,
+              "bullet_id": 180016,
+              "rld": "2.86s"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "115170": [
+    {
+      "name": "Metatron - Kadour",
+      "parts": [
+        {
+          "damage": 120,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 1,
+          "angle": 16,
+          "splash": 20,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            3,
+            3
+          ],
+          "airdrop": true,
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169360,
+          "weapon_type": 2,
+          "bullet_type": 2,
+          "bullet_id": 169351,
+          "type": "weapon",
+          "buffs": [
+            "Decrease AA by 3% for 8s",
+            "Decrease EVA by 3% for 8s"
+          ],
+          "buff_chance": 1
+        }
+      ]
+    },
+    {
+      "name": "Metatron - Kadour (after 10s + every 20s)",
+      "parts": [
+        {
+          "damage": 120,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 1,
+          "angle": 25,
+          "splash": 3,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169410,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 2112,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "115180": [
+    {
+      "name": "Metatron - Artelif",
+      "parts": [
+        {
+          "damage": 90,
+          "coefficient": 1,
+          "count": 15,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 0,
+          "angle": 0,
+          "splash": 0,
+          "velocity": 1,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169370,
+          "weapon_type": 24,
+          "bullet_type": 10,
+          "bullet_id": 169361,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "115090": [
+    {
+      "name": "El Kanaph (Constrictor)",
+      "parts": [
+        {
+          "damage": 60,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            20
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 10,
+          "pierce": 1,
+          "shell_range": [
+            50,
+            50
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169880,
+          "weapon_type": 3,
+          "bullet_type": 11,
+          "bullet_id": 168250,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "El Kanaph (Piercer)",
+      "parts": [
+        {
+          "damage": 300,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.5,
+            1.5,
+            1.5
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 25,
+          "pierce": 99,
+          "shell_range": [
+            195,
+            205
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169890,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168261,
+          "type": "weapon"
+        },
+        {
+          "damage": 600,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.5,
+            1.5,
+            1.5
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 20,
+          "pierce": 99,
+          "shell_range": [
+            195,
+            205
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169890,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168261,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "115110": [
+    {
+      "name": "El Kanaph (Constrictor)",
+      "parts": [
+        {
+          "damage": 80,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            1.2,
+            1.2
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            20
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 10,
+          "pierce": 1,
+          "shell_range": [
+            50,
+            50
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169880,
+          "weapon_type": 3,
+          "bullet_type": 11,
+          "bullet_id": 168250,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "El Kanaph (Piercer)",
+      "parts": [
+        {
+          "damage": 400,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.5,
+            1.5,
+            1.5
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 25,
+          "pierce": 99,
+          "shell_range": [
+            195,
+            205
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169890,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168261,
+          "type": "weapon"
+        },
+        {
+          "damage": 800,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.5,
+            1.5,
+            1.5
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 20,
+          "pierce": 99,
+          "shell_range": [
+            195,
+            205
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169890,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 168261,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "115200": [
+    {
+      "name": "Astral Dress - El (Summon)",
+      "parts": [
+        {
+          "type": "summon",
+          "armor": 0,
+          "hull": 6,
+          "hp": "100%",
+          "fp": "100%",
+          "trp": "100%",
+          "aa": "100%",
+          "avi": "0",
+          "rld": "100%",
+          "hit": "100%",
+          "eva": "50%",
+          "spd": "0",
+          "luck": "100%",
+          "asw": "100%",
+          "weapons": [
+            {
+              "type": "weapon",
+              "damage": 80,
+              "coefficient": 1,
+              "count": 15,
+              "stat": "avi",
+              "ratio": 1,
+              "armor_mod": [
+                1,
+                1,
+                1
+              ],
+              "ammo": 1,
+              "is_critical": false,
+              "notes": [],
+              "shrapnel": false,
+              "ignore_shield": false,
+              "range": [
+                0,
+                200
+              ],
+              "aim_type": 1,
+              "angle": 200,
+              "splash": 0,
+              "velocity": 0,
+              "pierce": 0,
+              "shell_range": [
+                90,
+                110
+              ],
+              "spread": [
+                0,
+                0
+              ],
+              "targeting": null,
+              "centered": false,
+              "weapon_id": 169380,
+              "weapon_type": 1,
+              "bullet_type": 1,
+              "bullet_id": 168278,
+              "rld": "Never",
+              "buffs": [
+                "Slow by 30% for 6s"
+              ],
+              "buff_chnace": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "115210": [
+    {
+      "name": "Astral Dress - El (Summon)",
+      "parts": [
+        {
+          "type": "summon",
+          "armor": 0,
+          "hull": 6,
+          "hp": "100%",
+          "fp": "100%",
+          "trp": "100%",
+          "aa": "100%",
+          "avi": "0",
+          "rld": "100%",
+          "hit": "100%",
+          "eva": "50%",
+          "spd": "0",
+          "luck": "100%",
+          "asw": "100%",
+          "weapons": [
+            {
+              "type": "weapon",
+              "damage": 80,
+              "coefficient": 1,
+              "count": 15,
+              "stat": "avi",
+              "ratio": 1,
+              "armor_mod": [
+                1,
+                1,
+                1
+              ],
+              "ammo": 1,
+              "is_critical": false,
+              "notes": [],
+              "shrapnel": false,
+              "ignore_shield": false,
+              "range": [
+                0,
+                200
+              ],
+              "aim_type": 1,
+              "angle": 200,
+              "splash": 0,
+              "velocity": 0,
+              "pierce": 0,
+              "shell_range": [
+                90,
+                110
+              ],
+              "spread": [
+                0,
+                0
+              ],
+              "targeting": null,
+              "centered": false,
+              "weapon_id": 169380,
+              "weapon_type": 1,
+              "bullet_type": 1,
+              "bullet_id": 168278,
+              "rld": "Never",
+              "buffs": [
+                "Slow by 30% for 6s"
+              ],
+              "buff_chnace": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "115220": [
+    {
+      "name": "Shiryon",
+      "parts": [
+        {
+          "damage": 600,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.4,
+            1.1,
+            1.1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 1,
+          "angle": 16,
+          "splash": 35,
+          "velocity": 0,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            5,
+            5
+          ],
+          "airdrop": true,
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169420,
+          "weapon_type": 24,
+          "bullet_type": 10,
+          "bullet_id": 168265,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "115250": [
+    {
+      "name": "Metatron - Artelif+",
+      "parts": [
+        {
+          "damage": 120,
+          "coefficient": 1,
+          "count": 15,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 0,
+          "angle": 0,
+          "splash": 0,
+          "velocity": 1,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169520,
+          "weapon_type": 24,
+          "bullet_type": 10,
+          "bullet_id": 169511,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "150000": [
     {
       "name": "Sword of Final Judgment",
@@ -84185,6 +85375,102 @@
           "weapon_type": 2,
           "bullet_type": 5,
           "bullet_id": 170862,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "801940": [
+    {
+      "name": "Unwavering Protector",
+      "parts": [
+        {
+          "damage": 10,
+          "coefficient": 1,
+          "count": 16,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 1,
+          "shell_range": [
+            115,
+            125
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169620,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 169611,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "801962": [
+    {
+      "name": "Framework of Logic - Boise II",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1.25,
+          "count": 15,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.75,
+            0.4
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 1,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 170902,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170901,
           "type": "weapon"
         }
       ]
