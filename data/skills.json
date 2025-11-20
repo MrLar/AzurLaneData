@@ -49655,7 +49655,7 @@
     "values": []
   },
   "115050": {
-    "description": "When this unit fires her Main Guns: activates an effect corresponding to which of the following modes Angel Camael is in (the mode switches every time the Main Guns are fired):\n1) Camael: fires a $1 special barrage, then Camael performs an additional $1 special attack (DMG of both attacks is based on the skill's level). Camael starts the battle in this mode.\n2): Megiddo: fires a $1 powerful barrage (DMG is based on the skill's level).\nWhen Camael or Megiddo performs either the special attack or the powerful barrage: inflicts a special Burn to enemies hit by the attack for 10s, inflicting DMG once every second (DMG is based on this unit's FP stat).",
+    "description": "When this unit fires her Main Guns: activates an effect corresponding to which of the following modes Angel Camael is in (the mode switches every time the Main Guns are fired):\n• Camael: fires a $1 special barrage, then Camael performs an additional $1 special attack (DMG of both attacks is based on the skill's level). Camael starts the battle in this mode.\n• Megiddo: fires a $1 powerful barrage (DMG is based on the skill's level).\n\nWhen Camael or Megiddo performs either the special attack or the powerful barrage: inflicts a special Burn to enemies hit by the attack for 10s, inflicting DMG once every second (DMG is based on this unit's FP stat).",
     "opsi_description": null,
     "name": "Astral Dress - Elohim Gibor",
     "max": 10,
@@ -49828,7 +49828,7 @@
     ]
   },
   "115110": {
-    "description": "Every 8s after the battle starts: performs an improved $1 special attack using either Constrictor or Piercer (the first attack performed will be Constrictor and then switches after each special attack; DMG is based on the skill's level).\nWhen either Constrictor or Piercer activate, the following effects are applied:\n1) Constrictor: increases this unit's Main Gun DMG dealt by $2 for 12s;\n2) Piercer: increases this unit's Main Gun shell velocity by $2 for 12s;\nEvery time Constrictor and Piercer have each been used once: 3s later, performs an improved $1 special attack using Sky Rider (DMG is based on the skill's level).",
+    "description": "Every 8s after the battle starts: performs an improved $1 special attack using either Constrictor or Piercer (the first attack performed will be Constrictor and then switches after each special attack; DMG is based on the skill's level).\n\nWhen either Constrictor or Piercer activate, the following effects are applied:\n• Constrictor: increases this unit's Main Gun DMG dealt by $2 for 12s;\n• Piercer: increases this unit's Main Gun shell velocity by $2 for 12s;\n\nEvery time Constrictor and Piercer have each been used once: 3s later, performs an improved $1 special attack using Sky Rider (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "El Kanaph+",
     "max": 10,
@@ -49883,7 +49883,7 @@
     "values": []
   },
   "115140": {
-    "description": "Increases this unit's FP by $1. When the battle starts, and every 5s: deploy Time-Eating Castle in front of this unit (lasting 3s). Every second that an enemy is present within Time-Eating Castle's effective range, Kurumi Tokisaki gains 1 stack of Time (max stack: 50) and, based on the number of enemies affected by Time-Eating Castle, the next Time-Eating Castle gains the following effects:\n1: decreases the SPD of all enemies within its range by $2;\n2: extends its active duration by 1 second;\n3: sets the SPD of all enemies within its range to 0.",
+    "description": "Increases this unit's FP by $1.\n\nWhen the battle starts, and every 5s: deploy Time-Eating Castle in front of this unit (lasting 3s).\nEvery second that an enemy is present within Time-Eating Castle's effective range, Kurumi Tokisaki gains 1 stack of Time (max stack: 50) and, based on the number of enemies affected by Time-Eating Castle, the next Time-Eating Castle gains the following effects:\n• 1: decreases the SPD of all enemies within its range by $2;\n• 2: extends its active duration by 1 second;\n• 3: sets the SPD of all enemies within its range to 0.",
     "opsi_description": null,
     "name": "Time-Eating Castle",
     "max": 10,
@@ -49918,7 +49918,7 @@
     ]
   },
   "115150": {
-    "description": "When the battle starts: creates a Clone on the battlefield. Every 5s: spend 5 stacks of Time to create another Clone; if the Time stack is insufficient, no Clone will be created; up to 3 Clones may exist at the same time.\nClones inherit the current HP value Kurumi Tokisaki had at the time of creation, assist in battle, and perform attacks using a $1 Augment Module.\nWhen a Clone is destroyed, Kurumi Tokisaki recovers 2.0% of her max HP.\nWhen Kurumi Tokisaki takes DMG that would defeat her, if she has a Clone present, she recovers the Clone with the highest HP and restores HP equal to $2 of the Clone's HP.",
+    "description": "When the battle starts: creates a Clone on the battlefield.\n\nEvery 5s: spend 5 stacks of Time to create another Clone; if the Time stack is insufficient, no Clone will be created; up to 3 Clones may exist at the same time.\n\nClones inherit the current HP value Kurumi Tokisaki had at the time of creation, assist in battle, and perform attacks using a $1 Augment Module.\n\nWhen a Clone is destroyed, Kurumi Tokisaki recovers 2.0% of her max HP.\n\nWhen Kurumi Tokisaki takes DMG that would defeat her, if she has a Clone present, she recovers the Clone with the highest HP and restores HP equal to $2 of the Clone's HP.",
     "opsi_description": null,
     "name": "Astral Dress - Elohim",
     "max": 10,
@@ -49953,7 +49953,7 @@
     ]
   },
   "115160": {
-    "description": "When the battle starts: creates a Clone on the battlefield. Every 5s: spend 5 stacks of Time to create another Clone; if the Time stack is insufficient, no Clone will be created; up to 3 Clones may exist at the same time.\nClones inherit the current HP value Kurumi Tokisaki had at the time of creation, assist in battle, and perform attacks using a $1 Augment Module.\nWhen a Clone takes DMG, this Clone evades all shelling and ramming DMG for 0.5s.\nWhen a Clone is destroyed, Kurumi Tokisaki recovers 2.0% of her max HP.\nWhen Kurumi Tokisaki takes DMG that would defeat her, if she has a Clone present, she recovers the Clone with the highest HP and restores HP equal to $2 of the Clone's HP.\nWhen the battle ends, for each Clone on the battlefield, Kurumi Tokisaki gains 5 stacks of Time, then spends all her stacks of Time to recover 5.0% of her max HP for every 5 stacks spent.",
+    "description": "When the battle starts: creates a Clone on the battlefield.\n\nEvery 5s: spend 5 stacks of Time to create another Clone; if the Time stack is insufficient, no Clone will be created; up to 3 Clones may exist at the same time.\n\nClones inherit the current HP value Kurumi Tokisaki had at the time of creation, assist in battle, and perform attacks using a $1 Augment Module.\n\nWhen a Clone takes DMG, this Clone evades all shelling and ramming DMG for 0.5s.\n\nWhen a Clone is destroyed, Kurumi Tokisaki recovers 2.0% of her max HP.\n\nWhen Kurumi Tokisaki takes DMG that would defeat her, if she has a Clone present, she recovers the Clone with the highest HP and restores HP equal to $2 of the Clone's HP.\n\nWhen the battle ends, for each Clone on the battlefield, Kurumi Tokisaki gains 5 stacks of Time, then spends all her stacks of Time to recover 5.0% of her max HP for every 5 stacks spent.",
     "opsi_description": null,
     "name": "Astral Dress - Elohim+",
     "max": 10,
