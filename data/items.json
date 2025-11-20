@@ -4184,6 +4184,23 @@
     ],
     "contains": []
   },
+  "21053": {
+    "id": 21053,
+    "name": "META Crystal - Boise META",
+    "description": "An item that increases the potential of Boise META. Used in the META Lab during Somatic Activation.",
+    "type": 4,
+    "icon": "props/21053",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 26"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "21101": {
     "id": 21101,
     "name": "Crystallized Heat-Resistant Steel",
@@ -31714,6 +31731,204 @@
       }
     ]
   },
+  "30377": {
+    "id": 30377,
+    "name": "Gear Skin Box (Date A Live)",
+    "description": "Contains a random Date A Live-themed gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxdal",
+    "rarity": 5,
+    "locations": [
+      "DATE A LANE"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 1511,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97711",
+        "name": "Metatron's Floating Cannon"
+      },
+      {
+        "id": 1512,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97712",
+        "name": "Zafkiel's Bullet"
+      },
+      {
+        "id": 1513,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97713",
+        "name": "El Na'ash's Chain"
+      },
+      {
+        "id": 1514,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97714",
+        "name": "Sandalphon's Advent"
+      },
+      {
+        "id": 1515,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97715",
+        "name": "Camael's Greataxe"
+      },
+      {
+        "id": 1516,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97716",
+        "name": "Flying Yoshinon"
+      },
+      {
+        "id": 1517,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97721",
+        "name": "Sandalphon's Sword"
+      },
+      {
+        "id": 1518,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97722",
+        "name": "Camael - Megiddo's Flames"
+      },
+      {
+        "id": 1519,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97723",
+        "name": "El Re'em's Piercer"
+      },
+      {
+        "id": 1520,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97731",
+        "name": "Zadkiel's Hailstorm (Torpedo)"
+      },
+      {
+        "id": 1521,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97731",
+        "name": "Zadkiel's Hailstorm (Fighter)"
+      },
+      {
+        "id": 1522,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97731",
+        "name": "Zadkiel's Hailstorm (Bomber)"
+      },
+      {
+        "id": 1523,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97733",
+        "name": "Shemesh's Corona (Torpedo)"
+      },
+      {
+        "id": 1524,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97733",
+        "name": "Shemesh's Corona (Fighter)"
+      },
+      {
+        "id": 1525,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97733",
+        "name": "Shemesh's Corona (Bomber)"
+      },
+      {
+        "id": 1526,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97732",
+        "name": "Zafkiel's Gear (Torpedo)"
+      },
+      {
+        "id": 1527,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97732",
+        "name": "Zafkiel's Gear (Fighter)"
+      },
+      {
+        "id": 1528,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97732",
+        "name": "Zafkiel's Gear (Bomber)"
+      }
+    ]
+  },
   "30401": {
     "id": 30401,
     "name": "Random Gear Skin Box (Cruise Series 3)",
@@ -33550,6 +33765,64 @@
         "blueprint": false,
         "icon": "equips/96832",
         "name": "Red Plum Branch"
+      }
+    ]
+  },
+  "30432": {
+    "id": 30432,
+    "name": "Random Gear Skin Box (Cruise Series 26)",
+    "description": "Contains 1 random Cruise Mission gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxshijiexunyou",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 26"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 2109,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96833",
+        "name": "Peacock Feather Shell"
+      },
+      {
+        "id": 2110,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96834",
+        "name": "Smudged Shadow Torpedo"
+      },
+      {
+        "id": 2111,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96835",
+        "name": "Crane's Call Shell"
+      },
+      {
+        "id": 2112,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96836",
+        "name": "Divine Light's Blessing"
       }
     ]
   },
@@ -45202,6 +45475,204 @@
         "blueprint": false,
         "icon": "equips/101512",
         "name": "Foggy Ghost Ship (Bomber)"
+      }
+    ]
+  },
+  "30561": {
+    "id": 30561,
+    "name": "Selection Gear Skin Box (Date A Live)",
+    "description": "Can be opened to receive 1 Date A Live-themed gear skin of your choosing.",
+    "type": 13,
+    "icon": "props/appearanceboxdalzixuan",
+    "rarity": 5,
+    "locations": [
+      "DATE A LANE"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 1511,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97711",
+        "name": "Metatron's Floating Cannon"
+      },
+      {
+        "id": 1512,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97712",
+        "name": "Zafkiel's Bullet"
+      },
+      {
+        "id": 1513,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97713",
+        "name": "El Na'ash's Chain"
+      },
+      {
+        "id": 1514,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97714",
+        "name": "Sandalphon's Advent"
+      },
+      {
+        "id": 1515,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97715",
+        "name": "Camael's Greataxe"
+      },
+      {
+        "id": 1516,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97716",
+        "name": "Flying Yoshinon"
+      },
+      {
+        "id": 1517,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97721",
+        "name": "Sandalphon's Sword"
+      },
+      {
+        "id": 1518,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97722",
+        "name": "Camael - Megiddo's Flames"
+      },
+      {
+        "id": 1519,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97723",
+        "name": "El Re'em's Piercer"
+      },
+      {
+        "id": 1520,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97731",
+        "name": "Zadkiel's Hailstorm (Torpedo)"
+      },
+      {
+        "id": 1521,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97731",
+        "name": "Zadkiel's Hailstorm (Fighter)"
+      },
+      {
+        "id": 1522,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97731",
+        "name": "Zadkiel's Hailstorm (Bomber)"
+      },
+      {
+        "id": 1523,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97733",
+        "name": "Shemesh's Corona (Torpedo)"
+      },
+      {
+        "id": 1524,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97733",
+        "name": "Shemesh's Corona (Fighter)"
+      },
+      {
+        "id": 1525,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97733",
+        "name": "Shemesh's Corona (Bomber)"
+      },
+      {
+        "id": 1526,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97732",
+        "name": "Zafkiel's Gear (Torpedo)"
+      },
+      {
+        "id": 1527,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97732",
+        "name": "Zafkiel's Gear (Fighter)"
+      },
+      {
+        "id": 1528,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/97732",
+        "name": "Zafkiel's Gear (Bomber)"
       }
     ]
   },
@@ -61687,6 +62158,34 @@
         "rarity": 5,
         "icon": "uipreview/110",
         "name": "Black Friday"
+      }
+    ]
+  },
+  "9999999111": {
+    "id": 9999999111,
+    "name": "Shadow Pictures UI",
+    "description": "The Shadow Pictures themed Battle UI",
+    "type": 97,
+    "icon": "props/ui_111",
+    "rarity": 4,
+    "locations": [
+      "Cruise Pass Season 26 (Paid Only)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 111,
+        "type": 99,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": false,
+        "rarity": 5,
+        "icon": "uipreview/111",
+        "name": "Shadow Pictures"
       }
     ]
   },
