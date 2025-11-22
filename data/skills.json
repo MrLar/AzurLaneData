@@ -49610,7 +49610,7 @@
     ]
   },
   "115030": {
-    "description": "When the battle starts, increase this unit's FP and RLD by $1. Every 2 times this unit fires her Main Guns: fires a $2 special barrage (DMG is based on the skill's level) that decreases the SPD of enemies hit by 1.0% for 3s (does not stack with similar skills).\nAdditionally, whenever this unit takes a total amount of DMG equal to 20.0% of her max HP: performs a $2 special attack (DMG is based on the skill's level).",
+    "description": "When the battle starts, increase this unit's FP and RLD by $1. Every 2 times this unit fires her Main Guns: fires a $2 special barrage (DMG is based on the skill's level) that decreases theSPD of enemies hit by {10.0%|The game incorrectly labels this as 1.0%} for 3s (does not stack with similar skills).\nAdditionally, whenever this unit takes a total amount of DMG equal to 20.0% of her max HP: performs a $2 special attack (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Halvanhelev+",
     "max": 10,

@@ -66259,7 +66259,7 @@
   ],
   "115030": [
     {
-      "name": "Halvanhelev",
+      "name": "Halvanhelev+",
       "parts": [
         {
           "damage": 180,
@@ -66302,14 +66302,14 @@
           "bullet_id": 168263,
           "type": "weapon",
           "buffs": [
-            "Slow by 5% for 3s"
+            "Slow by 10% for 3s"
           ],
           "buff_chance": 1
         }
       ]
     },
     {
-      "name": "Halvanhelev+ (low hp)",
+      "name": "Halvanhelev+ (every 20% HP lost)",
       "parts": [
         {
           "damage": 800,
