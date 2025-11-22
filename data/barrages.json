@@ -67141,7 +67141,12 @@
           "bullet_type": 1,
           "bullet_id": 168261,
           "type": "weapon"
-        },
+        }
+      ]
+    },
+    {
+      "name": "El Kanaph (Sky Rider)",
+      "parts": [
         {
           "damage": 600,
           "coefficient": 1,
@@ -67188,7 +67193,7 @@
   ],
   "115110": [
     {
-      "name": "El Kanaph (Constrictor)",
+      "name": "El Kanaph+ (Constrictor)",
       "parts": [
         {
           "damage": 80,
@@ -67234,7 +67239,7 @@
       ]
     },
     {
-      "name": "El Kanaph (Piercer)",
+      "name": "El Kanaph+ (Piercer)",
       "parts": [
         {
           "damage": 400,
@@ -67276,7 +67281,12 @@
           "bullet_type": 1,
           "bullet_id": 168261,
           "type": "weapon"
-        },
+        }
+      ]
+    },
+    {
+      "name": "El Kanaph+ (Sky Rider)",
+      "parts": [
         {
           "damage": 800,
           "coefficient": 1,
