@@ -66253,6 +66253,21 @@
           "bullet_type": 1,
           "bullet_id": 168264,
           "type": "weapon"
+        },
+        {
+          "damage": 0,
+          "fix_damage": 200,
+          "level_of": "Tohka Yatogami",
+          "count": 1,
+          "clears": [
+            1,
+            3
+          ],
+          "range": 45,
+          "velocity": 0,
+          "movement_type": 0,
+          "life_time": 0.5,
+          "type": "slash"
         }
       ]
     }
@@ -66314,7 +66329,7 @@
         {
           "damage": 800,
           "coefficient": 1,
-          "count": 2,
+          "count": 1,
           "stat": "fp",
           "ratio": 1,
           "armor_mod": [
@@ -66322,7 +66337,7 @@
             1.1,
             1.1
           ],
-          "ammo": 1,
+          "ammo": 2,
           "is_critical": false,
           "notes": [],
           "shrapnel": false,
@@ -66337,8 +66352,8 @@
           "velocity": 0.1,
           "pierce": 0,
           "shell_range": [
-            1,
-            1
+            0,
+            0
           ],
           "spread": [
             0,
@@ -66348,7 +66363,7 @@
           "centered": false,
           "weapon_id": 169440,
           "weapon_type": 3,
-          "bullet_type": 9,
+          "bullet_type": 3,
           "bullet_id": 168267,
           "type": "weapon"
         }
