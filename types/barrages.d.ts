@@ -15,7 +15,7 @@ export interface Barrage {
     is_aoa?: boolean
 }
 
-export type BarragePart = BarrageWeapon | BarrageSlash | BarrageSummon
+export type BarragePart = BarrageWeapon | BarrageSlash | BarrageSummon | BarrageReference
 
 export interface BarrageEntry<T> {
     type: T
@@ -75,7 +75,23 @@ export interface BarrageSlash extends DamagingBarrage<'slash'> {
 
 export type BarrageSummon = BarrageEntry<'summon'> & {
     type: 'summon'
-    weapons: Array<BarrageWeapon & { rld: string }>
+    weapons: Array<BarrageReference & { rld?: string } | BarrageWeapon & { rld: string }>
     hull: Hull
     armor: number
 } & Record<ScalableStatKey, string>
+
+export interface BarrageReference {
+    type: 'ref'
+    id: number
+    index: number
+    part: number
+    buffs?: string[]
+    buff_chance?: number
+    notes?: string[]
+    targeting?: string | null
+    count?: number
+    damage?: number
+    fix_damage?: number
+    is_critical?: boolean
+    rld?: string
+}

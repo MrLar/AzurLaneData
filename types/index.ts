@@ -95,7 +95,7 @@ export const cruisePasses = cruiseList as Record<number, CruisePass | undefined>
 export const fleetChats = groupChats as Record<number, FleetChat | undefined>
 export const juuProfiles = shipProfiles as Record<number, JuuProfile | undefined>
 export const specialSecretaries = specialSecretaryList as Record<number, SpecialSecretary | undefined>
-export const barrageData = barrages as Record<number, Barrage[] | undefined>
+export const barrageData = barrages as Record<number, Barrage[] | number | undefined>
 export const fleetTechSort = fleetTechSortData as Record<number, FleetTechSortData | undefined>
 
 export const SHIP_FLAGS = {

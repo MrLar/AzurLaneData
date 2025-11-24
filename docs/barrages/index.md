@@ -12,10 +12,14 @@ Barrage provides info about a single skill barrage. It provides the following pr
 |  **parts**  | [`BarragePart[]`](#barrage-part) | Parts that make up this barrage.  |
 | **is_aoa?** |            `boolean`             | Whether this barrage is aoa-like. |
 
+**Note**: Entries in the barrage JSON may point to numbers instead of objects. Entries that point to
+numbers are a hard reference to another entry.
+
 # Barrage Part
 
 Barrage Part may refer to a standard "Weapon" based barrage (see [Weapon Barrage](#weapon-barrage)),
-a Slashing Attack (see [Slash Barrage](#slash-barrage)) or a Summon (see [Barrage Summon](#barrage-summon))
+a Slashing Attack (see [Slash Barrage](#slash-barrage)), a Summon (see [Barrage Summon](#barrage-summon),
+or a Reference (see [Barrage Reference](#barrage-reference))
 
 **Disclaimer: There is no guarantee for correctness/accuracy of any of these values due to how complicated and non-automatable barrage mining is.**
 
@@ -118,3 +122,26 @@ It extends [Base Barrage](#base-barrage) and additionally provides the following
 | :--------: | :------: | :------------------------------------: |
 | **damage** | `number` |        Base damage of the part.        |
 | **count**  | `number` | Attack Count/Bullet count of the part. |
+
+# Barrage Reference
+
+Barrage Reference is an object providing information for refering to a barrage
+entry of a different (or the same) Skill:
+
+|     Property     |        Type        |                                                         Description                                                         |
+| :--------------: | :----------------: | :-------------------------------------------------------------------------------------------------------------------------: |
+|     **type**     |      `"ref"`       |                                               Will always be the string ref.                                                |
+|      **id**      |      `number`      |                                               The Skill ID of the reference.                                                |
+|    **index**     |      `number`      |                                             The barrage index of the reference.                                             |
+|     **part**     |      `number`      |                                              The part index of the reference.                                               |
+|    **buffs?**    |     `string[]`     |                                    **(Optional)** Override for `buffs` of the reference.                                    |
+| **buff_chance?** |      `number`      |                                 **(Optional)** Override for `buff_chance` of the reference.                                 |
+|    **notes?**    |     `string[]`     |                                    **(Optional)** Override for `notes` of the reference.                                    |
+|  **targeting?**  | `string` \| `null` | **(Optional)** Override for `targeting` of the reference. `null` is a valid value and does NOT indicate no override occurs. |
+|    **count?**    |      `number`      |                                    **(Optional)** Override for `count` of the reference.                                    |
+|   **damage?**    |      `number`      |                                   **(Optional)** Override for `damage` of the reference.                                    |
+| **fix_damage?**  |      `number`      |                           **(Optional)** Override for `fix_damage` prop of the object referenced.                           |
+| **is_critical?** |     `boolean`      |                          **(Optional)** Override for `is_critical` prop of the object referenced.                           |
+|     **rld?**     |     `boolean`      |                **(Optional)** Override for `rld` prop of the object referenced. Only used by summon weapons.                |
+
+**Note**: Summon weapons will only ever point to a reference entries of type `weapon`.
