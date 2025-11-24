@@ -188,7 +188,7 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Nearest",
           "centered": false,
           "bullet_id": 903,
           "bullet_type": 5,
@@ -466,7 +466,7 @@
             0,
             200
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 360,
           "splash": 1,
           "velocity": 0,
@@ -4445,8 +4445,8 @@
             210
           ],
           "spread": [
-            0,
-            0
+            36,
+            36
           ],
           "airdrop": true,
           "targeting": "Priority",
@@ -4690,7 +4690,7 @@
           "damage": 121,
           "coefficient": 1,
           "count": 4,
-          "stat": "fp",
+          "stat": "avi",
           "ratio": 1.2,
           "armor_mod": [
             0.8,
@@ -8611,7 +8611,7 @@
           "buffs": [
             "Standard Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311, Level: 1)"
           ],
-          "buff_chance": 3,
+          "buff_chance": 0.03,
           "targeting": null,
           "centered": false,
           "weapon_id": 69440,
@@ -9460,7 +9460,7 @@
           "buffs": [
             "Standard Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311, Level: 1)"
           ],
-          "buff_chance": 0.3,
+          "buff_chance": 0.03,
           "targeting": null,
           "centered": false,
           "weapon_id": 69440,
@@ -9988,11 +9988,9 @@
             1,
             1
           ],
-          "ammo": 4,
+          "ammo": 1,
           "is_critical": false,
-          "notes": [
-            "40% eva rate"
-          ],
+          "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
           "range": [
@@ -10721,10 +10719,10 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 65250,
-          "weapon_type": 3,
-          "bullet_type": 3,
-          "bullet_id": 19221,
+          "weapon_id": -1,
+          "weapon_type": -1,
+          "bullet_type": -1,
+          "bullet_id": -1,
           "type": "weapon"
         }
       ]
@@ -11422,7 +11420,7 @@
           "ammo": 1,
           "is_critical": false,
           "notes": [],
-          "shrapnel": false,
+          "shrapnel": true,
           "ignore_shield": false,
           "range": [
             0,
@@ -15083,7 +15081,7 @@
           "coefficient": 1,
           "count": 8,
           "stat": "avi",
-          "ratio": 1,
+          "ratio": 0.8,
           "armor_mod": [
             0.8,
             0.9,
@@ -18696,7 +18694,11 @@
           "weapon_type": 1,
           "bullet_type": 9,
           "bullet_id": 920,
-          "type": "weapon"
+          "type": "weapon",
+          "buffs": [
+            "Deploy smokescreen (+40% EVA Rate, Lasts 5s)"
+          ],
+          "buff_chance": 1
         }
       ]
     }
@@ -28458,7 +28460,7 @@
           ],
           "buffs": [
             "Increase DMG taken by 8% for 7s",
-            "Special Burn (255 DMG with 1 tick every 3 seconds for 7s, ID: 407, not considered an ignite)"
+            "Special Burn (255 DMG with 1 tick every 3 seconds for 7s, ID: 407, Level: 1, not considered an ignite)"
           ],
           "buff_chance": 1,
           "airdrop": true,
@@ -30514,7 +30516,7 @@
           ],
           "buffs": [
             "Increase DMG taken by 8% for 7s",
-            "Special Burn (255 DMG with 1 tick every 3 seconds for 7s, ID: 407, Level: 1)"
+            "Special Burn (255 DMG with 1 tick every 3 seconds for 7s, ID: 407, Level: 1, not considered an ignite)"
           ],
           "buff_chance": 1,
           "airdrop": true,
@@ -34280,10 +34282,10 @@
           ],
           "targeting": "Priority",
           "centered": false,
-          "weapon_id": 168450,
+          "weapon_id": 168470,
           "weapon_type": 19,
           "bullet_type": 2,
-          "bullet_id": 161141,
+          "bullet_id": 161144,
           "type": "weapon"
         }
       ]
@@ -35350,9 +35352,7 @@
           ],
           "ammo": 4,
           "is_critical": false,
-          "notes": [
-            "Can damage subs"
-          ],
+          "notes": [],
           "shrapnel": false,
           "ignore_shield": false,
           "range": [
@@ -39020,9 +39020,9 @@
           "targeting": null,
           "centered": false,
           "weapon_type": 2,
-          "weapon_id": 74053,
+          "weapon_id": 74012,
           "bullet_type": 1,
-          "bullet_id": 74051,
+          "bullet_id": 74011,
           "type": "weapon"
         }
       ]
@@ -52452,7 +52452,7 @@
         {
           "damage": 46,
           "coefficient": 1,
-          "count": 1,
+          "count": 4,
           "stat": "avi",
           "ratio": 1,
           "armor_mod": [
@@ -52462,7 +52462,9 @@
           ],
           "ammo": 5,
           "is_critical": false,
-          "notes": [],
+          "notes": [
+            "AA Gun reload of 0.63s"
+          ],
           "shrapnel": false,
           "ignore_shield": false,
           "is_air": true,
@@ -52494,7 +52496,7 @@
         {
           "damage": 40,
           "coefficient": 1,
-          "count": 1,
+          "count": 4,
           "stat": "avi",
           "ratio": 1,
           "armor_mod": [
@@ -52504,7 +52506,9 @@
           ],
           "ammo": 5,
           "is_critical": false,
-          "notes": [],
+          "notes": [
+            "AA Gun reload of 0.65s"
+          ],
           "shrapnel": false,
           "ignore_shield": false,
           "is_air": true,
@@ -56351,7 +56355,7 @@
         {
           "damage": 120,
           "coefficient": 1,
-          "count": 6,
+          "count": 3,
           "stat": "trp",
           "ratio": 1,
           "armor_mod": [
@@ -58187,7 +58191,7 @@
         {
           "damage": 20,
           "coefficient": 1,
-          "count": 12,
+          "count": 6,
           "stat": "fp",
           "ratio": 1,
           "armor_mod": [
@@ -58229,7 +58233,7 @@
         {
           "damage": 20,
           "coefficient": 1,
-          "count": 24,
+          "count": 12,
           "stat": "fp",
           "ratio": 1,
           "armor_mod": [
@@ -63128,7 +63132,7 @@
           "damage": 20,
           "coefficient": 1,
           "count": 15,
-          "stat": "trp",
+          "stat": "fp",
           "ratio": 1,
           "armor_mod": [
             1,
@@ -63174,7 +63178,7 @@
           "damage": 30,
           "coefficient": 1,
           "count": 15,
-          "stat": "trp",
+          "stat": "fp",
           "ratio": 1,
           "armor_mod": [
             1.5,
@@ -63778,7 +63782,7 @@
           "centered": false,
           "weapon_id": 168070,
           "weapon_type": 1,
-          "bullet_type": 1,
+          "bullet_type": 5,
           "bullet_id": 167963,
           "type": "weapon"
         },
@@ -65393,7 +65397,7 @@
           "damage": 100,
           "coefficient": 1,
           "count": 1,
-          "stat": "fp",
+          "stat": "trp",
           "ratio": 1,
           "armor_mod": [
             1,
@@ -65489,9 +65493,9 @@
       "name": "Alber's Assistance (after 3 Stacks)",
       "parts": [
         {
-          "damage": 20,
+          "damage": 200,
           "coefficient": 1,
-          "count": 24,
+          "count": 3,
           "stat": "trp",
           "ratio": 1,
           "armor_mod": [
@@ -65523,10 +65527,10 @@
           ],
           "targeting": "Priority",
           "centered": false,
-          "weapon_id": 168700,
+          "weapon_id": 168730,
           "weapon_type": 1,
           "bullet_type": 1,
-          "bullet_id": 161155,
+          "bullet_id": 161157,
           "type": "weapon",
           "buff_chance": 1,
           "buffs": [
@@ -65542,9 +65546,9 @@
       "name": "Alber's Assistance+ (after 3 Stacks if Mana Surge)",
       "parts": [
         {
-          "damage": 20,
+          "damage": 200,
           "coefficient": 1,
-          "count": 24,
+          "count": 3,
           "stat": "trp",
           "ratio": 1,
           "armor_mod": [
@@ -65574,12 +65578,12 @@
             0,
             0
           ],
-          "targeting": null,
+          "targeting": "Priority",
           "centered": false,
-          "weapon_id": 168700,
+          "weapon_id": 168730,
           "weapon_type": 1,
           "bullet_type": 1,
-          "bullet_id": 161155,
+          "bullet_id": 161157,
           "type": "weapon",
           "buff_chance": 1,
           "buffs": [
@@ -65685,9 +65689,9 @@
       "name": "Alber's Assistance (after 3 Stacks)",
       "parts": [
         {
-          "damage": 20,
+          "damage": 200,
           "coefficient": 1,
-          "count": 24,
+          "count": 3,
           "stat": "trp",
           "ratio": 1,
           "armor_mod": [
@@ -65719,10 +65723,10 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 168700,
+          "weapon_id": 168730,
           "weapon_type": 1,
           "bullet_type": 1,
-          "bullet_id": 161155,
+          "bullet_id": 161157,
           "type": "weapon",
           "buff_chance": 1,
           "buffs": [
@@ -65914,10 +65918,10 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 169970,
+          "weapon_id": 169980,
           "weapon_type": 24,
           "bullet_type": 10,
-          "bullet_id": 168245,
+          "bullet_id": 168243,
           "type": "weapon"
         }
       ]
@@ -66148,7 +66152,7 @@
           ],
           "targeting": "Priority",
           "centered": false,
-          "weapon_id": 169960,
+          "weapon_id": 169940,
           "weapon_type": 1,
           "bullet_type": 1,
           "bullet_id": 168244,
@@ -66741,7 +66745,7 @@
               ],
               "targeting": null,
               "centered": false,
-              "weapon_id": 169860,
+              "weapon_id": 180016,
               "weapon_type": 2,
               "bullet_type": 1,
               "bullet_id": 180016,
@@ -66783,7 +66787,7 @@
               ],
               "targeting": null,
               "centered": false,
-              "weapon_id": 169860,
+              "weapon_id": 180017,
               "weapon_type": 2,
               "bullet_type": 1,
               "bullet_id": 180016,
@@ -66850,7 +66854,7 @@
               ],
               "targeting": null,
               "centered": false,
-              "weapon_id": 169860,
+              "weapon_id": 180016,
               "weapon_type": 2,
               "bullet_type": 1,
               "bullet_id": 180016,
@@ -66892,7 +66896,7 @@
               ],
               "targeting": null,
               "centered": false,
-              "weapon_id": 169860,
+              "weapon_id": 180017,
               "weapon_type": 2,
               "bullet_type": 1,
               "bullet_id": 180016,
@@ -67230,7 +67234,7 @@
           ],
           "targeting": "Priority",
           "centered": false,
-          "weapon_id": 169880,
+          "weapon_id": 169910,
           "weapon_type": 3,
           "bullet_type": 11,
           "bullet_id": 168250,
@@ -67276,7 +67280,7 @@
           ],
           "targeting": "Priority",
           "centered": false,
-          "weapon_id": 169890,
+          "weapon_id": 169920,
           "weapon_type": 1,
           "bullet_type": 1,
           "bullet_id": 168261,
@@ -67322,7 +67326,7 @@
           ],
           "targeting": "Priority",
           "centered": false,
-          "weapon_id": 169890,
+          "weapon_id": 169930,
           "weapon_type": 1,
           "bullet_type": 1,
           "bullet_id": 168261,
@@ -67395,7 +67399,7 @@
               "buffs": [
                 "Slow by 30% for 6s"
               ],
-              "buff_chnace": 1
+              "buff_chance": 1
             }
           ]
         }
@@ -67466,7 +67470,7 @@
               "buffs": [
                 "Slow by 30% for 6s"
               ],
-              "buff_chnace": 1
+              "buff_chance": 1
             }
           ]
         }
@@ -67518,6 +67522,77 @@
           "bullet_type": 10,
           "bullet_id": 168265,
           "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "115230": [
+    {
+      "name": "Astral Dress - El (Summon)",
+      "parts": [
+        {
+          "type": "summon",
+          "armor": 0,
+          "hull": 6,
+          "hp": "100%",
+          "fp": "100%",
+          "trp": "100%",
+          "aa": "100%",
+          "avi": "0",
+          "rld": "100%",
+          "hit": "100%",
+          "eva": "50%",
+          "spd": "0",
+          "luck": "100%",
+          "asw": "100%",
+          "weapons": [
+            {
+              "type": "weapon",
+              "damage": 80,
+              "coefficient": 1,
+              "count": 15,
+              "stat": "avi",
+              "ratio": 1,
+              "armor_mod": [
+                1,
+                1,
+                1
+              ],
+              "ammo": 1,
+              "is_critical": false,
+              "notes": [],
+              "shrapnel": false,
+              "ignore_shield": false,
+              "range": [
+                0,
+                200
+              ],
+              "aim_type": 1,
+              "angle": 200,
+              "splash": 0,
+              "velocity": 0,
+              "pierce": 0,
+              "shell_range": [
+                90,
+                110
+              ],
+              "spread": [
+                0,
+                0
+              ],
+              "targeting": null,
+              "centered": false,
+              "weapon_id": 169380,
+              "weapon_type": 1,
+              "bullet_type": 1,
+              "bullet_id": 168278,
+              "rld": "Never",
+              "buffs": [
+                "Slow by 30% for 6s"
+              ],
+              "buff_chance": 1
+            }
+          ]
         }
       ]
     }
@@ -72637,7 +72712,7 @@
         {
           "damage": 141,
           "coefficient": 1,
-          "count": 6,
+          "count": 4,
           "stat": "fp",
           "ratio": 1,
           "armor_mod": [
@@ -72902,7 +72977,7 @@
             0,
             0
           ],
-          "targeting": "Nearest",
+          "targeting": null,
           "centered": false,
           "weapon_id": 902,
           "weapon_type": 1,
@@ -75136,10 +75211,10 @@
           "buff_chance": 1,
           "targeting": null,
           "centered": false,
-          "weapon_id": 67450,
+          "weapon_id": 168820,
           "weapon_type": 3,
           "bullet_type": 3,
-          "bullet_id": 19952,
+          "bullet_id": 161161,
           "type": "weapon",
           "tracker": {
             "angular": 1.6,
@@ -75219,7 +75294,7 @@
           ],
           "aim_type": 1,
           "angle": 180,
-          "splash": 0,
+          "splash": 20,
           "velocity": 12,
           "pierce": 0,
           "shell_range": [
@@ -75262,8 +75337,8 @@
             36
           ],
           "aim_type": 1,
-          "angle": 180,
-          "splash": 0,
+          "angle": 80,
+          "splash": 20,
           "velocity": 12,
           "pierce": 0,
           "shell_range": [
@@ -75291,7 +75366,7 @@
         {
           "damage": 100,
           "coefficient": 1,
-          "count": 4,
+          "count": 8,
           "stat": "avi",
           "ratio": 1,
           "armor_mod": [
@@ -75376,7 +75451,7 @@
   ],
   "151490": [
     {
-      "name": "Dreadknight Peureux",
+      "name": "Dreadknight Peureux (enhanced)",
       "parts": [
         {
           "damage": 255,
@@ -75422,7 +75497,12 @@
           "buffs": [
             "Slow by 30% for 6s"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Dreadknight Peureux (enhanced)",
+      "parts": [
         {
           "damage": 255,
           "coefficient": 1,
@@ -76724,7 +76804,7 @@
           "weapon_id": 169330,
           "weapon_type": 1,
           "bullet_type": 1,
-          "bullet_id": 161178,
+          "bullet_id": 161181,
           "type": "weapon"
         }
       ]
@@ -76992,10 +77072,10 @@
           ],
           "targeting": "Priority",
           "centered": false,
-          "weapon_id": 169470,
+          "weapon_id": 169480,
           "weapon_type": 1,
           "bullet_type": 2,
-          "bullet_id": 161187,
+          "bullet_id": 161190,
           "type": "weapon"
         }
       ]
@@ -87218,7 +87298,7 @@
           "weapon_id": 74114,
           "weapon_type": 2,
           "bullet_type": 1,
-          "bullet_id": 74112,
+          "bullet_id": 74113,
           "type": "weapon"
         }
       ]
@@ -87894,7 +87974,7 @@
             0,
             50
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 120,
           "splash": 0,
           "velocity": 15,
@@ -87914,8 +87994,8 @@
           "targeting": null,
           "centered": false,
           "weapon_id": 165410,
-          "weapon_type": 19,
-          "bullet_type": 2,
+          "weapon_type": 1,
+          "bullet_type": 1,
           "bullet_id": 165362,
           "type": "weapon"
         }
@@ -89188,7 +89268,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 180,
           "splash": 15,
           "velocity": 0,
@@ -89198,8 +89278,8 @@
             210
           ],
           "spread": [
-            0,
-            0
+            36,
+            36
           ],
           "targeting": "Priority",
           "centered": false,
@@ -89230,7 +89310,7 @@
             0,
             500
           ],
-          "aim_type": 0,
+          "aim_type": 1,
           "angle": 180,
           "splash": 15,
           "velocity": 0,
@@ -89802,7 +89882,7 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 79493,
+          "weapon_id": 79492,
           "weapon_type": 2,
           "bullet_type": 1,
           "bullet_id": 79493,
@@ -89843,7 +89923,7 @@
           ],
           "targeting": null,
           "centered": false,
-          "weapon_id": 79493,
+          "weapon_id": 79492,
           "weapon_type": 2,
           "bullet_type": 1,
           "bullet_id": 79492,
@@ -93788,7 +93868,7 @@
           "damage": 100,
           "coefficient": 1,
           "count": 4,
-          "stat": "fp",
+          "stat": "trp",
           "ratio": 1,
           "armor_mod": [
             0.7,
@@ -93984,7 +94064,7 @@
             90
           ],
           "aim_type": 0,
-          "angle": 360,
+          "angle": 60,
           "splash": 3,
           "velocity": 5.5,
           "pierce": 0,
@@ -94256,8 +94336,8 @@
           "velocity": 18,
           "pierce": 0,
           "shell_range": [
-            105,
-            125
+            102.5,
+            117.5
           ],
           "spread": [
             8,
