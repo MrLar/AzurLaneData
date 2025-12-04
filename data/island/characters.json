@@ -3,9 +3,9 @@
     "id": 1,
     "name": "Workerjuu",
     "skill": {
-      "name": "Infinite Stamina",
+      "name": "Limitless Stamina",
       "icon": "island/skill/chara_all_skill_8",
-      "description": "When performing work of any sort, stamina will not deplete.",
+      "description": "Workerjuus have no stamina limit and can be assigned to multiple slots at once.",
       "values": []
     },
     "icon": "island/char/gongzuojiu",
@@ -158,7 +158,7 @@
     "skill": {
       "name": "Lumberjack Expertise",
       "icon": "island/skill/chara_all_skill_2",
-      "description": "When performing work in the Verdant Woods, lumber production time is shortened by $1%.",
+      "description": "When assigned to the Verdant Woods, working speed increases by $1%.",
       "values": [
         [
           "6",
@@ -377,7 +377,7 @@
     "skill": {
       "name": "Farming Expertise",
       "icon": "island/skill/chara_all_skill_5",
-      "description": "When performing work at Faircrop Fields, crop ripening time is shortened by $1%.",
+      "description": "When assigned to Faircrop Fields, working speed increases by $1%.",
       "values": [
         [
           "6",
@@ -596,7 +596,7 @@
     "skill": {
       "name": "Nursery Expertise",
       "icon": "island/skill/chara_all_skill_9",
-      "description": "When performing work at Newsprout Nursery, crop ripening time is shortened by $1%.",
+      "description": "When assigned to Newsprout Nursery, working speed increases by $1%.",
       "values": [
         [
           "6",
@@ -815,7 +815,7 @@
     "skill": {
       "name": "Mining Expertise",
       "icon": "island/skill/chara_all_skill_1",
-      "description": "When performing work at Rockheap Mine, mineral mining time is shortened by $1%.",
+      "description": "When assigned to Rockheap Mine, working speed increases by $1%.",
       "values": [
         [
           "6",
@@ -1253,7 +1253,7 @@
     "skill": {
       "name": "Ranching Expertise",
       "icon": "island/skill/chara_all_skill_6",
-      "description": "When performing work at Laidback Ranch, animal product production time is shortened by $1%.",
+      "description": "When assigned to Laidback Ranch, working speed increases by $1%.",
       "values": [
         [
           "6",
@@ -1691,7 +1691,7 @@
     "skill": {
       "name": "Fruit-Growing Expertise",
       "icon": "island/skill/chara_all_skill_10",
-      "description": "When performing work at Sweetscent Orchard, fruit ripening time is shortened by $1%.",
+      "description": "When assigned to Sweetscent Orchard, working speed increases by $1%.",
       "values": [
         [
           "6",
@@ -1910,7 +1910,7 @@
     "skill": {
       "name": "Research Expertise",
       "icon": "island/skill/chara_all_skill_3",
-      "description": "When researching Island Technologies, research time is shortened by $1%.",
+      "description": "When researching Island Technology, working speed increases by $1%.",
       "values": [
         [
           "4",
@@ -2348,7 +2348,7 @@
     "skill": {
       "name": "Cooking Expertise",
       "icon": "island/skill/chara_all_skill_7",
-      "description": "When performing work at the Golden Koi Restaurant, food preparation time is shortened by $1%.",
+      "description": "When assigned to the Golden Koi Restaurant, working speed increases by $1%.",
       "values": [
         [
           "6",
@@ -3005,7 +3005,7 @@
     "skill": {
       "name": "Manufacturing Expertise",
       "icon": "island/skill/chara_all_skill_14",
-      "description": "When assigned to the manual workbench at the Base Factory, items take $1% less time to manufacture.",
+      "description": "When assigned to the manual workbench at the Base Factory, working speed increases by $1%.",
       "values": [
         [
           "6",

@@ -131107,5 +131107,72 @@
       "JP",
       "CN"
     ]
+  },
+  "150920": {
+    "icon": "150920",
+    "id": 150920,
+    "name": "Blue Sea Mystery",
+    "rarity": 4,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60980
+    ],
+    "nation": 1,
+    "limit_group": 150920,
+    "hull_restriction": [],
+    "max": 11,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      {
+        "stat": "eva",
+        "values": [
+          6,
+          7,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      }
+    ],
+    "labels": [
+      "uss",
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
   }
 }

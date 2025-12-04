@@ -6597,6 +6597,784 @@
     "icon": "mile",
     "type": 1
   },
+  "10233": {
+    "id": 10233,
+    "name": "Fargo",
+    "topics": [
+      {
+        "id": 207,
+        "name": "Shockingly Low Negative Reviews",
+        "unlock": {
+          "type": 1,
+          "ship_id": 657
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 6517,
+            "text": "Commander, I just experienced the most drastic thing since I began offering my service.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6518,
+            "text": "I've lost contact with logistics drone team 3, which I dispatched just 43 seconds ago.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6519,
+            "text": "I attempted to reconnect. It failed.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6520,
+            "text": "I activated the backup protocol. No response.",
+            "user": 10233,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Let's calm down first of all."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 6521,
+            "text": "Let's calm down first of all. Why don't you check what might be affected?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6522,
+            "text": "Based on my model projections, this communication disruption will lead to a 28.72% decrease in delivery success rate.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6523,
+            "text": "Consequently, my customer satisfaction rating will hit the danger threshold.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6524,
+            "text": "This will directly affect the principal evaluation of my business expansion algorithm.",
+            "user": 10233,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Could it be a technical error?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 6525,
+            "text": "Could it be due to electronic interference, or a temporary system malfunction?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6526,
+            "text": "I'm troubleshooting the issue, but time is of the essence.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6527,
+            "text": "A failure to deliver will result in a logged, significant service incident.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6528,
+            "text": "This would be a permanent blemish on my reputational database.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6529,
+            "text": "Initial analysis results: risk of bankruptcy increases to 12.45%.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6530,
+            "text": "Negative review rate is about to reach 0.52%.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6531,
+            "text": "I cannot let this happen. It's never gotten worse than 0.48% before!",
+            "user": 10233,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "That's... a difference of 0.04%."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 6532,
+            "text": "That's... a difference of 0.04%.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6533,
+            "text": "0.04% is a lot!",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6534,
+            "text": "Every negative review is proof that a client felt disappointed or dissatisfied.",
+            "user": 10233,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "So what you're really concerned about is..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 6535,
+            "text": "So what you're really concerned about is letting people down?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 6536,
+            "text": "...",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 6537,
+            "text": "Analyzing emotions...",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 6538,
+            "text": "Based on my analysis, my core principles compel me to avoid disappointing anyone, regardless of the cost incurred.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 6539,
+            "text": "You might be correct, Commander.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 6540,
+            "text": "Oh. I've reestablished contact with drone team 3.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 6541,
+            "text": "From what the logs tell me, some of the girls at the port looked after the drones.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 6542,
+            "text": "Commander, if you don't mind, would you come along with me to thank them?",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 208,
+        "name": "Special Service",
+        "unlock": {
+          "type": 2,
+          "ship_id": 657,
+          "affinity": 100
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 6543,
+            "text": "Commander, I have something important to discuss.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6544,
+            "text": "Give me a second. I need to recalibrate my emotional expression.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6545,
+            "text": "There. I increased my seriousness index by 35.89%.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6546,
+            "text": "Here's the deal...",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6547,
+            "text": "I want to talk to you about optimizing the port's internal logistics.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6548,
+            "text": "Right now, the regular material dispatches are still within my calculations.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6549,
+            "text": "However, we're going to need coordination between several departments.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6550,
+            "text": "That is something that's outside my jurisdiction.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6551,
+            "text": "I've analyzed the data, and it shows that the most efficient solution is for you to take the lead in integrating our resources.",
+            "user": 10233,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Alright. I'll do that."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 6552,
+            "text": "Alright. I'll do that.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6553,
+            "text": "Thanks for approving that. I've submitted a request.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6554,
+            "text": "Another thing: my auxiliary monitoring module has detected some unusual data.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6555,
+            "text": "I ran the numbers and found that your fatigue index has reached 58.71%.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6556,
+            "text": "Is it because you've been working nonstop for over 6 hours with no breaks?",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6557,
+            "text": "I estimate that the application I just sent will increase your fatigue by an additional 8.37%.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6558,
+            "text": "To reduce the stress on you, I want to take on some of your work.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6559,
+            "text": "This should reduce your workload by an estimated 47.39%.",
+            "user": 10233,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "I already feel a lot better..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 6560,
+            "text": "Just from talking with you, I already feel a lot better.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6561,
+            "text": "Yes, it does seem that your fatigue index has started decreasing.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6562,
+            "text": "Since it's about time for a break, have you replenished your energy?",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6563,
+            "text": "To borrow a common saying around the port: \"Have you eaten yet?\"",
+            "user": 10233,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "I'll eat once I'm finished with these papers."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 6564,
+            "text": "I'll eat once I'm finished with these papers.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6565,
+            "text": "It is true that postponing a meal is effective for increasing your working efficiency...",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6566,
+            "text": "However, it's also bad for your health.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6567,
+            "text": "As it so happens, I'm about to launch an express meal delivery service.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6568,
+            "text": "My goal is to ensure the food is at an optimum temperature of between 35 and 45 degrees C by the time it reaches the client.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6569,
+            "text": "This will let you enjoy a warm and delicious meal.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6570,
+            "text": "Furthermore, if I were there to help you out...",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6571,
+            "text": "I believe your happiness index would increase by 98.67%.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6572,
+            "text": "Strangely, this result has even made me feel a sense of... anticipation.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6573,
+            "text": "So let me do it for you. I'd like to handle everything from ordering to delivering for you.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6574,
+            "text": "I'll be there before you know it.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 209,
+        "name": "Clumsy Girl Service",
+        "unlock": {
+          "type": 2,
+          "ship_id": 657,
+          "affinity": 150
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 6575,
+            "text": "Commander, your delivery will be 3 minutes late due to the weather.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6576,
+            "text": "As compensation, a VIP discount will be applied to all your future orders.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6577,
+            "text": "Okay. 3 minutes have now passed.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 6578,
+            "text": "Did you receive the deluxe drink you ordered?",
+            "user": 10233,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Yeah, but..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 6579,
+            "text": "Yeah, but the flavor isn't what I ordered.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6580,
+            "text": "Give me a minute while I query your order details.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6581,
+            "text": "The dispatch data and your order details don't match. That was a mistake on my part.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6582,
+            "text": "How clumsy of me. So very clumsy.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6583,
+            "text": "246",
+            "user": 10233,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6584,
+            "text": "That didn't come out right. Let me raise my cuteness index by 31.79% and try again.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6585,
+            "text": "Sorry... I hope my stupid screwup didn't ruin it for you.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6586,
+            "text": "I've heard that apologizing sincerely like this raises the likelihood of receiving your forgiveness.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6587,
+            "text": "It's what Alsace called the \"efficient apology process.\"",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 6588,
+            "text": "Please wait a bit. I'll send you the correct drink.",
+            "user": 10233,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "No need to."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 6589,
+            "text": "No need to. This one still tastes pretty good.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6590,
+            "text": "...",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6591,
+            "text": "Um... Commander, don't you have anything else to say?",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6592,
+            "text": "Your butterflies-in-stomach index with regard to me has risen by 57.34%.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6593,
+            "text": "But this scenario hasn't played out quite how I imagined it.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6594,
+            "text": "Are you not interested in silly Fargo's clumsy girl service?",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6595,
+            "text": "The goal is to express myself in a way that shows my clumsy cuteness...",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6596,
+            "text": "While soothing your mind.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 6597,
+            "text": "I thought it would be a good strategy for diversifying my business.",
+            "user": 10233,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "You don't need to do that. You're already cute."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 6598,
+            "text": "You don't need to do that. You're already cute.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6599,
+            "text": "Shock... Bashfulness... Those are the emotions I'm feeling now.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6600,
+            "text": "Although this didn't go as I expected, it did give me more useful experience and data to analyze.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6601,
+            "text": "Next time, I'll be able to provide a more polished and personalized service to you.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 6602,
+            "text": "I hope I'll continue to captivate you.",
+            "user": 10233,
+            "type": 1,
+            "options": []
+          }
+        ]
+      }
+    ],
+    "icon": "fage",
+    "type": 1
+  },
   "10234": {
     "id": 10234,
     "name": "Santa Fe",
