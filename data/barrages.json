@@ -80513,6 +80513,57 @@
       ]
     }
   ],
+  "1011470": [
+    {
+      "name": "Nasty Asty+",
+      "parts": [
+        {
+          "damage": 40,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.6
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 1.6,
+          "pierce": 0,
+          "shell_range": [
+            70,
+            90
+          ],
+          "spread": [
+            20,
+            20
+          ],
+          "targeting": null,
+          "weapon_id": 169660,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161203,
+          "type": "weapon",
+          "buffs": [
+            "Increase damage taken from USS ships by 5% for 6s."
+          ],
+          "buff_chance": 1
+        }
+      ]
+    }
+  ],
   "1011490": [
     {
       "name": "Frontal Fire+",
@@ -81276,6 +81327,7 @@
       ]
     }
   ],
+  "1012570": 12570,
   "1012600": [
     {
       "name": "Rosa Bombardamento+",
@@ -81365,6 +81417,103 @@
       ]
     }
   ],
+  "1012640": [
+    {
+      "name": "Sardegnian Coercion+",
+      "parts": [
+        {
+          "damage": 140,
+          "coefficient": 1,
+          "count": 10,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.35,
+            0.95,
+            0.7
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 0,
+          "shell_range": [
+            145,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "buffs": [
+            "Standard Burn (DMG equal to 5 + Barrage Damage * Damage Modifier * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 311, Level: 3)"
+          ],
+          "buff_chance": 0.08,
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169640,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161192,
+          "type": "weapon"
+        },
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 14,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.7
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 5.5,
+          "pierce": 0,
+          "shell_range": [
+            145,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169650,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161193,
+          "type": "weapon",
+          "buffs": [
+            "Increase damage taken from Giulio Cesare by 20% until end of battle."
+          ],
+          "buff_chance": 1
+        }
+      ]
+    }
+  ],
   "1012670": [
     {
       "name": "Fuoco di Copertura!+",
@@ -81408,6 +81557,54 @@
           "weapon_type": 1,
           "bullet_type": 1,
           "bullet_id": 19442,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "1012840": [
+    {
+      "name": "Skyslayer's Edge+",
+      "parts": [
+        {
+          "damage": 280,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.9,
+            1.1,
+            1.4
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 99,
+          "shell_range": [
+            150,
+            150
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169630,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161191,
           "type": "weapon"
         }
       ]
