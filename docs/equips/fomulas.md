@@ -151,7 +151,7 @@ The damage of AA Guns of all AA guns with the same AA gun type\* is combined int
 To note:
 
 - AA Guns are not affected by most buffs.
-  - Effiency and AA stat buffs work as normal
+  - Efficiency and AA stat buffs work as normal
 - Ratio of AA guns is usually 1.
 
 
