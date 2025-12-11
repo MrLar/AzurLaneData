@@ -63368,7 +63368,7 @@
     ]
   },
   "801990": {
-    "description": "Increases this ship's AVI by $1. If your Airspace Control state is not Air Denial or Air Incapability, \"Yorktown\" takes $2 less aircraft DMG. Increases the RLD and ACC of all ships with a Framework of Logic skill by $1.",
+    "description": "Increases this ship's AVI by $1. If your Airspace Control state is not Air Denial or Air Incapability, {Yorktown META|The game just says Yorktown in quotes which may lead one to believe all Yorktown's take less damage but that is not the case.} takes $2 less aircraft DMG. Increases the RLD and ACC of all ships with a Framework of Logic skill by $1.",
     "opsi_description": null,
     "name": "To Witness Life and Death",
     "max": 10,
@@ -63413,7 +63413,7 @@
     "values": []
   },
   "802002": {
-    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases META ships' DMG dealt by 6.0%.",
+    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases META ships' DMG dealt by {8.0%|The game incorrectly states 6.0%.}.",
     "opsi_description": null,
     "name": "Framework of Logic - Yorktown II",
     "max": 1,
