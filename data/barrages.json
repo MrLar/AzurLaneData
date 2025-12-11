@@ -61190,7 +61190,8 @@
           "weapon_type": 3,
           "bullet_type": 3,
           "bullet_id": 2112,
-          "type": "weapon"
+          "type": "weapon",
+          "is_air": true
         }
       ]
     }
@@ -78003,7 +78004,8 @@
           "bullet_type": 2,
           "bullet_id": 2125,
           "type": "weapon",
-          "airdrop": true
+          "airdrop": true,
+          "is_air": true
         },
         {
           "damage": 111,
@@ -78045,7 +78047,8 @@
           "bullet_type": 2,
           "bullet_id": 2121,
           "type": "weapon",
-          "airdrop": true
+          "airdrop": true,
+          "is_air": true
         },
         {
           "damage": 100,
@@ -78086,7 +78089,8 @@
           "weapon_type": 3,
           "bullet_type": 2,
           "bullet_id": 2121,
-          "type": "weapon"
+          "type": "weapon",
+          "is_air": true
         }
       ]
     }
