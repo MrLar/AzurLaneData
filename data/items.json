@@ -4201,6 +4201,23 @@
     ],
     "contains": []
   },
+  "21054": {
+    "id": 21054,
+    "name": "META Crystal - Yorktown META",
+    "description": "An item that increases the potential of Yorktown META. Used in the META Lab during Somatic Activation.",
+    "type": 4,
+    "icon": "props/21054",
+    "rarity": 5,
+    "locations": [
+      "META Showdown"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "21101": {
     "id": 21101,
     "name": "Crystallized Heat-Resistant Steel",
@@ -62144,9 +62161,7 @@
       "Black Friday Event (involves real money)"
     ],
     "servers": [
-      "EN",
-      "JP",
-      "CN"
+      "EN"
     ],
     "contains": [
       {
@@ -62158,6 +62173,33 @@
         "rarity": 5,
         "icon": "uipreview/110",
         "name": "Black Friday"
+      }
+    ]
+  },
+  "9999999112": {
+    "id": 9999999112,
+    "name": "Winter Sale UI",
+    "description": "The Winter Sale themed Battle UI",
+    "type": 97,
+    "icon": "props/ui_112",
+    "rarity": 4,
+    "locations": [
+      "Winter Sale Event (involves real money)"
+    ],
+    "servers": [
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 112,
+        "type": 99,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": false,
+        "rarity": 5,
+        "icon": "uipreview/112",
+        "name": "Winter Sale"
       }
     ]
   },

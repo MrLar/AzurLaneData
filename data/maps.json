@@ -72455,5 +72455,68 @@
     "time_limit": 180,
     "type": 18,
     "id": 1769
+  },
+  "meta_show_315_295315": {
+    "name": "Meta Showdown: Yorktown META",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 295315,
+      "hull": 7,
+      "nation": 97,
+      "name": "Yorktown META",
+      "stats": {
+        "hp": 1500000,
+        "fp": 235,
+        "trp": 0,
+        "avi": 492,
+        "aa": 350,
+        "hit": 110,
+        "eva": 75,
+        "spd": 20,
+        "luck": 50,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 126,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "yuekecheng_alter",
+      "prio": 90
+    },
+    "buffs": [],
+    "buffs_display": [
+      [
+        {
+          "name": "Philosophy of the Unobserved",
+          "description": "When the battle starts, Yorktown META gains a buff that decreases her DMG taken by 60.0%.\nDuring battle, for each allied unit on the field, Yorktown META's DMG taken increases by 15.0% (can be stacked up to 12 times; {stacks additively with self and multiplicatively with the 60.0% reduction.|The game does not clarify this.}).",
+          "color": 2
+        }
+      ],
+      [
+        {
+          "name": "Gaze Into Eternity",
+          "description": "While Yorktown META is on the field, all your ship's AA and EVA decreases by 3.0% every 5s. When this effect activates, the ship that is nearest to Yorktown META is affected by this debuff at double the amount.",
+          "color": 2
+        }
+      ],
+      [
+        {
+          "name": "Zeroth Quadrant Expansion -5%",
+          "description": "During battle, {after around 40 seconds|The game does not mention that it is not active from the start}, a territory will be deployed that affects the whole field. All units' DMG taken increases by 3.0%.",
+          "color": 2
+        }
+      ]
+    ],
+    "expo_id": 296315,
+    "dungeon_id": 296315,
+    "time_limit": 80,
+    "type": 9,
+    "id": 1770
   }
 }

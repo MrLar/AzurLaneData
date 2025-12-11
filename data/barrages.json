@@ -77959,6 +77959,138 @@
       ]
     }
   ],
+  "801980": [
+    {
+      "name": "To Remember the Past",
+      "parts": [
+        {
+          "damage": 291,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.7,
+            1.05,
+            1.25
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 1,
+          "angle": 13,
+          "splash": 28,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            42,
+            42
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169690,
+          "weapon_type": 2,
+          "bullet_type": 2,
+          "bullet_id": 2125,
+          "type": "weapon",
+          "airdrop": true
+        },
+        {
+          "damage": 111,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            0.85,
+            1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 1,
+          "angle": 25,
+          "splash": 16,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            33,
+            33
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169700,
+          "weapon_type": 2,
+          "bullet_type": 2,
+          "bullet_id": 2121,
+          "type": "weapon",
+          "airdrop": true
+        },
+        {
+          "damage": 100,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.4,
+            1.1,
+            0.5
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 1,
+          "angle": 45,
+          "splash": 7,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            12,
+            5
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169700,
+          "weapon_type": 3,
+          "bullet_type": 2,
+          "bullet_id": 2121,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "901010": [
     {
       "name": "Slash - Spread (Level 1)",

@@ -131174,5 +131174,71 @@
       "JP",
       "CN"
     ]
+  },
+  "150940": {
+    "icon": "150940",
+    "id": 150940,
+    "name": "Director's Screenplay",
+    "rarity": 4,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      60990
+    ],
+    "nation": 0,
+    "limit_group": 150940,
+    "hull_restriction": [],
+    "max": 11,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          150,
+          180,
+          210,
+          240,
+          270,
+          300,
+          330,
+          360,
+          390,
+          420,
+          450,
+          475
+        ]
+      },
+      {
+        "stat": "spd",
+        "values": [
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
   }
 }

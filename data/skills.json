@@ -41121,7 +41121,7 @@
     "values": []
   },
   "60390": {
-    "description": "When equipped by a Vanguard ship: the ship gains a special AA Gun during battle (only one special AA Gun may be active at a time).",
+    "description": "When equipped by a Vanguard ship: the ship gains a special AA Gun during battle (only one special AA Gun {from this gear|The game does not explain this clear enough.} may be active at a time {per ship|The game does not explain this clear enough. If 2 or more ships have this gun equipped they each get one.}).",
     "opsi_description": null,
     "name": "Additional Anti-Air Weaponry",
     "max": 1,
@@ -41658,6 +41658,16 @@
     "id": 60980,
     "type": 0,
     "icon": "equips/150920",
+    "values": []
+  },
+  "60990": {
+    "description": "When the battle starts, and every 30s: applies a random buff to the wearer.",
+    "opsi_description": null,
+    "name": "Director's Screenplay",
+    "max": 1,
+    "id": 60990,
+    "type": 0,
+    "icon": "equips/150940",
     "values": []
   },
   "101010": {
@@ -63275,6 +63285,143 @@
     "icon": 801960,
     "values": []
   },
+  "801970": {
+    "description": "5s after the battle starts, and every 10s after that: inflicts the Observed status on enemies without this status until the battle ends (prioritizes humanoid enemies), decreasing their FP and AVI by $1. When this ship's airstrike finishes loading: inflicts the Focused Gaze status against enemies with the Observed status for 10s, decreasing their AA, EVA, and SPD by $2. Enemies with Focused Gaze take $3 more DMG from \"Yorktown\", but also deal 5.0% more DMG to Yorktown META.",
+    "opsi_description": null,
+    "name": "To Gaze Upon Fate",
+    "max": 10,
+    "id": 801970,
+    "type": 3,
+    "icon": 801970,
+    "values": [
+      [
+        "1.5%",
+        "1.8%",
+        "2.1%",
+        "2.5%",
+        "2.8%",
+        "3.1%",
+        "3.5%",
+        "3.9%",
+        "4.3%",
+        "5.0%"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "4.5%",
+        "5.2%",
+        "6.0%",
+        "7.0%",
+        "7.7%",
+        "8.5%",
+        "9.5%",
+        "10.2%",
+        "11.0%",
+        "12.0%"
+      ]
+    ]
+  },
+  "801980": {
+    "description": "When the battle starts: increases this ship's max Detection Gauge value by 15. When this ship launches an airstrike: launches a special $2 airstrike (DMG is based on the skill's level) and increases this ship's Detection Gauge recovery by 2 for 5s. Once per battle, when this ship's HP falls below 20.0% as a result of DMG taken: restores $1 of this ship's max HP and launches a $2 special airstrike; if there is an enemy with Focused Gaze when this effect activates, this ship's Detection Gauge value is set to 0.",
+    "opsi_description": null,
+    "name": "To Remember the Past",
+    "max": 10,
+    "id": 801980,
+    "type": 2,
+    "icon": 801980,
+    "values": [
+      [
+        "15.0%",
+        "16.1%",
+        "17.2%",
+        "18.3%",
+        "19.4%",
+        "20.5%",
+        "21.6%",
+        "22.7%",
+        "23.8%",
+        "25.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "801990": {
+    "description": "Increases this ship's AVI by $1. If your Airspace Control state is not Air Denial or Air Incapability, \"Yorktown\" takes $2 less aircraft DMG. Increases the RLD and ACC of all ships with a Framework of Logic skill by $1.",
+    "opsi_description": null,
+    "name": "To Witness Life and Death",
+    "max": 10,
+    "id": 801990,
+    "type": 3,
+    "icon": 801990,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "4.5%",
+        "5.2%",
+        "6.0%",
+        "7.0%",
+        "7.7%",
+        "8.5%",
+        "9.5%",
+        "10.2%",
+        "11.0%",
+        "12.0%"
+      ]
+    ]
+  },
+  "802001": {
+    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases META ships' DMG dealt by 2.0%.",
+    "opsi_description": null,
+    "name": "Framework of Logic - Yorktown I",
+    "max": 1,
+    "id": 802001,
+    "type": 1,
+    "icon": 802000,
+    "values": []
+  },
+  "802002": {
+    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases META ships' DMG dealt by 6.0%.",
+    "opsi_description": null,
+    "name": "Framework of Logic - Yorktown II",
+    "max": 1,
+    "id": 802002,
+    "type": 1,
+    "icon": 802000,
+    "values": []
+  },
   "901010": {
     "description": "The ship in the frontmost position of your Vanguard performs a slash attack. Slash attack pattern, range, and DMG are based on the number of ships equipped with slash attack gear, the ships' hull type, and the equipped module's effects.",
     "opsi_description": null,
@@ -63286,9 +63433,9 @@
     "values": []
   },
   "901020": {
-    "description": "The frontmost ship in your Vanguard performs a special slashing attack. The pattern, range, and DMG dealt are based on the number of ships in your Vanguard with slashing-type gear equipped, their hull types, and the effects of the gear.",
+    "description": "The ship in the frontmost position of your Vanguard performs a slash attack. Slash attack pattern, range, and DMG are based on the number of ships equipped with slash attack gear, the ships' hull type, and the equipped module's effects.",
     "opsi_description": null,
-    "name": "Slash Attack - Area",
+    "name": "Slash Attack - Spread",
     "max": 1,
     "id": 901020,
     "type": 0,
@@ -66564,7 +66711,7 @@
     ]
   },
   "1012570": {
-    "description": "Increases this ship's AVI and ACC by $2.\n\nWhen this ship has Royal Navy gear equipped, the following effects apply:\n• Increases this ship's {efficiency of HMS Torpedo Bombers by|The game does not mention this but the efficiency is only increased if the planes themselves are also HMS. If only one is only that slot gets efficiency.} by $1;\n• When the enemy-slowing effect of Don't Move An Inch! activates, the enemy's SPD is slowed for an additional 0.5s at 0 SPD;\n• When this ship launches an airstrike: $3 chance to launch a $4 special aerial attack using Fairey Albacores; enemies hit by this attack have an 80.0% chance to be inflicted with Flooding ailment for 9s (aerial attack DMG and Flooding DMG are based on the skill's level and this ship's AVI stat).",
+    "description": "Increases this ship's AVI and ACC by $2.\n\nWhen this ship has Royal Navy gear equipped, the following effects apply:\n• Increases this ship's Torpedo Bomber slot efficiencies by $1;\n• When the enemy-slowing effect of Don't Move An Inch! activates, the enemy's SPD is slowed for an additional 0.5s at 0 SPD;\n• When this ship launches an airstrike: $3 chance to launch a $4 special aerial attack using Fairey Albacores; enemies hit by this attack have an 80.0% chance to be inflicted with Flooding ailment for 9s (aerial attack DMG and Flooding DMG are based on the skill's level and this ship's AVI stat).",
     "opsi_description": null,
     "name": "Supporting Wings+",
     "max": 10,
