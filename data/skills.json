@@ -57144,7 +57144,7 @@
     ]
   },
   "151830": {
-    "description": "Increases this ship's AA by $1. When an enemy aircraft is shot down within your AA Gun Range: increases your Eagle Union ships' AA by $1 for 8s; this effect can only activate once every 8s, and the 4th time that it activates, 1 of the following effects is applied at random:\n1) Restores 6.0% of your whole fleet's HP;\n2) Decreases your whole fleet's DMG taken by 6.0% until the battle ends;\n3) Increases your whole fleet's FP by 6.0% until the battle ends.",
+    "description": "Increases this ship's AA by $1. When an enemy aircraft is shot down within your AA Gun Range: increases your Eagle Union ships' AA by $1 for 8s; this effect can only activate once every 8s, and the 4th time that it activates, 1 of the following effects is applied at random:\n• Restores 6.0% of your whole fleet's HP;\n• Decreases your whole fleet's DMG taken by 6.0% until the battle ends;\n• Increases your whole fleet's FP by 6.0% until the battle ends.\n• {All of the above.|Not mentioned by the game that this is an option.}",
     "opsi_description": null,
     "name": "Surprising Stamp Rally",
     "max": 10,
@@ -57354,7 +57354,7 @@
     ]
   },
   "151890": {
-    "description": "During battle, when this ship has taken DMG totaling to 25.0% of her max HP, or when your Main Fleet's aircraft have shot down a total of 17 enemy aircraft: for 2s, this ship enters the Ghost status, evading all attacks and setting her Detection Gauge value to 0. The following effects additionally activate depending on the number of times this ship has entered the Ghost status:\n1 time: Decreases this ship's torpedo DMG taken by $1;\n2 times: Increases this ship's AA by $1;\n3 times: Decreases this ship's Burn DMG taken by $1;\n4 times: Decreases your Main Fleet's DMG taken by $2 when an enemy aircraft reaches it.",
+    "description": "During battle, when this ship has taken DMG totaling to 25.0% of her max HP, or when your Main Fleet's aircraft have shot down a total of 17 enemy aircraft: for 2s, this ship enters the Ghost status, evading all attacks and setting her Detection Gauge value to 0.\nThe following effects additionally activate depending on the number of times this ship has entered the Ghost status:\n• 1 time: Decreases this ship's torpedo DMG taken by $1;\n• 2 times: Increases this ship's AA by $1;\n• 3 times: Decreases this ship's Burn DMG taken by $1;\n• 4 times: Decreases your Main Fleet's DMG taken by $2 when an enemy aircraft reaches it.",
     "opsi_description": null,
     "name": "The Blue Ghost",
     "max": 10,
@@ -57389,7 +57389,7 @@
     ]
   },
   "151900": {
-    "description": "Increases this ship's AVI and ACC by $1. If there are 3 or more Eagle Union ships in your fleet: increases this ship's DMG dealt against enemies who have their AA stat debuffed by your ships by $2.\nWhen this ship launches an airstrike: additionally launches a $3 special airstrike (DMG is based on the skill's level) and, for $4s, decreases the SPD of all enemies on the field by 40.0%; if there is another Eagle Union ship in your Main Fleet, and the enemy affected by this effect has their AA stat debuffed by your ships, that enemy's SPD is set to 0 for the duration of the SPD debuff.",
+    "description": "Increases this ship's AVI and ACC by $1.\n\nIf there are 3 or more Eagle Union ships in your fleet: increases this ship's DMG dealt against enemies who have their AA stat debuffed by your ships by $2.\nWhen this ship launches an airstrike: additionally launches a $3 special airstrike (DMG is based on the skill's level) and, for $4s, decreases the SPD of all enemies on the field by 40.0%; if there is another Eagle Union ship in your Main Fleet, and the enemy affected by this effect has their AA stat debuffed by your ships, that enemy's SPD is set to 0 for the duration of the SPD debuff.",
     "opsi_description": null,
     "name": "A Song to Still the Clouds",
     "max": 10,
@@ -57448,7 +57448,7 @@
     ]
   },
   "151910": {
-    "description": "When this ship launches an airstrike: your Lexington-class and Essex-class CVs recover HP equal to $1 of their respective max HP (can be activated up to 4 times per battle). Your Lexington-class and Essex-class CVs gain the following buffs during battle:\n1) Increases said ships' DMG dealt against Light Armor enemies by $2;\n2) When said ships' airstrikes finish loading, their AA is increased by $2 for 5s.",
+    "description": "When this ship launches an airstrike: your Lexington-class and Essex-class CVs recover HP equal to $1 of their respective max HP (can be activated up to 4 times per battle).\n\nYour Lexington-class and Essex-class CVs gain the following buffs during battle:\n• Increases said ships' DMG dealt against Light Armor enemies by $2;\n• When said ships' airstrikes finish loading, their AA is increased by $2 for 5s.",
     "opsi_description": null,
     "name": "A Recitatif to the Songbirds",
     "max": 10,
@@ -57483,7 +57483,7 @@
     ]
   },
   "151920": {
-    "description": "When the battle starts: decreases this ship's LCK by 1 and increases the LCK of all other ships in your Surface Fleet by 1. When this ship fires her torpedoes: fires 1 torpedo at your Flagship and grants your Flagship the Emergency Maneuvers buff for 10s (increases your Flagship's EVA by $1 and Evasion Rate by $2, and increases the DMG dealt of your Flagship and your Eagle Union ships by $3). When the Emergency Maneuvers buff ends, if your Flagship is still afloat, William D. Porter recovers $4 of her max HP.",
+    "description": "When the battle starts: decreases this ship's LCK by 1 and increases the LCK of all other ships in your Surface Fleet by 1.\n\nWhen this ship fires her torpedoes: fires 1 torpedo at your Flagship and grants your Flagship the Emergency Maneuvers buff for 10s (increases your Flagship's EVA by $1 and Evasion Rate by $2, and increases the DMG dealt of your Flagship and your Eagle Union ships by $3).\nWhen the Emergency Maneuvers buff ends, if your Flagship is still afloat, William D. Porter recovers $4 of her max HP.",
     "opsi_description": null,
     "name": "The Legendary Mess",
     "max": 10,
@@ -57542,7 +57542,7 @@
     ]
   },
   "151930": {
-    "description": "Every 5s after the battle starts: fires a $1 torpedo barrage (DMG is based on the skill's level). Every 2 times this ship fires her Main Guns: performs a $1 special attack (DMG is based on the skill's level); enemies hit by this attack have their ACC decreased by $2 and DMG taken increased by $3 for 4s (this debuff also spreads to other enemies that are within 20 units of the affected enemies). 5s after a fleet this ship is NOT in starts a battle, if this ship is afloat: performs a $1 supporting attack (DMG is based on the skill's level).",
+    "description": "Every 5s after the battle starts: fires a $1 torpedo barrage (DMG is based on the skill's level).\n\nEvery 2 times this ship fires her Main Guns: performs a $1 special attack (DMG is based on the skill's level); enemies hit by this attack have their ACC decreased by $2 and DMG taken increased by $3 for 4s (this debuff also spreads to other enemies that are within 20 units of the affected enemies).\n\n5s after a fleet this ship is NOT in starts a battle, if this ship is afloat: performs a $1 supporting attack (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Happy D",
     "max": 10,
@@ -57589,7 +57589,7 @@
     ]
   },
   "151940": {
-    "description": "Increases this ship's FP, TRP, and AA by $1. When the battle starts, if there is another ship in your Vanguard: increases this ship's Anti-Air Gun efficiency by $2. Once per battle, when 7 enemy aircraft have been shot down within your AA Gun Range: decreases this ship's DMG taken by 15.0% and increases the AA of your Vanguard by $3 until the battle ends. 15s after the battle starts: drops a depth charge, and all your other ships enter the Attention Underwater state (increases ASW by $4) for 50s.",
+    "description": "Increases this ship's FP, TRP, and AA by $1.\n\nWhen the battle starts, if there is another ship in your Vanguard: increases this ship's Anti-Air Gun efficiency by $2.\n\nOnce per battle, when 7 enemy aircraft have been shot down within your AA Gun Range: decreases this ship's DMG taken by 15.0% and increases the AA of your Vanguard by $3 until the battle ends.\n\n15s after the battle starts: drops a depth charge, and all your other ships enter the Attention Underwater state (increases ASW by $4) for 50s.",
     "opsi_description": null,
     "name": "Inexperienced Patroller",
     "max": 10,
