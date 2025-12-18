@@ -47809,6 +47809,141 @@
       ]
     }
   ],
+  "30562": [
+    {
+      "name": "All Out Assault - William D. Porter II",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 36,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.4,
+            1.1,
+            0.9
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 5,
+          "pierce": 99,
+          "shell_range": [
+            1,
+            1
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 170922,
+          "weapon_type": 1,
+          "bullet_type": 5,
+          "bullet_id": 170921,
+          "type": "weapon"
+        },
+        {
+          "damage": 36,
+          "coefficient": 1,
+          "count": 18,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.4,
+            1.1,
+            0.9
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 0,
+          "pierce": 99,
+          "shell_range": [
+            150,
+            150
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 170922,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170921,
+          "type": "weapon"
+        },
+        {
+          "damage": 65,
+          "coefficient": 1,
+          "count": 5,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 3,
+          "velocity": 3.5,
+          "pierce": 0,
+          "shell_range": [
+            80,
+            100
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "tracker": {
+            "angular": 1.1,
+            "range": 12
+          },
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 170923,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 170923,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "60130": [
     {
       "name": "Inflict Burns",
@@ -69969,6 +70104,704 @@
       ]
     }
   ],
+  "151860": [
+    {
+      "name": "Sea-Top Sprint",
+      "parts": [
+        {
+          "damage": 50,
+          "coefficient": 1,
+          "count": 10,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.1,
+            1.1
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 10,
+          "pierce": 3,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169740,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161312,
+          "type": "weapon"
+        },
+        {
+          "damage": 40,
+          "coefficient": 1,
+          "count": 10,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 3,
+          "velocity": 5,
+          "pierce": 0,
+          "shell_range": [
+            150,
+            150
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169750,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 161312,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "151900": [
+    {
+      "name": "A Song to Still the Clouds",
+      "parts": [
+        {
+          "damage": 110,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            1.4,
+            0.8,
+            0.8
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 1,
+          "angle": 45,
+          "splash": 7,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            12,
+            5
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169830,
+          "weapon_type": 3,
+          "bullet_type": 2,
+          "bullet_id": 169821,
+          "type": "weapon",
+          "is_air": true
+        },
+        {
+          "damage": 220,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            0.9,
+            1.1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            500
+          ],
+          "aim_type": 1,
+          "angle": 22,
+          "splash": 19,
+          "velocity": 1.5,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            210
+          ],
+          "spread": [
+            36,
+            36
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 169830,
+          "weapon_type": 3,
+          "bullet_type": 2,
+          "bullet_id": 169821,
+          "type": "weapon",
+          "is_air": true,
+          "airdrop": true
+        }
+      ]
+    }
+  ],
+  "151840": [
+    {
+      "name": "Risk Elimination",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 16,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169730,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161210,
+          "type": "weapon"
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169730,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161209,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "151820": [
+    {
+      "name": "Fiesta del mar y cielo",
+      "parts": [
+        {
+          "damage": 25,
+          "coefficient": 1,
+          "count": 32,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.75,
+            0.4
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 16,
+          "pierce": 0,
+          "shell_range": [
+            65,
+            75
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169670,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161204,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "151870": [
+    {
+      "name": "Overnutrition",
+      "parts": [
+        {
+          "damage": 207,
+          "coefficient": 1,
+          "count": 24,
+          "stat": "avi",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1.1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 0,
+          "angle": 24,
+          "splash": 3,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            190,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169790,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 2111,
+          "type": "weapon",
+          "is_air": true
+        }
+      ]
+    }
+  ],
+  "151920": [
+    {
+      "name": "The Legendary Mess",
+      "parts": [
+        {
+          "fix_damage": 1,
+          "damage": 0,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0,
+            0,
+            0
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 3,
+          "velocity": 0.1,
+          "pierce": 0,
+          "shell_range": [
+            150,
+            150
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Ally Flagship",
+          "centered": false,
+          "weapon_id": 169740,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 161312,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "151930": [
+    {
+      "name": "Happy D (Every 5s)",
+      "parts": [
+        {
+          "damage": 65,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 3,
+          "velocity": 5,
+          "pierce": 0,
+          "shell_range": [
+            150,
+            150
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "tracker": {
+            "angular": 2,
+            "range": 35
+          },
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 183010,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 164843,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Happy D (Every 2 MG fires)",
+      "parts": [
+        {
+          "damage": 50,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.1,
+            1.1
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            60
+          ],
+          "aim_type": 0,
+          "angle": 60,
+          "splash": 30,
+          "velocity": 18,
+          "pierce": 0,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            8,
+            8
+          ],
+          "airdrop": true,
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 183020,
+          "weapon_type": 2,
+          "bullet_type": 2,
+          "bullet_id": 164860,
+          "type": "weapon",
+          "buffs": [
+            "Attaches a debuff to the enemy that makes all enemies within 20 units take 5% more damage and decreases their ACC by 8%"
+          ],
+          "buff_chance": 1
+        }
+      ]
+    },
+    {
+      "name": "Happy D (Crossfleet)",
+      "parts": [
+        {
+          "damage": 50,
+          "coefficient": 1,
+          "count": 2,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.1,
+            1.1
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": true,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 18,
+          "pierce": 99,
+          "shell_range": [
+            80,
+            80
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 183030,
+          "weapon_type": 1,
+          "bullet_type": 5,
+          "bullet_id": 164861,
+          "type": "weapon"
+        },
+        {
+          "damage": 50,
+          "coefficient": 1,
+          "count": 18,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.1,
+            1.1
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": -10,
+          "pierce": 99,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 183030,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 164862,
+          "type": "weapon"
+        },
+        {
+          "damage": 85,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.1,
+            1.1
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 15,
+          "velocity": 8,
+          "pierce": 99,
+          "shell_range": [
+            200,
+            200
+          ],
+          "spread": [
+            8,
+            8
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 180024,
+          "weapon_type": 3,
+          "bullet_type": 2,
+          "bullet_id": 164844,
+          "type": "weapon",
+          "is_air": true
+        }
+      ]
+    }
+  ],
+  "151940": [
+    {
+      "name": "Inexperienced Patroller",
+      "parts": [
+        {
+          "damage": 70,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "asw",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.5,
+            0.2
+          ],
+          "ammo": 6,
+          "is_critical": false,
+          "notes": [
+            "Only hits subs"
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            15
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 10,
+          "velocity": 0.5,
+          "pierce": 0,
+          "shell_range": [
+            2,
+            2
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 180021,
+          "weapon_type": 25,
+          "bullet_type": 2,
+          "bullet_id": 164841,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "190000": [
     {
       "name": "Steelsurge Concerto",
@@ -78091,6 +78924,106 @@
           "bullet_id": 2121,
           "type": "weapon",
           "is_air": true
+        }
+      ]
+    }
+  ],
+  "802010": [
+    {
+      "name": "Battle-Hardened Knight",
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 40,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.1,
+            1.1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 0.75,
+          "pierce": 0,
+          "shell_range": [
+            145,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 169810,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170902,
+          "type": "weapon",
+          "buffs": [
+            "Slow by 10% for 10s"
+          ],
+          "buff_chance": 1
+        }
+      ]
+    }
+  ],
+  "802042": [
+    {
+      "name": "Ashen Might - Cleveland II",
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1.25,
+          "count": 30,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            145,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 170912,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170903,
+          "type": "weapon"
         }
       ]
     }

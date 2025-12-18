@@ -4218,6 +4218,24 @@
     ],
     "contains": []
   },
+  "21055": {
+    "id": 21055,
+    "name": "META Crystal - Cleveland META",
+    "description": "An item that increases the potential of Cleveland META. Used in the META Lab during Somatic Activation.",
+    "type": 4,
+    "icon": "props/21055",
+    "rarity": 5,
+    "locations": [
+      "Event",
+      "META Shop"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "21101": {
     "id": 21101,
     "name": "Crystallized Heat-Resistant Steel",
@@ -31946,6 +31964,204 @@
       }
     ]
   },
+  "30378": {
+    "id": 30378,
+    "name": "Gear Skin Box (Maid's Bar)",
+    "description": "Contains a random Maid's Bar-themed gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxmeifennvpuwu",
+    "rarity": 5,
+    "locations": [
+      "A Note Through the Firmament"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 4258,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101601",
+        "name": "Stemmed Glass Shell"
+      },
+      {
+        "id": 4259,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101602",
+        "name": "Pink Ribbon Shell"
+      },
+      {
+        "id": 4260,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101603",
+        "name": "Iridescent Microphone Shell"
+      },
+      {
+        "id": 4261,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101604",
+        "name": "Heart Menu Torpedo"
+      },
+      {
+        "id": 4262,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101605",
+        "name": "Maidly Champagne Torpedo"
+      },
+      {
+        "id": 4263,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101606",
+        "name": "Black Cards Torpedo"
+      },
+      {
+        "id": 4264,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101607",
+        "name": "Disco Ball Shell"
+      },
+      {
+        "id": 4265,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101608",
+        "name": "Dartboard Shell"
+      },
+      {
+        "id": 4266,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101609",
+        "name": "Bunny Ears Shell"
+      },
+      {
+        "id": 4267,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101610",
+        "name": "Cake-Carrying Maidjuu (Torpedo)"
+      },
+      {
+        "id": 4268,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101610",
+        "name": "Cake-Carrying Maidjuu (Fighter)"
+      },
+      {
+        "id": 4269,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101610",
+        "name": "Cake-Carrying Maidjuu (Bomber)"
+      },
+      {
+        "id": 4270,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101611",
+        "name": "Bunny-Eared Maidjuu (Torpedo)"
+      },
+      {
+        "id": 4271,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101611",
+        "name": "Bunny-Eared Maidjuu (Fighter)"
+      },
+      {
+        "id": 4272,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101611",
+        "name": "Bunny-Eared Maidjuu (Bomber)"
+      },
+      {
+        "id": 4273,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101612",
+        "name": "Tuxed-Up Butlerjuu (Torpedo)"
+      },
+      {
+        "id": 4274,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101612",
+        "name": "Tuxed-Up Butlerjuu (Fighter)"
+      },
+      {
+        "id": 4275,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101612",
+        "name": "Tuxed-Up Butlerjuu (Bomber)"
+      }
+    ]
+  },
   "30401": {
     "id": 30401,
     "name": "Random Gear Skin Box (Cruise Series 3)",
@@ -45693,6 +45909,204 @@
       }
     ]
   },
+  "30562": {
+    "id": 30562,
+    "name": "Selection Gear Skin Box (Maid's Bar)",
+    "description": "Can be opened to receive 1 Maid's Bar-themed gear skin of your choosing.",
+    "type": 13,
+    "icon": "props/appearanceboxmeifennvpuwuzixuan",
+    "rarity": 5,
+    "locations": [
+      "A Note Through the Firmament"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 4258,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101601",
+        "name": "Stemmed Glass Shell"
+      },
+      {
+        "id": 4259,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101602",
+        "name": "Pink Ribbon Shell"
+      },
+      {
+        "id": 4260,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101603",
+        "name": "Iridescent Microphone Shell"
+      },
+      {
+        "id": 4261,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101604",
+        "name": "Heart Menu Torpedo"
+      },
+      {
+        "id": 4262,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101605",
+        "name": "Maidly Champagne Torpedo"
+      },
+      {
+        "id": 4263,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101606",
+        "name": "Black Cards Torpedo"
+      },
+      {
+        "id": 4264,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101607",
+        "name": "Disco Ball Shell"
+      },
+      {
+        "id": 4265,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101608",
+        "name": "Dartboard Shell"
+      },
+      {
+        "id": 4266,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101609",
+        "name": "Bunny Ears Shell"
+      },
+      {
+        "id": 4267,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101610",
+        "name": "Cake-Carrying Maidjuu (Torpedo)"
+      },
+      {
+        "id": 4268,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101610",
+        "name": "Cake-Carrying Maidjuu (Fighter)"
+      },
+      {
+        "id": 4269,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101610",
+        "name": "Cake-Carrying Maidjuu (Bomber)"
+      },
+      {
+        "id": 4270,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101611",
+        "name": "Bunny-Eared Maidjuu (Torpedo)"
+      },
+      {
+        "id": 4271,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101611",
+        "name": "Bunny-Eared Maidjuu (Fighter)"
+      },
+      {
+        "id": 4272,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101611",
+        "name": "Bunny-Eared Maidjuu (Bomber)"
+      },
+      {
+        "id": 4273,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101612",
+        "name": "Tuxed-Up Butlerjuu (Torpedo)"
+      },
+      {
+        "id": 4274,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101612",
+        "name": "Tuxed-Up Butlerjuu (Fighter)"
+      },
+      {
+        "id": 4275,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101612",
+        "name": "Tuxed-Up Butlerjuu (Bomber)"
+      }
+    ]
+  },
   "30911": {
     "id": 30911,
     "name": "T1 Custom Gear Lab Material Pack",
@@ -49252,6 +49666,159 @@
         "blueprint": false,
         "icon": "props/16502",
         "name": "T2 EXP Data Pack"
+      }
+    ]
+  },
+  "40074": {
+    "id": 40074,
+    "name": "Battle UI Pack - Maid Café (Basic)",
+    "description": "Contains the Battle UI - Maid Café theme and 1,000 Coins.",
+    "type": 17,
+    "icon": "chargeicon/ui7",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 9999999206,
+        "type": 8,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "props/ui_206",
+        "name": "Maid Café"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 1000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ]
+  },
+  "40075": {
+    "id": 40075,
+    "name": "Battle UI Pack - Maid Café (Premium)",
+    "description": "Contains the Battle UI - Maid Café theme and 3,060 Gems.",
+    "type": 17,
+    "icon": "chargeicon/ui7",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 9999999206,
+        "type": 8,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "props/ui_206",
+        "name": "Maid Café"
+      },
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 3060,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
+      }
+    ]
+  },
+  "40076": {
+    "id": 40076,
+    "name": "Premium Winter Gift Pack",
+    "description": "Contains loads of valuable rewards.",
+    "type": 17,
+    "icon": "chargeicon/dongzhi3",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 3880,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
+      },
+      {
+        "id": 3,
+        "type": 2,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 6,
+        "icon": "ships/compact/buli_super",
+        "name": "Specialized Bulin Custom MKIII"
+      },
+      {
+        "id": 2,
+        "type": 2,
+        "amount": 2,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "ships/compact/kin",
+        "name": "Prototype Bulin MKII"
+      },
+      {
+        "id": 15012,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 150,
+        "blueprint": false,
+        "icon": "props/15012",
+        "name": "Cognitive Array"
+      },
+      {
+        "id": 16502,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 60,
+        "blueprint": false,
+        "icon": "props/16502",
+        "name": "T2 EXP Data Pack"
+      },
+      {
+        "id": 30113,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 150,
+        "blueprint": false,
+        "icon": "props/30113",
+        "name": "Universal T3 Part"
       }
     ]
   },
@@ -62536,6 +63103,34 @@
         "rarity": 5,
         "icon": "uipreview/205",
         "name": "Ninja Castle"
+      }
+    ]
+  },
+  "9999999206": {
+    "id": 9999999206,
+    "name": "Maid Café UI",
+    "description": "The Maid Café themed Battle UI",
+    "type": 97,
+    "icon": "props/ui_206",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 206,
+        "type": 99,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": false,
+        "rarity": 5,
+        "icon": "uipreview/206",
+        "name": "Maid Café"
       }
     ]
   }

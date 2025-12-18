@@ -72518,5 +72518,1085 @@
     "time_limit": 80,
     "type": 9,
     "id": 1770
+  },
+  "1990001_a1_16800301": {
+    "name": "A Note Through the Firmament-A1",
+    "acv": 100,
+    "opsi": false,
+    "boss": {
+      "id": 16800301,
+      "hull": 5,
+      "nation": 95,
+      "name": "TPTPJ ILHZA - OLYTPA",
+      "stats": {
+        "hp": 8900,
+        "fp": 120,
+        "trp": 30,
+        "avi": 60,
+        "aa": 115,
+        "hit": 19,
+        "eva": 15,
+        "spd": 20,
+        "luck": 0,
+        "armor": 2
+      },
+      "cld": [
+        25,
+        25,
+        25
+      ],
+      "level": 25,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_hermit",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1990013,
+    "dungeon_id": 1990013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1771
+  },
+  "1990001_a2_16800302": {
+    "name": "A Note Through the Firmament-A2",
+    "acv": 130,
+    "opsi": false,
+    "boss": {
+      "id": 16800302,
+      "hull": 5,
+      "nation": 95,
+      "name": "TPTPJ ILHZA - SVCLYZ",
+      "stats": {
+        "hp": 11000,
+        "fp": 130,
+        "trp": 32,
+        "avi": 65,
+        "aa": 135,
+        "hit": 20,
+        "eva": 18,
+        "spd": 20,
+        "luck": 0,
+        "armor": 2
+      },
+      "cld": [
+        25,
+        25,
+        25
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_lovers",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1990113,
+    "dungeon_id": 1990113,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1772
+  },
+  "1990001_a3_16800303": {
+    "name": "A Note Through the Firmament-A3",
+    "acv": 165,
+    "opsi": false,
+    "boss": {
+      "id": 16800303,
+      "hull": 5,
+      "nation": 95,
+      "name": "TPTPJ ILHZA - JOHYPVA",
+      "stats": {
+        "hp": 12000,
+        "fp": 140,
+        "trp": 35,
+        "avi": 0,
+        "aa": 135,
+        "hit": 21,
+        "eva": 18,
+        "spd": 26,
+        "luck": 0,
+        "armor": 2
+      },
+      "cld": [
+        25,
+        25,
+        25
+      ],
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_chariot",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1990213,
+    "dungeon_id": 1990213,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1773
+  },
+  "1990002_b1_16801301": {
+    "name": "A Note Through the Firmament-B1",
+    "acv": 210,
+    "opsi": false,
+    "boss": {
+      "id": 16801301,
+      "hull": 10,
+      "nation": 95,
+      "name": "TPTPJ ILHZA - LTWYLZZ",
+      "stats": {
+        "hp": 16500,
+        "fp": 160,
+        "trp": 0,
+        "avi": 0,
+        "aa": 180,
+        "hit": 25,
+        "eva": 16,
+        "spd": 20,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        25,
+        25,
+        25
+      ],
+      "level": 45,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_empress",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1991013,
+    "dungeon_id": 1991013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1774
+  },
+  "1990002_b2_16801302": {
+    "name": "A Note Through the Firmament-B2",
+    "acv": 270,
+    "opsi": false,
+    "boss": {
+      "id": 16801302,
+      "hull": 3,
+      "nation": 95,
+      "name": "TPTPJ ILHZA - ZAYLUNAO",
+      "stats": {
+        "hp": 23400,
+        "fp": 125,
+        "trp": 120,
+        "avi": 0,
+        "aa": 165,
+        "hit": 25,
+        "eva": 22,
+        "spd": 16,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        25,
+        25,
+        25
+      ],
+      "level": 55,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_strength",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1991113,
+    "dungeon_id": 1991113,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1775
+  },
+  "1990002_b3_16801303": {
+    "name": "A Note Through the Firmament-B3",
+    "acv": 330,
+    "opsi": false,
+    "boss": {
+      "id": 16801303,
+      "hull": 7,
+      "nation": 95,
+      "name": "TPTPJ ILHZA - THNPJPHU",
+      "stats": {
+        "hp": 25600,
+        "fp": 150,
+        "trp": 0,
+        "avi": 180,
+        "aa": 240,
+        "hit": 26,
+        "eva": 27,
+        "spd": 16,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        25,
+        25,
+        25
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_magician",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1991213,
+    "dungeon_id": 1991213,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1776
+  },
+  "1990011_c1_16802301": {
+    "name": "A Note Through the Firmament-C1",
+    "acv": 455,
+    "opsi": false,
+    "boss": {
+      "id": 16802301,
+      "hull": 5,
+      "nation": 95,
+      "name": "TPTPJ ILHZA - OLYTPA",
+      "stats": {
+        "hp": 52100,
+        "fp": 210,
+        "trp": 52,
+        "avi": 105,
+        "aa": 206,
+        "hit": 41,
+        "eva": 41,
+        "spd": 20,
+        "luck": 18,
+        "armor": 2
+      },
+      "cld": [
+        25,
+        25,
+        25
+      ],
+      "level": 75,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_hermit",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1992013,
+    "dungeon_id": 1992013,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1777
+  },
+  "1990011_c2_16802302": {
+    "name": "A Note Through the Firmament-C2",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "id": 16802302,
+      "hull": 5,
+      "nation": 95,
+      "name": "TPTPJ ILHZA - SVCLYZ",
+      "stats": {
+        "hp": 56200,
+        "fp": 220,
+        "trp": 55,
+        "avi": 110,
+        "aa": 225,
+        "hit": 42,
+        "eva": 42,
+        "spd": 20,
+        "luck": 18,
+        "armor": 2
+      },
+      "cld": [
+        25,
+        25,
+        25
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_lovers",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1992113,
+    "dungeon_id": 1992113,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1778
+  },
+  "1990011_c3_16802303": {
+    "name": "A Note Through the Firmament-C3",
+    "acv": 775,
+    "opsi": false,
+    "boss": {
+      "id": 16802303,
+      "hull": 5,
+      "nation": 95,
+      "name": "TPTPJ ILHZA - JOHYPVA",
+      "stats": {
+        "hp": 62500,
+        "fp": 255,
+        "trp": 64,
+        "avi": 0,
+        "aa": 325,
+        "hit": 38,
+        "eva": 44,
+        "spd": 26,
+        "luck": 20,
+        "armor": 2
+      },
+      "cld": [
+        25,
+        25,
+        25
+      ],
+      "level": 85,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_chariot",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1992213,
+    "dungeon_id": 1992213,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1779
+  },
+  "1990012_d1_16803301": {
+    "name": "A Note Through the Firmament-D1",
+    "acv": 850,
+    "opsi": false,
+    "boss": {
+      "id": 16803301,
+      "hull": 10,
+      "nation": 95,
+      "name": "TPTPJ ILHZA - LTWYLZZ",
+      "stats": {
+        "hp": 86200,
+        "fp": 280,
+        "trp": 0,
+        "avi": 0,
+        "aa": 260,
+        "hit": 69,
+        "eva": 32,
+        "spd": 20,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        25,
+        25,
+        25
+      ],
+      "level": 95,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_empress",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1993013,
+    "dungeon_id": 1993013,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1780
+  },
+  "1990012_d2_16803302": {
+    "name": "A Note Through the Firmament-D2",
+    "acv": 1100,
+    "opsi": false,
+    "boss": {
+      "id": 16803302,
+      "hull": 3,
+      "nation": 95,
+      "name": "TPTPJ ILHZA - ZAYLUNAO",
+      "stats": {
+        "hp": 98260,
+        "fp": 240,
+        "trp": 190,
+        "avi": 0,
+        "aa": 265,
+        "hit": 68,
+        "eva": 45,
+        "spd": 16,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        25,
+        25,
+        25
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_strength",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1993113,
+    "dungeon_id": 1993113,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1781
+  },
+  "1990012_d3_16803303": {
+    "name": "A Note Through the Firmament-D3",
+    "acv": 1410,
+    "opsi": false,
+    "boss": {
+      "id": 16803303,
+      "hull": 7,
+      "nation": 95,
+      "name": "TPTPJ ILHZA - THNPJPHU",
+      "stats": {
+        "hp": 110000,
+        "fp": 255,
+        "trp": 0,
+        "avi": 390,
+        "aa": 410,
+        "hit": 79,
+        "eva": 54,
+        "spd": 18,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        25,
+        25,
+        25
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_magician",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1993213,
+    "dungeon_id": 1993213,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1782
+  },
+  "1990025_sp_16804301": {
+    "name": "A Note Through the Firmament-SP",
+    "acv": 1820,
+    "opsi": false,
+    "boss": {
+      "id": 16804301,
+      "hull": 15,
+      "nation": 95,
+      "name": "TPTPJ OFIYPK - HKOLZPCL YHWPK JYHDSLY AFWL",
+      "stats": {
+        "hp": 150000,
+        "fp": 300,
+        "trp": 0,
+        "avi": 0,
+        "aa": 440,
+        "hit": 71,
+        "eva": 49,
+        "spd": 18,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        25,
+        25,
+        25
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_creep",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1994013,
+    "dungeon_id": 1994013,
+    "time_limit": 180,
+    "type": 5,
+    "id": 1783
+  },
+  "1990026_extra_16805001": {
+    "name": "A Note Through the Firmament-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16805001,
+      "hull": 15,
+      "nation": 95,
+      "name": "TPTPJ OFIYPK - HKOLZPCL YHWPK JYHDSLY AFWL",
+      "stats": {
+        "hp": 1000000,
+        "fp": 444,
+        "trp": 444,
+        "avi": 0,
+        "aa": 400,
+        "hit": 120,
+        "eva": 0,
+        "spd": 25,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        25,
+        25,
+        25
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_creep",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1995001,
+    "dungeon_id": 1995001,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1784
+  },
+  "1990026_extra_16805101": {
+    "name": "A Note Through the Firmament-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16805101,
+      "hull": 15,
+      "nation": 95,
+      "name": "TPTPJ OFIYPK - HKOLZPCL YHWPK JYHDSLY AFWL",
+      "stats": {
+        "hp": 1000000,
+        "fp": 777,
+        "trp": 777,
+        "avi": 0,
+        "aa": 600,
+        "hit": 9999,
+        "eva": 0,
+        "spd": 25,
+        "luck": 99,
+        "armor": 0
+      },
+      "cld": [
+        25,
+        25,
+        25
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_boss_creep",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1995002,
+    "dungeon_id": 1995002,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1785
+  },
+  "2100541_a1_16400301": {
+    "name": "Parallel Superimposition-A1 - War Archive",
+    "acv": 100,
+    "opsi": false,
+    "boss": {
+      "id": 16400301,
+      "hull": 1,
+      "nation": 1,
+      "name": "Mass-Produced OFS Heavy Destroyer (Training Mod)",
+      "stats": {
+        "hp": 7800,
+        "fp": 130,
+        "trp": 20,
+        "avi": 0,
+        "aa": 95,
+        "hit": 19,
+        "eva": 15,
+        "spd": 20,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        21,
+        10.5,
+        10.5
+      ],
+      "level": 25,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "ofs_daqu",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1700013,
+    "dungeon_id": 1700013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1786
+  },
+  "2100541_a2_16400302": {
+    "name": "Parallel Superimposition-A2 - War Archive",
+    "acv": 130,
+    "opsi": false,
+    "boss": {
+      "id": 16400302,
+      "hull": 5,
+      "nation": 1,
+      "name": "Mass-Produced OFS Guided-Missile Battleship (Training Mod)",
+      "stats": {
+        "hp": 8900,
+        "fp": 150,
+        "trp": 30,
+        "avi": 0,
+        "aa": 115,
+        "hit": 20,
+        "eva": 16,
+        "spd": 20,
+        "luck": 0,
+        "armor": 2
+      },
+      "cld": [
+        21,
+        10.5,
+        10.5
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "ofs_zhanlie",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1700113,
+    "dungeon_id": 1700113,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1787
+  },
+  "2100541_a3_16400303": {
+    "name": "Parallel Superimposition-A3 - War Archive",
+    "acv": 165,
+    "opsi": false,
+    "boss": {
+      "id": 16400303,
+      "hull": 17,
+      "nation": 1,
+      "name": "\"Epimetheus\" - OFS Large Deep-Sea Exploration Submarine",
+      "stats": {
+        "hp": 2840,
+        "fp": 41,
+        "trp": 162,
+        "avi": 120,
+        "aa": 112,
+        "hit": 22,
+        "eva": 21,
+        "spd": 18,
+        "luck": 0,
+        "armor": 2
+      },
+      "cld": [
+        36,
+        10,
+        10
+      ],
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "ofs_shenshuijian",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1700213,
+    "dungeon_id": 1700213,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1788
+  },
+  "2100542_b1_16401301": {
+    "name": "Parallel Superimposition-B1 - War Archive",
+    "acv": 210,
+    "opsi": false,
+    "boss": {
+      "id": 16401301,
+      "hull": 1,
+      "nation": 99,
+      "name": "Enforcer XV: Temptation",
+      "stats": {
+        "hp": 8300,
+        "fp": 64,
+        "trp": 235,
+        "avi": 0,
+        "aa": 95,
+        "hit": 23,
+        "eva": 28,
+        "spd": 20,
+        "luck": 8,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 45,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss15",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1701013,
+    "dungeon_id": 1701013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1789
+  },
+  "2100542_b2_16401302": {
+    "name": "Parallel Superimposition-B2 - War Archive",
+    "acv": 270,
+    "opsi": false,
+    "boss": {
+      "id": 16401302,
+      "hull": 3,
+      "nation": 99,
+      "name": "Enforcer XV: Restriction",
+      "stats": {
+        "hp": 23400,
+        "fp": 125,
+        "trp": 120,
+        "avi": 0,
+        "aa": 165,
+        "hit": 25,
+        "eva": 22,
+        "spd": 16,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 55,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss16",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1701113,
+    "dungeon_id": 1701113,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1790
+  },
+  "2100542_b3_16401303": {
+    "name": "Parallel Superimposition-B3 - War Archive",
+    "acv": 330,
+    "opsi": false,
+    "boss": {
+      "id": 16401303,
+      "hull": 5,
+      "nation": 99,
+      "name": "Arbiter: The Devil XV",
+      "stats": {
+        "hp": 24300,
+        "fp": 186,
+        "trp": 0,
+        "avi": 0,
+        "aa": 365,
+        "hit": 26,
+        "eva": 21,
+        "spd": 16,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss17",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1701213,
+    "dungeon_id": 1701213,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1791
+  },
+  "2100551_c1_16402301": {
+    "name": "Parallel Superimposition-C1 - War Archive",
+    "acv": 455,
+    "opsi": false,
+    "boss": {
+      "id": 16402301,
+      "hull": 1,
+      "nation": 1,
+      "name": "Mass-Produced OFS Heavy Destroyer (Training Mod)",
+      "stats": {
+        "hp": 52100,
+        "fp": 190,
+        "trp": 45,
+        "avi": 0,
+        "aa": 206,
+        "hit": 41,
+        "eva": 41,
+        "spd": 20,
+        "luck": 18,
+        "armor": 1
+      },
+      "cld": [
+        21,
+        10.5,
+        10.5
+      ],
+      "level": 75,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "ofs_daqu",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1702013,
+    "dungeon_id": 1702013,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1792
+  },
+  "2100551_c2_16402302": {
+    "name": "Parallel Superimposition-C2 - War Archive",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "id": 16402302,
+      "hull": 5,
+      "nation": 1,
+      "name": "Mass-Produced OFS Guided-Missile Battleship (Training Mod)",
+      "stats": {
+        "hp": 56200,
+        "fp": 210,
+        "trp": 50,
+        "avi": 0,
+        "aa": 206,
+        "hit": 42,
+        "eva": 42,
+        "spd": 20,
+        "luck": 18,
+        "armor": 2
+      },
+      "cld": [
+        21,
+        10.5,
+        10.5
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "ofs_zhanlie",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1702113,
+    "dungeon_id": 1702113,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1793
+  },
+  "2100551_c3_16402303": {
+    "name": "Parallel Superimposition-C3 - War Archive",
+    "acv": 775,
+    "opsi": false,
+    "boss": {
+      "id": 16402303,
+      "hull": 17,
+      "nation": 1,
+      "name": "\"Epimetheus\" - OFS Large Deep-Sea Exploration Submarine",
+      "stats": {
+        "hp": 20150,
+        "fp": 106,
+        "trp": 312,
+        "avi": 220,
+        "aa": 206,
+        "hit": 46,
+        "eva": 48,
+        "spd": 18,
+        "luck": 18,
+        "armor": 2
+      },
+      "cld": [
+        36,
+        10,
+        10
+      ],
+      "level": 85,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "ofs_shenshuijian",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1702213,
+    "dungeon_id": 1702213,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1794
+  },
+  "2100552_d1_16403301": {
+    "name": "Parallel Superimposition-D1 - War Archive",
+    "acv": 850,
+    "opsi": false,
+    "boss": {
+      "id": 16403301,
+      "hull": 1,
+      "nation": 99,
+      "name": "Enforcer XV: Temptation",
+      "stats": {
+        "hp": 61500,
+        "fp": 198,
+        "trp": 260,
+        "avi": 0,
+        "aa": 350,
+        "hit": 52,
+        "eva": 48,
+        "spd": 20,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 95,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss15",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1703013,
+    "dungeon_id": 1703013,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1795
+  },
+  "2100552_d2_16403302": {
+    "name": "Parallel Superimposition-D2 - War Archive",
+    "acv": 1100,
+    "opsi": false,
+    "boss": {
+      "id": 16403302,
+      "hull": 3,
+      "nation": 99,
+      "name": "Enforcer XV: Restriction",
+      "stats": {
+        "hp": 98260,
+        "fp": 240,
+        "trp": 190,
+        "avi": 0,
+        "aa": 265,
+        "hit": 68,
+        "eva": 45,
+        "spd": 16,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss16",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1703113,
+    "dungeon_id": 1703113,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1796
+  },
+  "2100552_d3_16403303": {
+    "name": "Parallel Superimposition-D3 - War Archive",
+    "acv": 1410,
+    "opsi": false,
+    "boss": {
+      "id": 16403303,
+      "hull": 5,
+      "nation": 99,
+      "name": "Arbiter: The Devil XV",
+      "stats": {
+        "hp": 89250,
+        "fp": 300,
+        "trp": 0,
+        "avi": 0,
+        "aa": 460,
+        "hit": 52,
+        "eva": 40,
+        "spd": 18,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss17",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1703213,
+    "dungeon_id": 1703213,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1797
   }
 }

@@ -33013,6 +33013,282 @@
       "CN"
     ]
   },
+  "17280": {
+    "icon": "17280",
+    "id": 17280,
+    "name": "F4U (VBF-94 Squadron)",
+    "rarity": 5,
+    "tech": 0,
+    "type": 9,
+    "skills": [
+      61000
+    ],
+    "nation": 1,
+    "limit_group": 0,
+    "hull_restriction": [
+      10,
+      22,
+      23,
+      24
+    ],
+    "max": 13,
+    "armaments": [
+      {
+        "aircraft": false,
+        "damage": [
+          31,
+          35,
+          39,
+          43,
+          48,
+          53,
+          58,
+          63,
+          68,
+          73,
+          78,
+          81,
+          86,
+          92
+        ],
+        "count": 1,
+        "armor_mod": [
+          1,
+          1,
+          1
+        ],
+        "range": [
+          0,
+          30
+        ],
+        "reload": [
+          146,
+          143,
+          140,
+          137,
+          134,
+          131,
+          128,
+          125,
+          122,
+          119,
+          115,
+          115,
+          115,
+          115
+        ],
+        "id": 50460,
+        "spread_angle": null,
+        "name": "6 x 12.7mm Cannon",
+        "barrage_id": 2100,
+        "stat": "avi",
+        "ratio": 1,
+        "weapon_type": 4,
+        "aim_type": 1,
+        "bullet_id": 2100,
+        "ammo": 5,
+        "bullet_type": 6,
+        "spread": [
+          0,
+          0
+        ],
+        "splash": 0,
+        "velocity": 12,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 180,
+        "volley_info": [
+          1,
+          1
+        ]
+      },
+      {
+        "aircraft": false,
+        "damage": [
+          161,
+          185,
+          209,
+          233,
+          257,
+          281,
+          305,
+          329,
+          353,
+          377,
+          402,
+          418,
+          442,
+          474
+        ],
+        "count": 2,
+        "armor_mod": [
+          0.8,
+          0.95,
+          1.15
+        ],
+        "range": [
+          0,
+          500
+        ],
+        "reload": [],
+        "id": 52380,
+        "spread_angle": null,
+        "name": "2 x 1000lb Bomb",
+        "barrage_id": 2121,
+        "stat": "avi",
+        "ratio": 0.8,
+        "weapon_type": 2,
+        "aim_type": 1,
+        "bullet_id": 2145,
+        "airdrop": true,
+        "ammo": 6,
+        "bullet_type": 2,
+        "spread": [
+          36,
+          36
+        ],
+        "splash": 22,
+        "buffs": [
+          "24.0% chance to inflict Standard Armor Break (8% for 6s, ID: 401) if target hit is a BB or BBV"
+        ],
+        "velocity": 1.5,
+        "pierce": 0,
+        "shell_range": [
+          0,
+          0
+        ],
+        "angle": 22,
+        "volley_info": [
+          1,
+          1
+        ]
+      }
+    ],
+    "weapon": {
+      "aircraft": true,
+      "reload": [
+        1787,
+        1755,
+        1724,
+        1693,
+        1662,
+        1630,
+        1599,
+        1568,
+        1537,
+        1505,
+        1474,
+        1474,
+        1474,
+        1474
+      ],
+      "count": 1,
+      "is_interceptor": false,
+      "id": 19320,
+      "speed": 45,
+      "hp_growth": [
+        1916,
+        2203,
+        2491,
+        2778,
+        3066,
+        3353,
+        3640,
+        3928,
+        4215,
+        4503,
+        4790,
+        5077,
+        5365,
+        5652
+      ],
+      "hp": [
+        50,
+        57,
+        65,
+        72,
+        80,
+        87,
+        95,
+        102,
+        110,
+        117,
+        125,
+        132,
+        139,
+        147
+      ],
+      "dodge": 3.15,
+      "dodge_limit": 1.5,
+      "crash_dmg": 200
+    },
+    "stats": [
+      {
+        "stat": "avi",
+        "values": [
+          45,
+          45,
+          45,
+          45,
+          45,
+          45,
+          45,
+          45,
+          45,
+          45,
+          45,
+          45,
+          45,
+          45
+        ]
+      }
+    ],
+    "labels": [
+      "uss",
+      "cv",
+      "db"
+    ],
+    "speciality": "Bomber",
+    "equippable_main": [
+      6,
+      7
+    ],
+    "equippable_sub": [
+      6,
+      7
+    ],
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "F4U (VBF-94 Squadron)"
+    ],
+    "skill_levels": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "17300": {
     "icon": "17300",
     "id": 17300,

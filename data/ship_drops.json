@@ -828,6 +828,22 @@
     "notes": [],
     "events": []
   },
+  "12": {
+    "id": 11,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [
+      "Available in the Event shop during A Note Through the Firmament"
+    ],
+    "maps": [],
+    "notes": [
+      "A Note Through the Firmament"
+    ],
+    "events": []
+  },
   "13": {
     "id": 13,
     "timer": null,
@@ -17621,7 +17637,7 @@
     "light": false,
     "heavy": false,
     "limited": "Parallel Superimposition",
-    "special": false,
+    "special": true,
     "other": [],
     "maps": [],
     "notes": [
@@ -17629,6 +17645,18 @@
     ],
     "events": [
       "Parallel Superimposition"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "573": {
@@ -17638,7 +17666,9 @@
     "heavy": false,
     "limited": null,
     "special": false,
-    "other": [],
+    "other": [
+      3
+    ],
     "maps": [],
     "notes": [
       "Available as point accumulation reward during Parallel Superimposition"
@@ -17651,10 +17681,12 @@
     "id": 574,
     "timer": "04:25:00",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Parallel Superimposition",
-    "special": false,
-    "other": [],
+    "special": true,
+    "other": [
+      6
+    ],
     "maps": [],
     "notes": [],
     "events": [
@@ -17665,7 +17697,7 @@
     "id": 575,
     "timer": "02:00:00",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Parallel Superimposition",
     "special": false,
     "other": [],
@@ -17678,7 +17710,7 @@
   "576": {
     "id": 576,
     "timer": "00:15:00",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": "Parallel Superimposition",
     "special": false,
@@ -19725,6 +19757,64 @@
     ],
     "events": [
       "Tempesta and Islas de Libertád"
+    ]
+  },
+  "715": {
+    "id": 715,
+    "timer": "04:25:00",
+    "light": false,
+    "heavy": false,
+    "limited": "A Note Through the Firmament",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [],
+    "events": [
+      "A Note Through the Firmament"
+    ]
+  },
+  "716": {
+    "id": 716,
+    "timer": "02:06:40",
+    "light": false,
+    "heavy": false,
+    "limited": "A Note Through the Firmament",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [],
+    "events": [
+      "A Note Through the Firmament"
+    ]
+  },
+  "718": {
+    "id": 718,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available as point accumulation reward during A Note Through the Firmament"
+    ],
+    "events": [
+      "A Note Through the Firmament"
+    ]
+  },
+  "719": {
+    "id": 719,
+    "timer": "01:25:00",
+    "light": false,
+    "heavy": false,
+    "limited": "A Note Through the Firmament",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [],
+    "events": [
+      "A Note Through the Firmament"
     ]
   },
   "10001": {
@@ -22535,6 +22625,20 @@
     "maps": [],
     "notes": [
       "Available in META Showdown"
+    ],
+    "events": []
+  },
+  "30055": {
+    "id": 30055,
+    "timer": "01:25:00",
+    "light": false,
+    "heavy": false,
+    "limited": "A Note Through the Firmament",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available as Map drop (B3, D3, SP; boss only) and in the Event shop during A Note Through the Firmament"
     ],
     "events": []
   }

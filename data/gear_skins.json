@@ -19634,6 +19634,86 @@
       "CN"
     ]
   },
+  "3063": {
+    "id": 3063,
+    "name": "Blue Shadow (Torpedo)",
+    "icon": "99184",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Can you escape the Blue Ghost's pursuit?",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "3064": {
+    "id": 3064,
+    "name": "Blue Shadow (Fighter)",
+    "icon": "99184",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Can you escape the Blue Ghost's pursuit?",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "3065": {
+    "id": 3065,
+    "name": "Blue Shadow (Bomber)",
+    "icon": "99184",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Can you escape the Blue Ghost's pursuit?",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "3066": {
+    "id": 3066,
+    "name": "Star Veil",
+    "icon": "99185",
+    "types": [
+      10
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Let us fight together under the veil of the stars!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "3067": {
+    "id": 3067,
+    "name": "Blue Flames",
+    "icon": "99186",
+    "types": [
+      10
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Ephemeral blue flames, reduce all my foes to ashes!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "4001": {
     "id": 4001,
     "name": "Little Blocks Shell",
@@ -23908,6 +23988,306 @@
     "rarity": 4,
     "theme": "Deep-Sea Treasure Hunt",
     "description": "An indescribable phantom appears in the fog.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4258": {
+    "id": 4258,
+    "name": "Stemmed Glass Shell",
+    "icon": "101601",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Maid's Bar",
+    "description": "Savor this glass of delicate violence.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4259": {
+    "id": 4259,
+    "name": "Pink Ribbon Shell",
+    "icon": "101602",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Maid's Bar",
+    "description": "Accept these heartfelt feelings! I insist!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4260": {
+    "id": 4260,
+    "name": "Iridescent Microphone Shell",
+    "icon": "101603",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Maid's Bar",
+    "description": "You've held it for long enough. Now it's time for the opponent to \"take\" the mic.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4261": {
+    "id": 4261,
+    "name": "Heart Menu Torpedo",
+    "icon": "101604",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Maid's Bar",
+    "description": "Those are some eye-popping, heart-stopping prices!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4262": {
+    "id": 4262,
+    "name": "Maidly Champagne Torpedo",
+    "icon": "101605",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Maid's Bar",
+    "description": "One gulp will knock you right out. Or maybe the bottle will do that first.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4263": {
+    "id": 4263,
+    "name": "Black Cards Torpedo",
+    "icon": "101606",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Maid's Bar",
+    "description": "Because being blown to bits is nowhere near as bad as a papercut.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4264": {
+    "id": 4264,
+    "name": "Disco Ball Shell",
+    "icon": "101607",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Maid's Bar",
+    "description": "It's time to teach them what death by glamor means.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4265": {
+    "id": 4265,
+    "name": "Dartboard Shell",
+    "icon": "101608",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Maid's Bar",
+    "description": "Who's up for a game of darts?",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4266": {
+    "id": 4266,
+    "name": "Bunny Ears Shell",
+    "icon": "101609",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Maid's Bar",
+    "description": "It's not exactly what we meant when we said \"give them an earful,\" but...",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4267": {
+    "id": 4267,
+    "name": "Cake-Carrying Maidjuu (Torpedo)",
+    "icon": "101610",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Maid's Bar",
+    "description": "One slice of cake, on the way!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4268": {
+    "id": 4268,
+    "name": "Cake-Carrying Maidjuu (Fighter)",
+    "icon": "101610",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Maid's Bar",
+    "description": "One slice of cake, on the way!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4269": {
+    "id": 4269,
+    "name": "Cake-Carrying Maidjuu (Bomber)",
+    "icon": "101610",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Maid's Bar",
+    "description": "One slice of cake, on the way!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4270": {
+    "id": 4270,
+    "name": "Bunny-Eared Maidjuu (Torpedo)",
+    "icon": "101611",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Maid's Bar",
+    "description": "Cheers you on with adorable pep!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4271": {
+    "id": 4271,
+    "name": "Bunny-Eared Maidjuu (Fighter)",
+    "icon": "101611",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Maid's Bar",
+    "description": "Cheers you on with adorable pep!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4272": {
+    "id": 4272,
+    "name": "Bunny-Eared Maidjuu (Bomber)",
+    "icon": "101611",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Maid's Bar",
+    "description": "Cheers you on with adorable pep!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4273": {
+    "id": 4273,
+    "name": "Tuxed-Up Butlerjuu (Torpedo)",
+    "icon": "101612",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Maid's Bar",
+    "description": "The quickest dealer in the house is here!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4274": {
+    "id": 4274,
+    "name": "Tuxed-Up Butlerjuu (Fighter)",
+    "icon": "101612",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Maid's Bar",
+    "description": "The quickest dealer in the house is here!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4275": {
+    "id": 4275,
+    "name": "Tuxed-Up Butlerjuu (Bomber)",
+    "icon": "101612",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Maid's Bar",
+    "description": "The quickest dealer in the house is here!",
     "servers": [
       "EN",
       "JP",

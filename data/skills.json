@@ -40880,6 +40880,26 @@
     "icon": 30550,
     "values": []
   },
+  "30561": {
+    "description": "Activates All Out Assault I: William D. Porter once every 15 times the Main Guns are fired.",
+    "opsi_description": null,
+    "name": "All Out Assault I",
+    "max": 1,
+    "id": 30561,
+    "type": 1,
+    "icon": 30560,
+    "values": []
+  },
+  "30562": {
+    "description": "Activates All Out Assault II: William D. Porter once every 10 times the Main Guns are fired.",
+    "opsi_description": null,
+    "name": "All Out Assault II",
+    "max": 1,
+    "id": 30562,
+    "type": 1,
+    "icon": 30560,
+    "values": []
+  },
   "60100": {
     "description": "When equipped by a Royal Navy ship: increases that ship's Evasion Rate by 5.0%.",
     "opsi_description": null,
@@ -41668,6 +41688,16 @@
     "id": 60990,
     "type": 0,
     "icon": "equips/150940",
+    "values": []
+  },
+  "61000": {
+    "description": "If this aircraft's bombs hit an enemy BB or BBV: 24.0% chance to inflict Armor Break (does not stack with similar effects; only the strongest effect applies).",
+    "opsi_description": null,
+    "name": "F4U (VBF-94 Squadron)",
+    "max": 14,
+    "id": 61000,
+    "type": 0,
+    "icon": "equips/17280",
     "values": []
   },
   "101010": {
@@ -52945,7 +52975,7 @@
     ]
   },
   "150710": {
-    "description": "When the battle starts, and every 15s: summons a $1 Pterosaur-model ornithopter that lasts for 12s. The ornithopter fights in the battle (DMG is based on the skill's level) and increases this ship's AA by $2 and Evasion Rate by $3 for 12s.",
+    "description": "When the battle starts, and every 15s: summon {2|The in-game text implies only one is spawned.} $1 Pterosaur-model ornithopter that lasts for 12s. The ornithopter fights in the battle (DMG is based on the skill's level) and increases this ship's AA by $2 and Evasion Rate by $3 for 12s.",
     "opsi_description": null,
     "name": "Ornithopter Counterattack",
     "max": 10,
@@ -57039,6 +57069,569 @@
         "22.7%",
         "23.8%",
         "25.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ]
+    ]
+  },
+  "151820": {
+    "description": "When a ship in your Main Fleet fires their Main Guns or launches an airstrike: for 8s, increases this ship's FP by $1 and increases your Vanguard's RLD by $2 (these buffs do not stack; if the condition is met again during its active duration, its duration will only be refreshed); additionally, when this effect activates, there is a $3 chance to fire a $4 special barrage (DMG is based on the skill's level; 10s cooldown between activations).",
+    "opsi_description": null,
+    "name": "Fiesta del mar y cielo",
+    "max": 10,
+    "id": 151820,
+    "type": 1,
+    "icon": 151820,
+    "values": [
+      [
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%",
+        "8.5%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%"
+      ],
+      [
+        "40.0%",
+        "43.3%",
+        "46.6%",
+        "49.9%",
+        "53.2%",
+        "56.5%",
+        "59.8%",
+        "63.1%",
+        "66.4%",
+        "70%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "151830": {
+    "description": "Increases this ship's AA by $1. When an enemy aircraft is shot down within your AA Gun Range: increases your Eagle Union ships' AA by $1 for 8s; this effect can only activate once every 8s, and the 4th time that it activates, 1 of the following effects is applied at random:\n1) Restores 6.0% of your whole fleet's HP;\n2) Decreases your whole fleet's DMG taken by 6.0% until the battle ends;\n3) Increases your whole fleet's FP by 6.0% until the battle ends.",
+    "opsi_description": null,
+    "name": "Surprising Stamp Rally",
+    "max": 10,
+    "id": 151830,
+    "type": 2,
+    "icon": 151830,
+    "values": [
+      [
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%"
+      ]
+    ]
+  },
+  "151840": {
+    "description": "3s after the battle starts, and every 20s after that: fires a $1 special barrage (DMG is based on the skill's level). Every time this ship sinks an enemy: increases this ship's FP and TRP by $2 (can be stacked up to 5 times).",
+    "opsi_description": null,
+    "name": "Risk Elimination",
+    "max": 10,
+    "id": 151840,
+    "type": 1,
+    "icon": 151840,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "1.0%",
+        "1.3%",
+        "1.6%",
+        "2.0%",
+        "2.3%",
+        "2.6%",
+        "3.0%",
+        "3.3%",
+        "3.6%",
+        "4.0%"
+      ]
+    ]
+  },
+  "151850": {
+    "description": "Increases this ship's ASW by $1. When sortied with another Eagle Union ship: increases this ship's EVA and AA by $1 and applies the effects of the skill Air Raid Assistance (while this ship is afloat, increases the airstrike DMG of your CVs and CVLs by $1; only the strongest Air Raid Assistance skill applies). Every 15s: performs a sonar scan, revealing enemy SSs for 8s.",
+    "opsi_description": null,
+    "name": "Air Raid Assistance - Clarence K. Bronson",
+    "max": 10,
+    "id": 151850,
+    "type": 3,
+    "icon": 151850,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ]
+    ]
+  },
+  "151860": {
+    "description": "Every 5s after the battle starts: $1 chance for this ship to enter Sprint Mode, increasing her SPD by $2 and decreasing her DMG taken by $3 for 2s. When Sprint Mode ends: fires a $4 special barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Sea-Top Sprint",
+    "max": 10,
+    "id": 151860,
+    "type": 1,
+    "icon": 151860,
+    "values": [
+      [
+        "50.0%",
+        "55.0%",
+        "60.0%",
+        "65.0%",
+        "70.0%",
+        "75.0%",
+        "80.0%",
+        "85.0%",
+        "90.0%",
+        "100%"
+      ],
+      [
+        "20.0%",
+        "22.2%",
+        "24.4%",
+        "26.6%",
+        "28.8%",
+        "31.0%",
+        "33.2%",
+        "35.4%",
+        "37.6%",
+        "40.0%"
+      ],
+      [
+        "15.0%",
+        "16.6%",
+        "18.2%",
+        "20.0%",
+        "21.6%",
+        "23.2%",
+        "25.0%",
+        "26.6%",
+        "28.2%",
+        "30.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "151870": {
+    "description": "Increases this ship's AVI, RLD, and ACC by $1. When this ship launches an airstrike: performs an additional $2 attack using TBF Avengers (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Overnutrition",
+    "max": 10,
+    "id": 151870,
+    "type": 1,
+    "icon": 151870,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "151880": {
+    "description": "When this ship launches an airstrike: restores HP equal to $1 of this ship's max HP for 1 ship in your Vanguard and 1 ship in your Main Fleet (choosing the ships with the lowest percentage HP remaining respectively). When this effect activates: increases the DMG dealt of the healing targets by $2 for 5s.",
+    "opsi_description": null,
+    "name": "Fresh Milk of Vitality",
+    "max": 10,
+    "id": 151880,
+    "type": 3,
+    "icon": 151880,
+    "values": [
+      [
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%"
+      ],
+      [
+        "4.0%",
+        "4.6%",
+        "5.2%",
+        "6.0%",
+        "6.6%",
+        "7.2%",
+        "8.0%",
+        "8.6%",
+        "9.2%",
+        "10.0%"
+      ]
+    ]
+  },
+  "151890": {
+    "description": "During battle, when this ship has taken DMG totaling to 25.0% of her max HP, or when your Main Fleet's aircraft have shot down a total of 17 enemy aircraft: for 2s, this ship enters the Ghost status, evading all attacks and setting her Detection Gauge value to 0. The following effects additionally activate depending on the number of times this ship has entered the Ghost status:\n1 time: Decreases this ship's torpedo DMG taken by $1;\n2 times: Increases this ship's AA by $1;\n3 times: Decreases this ship's Burn DMG taken by $1;\n4 times: Decreases your Main Fleet's DMG taken by $2 when an enemy aircraft reaches it.",
+    "opsi_description": null,
+    "name": "The Blue Ghost",
+    "max": 10,
+    "id": 151890,
+    "type": 2,
+    "icon": 151890,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "50.0%",
+        "55.5%",
+        "61%",
+        "66.5%",
+        "72.0%",
+        "77.5%",
+        "83.0%",
+        "88.5%",
+        "94.0%",
+        "100.0%"
+      ]
+    ]
+  },
+  "151900": {
+    "description": "Increases this ship's AVI and ACC by $1. If there are 3 or more Eagle Union ships in your fleet: increases this ship's DMG dealt against enemies who have their AA stat debuffed by your ships by $2.\nWhen this ship launches an airstrike: additionally launches a $3 special airstrike (DMG is based on the skill's level) and, for $4s, decreases the SPD of all enemies on the field by 40.0%; if there is another Eagle Union ship in your Main Fleet, and the enemy affected by this effect has their AA stat debuffed by your ships, that enemy's SPD is set to 0 for the duration of the SPD debuff.",
+    "opsi_description": null,
+    "name": "A Song to Still the Clouds",
+    "max": 10,
+    "id": 151900,
+    "type": 1,
+    "icon": 151900,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "4.5%",
+        "5.2%",
+        "6.0%",
+        "7.0%",
+        "7.7%",
+        "8.5%",
+        "9.5%",
+        "10.2%",
+        "11.0%",
+        "12.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "2",
+        "2.2",
+        "2.4",
+        "2.6",
+        "2.8",
+        "3",
+        "3.25",
+        "3.5",
+        "3.75",
+        "4"
+      ]
+    ]
+  },
+  "151910": {
+    "description": "When this ship launches an airstrike: your Lexington-class and Essex-class CVs recover HP equal to $1 of their respective max HP (can be activated up to 4 times per battle). Your Lexington-class and Essex-class CVs gain the following buffs during battle:\n1) Increases said ships' DMG dealt against Light Armor enemies by $2;\n2) When said ships' airstrikes finish loading, their AA is increased by $2 for 5s.",
+    "opsi_description": null,
+    "name": "A Recitatif to the Songbirds",
+    "max": 10,
+    "id": 151910,
+    "type": 3,
+    "icon": 151910,
+    "values": [
+      [
+        "1.0%",
+        "1.4%",
+        "1.8%",
+        "2.2%",
+        "2.6%",
+        "3.0%",
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
+  "151920": {
+    "description": "When the battle starts: decreases this ship's LCK by 1 and increases the LCK of all other ships in your Surface Fleet by 1. When this ship fires her torpedoes: fires 1 torpedo at your Flagship and grants your Flagship the Emergency Maneuvers buff for 10s (increases your Flagship's EVA by $1 and Evasion Rate by $2, and increases the DMG dealt of your Flagship and your Eagle Union ships by $3). When the Emergency Maneuvers buff ends, if your Flagship is still afloat, William D. Porter recovers $4 of her max HP.",
+    "opsi_description": null,
+    "name": "The Legendary Mess",
+    "max": 10,
+    "id": 151920,
+    "type": 3,
+    "icon": 151920,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "4.0%",
+        "4.6%",
+        "5.2%",
+        "6.0%",
+        "6.6%",
+        "7.2%",
+        "8.0%",
+        "8.6%",
+        "9.2%",
+        "10.0%"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%"
+      ]
+    ]
+  },
+  "151930": {
+    "description": "Every 5s after the battle starts: fires a $1 torpedo barrage (DMG is based on the skill's level). Every 2 times this ship fires her Main Guns: performs a $1 special attack (DMG is based on the skill's level); enemies hit by this attack have their ACC decreased by $2 and DMG taken increased by $3 for 4s (this debuff also spreads to other enemies that are within 20 units of the affected enemies). 5s after a fleet this ship is NOT in starts a battle, if this ship is afloat: performs a $1 supporting attack (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Happy D",
+    "max": 10,
+    "id": 151930,
+    "type": 1,
+    "icon": 151930,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%"
+      ],
+      [
+        "1.0%",
+        "1.4%",
+        "1.8%",
+        "2.2%",
+        "2.6%",
+        "3.0%",
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%"
+      ]
+    ]
+  },
+  "151940": {
+    "description": "Increases this ship's FP, TRP, and AA by $1. When the battle starts, if there is another ship in your Vanguard: increases this ship's Anti-Air Gun efficiency by $2. Once per battle, when 7 enemy aircraft have been shot down within your AA Gun Range: decreases this ship's DMG taken by 15.0% and increases the AA of your Vanguard by $3 until the battle ends. 15s after the battle starts: drops a depth charge, and all your other ships enter the Attention Underwater state (increases ASW by $4) for 50s.",
+    "opsi_description": null,
+    "name": "Inexperienced Patroller",
+    "max": 10,
+    "id": 151940,
+    "type": 3,
+    "icon": 151940,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "20.0%",
+        "23.3%",
+        "26.6%",
+        "29.9%",
+        "33.2%",
+        "36.5%",
+        "39.8%",
+        "43.1%",
+        "46.4%",
+        "50.0%"
+      ],
+      [
+        "15.0%",
+        "16.6%",
+        "18.2%",
+        "20.0%",
+        "21.6%",
+        "23.2%",
+        "25.0%",
+        "26.6%",
+        "28.2%",
+        "30.0%"
       ],
       [
         "5.0%",
@@ -63420,6 +64013,155 @@
     "id": 802002,
     "type": 1,
     "icon": 802000,
+    "values": []
+  },
+  "802010": {
+    "description": "When the battle starts, if there is another CL in your Vanguard: negates the effect of the Out of Ammo debuff and increases this ship's Main Gun and Secondary Gun efficiency by $1. Every 20s: fires a $2 special barrage (DMG is based on the skill's level) that decreases the SPD of enemies hit by 10.0% for 10s.",
+    "opsi_description": null,
+    "name": "Battle-Hardened Knight",
+    "max": 10,
+    "id": 802010,
+    "type": 1,
+    "icon": 802010,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "802020": {
+    "description": "Increases this ship's FP and RLD by $1. Every 20s: all enemies present on the battlefield take $2 more shelling DMG from your CLs for 8s, and increases the FP of your CLs in your Vanguard with a lower FP stat than this ship by $3 for 8s.",
+    "opsi_description": null,
+    "name": "Destroy Command",
+    "max": 10,
+    "id": 802020,
+    "type": 3,
+    "icon": 802020,
+    "values": [
+      [
+        "4.5%",
+        "5.2%",
+        "6.0%",
+        "7.0%",
+        "7.7%",
+        "8.5%",
+        "9.5%",
+        "10.2%",
+        "11.0%",
+        "12.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
+  "802030": {
+    "description": "When an enemy aircraft is shot down within your AA Gun Range: increases this ship's EVA and AA by $1 and increases your other CLs' AA by $2 (can be stacked up to 3 times). Once per battle, when the HP of any ship in your Main Fleet falls below 50.0% as a result of DMG taken: decreases your Main Fleet's aircraft DMG taken by $3 for 10s.",
+    "opsi_description": null,
+    "name": "Aero Barricade",
+    "max": 10,
+    "id": 802030,
+    "type": 2,
+    "icon": 802030,
+    "values": [
+      [
+        "1.0%",
+        "1.4%",
+        "1.8%",
+        "2.2%",
+        "2.6%",
+        "3.0%",
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%"
+      ],
+      [
+        "1.0%",
+        "1.3%",
+        "1.6%",
+        "2.0%",
+        "2.3%",
+        "2.6%",
+        "3.0%",
+        "3.3%",
+        "3.6%",
+        "4.0%"
+      ],
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ]
+    ]
+  },
+  "802041": {
+    "description": "Every 15 times this ship fires her Main Guns: fires a special barrage.",
+    "opsi_description": "Every 15 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "name": "Ashen Might - Cleveland I",
+    "max": 1,
+    "id": 802041,
+    "type": 1,
+    "icon": 802040,
+    "values": []
+  },
+  "802042": {
+    "description": "Every 10 times this ship fires her Main Guns: fires a special barrage.",
+    "opsi_description": "Every 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "name": "Ashen Might - Cleveland II",
+    "max": 1,
+    "id": 802042,
+    "type": 1,
+    "icon": 802040,
     "values": []
   },
   "901010": {
