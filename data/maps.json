@@ -73598,5 +73598,205 @@
     "time_limit": 180,
     "type": 16,
     "id": 1797
+  },
+  "214_1_11405001": {
+    "name": "14-1-Hard",
+    "acv": 2878,
+    "opsi": false,
+    "boss": {
+      "id": 11405001,
+      "hull": 10,
+      "nation": 3,
+      "name": "Fusou Retrofit",
+      "stats": {
+        "hp": 416000,
+        "fp": 618,
+        "trp": 0,
+        "avi": 288,
+        "aa": 423,
+        "hit": 105,
+        "eva": 70,
+        "spd": 20,
+        "luck": 30,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 124,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fusang_g",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 11401000,
+    "dungeon_id": 11405100,
+    "time_limit": 180,
+    "type": 2,
+    "id": 1798
+  },
+  "214_2_11405002": {
+    "name": "14-2-Hard",
+    "acv": 3023,
+    "opsi": false,
+    "boss": {
+      "id": 11405002,
+      "hull": 10,
+      "nation": 3,
+      "name": "Yamashiro",
+      "stats": {
+        "hp": 444800,
+        "fp": 629,
+        "trp": 0,
+        "avi": 384,
+        "aa": 443,
+        "hit": 112,
+        "eva": 80,
+        "spd": 20,
+        "luck": 30,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 126,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shancheng_g",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 11402000,
+    "dungeon_id": 11405200,
+    "time_limit": 180,
+    "type": 2,
+    "id": 1799
+  },
+  "214_3_11405003": {
+    "name": "14-3-Hard",
+    "acv": 3168,
+    "opsi": false,
+    "boss": {
+      "id": 11405003,
+      "hull": 1,
+      "nation": 3,
+      "name": "Shigure",
+      "stats": {
+        "hp": 227200,
+        "fp": 224,
+        "trp": 660,
+        "avi": 0,
+        "aa": 483,
+        "hit": 137,
+        "eva": 150,
+        "spd": 36,
+        "luck": 50,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 128,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shiyu",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 11403000,
+    "dungeon_id": 11405300,
+    "time_limit": 180,
+    "type": 2,
+    "id": 1800
+  },
+  "214_3_11405004": {
+    "name": "14-3-Hard",
+    "acv": 3168,
+    "opsi": false,
+    "boss": {
+      "id": 11405004,
+      "hull": 1,
+      "nation": 3,
+      "name": "Michishio",
+      "stats": {
+        "hp": 188800,
+        "fp": 298,
+        "trp": 480,
+        "avi": 0,
+        "aa": 466,
+        "hit": 132,
+        "eva": 140,
+        "spd": 36,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 128,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "manchao",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 11403000,
+    "dungeon_id": 11405300,
+    "time_limit": 180,
+    "type": 2,
+    "id": 1801
+  },
+  "214_4_11405005": {
+    "name": "14-4-Hard",
+    "acv": 3458,
+    "opsi": false,
+    "boss": {
+      "id": 11405005,
+      "hull": 3,
+      "nation": 3,
+      "name": "Mogami",
+      "stats": {
+        "hp": 358400,
+        "fp": 453,
+        "trp": 580,
+        "avi": 0,
+        "aa": 471,
+        "hit": 124,
+        "eva": 130,
+        "spd": 20,
+        "luck": 30,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 130,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "zuishang_g",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 11404000,
+    "dungeon_id": 11405400,
+    "time_limit": 180,
+    "type": 2,
+    "id": 1802
   }
 }

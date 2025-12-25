@@ -26,6 +26,7 @@ export interface SkinInfo {
     dynamic_bg: boolean
     dual_form: boolean
     l2d_plus: boolean
+    asmr: boolean
 }
 
 // this could be an enum, but TS enums add uneccesary overhead
@@ -37,7 +38,7 @@ export type SkinType =
 3 | // original
 4 | // promo
 5 | // valentine
-6 // dual form alt
+6 // form alt
 
 // this could be an enum, but TS enums add uneccesary overhead
 export type SkinCategory =

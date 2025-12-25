@@ -842,7 +842,8 @@
   "3580": {
     "id": 3580,
     "locations": [
-      "Pledge of the Radiant Court"
+      "Pledge of the Radiant Court",
+      "Core Data Exchange"
     ],
     "lab_from": [],
     "lab_to": []
@@ -1367,7 +1368,10 @@
       "3-2"
     ],
     "lab_from": [],
-    "lab_to": []
+    "lab_to": [
+      85680,
+      85440
+    ]
   },
   "7100": {
     "id": 7100,
@@ -1391,8 +1395,12 @@
       "Fight On, Royal Maids!",
       "Khorovod of Dawn's Rime"
     ],
-    "lab_from": [],
-    "lab_to": []
+    "lab_from": [
+      7240
+    ],
+    "lab_to": [
+      85040
+    ]
   },
   "7300": {
     "id": 7300,
@@ -2973,7 +2981,9 @@
     "lab_from": [
       22260
     ],
-    "lab_to": []
+    "lab_to": [
+      22280
+    ]
   },
   "22280": {
     "id": 22280,
@@ -2981,7 +2991,9 @@
       "Research (Series 5)",
       "Prototype Shop (50 Blueprints once)"
     ],
-    "lab_from": [],
+    "lab_from": [
+      22280
+    ],
     "lab_to": []
   },
   "23000": {
@@ -5836,6 +5848,16 @@
     "lab_from": [
       45440
     ],
+    "lab_to": [
+      45460
+    ]
+  },
+  "45460": {
+    "id": 45460,
+    "locations": [],
+    "lab_from": [
+      45460
+    ],
     "lab_to": []
   },
   "46000": {
@@ -5942,7 +5964,8 @@
       46260
     ],
     "lab_to": [
-      46440
+      46440,
+      46400
     ]
   },
   "46300": {
@@ -6001,7 +6024,9 @@
       "Research (Series 6)",
       "Prototype Shop (Blueprints)"
     ],
-    "lab_from": [],
+    "lab_from": [
+      46400
+    ],
     "lab_to": []
   },
   "46420": {
@@ -6214,8 +6239,12 @@
       "Frostfall",
       "Core Data Exchange"
     ],
-    "lab_from": [],
-    "lab_to": []
+    "lab_from": [
+      85040
+    ],
+    "lab_to": [
+      96100
+    ]
   },
   "85060": {
     "id": 85060,
@@ -6249,7 +6278,9 @@
       "Khorovod of Dawn's Rime",
       "Core Data Exchange"
     ],
-    "lab_from": [],
+    "lab_from": [
+      85160
+    ],
     "lab_to": []
   },
   "85180": {
@@ -6345,7 +6376,9 @@
       "Stock equipment (Gangut and Sevastopol)"
     ],
     "lab_from": [],
-    "lab_to": []
+    "lab_to": [
+      85740
+    ]
   },
   "85440": {
     "id": 85440,
@@ -6353,8 +6386,12 @@
       "Stock equipment (Pamiat' Merkuria)",
       "Northern Overture"
     ],
-    "lab_from": [],
-    "lab_to": []
+    "lab_from": [
+      85440
+    ],
+    "lab_to": [
+      85700
+    ]
   },
   "85460": {
     "id": 85460,
@@ -6372,12 +6409,22 @@
     "lab_from": [],
     "lab_to": []
   },
+  "85500": {
+    "id": 85500,
+    "locations": [],
+    "lab_from": [
+      85500
+    ],
+    "lab_to": []
+  },
   "85520": {
     "id": 85520,
     "locations": [
       "Abyssal Refrain"
     ],
-    "lab_from": [],
+    "lab_from": [
+      85520
+    ],
     "lab_to": []
   },
   "85540": {
@@ -6386,8 +6433,12 @@
       "Research (Series 6)",
       "Prototype Shop (Blueprints)"
     ],
-    "lab_from": [],
-    "lab_to": []
+    "lab_from": [
+      85540
+    ],
+    "lab_to": [
+      85660
+    ]
   },
   "85560": {
     "id": 85560,
@@ -6395,7 +6446,9 @@
       "Research (Series 6)",
       "Prototype Shop (Blueprints)"
     ],
-    "lab_from": [],
+    "lab_from": [
+      85560
+    ],
     "lab_to": []
   },
   "85580": {
@@ -6430,6 +6483,71 @@
     ],
     "lab_from": [],
     "lab_to": []
+  },
+  "85660": {
+    "id": 85660,
+    "locations": [],
+    "lab_from": [
+      85660
+    ],
+    "lab_to": []
+  },
+  "85680": {
+    "id": 85680,
+    "locations": [],
+    "lab_from": [
+      85680
+    ],
+    "lab_to": [
+      85500
+    ]
+  },
+  "85700": {
+    "id": 85700,
+    "locations": [],
+    "lab_from": [
+      85700
+    ],
+    "lab_to": [
+      85160
+    ]
+  },
+  "85720": {
+    "id": 85720,
+    "locations": [],
+    "lab_from": [],
+    "lab_to": [
+      7240
+    ]
+  },
+  "85740": {
+    "id": 85740,
+    "locations": [],
+    "lab_from": [
+      85740
+    ],
+    "lab_to": [
+      85520
+    ]
+  },
+  "85760": {
+    "id": 85760,
+    "locations": [],
+    "lab_from": [],
+    "lab_to": [
+      85780
+    ]
+  },
+  "85780": {
+    "id": 85780,
+    "locations": [],
+    "lab_from": [
+      85780
+    ],
+    "lab_to": [
+      85540,
+      85560
+    ]
   },
   "89000": {
     "id": 89000,
@@ -6861,7 +6979,8 @@
       90340
     ],
     "lab_to": [
-      90440
+      90440,
+      90360
     ]
   },
   "90360": {
@@ -6870,7 +6989,9 @@
       "Research (Series 6)",
       "Prototype Shop (Blueprints)"
     ],
-    "lab_from": [],
+    "lab_from": [
+      90360
+    ],
     "lab_to": []
   },
   "90400": {
@@ -7568,7 +7689,9 @@
       "Research (Series 6)",
       "Prototype Shop (Blueprints)"
     ],
-    "lab_from": [],
+    "lab_from": [
+      96100
+    ],
     "lab_to": []
   },
   "96120": {

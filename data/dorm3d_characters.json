@@ -1473,5 +1473,295 @@
         ]
       }
     ]
+  },
+  "20020": {
+    "id": 20020,
+    "gid": 49905,
+    "name": "Ägir",
+    "room_id": 14,
+    "icon": "dorm3d/char/aijier",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "gifts": [
+      1021001,
+      1021002,
+      1021003,
+      4990501
+    ],
+    "rarity": 6,
+    "favor_levels": [
+      {
+        "needed": 0,
+        "level": 1,
+        "items": []
+      },
+      {
+        "needed": 40,
+        "level": 2,
+        "items": [
+          {
+            "id": 1021001,
+            "type": 9,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_everyone_commongift3",
+            "name": "Bunny Plushie"
+          },
+          {
+            "id": 101401,
+            "type": 11,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/drom3d_camera1003",
+            "name": "HQ Tablet Cover: Sweet Murmurings"
+          }
+        ]
+      },
+      {
+        "needed": 200,
+        "level": 3,
+        "items": [
+          {
+            "id": 1411,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_aijier_commonfurniture4",
+            "name": "Long Candles"
+          }
+        ]
+      },
+      {
+        "needed": 400,
+        "level": 4,
+        "items": [
+          {
+            "id": 1011,
+            "type": 15,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/icon_frame",
+            "name": "Icon Frame: Chains of the Depths"
+          },
+          {
+            "id": 141,
+            "type": 14,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "dorm3d/recall/recall_141_icon",
+            "name": "Dorm3D Event: Nap Time"
+          }
+        ]
+      },
+      {
+        "needed": 800,
+        "level": 5,
+        "items": [
+          {
+            "id": 1012,
+            "type": 13,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 4,
+            "icon": "props/drom3d_camera1002",
+            "name": "Camera Frame: Gorgeous Gold"
+          }
+        ]
+      },
+      {
+        "needed": 1000,
+        "level": 6,
+        "items": [
+          {
+            "id": 1412,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_aijier_commonfurniture5",
+            "name": "Large Plant"
+          }
+        ]
+      },
+      {
+        "needed": 1500,
+        "level": 7,
+        "items": [
+          {
+            "id": 101402,
+            "type": 11,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/drom3d_camera1003",
+            "name": "HQ Tablet Cover: Peaceful Relaxation"
+          }
+        ]
+      },
+      {
+        "needed": 2000,
+        "level": 8,
+        "items": [
+          {
+            "id": 1413,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_aijier_commonfurniture6",
+            "name": "Elegant Desk Lamp"
+          },
+          {
+            "id": 142,
+            "type": 14,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "dorm3d/recall/recall_142_icon",
+            "name": "Dorm3D Event: Intimate Punishment"
+          }
+        ]
+      },
+      {
+        "needed": 3000,
+        "level": 9,
+        "items": [
+          {
+            "id": 1021002,
+            "type": 9,
+            "linkable": true,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_everyone_commongift2",
+            "name": "Romantic's Bouquet"
+          }
+        ]
+      },
+      {
+        "needed": 4000,
+        "level": 10,
+        "items": [
+          {
+            "id": 101403,
+            "type": 11,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/drom3d_camera1003",
+            "name": "HQ Tablet Cover: Bedside Invitation"
+          }
+        ]
+      },
+      {
+        "needed": 5000,
+        "level": 11,
+        "items": [
+          {
+            "id": 1415,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_aijier_commonfurniture8",
+            "name": "Portrait"
+          }
+        ]
+      },
+      {
+        "needed": 6000,
+        "level": 12,
+        "items": [
+          {
+            "id": 1021002,
+            "type": 9,
+            "linkable": true,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_everyone_commongift2",
+            "name": "Romantic's Bouquet"
+          },
+          {
+            "id": 143,
+            "type": 14,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 3,
+            "icon": "dorm3d/recall/recall_143_icon",
+            "name": "Dorm3D Event: Fingertips and Locks of Hair"
+          }
+        ]
+      },
+      {
+        "needed": 7000,
+        "level": 13,
+        "items": [
+          {
+            "id": 1013,
+            "type": 13,
+            "amount": 1,
+            "blueprint": false,
+            "linkable": false,
+            "rarity": 4,
+            "icon": "props/drom3d_camera1002",
+            "name": "Camera Frame: Garden Memories"
+          }
+        ]
+      },
+      {
+        "needed": 8000,
+        "level": 14,
+        "items": [
+          {
+            "id": 1414,
+            "type": 10,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "dorm3d/items/3ddrom_aijier_commonfurniture7",
+            "name": "Vintage Camera"
+          }
+        ]
+      },
+      {
+        "needed": 9000,
+        "level": 15,
+        "items": [
+          {
+            "id": 1012,
+            "type": 15,
+            "linkable": false,
+            "rarity": 4,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/icon_frame",
+            "name": "Icon Frame: Crown of the Blue Seas"
+          }
+        ]
+      }
+    ]
   }
 }

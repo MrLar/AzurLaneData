@@ -493,7 +493,7 @@
     "rarity": 6,
     "id": 251,
     "purchaseable": true,
-    "expires": 1735714800000,
+    "expires": 1767164400000,
     "icon": "dorm3d/items/3ddrom_nengdai_premiumfurniture251",
     "room_id": 2,
     "furni_type": 5,
@@ -1202,6 +1202,204 @@
     "room_id": 12,
     "furni_type": 99,
     "exclusive": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1401": {
+    "name": "Velvet Bed",
+    "description": "A double bed with a time-tested design, featuring a black headboard and red velvet bedding. Its soft mattress and pillows provide warmth and peace for a weary body and mind.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1401,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_aijier_commonfurniture1",
+    "room_id": 14,
+    "furni_type": 4,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1402": {
+    "name": "Ebony Desk",
+    "description": "A black wooden desk accompanied by a simple red chair. This piece offers both practicality and traditional charm.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1402,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_aijier_commonfurniture2",
+    "room_id": 14,
+    "furni_type": 6,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1403": {
+    "name": "Leather Chair",
+    "description": "A soft, comfortable leather chair. Paired with the round tea table, it's the ideal spot for solo relaxation.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 4,
+    "id": 1403,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_aijier_commonfurniture3",
+    "room_id": 14,
+    "furni_type": 5,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1411": {
+    "name": "Long Candles",
+    "description": "These ivory-white candles give warmth to a quiet, romantic night.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 1411,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_aijier_commonfurniture4",
+    "room_id": 14,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1412": {
+    "name": "Large Plant",
+    "description": "This large potted plant does more than just add life to a room with its broad leaves - it helps purify the air, too!",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 1412,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_aijier_commonfurniture5",
+    "room_id": 14,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1413": {
+    "name": "Elegant Desk Lamp",
+    "description": "A small desk lamp that casts a comfortable glow for reading or working at night.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 1413,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_aijier_commonfurniture6",
+    "room_id": 14,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1414": {
+    "name": "Vintage Camera",
+    "description": "This device retains the unique design of antique cameras. It's widely loved by enthusiasts and collectors.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 1414,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_aijier_commonfurniture7",
+    "room_id": 14,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1415": {
+    "name": "Portrait",
+    "description": "An abstract portrait painted with a classical touch; with its contrasting yet complementing chiaroscuro of bright and dark colors, it somehow perfectly matches the ambience of the room.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 3,
+    "id": 1415,
+    "purchaseable": false,
+    "expires": -1,
+    "icon": "dorm3d/items/3ddrom_aijier_commonfurniture8",
+    "room_id": 14,
+    "furni_type": 3,
+    "exclusive": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "1461": {
+    "name": "Crimson Tranquility",
+    "description": "A secret space for privacy and romance. The red velvet bedding and pull-out curtains make it easy to enjoy tranquility and warmth at night.",
+    "type": 27,
+    "locations": [
+      "Dorm3D"
+    ],
+    "rarity": 5,
+    "id": 1461,
+    "purchaseable": true,
+    "expires": 0,
+    "icon": "dorm3d/items/3ddrom_aijier_premiumfurniture1",
+    "room_id": 14,
+    "furni_type": 4,
+    "exclusive": false,
     "servers": [
       "EN",
       "JP",

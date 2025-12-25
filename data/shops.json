@@ -779,6 +779,18 @@
         "cost": 900
       },
       {
+        "id": 30208,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30208",
+        "name": "Northern Parliament Gear Development Pack",
+        "limit": 1,
+        "cost": 900
+      },
+      {
         "id": 20001,
         "type": 0,
         "linkable": true,
@@ -1857,6 +1869,18 @@
             "cost": 400
           },
           {
+            "id": 30208,
+            "type": 0,
+            "linkable": true,
+            "rarity": 3,
+            "amount": 1,
+            "blueprint": false,
+            "icon": "props/30208",
+            "name": "Northern Parliament Gear Development Pack",
+            "limit": 1,
+            "cost": 400
+          },
+          {
             "id": 20001,
             "type": 0,
             "linkable": true,
@@ -1949,6 +1973,20 @@
         "name": "Plum-Petal Poetry",
         "limit": 2,
         "cost": 800,
+        "limit_type": 1
+      },
+      {
+        "id": 3580,
+        "level": 0,
+        "type": 1,
+        "linkable": true,
+        "rarity": 6,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/3580",
+        "name": "Admiralty Fire Control Table",
+        "limit": 3,
+        "cost": 1500,
         "limit_type": 1
       },
       {
@@ -6127,6 +6165,18 @@
         "cost": 15
       },
       {
+        "id": 30208,
+        "type": 0,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/30208",
+        "name": "Northern Parliament Gear Development Pack",
+        "limit": 20,
+        "cost": 15
+      },
+      {
         "id": 42060,
         "type": 0,
         "linkable": true,
@@ -8875,6 +8925,20 @@
         "limit_type": 1
       },
       {
+        "id": 4990501,
+        "type": 9,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "dorm3d/items/3ddrom_aijier_fancygift1",
+        "name": "Tulip Glass",
+        "limit": 1,
+        "cost": 280,
+        "use_alt": 0,
+        "limit_type": 1
+      },
+      {
         "id": 1990302,
         "type": 9,
         "linkable": true,
@@ -8925,6 +8989,20 @@
         "blueprint": false,
         "icon": "dorm3d/items/3ddrom_xinzexi_premiumfurniture2",
         "name": "Sanctuary Beyond Heavens",
+        "limit": 1,
+        "cost": 480,
+        "use_alt": 0,
+        "limit_type": 1
+      },
+      {
+        "id": 1461,
+        "type": 10,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "dorm3d/items/3ddrom_aijier_premiumfurniture1",
+        "name": "Crimson Tranquility",
         "limit": 1,
         "cost": 480,
         "use_alt": 0,
