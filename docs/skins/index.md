@@ -21,6 +21,7 @@ Skin Info contains relevant information of a ship skin. Provides the following p
 | **is_permanent**\* |               `boolean`                |                                           Whether this skin is permanently available.                                           |
 |      **l2d**       |               `boolean`                |                                                  Whether this skin is Live2D.                                                   |
 |    **dynamic**     |               `boolean`                |                                                  Whether this skin is dynamic.                                                  |
+|      **asmr**      |               `boolean`                |                                               Whether this skin has an ASMR mode.                                               |
 |   **custom_bgm**   |               `boolean`                |                                         Whether this skin has custom background music.                                          |
 |   **dynamic_bg**   |               `boolean`                |                                           Whether this skin has a dynamic background.                                           |
 |   **dual_form**    |               `boolean`                |                                             Whether this skin is a dual form skin.                                              |
