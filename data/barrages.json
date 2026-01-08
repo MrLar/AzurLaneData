@@ -13286,7 +13286,7 @@
       ]
     },
     {
-      "name": "Scorching Combo (stack 1)",
+      "name": "Scorching Combo (2nd+ battle)",
       "parts": [
         {
           "damage": 23,
@@ -13338,7 +13338,7 @@
       ]
     },
     {
-      "name": "Scorching Combo (stack 2)",
+      "name": "Scorching Combo (4th+ battle)",
       "parts": [
         {
           "damage": 23,
@@ -13373,7 +13373,7 @@
             0,
             0
           ],
-          "targeting": "Priority",
+          "targeting": "Random",
           "centered": false,
           "weapon_id": 64880,
           "weapon_type": 1,
@@ -13414,7 +13414,7 @@
             0,
             0
           ],
-          "targeting": "Priority",
+          "targeting": "Random",
           "centered": false,
           "weapon_id": 64900,
           "weapon_type": 3,
@@ -47944,6 +47944,96 @@
       ]
     }
   ],
+  "30572": [
+    {
+      "name": "All Out Assault - Fujinami II",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 16,
+          "coefficient": 1,
+          "count": 40,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.6
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            77.5,
+            82.5
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 170932,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170904,
+          "type": "weapon"
+        },
+        {
+          "damage": 40,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 3,
+          "velocity": 4,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 170934,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170908,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "60130": [
     {
       "name": "Inflict Burns",
@@ -70802,6 +70892,143 @@
       ]
     }
   ],
+  "151970": [
+    {
+      "name": "Attention Getter (every 15s)",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 26,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.6
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            120
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            75,
+            85
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 183040,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170906,
+          "type": "weapon"
+        },
+        {
+          "damage": 80,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            45
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 3,
+          "velocity": 4,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 183060,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170907,
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "name": "Attention Getter (Enhance)",
+      "parts": [
+        {
+          "damage": 170,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [
+            "For every enhance one instance of this barrage is added to the \"Every 15s\" barrage."
+          ],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            45
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 3,
+          "velocity": 4,
+          "pierce": 0,
+          "shell_range": [
+            90,
+            110
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 183050,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170907,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "190000": [
     {
       "name": "Steelsurge Concerto",
@@ -80084,6 +80311,136 @@
       ]
     }
   ],
+  "1010270": [
+    {
+      "name": "Final Glory+",
+      "parts": [
+        {
+          "damage": 174,
+          "coefficient": 1,
+          "count": 6,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.45,
+            1.3,
+            1.1
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            112.5,
+            127.5
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 183070,
+          "weapon_type": 19,
+          "bullet_type": 2,
+          "bullet_id": 170924,
+          "type": "weapon"
+        },
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 18,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.2,
+            0.6,
+            0.6
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            90
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 7,
+          "pierce": 0,
+          "shell_range": [
+            145,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 183080,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 170927,
+          "type": "weapon"
+        },
+        {
+          "damage": 200,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            80
+          ],
+          "aim_type": 1,
+          "angle": 120,
+          "splash": 0,
+          "velocity": 0.1,
+          "pierce": 0,
+          "shell_range": [
+            0,
+            0
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 183090,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 170928,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "1010290": [
     {
       "name": "Royal Navy's Glory+",
@@ -83514,6 +83871,7 @@
       ]
     }
   ],
+  "1014990": 14990,
   "1017160": [
     {
       "name": "Unseen Phantom+",

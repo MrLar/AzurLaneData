@@ -73798,5 +73798,165 @@
     "time_limit": 180,
     "type": 2,
     "id": 1802
+  },
+  "16_1_16301": {
+    "name": "16-1",
+    "acv": 3630,
+    "opsi": false,
+    "boss": {
+      "id": 16301,
+      "hull": 3,
+      "nation": 3,
+      "name": "Atago",
+      "stats": {
+        "hp": 332500,
+        "fp": 385,
+        "trp": 462,
+        "avi": 0,
+        "aa": 424,
+        "hit": 72,
+        "eva": 109,
+        "spd": 20,
+        "luck": 30,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 129,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "aidang",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 160021,
+    "dungeon_id": 160021,
+    "time_limit": 180,
+    "type": 1,
+    "id": 1803
+  },
+  "16_2_16303": {
+    "name": "16-2",
+    "acv": 3810,
+    "opsi": false,
+    "boss": {
+      "id": 16303,
+      "hull": 3,
+      "nation": 3,
+      "name": "Maya",
+      "stats": {
+        "hp": 353700,
+        "fp": 395,
+        "trp": 480,
+        "avi": 0,
+        "aa": 424,
+        "hit": 72,
+        "eva": 109,
+        "spd": 20,
+        "luck": 30,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 130,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "moye",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 161021,
+    "dungeon_id": 161021,
+    "time_limit": 180,
+    "type": 1,
+    "id": 1804
+  },
+  "16_3_16305": {
+    "name": "16-3",
+    "acv": 4000,
+    "opsi": false,
+    "boss": {
+      "id": 16305,
+      "hull": 3,
+      "nation": 3,
+      "name": "Myoukou",
+      "stats": {
+        "hp": 377000,
+        "fp": 405,
+        "trp": 497,
+        "avi": 0,
+        "aa": 424,
+        "hit": 72,
+        "eva": 109,
+        "spd": 20,
+        "luck": 50,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 131,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "miaogao",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 162021,
+    "dungeon_id": 162021,
+    "time_limit": 180,
+    "type": 1,
+    "id": 1805
+  },
+  "16_4_16306": {
+    "name": "16-4",
+    "acv": 4200,
+    "opsi": false,
+    "boss": {
+      "id": 16306,
+      "hull": 5,
+      "nation": 3,
+      "name": "Musashi",
+      "stats": {
+        "hp": 455000,
+        "fp": 625,
+        "trp": 0,
+        "avi": 320,
+        "aa": 424,
+        "hit": 90,
+        "eva": 105,
+        "spd": 20,
+        "luck": 50,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 132,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "wuzang",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 163021,
+    "dungeon_id": 163021,
+    "time_limit": 180,
+    "type": 1,
+    "id": 1806
   }
 }

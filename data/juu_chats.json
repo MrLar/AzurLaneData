@@ -6145,7 +6145,7 @@
   },
   "10110": {
     "id": 10110,
-    "name": "William D. Porter ",
+    "name": "William D. Porter",
     "topics": [
       {
         "id": 217,
@@ -24313,7 +24313,7 @@
   },
   "30320": {
     "id": 30320,
-    "name": "Asama ",
+    "name": "Asama",
     "topics": [
       {
         "id": 174,
@@ -25775,7 +25775,7 @@
   },
   "30716": {
     "id": 30716,
-    "name": "Hakuhō ",
+    "name": "Hakuhō",
     "topics": [
       {
         "id": 165,
@@ -26459,7 +26459,7 @@
   },
   "31702": {
     "id": 31702,
-    "name": "I404 ",
+    "name": "I404",
     "topics": [
       {
         "id": 168,
@@ -31795,7 +31795,7 @@
   },
   "40404": {
     "id": 40404,
-    "name": "Lützow ",
+    "name": "Lützow",
     "topics": [
       {
         "id": 38,
@@ -44882,6 +44882,673 @@
     "icon": "batuoluomeiao",
     "type": 1
   },
+  "60501": {
+    "id": 60501,
+    "name": "Vittorio Veneto",
+    "topics": [
+      {
+        "id": 244,
+        "name": "Sardegnian Afternoon",
+        "unlock": {
+          "type": 1,
+          "ship_id": 500
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 7525,
+            "text": "Commander, may I interest you in taking a relaxing break together?",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7526,
+            "text": "In Sardegna, we believe that balancing work and relaxation can promote creativity.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7527,
+            "text": "It so happens that I've found a sunny terrace not far from your office.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7528,
+            "text": "Of course, it would be a shame to keep such a wonderful place all to myself.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7529,
+            "text": "Rest assured, this is not a formal social invitation.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7530,
+            "text": "I just thought it'd be nice to share a calm afternoon moment.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7531,
+            "text": "part3_cl",
+            "user": 60501,
+            "type": 4,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7532,
+            "text": "Also, I have Sardegnian biscuits, if you're interested. They're crunchy and buttery!",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7533,
+            "text": "They smell of almonds and lemon. Just the thing to pair with some coffee.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7534,
+            "text": "Ah, to enjoy a cup of coffee in the sea breeze, letting time pass...",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7535,
+            "text": "It makes for hours of leisure.",
+            "user": 60501,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "I'll be right there."
+              },
+              {
+                "option_id": 2,
+                "text": "Gotta finish my work first..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 7536,
+            "text": "I'll be right there.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 7537,
+            "text": "Wonderful. I'm waiting for you by the terrace.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 7538,
+            "text": "You know, as soon as you said those words, it felt like the sun grew gentler.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 7539,
+            "text": "I like to think that wasn't just my imagination.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 7540,
+            "text": "I'll go there once I've finished my work.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 7541,
+            "text": "By the time you get here, the coffee will likely be cold...",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 7542,
+            "text": "But I suppose that's no matter.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 7543,
+            "text": "I'm content to make fresh coffee for you whenever you like.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7544,
+            "text": "As they say...",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7545,
+            "text": "Good things are worth waiting for.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7546,
+            "text": "The sun, the blue skies, the white clouds, the sea breeze...",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7547,
+            "text": "And of course, delicious biscuits.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7548,
+            "text": "A balanced, relaxed pace is instrumental for truly enjoying life.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 245,
+        "name": "A Delicious Moment",
+        "unlock": {
+          "type": 2,
+          "ship_id": 500,
+          "affinity": 100
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 7549,
+            "text": "Commander, have you eaten lunch yet?",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7550,
+            "text": "I just visited the canteen and had their daily special: pasta with tomato sauce.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7551,
+            "text": "However, I'm not sure what to say about it...",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7552,
+            "text": "While it wasn't bad, I felt as though it was lacking something to make it stand out.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7553,
+            "text": "The tomato flavor was a bit muted, and the acidity could've been more pronounced.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7554,
+            "text": "It failed to capture the essence of Sardegnian cuisine.",
+            "user": 60501,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Is the difference really that obvious?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 7555,
+            "text": "Is the difference really that obvious?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 7556,
+            "text": "Yes, and it's quite hard to explain in words.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 7557,
+            "text": "That's why I came up with an idea.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 7558,
+            "text": "Coinciding with this idea, I previously ordered some tomatoes from a region famous for them...",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 7559,
+            "text": "As well as some fine pecorino cheese.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 7560,
+            "text": "Now, I'm wondering if you're free anytime soon.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 7561,
+            "text": "Could you spare an evening for me, by any chance?",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 7562,
+            "text": "I'd love to treat you to some authentic pasta.",
+            "user": 60501,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Sure. I can't wait to try your cooking."
+              },
+              {
+                "option_id": 3,
+                "text": "You sure it's not too much work?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 7563,
+            "text": "Sure. I can't wait to try your cooking.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 7564,
+            "text": "You won't be disappointed, I assure you.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 7565,
+            "text": "Genuine Sardegnian cuisine is absolutely worth savoring.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 7566,
+            "text": "You sure it's not too much work?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 7567,
+            "text": "Too much work? Not in the slightest.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 7568,
+            "text": "In fact, I'd be happy to go through the effort to make delicious food for someone so dear to me.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7569,
+            "text": "Anyway, we can discuss a suitable time for you to come by later on.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7570,
+            "text": "I'll be sure to have everything ready for you.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7571,
+            "text": "Not just the cheese and the tomatoes...",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7572,
+            "text": "But also this token of my heart, presented solely to you.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          }
+        ]
+      },
+      {
+        "id": 246,
+        "name": "The Art of Relaxation",
+        "unlock": {
+          "type": 2,
+          "ship_id": 500,
+          "affinity": 150
+        },
+        "messages": [
+          {
+            "choosen_option": 0,
+            "id": 7573,
+            "text": "Commander, I've found another great place to relax.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7574,
+            "text": "Oh dear, I just realized how late it is...",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 0,
+            "id": 7575,
+            "text": "Please reply when you see this message tomorrow morning.",
+            "user": 60501,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 1,
+                "text": "Want me to hold my reply until then?"
+              }
+            ]
+          },
+          {
+            "choosen_option": 1,
+            "id": 7576,
+            "text": "Want me to hold my reply until then?",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 7577,
+            "text": "I didn't think you'd still be awake at this hour.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 1,
+            "id": 7578,
+            "text": "You're not working overtime, are you?",
+            "user": 60501,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 2,
+                "text": "Overtime is my modus operandi."
+              }
+            ]
+          },
+          {
+            "choosen_option": 2,
+            "id": 7579,
+            "text": "Overtime is my modus operandi.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 7580,
+            "text": "Goodness... Being a great leader is nothing if not exhausting.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 7581,
+            "text": "I know what it's like, as I've been in the same position.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 7582,
+            "text": "I've had my days of being neck-deep in administrative duties.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 7583,
+            "text": "Fortunately, I still had the leeway to soak in the thermae and clear my mind.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 7584,
+            "text": "That reminds me... It's concerningly rare to see you truly at rest, Commander.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 2,
+            "id": 7585,
+            "text": "Given how frequently you work so hard, what do you do to relax?",
+            "user": 60501,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 3,
+                "text": "I can handle it."
+              }
+            ]
+          },
+          {
+            "choosen_option": 3,
+            "id": 7586,
+            "text": "I can handle it. You just gotta buckle up and do it.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 7587,
+            "text": "I usually work so much overtime that when I'm not doing it, I just naturally relax.",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 7588,
+            "text": "Um... I'm afraid my brain is struggling to process what you just said.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 7589,
+            "text": "All I can say is I pray neither of us has to experience such an intense workload ever again...",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 3,
+            "id": 7590,
+            "text": "Regardless, allow me to recommend some effective ways to relax.",
+            "user": 60501,
+            "type": 1,
+            "options": [
+              {
+                "option_id": 4,
+                "text": "If you want to relax..."
+              }
+            ]
+          },
+          {
+            "choosen_option": 4,
+            "id": 7591,
+            "text": "If you want to relax, you first need to have the time to relax...",
+            "user": 0,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 7592,
+            "text": "Let's try looking at it differently. All is fine as long as we can combine work and relaxation.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 7593,
+            "text": "For instance, you could do work in the reinvigorating warmth of a bath.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 7594,
+            "text": "Additionally, it would do your mind well to be assisted by someone you love.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 7595,
+            "text": "You should be able to relax like never before if we can meet these two conditions at once.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 7596,
+            "text": "Did you know they opened a new Sardegnian thermae in the port just a while ago?",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          },
+          {
+            "choosen_option": 4,
+            "id": 7597,
+            "text": "If you can come over now... I will be waiting for you in the water.",
+            "user": 60501,
+            "type": 1,
+            "options": []
+          }
+        ]
+      }
+    ],
+    "icon": "weineituo",
+    "type": 1
+  },
   "60508": {
     "id": 60508,
     "name": "Raffaello",
@@ -49763,7 +50430,7 @@
   },
   "70509": {
     "id": 70509,
-    "name": "Kazan ",
+    "name": "Kazan",
     "topics": [
       {
         "id": 108,
@@ -51978,7 +52645,7 @@
   },
   "80204": {
     "id": 80204,
-    "name": "Duguay-Trouin ",
+    "name": "Duguay-Trouin",
     "topics": [
       {
         "id": 159,
@@ -52682,7 +53349,7 @@
   },
   "80303": {
     "id": 80303,
-    "name": "Duquesne ",
+    "name": "Duquesne",
     "topics": [
       {
         "id": 156,
@@ -67901,7 +68568,7 @@
   },
   "960014": {
     "id": 960014,
-    "name": "Pearl ",
+    "name": "Pearl",
     "topics": [
       {
         "id": 192,
