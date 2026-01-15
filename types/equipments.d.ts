@@ -54,6 +54,7 @@ export interface WeaponBase {
     armor_mod: number[]
     ammo: AmmoType
     id: number
+    dmg_variance?: number
 }
 
 export interface ExtendedWeapon extends WeaponBase {

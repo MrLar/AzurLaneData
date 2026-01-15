@@ -59,14 +59,19 @@ aircraft. It provides:
 
 Weapon provides the basic properties for all weapons and aircrafts. It provides:
 
-|   Property    |                     Type                      |                                                                             Description                                                                             |
-| :-----------: | :-------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  **damage**   |                  `number[]`                   | Damage dealt by the equipment at each enhancement level of the equipment (i.E. index 0 is +0, and so on). For scaling refer to [`EquipmentFormulas`](./fomulas.md). |
-|   **stat**    | [`WeaponStat`](../common.md#weapon-stat-keys) |                                                                  The stat this weapon scales with.                                                                  |
-|   **ratio**   |                   `number`                    |                                                                      The ratio to scale with.                                                                       |
-| **armor_mod** |                  `number[]`                   |                          A 3 value array where each entry represents the effectiveness against Light, Medium and Heavy armor respectively.                          |
-|   **ammo**    |           [`AmmoType`](#ammo-type)            |                                                                    The ammo type of the weapon.                                                                     |
-|    **id**     |                   `number`                    |                                                                        The ID of the weapon.                                                                        |
+|     Property      |                     Type                      |                                                                                   Description                                                                                   |
+| :---------------: | :-------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    **damage**     |                  `number[]`                   |       Damage dealt by the equipment at each enhancement level of the equipment (i.E. index 0 is +0, and so on). For scaling refer to [`EquipmentFormulas`](./fomulas.md).       |
+|     **stat**      | [`WeaponStat`](../common.md#weapon-stat-keys) |                                                                        The stat this weapon scales with.                                                                        |
+|     **ratio**     |                   `number`                    |                                                                            The ratio to scale with.                                                                             |
+|   **armor_mod**   |                  `number[]`                   |                                A 3 value array where each entry represents the effectiveness against Light, Medium and Heavy armor respectively.                                |
+|     **ammo**      |           [`AmmoType`](#ammo-type)            |                                                                          The ammo type of the weapon.                                                                           |
+|      **id**       |                   `number`                    |                                                                              The ID of the weapon.                                                                              |
+| **dmg_variance?** |                   `number`                    | **(Optional)** The rate at which damage is randomly determined. If this is present all values in `damage` are the average value. To recover the min and max see the note below. |
+
+To recover min and max damage in the event of `dmg_variance` being non null simply calculate:
+- min: \\(\frac{damage \times 2}{1 + dmg\\_variance}\\)
+- max: \\(\frac{damage \times 2 \times dmg\\_variance}{1 + dmg\\_variance}\\) or \\(min \times dmg\\_variance\\)
 
 # Extended Weapon
 
