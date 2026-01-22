@@ -19714,6 +19714,23 @@
       "CN"
     ]
   },
+  "3068": {
+    "id": 3068,
+    "name": "Fashionable Fruit Shell",
+    "icon": "99187",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Behold the might of overflowing passion!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "4001": {
     "id": 4001,
     "name": "Little Blocks Shell",
@@ -24288,6 +24305,306 @@
     "rarity": 4,
     "theme": "Maid's Bar",
     "description": "The quickest dealer in the house is here!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4276": {
+    "id": 4276,
+    "name": "Polaroid Shell",
+    "icon": "101701",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Photo Vision",
+    "description": "Instant capture, instant development.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4277": {
+    "id": 4277,
+    "name": "Photographic Film Shell",
+    "icon": "101702",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Photo Vision",
+    "description": "Round and round the film goes, capturing countless moments in time.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4278": {
+    "id": 4278,
+    "name": "Memory Card Shell",
+    "icon": "101703",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Photo Vision",
+    "description": "All the frames you'll ever need, stored in something that fits snugly in your palm.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4279": {
+    "id": 4279,
+    "name": "Light Stick Torpedo",
+    "icon": "101704",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Photo Vision",
+    "description": "With a flick of the switch, it lights up every little dark corner.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4280": {
+    "id": 4280,
+    "name": "Tripod Torpedo",
+    "icon": "101705",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Photo Vision",
+    "description": "Plant it firmly to capture the moment precisely.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4281": {
+    "id": 4281,
+    "name": "Telephoto Lens Torpedo",
+    "icon": "101706",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Photo Vision",
+    "description": "Brings distant views closer and reveals the little details clearly.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4282": {
+    "id": 4282,
+    "name": "Digital Camera Shell",
+    "icon": "101707",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Photo Vision",
+    "description": "Convenient and portable, letting you record your discoveries whenever, wherever.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4283": {
+    "id": 4283,
+    "name": "Reflex Camera Shell",
+    "icon": "101708",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Photo Vision",
+    "description": "Get a professional photographer's view of the world.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4284": {
+    "id": 4284,
+    "name": "Lens Case Shell",
+    "icon": "101709",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Photo Vision",
+    "description": "A safe place to keep your valuable lenses.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4285": {
+    "id": 4285,
+    "name": "Manjuu Frame (Torpedo)",
+    "icon": "101710",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Photo Vision",
+    "description": "Add some flourish to your memories!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4286": {
+    "id": 4286,
+    "name": "Manjuu Frame (Fighter)",
+    "icon": "101710",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Photo Vision",
+    "description": "Add some flourish to your memories!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4287": {
+    "id": 4287,
+    "name": "Manjuu Frame (Bomber)",
+    "icon": "101710",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Photo Vision",
+    "description": "Add some flourish to your memories!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4288": {
+    "id": 4288,
+    "name": "Camera Screen (Torpedo)",
+    "icon": "101711",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Photo Vision",
+    "description": "A professional view through which to find the ideal frame.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4289": {
+    "id": 4289,
+    "name": "Camera Screen (Fighter)",
+    "icon": "101711",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Photo Vision",
+    "description": "A professional view through which to find the ideal frame.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4290": {
+    "id": 4290,
+    "name": "Camera Screen (Bomber)",
+    "icon": "101711",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Photo Vision",
+    "description": "A professional view through which to find the ideal frame.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4291": {
+    "id": 4291,
+    "name": "Manjuu Poster (Torpedo)",
+    "icon": "101712",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Photo Vision",
+    "description": "Splash with some stylish touches and pump some energy into the vibe!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4292": {
+    "id": 4292,
+    "name": "Manjuu Poster (Fighter)",
+    "icon": "101712",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Photo Vision",
+    "description": "Splash with some stylish touches and pump some energy into the vibe!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4293": {
+    "id": 4293,
+    "name": "Manjuu Poster (Bomber)",
+    "icon": "101712",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Photo Vision",
+    "description": "Splash with some stylish touches and pump some energy into the vibe!",
     "servers": [
       "EN",
       "JP",

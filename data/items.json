@@ -32380,6 +32380,204 @@
       }
     ]
   },
+  "30379": {
+    "id": 30379,
+    "name": "Gear Skin Box (Photo Vision)",
+    "description": "Contains a random Photo Vision-themed gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxsheyingshijie",
+    "rarity": 5,
+    "locations": [
+      "Light & Shadow Fashion Shoot!"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 4276,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101701",
+        "name": "Polaroid Shell"
+      },
+      {
+        "id": 4277,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101702",
+        "name": "Photographic Film Shell"
+      },
+      {
+        "id": 4278,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101703",
+        "name": "Memory Card Shell"
+      },
+      {
+        "id": 4279,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101704",
+        "name": "Light Stick Torpedo"
+      },
+      {
+        "id": 4280,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101705",
+        "name": "Tripod Torpedo"
+      },
+      {
+        "id": 4281,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101706",
+        "name": "Telephoto Lens Torpedo"
+      },
+      {
+        "id": 4282,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101707",
+        "name": "Digital Camera Shell"
+      },
+      {
+        "id": 4283,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101708",
+        "name": "Reflex Camera Shell"
+      },
+      {
+        "id": 4284,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101709",
+        "name": "Lens Case Shell"
+      },
+      {
+        "id": 4285,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101710",
+        "name": "Manjuu Frame (Torpedo)"
+      },
+      {
+        "id": 4286,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101710",
+        "name": "Manjuu Frame (Fighter)"
+      },
+      {
+        "id": 4287,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101710",
+        "name": "Manjuu Frame (Bomber)"
+      },
+      {
+        "id": 4288,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101711",
+        "name": "Camera Screen (Torpedo)"
+      },
+      {
+        "id": 4289,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101711",
+        "name": "Camera Screen (Fighter)"
+      },
+      {
+        "id": 4290,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101711",
+        "name": "Camera Screen (Bomber)"
+      },
+      {
+        "id": 4291,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101712",
+        "name": "Manjuu Poster (Torpedo)"
+      },
+      {
+        "id": 4292,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101712",
+        "name": "Manjuu Poster (Fighter)"
+      },
+      {
+        "id": 4293,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101712",
+        "name": "Manjuu Poster (Bomber)"
+      }
+    ]
+  },
   "30401": {
     "id": 30401,
     "name": "Random Gear Skin Box (Cruise Series 3)",
@@ -46325,6 +46523,204 @@
       }
     ]
   },
+  "30563": {
+    "id": 30563,
+    "name": "Selection Gear Skin Box (Photo Vision)",
+    "description": "Can be opened to receive 1 Photo Vision-themed gear skin of your choosing.",
+    "type": 13,
+    "icon": "props/appearanceboxsheyingshijiezixuan",
+    "rarity": 5,
+    "locations": [
+      "Light & Shadow Fashion Shoot!"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 4276,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101701",
+        "name": "Polaroid Shell"
+      },
+      {
+        "id": 4277,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101702",
+        "name": "Photographic Film Shell"
+      },
+      {
+        "id": 4278,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101703",
+        "name": "Memory Card Shell"
+      },
+      {
+        "id": 4279,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101704",
+        "name": "Light Stick Torpedo"
+      },
+      {
+        "id": 4280,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101705",
+        "name": "Tripod Torpedo"
+      },
+      {
+        "id": 4281,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101706",
+        "name": "Telephoto Lens Torpedo"
+      },
+      {
+        "id": 4282,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101707",
+        "name": "Digital Camera Shell"
+      },
+      {
+        "id": 4283,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101708",
+        "name": "Reflex Camera Shell"
+      },
+      {
+        "id": 4284,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101709",
+        "name": "Lens Case Shell"
+      },
+      {
+        "id": 4285,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101710",
+        "name": "Manjuu Frame (Torpedo)"
+      },
+      {
+        "id": 4286,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101710",
+        "name": "Manjuu Frame (Fighter)"
+      },
+      {
+        "id": 4287,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101710",
+        "name": "Manjuu Frame (Bomber)"
+      },
+      {
+        "id": 4288,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101711",
+        "name": "Camera Screen (Torpedo)"
+      },
+      {
+        "id": 4289,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101711",
+        "name": "Camera Screen (Fighter)"
+      },
+      {
+        "id": 4290,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101711",
+        "name": "Camera Screen (Bomber)"
+      },
+      {
+        "id": 4291,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101712",
+        "name": "Manjuu Poster (Torpedo)"
+      },
+      {
+        "id": 4292,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101712",
+        "name": "Manjuu Poster (Fighter)"
+      },
+      {
+        "id": 4293,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/101712",
+        "name": "Manjuu Poster (Bomber)"
+      }
+    ]
+  },
   "30911": {
     "id": 30911,
     "name": "T1 Custom Gear Lab Material Pack",
@@ -49975,6 +50371,7 @@
     ],
     "servers": [
       "EN",
+      "JP",
       "CN"
     ],
     "contains": [

@@ -57761,6 +57761,228 @@
       ]
     ]
   },
+  "152000": {
+    "description": "Increases this ship's FP and EVA by $1. When this ship fires her Main Guns: $2 chance to fire a $3 special barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Magistrate of the Empire",
+    "max": 10,
+    "id": 152000,
+    "type": 3,
+    "icon": 152000,
+    "values": [
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "50.0%",
+        "53.3%",
+        "56.6%",
+        "59.9%",
+        "63.2%",
+        "66.5%",
+        "69.8%",
+        "73.1%",
+        "76.4%",
+        "80.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "152010": {
+    "description": "During battle, when an enemy gets within a certain range: fires a $1 special barrage (DMG is based on the skill's level) and restores $2 of this ship's max HP; this effect has a 5s cooldown between activations and can only activate up to 5 times per battle. If this effect activates 5 times in one battle: decreases this ship's DMG taken by 20.0% until the battle ends.",
+    "opsi_description": null,
+    "name": "Binding Verdict",
+    "max": 10,
+    "id": 152010,
+    "type": 2,
+    "icon": 152010,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "1.0%",
+        "1.4%",
+        "1.8%",
+        "2.2%",
+        "2.6%",
+        "3.0%",
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%"
+      ]
+    ]
+  },
+  "152020": {
+    "description": "Once per battle, when any other ship's HP falls below 20.0% as a result of DMG taken, the following effect activates: Ugolino Vivaldi's HP decreases by 1, and that other ship recovers $1 of her max HP (if said ship is from the Sardegna Empire, she recovers an additional 5.0% of her max HP); 3s after this effect activates, Ugolino Vivaldi recovers 10.0% of her max HP.",
+    "opsi_description": null,
+    "name": "Pain, Pain, Fly Away",
+    "max": 10,
+    "id": 152020,
+    "type": 2,
+    "icon": 152020,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
+  "152030": {
+    "description": "Increases this ship's FP and ASW by $1. If there are 3 or more Sardegna Empire ships in your fleet: increases all your Sardegna Empire DDs' ASW, FP, and TRP by $1 and increases this ship's EVA by $3 and decreases her aircraft DMG taken by $3. Every 20s: fires a $2 special barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Towards Glory and Death",
+    "max": 10,
+    "id": 152030,
+    "type": 3,
+    "icon": 152030,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ]
+    ]
+  },
+  "152040": {
+    "description": "Increases this ship's FP and TRP by $1. Every 20s: fires a $2 special barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Gunfire Fouetté",
+    "max": 10,
+    "id": 152040,
+    "type": 3,
+    "icon": 152040,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "152050": {
+    "description": "Every 20s: challenges enemies to a duel, increasing FP, TRP, or EVA by $1 for 10s, and deploying a shield that can block up to 8 enemy shells. Every time this effect is triggered: 10% chance to fire a $2 special torpedo barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Ti Sfido!",
+    "max": 10,
+    "id": 152050,
+    "type": 3,
+    "icon": 152050,
+    "values": [
+      [
+        "4.5%",
+        "5.2%",
+        "6.0%",
+        "7.0%",
+        "7.7%",
+        "8.5%",
+        "9.5%",
+        "10.2%",
+        "11.0%",
+        "12.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
   "190000": {
     "description": "When the battle starts, if this ship has a Main Gun equipped that fires AP ammo: increases this ship's Crit Rate and Crit DMG by $1 and Main Gun efficiency by $2. When the battle starts: randomly selects a BB or BC in your fleet and gives her the Concerted Strike status; when the ship with this status fires her Main Guns, Dmitri Donskoi fires a $3 AP barrage (DMG is based on the skill's level) and inflicts the Pierced Mark status (lasting 5s; increases AP DMG taken by 5.0%) on all enemies on the battlefield (does not stack). Increases this ship's DMG dealt against enemies with the Pierced Mark status by $4.",
     "opsi_description": null,

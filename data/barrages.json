@@ -37309,6 +37309,96 @@
       ]
     }
   ],
+  "28272": [
+    {
+      "name": "All Out Assault - Giussano II",
+      "is_aoa": true,
+      "parts": [
+        {
+          "damage": 15,
+          "coefficient": 1,
+          "count": 40,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            145,
+            150
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 75112,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 75111,
+          "type": "weapon"
+        },
+        {
+          "damage": 45,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 8,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 0,
+          "angle": 120,
+          "splash": 3,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            160
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 75113,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 75112,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "28282": [
     {
       "name": "All Out Assault - Duguay Trouin II",
@@ -71024,6 +71114,414 @@
           "weapon_type": 1,
           "bullet_type": 1,
           "bullet_id": 170907,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "152000": [
+    {
+      "name": "S1",
+      "parts": [
+        {
+          "damage": 200,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.1,
+            1.1
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            25,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 50,
+          "splash": 15,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            120,
+            140
+          ],
+          "spread": [
+            12,
+            12
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 183120,
+          "weapon_type": 1,
+          "bullet_type": 2,
+          "bullet_id": 164863,
+          "type": "weapon"
+        },
+        {
+          "damage": 100,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.1,
+            1.1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": true,
+          "range": [
+            25,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 50,
+          "splash": 15,
+          "velocity": 15,
+          "pierce": 99,
+          "shell_range": [
+            0,
+            0
+          ],
+          "spread": [
+            12,
+            12
+          ],
+          "targeting": "Same",
+          "centered": false,
+          "weapon_id": 183130,
+          "weapon_type": 1,
+          "bullet_type": 5,
+          "bullet_id": 164863,
+          "type": "weapon"
+        },
+        {
+          "damage": 100,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.1,
+            1.1
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": true,
+          "ignore_shield": true,
+          "range": [
+            15,
+            15
+          ],
+          "aim_type": 1,
+          "angle": 50,
+          "splash": 15,
+          "velocity": -15,
+          "pierce": 99,
+          "shell_range": [
+            120,
+            140
+          ],
+          "spread": [
+            12,
+            12
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 183130,
+          "weapon_type": 1,
+          "bullet_type": 5,
+          "bullet_id": 164864,
+          "type": "weapon"
+        },
+        {
+          "damage": 100,
+          "coefficient": 1,
+          "count": 8,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1.1,
+            1.1,
+            1.1
+          ],
+          "ammo": 3,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            15,
+            15
+          ],
+          "aim_type": 1,
+          "angle": 50,
+          "splash": 15,
+          "velocity": -15,
+          "pierce": 99,
+          "shell_range": [
+            120,
+            140
+          ],
+          "spread": [
+            12,
+            12
+          ],
+          "targeting": "Same",
+          "centered": false,
+          "weapon_id": 183130,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 164865,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "152010": [
+    {
+      "name": "S2",
+      "parts": [
+        {
+          "damage": 120,
+          "coefficient": 1,
+          "count": 9,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 2,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            200
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 12,
+          "pierce": 0,
+          "shell_range": [
+            145,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Nearest",
+          "centered": false,
+          "weapon_id": 183140,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 164867,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "152030": [
+    {
+      "name": "S2",
+      "parts": [
+        {
+          "damage": 20,
+          "coefficient": 1,
+          "count": 48,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            0.65,
+            1.25,
+            0.65
+          ],
+          "ammo": 7,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 2,
+          "pierce": 0,
+          "shell_range": [
+            95,
+            105
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 183150,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 164868,
+          "type": "weapon"
+        },
+        {
+          "damage": 130,
+          "coefficient": 1,
+          "count": 4,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 0,
+          "angle": 80,
+          "splash": 3,
+          "velocity": 6,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            160
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 183160,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 164869,
+          "type": "weapon",
+          "tracker": {
+            "angular": 1.6,
+            "range": 24
+          }
+        }
+      ]
+    }
+  ],
+  "152040": [
+    {
+      "name": "S1",
+      "parts": [
+        {
+          "damage": 30,
+          "coefficient": 1,
+          "count": 40,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            145,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 164870,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 164870,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
+  "152050": [
+    {
+      "name": "S2",
+      "parts": [
+        {
+          "damage": 10,
+          "coefficient": 1,
+          "count": 40,
+          "stat": "trp",
+          "ratio": 1,
+          "armor_mod": [
+            0.8,
+            1,
+            1.3
+          ],
+          "ammo": 4,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": false,
+          "range": [
+            0,
+            150
+          ],
+          "aim_type": 0,
+          "angle": 80,
+          "splash": 3,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            140,
+            160
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 183180,
+          "weapon_type": 3,
+          "bullet_type": 3,
+          "bullet_id": 164871,
           "type": "weapon"
         }
       ]
