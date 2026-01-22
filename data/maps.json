@@ -73958,5 +73958,605 @@
     "time_limit": 180,
     "type": 1,
     "id": 1806
+  },
+  "coalation_1999101_16810301": {
+    "name": "Light & Shadow Fashion Shoot!: Butterfly Dance's Promise (Boss #1)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16810301,
+      "hull": 2,
+      "nation": 6,
+      "name": "Alberto di Giussano",
+      "stats": {
+        "hp": 3600,
+        "fp": 40,
+        "trp": 60,
+        "avi": 0,
+        "aa": 125,
+        "hit": 18,
+        "eva": 14,
+        "spd": 20,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "aerbeituo_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999101,
+    "dungeon_id": 1999101,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1807
+  },
+  "coalation_1999201_16811301": {
+    "name": "Light & Shadow Fashion Shoot!: Warm Velvet's Wonderland (Boss #1)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16811301,
+      "hull": 5,
+      "nation": 1,
+      "name": "Alabama",
+      "stats": {
+        "hp": 24680,
+        "fp": 160,
+        "trp": 0,
+        "avi": 0,
+        "aa": 180,
+        "hit": 26,
+        "eva": 16,
+        "spd": 18,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "alabama_3",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999201,
+    "dungeon_id": 1999201,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1808
+  },
+  "coalation_1999202_16811302": {
+    "name": "Light & Shadow Fashion Shoot!: Warm Velvet's Wonderland (Boss #2)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16811302,
+      "hull": 1,
+      "nation": 6,
+      "name": "Ugolino Vivaldi",
+      "stats": {
+        "hp": 19800,
+        "fp": 75,
+        "trp": 260,
+        "avi": 0,
+        "aa": 145,
+        "hit": 24,
+        "eva": 31,
+        "spd": 20,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "wugelini_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999202,
+    "dungeon_id": 1999202,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1809
+  },
+  "coalation_1999301_16812301": {
+    "name": "Light & Shadow Fashion Shoot!: Window of the Heart (Boss #1)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16812301,
+      "hull": 2,
+      "nation": 6,
+      "name": "Alberto di Giussano",
+      "stats": {
+        "hp": 89250,
+        "fp": 198,
+        "trp": 260,
+        "avi": 0,
+        "aa": 350,
+        "hit": 43,
+        "eva": 41,
+        "spd": 18,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "aerbeituo_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999301,
+    "dungeon_id": 1999301,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1810
+  },
+  "coalation_1999302_16812302": {
+    "name": "Light & Shadow Fashion Shoot!: Window of the Heart (Boss #2)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16812302,
+      "hull": 3,
+      "nation": 3,
+      "name": "Takao",
+      "stats": {
+        "hp": 98260,
+        "fp": 240,
+        "trp": 190,
+        "avi": 0,
+        "aa": 265,
+        "hit": 68,
+        "eva": 45,
+        "spd": 16,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "gaoxiong_7",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999302,
+    "dungeon_id": 1999302,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1811
+  },
+  "coalation_1999303_16812303": {
+    "name": "Light & Shadow Fashion Shoot!: Window of the Heart (Boss #3)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16812303,
+      "hull": 5,
+      "nation": 6,
+      "name": "Francesco Caracciolo",
+      "stats": {
+        "hp": 115000,
+        "fp": 300,
+        "trp": 0,
+        "avi": 0,
+        "aa": 460,
+        "hit": 51,
+        "eva": 39,
+        "spd": 18,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fulangxisike_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999303,
+    "dungeon_id": 1999303,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1812
+  },
+  "coalation_1999401_16813301": {
+    "name": "Light & Shadow Fashion Shoot!: Pure White Heart (Boss #1)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16813301,
+      "hull": 2,
+      "nation": 6,
+      "name": "Alberto di Giussano",
+      "stats": {
+        "hp": 118500,
+        "fp": 250,
+        "trp": 260,
+        "avi": 300,
+        "aa": 430,
+        "hit": 71,
+        "eva": 60,
+        "spd": 20,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "aerbeituo_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999401,
+    "dungeon_id": 1999401,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1813
+  },
+  "coalation_1999402_16813302": {
+    "name": "Light & Shadow Fashion Shoot!: Pure White Heart (Boss #2)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16813302,
+      "hull": 1,
+      "nation": 6,
+      "name": "Ugolino Vivaldi",
+      "stats": {
+        "hp": 125000,
+        "fp": 230,
+        "trp": 280,
+        "avi": 0,
+        "aa": 440,
+        "hit": 71,
+        "eva": 60,
+        "spd": 30,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "wugelini_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999402,
+    "dungeon_id": 1999402,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1814
+  },
+  "coalation_1999403_16813303": {
+    "name": "Light & Shadow Fashion Shoot!: Pure White Heart (Boss #3)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16813303,
+      "hull": 5,
+      "nation": 6,
+      "name": "Francesco Caracciolo",
+      "stats": {
+        "hp": 155000,
+        "fp": 320,
+        "trp": 180,
+        "avi": 300,
+        "aa": 390,
+        "hit": 65,
+        "eva": 49,
+        "spd": 18,
+        "luck": 30,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fulangxisike_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999403,
+    "dungeon_id": 1999403,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1815
+  },
+  "coalation_1999404_16813304": {
+    "name": "Light & Shadow Fashion Shoot!: Pure White Heart (Boss #4)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16813304,
+      "hull": 5,
+      "nation": 1,
+      "name": "Alabama",
+      "stats": {
+        "hp": 175000,
+        "fp": 330,
+        "trp": 190,
+        "avi": 300,
+        "aa": 400,
+        "hit": 65,
+        "eva": 49,
+        "spd": 18,
+        "luck": 30,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "alabama_3",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999404,
+    "dungeon_id": 1999404,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1816
+  },
+  "coalation_1999501_16814301": {
+    "name": "Light & Shadow Fashion Shoot!: Whispers in the Dead of Night (Boss #1)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16814301,
+      "hull": 2,
+      "nation": 6,
+      "name": "Alberto di Giussano",
+      "stats": {
+        "hp": 155000,
+        "fp": 240,
+        "trp": 290,
+        "avi": 310,
+        "aa": 440,
+        "hit": 76,
+        "eva": 65,
+        "spd": 20,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "aerbeituo_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999501,
+    "dungeon_id": 1999501,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1817
+  },
+  "coalation_1999502_16814302": {
+    "name": "Light & Shadow Fashion Shoot!: Whispers in the Dead of Night (Boss #2)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16814302,
+      "hull": 1,
+      "nation": 6,
+      "name": "Ugolino Vivaldi",
+      "stats": {
+        "hp": 255000,
+        "fp": 190,
+        "trp": 320,
+        "avi": 310,
+        "aa": 435,
+        "hit": 76,
+        "eva": 57,
+        "spd": 20,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "wugelini_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999502,
+    "dungeon_id": 1999502,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1818
+  },
+  "coalation_1999503_16814303": {
+    "name": "Light & Shadow Fashion Shoot!: Whispers in the Dead of Night (Boss #3)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16814303,
+      "hull": 5,
+      "nation": 6,
+      "name": "Francesco Caracciolo",
+      "stats": {
+        "hp": 455000,
+        "fp": 310,
+        "trp": 180,
+        "avi": 310,
+        "aa": 430,
+        "hit": 76,
+        "eva": 65,
+        "spd": 20,
+        "luck": 30,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "fulangxisike_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999503,
+    "dungeon_id": 1999503,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1819
+  },
+  "coalation_1999504_16814304": {
+    "name": "Light & Shadow Fashion Shoot!: Whispers in the Dead of Night (Boss #4)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16814304,
+      "hull": 5,
+      "nation": 1,
+      "name": "Alabama",
+      "stats": {
+        "hp": 755000,
+        "fp": 330,
+        "trp": 200,
+        "avi": 310,
+        "aa": 400,
+        "hit": 70,
+        "eva": 52,
+        "spd": 18,
+        "luck": 30,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "alabama_3",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999504,
+    "dungeon_id": 1999504,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1820
+  },
+  "coalation_1999505_16814305": {
+    "name": "Light & Shadow Fashion Shoot!: Whispers in the Dead of Night (Boss #5)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16814305,
+      "hull": 3,
+      "nation": 3,
+      "name": "Takao",
+      "stats": {
+        "hp": 1000000,
+        "fp": 280,
+        "trp": 310,
+        "avi": 310,
+        "aa": 400,
+        "hit": 70,
+        "eva": 52,
+        "spd": 18,
+        "luck": 30,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "gaoxiong_7",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999505,
+    "dungeon_id": 1999505,
+    "time_limit": 180,
+    "type": 18,
+    "id": 1821
   }
 }
