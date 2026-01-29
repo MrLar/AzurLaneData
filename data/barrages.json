@@ -79753,6 +79753,106 @@
       ]
     }
   ],
+  "802050": [
+    {
+      "name": "Ricarica fiammeggiante",
+      "parts": [
+        {
+          "damage": 35,
+          "coefficient": 1,
+          "count": 1,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            1,
+            1
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            100
+          ],
+          "aim_type": 1,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 15,
+          "pierce": 0,
+          "shell_range": [
+            145,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": "Priority",
+          "centered": false,
+          "weapon_id": 183220,
+          "weapon_type": 1,
+          "bullet_type": 1,
+          "bullet_id": 161212,
+          "type": "weapon",
+          "buff_chance": 1,
+          "buffs": [
+            "Standard Armor Break (8% for 6s, ID: 401)"
+          ]
+        }
+      ]
+    }
+  ],
+  "802072": [
+    {
+      "name": "Cinders of Hope - Carabiniere META II",
+      "parts": [
+        {
+          "damage": 25,
+          "coefficient": 1,
+          "count": 20,
+          "stat": "fp",
+          "ratio": 1,
+          "armor_mod": [
+            1,
+            0.8,
+            0.6
+          ],
+          "ammo": 1,
+          "is_critical": false,
+          "notes": [],
+          "shrapnel": false,
+          "ignore_shield": true,
+          "range": [
+            0,
+            50
+          ],
+          "aim_type": 0,
+          "angle": 360,
+          "splash": 0,
+          "velocity": 3,
+          "pierce": 0,
+          "shell_range": [
+            145,
+            155
+          ],
+          "spread": [
+            0,
+            0
+          ],
+          "targeting": null,
+          "centered": false,
+          "weapon_id": 170952,
+          "weapon_type": 2,
+          "bullet_type": 1,
+          "bullet_id": 161213,
+          "type": "weapon"
+        }
+      ]
+    }
+  ],
   "901010": [
     {
       "name": "Slash - Spread (Level 1)",

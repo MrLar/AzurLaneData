@@ -4236,6 +4236,23 @@
     ],
     "contains": []
   },
+  "21056": {
+    "id": 21056,
+    "name": "META Crystal - Carabiniere META",
+    "description": "An item that increases the potential of Carabiniere META. Used in the META Lab during Somatic Activation.",
+    "type": 4,
+    "icon": "props/21056",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 27"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "21101": {
     "id": 21101,
     "name": "Crystallized Heat-Resistant Steel",
@@ -34472,6 +34489,64 @@
         "blueprint": false,
         "icon": "equips/96836",
         "name": "Divine Light's Blessing"
+      }
+    ]
+  },
+  "30433": {
+    "id": 30433,
+    "name": "Random Gear Skin Box (Cruise Series 27)",
+    "description": "Contains 1 random Cruise Mission gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxshijiexunyou",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 27"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 2113,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96837",
+        "name": "Ancient Dagger Shell"
+      },
+      {
+        "id": 2114,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96838",
+        "name": "Worn Pillar Torpedo"
+      },
+      {
+        "id": 2115,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96839",
+        "name": "Petrified Manjuu Shell"
+      },
+      {
+        "id": 2116,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96840",
+        "name": "Arch of a Lost Dynasty"
       }
     ]
   },

@@ -18362,10 +18362,12 @@
     "id": 581,
     "timer": "04:35:00",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Revelations of Dust",
-    "special": false,
-    "other": [],
+    "special": true,
+    "other": [
+      6
+    ],
     "maps": [],
     "notes": [],
     "events": [
@@ -18376,7 +18378,7 @@
     "id": 582,
     "timer": "04:10:00",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Revelations of Dust",
     "special": false,
     "other": [],
@@ -18391,7 +18393,7 @@
   "583": {
     "id": 583,
     "timer": "02:10:00",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": "Revelations of Dust",
     "special": false,
@@ -18408,7 +18410,7 @@
     "light": false,
     "heavy": false,
     "limited": "Revelations of Dust",
-    "special": false,
+    "special": true,
     "other": [],
     "maps": [],
     "notes": [],
@@ -18423,7 +18425,9 @@
     "heavy": false,
     "limited": null,
     "special": false,
-    "other": [],
+    "other": [
+      3
+    ],
     "maps": [],
     "notes": [
       "Available as point accumulation reward during Revelations of Dust"

@@ -74558,5 +74558,485 @@
     "time_limit": 180,
     "type": 18,
     "id": 1821
+  },
+  "2100561_a1_16500301": {
+    "name": "Revelations of Dust-A1 - War Archive",
+    "acv": 100,
+    "opsi": false,
+    "boss": {
+      "id": 16500301,
+      "hull": 3,
+      "nation": 9,
+      "name": "Joffre Mechanicus Pawn - Striker",
+      "stats": {
+        "hp": 2480,
+        "fp": 68,
+        "trp": 52,
+        "avi": 0,
+        "aa": 85,
+        "hit": 19,
+        "eva": 19,
+        "spd": 26,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 25,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "xiafei",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1710013,
+    "dungeon_id": 1710013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1822
+  },
+  "2100561_a2_16500302": {
+    "name": "Revelations of Dust-A2 - War Archive",
+    "acv": 130,
+    "opsi": false,
+    "boss": {
+      "id": 16500302,
+      "hull": 7,
+      "nation": 9,
+      "name": "Le Mars Mechanicus Pawn - Moderator",
+      "stats": {
+        "hp": 7800,
+        "fp": 55,
+        "trp": 0,
+        "avi": 85,
+        "aa": 125,
+        "hit": 20,
+        "eva": 19,
+        "spd": 26,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "lemaer",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1710113,
+    "dungeon_id": 1710113,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1823
+  },
+  "2100561_a3_16500303": {
+    "name": "Revelations of Dust-A3 - War Archive",
+    "acv": 165,
+    "opsi": false,
+    "boss": {
+      "id": 16500303,
+      "hull": 5,
+      "nation": 9,
+      "name": "La Galissonnière Mechanicus Pawn - Striker",
+      "stats": {
+        "hp": 12000,
+        "fp": 120,
+        "trp": 80,
+        "avi": 0,
+        "aa": 135,
+        "hit": 21,
+        "eva": 18,
+        "spd": 26,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "jialisuoniye",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1710213,
+    "dungeon_id": 1710213,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1824
+  },
+  "2100562_b1_16501301": {
+    "name": "Revelations of Dust-B1 - War Archive",
+    "acv": 210,
+    "opsi": false,
+    "boss": {
+      "id": 16501301,
+      "hull": 4,
+      "nation": 99,
+      "name": "Mechanicus Harbinger - Famine",
+      "stats": {
+        "hp": 16500,
+        "fp": 130,
+        "trp": 100,
+        "avi": 0,
+        "aa": 180,
+        "hit": 25,
+        "eva": 16,
+        "spd": 35,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 45,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shenpanjijia_jihuang",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1711013,
+    "dungeon_id": 1711013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1825
+  },
+  "2100562_b2_16501302": {
+    "name": "Revelations of Dust-B2 - War Archive",
+    "acv": 270,
+    "opsi": false,
+    "boss": {
+      "id": 16501302,
+      "hull": 4,
+      "nation": 99,
+      "name": "Mechanicus Harbinger - Famine",
+      "stats": {
+        "hp": 24680,
+        "fp": 160,
+        "trp": 110,
+        "avi": 0,
+        "aa": 180,
+        "hit": 27,
+        "eva": 17,
+        "spd": 35,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 55,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shenpanjijia_jihuang",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1711113,
+    "dungeon_id": 1711113,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1826
+  },
+  "2100562_b3_16501303": {
+    "name": "Revelations of Dust-B3 - War Archive",
+    "acv": 330,
+    "opsi": false,
+    "boss": {
+      "id": 16501303,
+      "hull": 4,
+      "nation": 99,
+      "name": "Mechanicus Harbinger - War",
+      "stats": {
+        "hp": 31500,
+        "fp": 180,
+        "trp": 120,
+        "avi": 0,
+        "aa": 360,
+        "hit": 26,
+        "eva": 23,
+        "spd": 30,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shenpanjijia_zhanzheng",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1711213,
+    "dungeon_id": 1711213,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1827
+  },
+  "2100571_c1_16502301": {
+    "name": "Revelations of Dust-C1 - War Archive",
+    "acv": 455,
+    "opsi": false,
+    "boss": {
+      "id": 16502301,
+      "hull": 3,
+      "nation": 9,
+      "name": "Joffre Mechanicus Pawn - Striker",
+      "stats": {
+        "hp": 38600,
+        "fp": 180,
+        "trp": 120,
+        "avi": 0,
+        "aa": 185,
+        "hit": 41,
+        "eva": 45,
+        "spd": 26,
+        "luck": 18,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 75,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "xiafei",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1712013,
+    "dungeon_id": 1712013,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1828
+  },
+  "2100571_c2_16502302": {
+    "name": "Revelations of Dust-C2 - War Archive",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "id": 16502302,
+      "hull": 7,
+      "nation": 9,
+      "name": "Le Mars Mechanicus Pawn - Moderator",
+      "stats": {
+        "hp": 46820,
+        "fp": 81,
+        "trp": 0,
+        "avi": 445,
+        "aa": 428,
+        "hit": 32,
+        "eva": 20,
+        "spd": 26,
+        "luck": 18,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "lemaer",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1712113,
+    "dungeon_id": 1712113,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1829
+  },
+  "2100571_c3_16502303": {
+    "name": "Revelations of Dust-C3 - War Archive",
+    "acv": 775,
+    "opsi": false,
+    "boss": {
+      "id": 16502303,
+      "hull": 5,
+      "nation": 9,
+      "name": "La Galissonnière Mechanicus Pawn - Striker",
+      "stats": {
+        "hp": 62500,
+        "fp": 255,
+        "trp": 150,
+        "avi": 0,
+        "aa": 325,
+        "hit": 38,
+        "eva": 44,
+        "spd": 26,
+        "luck": 20,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 85,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "jialisuoniye",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1712213,
+    "dungeon_id": 1712213,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1830
+  },
+  "2100572_d1_16503301": {
+    "name": "Revelations of Dust-D1 - War Archive",
+    "acv": 850,
+    "opsi": false,
+    "boss": {
+      "id": 16503301,
+      "hull": 4,
+      "nation": 99,
+      "name": "Mechanicus Harbinger - Famine",
+      "stats": {
+        "hp": 86200,
+        "fp": 170,
+        "trp": 125,
+        "avi": 0,
+        "aa": 260,
+        "hit": 69,
+        "eva": 32,
+        "spd": 35,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 95,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shenpanjijia_jihuang",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1713013,
+    "dungeon_id": 1713013,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1831
+  },
+  "2100572_d2_16503302": {
+    "name": "Revelations of Dust-D2 - War Archive",
+    "acv": 1100,
+    "opsi": false,
+    "boss": {
+      "id": 16503302,
+      "hull": 4,
+      "nation": 99,
+      "name": "Mechanicus Harbinger - Famine",
+      "stats": {
+        "hp": 96200,
+        "fp": 280,
+        "trp": 150,
+        "avi": 0,
+        "aa": 260,
+        "hit": 71,
+        "eva": 33,
+        "spd": 35,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shenpanjijia_jihuang",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1713113,
+    "dungeon_id": 1713113,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1832
+  },
+  "2100572_d3_16503303": {
+    "name": "Revelations of Dust-D3 - War Archive",
+    "acv": 1410,
+    "opsi": false,
+    "boss": {
+      "id": 16503303,
+      "hull": 4,
+      "nation": 99,
+      "name": "Mechanicus Harbinger - War",
+      "stats": {
+        "hp": 115000,
+        "fp": 300,
+        "trp": 180,
+        "avi": 0,
+        "aa": 460,
+        "hit": 52,
+        "eva": 40,
+        "spd": 30,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shenpanjijia_zhanzheng",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1713213,
+    "dungeon_id": 1713213,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1833
   }
 }

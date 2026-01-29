@@ -1113,6 +1113,18 @@
         "name": "Elite Pool",
         "items": [
           {
+            "id": 585,
+            "type": 2,
+            "amount": -1,
+            "blueprint": false,
+            "linkable": true,
+            "rarity": 4,
+            "icon": "ships/compact/yingxiong",
+            "name": "Hero",
+            "limit": -1,
+            "cost": 8000
+          },
+          {
             "id": 573,
             "type": 2,
             "amount": -1,
@@ -1973,6 +1985,20 @@
         "name": "Plum-Petal Poetry",
         "limit": 2,
         "cost": 800,
+        "limit_type": 1
+      },
+      {
+        "id": 150240,
+        "level": 0,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/150240",
+        "name": "Huan Ch'ang's Fishing Rod",
+        "limit": 2,
+        "cost": 500,
         "limit_type": 1
       },
       {
@@ -7494,6 +7520,19 @@
         "limit_type": 1
       },
       {
+        "id": 30022,
+        "type": 2,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 4,
+        "icon": "ships/compact/zaoshen_alter",
+        "name": "Vestal META",
+        "limit": 1,
+        "cost": 60,
+        "limit_type": 1
+      },
+      {
         "id": 30020,
         "type": 2,
         "amount": 1,
@@ -7567,6 +7606,19 @@
         "blueprint": false,
         "icon": "props/21010",
         "name": "META Crystal - Yamashiro",
+        "limit": 4,
+        "cost": 30,
+        "limit_type": 1
+      },
+      {
+        "id": 21022,
+        "type": 0,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "props/21022",
+        "name": "META Crystal - Vestal",
         "limit": 4,
         "cost": 30,
         "limit_type": 1
@@ -8096,6 +8148,20 @@
     "icon_rarity": 5,
     "items": [
       {
+        "id": 307026,
+        "type": 3,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "ships/compact/jiahe_7",
+        "name": "Snowsilk Fox Dance",
+        "limit": 1,
+        "cost": 880,
+        "limit_type": 1,
+        "ship_id": 225
+      },
+      {
         "id": 901033,
         "type": 3,
         "linkable": true,
@@ -8234,6 +8300,66 @@
         "cost": 880,
         "limit_type": 1,
         "ship_id": 37
+      },
+      {
+        "id": 2039,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96512",
+        "name": "Fireball Shell",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
+      },
+      {
+        "id": 2040,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96513",
+        "name": "Lightning Shell",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
+      },
+      {
+        "id": 2041,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96514",
+        "name": "Rainbow Ray Shell",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
+      },
+      {
+        "id": 2042,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96521",
+        "name": "Wave Torpedo",
+        "limit": 9,
+        "cost": 100,
+        "limit_group": 1,
+        "group_limit": 4,
+        "limit_type": 1
       },
       {
         "id": 2001,
@@ -23569,6 +23695,10 @@
       [
         1735801200000,
         1740553199000
+      ],
+      [
+        1769670000000,
+        1774594799000
       ]
     ]
   },
