@@ -1,3 +1,37 @@
+# Notice
+Due to a lack of interest in both the game and datamining
+not all of the data provided here will be updated going forward.
+
+The following will still be updated:
+- ships, ships\_words, ship\_retro_cost
+- skills
+- augments, augment\_cost
+- equipments, equip\_upgrade\_cost, default\_equips
+- fleet\_tech\_sort
+- skins
+
+The following will occasionally update:
+- cruise\_passes
+- equip\_drops
+- ship\_drops
+- gear\_lab
+- gear\_skins
+- items
+- maps
+- meowfficers, meowfficer\_abilities
+- tech\_groups
+
+The following will NOT be updated at all:
+- any and all island content
+- any and all dorm3d content
+- barrages
+- juu\_chats, juu\_profiles
+- shops
+- special\_weapons
+- special\_secretaries
+- research\_projects
+
+
 # Intro
 
 This repository contains data that
