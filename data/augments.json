@@ -13615,6 +13615,142 @@
       "CN"
     ]
   },
+  "15020": {
+    "id": 15020,
+    "icon": "15020",
+    "name": "Georgia Beam!",
+    "limit_group": 20008,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902030
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 19160,
+        "with": 1019160
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Georgia's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "random": 5
+      },
+      {
+        "stat": "hit",
+        "values": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "15040": {
+    "id": 15040,
+    "icon": "15040",
+    "name": "Shirayuki's Snowbunny",
+    "limit_group": 152,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902300
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 14660,
+        "with": 1014660
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Shirayuki's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "eva",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "1010100": {
     "id": 1010100,
     "icon": "1010100",
