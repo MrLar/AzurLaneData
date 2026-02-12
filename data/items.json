@@ -1082,6 +1082,74 @@
       }
     ]
   },
+  "14008": {
+    "id": 14008,
+    "name": "Prototype Weapon Blueprint - Series 8",
+    "description": "Can be converted to one of the following SR gear blueprints:\nPrototype Triple 283mm/54.5 Main Gun Mount T0 Design\nPrototype Triple 406mm/45 MK7 Main Gun Mount T0 Design\nPrototype Sextuple 20mm Scotti Model 1941 Anti-Air Gun T0 Design\nPrototype Quadruple 533mm Si 270 Torpedo Mount T0 Design\nPrototype Triple 180mm B-1-P Model 1932 (Impr.) Main Gun Mount T0 Design",
+    "type": 13,
+    "icon": "props/14008",
+    "rarity": 5,
+    "locations": [
+      "Prototype Shop"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 44420,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/44420",
+        "name": "Design for T0 Prototype Triple 283mm/54.5 Main Gun Mount"
+      },
+      {
+        "id": 14480,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/14480",
+        "name": "Design for T0 Prototype Triple 406mm/45 MK7 Main Gun Mount"
+      },
+      {
+        "id": 96260,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/56260",
+        "name": "Design for T0 Prototype Sextuple 20mm Scotti Model 1941 Anti-Air Gun"
+      },
+      {
+        "id": 96280,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/56280",
+        "name": "Design for T0 Prototype Quadruple 533mm Si 270 Torpedo Mount"
+      },
+      {
+        "id": 85640,
+        "type": 1,
+        "linkable": true,
+        "rarity": 5,
+        "amount": 1,
+        "blueprint": true,
+        "icon": "equips/85640",
+        "name": "Design for T0 Prototype Triple 180mm B-1-P Model 1932 (Impr.) Main Gun Mount"
+      }
+    ]
+  },
   "15001": {
     "id": 15001,
     "name": "Medal of Honor",
@@ -3260,6 +3328,23 @@
     "rarity": 5,
     "locations": [
       "PR Catch Up (Series 6)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "20107": {
+    "id": 20107,
+    "name": "Combat Data Pack - Series 7",
+    "description": "A compilation of experimental data from the Research Department, can be used to add 10,000 EXP towards PR Series 7 Combat Data Collection missions. ￼(Can be converted into Prototype Cores).￼",
+    "type": 18,
+    "icon": "props/20107",
+    "rarity": 5,
+    "locations": [
+      "PR Catch Up (Series 7)"
     ],
     "servers": [
       "EN",
@@ -32595,6 +32680,23 @@
       }
     ]
   },
+  "30380": {
+    "id": 30380,
+    "name": "Gear Skin Box (Spring Festival Auction)",
+    "description": "Contains a random Spring Festival Auction-themed gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxxinchunpaimaihui",
+    "rarity": 5,
+    "locations": [
+      "Spring Auction Adventure"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "30401": {
     "id": 30401,
     "name": "Random Gear Skin Box (Cruise Series 3)",
@@ -46795,6 +46897,23 @@
         "name": "Manjuu Poster (Bomber)"
       }
     ]
+  },
+  "30564": {
+    "id": 30564,
+    "name": "Selection Gear Skin Box (Spring Festival Auction)",
+    "description": "Can be opened to receive 1 Spring Festival Auction-themed gear skin of your choosing.",
+    "type": 13,
+    "icon": "props/appearanceboxxinchunpaimaihuizixuan",
+    "rarity": 5,
+    "locations": [
+      "Spring Auction Adventure"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
   },
   "30911": {
     "id": 30911,
@@ -63174,6 +63293,23 @@
     "rarity": 5,
     "locations": [
       "Island Planner"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "180010": {
+    "id": 180010,
+    "name": "Lovely Mystery Box",
+    "description": "A present packed to the seams with love. Open to receive a random Affinity-increasing gift (excluding rare gifts).",
+    "type": 1,
+    "icon": "props/giftbox01",
+    "rarity": 5,
+    "locations": [
+      "Valentines 2026"
     ],
     "servers": [
       "EN",

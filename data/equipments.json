@@ -133167,5 +133167,172 @@
       "JP",
       "CN"
     ]
+  },
+  "150960": {
+    "icon": "150960",
+    "id": 150960,
+    "name": "Auction Invitation",
+    "rarity": 4,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      61010
+    ],
+    "nation": 5,
+    "limit_group": 150960,
+    "hull_restriction": [],
+    "max": 11,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      {
+        "stat": "hp",
+        "values": [
+          100,
+          105,
+          110,
+          115,
+          120,
+          125,
+          135,
+          150,
+          160,
+          170,
+          180,
+          190
+        ]
+      }
+    ],
+    "labels": [
+      "pran",
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "150980": {
+    "icon": "150980",
+    "id": 150980,
+    "name": "Butterflies Playing with Bamboo",
+    "rarity": 4,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      61020
+    ],
+    "nation": 5,
+    "limit_group": 150980,
+    "hull_restriction": [],
+    "max": 11,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          200,
+          230,
+          260,
+          290,
+          320,
+          350,
+          380,
+          410,
+          440,
+          470,
+          500,
+          530
+        ]
+      }
+    ],
+    "labels": [
+      "pran",
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "151000": {
+    "icon": "151000",
+    "id": 151000,
+    "name": "Butterflies Fluttering Among Plums",
+    "rarity": 4,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      61030
+    ],
+    "nation": 5,
+    "limit_group": 151000,
+    "hull_restriction": [],
+    "max": 11,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          200,
+          230,
+          260,
+          290,
+          320,
+          350,
+          380,
+          410,
+          440,
+          470,
+          500,
+          530
+        ]
+      }
+    ],
+    "labels": [
+      "pran",
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
   }
 }
