@@ -75038,5 +75038,205 @@
     "time_limit": 180,
     "type": 16,
     "id": 1833
+  },
+  "raid_1999901_16814901": {
+    "name": "Spring Auction Adventure (Easy)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16814901,
+      "hull": 1,
+      "nation": 5,
+      "name": "Fei Yuen",
+      "stats": {
+        "hp": 7200,
+        "fp": 20,
+        "trp": 92,
+        "avi": 0,
+        "aa": 109,
+        "hit": 20,
+        "eva": 31,
+        "spd": 30,
+        "luck": 10,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "feiyun",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999901,
+    "dungeon_id": 1999901,
+    "time_limit": 180,
+    "type": 17,
+    "id": 1834
+  },
+  "raid_1999902_16814902": {
+    "name": "Spring Auction Adventure (Normal)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16814902,
+      "hull": 15,
+      "nation": 5,
+      "name": "Ting An",
+      "stats": {
+        "hp": 23600,
+        "fp": 140,
+        "trp": 0,
+        "avi": 105,
+        "aa": 240,
+        "hit": 24,
+        "eva": 26,
+        "spd": 16,
+        "luck": 8,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 50,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "dingan",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999902,
+    "dungeon_id": 1999902,
+    "time_limit": 180,
+    "type": 17,
+    "id": 1835
+  },
+  "raid_1999903_16814903": {
+    "name": "Spring Auction Adventure (Hard)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16814903,
+      "hull": 2,
+      "nation": 5,
+      "name": "Hai Chou",
+      "stats": {
+        "hp": 90000,
+        "fp": 198,
+        "trp": 0,
+        "avi": 0,
+        "aa": 300,
+        "hit": 58,
+        "eva": 46,
+        "spd": 27,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 90,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "haichou",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999903,
+    "dungeon_id": 1999903,
+    "time_limit": 180,
+    "type": 17,
+    "id": 1836
+  },
+  "raid_1999904_16814904": {
+    "name": "Spring Auction Adventure (EX)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16814904,
+      "hull": 3,
+      "nation": 5,
+      "name": "Chang Wu",
+      "stats": {
+        "hp": 550000,
+        "fp": 218,
+        "trp": 188,
+        "avi": 0,
+        "aa": 320,
+        "hit": 76,
+        "eva": 50,
+        "spd": 27,
+        "luck": 50,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 128,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "zhangwu",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999904,
+    "dungeon_id": 1999904,
+    "time_limit": 60,
+    "type": 17,
+    "id": 1837
+  },
+  "raid_1999905_16814904": {
+    "name": "Spring Auction Adventure (Custom)",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 16814904,
+      "hull": 3,
+      "nation": 5,
+      "name": "Chang Wu",
+      "stats": {
+        "hp": 550000,
+        "fp": 218,
+        "trp": 188,
+        "avi": 0,
+        "aa": 320,
+        "hit": 76,
+        "eva": 50,
+        "spd": 27,
+        "luck": 50,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 128,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "zhangwu",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1999905,
+    "dungeon_id": 1999905,
+    "time_limit": 300,
+    "type": 17,
+    "id": 1838
   }
 }
