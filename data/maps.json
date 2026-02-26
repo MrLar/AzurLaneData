@@ -75238,5 +75238,605 @@
     "time_limit": 300,
     "type": 17,
     "id": 1838
+  },
+  "2000001_a1_16820301": {
+    "name": "Springtide Inn Online-A1",
+    "acv": 100,
+    "opsi": false,
+    "boss": {
+      "id": 16820301,
+      "hull": 2,
+      "nation": 5,
+      "name": "Ping Hai",
+      "stats": {
+        "hp": 3600,
+        "fp": 60,
+        "trp": 40,
+        "avi": 0,
+        "aa": 125,
+        "hit": 19,
+        "eva": 15,
+        "spd": 20,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 25,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "pinghai_8",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2000013,
+    "dungeon_id": 2000013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1839
+  },
+  "2000001_a2_16820302": {
+    "name": "Springtide Inn Online-A2",
+    "acv": 130,
+    "opsi": false,
+    "boss": {
+      "id": 16820302,
+      "hull": 2,
+      "nation": 5,
+      "name": "Ning Hai",
+      "stats": {
+        "hp": 5600,
+        "fp": 75,
+        "trp": 50,
+        "avi": 0,
+        "aa": 125,
+        "hit": 20,
+        "eva": 20,
+        "spd": 18,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "ninghai_8",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2000113,
+    "dungeon_id": 2000113,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1840
+  },
+  "2000001_a3_16820303": {
+    "name": "Springtide Inn Online-A3",
+    "acv": 165,
+    "opsi": false,
+    "boss": {
+      "id": 16820303,
+      "hull": 2,
+      "nation": 7,
+      "name": "Krasny Kavkaz",
+      "stats": {
+        "hp": 7200,
+        "fp": 90,
+        "trp": 60,
+        "avi": 0,
+        "aa": 125,
+        "hit": 21,
+        "eva": 16,
+        "spd": 20,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "hongseshanmai_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2000213,
+    "dungeon_id": 2000213,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1841
+  },
+  "2000002_b1_16821301": {
+    "name": "Springtide Inn Online-B1",
+    "acv": 210,
+    "opsi": false,
+    "boss": {
+      "id": 16821301,
+      "hull": 1,
+      "nation": 1,
+      "name": "Clarence K. Bronson",
+      "stats": {
+        "hp": 12400,
+        "fp": 64,
+        "trp": 235,
+        "avi": 0,
+        "aa": 95,
+        "hit": 23,
+        "eva": 28,
+        "spd": 20,
+        "luck": 8,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 45,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "kelalunsi",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2001013,
+    "dungeon_id": 2001013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1842
+  },
+  "2000002_b2_16821302": {
+    "name": "Springtide Inn Online-B2",
+    "acv": 270,
+    "opsi": false,
+    "boss": {
+      "id": 16821302,
+      "hull": 2,
+      "nation": 7,
+      "name": "Bogatyr",
+      "stats": {
+        "hp": 20680,
+        "fp": 120,
+        "trp": 180,
+        "avi": 0,
+        "aa": 260,
+        "hit": 40,
+        "eva": 45,
+        "spd": 20,
+        "luck": 18,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 55,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "bojiateli_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2001113,
+    "dungeon_id": 2001113,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1843
+  },
+  "2000002_b3_16821303": {
+    "name": "Springtide Inn Online-B3",
+    "acv": 330,
+    "opsi": false,
+    "boss": {
+      "id": 16821303,
+      "hull": 10,
+      "nation": 1,
+      "name": "Kearsarge",
+      "stats": {
+        "hp": 25600,
+        "fp": 150,
+        "trp": 0,
+        "avi": 105,
+        "aa": 240,
+        "hit": 26,
+        "eva": 27,
+        "spd": 16,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qiershazhi_3",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2001213,
+    "dungeon_id": 2001213,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1844
+  },
+  "2000011_c1_16822301": {
+    "name": "Springtide Inn Online-C1",
+    "acv": 455,
+    "opsi": false,
+    "boss": {
+      "id": 16822301,
+      "hull": 2,
+      "nation": 5,
+      "name": "Ping Hai",
+      "stats": {
+        "hp": 29600,
+        "fp": 180,
+        "trp": 145,
+        "avi": 0,
+        "aa": 235,
+        "hit": 41,
+        "eva": 49,
+        "spd": 20,
+        "luck": 18,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 75,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "pinghai_8",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2002013,
+    "dungeon_id": 2002013,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1845
+  },
+  "2000011_c2_16822302": {
+    "name": "Springtide Inn Online-C2",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "id": 16822302,
+      "hull": 2,
+      "nation": 5,
+      "name": "Ning Hai",
+      "stats": {
+        "hp": 36500,
+        "fp": 200,
+        "trp": 150,
+        "avi": 0,
+        "aa": 256,
+        "hit": 46,
+        "eva": 53,
+        "spd": 18,
+        "luck": 18,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "ninghai_8",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2002113,
+    "dungeon_id": 2002113,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1846
+  },
+  "2000011_c3_16822303": {
+    "name": "Springtide Inn Online-C3",
+    "acv": 775,
+    "opsi": false,
+    "boss": {
+      "id": 16822303,
+      "hull": 2,
+      "nation": 7,
+      "name": "Krasny Kavkaz",
+      "stats": {
+        "hp": 47800,
+        "fp": 220,
+        "trp": 156,
+        "avi": 0,
+        "aa": 284,
+        "hit": 40,
+        "eva": 44,
+        "spd": 18,
+        "luck": 18,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 85,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "hongseshanmai_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2002213,
+    "dungeon_id": 2002213,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1847
+  },
+  "2000012_d1_16823301": {
+    "name": "Springtide Inn Online-D1",
+    "acv": 850,
+    "opsi": false,
+    "boss": {
+      "id": 16823301,
+      "hull": 1,
+      "nation": 1,
+      "name": "Clarence K. Bronson",
+      "stats": {
+        "hp": 61500,
+        "fp": 198,
+        "trp": 260,
+        "avi": 0,
+        "aa": 350,
+        "hit": 52,
+        "eva": 48,
+        "spd": 20,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 95,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "kelalunsi",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2003013,
+    "dungeon_id": 2003013,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1848
+  },
+  "2000012_d2_16823302": {
+    "name": "Springtide Inn Online-D2",
+    "acv": 1100,
+    "opsi": false,
+    "boss": {
+      "id": 16823302,
+      "hull": 2,
+      "nation": 7,
+      "name": "Bogatyr",
+      "stats": {
+        "hp": 89250,
+        "fp": 198,
+        "trp": 260,
+        "avi": 0,
+        "aa": 350,
+        "hit": 43,
+        "eva": 41,
+        "spd": 18,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "bojiateli_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2003113,
+    "dungeon_id": 2003113,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1849
+  },
+  "2000012_d3_16823303": {
+    "name": "Springtide Inn Online-D3",
+    "acv": 1410,
+    "opsi": false,
+    "boss": {
+      "id": 16823303,
+      "hull": 10,
+      "nation": 1,
+      "name": "Kearsarge",
+      "stats": {
+        "hp": 115000,
+        "fp": 280,
+        "trp": 0,
+        "avi": 210,
+        "aa": 460,
+        "hit": 52,
+        "eva": 40,
+        "spd": 18,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qiershazhi_3",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2003213,
+    "dungeon_id": 2003213,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1850
+  },
+  "2000025_sp_16824301": {
+    "name": "Springtide Inn Online-SP",
+    "acv": 1820,
+    "opsi": false,
+    "boss": {
+      "id": 16824301,
+      "hull": 1,
+      "nation": 7,
+      "name": "Ozornoy",
+      "stats": {
+        "hp": 155000,
+        "fp": 230,
+        "trp": 280,
+        "avi": 0,
+        "aa": 440,
+        "hit": 71,
+        "eva": 60,
+        "spd": 30,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "wanpi_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2004013,
+    "dungeon_id": 2004013,
+    "time_limit": 180,
+    "type": 5,
+    "id": 1851
+  },
+  "2000026_extra_16825001": {
+    "name": "Springtide Inn Online-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16825001,
+      "hull": 3,
+      "nation": 7,
+      "name": "Moskva",
+      "stats": {
+        "hp": 1360000,
+        "fp": 400,
+        "trp": 400,
+        "avi": 400,
+        "aa": 400,
+        "hit": 120,
+        "eva": 0,
+        "spd": 25,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "mosike_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2005001,
+    "dungeon_id": 2005001,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1852
+  },
+  "2000026_extra_16825101": {
+    "name": "Springtide Inn Online-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16825101,
+      "hull": 3,
+      "nation": 7,
+      "name": "Moskva",
+      "stats": {
+        "hp": 1360000,
+        "fp": 800,
+        "trp": 800,
+        "avi": 800,
+        "aa": 600,
+        "hit": 9999,
+        "eva": 0,
+        "spd": 25,
+        "luck": 99,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "mosike_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2005002,
+    "dungeon_id": 2005002,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1853
   }
 }

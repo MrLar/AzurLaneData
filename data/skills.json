@@ -30458,7 +30458,7 @@
     "max": 10,
     "id": 17970,
     "type": 1,
-    "icon": 10320,
+    "icon": 17970,
     "values": [
       [
         "40.0%",
@@ -37690,6 +37690,26 @@
     "icon": 20100,
     "values": []
   },
+  "26121": {
+    "description": "Activates All Out Assault I: Admiral Nakhimov-class once every 12 times the Main Guns are fired.",
+    "opsi_description": null,
+    "name": "All Out Assault I",
+    "max": 1,
+    "id": 26121,
+    "type": 1,
+    "icon": 20100,
+    "values": []
+  },
+  "26122": {
+    "description": "Activates All Out Assault II: Admiral Nakhimov-class once every 8 times the Main Guns are fired.",
+    "opsi_description": null,
+    "name": "All Out Assault II",
+    "max": 1,
+    "id": 26122,
+    "type": 1,
+    "icon": 20100,
+    "values": []
+  },
   "26211": {
     "description": "Activates All Out Assault: Tallinn I  every 9 times the Main Guns are fired.",
     "opsi_description": null,
@@ -40918,6 +40938,46 @@
     "id": 30572,
     "type": 1,
     "icon": 30570,
+    "values": []
+  },
+  "30581": {
+    "description": "Activates All Out Assault I: Ozornoy once every 15 times the Main Guns are fired.",
+    "opsi_description": null,
+    "name": "All Out Assault I",
+    "max": 1,
+    "id": 30581,
+    "type": 1,
+    "icon": 30580,
+    "values": []
+  },
+  "30582": {
+    "description": "Activates All Out Assault II: Ozornoy and, with a 50.0% chance, increases this ship's FP by 20.0% for 10s once every 10 times the Main Guns are fired.",
+    "opsi_description": null,
+    "name": "All Out Assault II",
+    "max": 1,
+    "id": 30582,
+    "type": 1,
+    "icon": 30580,
+    "values": []
+  },
+  "30591": {
+    "description": "Activates All Out Assault I: Moskva once every 12 times the Main Guns are fired.",
+    "opsi_description": null,
+    "name": "All Out Assault I",
+    "max": 1,
+    "id": 30591,
+    "type": 1,
+    "icon": 30590,
+    "values": []
+  },
+  "30592": {
+    "description": "Activates All Out Assault II: Moskva once every 8 times the Main Guns are fired. If this ship has Northern Parliament gear equipped: the shells fired by this ship's Main and Secondary Guns ignore shields.",
+    "opsi_description": null,
+    "name": "All Out Assault II",
+    "max": 1,
+    "id": 30592,
+    "type": 1,
+    "icon": 30590,
     "values": []
   },
   "60100": {
@@ -58095,6 +58155,76 @@
       ]
     ]
   },
+  "152060": {
+    "description": "Each battle, when this ship fires her first wave of torpedoes, if there is another Northern Parliament ship in your fleet, the following effects apply:\n1) This ship gains the effects of the skill Full Firepower (every 20s: $1 chance to increase this ship's FP by $2 for 10s) and this skill's effect immediately activates with a 100.0% chance;\n2) Every 10s: 70.0% chance to fire a $3 special barrage at a random enemy (DMG is based on the skill's level; prioritizes humanoid enemies). 3s after this effect activates, if that enemy is still afloat: activate this barrage again (this effect can only activate 2 times every 10s).",
+    "opsi_description": null,
+    "name": "I'll Handle This!",
+    "max": 10,
+    "id": 152060,
+    "type": 1,
+    "icon": 152060,
+    "values": [
+      [
+        "30.0%",
+        "33.3%",
+        "36.6%",
+        "39.9%",
+        "43.2%",
+        "46.5%",
+        "49.8%",
+        "53.1%",
+        "56.4%",
+        "60.0%"
+      ],
+      [
+        "20.0%",
+        "22.2%",
+        "24.4%",
+        "26.6%",
+        "28.8%",
+        "31.0%",
+        "33.2%",
+        "35.4%",
+        "37.6%",
+        "40.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "152070": {
+    "description": "When the battle starts, the following effects apply:\n1) Increases this ship's FP by $1 and DMG dealt by 5.0% until the battle ends;\n2) Deploys a barrier that can negate DMG equal to 15.0% of this ship's max HP. If this barrier is destroyed: performs a special slashing attack (DMG and range are based on the skill's level) and increases this ship's DMG dealt by 5.0% until the battle ends.",
+    "opsi_description": null,
+    "name": "I'll Whoop You!",
+    "max": 10,
+    "id": 152070,
+    "type": 2,
+    "icon": 152070,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ]
+    ]
+  },
   "152080": {
     "description": "At the start of the battle, and when this ship sinks an enemy: all your ships gain 1 stack of Coarse Jade; when any other ship in your fleet sinks an enemy, that ship gains 1 stack of Coarse Jade.\nEach ship can gain up to 10 stacks of Coarse Jade, and for each stack, that ship's DMG dealt increases by 1.0%. When a ship reaches 10 stacks of Coarse Jade, that ship gains the Fine Jade status; Fine Jade increases the recipient's Crit Rate by $1 and Crit DMG by $2; if the recipient is a Dragon Empery ship, it further increases their Crit Rate by $3 and Crit DMG by $1.\nWhen the battle starts, if there are 3 or more Dragon Empery ships in your fleet, this ship gains 10 stacks of Coarse Jade and receives the Fine Jade status.",
     "opsi_description": null,
@@ -58186,6 +58316,88 @@
         "1.95%",
         "2.2%",
         "2.5%"
+      ]
+    ]
+  },
+  "152100": {
+    "description": "When the battle starts, and every 15s: summons $1 Robot Companions to participate in the battle for 12s; increases this ship's DMG dealt by $2 and decreases her DMG taken by $3 for every Robot Companion on the field.",
+    "opsi_description": null,
+    "name": "Atomic Core",
+    "max": 10,
+    "id": 152100,
+    "type": 2,
+    "icon": 152100,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%"
+      ],
+      [
+        "1.0%",
+        "1.4%",
+        "1.8%",
+        "2.2%",
+        "2.6%",
+        "3.0%",
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%"
+      ]
+    ]
+  },
+  "152110": {
+    "description": "Increases this ship's FP, TRP, and EVA by $1. Every 20s: fires a $2 special barrage (DMG is based on the skill's level). Once per battle, when this ship's HP falls below 20.0% as a result of DMG taken: restores 1.0% of this ship's HP every second for 10s.",
+    "opsi_description": null,
+    "name": "Numbers Must Go Up",
+    "max": 10,
+    "id": 152110,
+    "type": 3,
+    "icon": 152110,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
       ]
     ]
   },
@@ -58316,6 +58528,217 @@
         "8.6%",
         "9.2%",
         "10.0%"
+      ]
+    ]
+  },
+  "152140": {
+    "description": "Increases this ship's FP and EVA by $1. Every 2 times this ship fires her Main Guns: inflicts Frostshred on a random enemy; only 1 instance of Frostshred can exist on an enemy at a time, and if another instance is applied, the existing one will be removed; when the enemy with Frostshred is sunk, Frostshred is applied to the enemy closest to that enemy. Decreases this ship's and your Flagship's shelling DMG taken from the enemy with Frostshred by $2.",
+    "opsi_description": null,
+    "name": "Frost-Shredding Blade",
+    "max": 10,
+    "id": 152140,
+    "type": 3,
+    "icon": 152140,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ]
+    ]
+  },
+  "152150": {
+    "description": "During battle, while Moskva is afloat, when another Northern Parliament Surface Fleet ship takes DMG that would sink her, the other ship does not sink, evades that instance of DMG, and gains the Unyielding Valor status for 8s. Unyielding Valor does the following:\n1) Decreases the target's DMG taken by $1, which is tanked by Moskva instead;\n2) Increases the target's ACC by $2;\n3) When the status expires, or if Moskva is sunk, the target sinks;\nFor every ship with the Unyielding Valor status, Moskva's DMG taken (excluding the DMG she tanks) is decreased by $3 (can be stacked up to 3 times). When the battle ends, all ships with the Unyielding Valor recover $4 of their max HP.",
+    "opsi_description": null,
+    "name": "Unyielding Valor",
+    "max": 10,
+    "id": 152150,
+    "type": 2,
+    "icon": 152150,
+    "values": [
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "4.0%",
+        "4.6%",
+        "5.2%",
+        "6.0%",
+        "6.6%",
+        "7.2%",
+        "8.0%",
+        "8.6%",
+        "9.2%",
+        "10.0%"
+      ]
+    ]
+  },
+  "152160": {
+    "description": "Increases your fleet's AA Gun Range by 5. When the battle starts, and every 8s: performs a $1 special attack (DMG is based on the skill's level); enemies hit even once by this attack have their AA and SPD decreased by 5.0% until the battle ends. While this ship is afloat, when a fleet this ship is NOT in begins a battle: provides a $1 supporting attack every 8s (DMG is based on the skill's level; can activate up to 2 times per battle).",
+    "opsi_description": null,
+    "name": "Frozen Fortress",
+    "max": 10,
+    "id": 152160,
+    "type": 1,
+    "icon": 152160,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "152170": {
+    "description": "Increases this ship's FP and ACC by $1. When this ship fires her Main Guns: $2 chance to deal double the DMG. Every 10s: fires a $3 special barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Retribution by Cannonfire",
+    "max": 10,
+    "id": 152170,
+    "type": 1,
+    "icon": 152170,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "15.0%",
+        "16.6%",
+        "18.2%",
+        "19.8%",
+        "21.4%",
+        "23.0%",
+        "24.6%",
+        "26.4%",
+        "28.2%",
+        "30.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "152180": {
+    "description": "When this ship takes DMG: $1 chance to decrease that instance of DMG taken by $2. Once per battle, when this ship's HP falls below 20.0% as a result of DMG taken: restores $3 of this ship's max HP.",
+    "opsi_description": null,
+    "name": "Unfeeling Protector",
+    "max": 10,
+    "id": 152180,
+    "type": 2,
+    "icon": 152180,
+    "values": [
+      [
+        "10.0%",
+        "12.2%",
+        "14.4%",
+        "16.6%",
+        "18.8%",
+        "21.0%",
+        "23.2%",
+        "25.4%",
+        "27.6%",
+        "30.0%"
+      ],
+      [
+        "20.0%",
+        "22.4%",
+        "24.8%",
+        "28.0%",
+        "31.0%",
+        "34.0%",
+        "38.0%",
+        "41.6%",
+        "45.2%",
+        "50.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
       ]
     ]
   },
@@ -64956,6 +65379,96 @@
     "id": 802072,
     "type": 1,
     "icon": 802070,
+    "values": []
+  },
+  "802080": {
+    "description": "Increases this ship's FP and RLD by $1. When this ship fires her Main Guns: 70.0% chance to fire a $2 special barrage (DMG is based on the skill's level). After this barrage has been fired 2 times, the following effect applies: this barrage is improved and its activation chance increases to 100.0%.",
+    "opsi_description": null,
+    "name": "She Who Salutes War",
+    "max": 10,
+    "id": 802080,
+    "type": 1,
+    "icon": 802080,
+    "values": [
+      [
+        "6.0%",
+        "7.3%",
+        "8.6%",
+        "9.9%",
+        "11.2%",
+        "12.5%",
+        "13.8%",
+        "15.2%",
+        "16.6%",
+        "18.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "802090": {
+    "description": "While this ship's HP is above 30.0%, her DMG dealt increases by $1; while her HP is below 30.0%, her DMG taken decreases by $1. When this ship's first Main Gun volley has finished loading, this ship gains the Ready to Intercept status: each time this ship sinks an enemy, she gains 1 stack of Enemy Eliminated (max stack: 3); when this ship has 3 stacks of Enemy Eliminated, she loses the Ready to Intercept status, and the loading time of her next Main Gun volley is decreased by $2. The Ready to Intercept status can be gained up to 4 times per battle.",
+    "opsi_description": null,
+    "name": "She Who Stands Ready",
+    "max": 10,
+    "id": 802090,
+    "type": 2,
+    "icon": 802090,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "20.0%",
+        "21.6%",
+        "23.2%",
+        "24.8%",
+        "26.4%",
+        "28.0%",
+        "29.6%",
+        "31.4%",
+        "33.2%",
+        "35.0%"
+      ]
+    ]
+  },
+  "802101": {
+    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "opsi_description": null,
+    "name": "Cinders of Hope - Gangut I",
+    "max": 1,
+    "id": 802101,
+    "type": 1,
+    "icon": 802100,
+    "values": []
+  },
+  "802102": {
+    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "opsi_description": null,
+    "name": "Cinders of Hope - Gangut II",
+    "max": 1,
+    "id": 802102,
+    "type": 1,
+    "icon": 802100,
     "values": []
   },
   "901010": {

@@ -19593,14 +19593,14 @@
     ],
     "rarity": 4,
     "theme": "Misc",
-    "description": "Get the discount now, place your order at half the price!",
+    "description": "You get a discount! And you get a discount! And you get a discount!",
     "servers": [
       "EN"
     ]
   },
   "3056": {
     "id": 3056,
-    "name": "Shopping Signpost Torpedo",
+    "name": "Sale Arrow Torpedo",
     "icon": "99177",
     "types": [
       5,
@@ -19608,14 +19608,14 @@
     ],
     "rarity": 4,
     "theme": "Misc",
-    "description": "Follow the signpost to redeem your prizes!",
+    "description": "Half off? Yeah, it tends to do that to you.",
     "servers": [
       "EN"
     ]
   },
   "3057": {
     "id": 3057,
-    "name": "Shopping Giftbox Shell",
+    "name": "Gift Box Shell",
     "icon": "99178",
     "types": [
       4,
@@ -19623,7 +19623,7 @@
     ],
     "rarity": 4,
     "theme": "Misc",
-    "description": "No shortage of gift boxes—the discounts keep coming.",
+    "description": "With prices like these, you can shower even your foes in gifts!",
     "servers": [
       "EN"
     ]
@@ -19637,7 +19637,7 @@
     ],
     "rarity": 4,
     "theme": "Misc",
-    "description": "Ding dong! Thank you for your patronage!",
+    "description": "Ding-ding-ding! Thank you for your patronage!",
     "servers": [
       "EN"
     ]
@@ -19655,6 +19655,7 @@
     "theme": "Misc",
     "description": "Get the discount now, place your order at half the price!",
     "servers": [
+      "JP",
       "CN"
     ]
   },
@@ -19670,6 +19671,7 @@
     "theme": "Misc",
     "description": "Follow the signpost to redeem your prizes!",
     "servers": [
+      "JP",
       "CN"
     ]
   },
@@ -19685,6 +19687,7 @@
     "theme": "Misc",
     "description": "No shortage of gift boxes—the discounts keep coming.",
     "servers": [
+      "JP",
       "CN"
     ]
   },
@@ -19699,6 +19702,7 @@
     "theme": "Misc",
     "description": "Ding dong! Thank you for your patronage!",
     "servers": [
+      "JP",
       "CN"
     ]
   },
@@ -19793,6 +19797,22 @@
     "rarity": 4,
     "theme": "Misc",
     "description": "Behold the might of overflowing passion!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "3069": {
+    "id": 3069,
+    "name": "Fire Horse Firework",
+    "icon": "99188",
+    "types": [
+      10
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Welcome the new year, and may luck shine upon you! Let the golden horse gallop onward, leaving good fortune in its wake!",
     "servers": [
       "EN",
       "JP",
@@ -24673,6 +24693,606 @@
     "rarity": 4,
     "theme": "Photo Vision",
     "description": "Splash with some stylish touches and pump some energy into the vibe!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4294": {
+    "id": 4294,
+    "name": "Square-Holed Qian Shell",
+    "icon": "101801",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Spring Festival Auction",
+    "description": "Cast in gold, passed down for millennia.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4295": {
+    "id": 4295,
+    "name": "Shining Frostmoon Shell",
+    "icon": "101802",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Spring Festival Auction",
+    "description": "A pure light, a hidden radiance.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4296": {
+    "id": 4296,
+    "name": "Exquisite Jadeite Ring Shell",
+    "icon": "101803",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Spring Festival Auction",
+    "description": "The ring hums softly, warm and smooth in your palm.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4297": {
+    "id": 4297,
+    "name": "Azure Knot Tassel Torpedo",
+    "icon": "101804",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Spring Festival Auction",
+    "description": "With each step, the tassels swing and sway.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4298": {
+    "id": 4298,
+    "name": "Highcloud Folding Fan Torpedo",
+    "icon": "101805",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Spring Festival Auction",
+    "description": "A blade upon each rib, golden clouds twirling betwixt your fingertips.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4299": {
+    "id": 4299,
+    "name": "Golden Hairpin Torpedo",
+    "icon": "101806",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Spring Festival Auction",
+    "description": "Lift your hair, becoming the waterfall from which elegance cascades.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4300": {
+    "id": 4300,
+    "name": "Virtuous Jade Disc Shell",
+    "icon": "101807",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Spring Festival Auction",
+    "description": "Elegant warmth, natural beauty.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4301": {
+    "id": 4301,
+    "name": "Incense Burner Shell",
+    "icon": "101808",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Spring Festival Auction",
+    "description": "Revel in the rich lushness of this aroma.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4302": {
+    "id": 4302,
+    "name": "Wishing Lantern Shell",
+    "icon": "101809",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Spring Festival Auction",
+    "description": "As the lights slowly rise, we entrust our wishes to the night sky.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4303": {
+    "id": 4303,
+    "name": "Plumed Moongaze (Torpedo)",
+    "icon": "101810",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Spring Festival Auction",
+    "description": "Through the plumed window, I gaze upon the bright moon.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4304": {
+    "id": 4304,
+    "name": "Plumed Moongaze (Fighter)",
+    "icon": "101810",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Spring Festival Auction",
+    "description": "Through the plumed window, I gaze upon the bright moon.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4305": {
+    "id": 4305,
+    "name": "Plumed Moongaze (Bomber)",
+    "icon": "101810",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Spring Festival Auction",
+    "description": "Through the plumed window, I gaze upon the bright moon.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4306": {
+    "id": 4306,
+    "name": "Ink Bamboo Scroll (Torpedo)",
+    "icon": "101811",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Spring Festival Auction",
+    "description": "Ink nourishes the scroll, and bamboo grows.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4307": {
+    "id": 4307,
+    "name": "Ink Bamboo Scroll (Fighter)",
+    "icon": "101811",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Spring Festival Auction",
+    "description": "Ink nourishes the scroll, and bamboo grows.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4308": {
+    "id": 4308,
+    "name": "Ink Bamboo Scroll (Bomber)",
+    "icon": "101811",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Spring Festival Auction",
+    "description": "Ink nourishes the scroll, and bamboo grows.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4309": {
+    "id": 4309,
+    "name": "Plum Blossom Fan (Torpedo)",
+    "icon": "101812",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Spring Festival Auction",
+    "description": "The fan unfolds, and blossoming plum branches stretch toward the sky.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4310": {
+    "id": 4310,
+    "name": "Plum Blossom Fan (Fighter)",
+    "icon": "101812",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Spring Festival Auction",
+    "description": "The fan unfolds, and blossoming plum branches stretch toward the sky.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4311": {
+    "id": 4311,
+    "name": "Plum Blossom Fan (Bomber)",
+    "icon": "101812",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Spring Festival Auction",
+    "description": "The fan unfolds, and blossoming plum branches stretch toward the sky.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4312": {
+    "id": 4312,
+    "name": "Black and White Go Stones Shell",
+    "icon": "101901",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Springtide Inn",
+    "description": "Sometimes, the never-ending duel between black and white spills out onto a different battlefield.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4313": {
+    "id": 4313,
+    "name": "Mahjong Tile Shell",
+    "icon": "101902",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Springtide Inn",
+    "description": "Seeing Red!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4314": {
+    "id": 4314,
+    "name": "New Year's Sachet Shell",
+    "icon": "101903",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Springtide Inn",
+    "description": "Fragrant herbs dwell within the auspicious characters interwoven by golden threads.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4315": {
+    "id": 4315,
+    "name": "Ink Bamboo Slip Torpedo",
+    "icon": "101904",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Springtide Inn",
+    "description": "True wisdom stands the test of time.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4316": {
+    "id": 4316,
+    "name": "Jade Flower Vase Tropedo",
+    "icon": "101905",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Springtide Inn",
+    "description": "Within this simple vase, the branches of a new year bloom.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4317": {
+    "id": 4317,
+    "name": "Embroidered Slippers Torpedo",
+    "icon": "101906",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Springtide Inn",
+    "description": "An aura of gentleness, steps as light as a feather.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4318": {
+    "id": 4318,
+    "name": "Go Stone Jar Shell",
+    "icon": "101907",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Springtide Inn",
+    "description": "All plans between heaven and earth start within.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4319": {
+    "id": 4319,
+    "name": "Brush Holder Shell",
+    "icon": "101908",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Springtide Inn",
+    "description": "A brief respite for the wolf-haired scribes of knowledge.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4320": {
+    "id": 4320,
+    "name": "Abacus of Wishes Shell",
+    "icon": "101909",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Springtide Inn",
+    "description": "Pearls fall, and wishes become reality.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4321": {
+    "id": 4321,
+    "name": "Pony of Whimsical Wonders Lantern(Torpedo)",
+    "icon": "101910",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Springtide Inn",
+    "description": "As robes of clouds flow, eyes reflect warm candlelight.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4322": {
+    "id": 4322,
+    "name": "Pony of Whimsical Wonders Lantern(Fighter)",
+    "icon": "101910",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Springtide Inn",
+    "description": "As robes of clouds flow, eyes reflect warm candlelight.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4323": {
+    "id": 4323,
+    "name": "Pony of Whimsical Wonders Lantern(Bomber)",
+    "icon": "101910",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Springtide Inn",
+    "description": "As robes of clouds flow, eyes reflect warm candlelight.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4324": {
+    "id": 4324,
+    "name": "Pony of Successful Stratagems Lantern(Torpedo)",
+    "icon": "101911",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Springtide Inn",
+    "description": "As the lamplight shifts, steps resound across the battlefield.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4325": {
+    "id": 4325,
+    "name": "Pony of Successful Stratagems Lantern(Fighter)",
+    "icon": "101911",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Springtide Inn",
+    "description": "As the lamplight shifts, steps resound across the battlefield.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4326": {
+    "id": 4326,
+    "name": "Pony of Successful Stratagems Lantern(Bomber)",
+    "icon": "101911",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Springtide Inn",
+    "description": "As the lamplight shifts, steps resound across the battlefield.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4327": {
+    "id": 4327,
+    "name": "Pony of Fulfilled Fortune Lantern(Torpedo)",
+    "icon": "101912",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Springtide Inn",
+    "description": "As the abacus clicks, wealth flows like a spring.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4328": {
+    "id": 4328,
+    "name": "Pony of Fulfilled Fortune Lantern(Fighter)",
+    "icon": "101912",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Springtide Inn",
+    "description": "As the abacus clicks, wealth flows like a spring.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4329": {
+    "id": 4329,
+    "name": "Pony of Fulfilled Fortune Lantern(Bomber)",
+    "icon": "101912",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Springtide Inn",
+    "description": "As the abacus clicks, wealth flows like a spring.",
     "servers": [
       "EN",
       "JP",
