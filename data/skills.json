@@ -58156,7 +58156,7 @@
     ]
   },
   "152060": {
-    "description": "Each battle, when this ship fires her first wave of torpedoes, if there is another Northern Parliament ship in your fleet, the following effects apply:\n1) This ship gains the effects of the skill Full Firepower (every 20s: $1 chance to increase this ship's FP by $2 for 10s) and this skill's effect immediately activates with a 100.0% chance;\n2) Every 10s: 70.0% chance to fire a $3 special barrage at a random enemy (DMG is based on the skill's level; prioritizes humanoid enemies). 3s after this effect activates, if that enemy is still afloat: activate this barrage again (this effect can only activate 2 times every 10s).",
+    "description": "Each battle, when this ship fires her first wave of torpedoes, if there is another Northern Parliament ship in your fleet, the following effects apply:\n• This ship gains the effects of the skill Full Firepower (every 20s: $1 chance to increase this ship's FP by $2 for 10s) and this skill's effect immediately activates with a 100.0% chance;\n\n• Every 10s: 70.0% chance to fire a $3 special barrage at a random enemy (DMG is based on the skill's level; prioritizes humanoid enemies). 3s after this effect activates, if that enemy is still afloat: activate this barrage again (this effect can only activate 2 times every 10s).",
     "opsi_description": null,
     "name": "I'll Handle This!",
     "max": 10,
@@ -58203,7 +58203,7 @@
     ]
   },
   "152070": {
-    "description": "When the battle starts, the following effects apply:\n1) Increases this ship's FP by $1 and DMG dealt by 5.0% until the battle ends;\n2) Deploys a barrier that can negate DMG equal to 15.0% of this ship's max HP. If this barrier is destroyed: performs a special slashing attack (DMG and range are based on the skill's level) and increases this ship's DMG dealt by 5.0% until the battle ends.",
+    "description": "When the battle starts, the following effects apply:\n• Increases this ship's FP by $1 and DMG dealt by 5.0% until the battle ends;\n• Deploys a barrier that can negate DMG equal to 15.0% of this ship's max HP. If this barrier is destroyed: performs a special slashing attack (DMG and range are based on the skill's level) and increases this ship's DMG dealt by 5.0% until the battle ends.",
     "opsi_description": null,
     "name": "I'll Whoop You!",
     "max": 10,
@@ -58567,7 +58567,7 @@
     ]
   },
   "152150": {
-    "description": "During battle, while Moskva is afloat, when another Northern Parliament Surface Fleet ship takes DMG that would sink her, the other ship does not sink, evades that instance of DMG, and gains the Unyielding Valor status for 8s. Unyielding Valor does the following:\n1) Decreases the target's DMG taken by $1, which is tanked by Moskva instead;\n2) Increases the target's ACC by $2;\n3) When the status expires, or if Moskva is sunk, the target sinks;\nFor every ship with the Unyielding Valor status, Moskva's DMG taken (excluding the DMG she tanks) is decreased by $3 (can be stacked up to 3 times). When the battle ends, all ships with the Unyielding Valor recover $4 of their max HP.",
+    "description": "During battle, while Moskva is afloat, when another Northern Parliament Surface Fleet ship takes DMG that would sink her, the other ship does not sink, evades that instance of DMG, and gains the Unyielding Valor status for 8s. Unyielding Valor does the following:\n• {Damage received by the target is reduced by 20.0% and then redirected entirely to Moskva.|The game words this in a very strange way that may imply that Moskva tanks the 20.0% but instead the damage is reduced by 20.0% and Moskva tanks all of what is left.};\n• Increases the target's ACC by {5.0%|This part of the skill is currently bugged and always applies its level 1 bonus.};\n• When the status expires, or if Moskva is sunk, the target sinks;\n\nFor every ship with the Unyielding Valor status, Moskva's DMG taken (excluding the DMG she tanks) is decreased by $3 (can be stacked up to 3 times). When the battle ends, all ships with the Unyielding Valor recover $4 of their max HP.",
     "opsi_description": null,
     "name": "Unyielding Valor",
     "max": 10,
@@ -58626,7 +58626,7 @@
     ]
   },
   "152160": {
-    "description": "Increases your fleet's AA Gun Range by 5. When the battle starts, and every 8s: performs a $1 special attack (DMG is based on the skill's level); enemies hit even once by this attack have their AA and SPD decreased by 5.0% until the battle ends. While this ship is afloat, when a fleet this ship is NOT in begins a battle: provides a $1 supporting attack every 8s (DMG is based on the skill's level; can activate up to 2 times per battle).",
+    "description": "Increases your fleet's {AA Gun Range|Does not affect Time Fuze AA.} by 5. When the battle starts, and every 8s: performs a $1 special attack (DMG is based on the skill's level); enemies hit even once by this attack have their AA and SPD decreased by 5.0% until the battle ends. While this ship is afloat, when a fleet this ship is NOT in begins a battle: provides a $1 supporting attack every 8s (DMG is based on the skill's level; can activate up to 2 times per battle).",
     "opsi_description": null,
     "name": "Frozen Fortress",
     "max": 10,
