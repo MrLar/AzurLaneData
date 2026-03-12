@@ -38185,7 +38185,7 @@
         "eva": 27,
         "spd": 16,
         "luck": 8,
-        "armor": 0
+        "armor": 1
       },
       "cld": [
         5.5,
@@ -38425,7 +38425,7 @@
         "eva": 54,
         "spd": 16,
         "luck": 25,
-        "armor": 0
+        "armor": 1
       },
       "cld": [
         5.5,
@@ -38465,7 +38465,7 @@
         "eva": 60,
         "spd": 18,
         "luck": 30,
-        "armor": 0
+        "armor": 1
       },
       "cld": [
         5.5,
@@ -38505,7 +38505,7 @@
         "eva": 60,
         "spd": 18,
         "luck": 30,
-        "armor": 0
+        "armor": 1
       },
       "cld": [
         5.5,
@@ -38545,7 +38545,7 @@
         "eva": 60,
         "spd": 18,
         "luck": 30,
-        "armor": 0
+        "armor": 1
       },
       "cld": [
         5.5,
@@ -38576,7 +38576,7 @@
       "nation": 97,
       "name": "Pamiat' Merkuria META",
       "stats": {
-        "hp": 1500000,
+        "hp": 1280000,
         "fp": 800,
         "trp": 800,
         "avi": 0,
@@ -38585,7 +38585,7 @@
         "eva": 0,
         "spd": 25,
         "luck": 0,
-        "armor": 0
+        "armor": 1
       },
       "cld": [
         5.5,
@@ -38616,7 +38616,7 @@
       "nation": 97,
       "name": "Pamiat' Merkuria META",
       "stats": {
-        "hp": 2000000,
+        "hp": 1600000,
         "fp": 200,
         "trp": 300,
         "avi": 0,
@@ -38625,7 +38625,7 @@
         "eva": 60,
         "spd": 25,
         "luck": 40,
-        "armor": 0
+        "armor": 1
       },
       "cld": [
         5.5,
@@ -75838,5 +75838,61 @@
     "time_limit": 300,
     "type": 6,
     "id": 1853
+  },
+  "meta_show_330_295330": {
+    "name": "Meta Showdown: Regensburg META",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 295330,
+      "hull": 2,
+      "nation": 97,
+      "name": "Regensburg META",
+      "stats": {
+        "hp": 1780000,
+        "fp": 302,
+        "trp": 312,
+        "avi": 0,
+        "aa": 350,
+        "hit": 110,
+        "eva": 75,
+        "spd": 30,
+        "luck": 50,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 126,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "leigensibao_alter",
+      "prio": 90
+    },
+    "buffs": [],
+    "buffs_display": [
+      [
+        {
+          "name": "Hunt of the Mighty",
+          "description": "When the battle starts, Regensburg META inflicts 1 stack of Hunt of the Mighty against the allied units with the highest FP, TRP, AVI, EVA, and ACC. Hunt of the Mighty is not applied if the stats in question are all 0. If one shipgirl possesses multiple of the highest stats, she gets inflicted with multiple stacks.\nShipgirls marked with Hunt of the Mighty take more DMG from Regensburg META for every stack possessed (1 stack = 10%; at 2 stacks or above, each stack increases the DMG taken by an extra 200%). If the shipgirl with Hunt of the Mighty is in your Main Fleet, she gets inflicted with Burn and takes DMG over time (Burn DMG is not affected by Hunt of the Mighty).\nIf any stacks of Hunt of the Mighty do not get applied, or if a shipgirl marked with Hunt of the Mighty stacks sinks, those stacks get transferred to Regensburg META. For every stack of Hunt of the Mighty Regensburg META possesses, her DMG taken decreases by 20%.",
+          "color": 1
+        }
+      ],
+      [
+        {
+          "name": "Incremental Victory",
+          "description": "When an allied unit sinks or leaves the screen, Regensburg META's FP and TRP increases by 15%.",
+          "color": 2
+        }
+      ]
+    ],
+    "expo_id": 296330,
+    "dungeon_id": 296330,
+    "time_limit": 80,
+    "type": 9,
+    "id": 1854
   }
 }

@@ -12253,7 +12253,9 @@
     "heavy": false,
     "limited": null,
     "special": false,
-    "other": [],
+    "other": [
+      0
+    ],
     "maps": [],
     "notes": [
       "Available as task reward during Lunar New Year events"
@@ -12276,7 +12278,9 @@
     "heavy": false,
     "limited": null,
     "special": false,
-    "other": [],
+    "other": [
+      0
+    ],
     "maps": [],
     "notes": [
       "Available as task reward during Lunar New Year events"
@@ -23091,11 +23095,12 @@
     "limited": null,
     "special": false,
     "other": [
-      13
+      13,
+      14
     ],
     "maps": [],
     "notes": [
-      "Available in a past META Showdown"
+      "Available in a past META Showdown or Dossier Analysis"
     ],
     "events": []
   },
@@ -23367,7 +23372,7 @@
     ],
     "maps": [],
     "notes": [
-      "Available in META Showdown"
+      "Available in a past META Showdown"
     ],
     "events": []
   },
@@ -23414,5 +23419,21 @@
     "events": [
       "Springtide Inn Online"
     ]
+  },
+  "30058": {
+    "id": 30058,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [
+      13
+    ],
+    "maps": [],
+    "notes": [
+      "Available in META Showdown"
+    ],
+    "events": []
   }
 }

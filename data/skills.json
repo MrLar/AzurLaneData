@@ -58567,7 +58567,7 @@
     ]
   },
   "152150": {
-    "description": "During battle, while Moskva is afloat, when another Northern Parliament Surface Fleet ship takes DMG that would sink her, the other ship does not sink, evades that instance of DMG, and gains the Unyielding Valor status for 8s. Unyielding Valor does the following:\n• {Damage received by the target is reduced by 20.0% and then redirected entirely to Moskva.|The game words this in a very strange way that may imply that Moskva tanks the 20.0% but instead the damage is reduced by 20.0% and Moskva tanks all of what is left.};\n• Increases the target's ACC by {5.0%|This part of the skill is currently bugged and always applies its level 1 bonus.};\n• When the status expires, or if Moskva is sunk, the target sinks;\n\nFor every ship with the Unyielding Valor status, Moskva's DMG taken (excluding the DMG she tanks) is decreased by $3 (can be stacked up to 3 times). When the battle ends, all ships with the Unyielding Valor recover $4 of their max HP.",
+    "description": "During battle, while Moskva is afloat, when another Northern Parliament Surface Fleet ship takes DMG that would sink her, the other ship does not sink, evades that instance of DMG, and gains the Unyielding Valor status for 8s. Unyielding Valor does the following:\n• {Damage received by the target is reduced by $1 and then redirected entirely to Moskva.|The game words this in a very strange way that may imply that Moskva tanks the 10.0% to 20.0% but instead the damage is reduced by 10.0% to 20.0% and Moskva tanks all of what is left.};\n• Increases the target's ACC by $2;\n• When the status expires, or if Moskva is sunk, the target sinks;\n\nFor every ship with the Unyielding Valor status, Moskva's DMG taken (excluding the DMG she tanks) is decreased by $3 (can be stacked up to 3 times). When the battle ends, all ships with the Unyielding Valor recover $4 of their max HP.",
     "opsi_description": null,
     "name": "Unyielding Valor",
     "max": 10,
@@ -65471,6 +65471,155 @@
     "icon": 802100,
     "values": []
   },
+  "802110": {
+    "description": "Increases this ship's FP and TRP by $1. Every 5s: increases this ship's ACC by $2 (can be stacked up to 5 times). Every 15s: fires a $3 special barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "The Hunt Begins",
+    "max": 10,
+    "id": 802110,
+    "type": 1,
+    "icon": 802110,
+    "values": [
+      [
+        "15.0%",
+        "16.0%",
+        "17.0%",
+        "19.0%",
+        "20.0%",
+        "21.0%",
+        "23.0%",
+        "25.0%",
+        "27.0%",
+        "30.0%"
+      ],
+      [
+        "1.5%",
+        "2.0%",
+        "2.5%",
+        "3.0%",
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "802120": {
+    "description": "Every 15s: inflict Gamehunter's Mark on a random enemy for 10s (prioritizes humanoid enemies); that enemy's SPD is decreased by $1 while your Vanguard gains the Gamehunter status. The Gamehunter status lasts for 10s and increases each unit's DMG dealt by $2 against the target with Gamehunter's Mark. While an enemy with Gamehunter's Mark exists: increases this ship's Crit Rate and Crit DMG by $1.",
+    "opsi_description": null,
+    "name": "The Hunters Gather",
+    "max": 10,
+    "id": 802120,
+    "type": 3,
+    "icon": 802120,
+    "values": [
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
+  "802130": {
+    "description": "Increases this ship's EVA by $1. Every instance of DMG this ship takes during battle is tallied; when the tally reaches 10: resets the tally to 0 and deploys a shield (lasting 8s) that can negate up to $2 enemy shells (while the shield is active, DMG sustained with this skill effect is not counted toward the tally). Once per battle, when this ship's HP falls below 30.0% as a result of DMG taken: restores $3 of this ship's max HP.",
+    "opsi_description": null,
+    "name": "The Hunter's Vigilance",
+    "max": 10,
+    "id": 802130,
+    "type": 2,
+    "icon": 802130,
+    "values": [
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "3",
+        "3",
+        "4",
+        "4",
+        "5",
+        "5",
+        "6",
+        "6",
+        "7",
+        "8"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
+  "802141": {
+    "description": "Every 12 times this ship fires her Main Guns: fires a special barrage.",
+    "opsi_description": "【大型作战效果】\n主炮每进行12次攻击,触发一轮特殊弹幕I,与精英舰队或BOSS舰队交战时,自身造成的所有伤害提高3%",
+    "name": "Cinders of Hope - Regensburg I",
+    "max": 1,
+    "id": 802141,
+    "type": 1,
+    "icon": 802140,
+    "values": []
+  },
+  "802142": {
+    "description": "Every 8 times this ship fires her Main Guns: fires a special barrage.",
+    "opsi_description": "【大型作战效果】\n主炮每进行8次攻击,触发一轮特殊弹幕II,与精英舰队或BOSS舰队交战时,自身造成的所有伤害提高8%",
+    "name": "Cinders of Hope - Regensburg II",
+    "max": 1,
+    "id": 802142,
+    "type": 1,
+    "icon": 802140,
+    "values": []
+  },
   "901010": {
     "description": "The ship in the frontmost position of your Vanguard performs a slash attack. Slash attack pattern, range, and DMG are based on the number of ships equipped with slash attack gear, the ships' hull type, and the equipped module's effects.",
     "opsi_description": null,
@@ -65859,6 +66008,16 @@
     "id": 902370,
     "type": 0,
     "icon": "augments/14980",
+    "values": []
+  },
+  "902380": {
+    "description": "Increases this ship's AA by 20.0%.",
+    "opsi_description": null,
+    "name": "Anti-Air Focus Training",
+    "max": 1,
+    "id": 902380,
+    "type": 0,
+    "icon": "augments/15060",
     "values": []
   },
   "1005070": {
@@ -69110,6 +69269,29 @@
       ]
     ]
   },
+  "1012910": {
+    "description": "Increases this ship's FP, TRP, and RLD by $1. When sortied with Akatsuki, Ikazuchi, or Inazuma: increases this ship's FP, TRP, and RLD by $1 (does not stack with Destroyer Division 6 skills). The healing effect of the skill Phoenix's Plumage can now activate up to 2 times per battle, and starting from its 2nd activation, there is a 6.0% chance to increase Phoenix's Plumage's activation limit by 1.",
+    "opsi_description": null,
+    "name": "Destroyer Division 6: Hibiki+",
+    "max": 10,
+    "id": 1012910,
+    "type": 1,
+    "icon": 12910,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ]
+    ]
+  },
   "1012940": {
     "description": "When the battle starts, for each Royal Navy ship in your fleet: increases this ship's FP, AA, and RLD by $1 (can be stacked up to 2 times; when the max stack is reached: improves this ship's All Out Assault skill). When sortied with Queen Elizabeth {or Queen Elizabeth META|Not mentioned in game.}: increases Queen Elizabeth {or Queen Elizabeth META|Not mentioned in game.}'s FP, ACC, RLD, and EVA by $2 and increases her and this ship's Main Gun Crit Rate by $3.",
     "opsi_description": null,
@@ -69392,6 +69574,53 @@
       ]
     ]
   },
+  "1013470": {
+    "description": "Increases this ship's FP, TRP, AA, and RLD by $1. If there is another Royal Navy ship in your fleet: increases this ship's DMG dealt by $2. Every 10s: fires a $3 special barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Supporting Role+",
+    "max": 10,
+    "id": 1013470,
+    "type": 3,
+    "icon": 13470,
+    "values": [
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
   "1013550": {
     "description": "Increases this boat's TRP by $3 and Torpedo Crit Rate by $1. At the beginning of battle, fires a $2 torpedo barrage (pattern and DMG are based on the skill's level); if there are other ships afloat in your Submarine Fleet, this barrage's pattern is further improved.",
     "opsi_description": null,
@@ -69612,6 +69841,65 @@
         "26.4%",
         "28.2%",
         "30.0%"
+      ]
+    ]
+  },
+  "1014140": {
+    "description": "When this ship is attacked: $1 chance to fire a $2 special barrage that slows enemies hit (DMG is based on the skill's level; 10s cooldown between activations) and increase this ship's FP and TRP by $3 until the battle ends (can be stacked up to 3 times); enemies hit by this barrage take $4 increased DMG from Stremitelny for 6s (does not stack).",
+    "opsi_description": null,
+    "name": "Scalawaggish Little Snowball+",
+    "max": 10,
+    "id": 1014140,
+    "type": 1,
+    "icon": 14140,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "1.0%",
+        "1.4%",
+        "1.8%",
+        "2.2%",
+        "2.6%",
+        "3.0%",
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%"
+      ],
+      [
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%",
+        "8.5%",
+        "9.0%",
+        "10.0%"
       ]
     ]
   },
@@ -70293,6 +70581,115 @@
         "Lv.8",
         "Lv.9",
         "Lv.10"
+      ]
+    ]
+  },
+  "1019260": {
+    "description": "Increases this ship's FP and ACC by $1 and Crit Rate by $2. Each Main Gun reload gives this ship 2 Salvoes that can be fired independently, with each Salvo consisting of 1 Volley. This ship's DMG bonus with manually aimed Salvoes becomes $4. When the battle starts, and every 15s: $3 chance to fire a powerful special barrage (DMG is based on the skill's level).",
+    "opsi_description": "Increases this ship's FP and ACC by $1 and Crit Rate by $2. Each Main Gun reload gives this ship 2 Salvoes that can be fired independently, with each Salvo consisting of 1 Volley (this effect is not affected by the Tolls of War debuff). This ship's DMG bonus with manually aimed Salvoes becomes $4. When the battle starts, and every 15s: $3 chance to fire a powerful special barrage (DMG is based on the skill's level).",
+    "name": "Precision Salvo Protocol+",
+    "max": 10,
+    "id": 1019260,
+    "type": 1,
+    "icon": 19260,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "4.0%",
+        "4.6%",
+        "5.2%",
+        "6.0%",
+        "6.6%",
+        "7.2%",
+        "8.0%",
+        "8.6%",
+        "9.2%",
+        "10.0%"
+      ],
+      [
+        "50.0%",
+        "55.0%",
+        "60.0%",
+        "65.0%",
+        "70.0%",
+        "75.0%",
+        "80.0%",
+        "85.0%",
+        "90.0%",
+        "100%"
+      ],
+      [
+        "25.0%",
+        "26.6%",
+        "28.2%",
+        "30.0%",
+        "31.6%",
+        "33.2%",
+        "35.0%",
+        "36.6%",
+        "38.2%",
+        "40.0%"
+      ]
+    ],
+    "opsi_values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "4.0%",
+        "4.6%",
+        "5.2%",
+        "6.0%",
+        "6.6%",
+        "7.2%",
+        "8.0%",
+        "8.6%",
+        "9.2%",
+        "10.0%"
+      ],
+      [
+        "50.0%",
+        "55.0%",
+        "60.0%",
+        "65.0%",
+        "70.0%",
+        "75.0%",
+        "80.0%",
+        "85.0%",
+        "90.0%",
+        "100%"
+      ],
+      [
+        "25.0%",
+        "26.6%",
+        "28.2%",
+        "30.0%",
+        "31.6%",
+        "33.2%",
+        "35.0%",
+        "36.6%",
+        "38.2%",
+        "40.0%"
       ]
     ]
   },
@@ -71982,6 +72379,65 @@
     "type": 2,
     "icon": 4040,
     "values": []
+  },
+  "1090440": {
+    "description": "Increases this ship's Crit Rate by $1 and DMG dealt with AP shells by $2. Every 15s: fires a $3 special barrage (DMG is based on the skill's level). Once per battle, when this ship's HP falls below 20.0% as a result of DMG taken: restores $4 of this ship's max HP.",
+    "opsi_description": null,
+    "name": "Piercing Shells - Z19",
+    "max": 10,
+    "id": 1090440,
+    "type": 1,
+    "icon": 2080,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "15.0%",
+        "17.2%",
+        "19.4%",
+        "21.6%",
+        "23.8%",
+        "26.0%",
+        "28.2%",
+        "30.4%",
+        "32.6%",
+        "35.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "15.0%",
+        "16.1%",
+        "17.2%",
+        "18.3%",
+        "19.4%",
+        "20.5%",
+        "21.6%",
+        "22.7%",
+        "23.8%",
+        "25.0%"
+      ]
+    ]
   },
   "10150530": {
     "description": "Decreases this ship's SPD by 10.0%. Enemies attacking this ship take $1 more DMG and have their EVA decreased by 4.0% for 4s. Every 10 times this ship is attacked: restores $2 of this ship's max HP and fires a $3 special barrage (DMG is based on the skill's level); this effect can activate up to 3 times per battle. When this special barrage fires: for 5s, when this ship is attacked, it will not count toward the hits taken tally.",

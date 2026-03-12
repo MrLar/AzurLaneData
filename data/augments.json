@@ -13751,6 +13751,348 @@
       "CN"
     ]
   },
+  "15060": {
+    "id": 15060,
+    "icon": "15060",
+    "name": "The Steps to Becoming a Lady",
+    "limit_group": 463,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902380
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 13470,
+        "with": 1013470
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Hermione's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "random": 5
+      },
+      {
+        "stat": "rld",
+        "values": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "15080": {
+    "id": 15080,
+    "icon": "15080",
+    "name": "Staff of Machinery & Logic",
+    "limit_group": 20012,
+    "type": 6,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902030
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 19260,
+        "with": 1019260
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Gascogne's Augment",
+      "Gasco's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          10,
+          10,
+          10,
+          11,
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "15100": {
+    "id": 15100,
+    "icon": "15100",
+    "name": "Undying Demon",
+    "limit_group": 160,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 12910,
+        "with": 1012910
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Hibiki's Augment",
+      "Hibi's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "trp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "15120": {
+    "id": 15120,
+    "icon": "15120",
+    "name": "Twins of a Rigging",
+    "limit_group": 264,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 2081,
+        "with": 1090440
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Z19's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "random": 5
+      },
+      {
+        "stat": "hit",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "15140": {
+    "id": 15140,
+    "icon": "15140",
+    "name": "Snowball Trio",
+    "limit_group": 491,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901020
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 14140,
+        "with": 1014140
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Stremitelny's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 5
+      },
+      {
+        "stat": "hit",
+        "values": [
+          1,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "1010100": {
     "id": 1010100,
     "icon": "1010100",
