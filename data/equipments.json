@@ -133482,5 +133482,211 @@
       "JP",
       "CN"
     ]
+  },
+  "151020": {
+    "icon": "151020",
+    "id": 151020,
+    "name": "The Vagabond",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      61040
+    ],
+    "nation": 0,
+    "limit_group": 151020,
+    "hull_restriction": [],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hit",
+        "values": [
+          15,
+          17,
+          19,
+          21,
+          23,
+          25,
+          27,
+          29,
+          31,
+          33,
+          36,
+          39,
+          42,
+          45
+        ]
+      },
+      {
+        "stat": "eva",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "151040": {
+    "icon": "151040",
+    "id": 151040,
+    "name": "Systemwide Bounty",
+    "rarity": 4,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      61050
+    ],
+    "nation": 0,
+    "limit_group": 151040,
+    "hull_restriction": [],
+    "max": 11,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          140,
+          161,
+          182,
+          203,
+          224,
+          245,
+          266,
+          287,
+          308,
+          329,
+          350,
+          371
+        ]
+      },
+      {
+        "stat": "spd",
+        "values": [
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "151060": {
+    "icon": "151060",
+    "id": 151060,
+    "name": "Protocol Zero Key",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      61060
+    ],
+    "nation": 0,
+    "limit_group": 151060,
+    "hull_restriction": [],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          100,
+          130,
+          160,
+          190,
+          220,
+          250,
+          280,
+          310,
+          340,
+          370,
+          400,
+          424,
+          448,
+          472
+        ]
+      },
+      {
+        "stat": "spd",
+        "values": [
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          4,
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
   }
 }
