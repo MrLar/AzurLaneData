@@ -75894,5 +75894,285 @@
     "time_limit": 80,
     "type": 9,
     "id": 1854
+  },
+  "2010001_t1_16830301": {
+    "name": "The Vagabond's Recruitment Plan-T1",
+    "acv": 150,
+    "opsi": false,
+    "boss": {
+      "id": 16830301,
+      "hull": 3,
+      "nation": 6,
+      "name": "Gorizia",
+      "stats": {
+        "hp": 6450,
+        "fp": 75,
+        "trp": 55,
+        "avi": 0,
+        "aa": 85,
+        "hit": 20,
+        "eva": 20,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "geliqiya_3",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2010013,
+    "dungeon_id": 2010013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1855
+  },
+  "2010001_t2_16831301": {
+    "name": "The Vagabond's Recruitment Plan-T2",
+    "acv": 300,
+    "opsi": false,
+    "boss": {
+      "id": 16831301,
+      "hull": 3,
+      "nation": 3,
+      "name": "Maya",
+      "stats": {
+        "hp": 21800,
+        "fp": 120,
+        "trp": 114,
+        "avi": 0,
+        "aa": 165,
+        "hit": 23,
+        "eva": 21,
+        "spd": 16,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 45,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "moye_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2010113,
+    "dungeon_id": 2010113,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1856
+  },
+  "2010001_t3_16831302": {
+    "name": "The Vagabond's Recruitment Plan-T3",
+    "acv": 700,
+    "opsi": false,
+    "boss": {
+      "id": 16831302,
+      "hull": 2,
+      "nation": 3,
+      "name": "Kizu",
+      "stats": {
+        "hp": 25600,
+        "fp": 160,
+        "trp": 140,
+        "avi": 150,
+        "aa": 250,
+        "hit": 26,
+        "eva": 27,
+        "spd": 16,
+        "luck": 8,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "mujin_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2010213,
+    "dungeon_id": 2010213,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1857
+  },
+  "2010002_ht1_16832301": {
+    "name": "The Vagabond's Recruitment Plan-HT1",
+    "acv": 150,
+    "opsi": false,
+    "boss": {
+      "id": 16832301,
+      "hull": 3,
+      "nation": 6,
+      "name": "Gorizia",
+      "stats": {
+        "hp": 39800,
+        "fp": 220,
+        "trp": 120,
+        "avi": 0,
+        "aa": 225,
+        "hit": 46,
+        "eva": 43,
+        "spd": 20,
+        "luck": 18,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "geliqiya_3",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2011013,
+    "dungeon_id": 2011013,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1858
+  },
+  "2010002_ht2_16833301": {
+    "name": "The Vagabond's Recruitment Plan-HT2",
+    "acv": 300,
+    "opsi": false,
+    "boss": {
+      "id": 16833301,
+      "hull": 3,
+      "nation": 3,
+      "name": "Maya",
+      "stats": {
+        "hp": 78200,
+        "fp": 230,
+        "trp": 180,
+        "avi": 0,
+        "aa": 250,
+        "hit": 66,
+        "eva": 44,
+        "spd": 16,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 95,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "moye_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2011113,
+    "dungeon_id": 2011113,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1859
+  },
+  "2010002_ht3_16833302": {
+    "name": "The Vagabond's Recruitment Plan-HT3",
+    "acv": 700,
+    "opsi": false,
+    "boss": {
+      "id": 16833302,
+      "hull": 2,
+      "nation": 3,
+      "name": "Kizu",
+      "stats": {
+        "hp": 106000,
+        "fp": 310,
+        "trp": 210,
+        "avi": 310,
+        "aa": 390,
+        "hit": 67,
+        "eva": 54,
+        "spd": 16,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "mujin_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2011213,
+    "dungeon_id": 2011213,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1860
+  },
+  "2010003_sp_16834301": {
+    "name": "The Vagabond's Recruitment Plan-SP",
+    "acv": 1320,
+    "opsi": false,
+    "boss": {
+      "id": 16834301,
+      "hull": 2,
+      "nation": 3,
+      "name": "Nayoro",
+      "stats": {
+        "hp": 118500,
+        "fp": 250,
+        "trp": 260,
+        "avi": 300,
+        "aa": 430,
+        "hit": 71,
+        "eva": 60,
+        "spd": 20,
+        "luck": 30,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "mingji_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2014013,
+    "dungeon_id": 2014013,
+    "time_limit": 180,
+    "type": 5,
+    "id": 1861
   }
 }

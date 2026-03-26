@@ -17971,13 +17971,14 @@
     "timer": "00:33:00",
     "light": true,
     "heavy": false,
-    "limited": "Angel of the Iris",
+    "limited": "Angel of the Iris and The Vagabond's Recruitment Plan",
     "special": false,
     "other": [],
     "maps": [],
     "notes": [],
     "events": [
-      "Angel of the Iris"
+      "Angel of the Iris",
+      "The Vagabond's Recruitment Plan"
     ]
   },
   "557": {
@@ -20564,6 +20565,50 @@
       "Springtide Inn Online"
     ]
   },
+  "731": {
+    "id": 731,
+    "timer": "Unknown",
+    "light": false,
+    "heavy": false,
+    "limited": "The Vagabond's Recruitment Plan",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [],
+    "events": [
+      "The Vagabond's Recruitment Plan"
+    ]
+  },
+  "732": {
+    "id": 732,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available as point accumulation reward during The Vagabond's Recruitment Plan"
+    ],
+    "events": [
+      "The Vagabond's Recruitment Plan"
+    ]
+  },
+  "733": {
+    "id": 733,
+    "timer": "Unknown",
+    "light": false,
+    "heavy": false,
+    "limited": "The Vagabond's Recruitment Plan",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [],
+    "events": [
+      "The Vagabond's Recruitment Plan"
+    ]
+  },
   "10001": {
     "id": 10001,
     "timer": null,
@@ -22850,7 +22895,8 @@
     "limited": null,
     "special": false,
     "other": [
-      11
+      11,
+      12
     ],
     "maps": [],
     "notes": [
@@ -22883,7 +22929,8 @@
     "limited": null,
     "special": false,
     "other": [
-      11
+      11,
+      14
     ],
     "maps": [],
     "notes": [
@@ -23397,7 +23444,9 @@
     "heavy": false,
     "limited": null,
     "special": false,
-    "other": [],
+    "other": [
+      11
+    ],
     "maps": [],
     "notes": [
       "Available as a Reward from Cruise Pass Season 27"
@@ -23433,6 +23482,22 @@
     "maps": [],
     "notes": [
       "Available in META Showdown"
+    ],
+    "events": []
+  },
+  "30059": {
+    "id": 30059,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [
+      11
+    ],
+    "maps": [],
+    "notes": [
+      "Available as a Reward from Cruise Pass Season 28"
     ],
     "events": []
   }

@@ -3783,7 +3783,8 @@
     "icon": "props/21024",
     "rarity": 5,
     "locations": [
-      "Cruise Pass Season 12"
+      "Cruise Pass Season 12",
+      "META Shop"
     ],
     "servers": [
       "EN",
@@ -4370,6 +4371,23 @@
     "rarity": 5,
     "locations": [
       "META Showdown"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "21059": {
+    "id": 21059,
+    "name": "META Crystal - Köln META",
+    "description": "An item that increases the potential of Köln META. Used in the META Lab during Somatic Activation.",
+    "type": 4,
+    "icon": "props/21059",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 28"
     ],
     "servers": [
       "EN",
@@ -33116,6 +33134,23 @@
       }
     ]
   },
+  "30382": {
+    "id": 30382,
+    "name": "Gear Skin Box (Night Agents)",
+    "description": "Contains a random Night Agents-themed gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxnihongtegong",
+    "rarity": 5,
+    "locations": [
+      "The Vagabond's Recruitment Plan"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "30401": {
     "id": 30401,
     "name": "Random Gear Skin Box (Cruise Series 3)",
@@ -35070,6 +35105,23 @@
         "name": "Arch of a Lost Dynasty"
       }
     ]
+  },
+  "30434": {
+    "id": 30434,
+    "name": "Random Gear Skin Box (Cruise Series 27)",
+    "description": "Contains 1 random Cruise Mission gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxshijiexunyou",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 28"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
   },
   "30501": {
     "id": 30501,
@@ -47712,6 +47764,23 @@
         "name": "Pony of Fulfilled Fortune Lantern(Bomber)"
       }
     ]
+  },
+  "30566": {
+    "id": 30566,
+    "name": "Selection Gear Skin Box (Night Agents)",
+    "description": "Can be opened to receive 1 Night Agents-themed gear skin of your choosing.",
+    "type": 13,
+    "icon": "props/appearanceboxnihongtegongzixuan",
+    "rarity": 5,
+    "locations": [
+      "The Vagabond's Recruitment Plan"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
   },
   "30911": {
     "id": 30911,
