@@ -64791,6 +64791,34 @@
       }
     ]
   },
+  "9999999114": {
+    "id": 9999999114,
+    "name": "Elderwood Ivy UI",
+    "description": "The Elderwood Ivy themed Battle UI",
+    "type": 97,
+    "icon": "props/ui_114",
+    "rarity": 4,
+    "locations": [
+      "Cruise Pass Season 28 (Paid Only)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 114,
+        "type": 99,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": false,
+        "rarity": 4,
+        "icon": "uipreview/114",
+        "name": "Elderwood Ivy"
+      }
+    ]
+  },
   "9999999201": {
     "id": 9999999201,
     "name": "Christmas UI",
