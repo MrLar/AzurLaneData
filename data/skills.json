@@ -65849,7 +65849,7 @@
     "values": []
   },
   "802150": {
-    "description": "10s after the battle starts and every 20s: decreases the EVA of all enemies on the field by $1 for 5s; when this effect activates, if this ship has an Fl-282 equipped: launches an Fl-282, revealing all submerged enemies and decreasing their EVA by $1 for 5s. Additionally, increases your SSs' and SSVs' DMG dealt by $2 and your Vanguard's ASW by $1.",
+    "description": "10s after the battle starts and every 20s: decreases the EVA of all enemies on the field by $1 for 5s; when this effect activates, if this ship has an Fl-282 equipped: launches an Fl-282, revealing all submerged enemies and decreasing their EVA by $1 for 5s. Additionally, {increases your ships' DMG dealt to SSs and SSVs by $2|The game incorrectly states that our submarines do more damage.} and your Vanguard's ASW by $1",
     "opsi_description": null,
     "name": "Enemy Intel Research",
     "max": 10,
