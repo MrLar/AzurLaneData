@@ -76174,5 +76174,165 @@
     "time_limit": 180,
     "type": 5,
     "id": 1861
+  },
+  "2200150_sp1_16100301": {
+    "name": "Operation Convergence-SP1 - War Archive",
+    "acv": 50,
+    "opsi": false,
+    "boss": {
+      "id": 16100301,
+      "hull": 1,
+      "nation": 4,
+      "name": "Z46",
+      "stats": {
+        "hp": 5200,
+        "fp": 26,
+        "trp": 150,
+        "avi": 0,
+        "aa": 50,
+        "hit": 19,
+        "eva": 23,
+        "spd": 26,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "z46",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1670013,
+    "dungeon_id": 1670013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1862
+  },
+  "2200150_sp2_16101301": {
+    "name": "Operation Convergence-SP2 - War Archive",
+    "acv": 295,
+    "opsi": false,
+    "boss": {
+      "id": 16101301,
+      "hull": 7,
+      "nation": 4,
+      "name": "Graf Zeppelin",
+      "stats": {
+        "hp": 13200,
+        "fp": 95,
+        "trp": 0,
+        "avi": 120,
+        "aa": 135,
+        "hit": 22,
+        "eva": 17,
+        "spd": 20,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 40,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qibolin",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1671013,
+    "dungeon_id": 1671013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1863
+  },
+  "2200150_sp3_16102301": {
+    "name": "Operation Convergence-SP3 - War Archive",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "id": 16102301,
+      "hull": 7,
+      "nation": 4,
+      "name": "Peter Strasser",
+      "stats": {
+        "hp": 25600,
+        "fp": 150,
+        "trp": 0,
+        "avi": 180,
+        "aa": 240,
+        "hit": 26,
+        "eva": 27,
+        "spd": 16,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shitelasai",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1672013,
+    "dungeon_id": 1672013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1864
+  },
+  "2200150_sp4_16103301": {
+    "name": "Operation Convergence-SP4 - War Archive",
+    "acv": 600,
+    "opsi": false,
+    "boss": {
+      "id": 16103301,
+      "hull": 4,
+      "nation": 4,
+      "name": "Brünhilde",
+      "stats": {
+        "hp": 56200,
+        "fp": 220,
+        "trp": 0,
+        "avi": 0,
+        "aa": 225,
+        "hit": 42,
+        "eva": 42,
+        "spd": 20,
+        "luck": 18,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "bulunxierde",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1673013,
+    "dungeon_id": 1673013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1865
   }
 }

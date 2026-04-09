@@ -14093,6 +14093,143 @@
       "CN"
     ]
   },
+  "15160": {
+    "id": 15160,
+    "icon": "15160",
+    "name": "Nanotech Repulsor",
+    "limit_group": 445,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 13140,
+        "with": 1013140
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Reno's Augment",
+      "Reeeno's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "rld",
+        "values": [
+          6,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "15180": {
+    "id": 15180,
+    "icon": "15180",
+    "name": "Totally Helpless Bunny Pouch",
+    "limit_group": 325,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      902300
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 2121,
+        "with": 1090450
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Matchless' Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "trp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "1010100": {
     "id": 1010100,
     "icon": "1010100",

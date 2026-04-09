@@ -18808,15 +18808,16 @@
   },
   "3001": {
     "id": 3001,
-    "name": "Observer Tentacles",
+    "name": "Observer's Touch",
     "icon": "99141",
     "types": [
       10
     ],
     "rarity": 4,
     "theme": "Misc",
-    "description": "\"Observer\" Popularity Poll 2023 Special Voting Slot Outstanding Commemoration",
+    "description": "In commemoration of Observer's first-place ranking in the 2025 Special Vote.",
     "servers": [
+      "EN",
       "JP",
       "CN"
     ]
@@ -19885,6 +19886,97 @@
       "EN",
       "JP",
       "CN"
+    ]
+  },
+  "3070": {
+    "id": 3070,
+    "name": "Colorful Crayon Shell",
+    "icon": "99189",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "In commemoration of Little Prinz Eugen's first-place ranking in the 2025 Special Vote.",
+    "servers": [
+      "EN"
+    ]
+  },
+  "3071": {
+    "id": 3071,
+    "name": "Test Accelerator Torpedo",
+    "icon": "99190",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Commemorating the victory in the 2025 Popularity Contest Special Vote (Siren)",
+    "servers": [
+      "CN"
+    ]
+  },
+  "3072": {
+    "id": 3072,
+    "name": "Thorn Rose Torpedo",
+    "icon": "99191",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Commemorating the victory in the 2025 Popularity Contest Special Vote (META)",
+    "servers": [
+      "CN"
+    ]
+  },
+  "3073": {
+    "id": 3073,
+    "name": "Chariot Drone Shells",
+    "icon": "99192",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Commemorating the winner of the 2025 Popularity Poll Special Vote (Siren)",
+    "servers": [
+      "JP"
+    ]
+  },
+  "3075": {
+    "id": 3075,
+    "name": "Rainbow Star",
+    "icon": "99194",
+    "types": [
+      10
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Commemorating the victory in the 2025 Popularity Contest Special Vote (Little)",
+    "servers": [
+      "JP",
+      "CN"
+    ]
+  },
+  "3076": {
+    "id": 3076,
+    "name": "Lycoris Dance Fan",
+    "icon": "99195",
+    "types": [
+      10
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "In commemoration of Taihou META's first-place ranking in the 2025 Special Vote.",
+    "servers": [
+      "EN",
+      "JP"
     ]
   },
   "4001": {
