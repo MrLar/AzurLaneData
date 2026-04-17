@@ -33332,6 +33332,204 @@
       }
     ]
   },
+  "30383": {
+    "id": 30383,
+    "name": "Gear Skin Box (Beachside Brilliance)",
+    "description": "Contains a random Beachside Brilliance-themed gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxshanyaohaibin",
+    "rarity": 5,
+    "locations": [
+      "Vacation Lane - Beachside Brilliance"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 4348,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102101",
+        "name": "Huge Upgrade Stone Shell"
+      },
+      {
+        "id": 4349,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102102",
+        "name": "Guest Point Shell"
+      },
+      {
+        "id": 4350,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102103",
+        "name": "V Stone Shell"
+      },
+      {
+        "id": 4351,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102104",
+        "name": "Fresh Grapes Torpedo"
+      },
+      {
+        "id": 4352,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102105",
+        "name": "Passion Pineapple Torpedo"
+      },
+      {
+        "id": 4353,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102106",
+        "name": "Golden Banana Torpedo"
+      },
+      {
+        "id": 4354,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102107",
+        "name": "Telephoto Camera Shell"
+      },
+      {
+        "id": 4355,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102108",
+        "name": "Secret Memories Shell"
+      },
+      {
+        "id": 4356,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102109",
+        "name": "Crystal Nail Polish Shell"
+      },
+      {
+        "id": 4357,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102110",
+        "name": "Floatie Manjuu (Torpedo)"
+      },
+      {
+        "id": 4358,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102110",
+        "name": "Floatie Manjuu (Fighter)"
+      },
+      {
+        "id": 4359,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102110",
+        "name": "Floatie Manjuu (Bomber)"
+      },
+      {
+        "id": 4360,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102111",
+        "name": "Floral Wreath Manjuu (Torpedo)"
+      },
+      {
+        "id": 4361,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102111",
+        "name": "Floral Wreath Manjuu (Fighter)"
+      },
+      {
+        "id": 4362,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102111",
+        "name": "Floral Wreath Manjuu (Bomber)"
+      },
+      {
+        "id": 4363,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102112",
+        "name": "Orca-riding Manjuu (Torpedo)"
+      },
+      {
+        "id": 4364,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102112",
+        "name": "Orca-riding Manjuu (Fighter)"
+      },
+      {
+        "id": 4365,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102112",
+        "name": "Orca-riding Manjuu (Bomber)"
+      }
+    ]
+  },
   "30401": {
     "id": 30401,
     "name": "Random Gear Skin Box (Cruise Series 3)",
@@ -48182,6 +48380,204 @@
         "blueprint": false,
         "icon": "equips/102012",
         "name": "Masked Manjuu(Bomber)"
+      }
+    ]
+  },
+  "30567": {
+    "id": 30567,
+    "name": "Selection Gear Skin Box (Beachside Brilliance)",
+    "description": "Can be opened to receive 1 Beachside Brilliance-themed gear skin of your choosing.",
+    "type": 13,
+    "icon": "props/appearanceboxshanyaohaibinzixuan",
+    "rarity": 5,
+    "locations": [
+      "Vacation Lane - Beachside Brilliance"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 4348,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102101",
+        "name": "Huge Upgrade Stone Shell"
+      },
+      {
+        "id": 4349,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102102",
+        "name": "Guest Point Shell"
+      },
+      {
+        "id": 4350,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102103",
+        "name": "V Stone Shell"
+      },
+      {
+        "id": 4351,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102104",
+        "name": "Fresh Grapes Torpedo"
+      },
+      {
+        "id": 4352,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102105",
+        "name": "Passion Pineapple Torpedo"
+      },
+      {
+        "id": 4353,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102106",
+        "name": "Golden Banana Torpedo"
+      },
+      {
+        "id": 4354,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102107",
+        "name": "Telephoto Camera Shell"
+      },
+      {
+        "id": 4355,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102108",
+        "name": "Secret Memories Shell"
+      },
+      {
+        "id": 4356,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102109",
+        "name": "Crystal Nail Polish Shell"
+      },
+      {
+        "id": 4357,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102110",
+        "name": "Floatie Manjuu (Torpedo)"
+      },
+      {
+        "id": 4358,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102110",
+        "name": "Floatie Manjuu (Fighter)"
+      },
+      {
+        "id": 4359,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102110",
+        "name": "Floatie Manjuu (Bomber)"
+      },
+      {
+        "id": 4360,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102111",
+        "name": "Floral Wreath Manjuu (Torpedo)"
+      },
+      {
+        "id": 4361,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102111",
+        "name": "Floral Wreath Manjuu (Fighter)"
+      },
+      {
+        "id": 4362,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102111",
+        "name": "Floral Wreath Manjuu (Bomber)"
+      },
+      {
+        "id": 4363,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102112",
+        "name": "Orca-riding Manjuu (Torpedo)"
+      },
+      {
+        "id": 4364,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102112",
+        "name": "Orca-riding Manjuu (Fighter)"
+      },
+      {
+        "id": 4365,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102112",
+        "name": "Orca-riding Manjuu (Bomber)"
       }
     ]
   },

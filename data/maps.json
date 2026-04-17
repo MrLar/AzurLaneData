@@ -76334,5 +76334,285 @@
     "time_limit": 180,
     "type": 15,
     "id": 1865
+  },
+  "2020001_sp1_16840301": {
+    "name": "Vacation Lane - Beachside Brilliance-SP1",
+    "acv": 50,
+    "opsi": false,
+    "boss": {
+      "id": 16840301,
+      "hull": 2,
+      "nation": 106,
+      "name": "Yukino",
+      "stats": {
+        "hp": 3600,
+        "fp": 40,
+        "trp": 60,
+        "avi": 0,
+        "aa": 125,
+        "hit": 18,
+        "eva": 14,
+        "spd": 20,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 20,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qiannai_doa",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2020013,
+    "dungeon_id": 2020013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1866
+  },
+  "2020001_sp2_16841301": {
+    "name": "Vacation Lane - Beachside Brilliance-SP2",
+    "acv": 295,
+    "opsi": false,
+    "boss": {
+      "id": 16841301,
+      "hull": 8,
+      "nation": 106,
+      "name": "Patty",
+      "stats": {
+        "hp": 6060,
+        "fp": 38,
+        "trp": 162,
+        "avi": 0,
+        "aa": 65,
+        "hit": 22,
+        "eva": 34,
+        "spd": 20,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 40,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "paidi_doa",
+      "prio": 90
+    },
+    "buffs": [],
+    "expo_id": 2021013,
+    "dungeon_id": 2021013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1867
+  },
+  "2020001_sp3_16842301": {
+    "name": "Vacation Lane - Beachside Brilliance-SP3",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "id": 16842301,
+      "hull": 1,
+      "nation": 106,
+      "name": "Tsukushi",
+      "stats": {
+        "hp": 14800,
+        "fp": 75,
+        "trp": 230,
+        "avi": 0,
+        "aa": 145,
+        "hit": 26,
+        "eva": 34,
+        "spd": 20,
+        "luck": 8,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "zhuzi_doa",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2022013,
+    "dungeon_id": 2022013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1868
+  },
+  "2020001_sp4_16843301": {
+    "name": "Vacation Lane - Beachside Brilliance-SP4",
+    "acv": 600,
+    "opsi": false,
+    "boss": {
+      "id": 16843301,
+      "hull": 5,
+      "nation": 106,
+      "name": "Shizuku",
+      "stats": {
+        "hp": 56200,
+        "fp": 240,
+        "trp": 0,
+        "avi": 0,
+        "aa": 225,
+        "hit": 42,
+        "eva": 42,
+        "spd": 20,
+        "luck": 18,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "na_doa",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2023013,
+    "dungeon_id": 2023013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1869
+  },
+  "2020002_vsp_16844301": {
+    "name": "Vacation Lane - Beachside Brilliance-VSP",
+    "acv": 1320,
+    "opsi": false,
+    "boss": {
+      "id": 16844301,
+      "hull": 3,
+      "nation": 106,
+      "name": "Shandy",
+      "stats": {
+        "hp": 98260,
+        "fp": 240,
+        "trp": 190,
+        "avi": 0,
+        "aa": 265,
+        "hit": 68,
+        "eva": 45,
+        "spd": 16,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "xiangdi_doa",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2024013,
+    "dungeon_id": 2024013,
+    "time_limit": 180,
+    "type": 5,
+    "id": 1870
+  },
+  "2020003_extra_16845001": {
+    "name": "Vacation Lane - Beachside Brilliance-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16845001,
+      "hull": 7,
+      "nation": 106,
+      "name": "Elise",
+      "stats": {
+        "hp": 1080000,
+        "fp": 320,
+        "trp": 0,
+        "avi": 400,
+        "aa": 440,
+        "hit": 120,
+        "eva": 0,
+        "spd": 25,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "yilisi_doa",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2025001,
+    "dungeon_id": 2025001,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1871
+  },
+  "2020003_extra_16845101": {
+    "name": "Vacation Lane - Beachside Brilliance-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16845101,
+      "hull": 7,
+      "nation": 106,
+      "name": "Elise",
+      "stats": {
+        "hp": 1250000,
+        "fp": 750,
+        "trp": 0,
+        "avi": 800,
+        "aa": 600,
+        "hit": 9999,
+        "eva": 0,
+        "spd": 25,
+        "luck": 99,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "yilisi_doa",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2025002,
+    "dungeon_id": 2025002,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1872
   }
 }

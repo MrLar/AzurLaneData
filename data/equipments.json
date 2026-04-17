@@ -133688,5 +133688,196 @@
       "JP",
       "CN"
     ]
+  },
+  "151080": {
+    "icon": "151080",
+    "id": 151080,
+    "name": "Electrifying Deco-Pen",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      61070
+    ],
+    "nation": 106,
+    "limit_group": 151080,
+    "hull_restriction": [],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          250,
+          280,
+          310,
+          340,
+          370,
+          400,
+          430,
+          460,
+          490,
+          520,
+          550,
+          580,
+          610,
+          640
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "151100": {
+    "icon": "151100",
+    "id": 151100,
+    "name": "Gravure Photocard",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      61080
+    ],
+    "nation": 106,
+    "limit_group": 151100,
+    "hull_restriction": [],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "aa",
+        "values": [
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          35,
+          38,
+          41,
+          44
+        ]
+      },
+      {
+        "stat": "hit",
+        "values": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          34,
+          36
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "151120": {
+    "icon": "151120",
+    "id": 151120,
+    "name": "Clover of Happiness",
+    "rarity": 5,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      61090
+    ],
+    "nation": 106,
+    "limit_group": 151120,
+    "hull_restriction": [],
+    "max": 13,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          200,
+          230,
+          260,
+          290,
+          320,
+          350,
+          380,
+          410,
+          440,
+          470,
+          500,
+          530,
+          560,
+          590
+        ]
+      },
+      {
+        "stat": "luck",
+        "values": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "labels": [
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
   }
 }

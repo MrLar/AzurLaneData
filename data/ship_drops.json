@@ -11944,6 +11944,22 @@
     "notes": [],
     "events": [
       "Operation Convergence"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "244": {
@@ -18145,6 +18161,22 @@
     ],
     "events": [
       "Violet Tempest, Blooming Lycoris"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "568": {
@@ -18395,6 +18427,22 @@
     ],
     "events": [
       "Revelations of Dust"
+    ],
+    "wa_maps": [
+      {
+        "event": 0,
+        "maps": [
+          {
+            "map": "B3",
+            "type": 1
+          },
+          {
+            "map": "D3",
+            "type": 1,
+            "pity": true
+          }
+        ]
+      }
     ]
   },
   "583": {
@@ -21858,6 +21906,96 @@
     ],
     "events": [
       "DATE A LANE"
+    ]
+  },
+  "10990": {
+    "id": 10990,
+    "timer": "02:45:00",
+    "light": false,
+    "heavy": false,
+    "limited": "Vacation Lane - Beachside Brilliance",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [],
+    "events": [
+      "Vacation Lane - Beachside Brilliance"
+    ]
+  },
+  "10991": {
+    "id": 10991,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available as event reward during Vacation Lane - Beachside Brilliance: The Fox Spirit's Retreat "
+    ],
+    "events": [
+      "Vacation Lane - Beachside Brilliance"
+    ]
+  },
+  "10992": {
+    "id": 10992,
+    "timer": "02:35:00",
+    "light": false,
+    "heavy": false,
+    "limited": "Vacation Lane - Beachside Brilliance",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [],
+    "events": [
+      "Vacation Lane - Beachside Brilliance"
+    ]
+  },
+  "10993": {
+    "id": 10993,
+    "timer": "03:03:00",
+    "light": false,
+    "heavy": false,
+    "limited": "Vacation Lane - Beachside Brilliance",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available as Map drop (SP4, VSP; boss only) and in the Event shop during Vacation Lane - Beachside Brilliance"
+    ],
+    "events": [
+      "Vacation Lane - Beachside Brilliance"
+    ]
+  },
+  "10994": {
+    "id": 10994,
+    "timer": "Unknown",
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available as point accumulation reward during Vacation Lane - Beachside Brilliance"
+    ],
+    "events": [
+      "Vacation Lane - Beachside Brilliance"
+    ]
+  },
+  "10995": {
+    "id": 10995,
+    "timer": "02:32:00",
+    "light": false,
+    "heavy": false,
+    "limited": "Vacation Lane - Beachside Brilliance",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [],
+    "events": [
+      "Vacation Lane - Beachside Brilliance"
     ]
   },
   "20001": {
