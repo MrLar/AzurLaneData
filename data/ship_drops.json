@@ -17931,7 +17931,9 @@
     "heavy": false,
     "limited": null,
     "special": false,
-    "other": [],
+    "other": [
+      2
+    ],
     "maps": [],
     "notes": [
       "Available as task reward during A Cookie For Mew!"
@@ -20655,6 +20657,22 @@
     "notes": [],
     "events": [
       "The Vagabond's Recruitment Plan"
+    ]
+  },
+  "734": {
+    "id": 734,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available as task reward during The Budding Guardian"
+    ],
+    "events": [
+      "The Budding Guardian"
     ]
   },
   "10001": {
