@@ -20687,7 +20687,7 @@
     "time_limit": 180
   },
   "1450001_sp1_14400301": {
-    "name": "Vacation Lane-SP1",
+    "name": "Vacation Lane Rerun-SP1",
     "acv": 50,
     "opsi": false,
     "boss": {
@@ -20727,7 +20727,7 @@
     "id": 460
   },
   "1450001_sp1_14400302": {
-    "name": "Vacation Lane-SP1",
+    "name": "Vacation Lane Rerun-SP1",
     "acv": 50,
     "opsi": false,
     "boss": {
@@ -20767,7 +20767,7 @@
     "id": 461
   },
   "1450001_sp2_14401301": {
-    "name": "Vacation Lane-SP2",
+    "name": "Vacation Lane Rerun-SP2",
     "acv": 220,
     "opsi": false,
     "boss": {
@@ -20807,7 +20807,7 @@
     "id": 462
   },
   "1450001_sp2_14401302": {
-    "name": "Vacation Lane-SP2",
+    "name": "Vacation Lane Rerun-SP2",
     "acv": 220,
     "opsi": false,
     "boss": {
@@ -20847,7 +20847,7 @@
     "id": 463
   },
   "1450001_sp3_14402301": {
-    "name": "Vacation Lane-SP3",
+    "name": "Vacation Lane Rerun-SP3",
     "acv": 440,
     "opsi": false,
     "boss": {
@@ -20887,7 +20887,7 @@
     "id": 464
   },
   "1450001_sp3_14402302": {
-    "name": "Vacation Lane-SP3",
+    "name": "Vacation Lane Rerun-SP3",
     "acv": 440,
     "opsi": false,
     "boss": {
@@ -20927,7 +20927,7 @@
     "id": 465
   },
   "1450001_sp4_14403301": {
-    "name": "Vacation Lane-SP4",
+    "name": "Vacation Lane Rerun-SP4",
     "acv": 600,
     "opsi": false,
     "boss": {
@@ -20967,7 +20967,7 @@
     "id": 466
   },
   "1450002_vsp_14404301": {
-    "name": "Vacation Lane-VSP",
+    "name": "Vacation Lane Rerun-VSP",
     "acv": 1320,
     "opsi": false,
     "boss": {
@@ -21007,7 +21007,7 @@
     "id": 467
   },
   "1450003_extra_14405001": {
-    "name": "Vacation Lane-EXTRA",
+    "name": "Vacation Lane Rerun-EXTRA",
     "acv": 620,
     "opsi": false,
     "boss": {
@@ -21017,12 +21017,12 @@
       "name": "Nyotengu",
       "stats": {
         "hp": 300000,
-        "fp": 500,
+        "fp": 300,
         "trp": 0,
-        "avi": 800,
-        "aa": 500,
-        "hit": 9999,
-        "eva": 20,
+        "avi": 400,
+        "aa": 400,
+        "hit": 150,
+        "eva": 0,
         "spd": 20,
         "luck": 88,
         "armor": 1
@@ -21047,7 +21047,7 @@
     "id": 468
   },
   "1450003_extra2_14405002": {
-    "name": "Vacation Lane-EXTRA2",
+    "name": "Vacation Lane Rerun-EXTRA2",
     "acv": 620,
     "opsi": false,
     "boss": {
@@ -21056,11 +21056,11 @@
       "nation": 106,
       "name": "Tamaki",
       "stats": {
-        "hp": 600000,
-        "fp": 500,
+        "hp": 500000,
+        "fp": 600,
         "trp": 0,
         "avi": 0,
-        "aa": 250,
+        "aa": 500,
         "hit": 9999,
         "eva": 0,
         "spd": 25,
@@ -21087,7 +21087,7 @@
     "id": 469
   },
   "1450003_extra2_14405003": {
-    "name": "Vacation Lane-EXTRA2",
+    "name": "Vacation Lane Rerun-EXTRA2",
     "acv": 620,
     "opsi": false,
     "boss": {
@@ -21096,11 +21096,11 @@
       "nation": 106,
       "name": "Luna",
       "stats": {
-        "hp": 400000,
-        "fp": 400,
+        "hp": 500000,
+        "fp": 500,
         "trp": 0,
-        "avi": 500,
-        "aa": 4000,
+        "avi": 600,
+        "aa": 500,
         "hit": 9999,
         "eva": 0,
         "spd": 25,

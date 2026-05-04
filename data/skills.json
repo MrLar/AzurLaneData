@@ -41371,7 +41371,7 @@
     "values": []
   },
   "60540": {
-    "description": "Grants a {randomly choosen strange power|The game implies there is only one effect.} during battle. {Possible effects are|The game mentions none of this.}:\n• 15s after battle begins the flagship fires a special barrage scaling with total fleet power\n• 2s after battle starts increase the FP, TRP, AA, AVI, RLD, ACC and EVA of the entire fleet by 1.0% for every different faction in the fleet. Iris Libre and Vichya Dominion are treated as the same faction, META as it's own faction, Tempesta, Kingdom of Tulipa and Collab factions do not count at all.\n• Every 35s, heals the entire Vanguard fleet for 1.0% of their respective max HP.",
+    "description": "Grants a {randomly chosen strange power|The game implies there is only one effect.} during battle. {Possible effects are|The game mentions none of this.}:\n• 15s after battle begins the flagship fires a special barrage scaling with total fleet power\n• 2s after battle starts increase the FP, TRP, AA, AVI, RLD, ACC and EVA of the entire fleet by 1.0% for every different faction in the fleet. Iris Libre and Vichya Dominion are treated as the same faction, META as it's own faction, Tempesta, Kingdom of Tulipa and Collab factions do not count at all.\n• Every 35s, heals the entire Vanguard fleet for 1.0% of their respective max HP\n\n{If equipped twice on the same ship only one effect at normal potency is chosen, if equipped on two different ships they each pick an effect and in the event the same effect is picked they stack as follows:\n• The barrage only fires once not twice (it does not stack).\n• The stat bonuses gained go up to a maximum of 10.0% not 12.0%.\n• The heal stacks as normal and heals twice.|The game does not explain how multiple copies of this gear work at all.}",
     "opsi_description": null,
     "name": "RPG Adventure Interface",
     "max": 1,
@@ -61075,7 +61075,7 @@
     ]
   },
   "800390": {
-    "description": "This ship ignores the effects of the Out of Ammo debuff. During a battle, decreases the loading time of this ship's first 3 Main Gun volleys by 50.0%. This ship's 1st and 2nd volleys deal 60.0% and 80.0% DMG respectively, and the 3rd and onward deals $1 DMG.",
+    "description": "This ship ignores the effects of the Out of Ammo debuff. During a battle, decreases the loading time of this ship's first 3 Main Gun salvos by 50.0%. This ship's 1st and 2nd volleys deal 60.0% and 80.0% DMG respectively, and the 3rd and onward deals $1 DMG.",
     "opsi_description": null,
     "name": "Cursed Outset",
     "max": 10,
@@ -61098,7 +61098,7 @@
     ]
   },
   "800400": {
-    "description": "When the battle starts, if this ship has Sakura Empire gear equipped: increases the DMG dealt by this ship's \"Blood Sacrifice\" barrage by $1; if NOT equipping Sakura Empire gear: decreases this ship's DMG taken by 10.0%.",
+    "description": "When the battle starts, if this ship has Sakura Empire gear equipped: {increase the damage this ship deals to enemies hit by the \"Blood Sacrifice\"|The game incorrectly states that the damage of the barrage itself increases.} barrage by $1; if NOT equipping Sakura Empire gear: decreases this ship's DMG taken by 10.0%.",
     "opsi_description": null,
     "name": "Echoes of Annihilation - Yamashiro",
     "max": 10,
