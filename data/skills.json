@@ -71190,6 +71190,53 @@
       ]
     ]
   },
+  "1014170": {
+    "description": "During battle, increases this ship's Main Gun efficiency and FP by $3; every 15s: $1 chance to fire an improved $2 special barrage (DMG and pattern are based on the skill's level). The first time this barrage is triggered each battle: applies a special Burn debuff that increases the target's DMG taken by 15.0% for 8s.",
+    "opsi_description": null,
+    "name": "Kirov, Reporting!+",
+    "max": 10,
+    "id": 1014170,
+    "type": 1,
+    "icon": 14170,
+    "values": [
+      [
+        "50.0%",
+        "55.0%",
+        "60.0%",
+        "65.0%",
+        "70.0%",
+        "75.0%",
+        "80.0%",
+        "85.0%",
+        "90.0%",
+        "100%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ]
+    ]
+  },
   "1014340": {
     "description": "Increases this ship's FP, AA, EVA, and ACC by $1 and increases her DMG dealt to Light and Medium Armor enemies by $1. When this ship fires her torpedoes: fires a $2 special barrage (DMG is based on the skill's level).",
     "opsi_description": null,
@@ -73758,6 +73805,41 @@
         "35.4%",
         "37.6%",
         "40.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "1090460": {
+    "description": "Increases the Vanguard's FP by $1 (does not stack with other command skills that have a similar effect). During battle, increases this ship's TRP and ACC by $1; whenever this ship fires her torpedoes: launches a $2 special barrage (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Artillery Command: Grenville",
+    "max": 10,
+    "id": 1090460,
+    "type": 3,
+    "icon": 1000,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
       ],
       [
         "Lv.1",

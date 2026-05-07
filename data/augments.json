@@ -14626,6 +14626,142 @@
       "CN"
     ]
   },
+  "15320": {
+    "id": 15320,
+    "icon": "15320",
+    "name": "Blade of Nobility and Honor",
+    "limit_group": 435,
+    "type": 2,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 14170,
+        "with": 1014170
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Kirov's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          25
+        ],
+        "random": 10
+      },
+      {
+        "stat": "hit",
+        "values": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "15340": {
+    "id": 15340,
+    "icon": "15340",
+    "name": "Ace's Decisive Revolver",
+    "limit_group": 93,
+    "type": 1,
+    "nation": 0,
+    "rarity": 5,
+    "skills": [
+      901010
+    ],
+    "max": 10,
+    "skill_upgrades": [
+      {
+        "replace": 1001,
+        "with": 1090460
+      }
+    ],
+    "craftable": true,
+    "obtainable": true,
+    "important": true,
+    "aliases": [
+      "Grenville's Augment"
+    ],
+    "stats": [
+      {
+        "stat": "fp",
+        "values": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "random": 5
+      },
+      {
+        "stat": "rld",
+        "values": [
+          14,
+          15,
+          15,
+          16,
+          16,
+          17,
+          17,
+          18,
+          18,
+          19,
+          20
+        ],
+        "random": 5
+      }
+    ],
+    "labels": [],
+    "speciality": "Augmentation",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "1010100": {
     "id": 1010100,
     "icon": "1010100",

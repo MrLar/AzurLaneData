@@ -76614,5 +76614,125 @@
     "time_limit": 300,
     "type": 6,
     "id": 1872
+  },
+  "2200160_sp1_16530301": {
+    "name": "Anthem of Remembrance-SP1 - War Archive",
+    "acv": 150,
+    "opsi": false,
+    "boss": {
+      "id": 16530301,
+      "hull": 1,
+      "nation": 99,
+      "name": "Enforcer XV: Temptation",
+      "stats": {
+        "hp": 8300,
+        "fp": 64,
+        "trp": 235,
+        "avi": 0,
+        "aa": 95,
+        "hit": 21,
+        "eva": 25,
+        "spd": 20,
+        "luck": 8,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss15",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1730013,
+    "dungeon_id": 1730013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1873
+  },
+  "2200160_sp2_16531301": {
+    "name": "Anthem of Remembrance-SP2 - War Archive",
+    "acv": 300,
+    "opsi": false,
+    "boss": {
+      "id": 16531301,
+      "hull": 5,
+      "nation": 99,
+      "name": "Dreamworld Avatar - \"Smasher\"",
+      "stats": {
+        "hp": 24680,
+        "fp": 160,
+        "trp": 0,
+        "avi": 0,
+        "aa": 180,
+        "hit": 27,
+        "eva": 17,
+        "spd": 20,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 55,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenzhanlie_m",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1731013,
+    "dungeon_id": 1731013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1874
+  },
+  "2200160_sp3_16532301": {
+    "name": "Anthem of Remembrance-SP3 - War Archive",
+    "acv": 700,
+    "opsi": false,
+    "boss": {
+      "id": 16532301,
+      "hull": 3,
+      "nation": 99,
+      "name": "Enforcer XV: Restriction",
+      "stats": {
+        "hp": 33400,
+        "fp": 125,
+        "trp": 120,
+        "avi": 0,
+        "aa": 165,
+        "hit": 32,
+        "eva": 27,
+        "spd": 16,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 85,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss16",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1732013,
+    "dungeon_id": 1732013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1875
   }
 }
