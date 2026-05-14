@@ -133879,5 +133879,72 @@
       "JP",
       "CN"
     ]
+  },
+  "151140": {
+    "icon": "151140",
+    "id": 151140,
+    "name": "Key to the Tribunal's Hand",
+    "rarity": 4,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      61100
+    ],
+    "nation": 9,
+    "limit_group": 151140,
+    "hull_restriction": [],
+    "max": 11,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "eva",
+        "values": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      {
+        "stat": "hit",
+        "values": [
+          6,
+          7,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      }
+    ],
+    "labels": [
+      "ffnf",
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
   }
 }
