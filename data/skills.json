@@ -18074,7 +18074,7 @@
     ]
   },
   "14710": {
-    "description": "Every 20s after the start of battle: launches a $1 special barrage with a special Swordfish airstrike (DMG is based on the skill's level) that reduces the AA of enemies hit by 8.0% for 5s, and increases the DMG dealt by destroyers and Royal Navy Vanguard ships by $2 for 8s.",
+    "description": "Every 20s after the start of battle: launches a $1 special barrage with a special Swordfish airstrike (DMG is based on the skill's level) that reduces the AA of enemies hit by 8.0% for 5s, and increases the DMG dealt by destroyers and Royal Navy Vanguard ships {to enemies hit|The game does not indicate that only enemies hit by the barrage are actually affected.} by $2 for 8s.",
     "opsi_description": null,
     "name": "Destruction Bolt",
     "max": 10,
@@ -49397,7 +49397,7 @@
     "values": []
   },
   "111210": {
-    "description": "Every 18s: fires a special beam. If Lala Satalin Deviluke or Momo Belia Deviluke are in your fleet: improves the special beam.",
+    "description": "Every 18s: fires a {improved|Due to a bug this beam's default state is the improved version} special beam. If Lala Satalin Deviluke or Momo Belia Deviluke are in your fleet: {de-improves|Due to a bug that leads to this beam being improved by default, sortieing her with her sisters actually means the beam gets worse.} the special beam.",
     "opsi_description": null,
     "name": "Deviluke Royal Might",
     "max": 10,
@@ -49447,7 +49447,7 @@
     "values": []
   },
   "112010": {
-    "description": "Increases this ship's Main Gun efficiency by $1. When this ship finishes loading her Main Guns: $4 chance to enter the Limit Released state, increasing her FP, ACC, and RLD by $2 for 10s. When this ship fires her Main Guns: increases this ship's Main Gun Crit Rate by $2 for 5s and, if this ship is in the Limit Released state, fires a $3 special barrage (DMG is based on the skill's level).",
+    "description": "Increases this ship's Main Gun efficiency by $1. When this ship finishes loading her Main Guns: $4 chance to enter the Limit Released state, increasing her FP, ACC, and RLD by $2 for 10s. When this ship fires her Main Guns: increases this ship's {Crit Rate|The game implies this only applies to her main gun but it applies to everything fired by her.} by $2 for 5s and, if this ship is in the Limit Released state, fires a $3 special barrage (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Transcend Worlds - Limit Released",
     "max": 10,
@@ -49506,7 +49506,7 @@
     ]
   },
   "112020": {
-    "description": "Increases this ship's Main Gun efficiency by $1. When this ship finishes loading her Main Guns: this ship enters the Limit Released state, increasing her FP, ACC, and RLD by $2 for 10s. When this ship fires her Main Guns: increases this ship's Main Gun Crit Rate by $1 for 5s and fires a $3 special barrage (DMG is based on the skill's level). Every even-numbered time this ship fires her Main Guns: additionally fires a $3 special barrage (DMG is based on the skill's level).",
+    "description": "Increases this ship's Main Gun efficiency by $1. When this ship finishes loading her Main Guns: this ship enters the Limit Released state, increasing her FP, ACC, and RLD by $2 for 10s. When this ship fires her Main Guns: increases this ship's {Crit Rate|The game implies this only applies to her main gun but it applies to everything fired by her.} by {$2|The game states incorrect values for this.} for 5s and fires a $3 special barrage (DMG is based on the skill's level). Every even-numbered time this ship fires her Main Guns: additionally fires a $3 special barrage (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Transcend Worlds - Limit Released+",
     "max": 10,
@@ -68454,7 +68454,7 @@
     ]
   },
   "1010750": {
-    "description": "When this ship fires her Main Guns: 5.0% chance to increase this ship's EVA and DMG dealt by $1 and decrease her aircraft DMG taken by $1 for 8s; additionally, decreases the SPD of a random enemy by $2 for 8s.",
+    "description": "When this ship fires her Main Guns: 5.0% chance to increase {increase this ship's EVA and aircraft DMG reduction by $1 for 8s, and increase her DMG dealt by $1 until battle ends.|Due to a bug the DMG increase is never actually removed meaning the moment it is trigger it lasts until the battle ends.}; additionally, decreases the SPD of a random enemy by $2 for 8s.",
     "opsi_description": null,
     "name": "The Nick+",
     "max": 10,
