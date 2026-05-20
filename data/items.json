@@ -66136,12 +66136,12 @@
       }
     ]
   },
-  "9999999209": {
-    "id": 9999999209,
-    "name": "Christmas UI",
+  "9999999208": {
+    "id": 9999999208,
+    "name": "Gilded Reverie UI",
     "description": "The Gilded Reverie themed Battle UI",
     "type": 97,
-    "icon": "props/ui_209",
+    "icon": "props/ui_208",
     "rarity": 5,
     "locations": [
       "IAP Purchase"
@@ -66153,13 +66153,13 @@
     ],
     "contains": [
       {
-        "id": 209,
+        "id": 208,
         "type": 99,
         "amount": 1,
         "blueprint": false,
         "linkable": false,
         "rarity": 5,
-        "icon": "uipreview/209",
+        "icon": "uipreview/208",
         "name": "Gilded Reverie"
       }
     ]
