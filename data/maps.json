@@ -76734,5 +76734,605 @@
     "time_limit": 180,
     "type": 15,
     "id": 1875
+  },
+  "2030001_a1_16850301": {
+    "name": "Alliance Before the Hagiobull-A1",
+    "acv": 100,
+    "opsi": false,
+    "boss": {
+      "id": 16850301,
+      "hull": 1,
+      "nation": 95,
+      "name": "Sin Shadow - Crow",
+      "stats": {
+        "hp": 3060,
+        "fp": 35,
+        "trp": 85,
+        "avi": 0,
+        "aa": 105,
+        "hit": 19,
+        "eva": 15,
+        "spd": 20,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        12,
+        8,
+        8
+      ],
+      "level": 25,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_mal_quzhu",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2030013,
+    "dungeon_id": 2030013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1876
+  },
+  "2030001_a2_16850302": {
+    "name": "Alliance Before the Hagiobull-A2",
+    "acv": 130,
+    "opsi": false,
+    "boss": {
+      "id": 16850302,
+      "hull": 2,
+      "nation": 95,
+      "name": "Sin Shadow - Sea Serpent",
+      "stats": {
+        "hp": 3600,
+        "fp": 40,
+        "trp": 60,
+        "avi": 0,
+        "aa": 125,
+        "hit": 20,
+        "eva": 16,
+        "spd": 20,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        12,
+        8,
+        8
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_mal_qingxun",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2030113,
+    "dungeon_id": 2030113,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1877
+  },
+  "2030001_a3_16850303": {
+    "name": "Alliance Before the Hagiobull-A3",
+    "acv": 165,
+    "opsi": false,
+    "boss": {
+      "id": 16850303,
+      "hull": 3,
+      "nation": 95,
+      "name": "Sin Shadow - Kobold",
+      "stats": {
+        "hp": 7200,
+        "fp": 80,
+        "trp": 120,
+        "avi": 0,
+        "aa": 140,
+        "hit": 21,
+        "eva": 21,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        15,
+        9,
+        9
+      ],
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_mal_zhongxun",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2030213,
+    "dungeon_id": 2030213,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1878
+  },
+  "2030002_b1_16851301": {
+    "name": "Alliance Before the Hagiobull-B1",
+    "acv": 210,
+    "opsi": false,
+    "boss": {
+      "id": 16851301,
+      "hull": 5,
+      "nation": 95,
+      "name": "Sin Shadow - Wolf",
+      "stats": {
+        "hp": 16500,
+        "fp": 160,
+        "trp": 0,
+        "avi": 0,
+        "aa": 180,
+        "hit": 25,
+        "eva": 16,
+        "spd": 20,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        18.7,
+        9,
+        9
+      ],
+      "level": 45,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_mal_zhanlie",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2031013,
+    "dungeon_id": 2031013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1879
+  },
+  "2030002_b2_16851302": {
+    "name": "Alliance Before the Hagiobull-B2",
+    "acv": 270,
+    "opsi": false,
+    "boss": {
+      "id": 16851302,
+      "hull": 7,
+      "nation": 95,
+      "name": "Sin Shadow - Wyrm",
+      "stats": {
+        "hp": 22800,
+        "fp": 120,
+        "trp": 0,
+        "avi": 165,
+        "aa": 240,
+        "hit": 25,
+        "eva": 19,
+        "spd": 20,
+        "luck": 8,
+        "armor": 1
+      },
+      "cld": [
+        18.7,
+        9,
+        9
+      ],
+      "level": 55,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_mal_hangmu",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2031113,
+    "dungeon_id": 2031113,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1880
+  },
+  "2030002_b3_16851303": {
+    "name": "Alliance Before the Hagiobull-B3",
+    "acv": 330,
+    "opsi": false,
+    "boss": {
+      "id": 16851303,
+      "hull": 15,
+      "nation": 95,
+      "name": "Sin Shadow - World Tree",
+      "stats": {
+        "hp": 32400,
+        "fp": 186,
+        "trp": 0,
+        "avi": 0,
+        "aa": 365,
+        "hit": 26,
+        "eva": 21,
+        "spd": 16,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        16,
+        25,
+        25
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_mal_boss01",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2031213,
+    "dungeon_id": 2031213,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1881
+  },
+  "2030011_c1_16852301": {
+    "name": "Alliance Before the Hagiobull-C1",
+    "acv": 455,
+    "opsi": false,
+    "boss": {
+      "id": 16852301,
+      "hull": 1,
+      "nation": 95,
+      "name": "Sin Shadow - Crow",
+      "stats": {
+        "hp": 32000,
+        "fp": 125,
+        "trp": 280,
+        "avi": 0,
+        "aa": 210,
+        "hit": 44,
+        "eva": 45,
+        "spd": 18,
+        "luck": 18,
+        "armor": 0
+      },
+      "cld": [
+        12,
+        8,
+        8
+      ],
+      "level": 75,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_mal_quzhu",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2032013,
+    "dungeon_id": 2032013,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1882
+  },
+  "2030011_c2_16852302": {
+    "name": "Alliance Before the Hagiobull-C2",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "id": 16852302,
+      "hull": 2,
+      "nation": 95,
+      "name": "Sin Shadow - Sea Serpent",
+      "stats": {
+        "hp": 36500,
+        "fp": 120,
+        "trp": 180,
+        "avi": 0,
+        "aa": 125,
+        "hit": 46,
+        "eva": 53,
+        "spd": 20,
+        "luck": 18,
+        "armor": 0
+      },
+      "cld": [
+        12,
+        8,
+        8
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_mal_qingxun",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2032113,
+    "dungeon_id": 2032113,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1883
+  },
+  "2030011_c3_16852303": {
+    "name": "Alliance Before the Hagiobull-C3",
+    "acv": 775,
+    "opsi": false,
+    "boss": {
+      "id": 16852303,
+      "hull": 3,
+      "nation": 95,
+      "name": "Sin Shadow - Kobold",
+      "stats": {
+        "hp": 56000,
+        "fp": 220,
+        "trp": 120,
+        "avi": 0,
+        "aa": 225,
+        "hit": 48,
+        "eva": 44,
+        "spd": 18,
+        "luck": 18,
+        "armor": 1
+      },
+      "cld": [
+        15,
+        9,
+        9
+      ],
+      "level": 85,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_mal_zhongxun",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2032213,
+    "dungeon_id": 2032213,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1884
+  },
+  "2030012_d1_16853301": {
+    "name": "Alliance Before the Hagiobull-D1",
+    "acv": 850,
+    "opsi": false,
+    "boss": {
+      "id": 16853301,
+      "hull": 5,
+      "nation": 95,
+      "name": "Sin Shadow - Wolf",
+      "stats": {
+        "hp": 86200,
+        "fp": 280,
+        "trp": 0,
+        "avi": 0,
+        "aa": 260,
+        "hit": 69,
+        "eva": 32,
+        "spd": 20,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        18.7,
+        9,
+        9
+      ],
+      "level": 95,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_mal_zhanlie",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2033013,
+    "dungeon_id": 2033013,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1885
+  },
+  "2030012_d2_16853302": {
+    "name": "Alliance Before the Hagiobull-D2",
+    "acv": 1100,
+    "opsi": false,
+    "boss": {
+      "id": 16853302,
+      "hull": 7,
+      "nation": 95,
+      "name": "Sin Shadow - Wyrm",
+      "stats": {
+        "hp": 91000,
+        "fp": 160,
+        "trp": 0,
+        "avi": 300,
+        "aa": 390,
+        "hit": 43,
+        "eva": 53,
+        "spd": 20,
+        "luck": 25,
+        "armor": 1
+      },
+      "cld": [
+        18.7,
+        9,
+        9
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_mal_hangmu",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2033113,
+    "dungeon_id": 2033113,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1886
+  },
+  "2030012_d3_16853303": {
+    "name": "Alliance Before the Hagiobull-D3",
+    "acv": 1410,
+    "opsi": false,
+    "boss": {
+      "id": 16853303,
+      "hull": 15,
+      "nation": 95,
+      "name": "Sin Shadow - World Tree",
+      "stats": {
+        "hp": 115000,
+        "fp": 300,
+        "trp": 0,
+        "avi": 0,
+        "aa": 460,
+        "hit": 52,
+        "eva": 40,
+        "spd": 18,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        16,
+        25,
+        25
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_mal_boss01",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2033213,
+    "dungeon_id": 2033213,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1887
+  },
+  "2030025_sp_16854301": {
+    "name": "Alliance Before the Hagiobull-SP",
+    "acv": 1820,
+    "opsi": false,
+    "boss": {
+      "id": 16854301,
+      "hull": 15,
+      "nation": 95,
+      "name": "Sin Shadow - World Tree",
+      "stats": {
+        "hp": 155000,
+        "fp": 460,
+        "trp": 0,
+        "avi": 0,
+        "aa": 460,
+        "hit": 86,
+        "eva": 60,
+        "spd": 18,
+        "luck": 35,
+        "armor": 2
+      },
+      "cld": [
+        16,
+        25,
+        25
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_mal_boss01",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2034013,
+    "dungeon_id": 2034013,
+    "time_limit": 180,
+    "type": 5,
+    "id": 1888
+  },
+  "2030026_extra_16855001": {
+    "name": "Alliance Before the Hagiobull-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16855001,
+      "hull": 15,
+      "nation": 95,
+      "name": "Sin Shadow - World Tree",
+      "stats": {
+        "hp": 1000000,
+        "fp": 333,
+        "trp": 0,
+        "avi": 0,
+        "aa": 444,
+        "hit": 120,
+        "eva": 0,
+        "spd": 25,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        16,
+        25,
+        25
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_mal_boss01",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2035001,
+    "dungeon_id": 2035001,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1889
+  },
+  "2030026_extra_16855101": {
+    "name": "Alliance Before the Hagiobull-EXTRA",
+    "acv": 620,
+    "opsi": false,
+    "boss": {
+      "id": 16855101,
+      "hull": 15,
+      "nation": 95,
+      "name": "Sin Shadow - World Tree",
+      "stats": {
+        "hp": 1250000,
+        "fp": 888,
+        "trp": 0,
+        "avi": 0,
+        "aa": 666,
+        "hit": 9999,
+        "eva": 0,
+        "spd": 25,
+        "luck": 99,
+        "armor": 2
+      },
+      "cld": [
+        16,
+        25,
+        25
+      ],
+      "level": 125,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "unknownv_mal_boss01",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2035002,
+    "dungeon_id": 2035002,
+    "time_limit": 300,
+    "type": 6,
+    "id": 1890
   }
 }

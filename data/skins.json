@@ -10837,6 +10837,30 @@
     "l2d_plus": false,
     "asmr": false
   },
+  "204035": {
+    "id": 204035,
+    "name": "Elegance Meant for One",
+    "type": 0,
+    "category": 7,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "hude_6",
+    "bg": "322",
+    "obtain_type": 8,
+    "price": 0,
+    "currency": 0,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false,
+    "l2d_plus": false,
+    "asmr": false
+  },
   "204038": {
     "id": 204038,
     "name": "Rosey Love Poem",
@@ -21199,6 +21223,30 @@
     "l2d_plus": false,
     "asmr": false
   },
+  "307152": {
+    "id": 307152,
+    "name": "The Mermaid of the Emerald Sea",
+    "type": 0,
+    "category": 6,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "tiancheng_cv_3",
+    "bg": "134",
+    "obtain_type": 0,
+    "price": 1180,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": true,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false,
+    "l2d_plus": false,
+    "asmr": false
+  },
   "307158": {
     "id": 307158,
     "name": "Moonlit Blossom on Placid Seas",
@@ -22639,6 +22687,54 @@
     "l2d_plus": false,
     "asmr": false
   },
+  "401141": {
+    "id": 401141,
+    "name": "Lost in the Summer Sun",
+    "type": 0,
+    "category": 6,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "z14_2",
+    "bg": "164",
+    "obtain_type": 0,
+    "price": 780,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false,
+    "l2d_plus": false,
+    "asmr": false
+  },
+  "401151": {
+    "id": 401151,
+    "name": "Dancing Diver",
+    "type": 0,
+    "category": 6,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "z15_2",
+    "bg": "134",
+    "obtain_type": 0,
+    "price": 930,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false,
+    "l2d_plus": false,
+    "asmr": false
+  },
   "401161": {
     "id": 401161,
     "name": "Guaranteed Grand Slam!",
@@ -23371,6 +23467,10 @@
     ],
     "icon": "z52_3",
     "bg": "168",
+    "obtain_type": 2,
+    "price": 0,
+    "currency": 0,
+    "is_permanent": false,
     "l2d": false,
     "dynamic": false,
     "custom_bgm": false,
@@ -23827,6 +23927,30 @@
     "price": 780,
     "currency": 59005,
     "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false,
+    "l2d_plus": false,
+    "asmr": false
+  },
+  "403019": {
+    "id": 403019,
+    "name": "Admiral Hipper (Retrofit)",
+    "type": 2,
+    "category": 9997,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "xipeierhaijunshangjiang_g",
+    "bg": null,
+    "obtain_type": 7,
+    "price": 0,
+    "currency": 0,
+    "is_permanent": true,
     "l2d": false,
     "dynamic": false,
     "custom_bgm": false,
@@ -24531,6 +24655,30 @@
     "l2d_plus": false,
     "asmr": false
   },
+  "403171": {
+    "id": 403171,
+    "name": "The Genie's Game",
+    "type": 4,
+    "category": 6,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "molici_2",
+    "bg": "610",
+    "obtain_type": 0,
+    "price": 1030,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false,
+    "l2d_plus": false,
+    "asmr": false
+  },
   "404011": {
     "id": 404011,
     "name": "Panther und Pflaume",
@@ -25201,6 +25349,30 @@
     "dynamic_bg": false,
     "dual_form": false,
     "l2d_plus": false,
+    "asmr": false
+  },
+  "405071": {
+    "id": 405071,
+    "name": "Rapture Beneath the Blood Moon",
+    "type": 0,
+    "category": 6,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "gezi_2",
+    "bg": "149",
+    "obtain_type": 0,
+    "price": 1260,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false,
+    "l2d_plus": true,
     "asmr": false
   },
   "406011": {
@@ -26187,6 +26359,30 @@
     "l2d_plus": false,
     "asmr": false
   },
+  "408151": {
+    "id": 408151,
+    "name": "Treasure Behind the Water Curtain",
+    "type": 0,
+    "category": 6,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "u2501_2",
+    "bg": "193",
+    "obtain_type": 0,
+    "price": 1180,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": true,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false,
+    "l2d_plus": false,
+    "asmr": false
+  },
   "431230": {
     "id": 431230,
     "name": "Keeper of the Comf-Fort",
@@ -26346,6 +26542,30 @@
     "currency": 59005,
     "is_permanent": true,
     "l2d": true,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false,
+    "l2d_plus": false,
+    "asmr": false
+  },
+  "499013": {
+    "id": 499013,
+    "name": "Enticement in the Indigo Darkness",
+    "type": 0,
+    "category": 9,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "luoen_5",
+    "bg": "193",
+    "obtain_type": 0,
+    "price": 880,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": false,
     "dynamic": false,
     "custom_bgm": false,
     "dynamic_bg": false,
@@ -32948,6 +33168,54 @@
     "custom_bgm": false,
     "dynamic_bg": false,
     "dual_form": false,
+    "l2d_plus": false,
+    "asmr": false
+  },
+  "901073": {
+    "id": 901073,
+    "name": "Diving for Desire (L2D Form)",
+    "type": 0,
+    "category": 6,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "mojiaduoer_4",
+    "bg": "611",
+    "obtain_type": 0,
+    "price": 1680,
+    "currency": 59005,
+    "is_permanent": false,
+    "l2d": true,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": true,
+    "l2d_plus": false,
+    "asmr": false
+  },
+  "901074": {
+    "id": 901074,
+    "name": "Diving for Desire (Dynamic Form)",
+    "type": 6,
+    "category": 6,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "mojiaduoer_5",
+    "bg": null,
+    "obtain_type": 9,
+    "price": 0,
+    "currency": 0,
+    "is_permanent": true,
+    "l2d": false,
+    "dynamic": true,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": true,
     "l2d_plus": false,
     "asmr": false
   },

@@ -19979,6 +19979,103 @@
       "JP"
     ]
   },
+  "3077": {
+    "id": 3077,
+    "name": "Dali Shake-and-Drink Torpedo",
+    "icon": "99196",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Dali shakes it up—a screen-bursting explosion of sweet and sour flavor!",
+    "servers": [
+      "CN"
+    ]
+  },
+  "3079": {
+    "id": 3079,
+    "name": "Scarlet Pulse Torpedo",
+    "icon": "99198",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "A lethal high-speed attack using pulse propulsion.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "3080": {
+    "id": 3080,
+    "name": "Scarlet Swarm Shell",
+    "icon": "99199",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "A dangerous swarm of hungry vampire bats.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "3081": {
+    "id": 3081,
+    "name": "Scarlet Sentinels",
+    "icon": "99200",
+    "types": [
+      10
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Dusky wings take flight, shells raining down in their wake.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "3082": {
+    "id": 3082,
+    "name": "Scarlet Mecha-tentacles",
+    "icon": "99201",
+    "types": [
+      10
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Flexible and adaptable, capable of both offense and defense.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "3083": {
+    "id": 3083,
+    "name": "Fear No Sunshine",
+    "icon": "99202",
+    "types": [
+      10
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "Even the brightest sunshine cannot compare the shimmering jewels in this hat.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "4001": {
     "id": 4001,
     "name": "Little Blocks Shell",
@@ -26053,6 +26150,306 @@
     "rarity": 4,
     "theme": "Beachside Brilliance",
     "description": "I'll grab onto my orca buddy's fin and... cowabunga!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4366": {
+    "id": 4366,
+    "name": "Candy Jewel Shell",
+    "icon": "102201",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Dazzling Jewels",
+    "description": "The first one tastes like heaven, the second one takes you there.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4367": {
+    "id": 4367,
+    "name": "Diamond Heart Shell",
+    "icon": "102202",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Dazzling Jewels",
+    "description": "This crystal-clear jewel captivates the heart.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4368": {
+    "id": 4368,
+    "name": "Golden Pearl Shell",
+    "icon": "102203",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Dazzling Jewels",
+    "description": "Perfectly-round and glittering-gold, a perfect symbol of wealth and prosperity.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4369": {
+    "id": 4369,
+    "name": "Jeweled Watch Torpedo",
+    "icon": "102204",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Dazzling Jewels",
+    "description": "Every moment touched by its hands turns into gold.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4370": {
+    "id": 4370,
+    "name": "Aquamarine Bracelet Torpedo",
+    "icon": "102205",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Dazzling Jewels",
+    "description": "A cold, enchanting galaxy on your wrist.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4371": {
+    "id": 4371,
+    "name": "Crystal Earring Torpedo",
+    "icon": "102206",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Dazzling Jewels",
+    "description": "Shimmering crystals reflect the star-strewn sky.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4372": {
+    "id": 4372,
+    "name": "Moon Necklace Shell",
+    "icon": "102207",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Dazzling Jewels",
+    "description": "A warm, precious jewel adorning your elegant neck.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4373": {
+    "id": 4373,
+    "name": "Money Bag Shell",
+    "icon": "102208",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Dazzling Jewels",
+    "description": "It is not a bag that you carry, but luxury itself.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4374": {
+    "id": 4374,
+    "name": "Azure Crown Shell",
+    "icon": "102209",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Dazzling Jewels",
+    "description": "A legendary crown of wealth and status.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4375": {
+    "id": 4375,
+    "name": "Shopping Manjuu (Torpedo)",
+    "icon": "102210",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Dazzling Jewels",
+    "description": "Time for a shopping spree, peep!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4376": {
+    "id": 4376,
+    "name": "Shopping Manjuu (Fighter)",
+    "icon": "102210",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Dazzling Jewels",
+    "description": "Time for a shopping spree, peep!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4377": {
+    "id": 4377,
+    "name": "Shopping Manjuu (Bomber)",
+    "icon": "102210",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Dazzling Jewels",
+    "description": "Time for a shopping spree, peep!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4378": {
+    "id": 4378,
+    "name": "Supercar Manjuu (Torpedo)",
+    "icon": "102211",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Dazzling Jewels",
+    "description": "Behold the speed of a NOS car!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4379": {
+    "id": 4379,
+    "name": "Supercar Manjuu (Fighter)",
+    "icon": "102211",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Dazzling Jewels",
+    "description": "Behold the speed of a NOS car!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4380": {
+    "id": 4380,
+    "name": "Supercar Manjuu (Bomber)",
+    "icon": "102211",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Dazzling Jewels",
+    "description": "Behold the speed of a NOS car!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4381": {
+    "id": 4381,
+    "name": "Jewelry Manjuu (Torpedo)",
+    "icon": "102212",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Dazzling Jewels",
+    "description": "Adorn yourself with jewels to become your best self.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4382": {
+    "id": 4382,
+    "name": "Jewelry Manjuu (Fighter)",
+    "icon": "102212",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Dazzling Jewels",
+    "description": "Adorn yourself with jewels to become your best self.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4383": {
+    "id": 4383,
+    "name": "Jewelry Manjuu (Bomber)",
+    "icon": "102212",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Dazzling Jewels",
+    "description": "Adorn yourself with jewels to become your best self.",
     "servers": [
       "EN",
       "JP",

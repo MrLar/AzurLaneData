@@ -40980,6 +40980,46 @@
     "icon": 30590,
     "values": []
   },
+  "30601": {
+    "description": "When this boat's OXY reaches 0 and she resurfaces, activates All Out Assault I: U-2501.",
+    "opsi_description": null,
+    "name": "All Out Assault I",
+    "max": 1,
+    "id": 30601,
+    "type": 1,
+    "icon": 30600,
+    "values": []
+  },
+  "30602": {
+    "description": "When this boat's OXY reaches 0 and she resurfaces, activates All Out Assault II: U-2501.",
+    "opsi_description": null,
+    "name": "All Out Assault II",
+    "max": 1,
+    "id": 30602,
+    "type": 1,
+    "icon": 30600,
+    "values": []
+  },
+  "30611": {
+    "description": "Every 9 times the Main Gun is fired: activates All Out Assault I: P-Class; every 15 times the special secondary gun is fired: activates Torpedo Barrage I.",
+    "opsi_description": null,
+    "name": "All Out Assault I",
+    "max": 1,
+    "id": 30611,
+    "type": 1,
+    "icon": 20200,
+    "values": []
+  },
+  "30612": {
+    "description": "Every 6 times the Main Gun is fired: activates All Out Assault II: P-Class; every 10 times the special secondary gun is fired: activates Torpedo Barrage II.",
+    "opsi_description": null,
+    "name": "All Out Assault II",
+    "max": 1,
+    "id": 30612,
+    "type": 1,
+    "icon": 20200,
+    "values": []
+  },
   "60100": {
     "description": "When equipped by a Royal Navy ship: increases that ship's Evasion Rate by 5.0%.",
     "opsi_description": null,
@@ -59890,6 +59930,524 @@
       ]
     ]
   },
+  "152270": {
+    "description": "Every 20s after the start of battle: fires a $1 special barrage (DMG is based on the skill's level), and increases this ship's FP and ACC by $2 for 15s. Whenever this ship takes DMG: activates this barrage (20s cooldown between activations).",
+    "opsi_description": null,
+    "name": "Little Ihn!",
+    "max": 10,
+    "id": 152270,
+    "type": 1,
+    "icon": 152270,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "15.0%",
+        "16.6%",
+        "18.2%",
+        "19.8%",
+        "21.4%",
+        "23.0%",
+        "24.6%",
+        "26.4%",
+        "28.2%",
+        "30.0%"
+      ]
+    ]
+  },
+  "152280": {
+    "description": "At the start of battle, as long as this ship is not in the frontmost position of the Vanguard, the following effects will be applied to the frontmost ship of the Vanguard:\n• Increases this ship's ACC and EVA by $1 until the end of battle.\n• Once per battle, if this ship's HP falls below 50.0% as a result of DMG taken: restores 10.0% of this ship's Max HP.",
+    "opsi_description": null,
+    "name": "A Small Token of Appreciation",
+    "max": 10,
+    "id": 152280,
+    "type": 3,
+    "icon": 152280,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
+  "152290": {
+    "description": "As long as there are enemies within 40 units of this ship: increases this ship's FP and TRP by $2, and reduces her DMG taken by $1; additionally, shells from this ship's special secondary guns ignore enemy shields.",
+    "opsi_description": null,
+    "name": "Jump Scare!",
+    "max": 10,
+    "id": 152290,
+    "type": 2,
+    "icon": 152290,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
+  "152300": {
+    "description": "Every 6 times this ship fires her Main Guns: fires a $1 special barrage (DMG is based on the skill's level). When this ship is equipped with a Main Gun that has a caliber of 280mm or greater: the number of Main Gun attacks required to trigger this barrage is reduced to 3, and the barrage will be improved. Once per battle, if this ship's HP falls below 30.0% as a result of DMG taken: reduces this ship's DMG taken by $2 until the end of battle.",
+    "opsi_description": null,
+    "name": "Time For A Spooky Story!",
+    "max": 10,
+    "id": 152300,
+    "type": 1,
+    "icon": 152300,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ]
+    ]
+  },
+  "152310": {
+    "description": "During battle, each time this ship launches her torpedoes: $1 chance to launch a $2 special barrage (DMG is based on the skill's level). Enemies hit by this barrage take $3 increased Torpedo DMG for 10s.",
+    "opsi_description": null,
+    "name": "Waverider's Pursuit",
+    "max": 10,
+    "id": 152310,
+    "type": 1,
+    "icon": 152310,
+    "values": [
+      [
+        "40.0%",
+        "43.3%",
+        "46.6%",
+        "49.9%",
+        "53.2%",
+        "56.5%",
+        "59.8%",
+        "63.1%",
+        "66.4%",
+        "70.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "4.0%",
+        "4.6%",
+        "5.2%",
+        "6.0%",
+        "6.6%",
+        "7.2%",
+        "8.0%",
+        "8.6%",
+        "9.2%",
+        "10.0%"
+      ]
+    ]
+  },
+  "152320": {
+    "description": "At the start of battle, increases this ship's TRP and RLD by $1, and AP DMG by $2. Once each battle, whenever this ship takes DMG totalling up to 20.0% of her Max HP: deploys a shield that can block up to 15 enemy projectiles, lasting up to 20s.",
+    "opsi_description": null,
+    "name": "Passionate Protector",
+    "max": 10,
+    "id": 152320,
+    "type": 3,
+    "icon": 152320,
+    "values": [
+      [
+        "4.0%",
+        "4.6%",
+        "5.2%",
+        "6.0%",
+        "6.6%",
+        "7.2%",
+        "8.0%",
+        "8.6%",
+        "9.2%",
+        "10.0%"
+      ],
+      [
+        "15.0%",
+        "16.1%",
+        "17.2%",
+        "18.3%",
+        "19.4%",
+        "20.5%",
+        "21.6%",
+        "22.7%",
+        "23.8%",
+        "25.0%"
+      ]
+    ]
+  },
+  "152330": {
+    "description": "When this ship's Main Gun finishes reloading: $1 chance to target an enemy, increasing their DMG taken by $2 for 6s (prioritizes humanoid enemies) and fires a $3 special barrage (DMG is based on the skill's level);\nWhen an enemy enters a certain range from this ship: fires a $3 special barrage (DMG is based on the skill's level; 15s cooldown between activations). When this effect is activated for the first time each battle: restores 6.0% of this ship's Max HP.",
+    "opsi_description": null,
+    "name": "Let Judgment Be Decreed by Iron Fist",
+    "max": 10,
+    "id": 152330,
+    "type": 1,
+    "icon": 152330,
+    "values": [
+      [
+        "50.0%",
+        "55.0%",
+        "60.0%",
+        "65.0%",
+        "70.0%",
+        "75.0%",
+        "80.0%",
+        "85.0%",
+        "90.0%",
+        "100%"
+      ],
+      [
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "152340": {
+    "description": "At the start of battle, increases this ship's FP, ACC, and RLD by $1. Shortens the reload time of this ship's Main Guns by 50.0% but reduces Main Gun DMG by $2. During battle, increases this ship's Crit Rate by $3 and Crit DMG by $4 against enemies that have been on the field for longer than 2s.",
+    "opsi_description": null,
+    "name": "Let the Ode of Rebellion Forever Resound",
+    "max": 10,
+    "id": 152340,
+    "type": 3,
+    "icon": 152340,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "55.0%",
+        "54.0%",
+        "53.0%",
+        "52.0%",
+        "51.0%",
+        "50.0%",
+        "49.0%",
+        "48.0%",
+        "47.0%",
+        "45.0%"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ]
+    ]
+  },
+  "152350": {
+    "description": "At the start of battle, reduces this ship's DMG taken by $1. As long as this ship is afloat: reduces the Burn DMG taken by Iron Blood ships in your Main Fleet by $2. When a fleet this ship is NOT in starts its first 3 battles of a sortie: as long as this ship is still afloat, fires a $3 supporting barrage 30s after the start of battle and restores 5.0% of the flagship's Max HP (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "May the Pact of Blood Never Burn Away",
+    "max": 10,
+    "id": 152350,
+    "type": 2,
+    "icon": 152350,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "1.0%",
+        "1.4%",
+        "1.8%",
+        "2.2%",
+        "2.6%",
+        "3.0%",
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%"
+      ]
+    ]
+  },
+  "152360": {
+    "description": "At the start of battle and every 15s after that: deploys 2 types of $1 shields for up to 10s; the violet shield can block up to 2 torpedoes, while the crimson shield can inflict up to 6 instances of collision DMG (DMG is based on the skill's level). Whenever this ship hits an enemy with her torpedoes: restores 1.0% Max HP to all Admiral Hipper-class ships.",
+    "opsi_description": null,
+    "name": "Twin-Thorned Shield",
+    "max": 10,
+    "id": 152360,
+    "type": 3,
+    "icon": 152360,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "152370": {
+    "description": "When deployed into a sortie, increases this boat's ASR and AMO by 1; at the start of battle, increases this boat's TRP and RLD by $1.\nWhenever this boat's torpedoes hit an enemy: $2 chance to inflict a special Flooding debuff (takes DMG every 3s based on U-2501's TRP, lasting for 15s); additionally, increases the DMG this boat deals to Flooding enemies by $1.\nWhenever any other ally in the Submarine Fleet hits an enemy with torpedoes: $2 chance to increases this boat's ACC by $1 (stacks up to 10 times, lasting until the boat leaves the battle); upon reaching 10 stacks, restores $1 of this boat's Max HP.",
+    "opsi_description": "When called in as Submarine Support in Operation Siren: decreases AP consumption by $3, and increases the Submarine Fleet's Ammo by 1.\nAt the start of battle: increases this boat's TRP and RLD by $1.\nWhenever this boat's torpedoes hit an enemy: $2 chance to inflict a special Flooding debuff (takes DMG every 3s based on U-2501's TRP, lasting for 15s); additionally, increases the DMG this boat deals to Flooding enemies by $1.\nWhenever any other ally in the Submarine Fleet hits an enemy with torpedoes: $2 chance to increases this boat's ACC by $1 (stacks up to 10 times, lasting until the boat leaves the battle); upon reaching 10 stacks, restores $1 of this boat's Max HP.",
+    "name": "Deep-Sea Resonator",
+    "max": 10,
+    "id": 152370,
+    "type": 3,
+    "icon": 152370,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "40.0%",
+        "43.3%",
+        "46.6%",
+        "49.9%",
+        "53.2%",
+        "56.5%",
+        "59.8%",
+        "63.1%",
+        "66.4%",
+        "70.0%"
+      ]
+    ],
+    "opsi_values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "40.0%",
+        "43.3%",
+        "46.6%",
+        "49.9%",
+        "53.2%",
+        "56.5%",
+        "59.8%",
+        "63.1%",
+        "66.4%",
+        "70.0%"
+      ],
+      [
+        "4.5%",
+        "5.2%",
+        "6.0%",
+        "7.0%",
+        "7.7%",
+        "8.5%",
+        "9.5%",
+        "10.2%",
+        "11.0%",
+        "12.0%"
+      ]
+    ]
+  },
+  "152380": {
+    "description": "At the start of battle: if all 3 allied submarines are present, increases this boat's Torpedo Crit Rate by $3. During battle, increases this boat's OXY by $1. 1s after this boat's OXY reaches 0 and she resurfaces, this boat retreats from battle. 5s after the start of battle: launches a $2 special barrage (DMG is based on the skill's level).\n15s after starting battle with a fleet that this boat is NOT in: as long as this boat has not been sunk, launches a $2 supporting barrage (DMG is based on the skill's level), revealing all enemy submarines in the area for 8s and reducing the ACC and EVA of all enemies on the field by $3 for 8s.",
+    "opsi_description": null,
+    "name": "Listener of the Tides",
+    "max": 10,
+    "id": 152380,
+    "type": 1,
+    "icon": 152380,
+    "values": [
+      [
+        "4",
+        "8",
+        "12",
+        "16",
+        "20",
+        "24",
+        "28",
+        "32",
+        "36",
+        "40"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
   "190000": {
     "description": "When the battle starts, if this ship has a Main Gun equipped that fires AP ammo: increases this ship's Crit Rate and Crit DMG by $1 and Main Gun efficiency by $2. When the battle starts: randomly selects a BB or BC in your fleet and gives her the Concerted Strike status; when the ship with this status fires her Main Guns, Dmitri Donskoi fires a $3 AP barrage (DMG is based on the skill's level) and inflicts the Pierced Mark status (lasting 5s; increases AP DMG taken by 5.0%) on all enemies on the battlefield (does not stack). Increases this ship's DMG dealt against enemies with the Pierced Mark status by $4.",
     "opsi_description": null,
@@ -66856,6 +67414,84 @@
     "id": 802172,
     "type": 3,
     "icon": 802170,
+    "values": []
+  },
+  "802210": {
+    "description": "At the start of battle, increases this ship's AVI and ACC by $1. At the start of battle, and whenever this ship launches an airstrike: deploys a shield for the frontmost ship of the Vanguard that can absorb 6 bullets, lasting for up to 8s (if this effect activates while this shield is still active, the shield will be refreshed); if this shield is destroyed while this effect is active: reduces the frontmost ship of the Vanguard's DMG taken by $2 for 10s.",
+    "opsi_description": null,
+    "name": "Leave it to Elbe!",
+    "max": 10,
+    "id": 802210,
+    "type": 2,
+    "icon": 802210,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ]
+    ]
+  },
+  "802220": {
+    "description": "Whenever this ship launches an airstrike: launches an additional $1 special airstrike. During battle, whenever the shield created by [Leave it to Elbe!] is destroyed by enemy fire, this ship gains the following effects based on the number of times the shield has been broken in this manner during this battle:\n1 time: Launches a $1 special barrage (DMG is based on the skill's level).\n2 times: When this ship readies her next Airstrike: for the next 6s, doubles this ship's DMG dealt.\n3 times: Restores 5.0% HP to the ship with the lowest HP percentage.",
+    "opsi_description": null,
+    "name": "This One's for Good Measure!",
+    "max": 10,
+    "id": 802220,
+    "type": 3,
+    "icon": 802220,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "802231": {
+    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "opsi_description": null,
+    "name": "Cinders of Hope - Elbe I",
+    "max": 1,
+    "id": 802231,
+    "type": 3,
+    "icon": 802230,
+    "values": []
+  },
+  "802232": {
+    "description": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "opsi_description": null,
+    "name": "Cinders of Hope - Elbe II",
+    "max": 1,
+    "id": 802232,
+    "type": 3,
+    "icon": 802230,
     "values": []
   },
   "901010": {

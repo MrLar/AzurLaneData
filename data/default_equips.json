@@ -8001,5 +8001,81 @@
       "JP",
       "CN"
     ]
+  },
+  "180025": {
+    "icon": "default_2",
+    "id": 180025,
+    "name": "莫里茨突破后自带150mm副炮",
+    "rarity": 1,
+    "tech": 1,
+    "type": 2,
+    "description": "",
+    "skills": [],
+    "nation": 0,
+    "limit_group": 0,
+    "hull_restriction": [],
+    "max": 0,
+    "armaments": null,
+    "weapon": {
+      "aircraft": false,
+      "reload": [
+        301
+      ],
+      "damage": [
+        25
+      ],
+      "coefficient": [
+        1.15
+      ],
+      "count": 4,
+      "delay": 0.1,
+      "range": [
+        0,
+        90
+      ],
+      "id": 180025,
+      "spread_angle": "0° No Spread",
+      "barrage_id": 1001,
+      "stat": "fp",
+      "ratio": 1,
+      "weapon_type": 2,
+      "aim_type": 1,
+      "bullet_id": 164099,
+      "armor_mod": [
+        1.35,
+        1,
+        0.75
+      ],
+      "ammo": 3,
+      "bullet_type": 1,
+      "spread": [
+        0,
+        0
+      ],
+      "splash": 0,
+      "velocity": 22,
+      "pierce": 1,
+      "shell_range": [
+        75,
+        85
+      ],
+      "angle": 360,
+      "volley_info": [
+        2,
+        2
+      ]
+    },
+    "stats": [],
+    "labels": [],
+    "speciality": "Ghost/Default",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": false,
+    "important": false,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
   }
 }

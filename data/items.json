@@ -4396,6 +4396,24 @@
     ],
     "contains": []
   },
+  "21061": {
+    "id": 21061,
+    "name": "META Crystal - Elbe META",
+    "description": "An item that increases the potential of Elbe META. Used in the META Lab during Somatic Activation.",
+    "type": 4,
+    "icon": "props/21061",
+    "rarity": 5,
+    "locations": [
+      "Alliance Before the Hagiobull",
+      "META Shop"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "21101": {
     "id": 21101,
     "name": "Crystallized Heat-Resistant Steel",
@@ -33530,6 +33548,204 @@
       }
     ]
   },
+  "30384": {
+    "id": 30384,
+    "name": "Gear Skin Box (Dazzling Jewels)",
+    "description": "Contains a random Dazzling Jewels-themed gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxshehuapaidui",
+    "rarity": 5,
+    "locations": [
+      "Alliance Before the Hagiobull"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 4366,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102201",
+        "name": "Candy Jewel Shell"
+      },
+      {
+        "id": 4367,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102202",
+        "name": "Diamond Heart Shell"
+      },
+      {
+        "id": 4368,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102203",
+        "name": "Golden Pearl Shell"
+      },
+      {
+        "id": 4369,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102204",
+        "name": "Jeweled Watch Torpedo"
+      },
+      {
+        "id": 4370,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102205",
+        "name": "Aquamarine Bracelet Torpedo"
+      },
+      {
+        "id": 4371,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102206",
+        "name": "Crystal Earring Torpedo"
+      },
+      {
+        "id": 4372,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102207",
+        "name": "Moon Necklace Shell"
+      },
+      {
+        "id": 4373,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102208",
+        "name": "Money Bag Shell"
+      },
+      {
+        "id": 4374,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102209",
+        "name": "Azure Crown Shell"
+      },
+      {
+        "id": 4375,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102210",
+        "name": "Shopping Manjuu (Torpedo)"
+      },
+      {
+        "id": 4376,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102210",
+        "name": "Shopping Manjuu (Fighter)"
+      },
+      {
+        "id": 4377,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102210",
+        "name": "Shopping Manjuu (Bomber)"
+      },
+      {
+        "id": 4378,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102211",
+        "name": "Supercar Manjuu (Torpedo)"
+      },
+      {
+        "id": 4379,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102211",
+        "name": "Supercar Manjuu (Fighter)"
+      },
+      {
+        "id": 4380,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102211",
+        "name": "Supercar Manjuu (Bomber)"
+      },
+      {
+        "id": 4381,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102212",
+        "name": "Jewelry Manjuu (Torpedo)"
+      },
+      {
+        "id": 4382,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102212",
+        "name": "Jewelry Manjuu (Fighter)"
+      },
+      {
+        "id": 4383,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102212",
+        "name": "Jewelry Manjuu (Bomber)"
+      }
+    ]
+  },
   "30401": {
     "id": 30401,
     "name": "Random Gear Skin Box (Cruise Series 3)",
@@ -48581,6 +48797,204 @@
       }
     ]
   },
+  "30568": {
+    "id": 30568,
+    "name": "Selection Gear Skin Box (Dazzling Jewels)",
+    "description": "Can be opened to receive 1 Dazzling Jewels-themed gear skin of your choosing.",
+    "type": 13,
+    "icon": "props/appearanceboxshehuapaiduizixuan",
+    "rarity": 5,
+    "locations": [
+      "Alliance Before the Hagiobull"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 4366,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102201",
+        "name": "Candy Jewel Shell"
+      },
+      {
+        "id": 4367,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102202",
+        "name": "Diamond Heart Shell"
+      },
+      {
+        "id": 4368,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102203",
+        "name": "Golden Pearl Shell"
+      },
+      {
+        "id": 4369,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102204",
+        "name": "Jeweled Watch Torpedo"
+      },
+      {
+        "id": 4370,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102205",
+        "name": "Aquamarine Bracelet Torpedo"
+      },
+      {
+        "id": 4371,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102206",
+        "name": "Crystal Earring Torpedo"
+      },
+      {
+        "id": 4372,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102207",
+        "name": "Moon Necklace Shell"
+      },
+      {
+        "id": 4373,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102208",
+        "name": "Money Bag Shell"
+      },
+      {
+        "id": 4374,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102209",
+        "name": "Azure Crown Shell"
+      },
+      {
+        "id": 4375,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102210",
+        "name": "Shopping Manjuu (Torpedo)"
+      },
+      {
+        "id": 4376,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102210",
+        "name": "Shopping Manjuu (Fighter)"
+      },
+      {
+        "id": 4377,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102210",
+        "name": "Shopping Manjuu (Bomber)"
+      },
+      {
+        "id": 4378,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102211",
+        "name": "Supercar Manjuu (Torpedo)"
+      },
+      {
+        "id": 4379,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102211",
+        "name": "Supercar Manjuu (Fighter)"
+      },
+      {
+        "id": 4380,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102211",
+        "name": "Supercar Manjuu (Bomber)"
+      },
+      {
+        "id": 4381,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102212",
+        "name": "Jewelry Manjuu (Torpedo)"
+      },
+      {
+        "id": 4382,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102212",
+        "name": "Jewelry Manjuu (Fighter)"
+      },
+      {
+        "id": 4383,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/102212",
+        "name": "Jewelry Manjuu (Bomber)"
+      }
+    ]
+  },
   "30911": {
     "id": 30911,
     "name": "T1 Custom Gear Lab Material Pack",
@@ -52360,6 +52774,82 @@
         "rarity": 5,
         "icon": "props/ui_207",
         "name": "Springtide Inn"
+      },
+      {
+        "id": 59005,
+        "type": 0,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 3060,
+        "blueprint": false,
+        "icon": "props/gem",
+        "name": "Gems"
+      }
+    ]
+  },
+  "40080": {
+    "id": 40080,
+    "name": "Battle UI Pack - Gilded Reverie (Basic)",
+    "description": "Contains the Battle UI - Gilded Reverie theme and 1000 Coins.",
+    "type": 17,
+    "icon": "chargeicon/ui9",
+    "rarity": 5,
+    "locations": [
+      "IRL Purchase"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 9999999208,
+        "type": 8,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "props/ui_208",
+        "name": "Gilded Reverie"
+      },
+      {
+        "id": 59001,
+        "type": 0,
+        "linkable": true,
+        "rarity": 2,
+        "amount": 1000,
+        "blueprint": false,
+        "icon": "props/gold",
+        "name": "Coins"
+      }
+    ]
+  },
+  "40081": {
+    "id": 40081,
+    "name": "Battle UI Pack - Gilded Reverie (Premium)",
+    "description": "Contains the Battle UI - Gilded Reverie theme and 3060 Gems.",
+    "type": 17,
+    "icon": "chargeicon/ui9",
+    "rarity": 5,
+    "locations": [
+      "IRL Purchase"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 9999999208,
+        "type": 8,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": true,
+        "rarity": 5,
+        "icon": "props/ui_208",
+        "name": "Gilded Reverie"
       },
       {
         "id": 59005,
@@ -65643,6 +66133,34 @@
         "rarity": 5,
         "icon": "uipreview/201",
         "name": "Christmas"
+      }
+    ]
+  },
+  "9999999209": {
+    "id": 9999999209,
+    "name": "Christmas UI",
+    "description": "The Gilded Reverie themed Battle UI",
+    "type": 97,
+    "icon": "props/ui_209",
+    "rarity": 5,
+    "locations": [
+      "IAP Purchase"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 209,
+        "type": 99,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": false,
+        "rarity": 5,
+        "icon": "uipreview/209",
+        "name": "Gilded Reverie"
       }
     ]
   },
