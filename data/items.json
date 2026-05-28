@@ -3818,7 +3818,8 @@
     "icon": "props/21026",
     "rarity": 5,
     "locations": [
-      "Cruise Pass Season 13"
+      "Cruise Pass Season 13",
+      "META Shop"
     ],
     "servers": [
       "EN",
@@ -4388,6 +4389,23 @@
     "rarity": 5,
     "locations": [
       "Cruise Pass Season 28"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
+  "21060": {
+    "id": 21060,
+    "name": "META Crystal - Königsberg META",
+    "description": "An item that increases the potential of Königsberg META. Used in the META Lab during Somatic Activation.",
+    "type": 4,
+    "icon": "props/21060",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 29"
     ],
     "servers": [
       "EN",
@@ -35703,7 +35721,7 @@
   },
   "30434": {
     "id": 30434,
-    "name": "Random Gear Skin Box (Cruise Series 27)",
+    "name": "Random Gear Skin Box (Cruise Series 28)",
     "description": "Contains 1 random Cruise Mission gear skin.",
     "type": 11,
     "icon": "props/appearanceboxshijiexunyou",
@@ -35756,6 +35774,64 @@
         "blueprint": false,
         "icon": "equips/96844",
         "name": "Tree of the Great Cycle"
+      }
+    ]
+  },
+  "30435": {
+    "id": 30435,
+    "name": "Random Gear Skin Box (Cruise Series 29)",
+    "description": "Contains 1 random Cruise Mission gear skin.",
+    "type": 11,
+    "icon": "props/appearanceboxshijiexunyou",
+    "rarity": 5,
+    "locations": [
+      "Cruise Pass Season 29"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 2121,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96845",
+        "name": "Perpetual Cog Shell"
+      },
+      {
+        "id": 2122,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96846",
+        "name": "Silent Smokestack Torpedo"
+      },
+      {
+        "id": 2123,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96847",
+        "name": "Astrolabe Shell"
+      },
+      {
+        "id": 2124,
+        "type": 4,
+        "linkable": true,
+        "rarity": 4,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/96848",
+        "name": "Phantasmal Cage"
       }
     ]
   },

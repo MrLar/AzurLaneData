@@ -20749,6 +20749,22 @@
       "Alliance Before the Hagiobull"
     ]
   },
+  "740": {
+    "id": 740,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available as task reward during The Young Recluse's Treasure Hunt"
+    ],
+    "events": [
+      "The Young Recluse's Treasure Hunt"
+    ]
+  },
   "10001": {
     "id": 10001,
     "timer": null,
@@ -23193,7 +23209,8 @@
     "limited": null,
     "special": false,
     "other": [
-      11
+      11,
+      14
     ],
     "maps": [],
     "notes": [
@@ -23728,6 +23745,22 @@
     "maps": [],
     "notes": [
       "Available as a Reward from Cruise Pass Season 28"
+    ],
+    "events": []
+  },
+  "30060": {
+    "id": 30060,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [
+      11
+    ],
+    "maps": [],
+    "notes": [
+      "Available as a Reward from Cruise Pass Season 29"
     ],
     "events": []
   },

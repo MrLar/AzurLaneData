@@ -18806,6 +18806,74 @@
       "CN"
     ]
   },
+  "2121": {
+    "id": 2121,
+    "name": "Perpetual Cog Shell",
+    "icon": "96845",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Lost Ruins",
+    "description": "An unceasing cog that has spun countless times.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "2122": {
+    "id": 2122,
+    "name": "Silent Smokestack Torpedo",
+    "icon": "96846",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Lost Ruins",
+    "description": "Where there's smoke, there's... no fire?",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "2123": {
+    "id": 2123,
+    "name": "Astrolabe Shell",
+    "icon": "96847",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Lost Ruins",
+    "description": "The stars' orbits divide the seasons.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "2124": {
+    "id": 2124,
+    "name": "Phantasmal Cage",
+    "icon": "96848",
+    "types": [
+      10
+    ],
+    "rarity": 4,
+    "theme": "Lost Ruins",
+    "description": "The mechanisms still tick, keeping dreams trapped within.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
   "3001": {
     "id": 3001,
     "name": "Observer's Touch",
@@ -19991,6 +20059,22 @@
     "theme": "Misc",
     "description": "Dali shakes it up—a screen-bursting explosion of sweet and sour flavor!",
     "servers": [
+      "CN"
+    ]
+  },
+  "3078": {
+    "id": 3078,
+    "name": "久啾灯光炮弹",
+    "icon": "99197",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Misc",
+    "description": "矩阵闪亮,满屏流光啾~",
+    "servers": [
+      "EN",
       "CN"
     ]
   },

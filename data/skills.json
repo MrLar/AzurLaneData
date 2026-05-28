@@ -36870,6 +36870,26 @@
     "icon": 20200,
     "values": []
   },
+  "22281": {
+    "description": "Activates All Out Assault I: Unzen once every 12 times the Main Guns are fired.",
+    "opsi_description": null,
+    "name": "All Out Assault I",
+    "max": 1,
+    "id": 22281,
+    "type": 1,
+    "icon": 20200,
+    "values": []
+  },
+  "22282": {
+    "description": "Activates All Out Assault II: Unzen once every 8 times the Main Guns are fired.",
+    "opsi_description": null,
+    "name": "All Out Assault II",
+    "max": 1,
+    "id": 22282,
+    "type": 1,
+    "icon": 20200,
+    "values": []
+  },
   "22311": {
     "description": "Activates All Out Assault I: I-Type Submarine immediately after entering the battle.",
     "opsi_description": null,
@@ -37723,7 +37743,7 @@
   "26212": {
     "description": "Activates All Out Assault: Tallinn II every 6 times the Main Guns are fired.",
     "opsi_description": null,
-    "name": "All Out Assault - Tallinn II",
+    "name": "All Out Assault II",
     "max": 1,
     "id": 26212,
     "type": 1,
@@ -60329,8 +60349,8 @@
     ]
   },
   "152370": {
-    "description": "When deployed into a sortie, increases this boat's ASR and AMO by 1; at the start of battle, increases this boat's TRP and RLD by $1.\nWhenever this boat's torpedoes hit an enemy: $2 chance to inflict a special Flooding debuff (takes DMG every 3s based on U-2501's TRP, lasting for 15s); additionally, increases the DMG this boat deals to Flooding enemies by $1.\nWhenever any other ally in the Submarine Fleet hits an enemy with torpedoes: $2 chance to increases this boat's ACC by {1.0%|Due to a text error, the game incorrectly states that the boost gained ranges from 1.0% to 10.0% per stack depending on skill level. In reality, as originally intended, the boost always increases by 1.0% per stack.} (stacks up to 10 times, lasting until the boat leaves the battle); upon reaching 10 stacks, restores $1 of this boat's Max HP.",
-    "opsi_description": "When called in as Submarine Support in Operation Siren: decreases AP consumption by $3, and increases the Submarine Fleet's Ammo by 1.\nAt the start of battle: increases this boat's TRP and RLD by $1.\nWhenever this boat's torpedoes hit an enemy: $2 chance to inflict a special Flooding debuff (takes DMG every 3s based on U-2501's TRP, lasting for 15s); additionally, increases the DMG this boat deals to Flooding enemies by $1.\nWhenever any other ally in the Submarine Fleet hits an enemy with torpedoes: $2 chance to increases this boat's ACC by {1.0%|Due to a text error, the game incorrectly states that the boost gained ranges from 1.0% to 10.0% per stack depending on skill level. In reality, as originally intended, the boost always increases by 1.0% per stack.} (stacks up to 10 times, lasting until the boat leaves the battle); upon reaching 10 stacks, restores $1 of this boat's Max HP.",
+    "description": "When deployed into a sortie, increases this boat's ASR and AMO by 1; at the start of battle, increases this boat's TRP and RLD by $1.\nWhenever this boat's torpedoes hit an enemy: $2 chance to inflict a special Flooding debuff (takes DMG every 3s based on U-2501's TRP, lasting for 15s); additionally, increases the DMG this boat deals to Flooding enemies by $1.\nWhenever any other ally in the Submarine Fleet hits an enemy with torpedoes: $2 chance to increases this boat's ACC by 1.0% (stacks up to 10 times, lasting until the boat leaves the battle); upon reaching 10 stacks, restores $1 of this boat's Max HP.",
+    "opsi_description": "When called in as Submarine Support in Operation Siren: decreases AP consumption by $3, and increases the Submarine Fleet's Ammo by 1.\nAt the start of battle: increases this boat's TRP and RLD by $1.\nWhenever this boat's torpedoes hit an enemy: $2 chance to inflict a special Flooding debuff (takes DMG every 3s based on U-2501's TRP, lasting for 15s); additionally, increases the DMG this boat deals to Flooding enemies by $1.\nWhenever any other ally in the Submarine Fleet hits an enemy with torpedoes: $2 chance to increases this boat's ACC by 1.0% (stacks up to 10 times, lasting until the boat leaves the battle); upon reaching 10 stacks, restores $1 of this boat's Max HP.",
     "name": "Deep-Sea Resonator",
     "max": 10,
     "id": 152370,
@@ -60445,6 +60465,88 @@
         "8.0%",
         "9.0%",
         "10.0%"
+      ]
+    ]
+  },
+  "152440": {
+    "description": "10s after the battle starts, and every 20s after that: fires a $1 special barrage (DMG is based on the skill's level) and increases this ship's EVA and AA by $2, lasting for 10s. During a sortie, for each enemy fleet sunk by the fleet this ship is in: increases this ship's DMG dealt by $3 (can be stacked up to 3 times).",
+    "opsi_description": null,
+    "name": "Journey to Wonderland",
+    "max": 10,
+    "id": 152440,
+    "type": 1,
+    "icon": 152440,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "1.0%",
+        "1.4%",
+        "1.8%",
+        "2.2%",
+        "2.6%",
+        "3.0%",
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%"
+      ]
+    ]
+  },
+  "152450": {
+    "description": "At the start of battle and every 20s after that, randomly activates one of the following 3 effects:\n1) Increases this ship's FP, RLD, and ACC by $1.\n2) Increases this ship's Torpedo Crit Rate by $1 and Torpedo Crit DMG by $2.\n3) Restores $1 of this ship's Max HP.\nEach effect can only be activated once per battle. When all 3 effects have been activated, this skill will no longer be triggered.",
+    "opsi_description": null,
+    "name": "Treasures of Hidden Realms",
+    "max": 10,
+    "id": 152450,
+    "type": 3,
+    "icon": 152450,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
       ]
     ]
   },
@@ -67414,6 +67516,120 @@
     "id": 802172,
     "type": 3,
     "icon": 802170,
+    "values": []
+  },
+  "802180": {
+    "description": "At the start of battle, increases your Vanguard's RLD by $1. During a sortie, for each enemy fleet sunk by the fleet this ship is in: increases this ship's FP and TRP by $2 (can be stacked up to 3 times).\nEvery 20s: fires a $3 special barrage (DMG is based on the skill's level) that inflicts Disciplinary Mark to enemies hit. Enemies with Disciplinary Mark receive $4 increased DMG from your Vanguard.",
+    "opsi_description": null,
+    "name": "Disciplinary Whip",
+    "max": 10,
+    "id": 802180,
+    "type": 3,
+    "icon": 802180,
+    "values": [
+      [
+        "10.0%",
+        "10.5%",
+        "11.0%",
+        "11.5%",
+        "12.0%",
+        "12.5%",
+        "13.0%",
+        "13.5%",
+        "14.0%",
+        "15.0%"
+      ],
+      [
+        "1.0%",
+        "1.4%",
+        "1.8%",
+        "2.2%",
+        "2.6%",
+        "3.0%",
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "4.5%",
+        "5.2%",
+        "6.0%",
+        "7.0%",
+        "7.7%",
+        "8.5%",
+        "9.5%",
+        "10.2%",
+        "11.0%",
+        "12.0%"
+      ]
+    ]
+  },
+  "802190": {
+    "description": "Every 15s after the start of battle: deploys a shield that can block up to $1 enemy projectiles, lasting up to 8s. If there is an enemy with Disciplinary Mark when this shield is deployed, also deploys a shield for a random Vanguard member that can negate DMG equal to $2 of the recipient's Max HP, lasting up to 8s.",
+    "opsi_description": null,
+    "name": "Protective Apparatus",
+    "max": 10,
+    "id": 802190,
+    "type": 2,
+    "icon": 802190,
+    "values": [
+      [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "6",
+        "7",
+        "7",
+        "8",
+        "8"
+      ],
+      [
+        "1.0%",
+        "1.4%",
+        "1.8%",
+        "2.2%",
+        "2.6%",
+        "3.0%",
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%"
+      ]
+    ]
+  },
+  "802201": {
+    "description": "Every 12 times this ship fires her Main Guns: fires a special barrage.",
+    "opsi_description": "Every 12 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Sirens or Boss fleets: increases this ship's DMG dealt by 2.0%.",
+    "name": "Cinders of Hope - Königsberg I",
+    "max": 1,
+    "id": 802201,
+    "type": 1,
+    "icon": 802200,
+    "values": []
+  },
+  "802202": {
+    "description": "Every 8 times this ship fires her Main Guns: fires a special barrage.",
+    "opsi_description": "Every 8 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Sirens or Boss fleets: increases this ship's DMG dealt by 5.0%.",
+    "name": "Cinders of Hope - Königsberg II",
+    "max": 1,
+    "id": 802202,
+    "type": 1,
+    "icon": 802200,
     "values": []
   },
   "802210": {
