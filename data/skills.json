@@ -4697,7 +4697,7 @@
     ]
   },
   "10640": {
-    "description": "When an enemy aircraft is shot down within your fleet's Anti-Air Gun range: increases this ship's FP by $1 of its total AA stat (base stats + gear {+ tech + meowfficer inherit and talents|The game does not explicitly mention these but they do count.}) for 8s. Effect does not stack, but shooting down additional aircraft will refresh its duration.",
+    "description": "When an enemy aircraft is shot down within your fleet's Anti-Air Gun range: increases this ship's FP by $1 of its total AA stat (base stats + gear {+ tech + meowfficer inherent and talents|The game does not explicitly mention these but they do count.}) for 8s. Effect does not stack, but shooting down additional aircraft will refresh its duration.",
     "opsi_description": null,
     "name": "Iron Wing Annihilation",
     "max": 10,
@@ -5766,7 +5766,7 @@
     ]
   },
   "10990": {
-    "description": "Increases this ship's FP by $1 of its total AA stat (base stats + gear {+ tech + meowfficer inherit and talents|The game does not explicitly mention these but they do count.}).",
+    "description": "Increases this ship's FP by $1 of its total AA stat (base stats + gear {+ tech + meowfficer inherent and talents|The game does not explicitly mention these but they do count.}).",
     "opsi_description": null,
     "name": "AA Firepower",
     "max": 10,
@@ -18144,7 +18144,7 @@
     ]
   },
   "14730": {
-    "description": "Increases this ship's AA by $1 of her total TRP stat (base stats + gear {+ tech + meowfficer inherit and talents|The game does not explicitly mention these but they do count.}) and decreases the Burn DMG she takes by $2. This ship heals herself for 1.0% of her max HP every 15s in combat.",
+    "description": "Increases this ship's AA by $1 of her total TRP stat (base stats + gear {+ tech + meowfficer inherent and talents|The game does not explicitly mention these but they do count.}) and decreases the Burn DMG she takes by $2. This ship heals herself for 1.0% of her max HP every 15s in combat.",
     "opsi_description": null,
     "name": "Combat Mechanic",
     "max": 10,
@@ -30358,7 +30358,7 @@
     ]
   },
   "17950": {
-    "description": "When this ship has Iris Libre or Vichya Dominion gear equipped: increases this ship's FP by $1 of her base EVA (the total of her base stats + gear {+ tech + meowfficer inherit and talents|The game does not explicitly mention these but they do count.}). \nIncreases this ship's Evasion Rate by $2. When this ship takes DMG, if the enemy that hit her has SPD no higher than her: deploys a barrier (only 1 can be active at a time) that can negate DMG equal to up to 20.0% of the DMG taken from that attack. If this shield is destroyed: $3 chance to immediately fire this ship's Main Guns and restore 10 HP (3s cooldown between activations).",
+    "description": "When this ship has Iris Libre or Vichya Dominion gear equipped: increases this ship's FP by $1 of her base EVA (the total of her base stats + gear {+ tech + meowfficer inherent and talents|The game does not explicitly mention these but they do count.}). \nIncreases this ship's Evasion Rate by $2. When this ship takes DMG, if the enemy that hit her has SPD no higher than her: deploys a barrier (only 1 can be active at a time) that can negate DMG equal to up to 20.0% of the DMG taken from that attack. If this shield is destroyed: $3 chance to immediately fire this ship's Main Guns and restore 10 HP (3s cooldown between activations).",
     "opsi_description": null,
     "name": "Harder! Faster! Stronger!",
     "max": 10,
@@ -69542,7 +69542,7 @@
     ]
   },
   "1010980": {
-    "description": "While this ship is afloat: decreases your Main Fleet's DMG taken from aircraft by $1. When a ship in your fleet attacks with a Long Range AA Gun: every ship in your Vanguard recovers $2 of their max HP and this ship fires a $3 special barrage (DMG is based on the skill's level; 10s cooldown between activations).",
+    "description": "While this ship is afloat: decreases your Main Fleet's DMG taken from aircraft by $1. When a ship in your fleet attacks with a {Time Fuze AA Gun|The game calls this Long Range AA Gun, while technically not incorrect, it is worth clarifying.} {(For this effect to work North Carolina must also have a Time Fuze AA Gun AA Gun equipped.)|The game does not make any mention of this as it is certainly not how the skill is meant to work, but not giving her one means this effect will never trigger.}: every ship in your Vanguard recovers $2 of their max HP and this ship fires a $3 special barrage (DMG is based on the skill's level; 10s cooldown between activations).",
     "opsi_description": null,
     "name": "AA Protection+",
     "max": 10,
@@ -70247,7 +70247,7 @@
     ]
   },
   "1011500": {
-    "description": "When this ship's Main Gun damages the same target consecutively (if an attack hits multiple targets at once, they are all designated for this effect): increases this ship's RLD by $1 and FP by $2 (effect can only activate once every second; buff can be stacked up to 4 times); when this ship hits a different target, the RLD buff is reset. The first time each battle the max number of stacks is reached: decreases this ship's DMG taken by $3 and improves this ship's \"All Out Assault\" skill until the battle ends.",
+    "description": "When this ship's Main Gun damages the same target consecutively (if an attack hits multiple targets at once, they are all designated for this effect): increases this ship's RLD by $1 and FP by $2 (effect can only activate once every second; buff can be stacked up to 4 times); when this ship hits a different target, the RLD {and FP buff|Due to how the buff works both are actually reset.} buff is reset. The first time each battle the max number of stacks is reached: decreases this ship's DMG taken by $3 and improves this ship's \"All Out Assault\" skill until the battle ends.",
     "opsi_description": null,
     "name": "Radiant Iris+",
     "max": 10,
