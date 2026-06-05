@@ -4432,6 +4432,23 @@
     ],
     "contains": []
   },
+  "21062": {
+    "id": 21062,
+    "name": "META Crystal - Bristol META",
+    "description": "An item that increases the potential of Bristol META. Used in the META Lab during Somatic Activation.",
+    "type": 4,
+    "icon": "props/21062",
+    "rarity": 5,
+    "locations": [
+      "META Showdown"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": []
+  },
   "21101": {
     "id": 21101,
     "name": "Crystallized Heat-Resistant Steel",
@@ -17743,6 +17760,17 @@
         "blueprint": false,
         "icon": "equips/7000",
         "name": "Single 152mm Mk XII Main Gun Mount"
+      },
+      {
+        "id": 85820,
+        "level": 0,
+        "type": 1,
+        "linkable": true,
+        "rarity": 3,
+        "amount": 1,
+        "blueprint": false,
+        "icon": "equips/85820",
+        "name": "Missing Translation 85820"
       }
     ]
   },
@@ -66180,6 +66208,34 @@
         "linkable": false,
         "rarity": 4,
         "icon": "uipreview/114",
+        "name": "Elderwood Ivy"
+      }
+    ]
+  },
+  "9999999115": {
+    "id": 9999999115,
+    "name": "Azure Core UI",
+    "description": "The Azure Core themed Battle UI",
+    "type": 97,
+    "icon": "props/ui_115",
+    "rarity": 4,
+    "locations": [
+      "Cruise Pass Season 29 (Paid Only)"
+    ],
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "contains": [
+      {
+        "id": 115,
+        "type": 99,
+        "amount": 1,
+        "blueprint": false,
+        "linkable": false,
+        "rarity": 4,
+        "icon": "uipreview/115",
         "name": "Elderwood Ivy"
       }
     ]

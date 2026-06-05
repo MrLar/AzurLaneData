@@ -9661,6 +9661,30 @@
     "l2d_plus": false,
     "asmr": false
   },
+  "202208": {
+    "id": 202208,
+    "name": "Alba Sirius",
+    "type": 1,
+    "category": 9998,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "tianlangxing_h",
+    "bg": "507",
+    "obtain_type": 6,
+    "price": 0,
+    "currency": 0,
+    "is_permanent": true,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false,
+    "l2d_plus": false,
+    "asmr": false
+  },
   "202211": {
     "id": 202211,
     "name": "Eastern Grace",
@@ -16895,6 +16919,30 @@
     "price": 0,
     "currency": 0,
     "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false,
+    "l2d_plus": false,
+    "asmr": false
+  },
+  "301898": {
+    "id": 301898,
+    "name": "Red Bridge of Fate",
+    "type": 1,
+    "category": 9998,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "chuyue_h",
+    "bg": "126",
+    "obtain_type": 6,
+    "price": 0,
+    "currency": 0,
+    "is_permanent": true,
     "l2d": false,
     "dynamic": false,
     "custom_bgm": false,
@@ -28779,6 +28827,30 @@
     "l2d_plus": false,
     "asmr": false
   },
+  "506018": {
+    "id": 506018,
+    "name": "A Night of Passion",
+    "type": 1,
+    "category": 9998,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "zhenhai_h",
+    "bg": "144",
+    "obtain_type": 6,
+    "price": 0,
+    "currency": 0,
+    "is_permanent": true,
+    "l2d": false,
+    "dynamic": false,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false,
+    "l2d_plus": false,
+    "asmr": false
+  },
   "506019": {
     "id": 506019,
     "name": "Chen Hai (Retrofit)",
@@ -34173,6 +34245,30 @@
     "is_permanent": false,
     "l2d": false,
     "dynamic": true,
+    "custom_bgm": false,
+    "dynamic_bg": false,
+    "dual_form": false,
+    "l2d_plus": false,
+    "asmr": false
+  },
+  "1101012": {
+    "id": 1101012,
+    "name": "Guardian Fae of the Mangroves",
+    "type": 0,
+    "category": 9,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ],
+    "icon": "aifosen_3",
+    "bg": "518",
+    "obtain_type": 2,
+    "price": 0,
+    "currency": 0,
+    "is_permanent": false,
+    "l2d": false,
+    "dynamic": false,
     "custom_bgm": false,
     "dynamic_bg": false,
     "dual_form": false,

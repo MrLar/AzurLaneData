@@ -48488,7 +48488,7 @@
     ]
   },
   "110190": {
-    "description": "When this ship's Main or Secondary Gun hits an enemy: $1 chance to increase this ship's RLD by 5.0% (can be stacked up to 3 times). When this buff reaches its max stacks, the following effects activate:\n• Performs a $2 slash attack;\n• Increases this ship's Main Gun DMG dealt by 10.0% until the battle ends;\n• Until the battle ends, if the skill Enka Tuypa's special barrage activates: performs an additional $1 special slash attack (slash attack DMG is based on the skill's level).",
+    "description": "When this ship's Main or Secondary Gun hits an enemy: $1 chance to increase this ship's RLD by 5.0% (can be stacked up to 3 times). When this buff reaches its max stacks, the following effects activate:\n• Performs a $2 slash attack;\n• Increases this ship's Main Gun DMG dealt by 10.0% until the battle ends;\n• Until the battle ends, if the skill Enka Tuypa's special barrage activates: performs an additional {$2|For some reason this part of the skill states a percentage increasing with skill level when it should just state the level of the barrage.} special slash attack (slash attack DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Soul of Tohno",
     "max": 10,
@@ -48558,7 +48558,7 @@
     ]
   },
   "110210": {
-    "description": "When this ship's Main or Secondary Gun hits an enemy: $1 chance to increase this ship's RLD by 5.0% (can be stacked up to 3 times). When this buff reaches its max stacks, the following effects activate:\n• Performs a $2 Secret Ninja Art: Poro Kamuyasi;\n• Increases this ship's Main Gun DMG dealt by 10.0% until the battle ends;\n• Until the battle ends, if the skill Enka Tuypa's special barrage activates: performs an additional $2 Secret Ninja Art: Poro Kamuyasi (DMG is based on the skill's level).",
+    "description": "When this ship's Main or Secondary Gun hits an enemy: $1 chance to increase this ship's RLD {and FP|The game fails to mention that FP is also increased.} by 5.0% (can be stacked up to 3 times). When this buff reaches its max stacks, the following effects activate:\n• Performs a $2 Secret Ninja Art: Poro Kamuyasi;\n• Increases this ship's Main Gun DMG dealt by 10.0% until the battle ends;\n• Until the battle ends, if the skill Enka Tuypa's special barrage activates: performs an additional $2 Secret Ninja Art: Poro Kamuyasi (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Soul of Tohno+",
     "max": 10,
@@ -67710,6 +67710,131 @@
     "icon": 802230,
     "values": []
   },
+  "802240": {
+    "description": "Every 10s: fires a $1 special barrage (DMG is based on the skill's level) and increases this ship's Crit Rate by $2 for 5s.",
+    "opsi_description": null,
+    "name": "Cosmos-colored Halo",
+    "max": 10,
+    "id": 802240,
+    "type": 1,
+    "icon": 802240,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%"
+      ]
+    ]
+  },
+  "802250": {
+    "description": "Increases this ship's FP and ACC by $1. Every 20s: this ship points her lantern forward, illuminating enemies. Illuminated enemies suffer $2 reduced Evasion Rate for 10s. (This skill's effect does not stack with Lights On!, but the number of enemies illuminated will be shared.)",
+    "opsi_description": null,
+    "name": "I See Everything!",
+    "max": 10,
+    "id": 802250,
+    "type": 3,
+    "icon": 802250,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
+  "802260": {
+    "description": "Every 15s: Data 857 decreases the EVA of a random enemy by 5.0% and continuously deals damage to it for 8s. As long as that enemy is on the field: increases this ship's DMG dealt by $1 and decreases her DMG taken by $2.",
+    "opsi_description": null,
+    "name": "Sic 'Em, Data 857!",
+    "max": 10,
+    "id": 802260,
+    "type": 2,
+    "icon": 802260,
+    "values": [
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
+  "802271": {
+    "description": "Every 15 times this ship fires her Main Guns: fires a special barrage.",
+    "opsi_description": "Every 15 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 2.0%.",
+    "name": "Cinders of Hope - Bristol I",
+    "max": 1,
+    "id": 802271,
+    "type": 3,
+    "icon": 802270,
+    "values": []
+  },
+  "802272": {
+    "description": "Every 10 times this ship fires her Main Guns: fires a special barrage.",
+    "opsi_description": "Every 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 2.0%.",
+    "name": "Cinders of Hope - Bristol II",
+    "max": 1,
+    "id": 802272,
+    "type": 3,
+    "icon": 802270,
+    "values": []
+  },
   "901010": {
     "description": "The ship in the frontmost position of your Vanguard performs a slash attack. Slash attack pattern, range, and DMG are based on the number of ships equipped with slash attack gear, the ships' hull type, and the equipped module's effects.",
     "opsi_description": null,
@@ -73897,7 +74022,7 @@
     ]
   },
   "1090260": {
-    "description": "Every 20s: $1 chance to increase this ship's RLD by $2. When this ship takes DMG: fires a $3 special barrage and increases this ship's TRP and ACC by $4 for 10s (15s cooldown between activations; DMG is based on the skill's level; buff can be stacked up to 3 times).",
+    "description": "Every 20s: $1 chance to increase this ship's RLD by $2 {for 10s|The game does state for 10s but on the wrong effect of this skill.}. When this ship takes DMG: fires a $3 special barrage and increases this ship's TRP and ACC by $4  (15s cooldown between {barrage|The game indicates that the entire effect has a 15s cooldown, but only the barrage does.} activations; DMG is based on the skill's level; buff can be stacked up to 3 times).",
     "opsi_description": null,
     "name": "Quick Reload - Spence",
     "max": 10,
@@ -74285,7 +74410,7 @@
     ]
   },
   "1090350": {
-    "description": "Every 20s: deploys {serveral|The game claims it picks one of many but in reality all of them are triggered.} $1 in-development devices (effect is based on the skill's level) and, with a $2 chance, increases this ship's FP by $3 for 10s.",
+    "description": "Every 20s: deploys {several|The game claims it picks one of many but in reality all of them are triggered.} $1 in-development devices (effect is based on the skill's level) and, with a $2 chance, increases this ship's FP by $3 for 10s.",
     "opsi_description": null,
     "name": "Full Firepower - Yuubari",
     "max": 10,

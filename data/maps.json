@@ -77334,5 +77334,68 @@
     "time_limit": 300,
     "type": 6,
     "id": 1890
+  },
+  "meta_show_345_295345": {
+    "name": "Meta Showdown: Bristol META",
+    "acv": -1,
+    "opsi": false,
+    "boss": {
+      "id": 295345,
+      "hull": 1,
+      "nation": 97,
+      "name": "Bristol META",
+      "stats": {
+        "hp": 1600000,
+        "fp": 223,
+        "trp": 372,
+        "avi": 0,
+        "aa": 316,
+        "hit": 110,
+        "eva": 75,
+        "spd": 30,
+        "luck": 50,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 126,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "bulisituoer_alter",
+      "prio": 90
+    },
+    "buffs": [],
+    "buffs_display": [
+      [
+        {
+          "name": "I See Everything!",
+          "description": "During battle, Bristol META uses her lantern to illuminate an area, greatly reducing the Evasion Rate of your ships in the area.",
+          "color": 3
+        }
+      ],
+      [
+        {
+          "name": "Sic 'Em, Data 857!",
+          "description": "When Data 857 is accompanying Bristol META, Bristol META deals 20.0% more DMG and takes 20.0% reduced DMG.\nWhenever one of your ships gains a buff that provides complete evasion or invulnerability, Bristol META will release Data 857 from her side to target the ship with complete evasion or invulnerability (prioritizes the Vanguard's frontmost ship or the Main Fleet's flagship), dealing DMG over time based on the target's Max HP; When the target loses complete evasion or invulnerability, Data 857 will return to accompanying Bristol META.",
+          "color": 1
+        }
+      ],
+      [
+        {
+          "name": "The Shadow Within the Lantern",
+          "description": "Some time after the start of battle, an eldritch creature will appear within the lantern's vicinity, affecting both your ships and the enemy in mysterious ways.\nWhile the eldritch creature is present, all ships on the battlefield has slightly reduced ACC.",
+          "color": 2
+        }
+      ]
+    ],
+    "expo_id": 296345,
+    "dungeon_id": 296345,
+    "time_limit": 80,
+    "type": 9,
+    "id": 1891
   }
 }

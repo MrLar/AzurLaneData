@@ -1352,7 +1352,9 @@
       "Research (any Series)"
     ],
     "lab_from": [],
-    "lab_to": []
+    "lab_to": [
+      90640
+    ]
   },
   "7000": {
     "id": 7000,
@@ -1365,7 +1367,8 @@
   "7040": {
     "id": 7040,
     "locations": [
-      "3-2"
+      "3-2",
+      "Northern Parliament Gear Development Pack"
     ],
     "lab_from": [],
     "lab_to": [
@@ -4063,6 +4066,16 @@
     "lab_from": [
       31300
     ],
+    "lab_to": [
+      31320
+    ]
+  },
+  "31320": {
+    "id": 31320,
+    "locations": [],
+    "lab_from": [
+      31320
+    ],
     "lab_to": []
   },
   "32000": {
@@ -6181,6 +6194,16 @@
     "lab_from": [
       48040
     ],
+    "lab_to": [
+      48060
+    ]
+  },
+  "48060": {
+    "id": 48060,
+    "locations": [],
+    "lab_from": [
+      48060
+    ],
     "lab_to": []
   },
   "49000": {
@@ -6373,7 +6396,8 @@
   "85420": {
     "id": 85420,
     "locations": [
-      "Stock equipment (Gangut and Sevastopol)"
+      "Stock equipment (Gangut and Sevastopol)",
+      "Northern Parliament Gear Development Pack"
     ],
     "lab_from": [],
     "lab_to": [
@@ -6515,7 +6539,9 @@
   },
   "85720": {
     "id": 85720,
-    "locations": [],
+    "locations": [
+      "Northern Parliament Gear Development Pack"
+    ],
     "lab_from": [],
     "lab_to": [
       7240
@@ -6533,7 +6559,9 @@
   },
   "85760": {
     "id": 85760,
-    "locations": [],
+    "locations": [
+      "Northern Parliament Gear Development Pack"
+    ],
     "lab_from": [],
     "lab_to": [
       85780
@@ -6556,6 +6584,43 @@
       "Springtide Inn Online"
     ],
     "lab_from": [],
+    "lab_to": []
+  },
+  "85820": {
+    "id": 85820,
+    "locations": [
+      "Northern Parliament Gear Development Pack"
+    ],
+    "lab_from": [],
+    "lab_to": [
+      85840
+    ]
+  },
+  "85840": {
+    "id": 85840,
+    "locations": [],
+    "lab_from": [
+      85840
+    ],
+    "lab_to": [
+      85860,
+      85880
+    ]
+  },
+  "85860": {
+    "id": 85860,
+    "locations": [],
+    "lab_from": [
+      85860
+    ],
+    "lab_to": []
+  },
+  "85880": {
+    "id": 85880,
+    "locations": [],
+    "lab_from": [
+      85880
+    ],
     "lab_to": []
   },
   "89000": {
@@ -7108,6 +7173,24 @@
     "locations": [],
     "lab_from": [
       90620
+    ],
+    "lab_to": []
+  },
+  "90640": {
+    "id": 90640,
+    "locations": [],
+    "lab_from": [
+      90640
+    ],
+    "lab_to": [
+      90660
+    ]
+  },
+  "90660": {
+    "id": 90660,
+    "locations": [],
+    "lab_from": [
+      90660
     ],
     "lab_to": []
   },
