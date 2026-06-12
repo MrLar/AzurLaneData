@@ -18554,7 +18554,7 @@
   "590": {
     "id": 590,
     "timer": "00:40:00",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": "Confluence of Nothingness",
     "special": false,
@@ -18572,7 +18572,9 @@
     "heavy": false,
     "limited": null,
     "special": false,
-    "other": [],
+    "other": [
+      3
+    ],
     "maps": [],
     "notes": [
       "Available as point accumulation reward during Confluence of Nothingness"
@@ -18584,7 +18586,7 @@
   "592": {
     "id": 592,
     "timer": "01:20:00",
-    "light": false,
+    "light": true,
     "heavy": false,
     "limited": "Confluence of Nothingness",
     "special": false,
@@ -18599,10 +18601,12 @@
     "id": 593,
     "timer": "06:00:00",
     "light": false,
-    "heavy": false,
+    "heavy": true,
     "limited": "Confluence of Nothingness",
-    "special": false,
-    "other": [],
+    "special": true,
+    "other": [
+      6
+    ],
     "maps": [],
     "notes": [],
     "events": [
@@ -23123,7 +23127,7 @@
     "light": false,
     "heavy": false,
     "limited": "Confluence of Nothingness",
-    "special": false,
+    "special": true,
     "other": [],
     "maps": [],
     "notes": [
@@ -23454,11 +23458,12 @@
     "limited": null,
     "special": false,
     "other": [
-      13
+      13,
+      14
     ],
     "maps": [],
     "notes": [
-      "Available in a past META Showdown"
+      "Available in a past META Showdown or Dossier Analysis"
     ],
     "events": []
   },

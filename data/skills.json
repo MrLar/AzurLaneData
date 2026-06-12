@@ -5219,7 +5219,7 @@
     ]
   },
   "10820": {
-    "description": "When there are 3 or more Sakura Empire ships in this ship's fleet: increases the DMG of this ship's Airstrikes by $1. When this ship launches an Airstrike: increases the DMG of all subsequent Airstrikes by $1 for the rest of the battle, stacking up to 3 times.",
+    "description": "When this ship launches an Airstrike: increases the DMG of all subsequent Airstrikes by $1 for the rest of the battle, stacking up to 3 times. {When there are 3 or more Sakura Empire ships in this ship's fleet immediately grant one stack.|The game states this effect as the first part of the description and very heavily implies that it isn't just the same as the stacking mechanic. However, having 3 IJN just means you get one stack on battle start and can get 2 (not 3) more from airstrikes.}",
     "opsi_description": null,
     "name": "Crane's Endeavor",
     "max": 10,
@@ -68235,6 +68235,26 @@
     "icon": "augments/15060",
     "values": []
   },
+  "902390": {
+    "description": "Increases this ship's Main Gun efficiency by 10.0%.",
+    "opsi_description": null,
+    "name": "Rapid Triangulation",
+    "max": 1,
+    "id": 902390,
+    "type": 0,
+    "icon": "augments/15440",
+    "values": []
+  },
+  "902400": {
+    "description": "Increases this ship's Main Gun efficiency by 10.0% and additionally grants the effects of Slash Attack - Spread: The ship in the frontmost position of your Vanguard performs a slash attack. Slash attack pattern, range, and DMG are based on the number of ships equipped with slash attack gear, the ships' hull type, and the equipped module's effects.",
+    "opsi_description": null,
+    "name": "Privateer's Heroism",
+    "max": 1,
+    "id": 902400,
+    "type": 0,
+    "icon": "augments/15360",
+    "values": []
+  },
   "1005070": {
     "description": "Increases this ship's FP by $1. Every 15s: fires a $2 special barrage (DMG is based on the skill's level). When your Vanguard consists only of Iris Libre and Vichya Dominion ships: every 20s, 75.0% chance to decrease your fleet's DMG taken by $3 for 10s (does not stack with similar skills).",
     "opsi_description": null,
@@ -69524,6 +69544,53 @@
       ]
     ]
   },
+  "1010800": {
+    "description": "Increases this ship's AVI by $1 and Crit Rate by $2. Every 20s: launches a $3 special airstrike (DMG is based on the skill's level); when sortied with any version of Shoukaku in the same fleet: reduces this ship's DMG taken by $1.",
+    "opsi_description": null,
+    "name": "Fifth Carrier Division+",
+    "max": 10,
+    "id": 1010800,
+    "type": 3,
+    "icon": 10800,
+    "values": [
+      [
+        "8.0%",
+        "9.2%",
+        "10.4%",
+        "12.0%",
+        "13.2%",
+        "14.4%",
+        "16.0%",
+        "17.2%",
+        "18.4%",
+        "20.0%"
+      ],
+      [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
   "1010880": {
     "description": "Every 20s: $3 chance to increase this ship's FP, RLD, and EVA by $2 for 8s and fire a $5 special barrage (DMG is based on the skill's level). Every 25s: $1 chance to inflict the Radar Designated status on all enemies on the battlefield for 10s; decreases your Vanguard's shelling DMG taken from enemies inflicted with the Radar Designated status by $4.",
     "opsi_description": null,
@@ -70133,18 +70200,6 @@
     "type": 1,
     "icon": 11390,
     "values": [
-      [
-        "1.0%",
-        "2.0%",
-        "3.0%",
-        "4.0%",
-        "5.0%",
-        "6.0%",
-        "7.0%",
-        "8.0%",
-        "9.0%",
-        "10.0%"
-      ],
       [
         "5.0%",
         "6.1%",
@@ -71152,6 +71207,53 @@
         "85.0%",
         "90.0%",
         "100%"
+      ]
+    ]
+  },
+  "1012470": {
+    "description": "Increases this boat's DMG dealt to CVs by $1. At the start of battle, if there are any other Gato-class submarines in the same fleet: increases this boat's Torpedo DMG by $3. When this boat surfaces due to running out of OXY or when leaving the battle: fires a $2 special torpedo barrage (DMG is based on the skill's level); when sortied with any version of Albacore in the same fleet: torpedoes from this skill's barrage will always critically strike, dealing 20.0% increased Crit DMG.",
+    "opsi_description": null,
+    "name": "Double The Gato+",
+    "max": 10,
+    "id": 1012470,
+    "type": 1,
+    "icon": 12470,
+    "values": [
+      [
+        "5.0%",
+        "6.2%",
+        "7.4%",
+        "9.0%",
+        "10.5%",
+        "12.0%",
+        "14.0%",
+        "15.8%",
+        "17.6%",
+        "20.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
       ]
     ]
   },
@@ -72576,6 +72678,65 @@
       ]
     ]
   },
+  "1018300": {
+    "description": "Every 10s: activates a $4 Steelflash Judgment special attack (DMG is based on the skill's level). Every $1s: fires a special barrage that ignores enemy shields and heals this ship for 20.0% of the DMG dealt (barrage DMG is based on the skill's level). {Increases|The game states that this happens when an enemy is sunk by this ship, but it does not have any conditions and just happens.} this ship's FP and EVA by $2 and RLD by $3 until the end of the battle. Whenever an allied flagship launches an airstrike or fires a Main Gun salvo: activates a $4 Burstfire Judgment special attack (DMG is based on the skill's level; 5s cooldown between activations).",
+    "opsi_description": null,
+    "name": "Flintlock Burst (A)+",
+    "max": 10,
+    "id": 1018300,
+    "type": 3,
+    "icon": 18300,
+    "values": [
+      [
+        "30",
+        "29",
+        "28",
+        "27",
+        "26",
+        "25",
+        "24",
+        "23",
+        "22",
+        "20"
+      ],
+      [
+        "3.0%",
+        "4.2%",
+        "5.4%",
+        "6.6%",
+        "7.8%",
+        "9.0%",
+        "10.5%",
+        "12.0%",
+        "13.5%",
+        "15.0%"
+      ],
+      [
+        "4.5%",
+        "6.3%",
+        "8.1%",
+        "9.9%",
+        "11.7%",
+        "13.5%",
+        "15.3%",
+        "17.1%",
+        "18.9%",
+        "21.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
   "1019020": {
     "description": "Increases this ship's Crit Rate by $2. Every 10s: fires a $3 special barrage (DMG is based on the skill's level) and deploys a barrier (lasts 5s) that can negate DMG equal to 5.0% of this ship's max HP. Once per battle, when this ship's HP falls below 20.0% as a result of DMG taken: restores $1 of this ship's max HP and increases this ship's RLD by 30.0% until the battle ends.",
     "opsi_description": null,
@@ -73011,6 +73172,65 @@
         "36.6%",
         "38.2%",
         "40.0%"
+      ]
+    ]
+  },
+  "1019300": {
+    "description": "Every 10s: activates a $4 Steelflash Judgment special attack (DMG is based on the skill's level). Every $1s: fires a special barrage that ignores enemy shields and heals this ship for 15.0% of the DMG dealt (barrage DMG is based on the skill's level). When this ship sinks an enemy: increases this ship's FP and EVA by $2 and RLD by $3 until the end of the battle. Can be stacked up to 3 times; if this ship is in the frontmost position of your Vanguard at the start of the battle: immediately gives all 3 stacks of this buff.",
+    "opsi_description": null,
+    "name": "Flintlock Burst (A)",
+    "max": 10,
+    "id": 1019300,
+    "type": 3,
+    "icon": 19300,
+    "values": [
+      [
+        "30",
+        "29",
+        "28",
+        "27",
+        "26",
+        "25",
+        "24",
+        "23",
+        "22",
+        "20"
+      ],
+      [
+        "1.0%",
+        "1.4%",
+        "1.8%",
+        "2.2%",
+        "2.6%",
+        "3.0%",
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%"
+      ],
+      [
+        "1.5%",
+        "2.1%",
+        "2.7%",
+        "3.3%",
+        "3.9%",
+        "4.5%",
+        "5.1%",
+        "5.7%",
+        "6.3%",
+        "7.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
       ]
     ]
   },
@@ -74839,6 +75059,148 @@
         "Lv.8",
         "Lv.9",
         "Lv.10"
+      ]
+    ]
+  },
+  "1090470": {
+    "description": "Every 20s: $1 chance to increase this ship's FP and RLD by $2 for 10s. Once per battle, when this ship's HP falls below 20.0% as a result of DMG taken: restores $3 of this ship's Max HP.",
+    "opsi_description": null,
+    "name": "Quick Reload - Kisaragi",
+    "max": 10,
+    "id": 1090470,
+    "type": 1,
+    "icon": 2000,
+    "values": [
+      [
+        "40.0%",
+        "43.3%",
+        "46.6%",
+        "49.9%",
+        "53.2%",
+        "56.5%",
+        "59.8%",
+        "63.1%",
+        "66.4%",
+        "70%"
+      ],
+      [
+        "20.0%",
+        "22.2%",
+        "24.4%",
+        "26.6%",
+        "28.8%",
+        "31.0%",
+        "33.2%",
+        "35.4%",
+        "37.6%",
+        "40.0%"
+      ],
+      [
+        "15.0%",
+        "16.1%",
+        "17.2%",
+        "18.3%",
+        "19.4%",
+        "20.5%",
+        "21.6%",
+        "22.7%",
+        "23.8%",
+        "25.0%"
+      ]
+    ]
+  },
+  "1090480": {
+    "description": "Increases this ship's DMG dealt to DDs and CLs by $1. If there are other Iron Blood ships in the same fleet: increases those ship's FP, TRP, EVA, ACC, and AA by $7.\nAt the start of battle, if this ship is in the frontmost position of the Vanguard: increases this ship's EVA by $2, Main Gun Crit Rate by $3, Main Gun Crit DMG by $3, and reduces her DMG taken by $4 until the end of battle; if this ship is in any other position: increases this ship's FP and TRP by $5 until the end of battle, and fires a $6 special barrage every 15s that penetrates shields (DMG is based on the skill's level).",
+    "opsi_description": null,
+    "name": "Pocket Battleship - Deutschland",
+    "max": 10,
+    "id": 1090480,
+    "type": 1,
+    "icon": 10650,
+    "values": [
+      [
+        "15.0%",
+        "17.2%",
+        "19.4%",
+        "21.6%",
+        "23.8%",
+        "26.0%",
+        "28.2%",
+        "30.4%",
+        "32.6%",
+        "35.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "15.0%",
+        "16.6%",
+        "18.2%",
+        "19.8%",
+        "21.4%",
+        "23.0%",
+        "24.6%",
+        "26.4%",
+        "28.2%",
+        "30.0%"
+      ],
+      [
+        "15.0%",
+        "16.1%",
+        "17.2%",
+        "18.3%",
+        "19.4%",
+        "20.5%",
+        "21.6%",
+        "22.7%",
+        "23.8%",
+        "25.0%"
+      ],
+      [
+        "1.0%",
+        "1.2%",
+        "1.4%",
+        "1.6%",
+        "1.8%",
+        "2.0%",
+        "2.2%",
+        "2.4%",
+        "2.7%",
+        "3.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "1.0%",
+        "1.4%",
+        "1.8%",
+        "2.2%",
+        "2.6%",
+        "3.0%",
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%"
       ]
     ]
   },
