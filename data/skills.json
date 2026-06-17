@@ -620,7 +620,7 @@
     ]
   },
   "2041": {
-    "description": "When this ship fires its Main Guns: $1 chance to deal double DMG with its Main Guns.",
+    "description": "When this ship fires its Main Guns: $1 chance to increase Main Gun damage by {100% for 3s (5s cooldown between activations)|The game states double damage, which is a bit pedantic to correct but this is more accurate. The game also does not mention the effect lasts 3 seconds and has a 5s cooldown.}.",
     "opsi_description": null,
     "name": "Focused Assault",
     "max": 10,
@@ -19716,7 +19716,7 @@
     ]
   },
   "15130": {
-    "description": "When the battle starts: increases this ship's EVA by $1; if there are other Dragon Empery ships in your fleet: increases this ship's FP and TRP dealt by $2. \nEvery 3rd time this ship fires her Main Guns: fires a $3 special barrage (DMG is based on the skill's level); enemies hit by this barrage take $2 increased DMG from this ship for 8s.",
+    "description": "When the battle starts: increases this ship's EVA by $1; if there are other Dragon Empery ships in your fleet: increases this ship's {FP and TRP|The game has the word dealt after FP and TRP which may imply that this is a direct damage bonus when it is just a stat increase.} by $2. \nEvery 3rd time this ship fires her Main Guns: fires a $3 special barrage (DMG is based on the skill's level); enemies hit by this barrage take $2 increased DMG from this ship for 8s.",
     "opsi_description": null,
     "name": "Wave-Breaking Speardancer",
     "max": 10,
@@ -30988,7 +30988,7 @@
     ]
   },
   "18270": {
-    "description": "Decreases the loading time of this ship's first 2 waves of torpedoes by $1. When this ship takes DMG: 15.0% chance to increase this ship's FP, EVA, and AA by $2 until the end of the battle. Can be stacked up to 3 times. While this ship's HP is at 80.0% or higher: increases this ship's DMG dealt with torpedoes by {4%|The game incorrectly handles part of this skill which leads to her always only gaining an increase of 4%.}.",
+    "description": "Decreases the loading time of this ship's first 2 waves of torpedoes by $1. {When this ship is hit|The game states when this ship takes DMG, however misses can also trigger this effect.}: 15.0% chance to increase this ship's FP, EVA, and AA by $2 until the end of the battle. Can be stacked up to 3 times. While this ship's HP is at 80.0% or higher: increases this ship's DMG dealt with torpedoes by {4%|The game incorrectly handles part of this skill which leads to her always only gaining an increase of 4%.}.",
     "opsi_description": null,
     "name": "Bounce Right Back+",
     "max": 10,
@@ -32630,7 +32630,7 @@
     ]
   },
   "19270": {
-    "description": "Decreases the loading time of this ship's first wave of torpedoes by $1. When this ship takes DMG: 15.0% chance to increase this ship's FP, EVA, and AA by $2 until the end of the battle. Can be stacked up to 3 times.",
+    "description": "Decreases the loading time of this ship's first wave of torpedoes by $1. {When this ship is hit|The game states when this ship takes DMG, however misses can also trigger this effect.}: 15.0% chance to increase this ship's FP, EVA, and AA by $2 until the end of the battle. Can be stacked up to 3 times.",
     "opsi_description": null,
     "name": "Bounce Right Back",
     "max": 10,
@@ -64039,7 +64039,7 @@
     ]
   },
   "801110": {
-    "description": "Increases this ship's FP and ACC by $1. Every 20s: for 10s, decreases the SPD all enemies within 55 units of this ship by 20.0%.",
+    "description": "Increases this ship's FP and ACC by $1. Every 20s: for 10s, decreases the SPD all enemies within {27.5|The game states 55 units which heavily implies a radius of 55, however the game uses 55 as the diameter meaning 27.5 is the actual radius.} units of this ship by 20.0%.",
     "opsi_description": null,
     "name": "Intertwining Memories",
     "max": 10,
@@ -70201,6 +70201,18 @@
     "icon": 11390,
     "values": [
       [
+        "1.0%",
+        "2.0%",
+        "3.0%",
+        "4.0%",
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.0%",
+        "9.0%",
+        "10.0%"
+      ],
+      [
         "5.0%",
         "6.1%",
         "7.2%",
@@ -72679,7 +72691,7 @@
     ]
   },
   "1018300": {
-    "description": "Every 10s: activates a $4 Steelflash Judgment special attack (DMG is based on the skill's level). Every $1s: fires a special barrage that ignores enemy shields and heals this ship for 20.0% of the DMG dealt (barrage DMG is based on the skill's level). {Increases|The game states that this happens when an enemy is sunk by this ship, but it does not have any conditions and just happens.} this ship's FP and EVA by $2 and RLD by $3 until the end of the battle. Whenever an allied flagship launches an airstrike or fires a Main Gun salvo: activates a $4 Burstfire Judgment special attack (DMG is based on the skill's level; 5s cooldown between activations).",
+    "description": "Every 10s: activates a $4 Steelflash Judgment special attack (DMG is based on the skill's level). Every $1s: fires a special barrage that ignores enemy shields and heals this ship for 20.0% of the DMG dealt (barrage DMG is based on the skill's level). At the start of battle, increases this ship's FP and EVA by $2 and RLD by $3 until the end of the battle. Whenever an allied flagship launches an airstrike or fires a Main Gun salvo: activates a $4 Burstfire Judgment special attack (DMG is based on the skill's level; 5s cooldown between activations).",
     "opsi_description": null,
     "name": "Flintlock Burst (A)+",
     "max": 10,
