@@ -77397,5 +77397,725 @@
     "time_limit": 80,
     "type": 9,
     "id": 1891
+  },
+  "2100581_t1_16520301": {
+    "name": "Confluence of Nothingness-T1 - War Archive",
+    "acv": 100,
+    "opsi": false,
+    "boss": {
+      "id": 16520301,
+      "hull": 5,
+      "nation": 99,
+      "name": "Smasher Mark IV",
+      "stats": {
+        "hp": 8900,
+        "fp": 150,
+        "trp": 0,
+        "avi": 0,
+        "aa": 115,
+        "hit": 19,
+        "eva": 15,
+        "spd": 20,
+        "luck": 0,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 25,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenzhanlie6",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1720013,
+    "dungeon_id": 1720013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1892
+  },
+  "2100581_t2_16520302": {
+    "name": "Confluence of Nothingness-T2 - War Archive",
+    "acv": 130,
+    "opsi": false,
+    "boss": {
+      "id": 16520302,
+      "hull": 2,
+      "nation": 99,
+      "name": "Obstructor Mk. IV",
+      "stats": {
+        "hp": 7600,
+        "fp": 70,
+        "trp": 110,
+        "avi": 0,
+        "aa": 150,
+        "hit": 20,
+        "eva": 20,
+        "spd": 18,
+        "luck": 0,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qinraozhe_iv",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1720113,
+    "dungeon_id": 1720113,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1893
+  },
+  "2100581_t3_16520303": {
+    "name": "Confluence of Nothingness-T3 - War Archive",
+    "acv": 165,
+    "opsi": false,
+    "boss": {
+      "id": 16520303,
+      "hull": 5,
+      "nation": 99,
+      "name": "Arbiter: The Hermit IX",
+      "stats": {
+        "hp": 12000,
+        "fp": 120,
+        "trp": 80,
+        "avi": 0,
+        "aa": 135,
+        "hit": 21,
+        "eva": 18,
+        "spd": 20,
+        "luck": 0,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 35,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss5",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1720213,
+    "dungeon_id": 1720213,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1894
+  },
+  "2100582_t4_16521301": {
+    "name": "Confluence of Nothingness-T4 - War Archive",
+    "acv": 210,
+    "opsi": false,
+    "boss": {
+      "id": 16521301,
+      "hull": 5,
+      "nation": 99,
+      "name": "Enforcer IX: Exploration",
+      "stats": {
+        "hp": 16500,
+        "fp": 160,
+        "trp": 0,
+        "avi": 0,
+        "aa": 180,
+        "hit": 25,
+        "eva": 16,
+        "spd": 20,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 45,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shenyuanboss4",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1721013,
+    "dungeon_id": 1721013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1895
+  },
+  "2100582_t5_16521302": {
+    "name": "Confluence of Nothingness-T5 - War Archive",
+    "acv": 270,
+    "opsi": false,
+    "boss": {
+      "id": 16521302,
+      "hull": 5,
+      "nation": 99,
+      "name": "Dreamworld Avatar - \"Smasher\"",
+      "stats": {
+        "hp": 24680,
+        "fp": 160,
+        "trp": 0,
+        "avi": 0,
+        "aa": 180,
+        "hit": 27,
+        "eva": 17,
+        "spd": 20,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 55,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenzhanlie_m",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1721113,
+    "dungeon_id": 1721113,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1896
+  },
+  "2100582_t6_16521303": {
+    "name": "Confluence of Nothingness-T6 - War Archive",
+    "acv": 330,
+    "opsi": false,
+    "boss": {
+      "id": 16521303,
+      "hull": 5,
+      "nation": 99,
+      "name": "Arbiter: The Hermit IX /*0x0F*/",
+      "stats": {
+        "hp": 31500,
+        "fp": 180,
+        "trp": 120,
+        "avi": 0,
+        "aa": 360,
+        "hit": 26,
+        "eva": 23,
+        "spd": 18,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss5_alter",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1721213,
+    "dungeon_id": 1721213,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1897
+  },
+  "2100591_ht1_16522301": {
+    "name": "Confluence of Nothingness-HT1 - War Archive",
+    "acv": 455,
+    "opsi": false,
+    "boss": {
+      "id": 16522301,
+      "hull": 5,
+      "nation": 99,
+      "name": "Smasher Mark IV",
+      "stats": {
+        "hp": 52100,
+        "fp": 210,
+        "trp": 0,
+        "avi": 0,
+        "aa": 206,
+        "hit": 41,
+        "eva": 41,
+        "spd": 20,
+        "luck": 18,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 75,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenzhanlie6",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1722013,
+    "dungeon_id": 1722013,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1898
+  },
+  "2100591_ht2_16522302": {
+    "name": "Confluence of Nothingness-HT2 - War Archive",
+    "acv": 605,
+    "opsi": false,
+    "boss": {
+      "id": 16522302,
+      "hull": 2,
+      "nation": 99,
+      "name": "Obstructor Mk. IV",
+      "stats": {
+        "hp": 42800,
+        "fp": 200,
+        "trp": 156,
+        "avi": 0,
+        "aa": 225,
+        "hit": 42,
+        "eva": 42,
+        "spd": 20,
+        "luck": 18,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "qinraozhe_iv",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1722113,
+    "dungeon_id": 1722113,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1899
+  },
+  "2100591_ht3_16522303": {
+    "name": "Confluence of Nothingness-HT3 - War Archive",
+    "acv": 775,
+    "opsi": false,
+    "boss": {
+      "id": 16522303,
+      "hull": 5,
+      "nation": 99,
+      "name": "Arbiter: The Hermit IX",
+      "stats": {
+        "hp": 62500,
+        "fp": 255,
+        "trp": 150,
+        "avi": 0,
+        "aa": 325,
+        "hit": 38,
+        "eva": 44,
+        "spd": 18,
+        "luck": 20,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 85,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss5",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1722213,
+    "dungeon_id": 1722213,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1900
+  },
+  "2100592_ht4_16523301": {
+    "name": "Confluence of Nothingness-HT4 - War Archive",
+    "acv": 850,
+    "opsi": false,
+    "boss": {
+      "id": 16523301,
+      "hull": 5,
+      "nation": 99,
+      "name": "Enforcer IX: Exploration",
+      "stats": {
+        "hp": 82100,
+        "fp": 270,
+        "trp": 0,
+        "avi": 0,
+        "aa": 260,
+        "hit": 69,
+        "eva": 32,
+        "spd": 20,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 95,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "shenyuanboss4",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1723013,
+    "dungeon_id": 1723013,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1901
+  },
+  "2100592_ht5_16523302": {
+    "name": "Confluence of Nothingness-HT5 - War Archive",
+    "acv": 1100,
+    "opsi": false,
+    "boss": {
+      "id": 16523302,
+      "hull": 5,
+      "nation": 99,
+      "name": "Dreamworld Avatar - \"Smasher\"",
+      "stats": {
+        "hp": 96200,
+        "fp": 280,
+        "trp": 0,
+        "avi": 0,
+        "aa": 260,
+        "hit": 71,
+        "eva": 33,
+        "spd": 16,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 100,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenzhanlie_m",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1723113,
+    "dungeon_id": 1723113,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1902
+  },
+  "2100592_ht6_16523303": {
+    "name": "Confluence of Nothingness-HT6 - War Archive",
+    "acv": 1410,
+    "opsi": false,
+    "boss": {
+      "id": 16523303,
+      "hull": 5,
+      "nation": 99,
+      "name": "Arbiter: The Hermit IX /*0x0F*/",
+      "stats": {
+        "hp": 115000,
+        "fp": 300,
+        "trp": 0,
+        "avi": 0,
+        "aa": 460,
+        "hit": 52,
+        "eva": 40,
+        "spd": 18,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sairenboss5_alter",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1723213,
+    "dungeon_id": 1723213,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1903
+  },
+  "2200170_t1_16630301": {
+    "name": "Interlude of Illusions-T1 - War Archive",
+    "acv": 150,
+    "opsi": false,
+    "boss": {
+      "id": 16630301,
+      "hull": 2,
+      "nation": 2,
+      "name": "Hermione",
+      "stats": {
+        "hp": 6200,
+        "fp": 65,
+        "trp": 94,
+        "avi": 0,
+        "aa": 125,
+        "hit": 20,
+        "eva": 20,
+        "spd": 20,
+        "luck": 15,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "hemin",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1820013,
+    "dungeon_id": 1820013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1904
+  },
+  "2200170_t2_16631301": {
+    "name": "Interlude of Illusions-T2 - War Archive",
+    "acv": 300,
+    "opsi": false,
+    "boss": {
+      "id": 16631301,
+      "hull": 2,
+      "nation": 4,
+      "name": "Köln",
+      "stats": {
+        "hp": 18960,
+        "fp": 89,
+        "trp": 175,
+        "avi": 0,
+        "aa": 210,
+        "hit": 27,
+        "eva": 25,
+        "spd": 18,
+        "luck": 8,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 45,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "kelong_g",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1821013,
+    "dungeon_id": 1821013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1905
+  },
+  "2200170_t3_16632301": {
+    "name": "Interlude of Illusions-T3 - War Archive",
+    "acv": 700,
+    "opsi": false,
+    "boss": {
+      "id": 16632301,
+      "hull": 2,
+      "nation": 6,
+      "name": "Giuseppe Garibaldi",
+      "stats": {
+        "hp": 32400,
+        "fp": 170,
+        "trp": 140,
+        "avi": 160,
+        "aa": 240,
+        "hit": 26,
+        "eva": 27,
+        "spd": 16,
+        "luck": 8,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "zhusaipei",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1822013,
+    "dungeon_id": 1822013,
+    "time_limit": 180,
+    "type": 15,
+    "id": 1906
+  },
+  "2200171_ht1_16637301": {
+    "name": "Interlude of Illusions-HT1 - War Archive",
+    "acv": 150,
+    "opsi": false,
+    "boss": {
+      "id": 16637301,
+      "hull": 2,
+      "nation": 2,
+      "name": "Hermione",
+      "stats": {
+        "hp": 42800,
+        "fp": 180,
+        "trp": 220,
+        "avi": 0,
+        "aa": 225,
+        "hit": 42,
+        "eva": 42,
+        "spd": 25,
+        "luck": 18,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "hemin",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1827013,
+    "dungeon_id": 1827013,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1907
+  },
+  "2200171_ht2_16638301": {
+    "name": "Interlude of Illusions-HT2 - War Archive",
+    "acv": 300,
+    "opsi": false,
+    "boss": {
+      "id": 16638301,
+      "hull": 2,
+      "nation": 4,
+      "name": "Köln",
+      "stats": {
+        "hp": 89250,
+        "fp": 198,
+        "trp": 260,
+        "avi": 0,
+        "aa": 350,
+        "hit": 42,
+        "eva": 40,
+        "spd": 18,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 95,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "kelong_g",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1828013,
+    "dungeon_id": 1828013,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1908
+  },
+  "2200171_ht3_16639301": {
+    "name": "Interlude of Illusions-HT3 - War Archive",
+    "acv": 700,
+    "opsi": false,
+    "boss": {
+      "id": 16639301,
+      "hull": 2,
+      "nation": 6,
+      "name": "Giuseppe Garibaldi",
+      "stats": {
+        "hp": 106000,
+        "fp": 310,
+        "trp": 210,
+        "avi": 310,
+        "aa": 390,
+        "hit": 67,
+        "eva": 54,
+        "spd": 16,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "zhusaipei",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 1829013,
+    "dungeon_id": 1829013,
+    "time_limit": 180,
+    "type": 16,
+    "id": 1909
   }
 }
