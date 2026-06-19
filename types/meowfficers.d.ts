@@ -52,10 +52,11 @@ export interface SkillEffect {
 }
 
 export interface SkillCondition {
-    type: 'count' | 'flag' | 'size'
+    type: 'count' | 'flag' | 'size' | 'size_and_count'
     hulls: Hull[]
     fleet?: FleetRowType
     size?: number
+    size_limit?: number
     count?: number
 }
 
