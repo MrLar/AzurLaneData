@@ -66,7 +66,7 @@ export interface MeowStatEffect {
     against_hulls?: Hull[]
     restrict?: Hull[]
     indices?: number[]
-    type?: EquipmentType
+    type?: EquipmentType[]
 }
 
 export type MeowStat = 'command' | 'logistics' | 'tactics'
