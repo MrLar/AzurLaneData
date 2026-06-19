@@ -1518,7 +1518,7 @@
             6
           ],
           "condition": {
-            "type": "size_and_count",
+            "type": "size",
             "fleet": "main",
             "count": 1,
             "size": 1,
@@ -1586,7 +1586,7 @@
             6
           ],
           "condition": {
-            "type": "size_and_count",
+            "type": "size",
             "fleet": "main",
             "count": 1,
             "size": 1,
