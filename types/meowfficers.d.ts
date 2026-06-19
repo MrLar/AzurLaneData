@@ -6,7 +6,12 @@
  * https://opensource.org/licenses/MIT.
  */
 
-import { type AlServer, type BuffStatKey, type FleetRowType, type Hull, type Nation, type Rarity } from './common'
+import {
+    type AlServer, type BuffStatKey,
+    type EquipmentType,
+    type FleetRowType,
+    type Hull, type Nation, type Rarity
+} from './common'
 
 export interface MeowfficerData {
     name: string
@@ -61,6 +66,7 @@ export interface MeowStatEffect {
     against_hulls?: Hull[]
     restrict?: Hull[]
     indices?: number[]
+    type?: EquipmentType
 }
 
 export type MeowStat = 'command' | 'logistics' | 'tactics'

@@ -1513,6 +1513,10 @@
         null,
         {
           "slot": -1,
+          "hulls": [
+            7,
+            6
+          ],
           "condition": {
             "type": "count",
             "fleet": "main",
@@ -1529,6 +1533,12 @@
               "amount": -8,
               "indices": [
                 0
+              ],
+              "type": [
+                7,
+                8,
+                9,
+                12
               ]
             }
           ]
@@ -1570,6 +1580,10 @@
         },
         {
           "slot": -1,
+          "hulls": [
+            7,
+            6
+          ],
           "condition": {
             "type": "count",
             "fleet": "main",
@@ -1586,6 +1600,12 @@
               "amount": -8,
               "indices": [
                 0
+              ],
+              "type": [
+                7,
+                8,
+                9,
+                12
               ]
             }
           ]
