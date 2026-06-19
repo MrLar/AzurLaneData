@@ -1481,12 +1481,12 @@
       "descriptions": [
         "When assigned as the Staff Cat: increases the AVI and RLD of your CVs and CVLs by a {moderate|In game incorrectly states small.} amount based on the Directives stat.",
         "Decreases the fleet's chance of running into an Ambush based on the Logistics stat.",
-        "Once per battle, if your fleet consists of only 1 CV or CVL: quickens the load time of your CV's/CVL's first Airstrike by 8.0% and launches an additional Torpedo Bomber airstrike once."
+        "Once per battle, if your fleet {has no more than one 1 CV/CVL|The game is not exacly clear about whether the fleet can only have 1 main fleet ship or just one from the 2 hulls.}: quickens the load time of your CV's/CVL's first Airstrike by 8.0% and launches an additional Torpedo Bomber airstrike once."
       ],
       "opsi_descriptions": [
         "When assigned as the Staff Cat: increases the AVI and RLD of your CVs and CVLs by a {moderate|In game incorrectly states small.} amount based on the Directives stat.",
         "When assigned as the Staff Cat: increases the EVA of your CVs and CVLs by a small amount based on the Logistics stat.",
-        "Once per battle, if your fleet consists of only 1 CV or CVL: quickens the load time of your CV's/CVL's first Airstrike by 8.0% and launches an additional Torpedo Bomber airstrike once."
+        "Once per battle, if your fleet {has no more than one 1 CV/CVL|The game is not exacly clear about whether the fleet can only have 1 main fleet ship or just one from the 2 hulls.}: quickens the load time of your CV's/CVL's first Airstrike by 8.0% and launches an additional Torpedo Bomber airstrike once."
       ],
       "icon": 30011,
       "id": 30011,
@@ -1507,6 +1507,29 @@
               "stat": "avi",
               "meow_stat": "command",
               "amount": 8
+            }
+          ]
+        },
+        null,
+        {
+          "slot": -1,
+          "condition": {
+            "type": "count",
+            "fleet": "main",
+            "count": 1,
+            "hulls": [
+              6,
+              7
+            ]
+          },
+          "stats": [
+            {
+              "stat": "reload_time",
+              "meow_stat": null,
+              "amount": -8,
+              "indices": [
+                0
+              ]
             }
           ]
         }
@@ -1542,6 +1565,28 @@
               "stat": "eva",
               "meow_stat": "logistics",
               "amount": 4
+            }
+          ]
+        },
+        {
+          "slot": -1,
+          "condition": {
+            "type": "count",
+            "fleet": "main",
+            "count": 1,
+            "hulls": [
+              6,
+              7
+            ]
+          },
+          "stats": [
+            {
+              "stat": "reload_time",
+              "meow_stat": null,
+              "amount": -8,
+              "indices": [
+                0
+              ]
             }
           ]
         }

@@ -31,7 +31,7 @@ export type ShipStatKey =
     | 'ammo'
     | 'range_level'
 
-export type BuffStatKey = ShipStatKey | 'damage' | 'crit_rate' | 'damage_reduction' | 'damage_taken'
+export type BuffStatKey = ShipStatKey | 'damage' | 'crit_rate' | 'damage_reduction' | 'damage_taken' | 'reload_time'
 
 export type FleetRowType = 'van' | 'main'
 

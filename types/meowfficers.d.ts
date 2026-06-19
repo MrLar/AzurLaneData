@@ -60,6 +60,7 @@ export interface MeowStatEffect {
     amount: number
     against_hulls?: Hull[]
     restrict?: Hull[]
+    indices?: number[]
 }
 
 export type MeowStat = 'command' | 'logistics' | 'tactics'

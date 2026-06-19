@@ -223,6 +223,7 @@ Whenever `BuffStatKey` is used by a type it may refer to any of the following:
 - crit_rate
 - damage_reduction
 - damage_taken
+- reload_time
 
 # Skill Upgrade Data
 
