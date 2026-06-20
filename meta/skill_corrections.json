@@ -1,4 +1,13 @@
 {
+  "150890": {
+    "replace": [
+      {
+        "existing": "When the battle starts: lights a firecracker; 15s after this, there is a $1 chance to set off a bianpao.",
+        "with": "When the battle starts, and {with a $1 chance every 15s after that|The firecracker and bianpao mean the same thing, and the game implies it does not repeat every 15s.}: lights a bianpao.",
+        "all": false
+      }
+    ]
+  },
   "10560": {
     "replace": [
       {
