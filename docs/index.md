@@ -9,39 +9,6 @@ Azur Lane Data is a collection of JSON Files useful to create various applets re
 Please make sure to read the [License](https://github.com/MrLar/AzurLaneData/blob/main/LICENSE.md) file as well as the [License Section](https://github.com/MrLar/AzurLaneData/blob/main/README.md#license)
 before using this data.
 
-# Notice
-Due to a lack of interest in both the game and datamining
-not all of the data provided here will be updated going forward.
-
-The following will still be updated:
-- ships, ships\_words, ship\_retro_cost
-- skills
-- augments, augment\_cost
-- equipments, equip\_upgrade\_cost, default\_equips
-- fleet\_tech\_sort
-- skins
-
-The following will occasionally update:
-- cruise\_passes
-- equip\_drops
-- ship\_drops
-- gear\_lab
-- gear\_skins
-- items
-- maps
-- meowfficers, meowfficer\_abilities
-- tech\_groups
-
-The following will NOT be updated at all:
-- any and all island content
-- any and all dorm3d content
-- barrages
-- juu\_chats, juu\_profiles
-- shops
-- special\_weapons
-- special\_secretaries
-- research\_projects
-
 # Notes
 
 ## Servers
@@ -73,7 +40,7 @@ The name of the file links to the respective file on the GitHub Repo., while the
 | :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :------------------: | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------: | :---------: |
 |             [augments.json](https://github.com/MrLar/AzurLaneData/tree/main/data/augments.json)             |                   Contains all augments in the game                   |       `object`       |                            Augment ID -> [`AugmentData`](./equips/augments/index.md)                             |       `Record<number, AugmentData        | undefined>` |                                                                                         |
 |         [augment_cost.json](https://github.com/MrLar/AzurLaneData/tree/main/data/augment_cost.json)         |         Contains info about costs to upgrade a given augment          |       `object`       |                      Augment ID -> [`AugmentCost`](./equips/augments/index.md#augment-cost)                      |       `Record<number, AugmentCost        | undefined>` |                                                                                         |
-|             [barrages.json](https://github.com/MrLar/AzurLaneData/tree/main/data/barrages.json)             |              Contains info about all almost all barrages              | `object` \| `number` |                      Skill ID -> [`Barrage[]`](./barrages/index.md#barrage) \| `number`\*\*                      |        `Record<number, Barrage[]         |   number    | undefined>`                                                                             |  |
+|            [barrages.json](https://github.com/MrLar/AzurLaneData/tree/main/data/barrages.json) ⚠️            |              Contains info about all almost all barrages              | `object` \| `number` |                      Skill ID -> [`Barrage[]`](./barrages/index.md#barrage) \| `number`\*\*                      |        `Record<number, Barrage[]         |   number    | undefined>`                                                                             |  |
 |          [cruise_pass.json](https://github.com/MrLar/AzurLaneData/tree/main/data/cruise_pass.json)          |                 Contains info about all cruise passes                 |       `object`       |                        Cruise Season ID -> [`CruisePass`](./cruise/index.md#cruise-pass)                         |        `Record<number, CruisePass        | undefined>` |                                                                                         |
 |       [default_equips.json](https://github.com/MrLar/AzurLaneData/tree/main/data/default_equips.json)       |          Contains all default and ghost weapons in the game           |       `object`       |                             Equip ID -> [`EquipmentData`](./equips/regular/index.md)                             |      `Record<number, EquipmentData       | undefined>` |                                                                                         |
 |           [equipments.json](https://github.com/MrLar/AzurLaneData/tree/main/data/equipments.json)           |                  Contains all equipments in the game                  |       `object`       |                             Equip ID -> [`EquipmentData`](./equips/regular/index.md)                             |      `Record<number, EquipmentData       | undefined>` |                                                                                         |
@@ -91,21 +58,21 @@ The name of the file links to the respective file on the GitHub Repo., while the
 |           [ship_words.json](https://github.com/MrLar/AzurLaneData/tree/main/data/ship_words.json)           |           Conatins all voice lines of all skins in the game           |       `object`       |                                    Ship ID -> [`SkinLines`](./ships/words.md)                                    |        `Record<number, SkinLines         | undefined>` |                                                                                         |
 |               [skills.json](https://github.com/MrLar/AzurLaneData/tree/main/data/skills.json)               |                Conatins all visible skills in the game                |       `object`       |                                   Skill ID -> [`SkillData`](./skills/index.md)                                   |        `Record<number, SkillData         | undefined>` |                                                                                         |
 |                [skins.json](https://github.com/MrLar/AzurLaneData/tree/main/data/skins.json)                |                  Conatins all ship skins in the game                  |       `object`       |                                    Skin ID -> [`SkinInfo`](./skins/index.md)                                     |         `Record<number, SkinInfo         | undefined>` |                                                                                         |
-|      [special_weapons.json](https://github.com/MrLar/AzurLaneData/tree/main/data/special_weapons.json)      |          Contains all special weapon overrides of the game\*          |       `object`       |                         Special Wep. ID -> [`Weapon`](./equips/regular/index.md#weapon)                          |          `Record<number, Weapon          | undefined>` |                                                                                         |
+|     [special_weapons.json](https://github.com/MrLar/AzurLaneData/tree/main/data/special_weapons.json) ⚠️     |          Contains all special weapon overrides of the game\*          |       `object`       |                         Special Wep. ID -> [`Weapon`](./equips/regular/index.md#weapon)                          |          `Record<number, Weapon          | undefined>` |                                                                                         |
 |                [items.json](https://github.com/MrLar/AzurLaneData/tree/main/data/items.json)                |                Contains most useful items in the game                 |       `object`       |                                      Item ID -> [`Item`](./common.md#item)                                       |           `Record<number, Item           | undefined>` |                                                                                         |
-|   [research_projects_.json](https://github.com/MrLar/AzurLaneData/tree/main/data/research_projects_.json)   |                  Contains all researches in the game                  |       `object`       |                                Research ID -> [`Research`](./common.md#research)                                 |         `Record<number, Research         | undefined>` |                                                                                         |
-|                [shops.json](https://github.com/MrLar/AzurLaneData/tree/main/data/shops.json)                |                    Contains all shops in the game                     |       `object`       |                                Shop ID -> [`AnyShop`](./shops/index.md#any-shop)                                 |         `Record<number, AnyShop          | undefined>` |                                                                                         |
+|  [research_projects_.json](https://github.com/MrLar/AzurLaneData/tree/main/data/research_projects_.json) ⚠️  |                  Contains all researches in the game                  |       `object`       |                                Research ID -> [`Research`](./common.md#research)                                 |         `Record<number, Research         | undefined>` |                                                                                         |
+|               [shops.json](https://github.com/MrLar/AzurLaneData/tree/main/data/shops.json) ⚠️               |                    Contains all shops in the game                     |       `object`       |                                Shop ID -> [`AnyShop`](./shops/index.md#any-shop)                                 |         `Record<number, AnyShop          | undefined>` |                                                                                         |
 |          [tech_groups.json](https://github.com/MrLar/AzurLaneData/tree/main/data/tech_groups.json)          |                Contains Fleet Tech Groups in the game                 |       `object`       |                       Group/Nation ID -> [`TechGroup`](./tech_groups/index.md#tech-group)                        |        `Record<number, TechGroup         | undefined>` |                                                                                         |
-|    [dorm3d_characters.json](https://github.com/MrLar/AzurLaneData/tree/main/data/dorm3d_characters.json)    |              Contains all Characters available in Dorm3D              |       `object`       |                   Character/Ship ID -> [`Dorm3DCharacter`](./dorm3d/index.md#dorm3d-character)                   |     `Record<number, Dorm3DCharacter      | undefined>` |                                                                                         |
-|    [dorm3d_collectibe.json](https://github.com/MrLar/AzurLaneData/tree/main/data/dorm3d_collectibe.json)    |          Contains all Collectible items available in Dorm3D           |       `object`       |                      Item ID -> [`Dorm3DCollectable`](./dorm3d/index.md#dorm3d-collectable)                      |    `Record<number, Dorm3DCollectable     | undefined>` |                                                                                         |
-|     [dord3d_furniture.json](https://github.com/MrLar/AzurLaneData/tree/main/data/dord3d_furniture.json)     |           Contains all Furniture items available in Dorm3D            |       `object`       |                        Item ID -> [`Dorm3dFurniture`](./dorm3d/index.md#dorm3d-furniture)                        |     `Record<number, Dorm3DFurniture      | undefined>` |                                                                                         |
-|         [dorm3d_gifts.json](https://github.com/MrLar/AzurLaneData/tree/main/data/dorm3d_gifts.json)         |              Contains all Gift items available in Dorm3D              |       `object`       |                             Item ID -> [`Dorm3dGift`](./dorm3d/index.md#dorm3d-gift)                             |        `Record<number, Dorm3DGift        | undefined>` |                                                                                         |
-|         [dorm3d_rooms.json](https://github.com/MrLar/AzurLaneData/tree/main/data/dorm3d_rooms.json)         |           Contains all Rooms/Locations available in Dorm3D            |       `object`       |                             Room ID -> [`Dorm3DRoom`](./dorm3d/index.md#dorm3d-room)                             |        `Record<number, Dorm3DRoom        | undefined>` |                                                                                         |
-|            [juu_chats.json](https://github.com/MrLar/AzurLaneData/tree/main/data/juu_chats.json)            |                 Contains all Fleet Chats of the game                  |       `object`       |                            Chat ID -> [`FleetChat`](./juustagram/index.md#fleet-chat)                            |        `Record<number, FleetChat         | undefined>` |                                                                                         |
-|         [juu_profiles.json](https://github.com/MrLar/AzurLaneData/tree/main/data/juu_profiles.json)         |       Contains all Ship and the Commanders Juustagram profile.        |       `object`       |                         Profile ID -> [`JuuProfile`](./juustagram/index.md#juu-profile)                          |        `Record<number, JuuProfile        | undefined>` |                                                                                         |
-|  [special_secretaries.json](https://github.com/MrLar/AzurLaneData/tree/main/data/special_secretaries.json)  |             Contains all special secretaries of the game.             |       `object`       |              Secretary ID -> [`SpecialSecretary`](./special_secretaries/index.md#special-secretary)              |     `Record<number, SpecialSecretary     | undefined>` |                                                                                         |
-|             [barrages.json](https://github.com/MrLar/AzurLaneData/tree/main/data/barrages.json)             |                 Contains (most) barrages of the game.                 |       `object`       |                              Skill ID -> [`Barrage[]`](./barrages/index.md#barrage)                              |        `Record<number, Barrage[]         | undefined>` | See [here](https://github.com/MrLar/AzurLaneData/tree/main?tab=readme-ov-file#barrages) |
-|                    [island](https://github.com/MrLar/AzurLaneData/tree/main/data/island)                    |       Contains data of various things related to Island Planer.       |        Varies        |                                                      Varies                                                      |                  Varies                  |
+|   [dorm3d_characters.json](https://github.com/MrLar/AzurLaneData/tree/main/data/dorm3d_characters.json) ⚠️   |              Contains all Characters available in Dorm3D              |       `object`       |                   Character/Ship ID -> [`Dorm3DCharacter`](./dorm3d/index.md#dorm3d-character)                   |     `Record<number, Dorm3DCharacter      | undefined>` |                                                                                         |
+|   [dorm3d_collectibe.json](https://github.com/MrLar/AzurLaneData/tree/main/data/dorm3d_collectibe.json) ⚠️   |          Contains all Collectible items available in Dorm3D           |       `object`       |                      Item ID -> [`Dorm3DCollectable`](./dorm3d/index.md#dorm3d-collectable)                      |    `Record<number, Dorm3DCollectable     | undefined>` |                                                                                         |
+|    [dord3d_furniture.json](https://github.com/MrLar/AzurLaneData/tree/main/data/dord3d_furniture.json) ⚠️    |           Contains all Furniture items available in Dorm3D            |       `object`       |                        Item ID -> [`Dorm3dFurniture`](./dorm3d/index.md#dorm3d-furniture)                        |     `Record<number, Dorm3DFurniture      | undefined>` |                                                                                         |
+|        [dorm3d_gifts.json](https://github.com/MrLar/AzurLaneData/tree/main/data/dorm3d_gifts.json) ⚠️        |              Contains all Gift items available in Dorm3D              |       `object`       |                             Item ID -> [`Dorm3dGift`](./dorm3d/index.md#dorm3d-gift)                             |        `Record<number, Dorm3DGift        | undefined>` |                                                                                         |
+|        [dorm3d_rooms.json](https://github.com/MrLar/AzurLaneData/tree/main/data/dorm3d_rooms.json) ⚠️        |           Contains all Rooms/Locations available in Dorm3D            |       `object`       |                             Room ID -> [`Dorm3DRoom`](./dorm3d/index.md#dorm3d-room)                             |        `Record<number, Dorm3DRoom        | undefined>` |                                                                                         |
+|           [juu_chats.json](https://github.com/MrLar/AzurLaneData/tree/main/data/juu_chats.json) ⚠️           |                 Contains all Fleet Chats of the game                  |       `object`       |                            Chat ID -> [`FleetChat`](./juustagram/index.md#fleet-chat)                            |        `Record<number, FleetChat         | undefined>` |                                                                                         |
+|        [juu_profiles.json](https://github.com/MrLar/AzurLaneData/tree/main/data/juu_profiles.json) ⚠️        |       Contains all Ship and the Commanders Juustagram profile.        |       `object`       |                         Profile ID -> [`JuuProfile`](./juustagram/index.md#juu-profile)                          |        `Record<number, JuuProfile        | undefined>` |                                                                                         |
+| [special_secretaries.json](https://github.com/MrLar/AzurLaneData/tree/main/data/special_secretaries.json) ⚠️ |             Contains all special secretaries of the game.             |       `object`       |              Secretary ID -> [`SpecialSecretary`](./special_secretaries/index.md#special-secretary)              |     `Record<number, SpecialSecretary     | undefined>` |                                                                                         |
+|            [barrages.json](https://github.com/MrLar/AzurLaneData/tree/main/data/barrages.json) ⚠️            |                 Contains (most) barrages of the game.                 |       `object`       |                              Skill ID -> [`Barrage[]`](./barrages/index.md#barrage)                              |        `Record<number, Barrage[]         | undefined>` | See [here](https://github.com/MrLar/AzurLaneData/tree/main?tab=readme-ov-file#barrages) |
+|                   [island](https://github.com/MrLar/AzurLaneData/tree/main/data/island) ⚠️                   |       Contains data of various things related to Island Planer.       |        Varies        |                                                      Varies                                                      |                  Varies                  |
 
 \*The following weapon overrides exist:
 
@@ -121,6 +88,8 @@ _Despite the fact that in-game descriptions might make one believe otherwise Rik
 _gains her special weapons if the Aux. is equipped in the correct slot (as stated above)._
 
 \*\* Barrages that point to numbers are a hard reference to another barrage entry. Indicating that both skills are identical
+
+Files marked with ⚠️ are legacy files and no longer updated.
 
 Please excuse some of the questionable format choices made by all of the files. These files were designed years ago and have never been revisited or cleaned up.
 
@@ -173,14 +142,16 @@ There are a few other undocumented icons. However, they are for the most part no
   - [Research](./ships/research.md)
   - [Retrofit](./ships/retrofit.md)
   - [Words](./ships/words.md)
-- [Shops Documentation](./shops/index.md)
+- [Shops Documentation](./shops/index.md) ⚠️
 - [Skills Documentation](./skills/index.md)
 - [Skins Documentation](./skins/index.md)
-- [Research Documentation](./common.md#research)
+- [Research Documentation](./common.md#research) ⚠️
 - [Tech Group](./tech_groups/index.md)
-- [Dorm3D](./dorm3d/index.md)
-- [Juustagram](./juustagram/index.md)
-- [Special Secretary](./special_secretaries/index.md)
-- [Barrages](./barrages/index.md)
+- [Dorm3D](./dorm3d/index.md) ⚠️
+- [Juustagram](./juustagram/index.md) ⚠️
+- [Special Secretary](./special_secretaries/index.md) ⚠️
+- [Barrages](./barrages/index.md) ⚠️
 - [Cruise Pass](./cruise/index.md)
-- [Island](./island/index.md)
+- [Island](./island/index.md) ⚠️
+
+Links marked with ⚠️ are documenation for legacy files which are no longer updated.
