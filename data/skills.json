@@ -7415,7 +7415,7 @@
     ]
   },
   "11560": {
-    "description": "When this ship deals DMG to an enemy with its Main Guns: DMG increases based on distance traveled, up to a maximum of $1; When this ship's Secondary Gun slot is equipped with Eagle Union gear, ammunition type is changed to Super-Heavy AP {with 65/135/115 modifiers and a 20.0% chance to inflict Armor Break against Heavy Armor|The Armor Break effect and modifiers are not stated in game at all.}, and the DMG done based upon distance traveled is increased to a maximum of $2.",
+    "description": "When this ship deals DMG to an enemy with its Main Guns: DMG increases based on distance traveled, up to a maximum of $1; When this ship's Secondary Gun slot is equipped with Eagle Union gear, ammunition type is changed to Super-Heavy AP {with 65/135/115 modifiers, 11 Speed, 120-140 range, 10 Splash, 9 Spread and a 20.0% chance to inflict Armor Break against Heavy Armor|The Armor Break effect and bullet properties are not stated in game at all.}, and the DMG done based upon distance traveled is increased to a maximum of $2.",
     "opsi_description": null,
     "name": "2,700 Pounds of Justice",
     "max": 10,
@@ -10137,7 +10137,7 @@
     ]
   },
   "12480": {
-    "description": "Changes the ammo type of this ship's Main Guns to Special AP $1 {with $2 modifiers|These modifiers are not stated in game at all.}. The DMG bonus of this ammo is based on the skill's level.$3",
+    "description": "Changes the ammo type of this ship's Main Guns to Special AP $1 {with $2 modifiers, 22 Speed, 45-55 range, 1 Pierce|The bullet properties are not stated in game at all.}. The DMG bonus of this ammo is based on the skill's level.$3",
     "opsi_description": null,
     "name": "APsolute Ammunition",
     "max": 10,
@@ -10934,7 +10934,7 @@
     ]
   },
   "12700": {
-    "description": "Every 15s: changes this ship's Main Gun ammo type to μ Purple for 8s. {The μ Purple Shells are Normal Shells with $2 modifiers|Ammo type and modifiers are not stated in game at all.}.",
+    "description": "Every 15s: changes this ship's Main Gun ammo type to μ Purple for 8s. {The μ Purple Shells are Normal Shells with $2 modifiers, 9 Speed, 95-105 range and tracking (Strength: 2.5, Range: 25)|Ammo type and bullet properties are not stated in game at all.}.",
     "opsi_description": null,
     "name": "Spirited Guidance",
     "max": 10,
@@ -10992,7 +10992,7 @@
     ]
   },
   "12720": {
-    "description": "Once every third time this ship fires its Main Guns: the next shot fired will use μ Blue ammo. {The μ Blue Shells are AP Shells with $2 modifiers|Ammo type and modifiers are not stated in game at all.}.",
+    "description": "Once every third time this ship fires its Main Guns: the next shot fired will use μ Blue ammo. {The μ Blue Shells are AP Shells with $2 modifiers, 22 Speed, 50-60 range, 1 Pierce|Ammo type and bullet properties are not stated in game at all.}.",
     "opsi_description": null,
     "name": "Armor-Penetrating Arrow",
     "max": 10,
@@ -11120,7 +11120,7 @@
     ]
   },
   "12760": {
-    "description": "At the start of the battle and $1 chance every 20s after that: for 12s, changes this ship's Main Gun ammo type to μ Red. {The μ Red Shells are HE Shells with $3 modifiers|Ammo type and modifiers are not stated in game at all.}.",
+    "description": "At the start of the battle and $1 chance every 20s after that: for 12s, changes this ship's Main Gun ammo type to μ Red. {The μ Red Shells are HE Shells with $3 modifiers, 18 Speed, 45-55 range and 8% chance to inflict Standard Burn (Lvl 3)|Ammo type and bullet properties are not stated in game at all.}.",
     "opsi_description": null,
     "name": "High-Explosive Volley Fever",
     "max": 10,
@@ -11190,7 +11190,7 @@
     ]
   },
   "12780": {
-    "description": "Each Main Gun reload gives this ship 2 Salvoes that can be fired independently. This ship's Main Gun ammo type is changed to $1 μ shells switching between μ Red {with $3 modifiers|These modifiers are not stated in game at all.} and μ Blue {with $4 modifiers|These modifiers are not stated in game at all.} when it fires a Salvo. Additionally, decreases the reload time of this ship's first Salvo by $2.",
+    "description": "Each Main Gun reload gives this ship 2 Salvoes that can be fired independently. This ship's Main Gun ammo type is changed to $1 μ shells switching between μ Red {with $3 modifiers, 12 Speed, 70-90 range, 15 Splash, 19 Spread and 50% chance to inflict Standard Burn (Lvl 4)|These bullet properties are not stated in game at all.} and μ Blue {with $4 modifiers, 12 Speed, 70-90 range, 15 Splash, 19 Spread and 20% chance to inflict Standard Armor Break on Heavy Armor enemies|These bullet properties are not stated in game at all.} when it fires a Salvo. Additionally, decreases the reload time of this ship's first Salvo by $2.",
     "opsi_description": null,
     "name": "Cœur Battant",
     "max": 10,
@@ -14873,7 +14873,7 @@
     ]
   },
   "13860": {
-    "description": "At the start of the battle, and with a $1 chance every 20s after that: changes this ship's ammo type to $2 special {HE|Game incorrectly states AP.} {with $3 modifiers|These modifiers are not stated in game at all.} for 10s.",
+    "description": "At the start of the battle, and with a $1 chance every 20s after that: changes this ship's ammo type to $2 special {HE|Game incorrectly states AP.} {with $3 modifiers, 18 Speed, 45-60 range and 8% chance to inflict Standard Burn (Lvl 3)|These bullet properties are not stated in game at all.} for 10s.",
     "opsi_description": null,
     "name": "Armor-Piercing Hypercharge",
     "max": 10,
@@ -31023,7 +31023,7 @@
     ]
   },
   "18290": {
-    "description": "Increases this ship's built-in Secondary Gun's Crit Rate by $2 and improves its ammo {to Special Normal with 100/100/100 modifiers|These modifier changes are not mentioned by the game at all.}. When this ship uses a Main Gun that fires Normal or HE ammo: this ship's Main Gun ammo type changes to $1 special HE+ {with $4 modifiers|These modifiers are not stated in game at all.} which has a chance to inflict a special Burn to enemies hit (DMG is based on the skill's level). Decreases the shot requirement of this ship's All Out Assault skill to 6.",
+    "description": "Increases this ship's built-in Secondary Gun's Crit Rate by $2 and improves its ammo {to Special Normal with 100/100/100 modifiers, 20 Speed, 50-60 range|These bullet properties are not mentioned by the game at all.}. When this ship uses a Main Gun that fires Normal or HE ammo: this ship's Main Gun ammo type changes to $1 special HE+ {with $4 modifiers, 20 Speed, 45-55 range|These bullet properties are not stated in game at all.} which has a chance to inflict a {special Burn|9.5% chance to inflict Special Burn (DMG equal to 5 + Weapon Damage * Damage Modifier * Slot Efficiency * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 333, Level: 3)} to enemies hit (DMG is based on the skill's level). Decreases the shot requirement of this ship's All Out Assault skill to 6.",
     "opsi_description": null,
     "name": "The Fearless Privateer+",
     "max": 10,
@@ -32034,7 +32034,7 @@
     ]
   },
   "19090": {
-    "description": "Changes the ammo type of this ship's Main Guns to HE {with 135/95/70 modifiers|These modifiers are not stated in game at all.}. Every time this ship fires its Main Guns: increases this ship's RLD by $1 (can be stacked up to 12 times.) The ammo type of this ship's Main Guns will alternate between HE {with 135/95/70 modifiers|These modifiers are not stated in game at all.} and AP {with 75/110/75 modifiers|These modifiers are not stated in game at all.} every 2 shots.",
+    "description": "Changes the ammo type of this ship's Main Guns to HE {with 135/95/70 modifiers, 16 Speed, 45-60 range and 8% chance to inflict Standard Burn (Lvl 3)|These bullet properties are not stated in game at all.}. Every time this ship fires its Main Guns: increases this ship's RLD by $1 (can be stacked up to 12 times.) The ammo type of this ship's Main Guns will alternate between HE {with 135/95/70 modifiers, 16 Speed, 45-60 range and 8% chance to inflict Standard Burn (Lvl 3)|These bullet properties are not stated in game at all.} and AP {with 75/110/75 modifiers, 22 Speed, 50-60 range, 1 Pierce|These bullet properties are not stated in game at all.} every 2 shots.",
     "opsi_description": null,
     "name": "Expert Loader",
     "max": 10,
@@ -32266,7 +32266,7 @@
     ]
   },
   "19170": {
-    "description": "This ship's Main Gun's {ammo type is changed to Normal with $3 modifiers|The game only states unaffected by armor type not that the modifiers change completely. Do note that the fact that level 3 has a Light armor mod of 112 is not a typo but rather a game bug.} and its Main Gun DMG increases based on the skill's level ($1.) While equipping a Sakura Empire Main Gun: increases this ship's Main Gun efficiency by $2.",
+    "description": "This ship's Main Gun's {ammo type is changed to Normal with $3 modifiers, 18 Speed, 45-60 range|The game only states unaffected by armor type not that the bullet properties change completely. Do note that the fact that level 3 has a Light armor mod of 112 is not a typo but rather a game bug.} and its Main Gun DMG increases based on the skill's level ($1.) While equipping a Sakura Empire Main Gun: increases this ship's Main Gun efficiency by $2.",
     "opsi_description": null,
     "name": "Kitakaze Style - Horizon Splitter",
     "max": 10,
@@ -32700,7 +32700,7 @@
     ]
   },
   "19290": {
-    "description": "Increases this ship's built-in Secondary Gun Crit Rate by $2 and improves its ammo {to Special Normal with 100/100/100 modifiers|These modifier changes are not mentioned by the game at all.}. When this ship uses a Main Gun that fires Normal or HE ammo: this ship's Main Gun ammo type changes to $1 special HE {with $3 modifiers|These modifiers are not stated in game at all.} which has a chance to cause a special Burn to enemies (special HE DMG increase is based on the skill's level.)",
+    "description": "Increases this ship's built-in Secondary Gun Crit Rate by $2 and improves its ammo {to Special Normal with 100/100/100 modifiers, 20 Speed, 50-60 range|These bullet properties are not mentioned by the game at all.}. When this ship uses a Main Gun that fires Normal or HE ammo: this ship's Main Gun ammo type changes to $1 special HE {with $3 modifiers, 20 Speed, 45-55 range|These bullet properties are not stated in game at all.} which has a chance to cause a {special Burn|9.5% chance to inflict Special Burn (DMG equal to 5 + Weapon Damage * Damage Modifier * Slot Efficiency * (1 + (FP / 100)) * 0.6 with 1 tick every 3 seconds for 15.1s, ID: 333, Level: 3)} to enemies (special HE DMG increase is based on the skill's level.)",
     "opsi_description": null,
     "name": "The Fearless Privateer",
     "max": 10,
@@ -70568,7 +70568,7 @@
     ]
   },
   "1011560": {
-    "description": "During battle, changes this ship's Main Gun ammunition type to Super-Heavy AP {with 65/135/115 modifiers and a 20.0% chance to inflict Armor Break against Heavy Armor|The Armor Break effect and modifiers are not stated in game at all.}. When this ship's Main Guns hit an enemy, the DMG dealt to the enemy is increased based on the distance from this ship (up to $1). When this ship fires her Main Guns: $1 chance to fire a $2 special barrage (DMG is based on the skill's level).",
+    "description": "During battle, changes this ship's Main Gun ammunition type to Super-Heavy AP {with 65/135/115 modifiers, 11 Speed, 120-140 range, 10 Splash, 9 Spread and a 20.0% chance to inflict Armor Break against Heavy Armor|The Armor Break effect and bullet properties are not stated in game at all.}. When this ship's Main Guns hit an enemy, the DMG dealt to the enemy is increased based on the distance from this ship (up to $1). When this ship fires her Main Guns: $1 chance to fire a $2 special barrage (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "2,700 Pounds of Justice+",
     "max": 10,
@@ -71270,7 +71270,7 @@
     ]
   },
   "1012480": {
-    "description": "This ship's Main Gun ammo type changes to $1 Special AP {with $3 modifiers|These modifiers are not stated in game at all instead it just states a generic dmg based on level.}. When this Special AP hits an enemy: $2 chance to inflict that enemy with {special Armor Break|The game introduces a new confusing term for this for no real reason.}; {The special Armor Break|The game introduces a new confusing term for this for no real reason.} lasts for 8s and increases that enemy's shelling DMG received by 8.0%.\n15s after the battle starts, and every 20s after that: this ship gains a stealth mode, evading all enemy attacks for 3s; when this mode ends: fires a $1 special barrage (DMG is based on the skill's level) that inflicts the {the same special Armor Break|The game introduces a new confusing term for this for no real reason.} debuff to enemies hit.",
+    "description": "This ship's Main Gun ammo type changes to $1 Special AP {with $3 modifiers, 22 Speed, 45-55 range, 1 Pierce|These bullet properties are not stated in game at all instead it just states a generic dmg based on level.}. When this Special AP hits an enemy: $2 chance to inflict that enemy with {special Armor Break|The game introduces a new confusing term for this for no real reason.}; {The special Armor Break|The game introduces a new confusing term for this for no real reason.} lasts for 8s and increases that enemy's shelling DMG received by 8.0%.\n15s after the battle starts, and every 20s after that: this ship gains a stealth mode, evading all enemy attacks for 3s; when this mode ends: fires a $1 special barrage (DMG is based on the skill's level) that inflicts the {the same special Armor Break|The game introduces a new confusing term for this for no real reason.} debuff to enemies hit.",
     "opsi_description": null,
     "name": "APsolute Ammunition+",
     "max": 10,
@@ -72926,7 +72926,7 @@
     ]
   },
   "1019090": {
-    "description": "When this ship fires her Main Guns: increases this ship's FP and RLD by $1 (can be stacked up to 12 times). Every 20s: fires a $2 special barrage (DMG is based on the skill's level) that makes enemies hit take $3 increased DMG from this ship for 10s. Every 2 times this ship fires her Main Guns: changes the ammo type (into HE {with 145/100/80 modifiers|These modifiers are not stated in game at all.} or AP {with 85/130/110 modifiers|These modifiers are not stated in game at all.}) of her next 2 volleys; this ship's first and second Main Gun volleys fired will use HE {with 145/100/80 modifiers|These modifiers are not stated in game at all.} ammo.",
+    "description": "When this ship fires her Main Guns: increases this ship's FP and RLD by $1 (can be stacked up to 12 times). Every 20s: fires a $2 special barrage (DMG is based on the skill's level) that makes enemies hit take $3 increased DMG from this ship for 10s. Every 2 times this ship fires her Main Guns: changes the ammo type (into HE {with 145/100/80 modifiers, 45-60 range and 8% chance to inflict Standard Burn (Lvl 3)|These bullet properties are not stated in game at all.} or AP {with 85/130/110 modifiers, 22 Speed, 50-60 range, 1 Pierce|These bullet properties are not stated in game at all.}) of her next 2 volleys; this ship's first and second Main Gun volleys fired will use HE {with 145/100/80 modifiers, 45-60 range and 8% chance to inflict Standard Burn (Lvl 3)|These bullet properties are not stated in game at all.} ammo.",
     "opsi_description": null,
     "name": "Expert Loader+",
     "max": 10,
