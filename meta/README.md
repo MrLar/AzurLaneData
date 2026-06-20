@@ -1,3 +1,10 @@
+# Meta files
+
+The files here feed into my (private) parsers for the game files. They are used to issue corrections to incorrect text
+clarify things or for adding aliases to ships and equip. If you are just planning to use AzurLaneData for your own project you
+can feel free to ignore these files, as the files in `data` already contain these additions. These files were only made public
+to allow others to contribute to them.
+
 ## boss_skill_overrides.json
 
 Structure: an object mapping a boss key (map id) to an array of overrides.
