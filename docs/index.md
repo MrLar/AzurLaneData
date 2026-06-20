@@ -122,6 +122,8 @@ _gains her special weapons if the Aux. is equipped in the correct slot (as state
 
 \*\* Barrages that point to numbers are a hard reference to another barrage entry. Indicating that both skills are identical
 
+Please excuse some of the questionable format choices made by all of the files. These files were designed years ago and have never been revisited or cleaned up.
+
 # Icons
 All icons referenced by this data are also availabe on CDNs hosted by Cloudflare.
 Please refer to the documentation of each individual icon prop on where to find them, for

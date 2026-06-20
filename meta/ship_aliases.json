@@ -1,0 +1,4421 @@
+{
+  "1": {
+    "name": "Universal Bulin",
+    "aliases": [
+      "Bulin",
+      "Purple Bulin"
+    ]
+  },
+  "2": {
+    "name": "Prototype Bulin MKII",
+    "aliases": [
+      "Purin",
+      "Gold Bulin"
+    ]
+  },
+  "3": {
+    "name": "Specialized Bulin Custom MKIII",
+    "aliases": [
+      "URin",
+      "Rainbow Bulin"
+    ]
+  },
+  "4": {
+    "name": "Dewey",
+    "aliases": []
+  },
+  "5": {
+    "name": "Cassin",
+    "aliases": [
+      "Cass"
+    ]
+  },
+  "6": {
+    "name": "Downes",
+    "aliases": []
+  },
+  "7": {
+    "name": "Gridley",
+    "aliases": []
+  },
+  "8": {
+    "name": "Craven",
+    "aliases": []
+  },
+  "9": {
+    "name": "McCall",
+    "aliases": []
+  },
+  "10": {
+    "name": "Maury",
+    "aliases": []
+  },
+  "11": {
+    "name": "Fletcher",
+    "aliases": []
+  },
+  "12": {
+    "name": "William D. Porter",
+    "aliases": [
+      "Willie D"
+    ]
+  },
+  "13": {
+    "name": "Charles Ausburne",
+    "aliases": []
+  },
+  "14": {
+    "name": "Thatcher",
+    "aliases": []
+  },
+  "15": {
+    "name": "Aulick",
+    "aliases": []
+  },
+  "16": {
+    "name": "Foote",
+    "aliases": []
+  },
+  "17": {
+    "name": "Spence",
+    "aliases": []
+  },
+  "18": {
+    "name": "Benson",
+    "aliases": []
+  },
+  "19": {
+    "name": "Laffey",
+    "aliases": []
+  },
+  "26": {
+    "name": "Sims",
+    "aliases": []
+  },
+  "27": {
+    "name": "Hammann",
+    "aliases": [
+      "Ham",
+      "Hamaman"
+    ]
+  },
+  "28": {
+    "name": "Eldridge",
+    "aliases": [
+      "Eld",
+      "Rainbow"
+    ]
+  },
+  "29": {
+    "name": "Omaha",
+    "aliases": []
+  },
+  "30": {
+    "name": "Raleigh",
+    "aliases": []
+  },
+  "31": {
+    "name": "Brooklyn",
+    "aliases": []
+  },
+  "32": {
+    "name": "Phoenix",
+    "aliases": []
+  },
+  "33": {
+    "name": "Helena",
+    "aliases": []
+  },
+  "34": {
+    "name": "Atlanta",
+    "aliases": []
+  },
+  "35": {
+    "name": "Juneau",
+    "aliases": []
+  },
+  "36": {
+    "name": "San Diego",
+    "aliases": [
+      "Sandy"
+    ]
+  },
+  "37": {
+    "name": "Cleveland",
+    "aliases": [
+      "Cleve",
+      "Clevebro"
+    ]
+  },
+  "38": {
+    "name": "Columbia",
+    "aliases": []
+  },
+  "39": {
+    "name": "Pensacola",
+    "aliases": [
+      "Pepsicola"
+    ]
+  },
+  "40": {
+    "name": "Salt Lake City",
+    "aliases": [
+      "SLC",
+      "Salty City"
+    ]
+  },
+  "41": {
+    "name": "Northampton",
+    "aliases": []
+  },
+  "42": {
+    "name": "Chicago",
+    "aliases": []
+  },
+  "43": {
+    "name": "Houston",
+    "aliases": []
+  },
+  "44": {
+    "name": "Portland",
+    "aliases": [
+      "Port"
+    ]
+  },
+  "45": {
+    "name": "Indianapolis",
+    "aliases": [
+      "Indy",
+      "Indy-chan"
+    ]
+  },
+  "46": {
+    "name": "Astoria",
+    "aliases": []
+  },
+  "47": {
+    "name": "Quincy",
+    "aliases": []
+  },
+  "48": {
+    "name": "Vincennes",
+    "aliases": []
+  },
+  "49": {
+    "name": "Wichita",
+    "aliases": []
+  },
+  "50": {
+    "name": "Baltimore",
+    "aliases": [
+      "Balti"
+    ]
+  },
+  "52": {
+    "name": "Nevada",
+    "aliases": []
+  },
+  "53": {
+    "name": "Oklahoma",
+    "aliases": [
+      "Okla"
+    ]
+  },
+  "54": {
+    "name": "Pennsylvania",
+    "aliases": [
+      "Penn"
+    ]
+  },
+  "55": {
+    "name": "Arizona",
+    "aliases": [
+      "Ari"
+    ]
+  },
+  "58": {
+    "name": "Tennessee",
+    "aliases": [
+      "Tenn"
+    ]
+  },
+  "59": {
+    "name": "California",
+    "aliases": [
+      "Cali"
+    ]
+  },
+  "60": {
+    "name": "Colorado",
+    "aliases": []
+  },
+  "61": {
+    "name": "Maryland",
+    "aliases": []
+  },
+  "62": {
+    "name": "West Virginia",
+    "aliases": [
+      "WV",
+      "W Virginia"
+    ]
+  },
+  "63": {
+    "name": "North Carolina",
+    "aliases": [
+      "Norcal"
+    ]
+  },
+  "64": {
+    "name": "Washington",
+    "aliases": [
+      "Washy"
+    ]
+  },
+  "65": {
+    "name": "South Dakota",
+    "aliases": [
+      "SD",
+      "Dakota"
+    ]
+  },
+  "66": {
+    "name": "Indiana",
+    "aliases": [
+      "Indy"
+    ]
+  },
+  "68": {
+    "name": "New Jersey",
+    "aliases": [
+      "NJ",
+      "Jersey"
+    ]
+  },
+  "70": {
+    "name": "Long Island",
+    "aliases": [
+      "LI"
+    ]
+  },
+  "71": {
+    "name": "Bogue",
+    "aliases": [
+      "Borg"
+    ]
+  },
+  "72": {
+    "name": "Langley",
+    "aliases": []
+  },
+  "73": {
+    "name": "Lexington",
+    "aliases": [
+      "Lexi"
+    ]
+  },
+  "74": {
+    "name": "Saratoga",
+    "aliases": [
+      "Sara"
+    ]
+  },
+  "75": {
+    "name": "Ranger",
+    "aliases": [
+      "RNGer"
+    ]
+  },
+  "76": {
+    "name": "Yorktown",
+    "aliases": [
+      "York"
+    ]
+  },
+  "77": {
+    "name": "Enterprise",
+    "aliases": [
+      "Enty",
+      "Grey Ghost",
+      "Big E",
+      "Lucky E",
+      "CV-6"
+    ]
+  },
+  "78": {
+    "name": "Hornet",
+    "aliases": []
+  },
+  "79": {
+    "name": "Wasp",
+    "aliases": []
+  },
+  "80": {
+    "name": "Vestal",
+    "aliases": []
+  },
+  "81": {
+    "name": "Amazon",
+    "aliases": []
+  },
+  "82": {
+    "name": "Acasta",
+    "aliases": []
+  },
+  "83": {
+    "name": "Ardent",
+    "aliases": []
+  },
+  "86": {
+    "name": "Beagle",
+    "aliases": []
+  },
+  "87": {
+    "name": "Bulldog",
+    "aliases": []
+  },
+  "88": {
+    "name": "Comet",
+    "aliases": []
+  },
+  "89": {
+    "name": "Crescent",
+    "aliases": []
+  },
+  "90": {
+    "name": "Cygnet",
+    "aliases": []
+  },
+  "91": {
+    "name": "Foxhound",
+    "aliases": []
+  },
+  "92": {
+    "name": "Fortune",
+    "aliases": []
+  },
+  "93": {
+    "name": "Grenville",
+    "aliases": []
+  },
+  "94": {
+    "name": "Glowworm",
+    "aliases": []
+  },
+  "96": {
+    "name": "Hardy",
+    "aliases": []
+  },
+  "100": {
+    "name": "Hunter",
+    "aliases": []
+  },
+  "101": {
+    "name": "Javelin",
+    "aliases": [
+      "Jave",
+      "Jabbers"
+    ]
+  },
+  "102": {
+    "name": "Juno",
+    "aliases": []
+  },
+  "103": {
+    "name": "Vampire",
+    "aliases": []
+  },
+  "104": {
+    "name": "Leander",
+    "aliases": [
+      "Rianda"
+    ]
+  },
+  "105": {
+    "name": "Achilles",
+    "aliases": []
+  },
+  "106": {
+    "name": "Ajax",
+    "aliases": []
+  },
+  "107": {
+    "name": "Dido",
+    "aliases": []
+  },
+  "110": {
+    "name": "Southampton",
+    "aliases": []
+  },
+  "111": {
+    "name": "Sheffield",
+    "aliases": [
+      "Sheff"
+    ]
+  },
+  "112": {
+    "name": "Manchester",
+    "aliases": []
+  },
+  "113": {
+    "name": "Gloucester",
+    "aliases": []
+  },
+  "114": {
+    "name": "Edinburgh",
+    "aliases": [
+      "Edin",
+      "Edinbruh"
+    ]
+  },
+  "115": {
+    "name": "Belfast",
+    "aliases": [
+      "Bel"
+    ]
+  },
+  "116": {
+    "name": "Arethusa",
+    "aliases": []
+  },
+  "117": {
+    "name": "Galatea",
+    "aliases": []
+  },
+  "118": {
+    "name": "Aurora",
+    "aliases": []
+  },
+  "119": {
+    "name": "London",
+    "aliases": [
+      "LonKai"
+    ]
+  },
+  "120": {
+    "name": "Shropshire",
+    "aliases": [
+      "Shrop"
+    ]
+  },
+  "121": {
+    "name": "Kent",
+    "aliases": []
+  },
+  "122": {
+    "name": "Suffolk",
+    "aliases": []
+  },
+  "123": {
+    "name": "Norfolk",
+    "aliases": []
+  },
+  "124": {
+    "name": "Dorsetshire",
+    "aliases": []
+  },
+  "125": {
+    "name": "York",
+    "aliases": []
+  },
+  "126": {
+    "name": "Exeter",
+    "aliases": []
+  },
+  "127": {
+    "name": "Renown",
+    "aliases": []
+  },
+  "128": {
+    "name": "Repulse",
+    "aliases": []
+  },
+  "129": {
+    "name": "Hood",
+    "aliases": []
+  },
+  "130": {
+    "name": "Queen Elizabeth",
+    "aliases": [
+      "QE"
+    ]
+  },
+  "131": {
+    "name": "Warspite",
+    "aliases": [
+      "WarKai"
+    ]
+  },
+  "132": {
+    "name": "Nelson",
+    "aliases": [
+      "Nel"
+    ]
+  },
+  "133": {
+    "name": "Rodney",
+    "aliases": [
+      "Rod"
+    ]
+  },
+  "134": {
+    "name": "King George V",
+    "aliases": [
+      "KGV"
+    ]
+  },
+  "135": {
+    "name": "Prince of Wales",
+    "aliases": [
+      "PoW",
+      "Wales"
+    ]
+  },
+  "136": {
+    "name": "Duke of York",
+    "aliases": [
+      "Dork",
+      "DoY"
+    ]
+  },
+  "137": {
+    "name": "Vanguard",
+    "aliases": [
+      "Vanny"
+    ]
+  },
+  "138": {
+    "name": "Lion",
+    "aliases": []
+  },
+  "140": {
+    "name": "Hermes",
+    "aliases": []
+  },
+  "142": {
+    "name": "Unicorn",
+    "aliases": [
+      "Uni"
+    ]
+  },
+  "143": {
+    "name": "Eagle",
+    "aliases": []
+  },
+  "144": {
+    "name": "Ark Royal",
+    "aliases": [
+      "Ark"
+    ]
+  },
+  "145": {
+    "name": "Illustrious",
+    "aliases": [
+      "Lusty"
+    ]
+  },
+  "146": {
+    "name": "Victorious",
+    "aliases": [
+      "Vicky"
+    ]
+  },
+  "147": {
+    "name": "Formidable",
+    "aliases": [
+      "Formi",
+      "Lumbering"
+    ]
+  },
+  "148": {
+    "name": "Glorious",
+    "aliases": []
+  },
+  "149": {
+    "name": "Erebus",
+    "aliases": []
+  },
+  "150": {
+    "name": "Terror",
+    "aliases": []
+  },
+  "151": {
+    "name": "Fubuki",
+    "aliases": [
+      "IJN Fubuki",
+      "IJN Fubs",
+      "Fubs",
+      "Bucky"
+    ]
+  },
+  "152": {
+    "name": "Shirayuki",
+    "aliases": []
+  },
+  "154": {
+    "name": "Miyuki",
+    "aliases": []
+  },
+  "155": {
+    "name": "Ayanami",
+    "aliases": []
+  },
+  "159": {
+    "name": "Akatsuki",
+    "aliases": [
+      "Akiducki"
+    ]
+  },
+  "160": {
+    "name": "Hibiki",
+    "aliases": [
+      "Hibi"
+    ]
+  },
+  "161": {
+    "name": "Ikazuchi",
+    "aliases": [
+      "IJN Ram"
+    ]
+  },
+  "162": {
+    "name": "Inazuma",
+    "aliases": [
+      "IJN Rem"
+    ]
+  },
+  "163": {
+    "name": "Shiratsuyu",
+    "aliases": []
+  },
+  "164": {
+    "name": "Yuudachi",
+    "aliases": [
+      "Poi"
+    ]
+  },
+  "165": {
+    "name": "Shigure",
+    "aliases": []
+  },
+  "166": {
+    "name": "Yukikaze",
+    "aliases": [
+      "Yuki",
+      "Nanoda",
+      "Yuckykaze",
+      "YKKZ"
+    ]
+  },
+  "167": {
+    "name": "Kagerou",
+    "aliases": [
+      "Kage"
+    ]
+  },
+  "168": {
+    "name": "Shiranui",
+    "aliases": []
+  },
+  "170": {
+    "name": "Nowaki",
+    "aliases": []
+  },
+  "171": {
+    "name": "Hatsuharu",
+    "aliases": []
+  },
+  "173": {
+    "name": "Wakaba",
+    "aliases": []
+  },
+  "174": {
+    "name": "Hatsushimo",
+    "aliases": []
+  },
+  "175": {
+    "name": "Ariake",
+    "aliases": []
+  },
+  "176": {
+    "name": "Yuugure",
+    "aliases": []
+  },
+  "177": {
+    "name": "Kuroshio",
+    "aliases": []
+  },
+  "178": {
+    "name": "Oyashio",
+    "aliases": []
+  },
+  "179": {
+    "name": "Yuubari",
+    "aliases": []
+  },
+  "182": {
+    "name": "Nagara",
+    "aliases": []
+  },
+  "183": {
+    "name": "Isuzu",
+    "aliases": []
+  },
+  "184": {
+    "name": "Natori",
+    "aliases": []
+  },
+  "185": {
+    "name": "Yura",
+    "aliases": []
+  },
+  "186": {
+    "name": "Kinu",
+    "aliases": []
+  },
+  "187": {
+    "name": "Abukuma",
+    "aliases": []
+  },
+  "188": {
+    "name": "Mogami",
+    "aliases": [
+      "Mog"
+    ]
+  },
+  "189": {
+    "name": "Mikuma",
+    "aliases": []
+  },
+  "190": {
+    "name": "Furutaka",
+    "aliases": []
+  },
+  "191": {
+    "name": "Kako",
+    "aliases": []
+  },
+  "192": {
+    "name": "Aoba",
+    "aliases": []
+  },
+  "193": {
+    "name": "Kinugasa",
+    "aliases": []
+  },
+  "195": {
+    "name": "Chikuma",
+    "aliases": [
+      "Chitago",
+      "Bunnytago"
+    ]
+  },
+  "196": {
+    "name": "Myoukou",
+    "aliases": []
+  },
+  "197": {
+    "name": "Nachi",
+    "aliases": []
+  },
+  "198": {
+    "name": "Ashigara",
+    "aliases": []
+  },
+  "199": {
+    "name": "Haguro",
+    "aliases": []
+  },
+  "200": {
+    "name": "Takao",
+    "aliases": []
+  },
+  "201": {
+    "name": "Atago",
+    "aliases": []
+  },
+  "202": {
+    "name": "Maya",
+    "aliases": []
+  },
+  "203": {
+    "name": "Choukai",
+    "aliases": []
+  },
+  "204": {
+    "name": "Kongou",
+    "aliases": []
+  },
+  "205": {
+    "name": "Hiei",
+    "aliases": []
+  },
+  "206": {
+    "name": "Haruna",
+    "aliases": []
+  },
+  "207": {
+    "name": "Kirishima",
+    "aliases": []
+  },
+  "208": {
+    "name": "Fusou",
+    "aliases": []
+  },
+  "209": {
+    "name": "Yamashiro",
+    "aliases": [
+      "Yama"
+    ]
+  },
+  "210": {
+    "name": "Ise",
+    "aliases": []
+  },
+  "211": {
+    "name": "Hyuuga",
+    "aliases": []
+  },
+  "212": {
+    "name": "Nagato",
+    "aliases": [
+      "Naga",
+      "Nugget"
+    ]
+  },
+  "213": {
+    "name": "Mutsu",
+    "aliases": []
+  },
+  "214": {
+    "name": "Kii",
+    "aliases": []
+  },
+  "215": {
+    "name": "Tosa",
+    "aliases": []
+  },
+  "217": {
+    "name": "Musashi",
+    "aliases": []
+  },
+  "218": {
+    "name": "Hiyou",
+    "aliases": []
+  },
+  "219": {
+    "name": "Junyou",
+    "aliases": []
+  },
+  "220": {
+    "name": "Houshou",
+    "aliases": []
+  },
+  "221": {
+    "name": "Zuihou",
+    "aliases": []
+  },
+  "222": {
+    "name": "Shouhou",
+    "aliases": []
+  },
+  "223": {
+    "name": "Ryuujou",
+    "aliases": []
+  },
+  "224": {
+    "name": "Akagi",
+    "aliases": [
+      "Kagi"
+    ]
+  },
+  "225": {
+    "name": "Kaga",
+    "aliases": []
+  },
+  "226": {
+    "name": "Souryuu",
+    "aliases": []
+  },
+  "227": {
+    "name": "Hiryuu",
+    "aliases": []
+  },
+  "228": {
+    "name": "Shoukaku",
+    "aliases": [
+      "Shoukek"
+    ]
+  },
+  "229": {
+    "name": "Zuikaku",
+    "aliases": [
+      "Zuikek"
+    ]
+  },
+  "230": {
+    "name": "Taihou",
+    "aliases": [
+      "Taihoe"
+    ]
+  },
+  "231": {
+    "name": "Shinano",
+    "aliases": [
+      "Shin",
+      "Nano",
+      "Shinanners"
+    ]
+  },
+  "232": {
+    "name": "Akashi",
+    "aliases": []
+  },
+  "233": {
+    "name": "Z1",
+    "aliases": []
+  },
+  "236": {
+    "name": "Z23",
+    "aliases": [
+      "Zed",
+      "Zed23",
+      "Nimi"
+    ]
+  },
+  "237": {
+    "name": "Z25",
+    "aliases": []
+  },
+  "238": {
+    "name": "Königsberg",
+    "aliases": []
+  },
+  "239": {
+    "name": "Karlsruhe",
+    "aliases": [
+      "Karls"
+    ]
+  },
+  "240": {
+    "name": "Köln",
+    "aliases": []
+  },
+  "241": {
+    "name": "Leipzig",
+    "aliases": [
+      "Ziggy"
+    ]
+  },
+  "242": {
+    "name": "Admiral Hipper",
+    "aliases": [
+      "Hipper"
+    ]
+  },
+  "243": {
+    "name": "Blücher",
+    "aliases": []
+  },
+  "244": {
+    "name": "Prinz Eugen",
+    "aliases": [
+      "Eugen"
+    ]
+  },
+  "245": {
+    "name": "Deutschland",
+    "aliases": [
+      "Desuland"
+    ]
+  },
+  "246": {
+    "name": "Admiral Graf Spee",
+    "aliases": [
+      "Graf Spee",
+      "Spee"
+    ]
+  },
+  "248": {
+    "name": "Scharnhorst",
+    "aliases": [
+      "Scharn"
+    ]
+  },
+  "249": {
+    "name": "Gneisenau",
+    "aliases": [
+      "Gnei"
+    ]
+  },
+  "250": {
+    "name": "Bismarck",
+    "aliases": [
+      "Bisko",
+      "Biscuit"
+    ]
+  },
+  "251": {
+    "name": "Tirpitz",
+    "aliases": [
+      "Tirp",
+      "Derpitz"
+    ]
+  },
+  "252": {
+    "name": "Graf Zeppelin",
+    "aliases": [
+      "Graf Zep"
+    ]
+  },
+  "253": {
+    "name": "An Shan",
+    "aliases": []
+  },
+  "254": {
+    "name": "Fu Shun",
+    "aliases": []
+  },
+  "255": {
+    "name": "Chang Chun",
+    "aliases": []
+  },
+  "256": {
+    "name": "Tai Yuan",
+    "aliases": []
+  },
+  "257": {
+    "name": "Yat Sen",
+    "aliases": []
+  },
+  "258": {
+    "name": "Ning Hai",
+    "aliases": [
+      "Ning"
+    ]
+  },
+  "259": {
+    "name": "Ping Hai",
+    "aliases": [
+      "Ping"
+    ]
+  },
+  "262": {
+    "name": "Avrora",
+    "aliases": []
+  },
+  "263": {
+    "name": "Bailey",
+    "aliases": []
+  },
+  "264": {
+    "name": "Z19",
+    "aliases": []
+  },
+  "265": {
+    "name": "Z20",
+    "aliases": []
+  },
+  "266": {
+    "name": "Z21",
+    "aliases": []
+  },
+  "267": {
+    "name": "Z46",
+    "aliases": [
+      "Viersechs",
+      "Weiss",
+      "Fiize"
+    ]
+  },
+  "268": {
+    "name": "Shimakaze",
+    "aliases": [
+      "Shima",
+      "Zekamashi"
+    ]
+  },
+  "269": {
+    "name": "Kamikaze",
+    "aliases": []
+  },
+  "270": {
+    "name": "Matsukaze",
+    "aliases": []
+  },
+  "271": {
+    "name": "Mutsuki",
+    "aliases": []
+  },
+  "272": {
+    "name": "Kisaragi",
+    "aliases": []
+  },
+  "274": {
+    "name": "Uzuki",
+    "aliases": []
+  },
+  "276": {
+    "name": "Minazuki",
+    "aliases": []
+  },
+  "277": {
+    "name": "Fumizuki",
+    "aliases": [
+      "Fumi"
+    ]
+  },
+  "278": {
+    "name": "Nagatsuki",
+    "aliases": []
+  },
+  "280": {
+    "name": "Mikazuki",
+    "aliases": []
+  },
+  "286": {
+    "name": "Umikaze",
+    "aliases": []
+  },
+  "287": {
+    "name": "Yamakaze",
+    "aliases": []
+  },
+  "288": {
+    "name": "Kawakaze",
+    "aliases": [
+      "Kawa",
+      "Fake Shibuki"
+    ]
+  },
+  "293": {
+    "name": "Kiyonami",
+    "aliases": []
+  },
+  "295": {
+    "name": "Niizuki",
+    "aliases": []
+  },
+  "296": {
+    "name": "Harutsuki",
+    "aliases": [
+      "IJN Reimu"
+    ]
+  },
+  "297": {
+    "name": "Yoizuki",
+    "aliases": []
+  },
+  "299": {
+    "name": "Radford",
+    "aliases": []
+  },
+  "300": {
+    "name": "Jenkins",
+    "aliases": []
+  },
+  "301": {
+    "name": "Nicholas",
+    "aliases": []
+  },
+  "303": {
+    "name": "Richmond",
+    "aliases": []
+  },
+  "304": {
+    "name": "Honolulu",
+    "aliases": [
+      "Lulu",
+      "Honolewd"
+    ]
+  },
+  "305": {
+    "name": "St. Louis",
+    "aliases": [
+      "St. Lewdis"
+    ]
+  },
+  "306": {
+    "name": "Jupiter",
+    "aliases": []
+  },
+  "307": {
+    "name": "Jersey",
+    "aliases": []
+  },
+  "308": {
+    "name": "Sendai",
+    "aliases": []
+  },
+  "309": {
+    "name": "Jintsuu",
+    "aliases": []
+  },
+  "310": {
+    "name": "Naka",
+    "aliases": []
+  },
+  "316": {
+    "name": "Urakaze",
+    "aliases": []
+  },
+  "317": {
+    "name": "Isokaze",
+    "aliases": []
+  },
+  "318": {
+    "name": "Hamakaze",
+    "aliases": []
+  },
+  "319": {
+    "name": "Tanikaze",
+    "aliases": [
+      "Tani",
+      "Tinykaze"
+    ]
+  },
+  "320": {
+    "name": "Mikasa",
+    "aliases": []
+  },
+  "321": {
+    "name": "Agano",
+    "aliases": []
+  },
+  "322": {
+    "name": "Noshiro",
+    "aliases": [
+      "Noshi"
+    ]
+  },
+  "324": {
+    "name": "Sakawa",
+    "aliases": []
+  },
+  "325": {
+    "name": "Matchless",
+    "aliases": []
+  },
+  "326": {
+    "name": "Musketeer",
+    "aliases": []
+  },
+  "327": {
+    "name": "Fiji",
+    "aliases": []
+  },
+  "328": {
+    "name": "Jamaica",
+    "aliases": []
+  },
+  "329": {
+    "name": "Montpelier",
+    "aliases": [
+      "Monty"
+    ]
+  },
+  "330": {
+    "name": "Denver",
+    "aliases": []
+  },
+  "331": {
+    "name": "Asashio",
+    "aliases": []
+  },
+  "332": {
+    "name": "Ooshio",
+    "aliases": []
+  },
+  "333": {
+    "name": "Michishio",
+    "aliases": []
+  },
+  "334": {
+    "name": "Arashio",
+    "aliases": []
+  },
+  "335": {
+    "name": "Little Bel",
+    "aliases": [
+      "Bel-chan",
+      "Belette"
+    ]
+  },
+  "336": {
+    "name": "Abercrombie",
+    "aliases": []
+  },
+  "337": {
+    "name": "Sussex",
+    "aliases": []
+  },
+  "338": {
+    "name": "I-19",
+    "aliases": [
+      "I19"
+    ]
+  },
+  "339": {
+    "name": "I-26",
+    "aliases": [
+      "I26"
+    ]
+  },
+  "340": {
+    "name": "I-58",
+    "aliases": [
+      "I58"
+    ]
+  },
+  "341": {
+    "name": "U-81",
+    "aliases": [
+      "U81"
+    ]
+  },
+  "342": {
+    "name": "Dace",
+    "aliases": []
+  },
+  "343": {
+    "name": "U-47",
+    "aliases": [
+      "U47"
+    ]
+  },
+  "344": {
+    "name": "U-557",
+    "aliases": [
+      "U557"
+    ]
+  },
+  "345": {
+    "name": "Z35",
+    "aliases": []
+  },
+  "346": {
+    "name": "Z18",
+    "aliases": []
+  },
+  "347": {
+    "name": "Le Triomphant",
+    "aliases": [
+      "Le Tri"
+    ]
+  },
+  "348": {
+    "name": "Forbin",
+    "aliases": []
+  },
+  "349": {
+    "name": "Émile Bertin",
+    "aliases": [
+      "Emile"
+    ]
+  },
+  "350": {
+    "name": "Surcouf",
+    "aliases": []
+  },
+  "351": {
+    "name": "Le Mars",
+    "aliases": []
+  },
+  "352": {
+    "name": "Dunkerque",
+    "aliases": [
+      "Dunk",
+      "Dunkirk"
+    ]
+  },
+  "353": {
+    "name": "Jean Bart",
+    "aliases": [
+      "JB"
+    ]
+  },
+  "354": {
+    "name": "Massachusetts",
+    "aliases": [
+      "Massa"
+    ]
+  },
+  "355": {
+    "name": "Bush",
+    "aliases": []
+  },
+  "356": {
+    "name": "Centaur",
+    "aliases": [
+      "Centy"
+    ]
+  },
+  "357": {
+    "name": "Essex",
+    "aliases": []
+  },
+  "358": {
+    "name": "Albacore",
+    "aliases": [
+      "Alba"
+    ]
+  },
+  "359": {
+    "name": "Le Téméraire",
+    "aliases": [
+      "Le Teme"
+    ]
+  },
+  "360": {
+    "name": "Memphis",
+    "aliases": []
+  },
+  "361": {
+    "name": "Newcastle",
+    "aliases": []
+  },
+  "362": {
+    "name": "Hobby",
+    "aliases": []
+  },
+  "363": {
+    "name": "Kalk",
+    "aliases": []
+  },
+  "364": {
+    "name": "Minneapolis",
+    "aliases": [
+      "Minne"
+    ]
+  },
+  "365": {
+    "name": "Hazelwood",
+    "aliases": []
+  },
+  "366": {
+    "name": "Concord",
+    "aliases": []
+  },
+  "367": {
+    "name": "Amagi",
+    "aliases": [
+      "Mamagi"
+    ]
+  },
+  "368": {
+    "name": "Kaga(BB)",
+    "aliases": [
+      "Kaga BB",
+      "Baga"
+    ]
+  },
+  "369": {
+    "name": "Hatakaze",
+    "aliases": []
+  },
+  "370": {
+    "name": "Makinami",
+    "aliases": [
+      "Maki"
+    ]
+  },
+  "371": {
+    "name": "Sirius",
+    "aliases": []
+  },
+  "372": {
+    "name": "Curacoa",
+    "aliases": []
+  },
+  "373": {
+    "name": "Curlew",
+    "aliases": []
+  },
+  "374": {
+    "name": "Kimberly",
+    "aliases": []
+  },
+  "375": {
+    "name": "Mullany",
+    "aliases": []
+  },
+  "376": {
+    "name": "Chaser",
+    "aliases": []
+  },
+  "377": {
+    "name": "Independence",
+    "aliases": [
+      "Indep"
+    ]
+  },
+  "378": {
+    "name": "Shangri-La",
+    "aliases": [
+      "SRL",
+      "Shang"
+    ]
+  },
+  "379": {
+    "name": "Z2",
+    "aliases": []
+  },
+  "380": {
+    "name": "Bunker Hill",
+    "aliases": [
+      "BH",
+      "Bonker Hill"
+    ]
+  },
+  "381": {
+    "name": "I-13",
+    "aliases": [
+      "Slug",
+      "I13"
+    ]
+  },
+  "382": {
+    "name": "Suzuya",
+    "aliases": [
+      "Suzu (CA)"
+    ]
+  },
+  "383": {
+    "name": "Hiei-chan",
+    "aliases": []
+  },
+  "384": {
+    "name": "Akagi-chan",
+    "aliases": []
+  },
+  "385": {
+    "name": "Zeppy",
+    "aliases": [
+      "Loli Zep"
+    ]
+  },
+  "386": {
+    "name": "U-556",
+    "aliases": [
+      "Parzival",
+      "U556"
+    ]
+  },
+  "387": {
+    "name": "U-73",
+    "aliases": [
+      "U73"
+    ]
+  },
+  "388": {
+    "name": "Z36",
+    "aliases": []
+  },
+  "389": {
+    "name": "Echo",
+    "aliases": []
+  },
+  "390": {
+    "name": "Lena",
+    "aliases": []
+  },
+  "391": {
+    "name": "Clevelad",
+    "aliases": []
+  },
+  "392": {
+    "name": "Li'l Sandy",
+    "aliases": []
+  },
+  "393": {
+    "name": "Swiftsure",
+    "aliases": [
+      "Swift"
+    ]
+  },
+  "394": {
+    "name": "Le Malin",
+    "aliases": [
+      "Le Mochi"
+    ]
+  },
+  "395": {
+    "name": "L'Opiniâtre",
+    "aliases": [
+      "L'Opin"
+    ]
+  },
+  "396": {
+    "name": "I-25",
+    "aliases": [
+      "I25"
+    ]
+  },
+  "397": {
+    "name": "I-56",
+    "aliases": [
+      "I56"
+    ]
+  },
+  "398": {
+    "name": "I-168",
+    "aliases": [
+      "Iroha",
+      "I168"
+    ]
+  },
+  "399": {
+    "name": "U-101",
+    "aliases": [
+      "U101"
+    ]
+  },
+  "400": {
+    "name": "U-522",
+    "aliases": [
+      "U522"
+    ]
+  },
+  "401": {
+    "name": "Alabama",
+    "aliases": []
+  },
+  "402": {
+    "name": "Cavalla",
+    "aliases": [
+      "Cava"
+    ]
+  },
+  "403": {
+    "name": "Bataan",
+    "aliases": []
+  },
+  "404": {
+    "name": "San Juan",
+    "aliases": []
+  },
+  "405": {
+    "name": "Birmingham",
+    "aliases": [
+      "Birm"
+    ]
+  },
+  "406": {
+    "name": "Aylwin",
+    "aliases": []
+  },
+  "407": {
+    "name": "Bache",
+    "aliases": []
+  },
+  "408": {
+    "name": "Black Prince",
+    "aliases": [
+      "BP"
+    ]
+  },
+  "409": {
+    "name": "Stanly",
+    "aliases": []
+  },
+  "410": {
+    "name": "Littorio",
+    "aliases": [
+      "Litt",
+      "Litto"
+    ]
+  },
+  "411": {
+    "name": "Conte di Cavour",
+    "aliases": [
+      "Conte"
+    ]
+  },
+  "412": {
+    "name": "Giulio Cesare",
+    "aliases": [
+      "Giulio"
+    ]
+  },
+  "413": {
+    "name": "Zara",
+    "aliases": []
+  },
+  "414": {
+    "name": "Trento",
+    "aliases": []
+  },
+  "415": {
+    "name": "Carabiniere",
+    "aliases": [
+      "Cara",
+      "Pasta Z23"
+    ]
+  },
+  "416": {
+    "name": "U-110",
+    "aliases": [
+      "U110"
+    ]
+  },
+  "417": {
+    "name": "Smalley",
+    "aliases": []
+  },
+  "418": {
+    "name": "Gascogne μ",
+    "aliases": [
+      "Gasco muse",
+      "Gasco u",
+      "Gascogne muse",
+      "Gascogne u"
+    ]
+  },
+  "419": {
+    "name": "Akagi μ",
+    "aliases": [
+      "Kagi muse",
+      "Kagi u",
+      "Akagi muse",
+      "Akagi u"
+    ]
+  },
+  "420": {
+    "name": "Cleveland μ",
+    "aliases": [
+      "Cleve muse",
+      "Cleve u",
+      "Clevebro muse",
+      "Clevebro u",
+      "Cleveland muse",
+      "Cleveland u"
+    ]
+  },
+  "421": {
+    "name": "Sheffield μ",
+    "aliases": [
+      "Sheff muse",
+      "Sheff u",
+      "Sheffield muse",
+      "Sheffield u"
+    ]
+  },
+  "422": {
+    "name": "Admiral Hipper μ",
+    "aliases": [
+      "Hipper muse",
+      "Hipper u",
+      "Admiral Hipper muse",
+      "Admiral Hipper u"
+    ]
+  },
+  "423": {
+    "name": "Glasgow",
+    "aliases": []
+  },
+  "424": {
+    "name": "Kasumi",
+    "aliases": []
+  },
+  "425": {
+    "name": "Suruga",
+    "aliases": []
+  },
+  "426": {
+    "name": "Ryuuhou",
+    "aliases": []
+  },
+  "427": {
+    "name": "Halsey Powell",
+    "aliases": []
+  },
+  "428": {
+    "name": "Biloxi",
+    "aliases": []
+  },
+  "429": {
+    "name": "Uranami",
+    "aliases": []
+  },
+  "431": {
+    "name": "Grozny",
+    "aliases": []
+  },
+  "432": {
+    "name": "Minsk",
+    "aliases": []
+  },
+  "433": {
+    "name": "Tashkent",
+    "aliases": [
+      "Tash",
+      "The Blue Cruiser"
+    ]
+  },
+  "434": {
+    "name": "Pamiat' Merkuria",
+    "aliases": []
+  },
+  "435": {
+    "name": "Kirov",
+    "aliases": []
+  },
+  "436": {
+    "name": "Chapayev",
+    "aliases": [
+      "Chappy"
+    ]
+  },
+  "437": {
+    "name": "Gangut",
+    "aliases": []
+  },
+  "438": {
+    "name": "Sovetsky Soyuz",
+    "aliases": []
+  },
+  "440": {
+    "name": "Sovetskaya Belorussiya",
+    "aliases": []
+  },
+  "441": {
+    "name": "Sovetskaya Rossiya",
+    "aliases": []
+  },
+  "442": {
+    "name": "Intrepid",
+    "aliases": [
+      "Intrep"
+    ]
+  },
+  "443": {
+    "name": "Bremerton",
+    "aliases": [
+      "Brem"
+    ]
+  },
+  "444": {
+    "name": "Cooper",
+    "aliases": [
+      "Cuwuper"
+    ]
+  },
+  "445": {
+    "name": "Reno",
+    "aliases": [
+      "Reeeno"
+    ]
+  },
+  "446": {
+    "name": "Bluegill",
+    "aliases": []
+  },
+  "447": {
+    "name": "Casablanca",
+    "aliases": [
+      "Casa"
+    ]
+  },
+  "448": {
+    "name": "Marblehead",
+    "aliases": []
+  },
+  "449": {
+    "name": "Hanazuki",
+    "aliases": []
+  },
+  "450": {
+    "name": "Naganami",
+    "aliases": [
+      "Naga",
+      "Skunk"
+    ]
+  },
+  "451": {
+    "name": "Little Renown",
+    "aliases": []
+  },
+  "452": {
+    "name": "Tartu",
+    "aliases": []
+  },
+  "453": {
+    "name": "Richelieu",
+    "aliases": [
+      "Richy"
+    ]
+  },
+  "454": {
+    "name": "Jeanne d'Arc",
+    "aliases": [
+      "JDA",
+      "J'darc",
+      "Jeanne"
+    ]
+  },
+  "455": {
+    "name": "Algérie",
+    "aliases": []
+  },
+  "456": {
+    "name": "La Galissonnière",
+    "aliases": [
+      "La Galis",
+      "La Glass"
+    ]
+  },
+  "457": {
+    "name": "Vauquelin",
+    "aliases": [
+      "Vauq"
+    ]
+  },
+  "458": {
+    "name": "Béarn",
+    "aliases": []
+  },
+  "459": {
+    "name": "Little Illustrious",
+    "aliases": []
+  },
+  "460": {
+    "name": "Eskimo",
+    "aliases": []
+  },
+  "461": {
+    "name": "Howe",
+    "aliases": []
+  },
+  "462": {
+    "name": "Perseus",
+    "aliases": [
+      "Percy"
+    ]
+  },
+  "463": {
+    "name": "Hermione",
+    "aliases": []
+  },
+  "464": {
+    "name": "Valiant",
+    "aliases": []
+  },
+  "465": {
+    "name": "Icarus",
+    "aliases": []
+  },
+  "466": {
+    "name": "Z26",
+    "aliases": []
+  },
+  "467": {
+    "name": "U-96",
+    "aliases": [
+      "U96"
+    ]
+  },
+  "468": {
+    "name": "Suzutsuki",
+    "aliases": [
+      "Suzu",
+      "Pooky",
+      "Pooki",
+      "Zoot"
+    ]
+  },
+  "469": {
+    "name": "Kumano",
+    "aliases": [
+      "Cumano"
+    ]
+  },
+  "470": {
+    "name": "Chitose",
+    "aliases": []
+  },
+  "471": {
+    "name": "Chiyoda",
+    "aliases": []
+  },
+  "472": {
+    "name": "Kashino",
+    "aliases": [
+      "Cowshino"
+    ]
+  },
+  "473": {
+    "name": "Princeton",
+    "aliases": []
+  },
+  "474": {
+    "name": "Taihou μ",
+    "aliases": [
+      "Taihou muse",
+      "Taihou u"
+    ]
+  },
+  "475": {
+    "name": "Tashkent μ",
+    "aliases": [
+      "Tash muse",
+      "Tash u",
+      "The Blue Cruiser muse",
+      "The Blue Cruiser u",
+      "Tashkent muse",
+      "Tashkent u"
+    ]
+  },
+  "476": {
+    "name": "Dido μ",
+    "aliases": [
+      "Dido muse",
+      "Dido u"
+    ]
+  },
+  "477": {
+    "name": "Albacore μ",
+    "aliases": [
+      "Alba muse",
+      "Alba u",
+      "Albacore muse",
+      "Albacore u"
+    ]
+  },
+  "478": {
+    "name": "Baltimore μ",
+    "aliases": [
+      "Balti muse",
+      "Balti u",
+      "Baltimore muse",
+      "Baltimore u"
+    ]
+  },
+  "479": {
+    "name": "Roon μ",
+    "aliases": [
+      "Roon muse",
+      "Roon u"
+    ]
+  },
+  "480": {
+    "name": "Illustrious μ",
+    "aliases": [
+      "Lusty muse",
+      "Lusty u",
+      "Illustrious muse",
+      "Illustrious u"
+    ]
+  },
+  "481": {
+    "name": "Le Malin μ",
+    "aliases": [
+      "Le Mochi muse",
+      "Le Mochi u",
+      "Le Malin muse",
+      "Le Malin u"
+    ]
+  },
+  "482": {
+    "name": "Peter Strasser",
+    "aliases": [
+      "Strasser",
+      "Strabber"
+    ]
+  },
+  "483": {
+    "name": "Prinz Heinrich",
+    "aliases": [
+      "Hein",
+      "Heinz"
+    ]
+  },
+  "484": {
+    "name": "U-37",
+    "aliases": [
+      "U37"
+    ]
+  },
+  "485": {
+    "name": "Weser",
+    "aliases": []
+  },
+  "486": {
+    "name": "Nürnberg",
+    "aliases": [
+      "Nurn",
+      "Nuern",
+      "Nuernberg",
+      "Nurnberg"
+    ]
+  },
+  "487": {
+    "name": "Z24",
+    "aliases": []
+  },
+  "488": {
+    "name": "Z28",
+    "aliases": []
+  },
+  "489": {
+    "name": "Pola",
+    "aliases": []
+  },
+  "490": {
+    "name": "Vincenzo Gioberti",
+    "aliases": []
+  },
+  "491": {
+    "name": "Stremitelny",
+    "aliases": []
+  },
+  "492": {
+    "name": "U-410",
+    "aliases": [
+      "U410"
+    ]
+  },
+  "493": {
+    "name": "Ying Swei",
+    "aliases": [
+      "Ying"
+    ]
+  },
+  "494": {
+    "name": "Chao Ho",
+    "aliases": []
+  },
+  "495": {
+    "name": "Penelope",
+    "aliases": []
+  },
+  "496": {
+    "name": "Tallinn",
+    "aliases": []
+  },
+  "497": {
+    "name": "Gremyashchy",
+    "aliases": [
+      "Gremy"
+    ]
+  },
+  "498": {
+    "name": "Murmansk",
+    "aliases": [
+      "Murm"
+    ]
+  },
+  "499": {
+    "name": "Gromky",
+    "aliases": []
+  },
+  "500": {
+    "name": "Vittorio Veneto",
+    "aliases": [
+      "VV",
+      "Veneto"
+    ]
+  },
+  "501": {
+    "name": "Duca degli Abruzzi",
+    "aliases": [
+      "Duca",
+      "Luigi"
+    ]
+  },
+  "502": {
+    "name": "Aquila",
+    "aliases": []
+  },
+  "503": {
+    "name": "Torricelli",
+    "aliases": []
+  },
+  "504": {
+    "name": "Maestrale",
+    "aliases": [
+      "Maes"
+    ]
+  },
+  "505": {
+    "name": "Libeccio",
+    "aliases": [
+      "Libe"
+    ]
+  },
+  "506": {
+    "name": "Nicoloso da Recco",
+    "aliases": [
+      "Nicolo"
+    ]
+  },
+  "507": {
+    "name": "Oite",
+    "aliases": []
+  },
+  "508": {
+    "name": "Allen M. Sumner",
+    "aliases": [
+      "Sumner",
+      "AMS"
+    ]
+  },
+  "509": {
+    "name": "Stephen Potter",
+    "aliases": []
+  },
+  "510": {
+    "name": "Amagi-chan",
+    "aliases": []
+  },
+  "511": {
+    "name": "Ticonderoga",
+    "aliases": [
+      "Ticon"
+    ]
+  },
+  "512": {
+    "name": "San Francisco",
+    "aliases": [
+      "San Fran",
+      "SF"
+    ]
+  },
+  "513": {
+    "name": "Archerfish",
+    "aliases": [
+      "Archer",
+      "AF"
+    ]
+  },
+  "514": {
+    "name": "Boise",
+    "aliases": []
+  },
+  "515": {
+    "name": "Morrison",
+    "aliases": []
+  },
+  "516": {
+    "name": "Little Enterprise",
+    "aliases": []
+  },
+  "517": {
+    "name": "Kazagumo",
+    "aliases": [
+      "Kaza"
+    ]
+  },
+  "518": {
+    "name": "Ingraham",
+    "aliases": []
+  },
+  "519": {
+    "name": "Nautilus",
+    "aliases": []
+  },
+  "520": {
+    "name": "Katsuragi",
+    "aliases": [
+      "Katsu"
+    ]
+  },
+  "521": {
+    "name": "New Orleans",
+    "aliases": [
+      "NO",
+      "Norl",
+      "Nola"
+    ]
+  },
+  "522": {
+    "name": "Le Terrible",
+    "aliases": [
+      "Leterri",
+      "Le Terr"
+    ]
+  },
+  "523": {
+    "name": "Maillé Brézé",
+    "aliases": [
+      "Mai",
+      "Maille"
+    ]
+  },
+  "524": {
+    "name": "Foch",
+    "aliases": []
+  },
+  "525": {
+    "name": "Magdeburg",
+    "aliases": []
+  },
+  "526": {
+    "name": "Elbe",
+    "aliases": []
+  },
+  "527": {
+    "name": "Prinz Adalbert",
+    "aliases": []
+  },
+  "528": {
+    "name": "U-1206",
+    "aliases": [
+      "Toilet Sub",
+      "U1206"
+    ]
+  },
+  "529": {
+    "name": "Ulrich von Hutten",
+    "aliases": [
+      "Ulrich",
+      "UvH"
+    ]
+  },
+  "530": {
+    "name": "Charybdis",
+    "aliases": []
+  },
+  "531": {
+    "name": "Hai Tien",
+    "aliases": []
+  },
+  "532": {
+    "name": "Hai Chi",
+    "aliases": []
+  },
+  "533": {
+    "name": "Bristol",
+    "aliases": []
+  },
+  "534": {
+    "name": "Chen Hai",
+    "aliases": []
+  },
+  "535": {
+    "name": "Kiev",
+    "aliases": []
+  },
+  "536": {
+    "name": "Arkhangelsk",
+    "aliases": []
+  },
+  "537": {
+    "name": "Soobrazitelny",
+    "aliases": [
+      "Soob"
+    ]
+  },
+  "538": {
+    "name": "Volga",
+    "aliases": []
+  },
+  "539": {
+    "name": "Kronshtadt",
+    "aliases": [
+      "Kron",
+      "Kronk"
+    ]
+  },
+  "540": {
+    "name": "Impero",
+    "aliases": []
+  },
+  "541": {
+    "name": "Pompeo Magno",
+    "aliases": []
+  },
+  "542": {
+    "name": "Trieste",
+    "aliases": []
+  },
+  "543": {
+    "name": "Seydlitz",
+    "aliases": []
+  },
+  "544": {
+    "name": "Lützow",
+    "aliases": []
+  },
+  "545": {
+    "name": "Thüringen",
+    "aliases": []
+  },
+  "546": {
+    "name": "Yorck",
+    "aliases": []
+  },
+  "547": {
+    "name": "Emden",
+    "aliases": []
+  },
+  "548": {
+    "name": "Elbing",
+    "aliases": []
+  },
+  "549": {
+    "name": "Little Prinz Eugen",
+    "aliases": [
+      "Prinzchen Eugen"
+    ]
+  },
+  "550": {
+    "name": "Jervis",
+    "aliases": []
+  },
+  "551": {
+    "name": "Bellona",
+    "aliases": []
+  },
+  "552": {
+    "name": "Little Cheshire",
+    "aliases": []
+  },
+  "553": {
+    "name": "Indomitable",
+    "aliases": []
+  },
+  "554": {
+    "name": "Revenge",
+    "aliases": []
+  },
+  "555": {
+    "name": "Joffre",
+    "aliases": []
+  },
+  "556": {
+    "name": "L'Indomptable",
+    "aliases": []
+  },
+  "557": {
+    "name": "Enterprise",
+    "aliases": []
+  },
+  "558": {
+    "name": "Leonardo da Vinci",
+    "aliases": []
+  },
+  "559": {
+    "name": "Giuseppe Garibaldi",
+    "aliases": []
+  },
+  "560": {
+    "name": "Bolzano",
+    "aliases": []
+  },
+  "561": {
+    "name": "Roma",
+    "aliases": []
+  },
+  "562": {
+    "name": "Alfredo Oriani",
+    "aliases": []
+  },
+  "563": {
+    "name": "Emanuele Pessagno",
+    "aliases": []
+  },
+  "564": {
+    "name": "Z16",
+    "aliases": []
+  },
+  "566": {
+    "name": "Brünhilde",
+    "aliases": []
+  },
+  "567": {
+    "name": "Wakatsuki",
+    "aliases": []
+  },
+  "568": {
+    "name": "Little Spee",
+    "aliases": []
+  },
+  "569": {
+    "name": "Janus",
+    "aliases": []
+  },
+  "570": {
+    "name": "Albion",
+    "aliases": []
+  },
+  "571": {
+    "name": "Royal Fortune",
+    "aliases": []
+  },
+  "572": {
+    "name": "Hornet II",
+    "aliases": [
+      "Hornet 2"
+    ]
+  },
+  "573": {
+    "name": "Langley II",
+    "aliases": [
+      "Langley 2"
+    ]
+  },
+  "574": {
+    "name": "Yorktown II",
+    "aliases": [
+      "York II",
+      "York 2",
+      "Yorktown 2",
+      "YK2",
+      "YKII"
+    ]
+  },
+  "575": {
+    "name": "Northampton II",
+    "aliases": [
+      "Northampton 2"
+    ]
+  },
+  "576": {
+    "name": "Hammann II",
+    "aliases": [
+      "Ham II",
+      "Ham 2",
+      "Hamaman II",
+      "Hamaman 2",
+      "Hammann 2"
+    ]
+  },
+  "577": {
+    "name": "Kuybyshev",
+    "aliases": []
+  },
+  "578": {
+    "name": "Theseus",
+    "aliases": []
+  },
+  "579": {
+    "name": "Hwah Jah",
+    "aliases": []
+  },
+  "580": {
+    "name": "Ting An",
+    "aliases": []
+  },
+  "581": {
+    "name": "Implacable",
+    "aliases": [
+      "Imp"
+    ]
+  },
+  "582": {
+    "name": "Royal Oak",
+    "aliases": []
+  },
+  "583": {
+    "name": "Argus",
+    "aliases": []
+  },
+  "584": {
+    "name": "Scylla",
+    "aliases": []
+  },
+  "585": {
+    "name": "Hero",
+    "aliases": []
+  },
+  "586": {
+    "name": "Kursk",
+    "aliases": []
+  },
+  "587": {
+    "name": "Sevastopol",
+    "aliases": []
+  },
+  "588": {
+    "name": "Voroshilov",
+    "aliases": []
+  },
+  "589": {
+    "name": "Little Formidable",
+    "aliases": []
+  },
+  "590": {
+    "name": "Otto von Alvensleben",
+    "aliases": []
+  },
+  "591": {
+    "name": "Jade",
+    "aliases": []
+  },
+  "592": {
+    "name": "Regensburg",
+    "aliases": []
+  },
+  "593": {
+    "name": "Bismarck Zwei",
+    "aliases": [
+      "Bisko Zwei",
+      "Bisko 2",
+      "Biscuit Zwei",
+      "Biscuit 2",
+      "Bismarck 2",
+      "BiZ",
+      "Bis2",
+      "BisII",
+      "BisZwei"
+    ]
+  },
+  "594": {
+    "name": "Taihou-chan",
+    "aliases": []
+  },
+  "595": {
+    "name": "Andrea Doria",
+    "aliases": []
+  },
+  "596": {
+    "name": "Attilio Regolo",
+    "aliases": []
+  },
+  "597": {
+    "name": "Gorizia",
+    "aliases": []
+  },
+  "598": {
+    "name": "Marseillaise",
+    "aliases": []
+  },
+  "599": {
+    "name": "Painlevé",
+    "aliases": []
+  },
+  "600": {
+    "name": "Suffren",
+    "aliases": []
+  },
+  "601": {
+    "name": "Kersaint",
+    "aliases": []
+  },
+  "602": {
+    "name": "Lyon",
+    "aliases": []
+  },
+  "603": {
+    "name": "Guichen",
+    "aliases": []
+  },
+  "604": {
+    "name": "Clemenceau",
+    "aliases": []
+  },
+  "605": {
+    "name": "Unzen",
+    "aliases": []
+  },
+  "606": {
+    "name": "Owari",
+    "aliases": []
+  },
+  "607": {
+    "name": "Hatsuzuki",
+    "aliases": []
+  },
+  "608": {
+    "name": "Asanagi",
+    "aliases": []
+  },
+  "609": {
+    "name": "Houston II",
+    "aliases": [
+      "Houston 2"
+    ]
+  },
+  "610": {
+    "name": "Golden Hind",
+    "aliases": []
+  },
+  "611": {
+    "name": "Mary Celeste",
+    "aliases": []
+  },
+  "612": {
+    "name": "Adventure Galley",
+    "aliases": []
+  },
+  "613": {
+    "name": "São Martinho",
+    "aliases": []
+  },
+  "614": {
+    "name": "Whydah",
+    "aliases": []
+  },
+  "615": {
+    "name": "Laffey II",
+    "aliases": [
+      "Laffey 2"
+    ]
+  },
+  "616": {
+    "name": "Guam",
+    "aliases": []
+  },
+  "617": {
+    "name": "Constellation",
+    "aliases": []
+  },
+  "618": {
+    "name": "San Jacinto",
+    "aliases": []
+  },
+  "619": {
+    "name": "Louisville",
+    "aliases": []
+  },
+  "620": {
+    "name": "Flasher",
+    "aliases": []
+  },
+  "621": {
+    "name": "Huan Ch'ang",
+    "aliases": []
+  },
+  "622": {
+    "name": "Chi An",
+    "aliases": []
+  },
+  "623": {
+    "name": "Lung Wu",
+    "aliases": []
+  },
+  "624": {
+    "name": "Hu Pen",
+    "aliases": []
+  },
+  "625": {
+    "name": "Fei Yuen",
+    "aliases": []
+  },
+  "626": {
+    "name": "Ognevoy",
+    "aliases": []
+  },
+  "627": {
+    "name": "Svirepy",
+    "aliases": []
+  },
+  "628": {
+    "name": "Poltava",
+    "aliases": []
+  },
+  "630": {
+    "name": "Nubian",
+    "aliases": []
+  },
+  "631": {
+    "name": "Liverpool",
+    "aliases": []
+  },
+  "632": {
+    "name": "Devonshire",
+    "aliases": []
+  },
+  "633": {
+    "name": "Formidable μ",
+    "aliases": [
+      "Formi muse",
+      "Formi u",
+      "Lumbering muse",
+      "Lumbering u",
+      "Formidable muse",
+      "Formidable u"
+    ]
+  },
+  "634": {
+    "name": "Prinz Eugen μ",
+    "aliases": [
+      "Eugen muse",
+      "Eugen u",
+      "Prinz Eugen muse",
+      "Prinz Eugen u"
+    ]
+  },
+  "635": {
+    "name": "Noshiro μ",
+    "aliases": [
+      "Noshi muse",
+      "Noshi u",
+      "Noshiro muse",
+      "Noshiro u"
+    ]
+  },
+  "636": {
+    "name": "Kongou μ",
+    "aliases": [
+      "Kongou muse",
+      "Kongou u"
+    ]
+  },
+  "637": {
+    "name": "Le Téméraire μ",
+    "aliases": [
+      "Le Teme muse",
+      "Le Teme u",
+      "Le Téméraire muse",
+      "Le Téméraire u"
+    ]
+  },
+  "638": {
+    "name": "Boise μ",
+    "aliases": [
+      "Boise muse",
+      "Boise u"
+    ]
+  },
+  "639": {
+    "name": "Shinano-chan",
+    "aliases": []
+  },
+  "640": {
+    "name": "Friedrich Carl",
+    "aliases": []
+  },
+  "641": {
+    "name": "Alsace",
+    "aliases": [
+      "Alsus"
+    ]
+  },
+  "642": {
+    "name": "Mogador",
+    "aliases": []
+  },
+  "643": {
+    "name": "Brennus",
+    "aliases": []
+  },
+  "645": {
+    "name": "Fleuret",
+    "aliases": []
+  },
+  "646": {
+    "name": "Épée",
+    "aliases": []
+  },
+  "647": {
+    "name": "Little Friedrich",
+    "aliases": [
+      "Friedrich der Kleine",
+      "Friedrich der Lütte"
+    ]
+  },
+  "648": {
+    "name": "Alvitr",
+    "aliases": []
+  },
+  "649": {
+    "name": "Z47",
+    "aliases": []
+  },
+  "650": {
+    "name": "U-31",
+    "aliases": [
+      "U31"
+    ]
+  },
+  "651": {
+    "name": "Z43",
+    "aliases": []
+  },
+  "652": {
+    "name": "Strasbourg",
+    "aliases": []
+  },
+  "653": {
+    "name": "L'Audacieux",
+    "aliases": [
+      "Lauda",
+      "Audacious"
+    ]
+  },
+  "654": {
+    "name": "Dupleix",
+    "aliases": []
+  },
+  "655": {
+    "name": "Pittsburgh",
+    "aliases": [
+      "Pitt"
+    ]
+  },
+  "657": {
+    "name": "Fargo",
+    "aliases": [
+      "Cargo"
+    ]
+  },
+  "658": {
+    "name": "Herring",
+    "aliases": []
+  },
+  "659": {
+    "name": "Bell",
+    "aliases": []
+  },
+  "660": {
+    "name": "Amagi(CV)",
+    "aliases": [
+      "CV Amagi",
+      "Amagi 2",
+      "Amagi II",
+      "Amagii",
+      "Amagi Kubo"
+    ]
+  },
+  "661": {
+    "name": "Watarase",
+    "aliases": []
+  },
+  "662": {
+    "name": "Ayase",
+    "aliases": []
+  },
+  "663": {
+    "name": "Suzunami",
+    "aliases": []
+  },
+  "664": {
+    "name": "Ganj-i-Sawai",
+    "aliases": []
+  },
+  "665": {
+    "name": "Fancy",
+    "aliases": []
+  },
+  "666": {
+    "name": "Amity",
+    "aliases": []
+  },
+  "667": {
+    "name": "Portsmouth Adventure",
+    "aliases": []
+  },
+  "668": {
+    "name": "Dolphin",
+    "aliases": []
+  },
+  "669": {
+    "name": "Fritz Rumey",
+    "aliases": []
+  },
+  "670": {
+    "name": "Z52",
+    "aliases": []
+  },
+  "671": {
+    "name": "Duisburg",
+    "aliases": []
+  },
+  "672": {
+    "name": "Z9",
+    "aliases": []
+  },
+  "673": {
+    "name": "Z11",
+    "aliases": []
+  },
+  "674": {
+    "name": "Chien Wu",
+    "aliases": []
+  },
+  "675": {
+    "name": "Hai Yung",
+    "aliases": []
+  },
+  "676": {
+    "name": "Chang Feng",
+    "aliases": []
+  },
+  "677": {
+    "name": "Fu Po",
+    "aliases": []
+  },
+  "678": {
+    "name": "Raffaello",
+    "aliases": []
+  },
+  "679": {
+    "name": "Maggiore Baracca",
+    "aliases": []
+  },
+  "680": {
+    "name": "Giosuè Carducci",
+    "aliases": []
+  },
+  "681": {
+    "name": "Bartolomeo Colleoni",
+    "aliases": []
+  },
+  "682": {
+    "name": "Franklin",
+    "aliases": []
+  },
+  "683": {
+    "name": "Santa Fe",
+    "aliases": []
+  },
+  "684": {
+    "name": "Miller",
+    "aliases": []
+  },
+  "685": {
+    "name": "Kazan",
+    "aliases": []
+  },
+  "686": {
+    "name": "De Zeven Provinciën",
+    "aliases": [
+      "D7P",
+      "DZP",
+      "Zeven",
+      "Seven"
+    ]
+  },
+  "687": {
+    "name": "Evertsen",
+    "aliases": []
+  },
+  "688": {
+    "name": "Oleg",
+    "aliases": []
+  },
+  "689": {
+    "name": "Trafalgar",
+    "aliases": []
+  },
+  "690": {
+    "name": "Cleopatra",
+    "aliases": []
+  },
+  "691": {
+    "name": "Gallant",
+    "aliases": []
+  },
+  "692": {
+    "name": "Trinidad",
+    "aliases": []
+  },
+  "693": {
+    "name": "Little Anchorage",
+    "aliases": []
+  },
+  "694": {
+    "name": "Admiral Zenker",
+    "aliases": []
+  },
+  "695": {
+    "name": "U-552",
+    "aliases": [
+      "U552"
+    ]
+  },
+  "696": {
+    "name": "Z13",
+    "aliases": []
+  },
+  "697": {
+    "name": "Little Ägir",
+    "aliases": [
+      "Smolgir",
+      "Kleiner Ägir"
+    ]
+  },
+  "698": {
+    "name": "Masséna",
+    "aliases": []
+  },
+  "699": {
+    "name": "Bois Belleau",
+    "aliases": []
+  },
+  "700": {
+    "name": "Duquesne",
+    "aliases": []
+  },
+  "701": {
+    "name": "Le Hardi",
+    "aliases": []
+  },
+  "702": {
+    "name": "Duguay-Trouin",
+    "aliases": []
+  },
+  "703": {
+    "name": "Hakuhou",
+    "aliases": [
+      "Hakuhoe"
+    ]
+  },
+  "704": {
+    "name": "Taekaze",
+    "aliases": []
+  },
+  "705": {
+    "name": "I-404",
+    "aliases": [
+      "Not Found",
+      "I404"
+    ]
+  },
+  "706": {
+    "name": "Oumi",
+    "aliases": []
+  },
+  "707": {
+    "name": "Asama",
+    "aliases": []
+  },
+  "708": {
+    "name": "Minase",
+    "aliases": []
+  },
+  "709": {
+    "name": "Queen Anne's Revenge",
+    "aliases": [
+      "QAR"
+    ]
+  },
+  "710": {
+    "name": "Lyme",
+    "aliases": [
+      "Sauron"
+    ]
+  },
+  "711": {
+    "name": "Pearl",
+    "aliases": []
+  },
+  "712": {
+    "name": "Royal James",
+    "aliases": []
+  },
+  "713": {
+    "name": "Adventure",
+    "aliases": []
+  },
+  "715": {
+    "name": "Lexington II",
+    "aliases": [
+      "Lexington 2",
+      "Lexi 2",
+      "Lexi II"
+    ]
+  },
+  "716": {
+    "name": "Cowpens",
+    "aliases": [
+      "Cow"
+    ]
+  },
+  "718": {
+    "name": "Clarence K. Bronson",
+    "aliases": []
+  },
+  "719": {
+    "name": "Pasadena",
+    "aliases": []
+  },
+  "720": {
+    "name": "Francesco Caracciolo",
+    "aliases": []
+  },
+  "721": {
+    "name": "Alberto di Giussano",
+    "aliases": []
+  },
+  "722": {
+    "name": "Ugolino Vivaldi",
+    "aliases": []
+  },
+  "723": {
+    "name": "Fujinami",
+    "aliases": []
+  },
+  "725": {
+    "name": "Chang Wu",
+    "aliases": []
+  },
+  "726": {
+    "name": "Hai Chou",
+    "aliases": []
+  },
+  "727": {
+    "name": "Moskva",
+    "aliases": []
+  },
+  "728": {
+    "name": "Ozornoy",
+    "aliases": []
+  },
+  "729": {
+    "name": "Krasny Kavkaz",
+    "aliases": []
+  },
+  "730": {
+    "name": "Bogatyr",
+    "aliases": []
+  },
+  "731": {
+    "name": "Unryuu",
+    "aliases": []
+  },
+  "732": {
+    "name": "Kizu",
+    "aliases": []
+  },
+  "733": {
+    "name": "Nayoro",
+    "aliases": []
+  },
+  "734": {
+    "name": "Musashi-chan",
+    "aliases": []
+  },
+  "735": {
+    "name": "Götz von Berlichingen",
+    "aliases": [
+      "GvB"
+    ]
+  },
+  "736": {
+    "name": "U-2501",
+    "aliases": [
+      "U2501"
+    ]
+  },
+  "737": {
+    "name": "Prinz Moritz",
+    "aliases": []
+  },
+  "738": {
+    "name": "Z14",
+    "aliases": []
+  },
+  "739": {
+    "name": "Z15",
+    "aliases": []
+  },
+  "740": {
+    "name": "Unzen-chan",
+    "aliases": []
+  },
+  "10001": {
+    "name": "Neptune",
+    "aliases": [
+      "Nep",
+      "HDN Nepu"
+    ]
+  },
+  "10002": {
+    "name": "Noire",
+    "aliases": []
+  },
+  "10003": {
+    "name": "Blanc",
+    "aliases": []
+  },
+  "10004": {
+    "name": "Vert",
+    "aliases": []
+  },
+  "10005": {
+    "name": "Purple Heart",
+    "aliases": []
+  },
+  "10006": {
+    "name": "Black Heart",
+    "aliases": []
+  },
+  "10007": {
+    "name": "White Heart",
+    "aliases": []
+  },
+  "10008": {
+    "name": "Green Heart",
+    "aliases": []
+  },
+  "10021": {
+    "name": "22",
+    "aliases": []
+  },
+  "10022": {
+    "name": "33",
+    "aliases": []
+  },
+  "10031": {
+    "name": "Kuon",
+    "aliases": []
+  },
+  "10032": {
+    "name": "Nekone",
+    "aliases": []
+  },
+  "10033": {
+    "name": "Rurutie",
+    "aliases": []
+  },
+  "10034": {
+    "name": "Uruuru",
+    "aliases": []
+  },
+  "10035": {
+    "name": "Saraana",
+    "aliases": []
+  },
+  "10036": {
+    "name": "Fumiruiru",
+    "aliases": []
+  },
+  "10041": {
+    "name": "Kizuna AI",
+    "aliases": [
+      "Kizuna DD"
+    ]
+  },
+  "10042": {
+    "name": "Elegant Kizuna AI",
+    "aliases": [
+      "Kizuna CA"
+    ]
+  },
+  "10043": {
+    "name": "Anniversary Kizuna AI",
+    "aliases": [
+      "Kizuna CV"
+    ]
+  },
+  "10044": {
+    "name": "Super Gamer Kizuna AI",
+    "aliases": [
+      "Kizuna BB"
+    ]
+  },
+  "10051": {
+    "name": "Shirakami Fubuki",
+    "aliases": [
+      "Shibuki",
+      "Fubuki",
+      "Fubs",
+      "FBK"
+    ]
+  },
+  "10052": {
+    "name": "Tokino Sora",
+    "aliases": [
+      "Sora"
+    ]
+  },
+  "10053": {
+    "name": "Minato Aqua",
+    "aliases": [
+      "Baqua"
+    ]
+  },
+  "10054": {
+    "name": "Natsuiro Matsuri",
+    "aliases": []
+  },
+  "10055": {
+    "name": "Nakiri Ayame",
+    "aliases": [
+      "Nakiri"
+    ]
+  },
+  "10056": {
+    "name": "Murasaki Shion",
+    "aliases": [
+      "Shion"
+    ]
+  },
+  "10057": {
+    "name": "Ōkami Mio",
+    "aliases": []
+  },
+  "10061": {
+    "name": "Marie Rose",
+    "aliases": []
+  },
+  "10062": {
+    "name": "Honoka",
+    "aliases": []
+  },
+  "10063": {
+    "name": "Kasumi",
+    "aliases": []
+  },
+  "10064": {
+    "name": "Misaki",
+    "aliases": []
+  },
+  "10065": {
+    "name": "Nagisa",
+    "aliases": []
+  },
+  "10066": {
+    "name": "Nyotengu",
+    "aliases": []
+  },
+  "10067": {
+    "name": "Monica",
+    "aliases": []
+  },
+  "10068": {
+    "name": "Luna",
+    "aliases": []
+  },
+  "10069": {
+    "name": "Tamaki",
+    "aliases": []
+  },
+  "10071": {
+    "name": "Haruka Amami",
+    "aliases": [
+      "Haruka"
+    ]
+  },
+  "10072": {
+    "name": "Chihaya Kisaragi",
+    "aliases": [
+      "Chihaya"
+    ]
+  },
+  "10073": {
+    "name": "Iori Minase",
+    "aliases": [
+      "Iori"
+    ]
+  },
+  "10074": {
+    "name": "Azusa Miura",
+    "aliases": [
+      "Azusa"
+    ]
+  },
+  "10075": {
+    "name": "Ritsuko Akizuki",
+    "aliases": [
+      "Ritsuko"
+    ]
+  },
+  "10076": {
+    "name": "Ami Futami",
+    "aliases": []
+  },
+  "10077": {
+    "name": "Mami Futami",
+    "aliases": []
+  },
+  "10081": {
+    "name": "Rikka Takarada",
+    "aliases": []
+  },
+  "10082": {
+    "name": "Akane Shinjo",
+    "aliases": []
+  },
+  "10083": {
+    "name": "Hass",
+    "aliases": []
+  },
+  "10084": {
+    "name": "Namiko",
+    "aliases": []
+  },
+  "10085": {
+    "name": "Yume Minami",
+    "aliases": []
+  },
+  "10086": {
+    "name": "Chise Asukagawa",
+    "aliases": []
+  },
+  "10087": {
+    "name": "Mujina",
+    "aliases": []
+  },
+  "10088": {
+    "name": "The 2nd",
+    "aliases": []
+  },
+  "10089": {
+    "name": "Princess Hime",
+    "aliases": []
+  },
+  "10091": {
+    "name": "Reisalin Stout",
+    "aliases": [
+      "Ryza"
+    ]
+  },
+  "10092": {
+    "name": "Klaudia Valentz",
+    "aliases": []
+  },
+  "10093": {
+    "name": "Patricia Abelheim",
+    "aliases": []
+  },
+  "10094": {
+    "name": "Lila Decyrus",
+    "aliases": []
+  },
+  "10095": {
+    "name": "Serri Glaus",
+    "aliases": []
+  },
+  "10096": {
+    "name": "Kala Ideas",
+    "aliases": []
+  },
+  "10101": {
+    "name": "Asuka",
+    "aliases": []
+  },
+  "10102": {
+    "name": "Ikaruga",
+    "aliases": []
+  },
+  "10103": {
+    "name": "Homura",
+    "aliases": []
+  },
+  "10104": {
+    "name": "Yumi",
+    "aliases": []
+  },
+  "10105": {
+    "name": "Fubuki",
+    "aliases": []
+  },
+  "10106": {
+    "name": "Murasaki",
+    "aliases": []
+  },
+  "10107": {
+    "name": "Yūyaki",
+    "aliases": []
+  },
+  "10111": {
+    "name": "Lala Satalin Deviluke",
+    "aliases": [
+      "Lala"
+    ]
+  },
+  "10112": {
+    "name": "Nana Astar Deviluke",
+    "aliases": [
+      "Nana"
+    ]
+  },
+  "10113": {
+    "name": "Momo Belia Deviluke",
+    "aliases": [
+      "Momo"
+    ]
+  },
+  "10114": {
+    "name": "Golden Darkness",
+    "aliases": [
+      "Yami",
+      "Eve",
+      "Darkness",
+      "Golden Darkness"
+    ]
+  },
+  "10115": {
+    "name": "Haruna Sairenji",
+    "aliases": [
+      "Sairenji",
+      "Haruna"
+    ]
+  },
+  "10116": {
+    "name": "Yui Kotegawa",
+    "aliases": [
+      "Kotegawa",
+      "Yui",
+      "Kotegawa-san",
+      "Harenchi"
+    ]
+  },
+  "10121": {
+    "name": "BLACK★ROCK SHOOTER",
+    "aliases": [
+      "BRS",
+      "B★RS"
+    ]
+  },
+  "10122": {
+    "name": "DEAD MASTER",
+    "aliases": []
+  },
+  "10131": {
+    "name": "Yumia Liessfeldt",
+    "aliases": []
+  },
+  "10132": {
+    "name": "Isla von Duerer",
+    "aliases": []
+  },
+  "10133": {
+    "name": "Nina Friede",
+    "aliases": []
+  },
+  "10134": {
+    "name": "Lenja",
+    "aliases": []
+  },
+  "10141": {
+    "name": "Hestia",
+    "aliases": []
+  },
+  "10142": {
+    "name": "Ryu Lion",
+    "aliases": []
+  },
+  "10151": {
+    "name": "Tohka Yatogami",
+    "aliases": []
+  },
+  "10152": {
+    "name": "Origami Tobiichi",
+    "aliases": []
+  },
+  "10153": {
+    "name": "Kotori Itsuka",
+    "aliases": []
+  },
+  "10154": {
+    "name": "Yoshino",
+    "aliases": []
+  },
+  "10155": {
+    "name": "Kurumi Tokisaki",
+    "aliases": []
+  },
+  "10156": {
+    "name": "Kaguya Yamai・Yuzuru Yamai",
+    "aliases": []
+  },
+  "10990": {
+    "name": "Elise",
+    "aliases": []
+  },
+  "10991": {
+    "name": "Shizuku",
+    "aliases": []
+  },
+  "10992": {
+    "name": "Shandy",
+    "aliases": []
+  },
+  "10993": {
+    "name": "Tsukushi",
+    "aliases": []
+  },
+  "10994": {
+    "name": "Patty",
+    "aliases": []
+  },
+  "10995": {
+    "name": "Yukino",
+    "aliases": []
+  },
+  "20001": {
+    "name": "Neptune",
+    "aliases": [
+      "HMS Nep"
+    ]
+  },
+  "20002": {
+    "name": "Monarch",
+    "aliases": []
+  },
+  "20003": {
+    "name": "Ibuki",
+    "aliases": [
+      "Buki"
+    ]
+  },
+  "20004": {
+    "name": "Izumo",
+    "aliases": []
+  },
+  "20005": {
+    "name": "Roon",
+    "aliases": []
+  },
+  "20006": {
+    "name": "Saint Louis",
+    "aliases": [
+      "Sanrui"
+    ]
+  },
+  "20007": {
+    "name": "Seattle",
+    "aliases": [
+      "Scuttle"
+    ]
+  },
+  "20008": {
+    "name": "Georgia",
+    "aliases": []
+  },
+  "20009": {
+    "name": "Kitakaze",
+    "aliases": [
+      "Kita"
+    ]
+  },
+  "20010": {
+    "name": "Azuma",
+    "aliases": [
+      "Azumama"
+    ]
+  },
+  "20011": {
+    "name": "Friedrich der Große",
+    "aliases": [
+      "FDG",
+      "Friedrich",
+      "Friedrich der Grosse",
+      "Freddy"
+    ]
+  },
+  "20012": {
+    "name": "Gascogne",
+    "aliases": [
+      "Gasco"
+    ]
+  },
+  "20013": {
+    "name": "Cheshire",
+    "aliases": [
+      "Chesh"
+    ]
+  },
+  "20014": {
+    "name": "Drake",
+    "aliases": [
+      "Prake"
+    ]
+  },
+  "20015": {
+    "name": "Mainz",
+    "aliases": []
+  },
+  "20016": {
+    "name": "Odin",
+    "aliases": []
+  },
+  "20017": {
+    "name": "Champagne",
+    "aliases": [
+      "Champy"
+    ]
+  },
+  "20018": {
+    "name": "Anchorage",
+    "aliases": []
+  },
+  "20019": {
+    "name": "Hakuryuu",
+    "aliases": [
+      "Haku"
+    ]
+  },
+  "20020": {
+    "name": "Ägir",
+    "aliases": []
+  },
+  "20021": {
+    "name": "August von Parseval",
+    "aliases": [
+      "AVP",
+      "Parseval"
+    ]
+  },
+  "20022": {
+    "name": "Marco Polo",
+    "aliases": [
+      "Marco",
+      "MP"
+    ]
+  },
+  "20023": {
+    "name": "Plymouth",
+    "aliases": [
+      "Ply",
+      "Plym"
+    ]
+  },
+  "20024": {
+    "name": "Prinz Rupprecht",
+    "aliases": []
+  },
+  "20025": {
+    "name": "Harbin",
+    "aliases": [
+      "Harb"
+    ]
+  },
+  "20026": {
+    "name": "Chkalov",
+    "aliases": []
+  },
+  "20027": {
+    "name": "Brest",
+    "aliases": []
+  },
+  "20028": {
+    "name": "Kearsarge",
+    "aliases": [
+      "Kear",
+      "Kears"
+    ]
+  },
+  "20029": {
+    "name": "Shimanto",
+    "aliases": []
+  },
+  "20030": {
+    "name": "Felix Schultz",
+    "aliases": []
+  },
+  "20031": {
+    "name": "Hindenburg",
+    "aliases": []
+  },
+  "20032": {
+    "name": "Flandre",
+    "aliases": []
+  },
+  "20033": {
+    "name": "Halford",
+    "aliases": []
+  },
+  "20034": {
+    "name": "Daisen",
+    "aliases": [
+      "Horse"
+    ]
+  },
+  "20035": {
+    "name": "Napoli",
+    "aliases": []
+  },
+  "20036": {
+    "name": "Admiral Nakhimov",
+    "aliases": [
+      "Admiral Nyakhimov",
+      "Nyakhimov"
+    ]
+  },
+  "20037": {
+    "name": "Bayard",
+    "aliases": []
+  },
+  "20038": {
+    "name": "Kansas",
+    "aliases": []
+  },
+  "20039": {
+    "name": "Mecklenburg",
+    "aliases": [
+      "Meck",
+      "Mecklen"
+    ]
+  },
+  "20040": {
+    "name": "Vittorio Cuniberti",
+    "aliases": []
+  },
+  "20041": {
+    "name": "Dmitri Donskoi",
+    "aliases": []
+  },
+  "20042": {
+    "name": "Gouden Leeuw",
+    "aliases": []
+  },
+  "30001": {
+    "name": "Hiryuu META",
+    "aliases": [
+      "Hiryuu Alter",
+      "Miryuu",
+      "Hiryuu M",
+      "HirM",
+      "HiryuuM"
+    ]
+  },
+  "30002": {
+    "name": "Ark Royal META",
+    "aliases": [
+      "Ark Royal Alter",
+      "Ark META",
+      "Ark Alter",
+      "MArk",
+      "DArk",
+      "ArkM"
+    ]
+  },
+  "30003": {
+    "name": "Helena META",
+    "aliases": [
+      "Helena Alter",
+      "Helmet",
+      "Melena",
+      "HelM"
+    ]
+  },
+  "30004": {
+    "name": "Souryuu META",
+    "aliases": [
+      "Souryuu Alter",
+      "SourM",
+      "SoryuuM",
+      "SouryuuM"
+    ]
+  },
+  "30005": {
+    "name": "Fusou META",
+    "aliases": [
+      "Fusou Alter",
+      "FusouM",
+      "FuMeta",
+      "Musou"
+    ]
+  },
+  "30006": {
+    "name": "Hiyou META",
+    "aliases": [
+      "Hiyou Alter"
+    ]
+  },
+  "30007": {
+    "name": "Gneisenau META",
+    "aliases": [
+      "Gneisenau Alter",
+      "Gnei META",
+      "Gnei Alter",
+      "GneiM",
+      "Mnei"
+    ]
+  },
+  "30008": {
+    "name": "Junyou META",
+    "aliases": [
+      "Junyou Alter"
+    ]
+  },
+  "30009": {
+    "name": "Scharnhorst META",
+    "aliases": [
+      "Scharnhorst Alter",
+      "Scharn META",
+      "Scharn Alter",
+      "ScharnM"
+    ]
+  },
+  "30010": {
+    "name": "Yamashiro META",
+    "aliases": [
+      "Yamashiro Alter",
+      "Yama META",
+      "Yama Alter"
+    ]
+  },
+  "30011": {
+    "name": "Memphis META",
+    "aliases": [
+      "Memphis Alter"
+    ]
+  },
+  "30012": {
+    "name": "Repulse META",
+    "aliases": [
+      "Repulse Alter",
+      "RepM"
+    ]
+  },
+  "30013": {
+    "name": "Trento META",
+    "aliases": [
+      "Trento Alter"
+    ]
+  },
+  "30014": {
+    "name": "Renown META",
+    "aliases": [
+      "Renown Alter",
+      "RenM"
+    ]
+  },
+  "30015": {
+    "name": "Hunter META",
+    "aliases": [
+      "Hunter Alter"
+    ]
+  },
+  "30016": {
+    "name": "Fortune META",
+    "aliases": [
+      "Fortune Alter"
+    ]
+  },
+  "30017": {
+    "name": "Arizona META",
+    "aliases": [
+      "Arizona Alter",
+      "Ari META",
+      "Ari Alter"
+    ]
+  },
+  "30018": {
+    "name": "Sheffield META",
+    "aliases": [
+      "Sheffield Alter",
+      "Sheff META",
+      "Sheff Alter"
+    ]
+  },
+  "30019": {
+    "name": "Queen Elizabeth META",
+    "aliases": [
+      "Queen Elizabeth Alter",
+      "QE META",
+      "QE Alter",
+      "QEM"
+    ]
+  },
+  "30020": {
+    "name": "La Galissonnière META",
+    "aliases": [
+      "La Galissonnière Alter",
+      "La Galis META",
+      "La Galis Alter",
+      "La Glass META",
+      "La Glass Alter"
+    ]
+  },
+  "30021": {
+    "name": "U-556 META",
+    "aliases": [
+      "U-556 Alter",
+      "Parzival META",
+      "Parzival Alter",
+      "556M",
+      "U556M",
+      "U556 META",
+      "U556 Alter"
+    ]
+  },
+  "30022": {
+    "name": "Vestal META",
+    "aliases": [
+      "Vestal Alter"
+    ]
+  },
+  "30023": {
+    "name": "Algérie META",
+    "aliases": [
+      "Algérie Alter",
+      "AlgM"
+    ]
+  },
+  "30024": {
+    "name": "Hatakaze META",
+    "aliases": [
+      "Hatakaze Alter"
+    ]
+  },
+  "30025": {
+    "name": "Jintsuu META",
+    "aliases": [
+      "Jintsuu Alter",
+      "JinM",
+      "JiM",
+      "Mintsuu"
+    ]
+  },
+  "30026": {
+    "name": "Princeton META",
+    "aliases": [
+      "Princeton Alter"
+    ]
+  },
+  "30027": {
+    "name": "Erebus META",
+    "aliases": [
+      "Erebus Alter"
+    ]
+  },
+  "30028": {
+    "name": "Kirov META",
+    "aliases": [
+      "Kirov Alter",
+      "KirM",
+      "Mirov"
+    ]
+  },
+  "30029": {
+    "name": "Kimberly META",
+    "aliases": [
+      "Kimberly Alter"
+    ]
+  },
+  "30030": {
+    "name": "Pamiat' Merkuria META",
+    "aliases": [
+      "Pamiat' Merkuria Alter"
+    ]
+  },
+  "30031": {
+    "name": "Rodney META",
+    "aliases": [
+      "Rodney Alter",
+      "Rod META",
+      "Rod Alter",
+      "RodM",
+      "Modney"
+    ]
+  },
+  "30032": {
+    "name": "Vampire META",
+    "aliases": [
+      "Vampire Alter"
+    ]
+  },
+  "30033": {
+    "name": "Béarn META",
+    "aliases": [
+      "Béarn Alter",
+      "Bearn Alter",
+      "Bearn META",
+      "BearnM"
+    ]
+  },
+  "30034": {
+    "name": "Foch META",
+    "aliases": [
+      "Foch Alter"
+    ]
+  },
+  "30035": {
+    "name": "Wichita META",
+    "aliases": [
+      "Wichita Alter",
+      "Michita",
+      "WichM",
+      "WichiM",
+      "WitchM"
+    ]
+  },
+  "30036": {
+    "name": "Kasumi META",
+    "aliases": [
+      "Kasumi Alter",
+      "KasuM"
+    ]
+  },
+  "30037": {
+    "name": "Nagato META",
+    "aliases": [
+      "Nagato Alter",
+      "Metato",
+      "Nageta",
+      "NagatoM",
+      "Nagameta",
+      "Mugget",
+      "Magneto",
+      "Nagame"
+    ]
+  },
+  "30038": {
+    "name": "Hiei META",
+    "aliases": [
+      "Hiei Alter"
+    ]
+  },
+  "30039": {
+    "name": "Houshou META",
+    "aliases": [
+      "Houshou Alter"
+    ]
+  },
+  "30040": {
+    "name": "Giulio Cesare META",
+    "aliases": [
+      "Giulio Cesare Alter"
+    ]
+  },
+  "30041": {
+    "name": "Taihou META",
+    "aliases": [
+      "Taihou Alter",
+      "Maihoe"
+    ]
+  },
+  "30042": {
+    "name": "Admiral Hipper META",
+    "aliases": [
+      "Admiral Hipper Alter",
+      "Madmiral Hipper",
+      "Mipper"
+    ]
+  },
+  "30043": {
+    "name": "Bolzano META",
+    "aliases": [
+      "Bolzano Alter",
+      "Molzano"
+    ]
+  },
+  "30044": {
+    "name": "Andrea Doria META",
+    "aliases": [
+      "Andrea Doria Alter",
+      "Moria",
+      "Mandrea"
+    ]
+  },
+  "30045": {
+    "name": "Hornet META",
+    "aliases": [
+      "Hornet Alter",
+      "Mornet",
+      "Hormet"
+    ]
+  },
+  "30046": {
+    "name": "Nevada META",
+    "aliases": [
+      "Nevada Alter",
+      "Mevada"
+    ]
+  },
+  "30047": {
+    "name": "Grenville META",
+    "aliases": [
+      "Grenvile Alter",
+      "Menville"
+    ]
+  },
+  "30048": {
+    "name": "Glorious META",
+    "aliases": [
+      "Glorious Alter"
+    ]
+  },
+  "30049": {
+    "name": "Kawakaze META",
+    "aliases": [
+      "Kawakaze Alter",
+      "Kawa META",
+      "Kawa Alter"
+    ]
+  },
+  "30050": {
+    "name": "Dunkerque META",
+    "aliases": [
+      "Dunkerque Aleter",
+      "Dunk META",
+      "Dunkirk META",
+      "Dunk Alter",
+      "Dunkirk Alter"
+    ]
+  },
+  "30051": {
+    "name": "Yuudachi META",
+    "aliases": [
+      "Yuudachi Alter",
+      "Poi META",
+      "Poi Alter"
+    ]
+  },
+  "30052": {
+    "name": "Dewey META",
+    "aliases": [
+      "Dewey Alter"
+    ]
+  },
+  "30053": {
+    "name": "Boise META",
+    "aliases": [
+      "Boise Alter"
+    ]
+  },
+  "30054": {
+    "name": "Yorktown META",
+    "aliases": [
+      "Yorktown Alter",
+      "York Alter",
+      "York META",
+      "YK Alter",
+      "YK META",
+      "YKM"
+    ]
+  },
+  "30055": {
+    "name": "Cleveland META",
+    "aliases": [
+      "Cleveland Alter",
+      "Cleve META",
+      "Cleve Alter",
+      "Clevebro META",
+      "Clevebro Alter"
+    ]
+  },
+  "30056": {
+    "name": "Carabiniere META",
+    "aliases": [
+      "Carabiniere Alter",
+      "Cara META",
+      "Cara Alter",
+      "Pasta Z23 META",
+      "Pasta Z23 Alter"
+    ]
+  },
+  "30057": {
+    "name": "Gangut META",
+    "aliases": [
+      "Gangut Alter"
+    ]
+  },
+  "30058": {
+    "name": "Regensburg META",
+    "aliases": [
+      "Regensburg Alter"
+    ]
+  },
+  "30059": {
+    "name": "Köln META",
+    "aliases": [
+      "Köln Alter"
+    ]
+  },
+  "30060": {
+    "name": "Königsberg META",
+    "aliases": [
+      "Königsberg Alter"
+    ]
+  },
+  "30061": {
+    "name": "Elbe META",
+    "aliases": [
+      "Elbe Alter"
+    ]
+  },
+  "30062": {
+    "name": "Bristol META",
+    "aliases": [
+      "Bristol Alter"
+    ]
+  }
+}

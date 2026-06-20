@@ -1,0 +1,54 @@
+{
+    "meta_show_330_295330": [
+        {
+            "index": 0,
+            "text": "When the battle starts, Regensburg META inflicts 1 stack of Hunt of the Mighty against the allied units with the highest FP, TRP, AVI, EVA, and ACC. Hunt of the Mighty is not applied if the stats in question are all 0. If one shipgirl possesses multiple of the highest stats, she gets inflicted with multiple stacks.\nShipgirls marked with Hunt of the Mighty take more DMG from Regensburg META for every stack possessed ({the first stack increases damage taken by 10% of base; each additional stack adds another 220% of base|The game explains this about as poorly and wrong as it can get.}). If the shipgirl with Hunt of the Mighty is in your Main Fleet, she gets inflicted with Burn and takes DMG over time (Burn DMG is not affected by Hunt of the Mighty).\nIf any stacks of Hunt of the Mighty do not get applied, or if a shipgirl marked with Hunt of the Mighty stacks sinks, those stacks get transferred to Regensburg META. For every stack of Hunt of the Mighty Regensburg META possesses, her DMG taken decreases by 20%."
+        }
+    ],
+    "meta_show_105_295105": [
+        {
+            "index": 0,
+            "text": "When the battle starts, this ship can create 3 barriers that reduce the damage she takes. \nEvery time your ships fire torpedoes, a main gun volley, or launch an airstrike, the barrier counter increases by 1, 2, and 2, respectively. Every time the barrier counter reaches {8|In game description icorrectly states 6.}, 1 barrier is negated."
+        }
+    ],
+    "meta_show_165_295165": [
+        {
+            "index": 0,
+            "text": "When the battle starts: summons 4 [Pillars of Sin] that reduces DMG taken by Algérie META by {30.0%|In game incorrectly states 40.0%}.\nWhen any [Pillar of Sin] takes DMG: {25.0%|The game incorrectly states only 20.0%.} of that DMG is instead redirected to Algérie META."
+        }
+    ],
+    "meta_show_195_295195": [
+        {
+            "index": 1,
+            "text": "Increases Kirov META's FP, TRP, and ACC for each active support unit {by 10%|Not mentioned by the game at all}. {Kirov META initially only takes 40% damage and for every support unit destroyed her damage taken increases by 10% (additively).|The game does not properly explain how this part of the skill works.}"
+        }
+    ],
+    "extreme_900060": [
+        {
+            "index": 1,
+            "text": "Actives one of the following effects based on this ship's active status condition:\n• While in the Morning Star's Light status, recovers 0.5% of this ship's max HP every second;\n• While in the Light of Dawn status, your fleet loses 0.5% of its max HP every 20s."
+        }
+    ],
+    "extreme_900059": [
+        {
+            "index": 1,
+            "text": "Actives one of the following effects based on this ship's active status condition:\n• While in the Morning Star's Light status, recovers 0.5% of this ship's max HP every second;\n• While in the Light of Dawn status, your fleet loses 0.5% of its max HP every 20s."
+        }
+    ],
+    "extreme_900058": [
+        {
+            "index": 1,
+            "text": "Actives one of the following effects based on this ship's active status condition:\n• While in the Morning Star's Light status, recovers 0.5% of this ship's max HP every second;\n• While in the Light of Dawn status, your fleet loses 0.5% of its max HP every 20s."
+        }
+    ],
+    "meta_show_315_295315": [
+        {
+            "index": 0,
+            "text": "When the battle starts, Yorktown META gains a buff that decreases her DMG taken by 60.0%.\nDuring battle, for each allied unit on the field, Yorktown META's DMG taken increases by 15.0% (can be stacked up to 12 times; {stacks additively with self and multiplicatively with the 60.0% reduction.|The game does not clarify this.})."
+        },
+        {
+            "index": 2,
+            "text": "During battle, {after around 40 seconds|The game does not mention that it is not active from the start}, a territory will be deployed that affects the whole field. All units' DMG taken increases by 3.0%."
+        }
+    ]
+}
