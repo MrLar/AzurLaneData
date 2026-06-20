@@ -2,6 +2,10 @@
 title: Special Secretary Documentation
 ---
 
+# ⚠️ Legacy Content
+
+This documentation is for legacy content which is no longer updated.
+
 # Special Secretary
 
 Special Secretary contains relevant information of a special secretary it provides:

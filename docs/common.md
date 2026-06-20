@@ -400,8 +400,9 @@ number represents a type of commodity drop:
 |  99   |    Battle UI Preview     |                                               Meta-Data Type for Battle UI Previews                                               |
 
 # Research
-Represents a single research in the game. Has the following properties:
+⚠️ Research documentation is for legacy content and no longer updated.
 
+Represents a single research in the game. Has the following properties:
 
 |    Property     |                   Type                   |                                                                     Description                                                                     |
 | :-------------: | :--------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |

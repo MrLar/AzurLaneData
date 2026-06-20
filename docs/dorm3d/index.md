@@ -2,6 +2,10 @@
 title: Dorm3D Documentation
 ---
 
+# ⚠️ Legacy Content
+
+This documentation is for legacy content which is no longer updated.
+
 # Dorm3D Room
 
 Dorm3D Room represents the data associated with a room/location in the Dorm3D feature:

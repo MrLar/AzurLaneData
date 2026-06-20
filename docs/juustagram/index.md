@@ -2,6 +2,10 @@
 title: Juustagram Documentation
 ---
 
+# ⚠️ Legacy Content
+
+This documentation is for legacy content which is no longer updated.
+
 # Profiles
 
 ## Juu Profile

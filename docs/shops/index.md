@@ -2,6 +2,10 @@
 title: Shop Documentation
 ---
 
+# ⚠️ Legacy Content
+
+This documentation is for legacy content which is no longer updated.
+
 # Shop
 All shops share the following properties:
 

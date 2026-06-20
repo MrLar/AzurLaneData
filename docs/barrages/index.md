@@ -2,6 +2,10 @@
 title: Barrage Documentation
 ---
 
+# ⚠️ Legacy Content
+
+This documentation is for legacy content which is no longer updated.
+
 # Barrage
 
 Barrage provides info about a single skill barrage. It provides the following properties:
