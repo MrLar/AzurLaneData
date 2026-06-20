@@ -1,8 +1,3 @@
-# Notice
-Due to a lack of interest in both the game and datamining
-not all of the data provided here will be updated going forward.
-
-
 # Intro
 
 This repository contains data that
