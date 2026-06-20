@@ -1,4 +1,13 @@
 {
+  "10560": {
+    "replace": [
+      {
+        "existing": "increases this ship's Crit DMG by",
+        "with": "increases this ship's {Torpedo|The game incorrectly states this applies to the ship as a whole while it is only for torpedoes.} Crit DMG by",
+        "all": false
+      }
+    ]
+  },
   "10": {
     "full": {
       "description": "{Every 5s, restores 6 HP to the most damaged ship.|In game description makes it sound like the ship with this gear/skill heals the HP instead.} {Effect does not stack.|Despite using the same name: This effect does stack with repair toolkits if applicable.}\n{Repair ships at limit break 0 have this skill built in.|The game does not mention this at all, this effectively makes cranes that grant the same or a lower Repair level useless.}",
