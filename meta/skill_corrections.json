@@ -1,4 +1,13 @@
 {
+  "10120": {
+    "replace": [
+      {
+        "existing": "shields deal a small amount of DMG to nearby enemies.",
+        "with": "shields deal a small amount of DMG {to enemies|The game says nearby enemies, but all enemies on screen are hit.}.",
+        "all": false
+      }
+    ]
+  },
   "150890": {
     "replace": [
       {
