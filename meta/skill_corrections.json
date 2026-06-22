@@ -1,4 +1,13 @@
 {
+  "101100": {
+    "replace": [
+      {
+        "existing": "Each main gun hit increases own torpedo critical chance",
+        "with": "{Every time this ship fires her main guns:|The game incorrectly states each hit.} increases own torpedo critical chance",
+        "all": false
+      }
+    ]
+  },
   "14030": {
     "replace": [
       {
