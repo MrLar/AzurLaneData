@@ -1,4 +1,13 @@
 {
+  "14030": {
+    "replace": [
+      {
+        "existing": "fires a special barrage (30s cooldown when activated and DMG is based on the skill's level).",
+        "with": "fires a special barrage {immediately and every 30s thereafter|The game states there is a 30s cooldown but is not particularly clear that it does fire every 30s.} (DMG is based on the skill's level).",
+        "all": false
+      }
+    ]
+  },
   "105010": {
     "replace": [
       {
