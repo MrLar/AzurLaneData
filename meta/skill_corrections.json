@@ -1,4 +1,14 @@
 {
+  "13650": {
+    "replace": [
+      {
+        "existing": "decreases the Main Gun DMG this ship takes",
+        "with": "decreases the {cannon|The game says incorrectly says Main Gun.} DMG this ship takes",
+        "all": false,
+        "opsi": true
+      }
+    ]
+  },
   "101100": {
     "replace": [
       {
