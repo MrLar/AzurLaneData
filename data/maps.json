@@ -78117,5 +78117,285 @@
     "time_limit": 180,
     "type": 16,
     "id": 1909
+  },
+  "2040001_t1_16860301": {
+    "name": "Miracle by Midnight-T1",
+    "acv": 150,
+    "opsi": false,
+    "boss": {
+      "id": 16860301,
+      "hull": 3,
+      "nation": 4,
+      "name": "Prinz Adalbert",
+      "stats": {
+        "hp": 6450,
+        "fp": 75,
+        "trp": 55,
+        "avi": 0,
+        "aa": 85,
+        "hit": 20,
+        "eva": 20,
+        "spd": 18,
+        "luck": 0,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 30,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "adaerbote_4",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2040013,
+    "dungeon_id": 2040013,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1910
+  },
+  "2040001_t2_16861301": {
+    "name": "Miracle by Midnight-T2",
+    "acv": 300,
+    "opsi": false,
+    "boss": {
+      "id": 16861301,
+      "hull": 5,
+      "nation": 6,
+      "name": "Marco Polo",
+      "stats": {
+        "hp": 16500,
+        "fp": 160,
+        "trp": 0,
+        "avi": 0,
+        "aa": 180,
+        "hit": 25,
+        "eva": 16,
+        "spd": 20,
+        "luck": 8,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 45,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "makeboluo_3",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2040113,
+    "dungeon_id": 2040113,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1911
+  },
+  "2040001_t3_16861302": {
+    "name": "Miracle by Midnight-T3",
+    "acv": 700,
+    "opsi": false,
+    "boss": {
+      "id": 16861302,
+      "hull": 8,
+      "nation": 6,
+      "name": "Leonardo da Vinci",
+      "stats": {
+        "hp": 10200,
+        "fp": 80,
+        "trp": 224,
+        "avi": 182,
+        "aa": 208,
+        "hit": 26,
+        "eva": 23,
+        "spd": 20,
+        "luck": 8,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 60,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "dafenqi_3",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2040213,
+    "dungeon_id": 2040213,
+    "time_limit": 180,
+    "type": 3,
+    "id": 1912
+  },
+  "2040002_ht1_16862301": {
+    "name": "Miracle by Midnight-HT1",
+    "acv": 150,
+    "opsi": false,
+    "boss": {
+      "id": 16862301,
+      "hull": 3,
+      "nation": 4,
+      "name": "Prinz Adalbert",
+      "stats": {
+        "hp": 39800,
+        "fp": 220,
+        "trp": 120,
+        "avi": 0,
+        "aa": 225,
+        "hit": 46,
+        "eva": 43,
+        "spd": 20,
+        "luck": 18,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        10,
+        10
+      ],
+      "level": 80,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "adaerbote_4",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2041013,
+    "dungeon_id": 2041013,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1913
+  },
+  "2040002_ht2_16863301": {
+    "name": "Miracle by Midnight-HT2",
+    "acv": 300,
+    "opsi": false,
+    "boss": {
+      "id": 16863301,
+      "hull": 5,
+      "nation": 6,
+      "name": "Marco Polo",
+      "stats": {
+        "hp": 86200,
+        "fp": 280,
+        "trp": 0,
+        "avi": 0,
+        "aa": 260,
+        "hit": 69,
+        "eva": 32,
+        "spd": 20,
+        "luck": 25,
+        "armor": 2
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 95,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "makeboluo_3",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2041113,
+    "dungeon_id": 2041113,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1914
+  },
+  "2040002_ht3_16863302": {
+    "name": "Miracle by Midnight-HT3",
+    "acv": 700,
+    "opsi": false,
+    "boss": {
+      "id": 16863302,
+      "hull": 8,
+      "nation": 6,
+      "name": "Leonardo da Vinci",
+      "stats": {
+        "hp": 42000,
+        "fp": 120,
+        "trp": 460,
+        "avi": 346,
+        "aa": 320,
+        "hit": 36,
+        "eva": 27,
+        "spd": 20,
+        "luck": 25,
+        "armor": 0
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 105,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "dafenqi_3",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2041213,
+    "dungeon_id": 2041213,
+    "time_limit": 180,
+    "type": 4,
+    "id": 1915
+  },
+  "2040003_sp_16864301": {
+    "name": "Miracle by Midnight-SP",
+    "acv": 1320,
+    "opsi": false,
+    "boss": {
+      "id": 16864301,
+      "hull": 18,
+      "nation": 10,
+      "name": "Cherbourg",
+      "stats": {
+        "hp": 155000,
+        "fp": 280,
+        "trp": 0,
+        "avi": 420,
+        "aa": 390,
+        "hit": 71,
+        "eva": 60,
+        "spd": 18,
+        "luck": 30,
+        "armor": 1
+      },
+      "cld": [
+        5.5,
+        8,
+        8
+      ],
+      "level": 110,
+      "offense_boost": 0,
+      "survival_boost": 0,
+      "tactics_boost": 0,
+      "icon": "sebao_2",
+      "prio": 95
+    },
+    "buffs": [],
+    "expo_id": 2044013,
+    "dungeon_id": 2044013,
+    "time_limit": 180,
+    "type": 5,
+    "id": 1916
   }
 }

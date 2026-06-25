@@ -17469,13 +17469,14 @@
     "timer": "02:05:00",
     "light": false,
     "heavy": true,
-    "limited": "Tower of Transcendence",
+    "limited": "Tower of Transcendence and Miracle by Midnight",
     "special": false,
     "other": [],
     "maps": [],
     "notes": [],
     "events": [
-      "Tower of Transcendence"
+      "Tower of Transcendence",
+      "Miracle by Midnight"
     ]
   },
   "528": {
@@ -20767,6 +20768,52 @@
     ],
     "events": [
       "The Young Recluse's Treasure Hunt"
+    ]
+  },
+  "743": {
+    "id": 743,
+    "timer": "04:05:00",
+    "light": false,
+    "heavy": false,
+    "limited": "Miracle by Midnight",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [],
+    "events": [
+      "Miracle by Midnight"
+    ]
+  },
+  "744": {
+    "id": 744,
+    "timer": "02:30:00",
+    "light": false,
+    "heavy": false,
+    "limited": "Miracle by Midnight",
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available as Map drop (HT3, SP; boss only) and in the Event shop during Miracle by Midnight"
+    ],
+    "events": [
+      "Miracle by Midnight"
+    ]
+  },
+  "745": {
+    "id": 745,
+    "timer": null,
+    "light": false,
+    "heavy": false,
+    "limited": null,
+    "special": false,
+    "other": [],
+    "maps": [],
+    "notes": [
+      "Available as point accumulation reward during Miracle by Midnight"
+    ],
+    "events": [
+      "Miracle by Midnight"
     ]
   },
   "10001": {

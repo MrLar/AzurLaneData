@@ -26539,5 +26539,305 @@
       "JP",
       "CN"
     ]
+  },
+  "4384": {
+    "id": 4384,
+    "name": "Cotton Candy Shell",
+    "icon": "102301",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Märchen Marvels",
+    "description": "Be careful not to accidentally eat it!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4385": {
+    "id": 4385,
+    "name": "Juggling Club Shell",
+    "icon": "102302",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Märchen Marvels",
+    "description": "For performers who like their juggling with extra sparkle.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4386": {
+    "id": 4386,
+    "name": "Bouncy Ball Shell",
+    "icon": "102303",
+    "types": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 4,
+    "theme": "Märchen Marvels",
+    "description": "Just give it a little tap to set loose a dazzling display of colors.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4387": {
+    "id": 4387,
+    "name": "Paper Boat Torpedo",
+    "icon": "102304",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Märchen Marvels",
+    "description": "The starry ship embarks on a long journey with hopes and dreams aboard.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4388": {
+    "id": 4388,
+    "name": "Paper Fish Torpedo",
+    "icon": "102305",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Märchen Marvels",
+    "description": "Blub, blub, boom.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4389": {
+    "id": 4389,
+    "name": "Popcorn Torpedo",
+    "icon": "102306",
+    "types": [
+      5,
+      13
+    ],
+    "rarity": 4,
+    "theme": "Märchen Marvels",
+    "description": "An explosion of nostalgic, buttery fragrance!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4390": {
+    "id": 4390,
+    "name": "Magic Hat Shell",
+    "icon": "102307",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Märchen Marvels",
+    "description": "Want to guess what's inside?",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4391": {
+    "id": 4391,
+    "name": "Jester Hat Shell",
+    "icon": "102308",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Märchen Marvels",
+    "description": "This is no laughing matter!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4392": {
+    "id": 4392,
+    "name": "Surprise Box Shell",
+    "icon": "102309",
+    "types": [
+      4,
+      11
+    ],
+    "rarity": 4,
+    "theme": "Märchen Marvels",
+    "description": "The perfect gift for friends... and enemies!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4393": {
+    "id": 4393,
+    "name": "Sun Balloon (Torpedo)",
+    "icon": "102310",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Märchen Marvels",
+    "description": "A shining beacon of fun.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4394": {
+    "id": 4394,
+    "name": "Sun Balloon (Fighter)",
+    "icon": "102310",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Märchen Marvels",
+    "description": "A shining beacon of fun.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4395": {
+    "id": 4395,
+    "name": "Sun Balloon (Bomber)",
+    "icon": "102310",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Märchen Marvels",
+    "description": "A shining beacon of fun.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4396": {
+    "id": 4396,
+    "name": "Balloon Puppy (Torpedo)",
+    "icon": "102311",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Märchen Marvels",
+    "description": "Can't decide if it wants to woof or squeak.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4397": {
+    "id": 4397,
+    "name": "Balloon Puppy (Fighter)",
+    "icon": "102311",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Märchen Marvels",
+    "description": "Can't decide if it wants to woof or squeak.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4398": {
+    "id": 4398,
+    "name": "Balloon Puppy (Bomber)",
+    "icon": "102311",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Märchen Marvels",
+    "description": "Can't decide if it wants to woof or squeak.",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4399": {
+    "id": 4399,
+    "name": "Starry Hot Air Balloon (Torpedo)",
+    "icon": "102312",
+    "types": [
+      8
+    ],
+    "rarity": 4,
+    "theme": "Märchen Marvels",
+    "description": "Hop in and ascend to the dream-filled sky!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4400": {
+    "id": 4400,
+    "name": "Starry Hot Air Balloon (Fighter)",
+    "icon": "102312",
+    "types": [
+      7
+    ],
+    "rarity": 4,
+    "theme": "Märchen Marvels",
+    "description": "Hop in and ascend to the dream-filled sky!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
+  },
+  "4401": {
+    "id": 4401,
+    "name": "Starry Hot Air Balloon (Bomber)",
+    "icon": "102312",
+    "types": [
+      9
+    ],
+    "rarity": 4,
+    "theme": "Märchen Marvels",
+    "description": "Hop in and ascend to the dream-filled sky!",
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
   }
 }

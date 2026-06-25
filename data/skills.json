@@ -3350,7 +3350,7 @@
     ]
   },
   "10120": {
-    "description": "Every 30s: deploys 2 rotating shields that can each block up to 8 shells. Shields last for $1s. If destroyed, shields deal a small amount of DMG to nearby enemies.",
+    "description": "Every 30s: deploys 2 rotating shields that can each block up to 8 shells. Shields last for $1s. If destroyed, shields deal a small amount of DMG {to enemies|The game says nearby enemies, but all enemies on screen are hit.}.",
     "opsi_description": null,
     "name": "Pandora's Box",
     "max": 10,
@@ -4465,7 +4465,7 @@
     ]
   },
   "10560": {
-    "description": "Increases this ship's Torpedo Crit Rate by $1 and increases this ship's Crit DMG by 50.0%.",
+    "description": "Increases this ship's Torpedo Crit Rate by $1 and increases this ship's {Torpedo|The game incorrectly states this applies to the ship as a whole while it is only for torpedoes.} Crit DMG by 50.0%.",
     "opsi_description": null,
     "name": "Journey's End",
     "max": 10,
@@ -9029,7 +9029,7 @@
     ]
   },
   "12110": {
-    "description": "Every 20s: launches a random $1 special airstrike (DMG is based on the skill's level.) When this ship's HP falls below 30.0%: increases this ship's LCK by 7.",
+    "description": "{Every 20s: launches a random $1 special airstrike (DMG is based on the skill's level.)|This skill claims that 7 luck are gained when falling below 30% HP but that never actually happens.}",
     "opsi_description": null,
     "name": "Destiny Draw!",
     "max": 10,
@@ -14167,8 +14167,8 @@
     ]
   },
   "13650": {
-    "description": "For the first 3 battles of a sortie this ship fights in: decreases the Main Gun DMG this ship takes by $1. If there are 2 (or more) Sakura Empire ships in the same fleet as this ship: increases this ship's Speed by 10.",
-    "opsi_description": "For the first 3 battles of a sortie this ship fights in: decreases the Main Gun DMG this ship takes by $1. If there are 2 (or more) Sakura Empire ships in the same fleet as this ship: increases this ship's Speed by 10. [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
+    "description": "For the first 3 battles of a sortie this ship fights in: decreases the {cannon|The game incorrectly says Main Gun.} DMG this ship takes by $1. If there are 2 (or more) Sakura Empire ships in the same fleet as this ship: increases this ship's Speed by 10.",
+    "opsi_description": "For the first 3 battles of a sortie this ship fights in: decreases the {cannon|The game incorrectly says Main Gun.} DMG this ship takes by $1. If there are 2 (or more) Sakura Empire ships in the same fleet as this ship: increases this ship's Speed by 10. [This skill's sortie battle counter resets when moving to a new area or changing your formation within Operation Siren.]",
     "name": "Robust Ballasts",
     "max": 10,
     "id": 13650,
@@ -15528,7 +15528,7 @@
     ]
   },
   "14030": {
-    "description": "When this ship takes DMG: increases this ship's FP and EVA by $1 (can be stacked up to 5 times). After reaching 5 stacks, this ship gains 5 Speed and fires a special barrage (30s cooldown when activated and DMG is based on the skill's level).",
+    "description": "When this ship takes DMG: increases this ship's FP and EVA by $1 (can be stacked up to 5 times). After reaching 5 stacks, this ship gains 5 Speed and fires a special barrage {immediately and every 30s thereafter|The game states there is a 30s cooldown but is not particularly clear that it does fire every 30s.} (DMG is based on the skill's level).",
     "opsi_description": null,
     "name": "Ontological Rudder",
     "max": 10,
@@ -41040,6 +41040,26 @@
     "icon": 20200,
     "values": []
   },
+  "30621": {
+    "description": "Activates All Out Assault I: Cherbourg once every 12 times the Main Guns are fired.",
+    "opsi_description": null,
+    "name": "All Out Assault I",
+    "max": 1,
+    "id": 30621,
+    "type": 1,
+    "icon": 30620,
+    "values": []
+  },
+  "30622": {
+    "description": "Activates All Out Assault I: Cherbourg once every 8 times the Main Guns are fired.",
+    "opsi_description": null,
+    "name": "All Out Assault II",
+    "max": 1,
+    "id": 30622,
+    "type": 1,
+    "icon": 30620,
+    "values": []
+  },
   "60100": {
     "description": "When equipped by a Royal Navy ship: increases that ship's Evasion Rate by 5.0%.",
     "opsi_description": null,
@@ -41940,6 +41960,16 @@
     "icon": "equips/151140",
     "values": []
   },
+  "61110": {
+    "description": "Changes the BGM when equipped. If other gear that changes the BGM is active simultaneously, only a randomly chosen one will take effect.",
+    "opsi_description": null,
+    "name": "Master of Laughter",
+    "max": 1,
+    "id": 61110,
+    "type": 0,
+    "icon": "equips/151180",
+    "values": []
+  },
   "101010": {
     "description": "If deployed with any other Neptunia ship, increases own damage by $1 and decreases own damage taken by 6.0%. For every other Neptunia ship deployed, further increases own damage by $2,and decreases own damage taken by 1.0%",
     "opsi_description": null,
@@ -42231,7 +42261,7 @@
     ]
   },
   "101100": {
-    "description": "Each main gun hit increases own torpedo critical chance by $1, stacking up to 20 times. All stacks are consumed after firing torpedoes.",
+    "description": "{Every time this ship fires her main guns:|The game incorrectly states each hit.} increases own torpedo critical chance by $1, stacking up to 20 times. All stacks are consumed after firing torpedoes.",
     "opsi_description": null,
     "name": "Tänzerin Trombe",
     "max": 10,
@@ -42985,7 +43015,7 @@
     ]
   },
   "105010": {
-    "description": "Dive Bombers can be equipped in this ship's third gear slot, and will use the \"Mach 2.42 Bermbew Sprawt\" gear skin, but Airstrike load time increases by 100.0%. Every 20s: launches a $1 special airstrike (DMG is based on the skill's level and this ship's TRP stat.)",
+    "description": "{Dive Bombers can be equipped in this ship's third gear slot|The game incorrectly states the airstrike load time increases by 100%, when it is actually 120%, same as most aircraft carriers.}, and will use the \"Mach 2.42 Bermbew Sprawt\" gear skin. Every 20s: launches a $1 special airstrike (DMG is based on the skill's level and this ship's TRP stat.)",
     "opsi_description": "Dive Bombers can be equipped in this ship's third gear slot, and will use the \"Mach 2.42 Bermbew Sprawt\" gear skin, but this ship's Airstrike load time increases by 100.0% (this effect is unaffected by your ship's damage status.) Every 20s: launches a $1 special airstrike (DMG is based on the skill's level and this ship's TRP stat.)",
     "name": "Mach 2.42 Blossom",
     "max": 10,
@@ -54752,7 +54782,7 @@
     ]
   },
   "150890": {
-    "description": "When the battle starts: lights a firecracker; 15s after this, there is a $1 chance to set off a bianpao. The bianpao inflicts a special Burn ailment to your Vanguard for 8s; ships with this Burn have their Crit Rate increased by 10.0% and take 1 DMG every 2s.",
+    "description": "When the battle starts, and {with a $1 chance every 15s after that|The firecracker and bianpao mean the same thing, and the game implies it does not repeat every 15s.}: lights a bianpao. The bianpao inflicts a special Burn ailment to your Vanguard for 8s; ships with this Burn have their Crit Rate increased by 10.0% and take 1 DMG every 2s.",
     "opsi_description": null,
     "name": "Blast Off Into the Future",
     "max": 10,
@@ -60468,6 +60498,64 @@
       ]
     ]
   },
+  "152420": {
+    "description": "When this ship launches an airstrike: throws a $1 Marteau that can hit underwater enemies, pierces shields, and always critically strikes (DMG is based on the skill's level); enemies hit by Marteau are inflicted with Armor Break, a special Burn debuff, a special Flooding debuff, and have their SPD and AA reduced by 8.0%, lasting for 6s (DMG of the special Burn and Flooding debuffs are based on AVI and the skill's level).",
+    "opsi_description": null,
+    "name": "Woah! It's Marteau!",
+    "max": 10,
+    "id": 152420,
+    "type": 1,
+    "icon": 152420,
+    "values": [
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ]
+    ]
+  },
+  "152430": {
+    "description": "At the start of battle: increases this ship's AVI and AA by $1, and increases the flight speed of this ship's aircraft by 5. Once per battle, when this ship's aircraft shoots down an enemy aircraft: increases this ship's ACC by $2 until the end of battle.",
+    "opsi_description": null,
+    "name": "Woohoo! Ready to Fire!",
+    "max": 10,
+    "id": 152430,
+    "type": 3,
+    "icon": 152430,
+    "values": [
+      [
+        "20.0%",
+        "21.1%",
+        "22.2%",
+        "23.3%",
+        "24.4%",
+        "25.5%",
+        "26.6%",
+        "27.7%",
+        "28.8%",
+        "30.0%"
+      ],
+      [
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%",
+        "8.5%",
+        "9.0%",
+        "10.0%"
+      ]
+    ]
+  },
   "152440": {
     "description": "10s after the battle starts, and every 20s after that: fires a $1 special barrage (DMG is based on the skill's level) and increases this ship's EVA and AA by $2, lasting for 10s. During a sortie, for each enemy fleet sunk by the fleet this ship is in: increases this ship's DMG dealt by $3 (can be stacked up to 3 times).",
     "opsi_description": null,
@@ -60547,6 +60635,170 @@
         "17.7%",
         "18.8%",
         "20.0%"
+      ]
+    ]
+  },
+  "152460": {
+    "description": "At the start of battle: increases this ship's AA and EVA by $1. If this ship has a large-caliber Main Gun equipped: increases this ship's Main Gun efficiency by 10.0%. Once per battle, if this ship's total DMG taken exceeds 20.0% of her Max HP: increases this ship's SPD by 4 and restores $2 of her Max HP.",
+    "opsi_description": null,
+    "name": "Illusionist of Fact and Fiction",
+    "max": 10,
+    "id": 152460,
+    "type": 2,
+    "icon": 152460,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%"
+      ]
+    ]
+  },
+  "152470": {
+    "description": "Every 20s: deploys a zone around this ship that lasts for 8s. While this zone persists: increases this ship's Dodge Rate by $1; additionally, reduces the DMG taken of allied Vanguard ships inside the zone by $1, and reduces the ACC and SPD of enemies inside the zone by $2 and 10.0% respectively.",
+    "opsi_description": null,
+    "name": "Seeing Isn't Believing",
+    "max": 10,
+    "id": 152470,
+    "type": 2,
+    "icon": 152470,
+    "values": [
+      [
+        "4.0%",
+        "4.6%",
+        "5.2%",
+        "6.0%",
+        "6.6%",
+        "7.2%",
+        "8.0%",
+        "8.6%",
+        "9.2%",
+        "10.0%"
+      ],
+      [
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%"
+      ]
+    ]
+  },
+  "152480": {
+    "description": "At the start of battle: increases this ship's FP and ACC by $1. Every 15s: fires a $2 special barrage (DMG is based on the skill's level); enemies hit by this barrage take $3 more DMG from L'Intrépide.",
+    "opsi_description": null,
+    "name": "Bladework: Master of Anatomy",
+    "max": 10,
+    "id": 152480,
+    "type": 1,
+    "icon": 152480,
+    "values": [
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.2",
+        "Lv.3",
+        "Lv.4",
+        "Lv.5",
+        "Lv.6",
+        "Lv.7",
+        "Lv.8",
+        "Lv.9",
+        "Lv.10"
+      ],
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ]
+    ]
+  },
+  "152490": {
+    "description": "30s after the battle starts: L'Intrépide gains the Chow Down status, reducing her SPD by 10.0% and DMG taken by $1 for 8s. When the Chow Down status expires: increases this ship's AA and EVA by $2 until the end of battle, and generates a barrier that can absorb up to $3 of this ship's Max HP.",
+    "opsi_description": null,
+    "name": "Meat Lover",
+    "max": 10,
+    "id": 152490,
+    "type": 2,
+    "icon": 152490,
+    "values": [
+      [
+        "10.0%",
+        "11.1%",
+        "12.2%",
+        "13.3%",
+        "14.4%",
+        "15.5%",
+        "16.6%",
+        "17.7%",
+        "18.8%",
+        "20.0%"
+      ],
+      [
+        "5.0%",
+        "6.1%",
+        "7.2%",
+        "8.3%",
+        "9.4%",
+        "10.5%",
+        "11.6%",
+        "12.7%",
+        "13.8%",
+        "15.0%"
+      ],
+      [
+        "3.5%",
+        "4.0%",
+        "4.5%",
+        "5.0%",
+        "5.5%",
+        "6.0%",
+        "6.5%",
+        "7.0%",
+        "7.5%",
+        "8.0%"
       ]
     ]
   },
@@ -72539,7 +72791,7 @@
     ]
   },
   "1017200": {
-    "description": "Decreases the loading time of this ship's first volley by $1 and changes her Armor Type to Medium Armor. When this ship fires her Main Guns: fires a $2 special barrage with a 10.0% chance to inflict a special Flooding ailment to enemies hit for 18s (barrage and Flooding DMG are based on this ship's FP stat and the skill's level; Flooding DMG procs once every 3s).",
+    "description": "{Decreases the loading time of this ship's first volley by $1|The game additionally states that Martinho changes to Medium Armor, however that effect is bugged and her Armor remains unchanged.}. When this ship fires her Main Guns: fires a $2 special barrage with a 10.0% chance to inflict a special Flooding ailment to enemies hit for 18s (barrage and Flooding DMG are based on this ship's FP stat and the skill's level; Flooding DMG procs once every 3s).",
     "opsi_description": null,
     "name": "Peerless Cannons of Destruction+",
     "max": 10,

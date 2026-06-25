@@ -61814,6 +61814,21 @@
           "bullet_type": 3,
           "bullet_id": 79976,
           "type": "weapon"
+        },
+        {
+          "damage": 0,
+          "fix_damage": 1000,
+          "level_of": "Brennus",
+          "count": 1,
+          "clears": [
+            1,
+            3
+          ],
+          "range": 45,
+          "velocity": 0,
+          "movement_type": 0,
+          "life_time": 0.5,
+          "type": "slash"
         }
       ]
     },
@@ -61831,26 +61846,13 @@
           "id": 150000,
           "index": 0,
           "part": 1
-        }
-      ]
-    },
-    {
-      "name": "Sword of Final Judgment (Slash)",
-      "parts": [
+        },
         {
-          "damage": 0,
-          "fix_damage": 1000,
-          "level_of": "Brennus",
-          "count": 1,
-          "clears": [
-            1,
-            3
-          ],
-          "range": 45,
-          "velocity": 0,
-          "movement_type": 0,
-          "life_time": 0.5,
-          "type": "slash"
+          "type": "ref",
+          "id": 150000,
+          "index": 0,
+          "part": 2,
+          "count": 3
         }
       ]
     }

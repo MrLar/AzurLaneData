@@ -1,68 +1,4 @@
 {
-  "13650": {
-    "replace": [
-      {
-        "existing": "decreases the Main Gun DMG this ship takes",
-        "with": "decreases the {cannon|The game incorrectly says Main Gun.} DMG this ship takes",
-        "all": false,
-        "opsi": true
-      }
-    ]
-  },
-  "101100": {
-    "replace": [
-      {
-        "existing": "Each main gun hit increases own torpedo critical chance",
-        "with": "{Every time this ship fires her main guns:|The game incorrectly states each hit.} increases own torpedo critical chance",
-        "all": false
-      }
-    ]
-  },
-  "14030": {
-    "replace": [
-      {
-        "existing": "fires a special barrage (30s cooldown when activated and DMG is based on the skill's level).",
-        "with": "fires a special barrage {immediately and every 30s thereafter|The game states there is a 30s cooldown but is not particularly clear that it does fire every 30s.} (DMG is based on the skill's level).",
-        "all": false
-      }
-    ]
-  },
-  "105010": {
-    "replace": [
-      {
-        "existing": "Dive Bombers can be equipped in this ship's third gear slot, and will use the \"Mach 2.42 Bermbew Sprawt\" gear skin, but Airstrike load time increases by 100.0%. Every",
-        "with": "{Dive Bombers can be equipped in this ship's third gear slot|The game incorrectly states the airstrike load time increases by 100%, when it is actually 120%, same as most aircraft carriers.}, and will use the \"Mach 2.42 Bermbew Sprawt\" gear skin. Every",
-        "all": false
-      }
-    ]
-  },
-  "10120": {
-    "replace": [
-      {
-        "existing": "shields deal a small amount of DMG to nearby enemies.",
-        "with": "shields deal a small amount of DMG {to enemies|The game says nearby enemies, but all enemies on screen are hit.}.",
-        "all": false
-      }
-    ]
-  },
-  "150890": {
-    "replace": [
-      {
-        "existing": "When the battle starts: lights a firecracker; 15s after this, there is a $1 chance to set off a bianpao.",
-        "with": "When the battle starts, and {with a $1 chance every 15s after that|The firecracker and bianpao mean the same thing, and the game implies it does not repeat every 15s.}: lights a bianpao.",
-        "all": false
-      }
-    ]
-  },
-  "10560": {
-    "replace": [
-      {
-        "existing": "increases this ship's Crit DMG by",
-        "with": "increases this ship's {Torpedo|The game incorrectly states this applies to the ship as a whole while it is only for torpedoes.} Crit DMG by",
-        "all": false
-      }
-    ]
-  },
   "10": {
     "full": {
       "description": "{Every 5s, restores 6 HP to the most damaged ship.|In game description makes it sound like the ship with this gear/skill heals the HP instead.} {Effect does not stack.|Despite using the same name: This effect does stack with repair toolkits if applicable.}\n{Repair ships at limit break 0 have this skill built in.|The game does not mention this at all, this effectively makes cranes that grant the same or a lower Repair level useless.}",
@@ -134,6 +70,15 @@
       "icon": null,
       "values": []
     }
+  },
+  "2041": {
+    "replace": [
+      {
+        "existing": "chance to deal double DMG with its Main Guns",
+        "with": "chance to increase Main Gun damage by {100% for 3s (5s cooldown between activations)|The game states double damage, which is a bit pedantic to correct but this is more accurate. The game also does not mention the effect lasts 3 seconds and has a 5s cooldown.}",
+        "all": false
+      }
+    ]
   },
   "2051": {
     "replace": [
@@ -328,6 +273,15 @@
       }
     ]
   },
+  "10120": {
+    "replace": [
+      {
+        "existing": "shields deal a small amount of DMG to nearby enemies.",
+        "with": "shields deal a small amount of DMG {to enemies|The game says nearby enemies, but all enemies on screen are hit.}.",
+        "all": false
+      }
+    ]
+  },
   "10200": {
     "replace": [
       {
@@ -401,6 +355,15 @@
         "{12%|Game incorrectly states 15.0%.}"
       ]
     }
+  },
+  "10560": {
+    "replace": [
+      {
+        "existing": "increases this ship's Crit DMG by",
+        "with": "increases this ship's {Torpedo|The game incorrectly states this applies to the ship as a whole while it is only for torpedoes.} Crit DMG by",
+        "all": false
+      }
+    ]
   },
   "10640": {
     "replace": [
@@ -554,6 +517,10 @@
         "{0.003%|The game applies the buff incorrectly leading to an abysmally low increase.}"
       ]
     }
+  },
+  "12110": {
+    "set": "{Every 20s: launches a random $1 special airstrike (DMG is based on the skill's level.)|This skill claims that 7 luck are gained when falling below 30% HP but that never actually happens.}",
+    "original": "Every 20s: launches a random $1 special airstrike (DMG is based on the skill's level.) When this ship's HP falls below 30.0%: increases this ship's LCK by 7."
   },
   "12390": {
     "replace": [
@@ -784,6 +751,16 @@
       }
     ]
   },
+  "13650": {
+    "replace": [
+      {
+        "existing": "decreases the Main Gun DMG this ship takes",
+        "with": "decreases the {cannon|The game incorrectly says Main Gun.} DMG this ship takes",
+        "all": false,
+        "opsi": true
+      }
+    ]
+  },
   "13790": {
     "set": "When this ship finishes loading its Airstrike: decreases the Speed of all enemies by $1 for 4s and randomly activates one of the following effects:\n• Decreases all enemies' EVA by $2 for 10s,\n• For 10s, increases your Vanguard's DMG dealt by $4 and decreases your Main Fleet's DMG taken by $3,\n• For 10s, increases your Main Fleet's DMG dealt by $3 and decreases your Vanguard's DMG taken by $3.",
     "original": "When this ship finishes loading its Airstrike: decreases the Speed of all enemies by $1 for 4s and randomly activates one of the following effects: a) Decreases all enemies' EVA by $2 for 10s, b) For 10s, increases your Vanguard's DMG dealt by $4 and decreases your Main Fleet's DMG taken by $3, c) For 10s, increases your Main Fleet's DMG dealt by $3 and decreases your Vanguard's DMG taken by $3."
@@ -827,6 +804,15 @@
   "13920": {
     "set": "Every 20s after the battle starts: fires a $1 special barrage (DMG is based on the skill's level) and deploys one of the following 2 types of shields, both lasting for $2s, chosen at random:\n• blocks 2 torpedoes,\n• blocks 10 shells.",
     "original": "Every 20s after the battle starts: fires a $1 special barrage (DMG is based on the skill's level) and deploys one of the following 2 types of shields, both lasting for $2s, chosen at random: 1) blocks 2 torpedoes, 2) blocks 10 shells."
+  },
+  "14030": {
+    "replace": [
+      {
+        "existing": "fires a special barrage (30s cooldown when activated and DMG is based on the skill's level).",
+        "with": "fires a special barrage {immediately and every 30s thereafter|The game states there is a 30s cooldown but is not particularly clear that it does fire every 30s.} (DMG is based on the skill's level).",
+        "all": false
+      }
+    ]
   },
   "14170": {
     "append": [
@@ -902,6 +888,15 @@
   "15070": {
     "set": "Increases this ship's Crit DMG dealt by $1. While this ship is afloat, for the first 5 battles of a sortie fought by a fleet this ship is NOT in, the following buffs apply to that fleet:\n• Decreases DMG taken by your Iron Blood ships by 5.0%;\n• Increases Crit DMG dealt by your Iron Blood ships by $2;\n• When an enemy gets within close proximity of your ships: fires a $3 supporting barrage (DMG is based on the skill's level; can only activate up to 6 times per battle; has a 5s cooldown between activations).",
     "original": "Increases this ship's Crit DMG dealt by $1. While this ship is afloat, for the first 5 battles of a sortie fought by a fleet this ship is NOT in, the following buffs apply to that fleet: \n1) Decreases DMG taken by your Iron Blood ships by 5.0%; \n2) Increases Crit DMG dealt by your Iron Blood ships by $2; \n3) When an enemy gets within close proximity of your ships: fires a $3 supporting barrage (DMG is based on the skill's level; can only activate up to 6 times per battle; has a 5s cooldown between activations)."
+  },
+  "15130": {
+    "replace": [
+      {
+        "existing": "FP and TRP dealt",
+        "with": "{FP and TRP|The game has the word dealt after FP and TRP which may imply that this is a direct damage bonus when it is just a stat increase.}",
+        "all": false
+      }
+    ]
   },
   "15160": {
     "set": "Every 20s: summons Data 857. When summoned, Data 857:\n• fires a $1 special barrage (DMG is based on the skill's level);\n• for 10s, increases this ship's ACC and Crit Rate by $2. During battle, increases the DMG your Allen M. Sumner-class ships deal to enemies that have been Illuminated at least twice by $4. After the first time this skill is activated, increases the DMG your Allen M. Sumner-class ships deal by $3 until the end of that battle.",
@@ -1191,51 +1186,6 @@
       }
     ]
   },
-  "19270": {
-    "replace": [
-      {
-        "existing": "When this ship takes DMG",
-        "with": "{When this ship is hit|The game states when this ship takes DMG, however misses can also trigger this effect.}",
-        "all": false
-      }
-    ]
-  },
-  "2041": {
-    "replace": [
-      {
-        "existing": "chance to deal double DMG with its Main Guns",
-        "with": "chance to increase Main Gun damage by {100% for 3s (5s cooldown between activations)|The game states double damage, which is a bit pedantic to correct but this is more accurate. The game also does not mention the effect lasts 3 seconds and has a 5s cooldown.}",
-        "all": false
-      }
-    ]
-  },
-  "1090190": {
-    "replace": [
-      {
-        "existing": "chance to double the DMG dealt by that attack",
-        "with": "chance to increase Main Gun damage by {100% for 3s (5s cooldown between activations)|The game states double damage, which is a bit pedantic to correct but this is more accurate. The game also does not mention the effect lasts 3 seconds and has a 5s cooldown.}",
-        "all": false
-      }
-    ]
-  },
-  "15130": {
-    "replace": [
-      {
-        "existing": "FP and TRP dealt",
-        "with": "{FP and TRP|The game has the word dealt after FP and TRP which may imply that this is a direct damage bonus when it is just a stat increase.}",
-        "all": false
-      }
-    ]
-  },
-  "801110": {
-    "replace": [
-      {
-        "existing": "within 55 units",
-        "with": "within {27.5|The game states 55 units which heavily implies a radius of 55, however the game uses 55 as the diameter meaning 27.5 is the actual radius.} units",
-        "all": false
-      }
-    ]
-  },
   "18290": {
     "replace": [
       {
@@ -1342,6 +1292,15 @@
           "113/113/113",
           "115/115/115"
         ]
+      }
+    ]
+  },
+  "19270": {
+    "replace": [
+      {
+        "existing": "When this ship takes DMG",
+        "with": "{When this ship is hit|The game states when this ship takes DMG, however misses can also trigger this effect.}",
+        "all": false
       }
     ]
   },
@@ -1753,9 +1712,27 @@
       " The possible effects are:\n• Increase own damage by 1%.\n• Increase own EVA by 3%.\n• Increase own ACC by 3%\n• Heal self for 1%."
     ]
   },
+  "101100": {
+    "replace": [
+      {
+        "existing": "Each main gun hit increases own torpedo critical chance",
+        "with": "{Every time this ship fires her main guns:|The game incorrectly states each hit.} increases own torpedo critical chance",
+        "all": false
+      }
+    ]
+  },
   "101120": {
     "set": "Every 15 seconds, switches between the following effects:\n• Reduces damage taken by $1,\n• Increases damage dealt by $2,\n• Restores $3 HP every 3 seconds.",
     "original": "Every 15 seconds, switches between the following effects: 1) Reduces damage taken by $1, 2) Increases damage dealt by $2, 3) Restores $3 HP every 3 seconds."
+  },
+  "105010": {
+    "replace": [
+      {
+        "existing": "Dive Bombers can be equipped in this ship's third gear slot, and will use the \"Mach 2.42 Bermbew Sprawt\" gear skin, but Airstrike load time increases by 100.0%. Every",
+        "with": "{Dive Bombers can be equipped in this ship's third gear slot|The game incorrectly states the airstrike load time increases by 100%, when it is actually 120%, same as most aircraft carriers.}, and will use the \"Mach 2.42 Bermbew Sprawt\" gear skin. Every",
+        "all": false
+      }
+    ]
   },
   "106170": {
     "replace": [
@@ -2168,6 +2145,15 @@
     "set": "Increases this ship's TRP by $1. Every 20s: 70.0% chance to fire a $2 special barrage (DMG is based on the skill's level; if there is another Dragon Empery ship in your fleet, the barrage's activation chance increases to 100.0%). When this barrage fires, selects 1 random enemy and applies 1 of the following debuffs to them, lasting 8s:\n• Decreases FP and TRP by 10.0%;\n• Decreases AA and EVA by 10.0%;\n• Inflicts a special Armor Break.",
     "original": "Increases this ship's TRP by $1. Every 20s: 70.0% chance to fire a $2 special barrage (DMG is based on the skill's level; if there is another Dragon Empery ship in your fleet, the barrage's activation chance increases to 100.0%). When this barrage fires, selects 1 random enemy and applies 1 of the following debuffs to them, lasting 8s: 1) Decreases FP and TRP by 10.0%; 2) Decreases AA and EVA by 10.0%; 3) Inflicts a special Armor Break."
   },
+  "150890": {
+    "replace": [
+      {
+        "existing": "When the battle starts: lights a firecracker; 15s after this, there is a $1 chance to set off a bianpao.",
+        "with": "When the battle starts, and {with a $1 chance every 15s after that|The firecracker and bianpao mean the same thing, and the game implies it does not repeat every 15s.}: lights a bianpao.",
+        "all": false
+      }
+    ]
+  },
   "150940": {
     "set": "Increases this ship's FP and ACC by $1.\n\nWhenever a ship in your Main Fleet ship or the frontmost ship of your Vanguard hits an enemy with the weapon equipped in that ship's first slot: 50% chance to apply 1 stack of Jet-Black Paint to the enemy hit (each weapon that triggers this effect can only apply 1 stack of Jet-Black Paint to the same target every 5s)\n• For each stack of Jet-Black Paint applied, the affected enemy's SPD is reduced by 5.0%, lasting for 10s (can be stacked up to 3 times, subsequent applications of Jet-Black Paint will refresh {the duration of all stacks and the SPD decrease|The game implies only the SPD decreasing effect is extended when infact all Jet-Black Paint stacks are refreshed.}).\n• When an enemy accumulates 3 stacks of Jet-Black Paint, that enemy will receive Artist's Dedication, increasing their DMG taken by $2 for 10s.\n• If the attacker is a Sardegna Empire ship: further increases the DMG dealt by $2 {(stacking multiplicatively with the other increase)|The game does not make it apparent that this is how the these two 6% increases would stack.}.",
     "original": "Increases this ship's FP and ACC by $1.\nWhenever a ship in your Main Fleet ship or the frontmost ship of your Vanguard hits an enemy with the weapon equipped in that ship's first slot: 50% chance to apply 1 stack of Jet-Black Paint to the enemy hit (each weapon that triggers this effect can only apply 1 stack of Jet-Black Paint to the same target every 5s); for each stack of Jet-Black Paint applied, the affected enemy's SPD is reduced by 5.0%, lasting for 10s (can be stacked up to 3 times, subsequent applications of Jet-Black Paint will refresh this duration).\nWhen an enemy accumulates 3 stacks of Jet-Black Paint, that enemy will receive Artist's Dedication, increasing their DMG taken by $2 for 10s. If the attacker is a Sardegna Empire ship: further increases the DMG dealt by $2."
@@ -2481,6 +2467,15 @@
   "800982": {
     "type": 1
   },
+  "801110": {
+    "replace": [
+      {
+        "existing": "within 55 units",
+        "with": "within {27.5|The game states 55 units which heavily implies a radius of 55, however the game uses 55 as the diameter meaning 27.5 is the actual radius.} units",
+        "all": false
+      }
+    ]
+  },
   "801220": {
     "set": "Increases this ship's DMG dealt by $1 and decreases the loading time of her first airstrike by 20.0%.\nActivates one of the following 2 effects based on what weapon this ship has equipped in her Secondary Weapon slot:\n• Main Gun: increases this weapon's Detection Range and Range and increases its efficiency by $2. Improves the special cannon barrage fired by the skill \"Keeper of the Grimoire.\" Every 10s: fires a $3 special cannon barrage (DMG is based on the skill's level).\n• Dive Bomber: further decreases the loading time of this ship's first airstrike by $2. Improves the special airstrike fired by the skill \"Keeper of the Grimoire.\"",
     "original": "Increases this ship's DMG dealt by $1 and decreases the loading time of her first airstrike by 20.0%. \nActivates one of the following 2 effects based on what weapon this ship has equipped in her Secondary Weapon slot: \n1) Main Gun: increases this weapon's Detection Range and Range and increases its efficiency by $2. Improves the special cannon barrage fired by the skill \"Keeper of the Grimoire.\" Every 10s: fires a $3 special cannon barrage (DMG is based on the skill's level).\n2): Dive Bomber: further decreases the loading time of this ship's first airstrike by $2. Improves the special airstrike fired by the skill \"Keeper of the Grimoire.\""
@@ -2741,6 +2736,15 @@
       }
     ]
   },
+  "1017200": {
+    "replace": [
+      {
+        "existing": "Decreases the loading time of this ship's first volley by $1 and changes her Armor Type to Medium Armor.",
+        "with": "{Decreases the loading time of this ship's first volley by $1|The game additionally states that Martinho changes to Medium Armor, however that effect is bugged and her Armor remains unchanged.}.",
+        "all": false
+      }
+    ]
+  },
   "1019090": {
     "replace": [
       {
@@ -2775,6 +2779,15 @@
       {
         "existing": ": 1)",
         "with": ":\n•",
+        "all": false
+      }
+    ]
+  },
+  "1090190": {
+    "replace": [
+      {
+        "existing": "chance to double the DMG dealt by that attack",
+        "with": "chance to increase Main Gun damage by {100% for 3s (5s cooldown between activations)|The game states double damage, which is a bit pedantic to correct but this is more accurate. The game also does not mention the effect lasts 3 seconds and has a 5s cooldown.}",
         "all": false
       }
     ]

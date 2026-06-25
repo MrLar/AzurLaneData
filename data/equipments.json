@@ -135749,5 +135749,55 @@
       "JP",
       "CN"
     ]
+  },
+  "151180": {
+    "icon": "151180",
+    "id": 151180,
+    "name": "Master of Laughter",
+    "rarity": 4,
+    "tech": 0,
+    "type": 10,
+    "skills": [
+      61110
+    ],
+    "nation": 10,
+    "limit_group": 151180,
+    "hull_restriction": [],
+    "max": 11,
+    "armaments": null,
+    "weapon": null,
+    "stats": [
+      {
+        "stat": "hp",
+        "values": [
+          200,
+          230,
+          260,
+          290,
+          320,
+          350,
+          380,
+          410,
+          440,
+          470,
+          500,
+          530
+        ]
+      }
+    ],
+    "labels": [
+      "ffnf",
+      "dev"
+    ],
+    "speciality": "N/A",
+    "equippable_main": [],
+    "equippable_sub": [],
+    "obtainable": true,
+    "important": true,
+    "servers": [
+      "EN",
+      "JP",
+      "CN"
+    ]
   }
 }
