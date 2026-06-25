@@ -1731,6 +1731,13 @@
         "existing": "Dive Bombers can be equipped in this ship's third gear slot, and will use the \"Mach 2.42 Bermbew Sprawt\" gear skin, but Airstrike load time increases by 100.0%. Every",
         "with": "{Dive Bombers can be equipped in this ship's third gear slot|The game incorrectly states the airstrike load time increases by 100%, when it is actually 120%, same as most aircraft carriers.}, and will use the \"Mach 2.42 Bermbew Sprawt\" gear skin. Every",
         "all": false
+      },
+      {
+        "existing": "Dive Bombers can be equipped in this ship's third gear slot, and will use the \"Mach 2.42 Bermbew Sprawt\" gear skin, but this ship's Airstrike load time increases by 100.0% (this effect is unaffected by your ship's damage status.) Every",
+        "with": "{Dive Bombers can be equipped in this ship's third gear slot|The game incorrectly states the airstrike load time increases by 100%, when it is actually 120%, same as most aircraft carriers.}, and will use the \"Mach 2.42 Bermbew Sprawt\" gear skin (this effect is unaffected by your ship's damage status.). Every",
+        "all": false,
+        "inhibit_non_opsi": true,
+        "opsi": true
       }
     ]
   },
