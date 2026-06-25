@@ -1,4 +1,68 @@
 {
+  "13650": {
+    "replace": [
+      {
+        "existing": "decreases the Main Gun DMG this ship takes",
+        "with": "decreases the {cannon|The game incorrectly says Main Gun.} DMG this ship takes",
+        "all": false,
+        "opsi": true
+      }
+    ]
+  },
+  "101100": {
+    "replace": [
+      {
+        "existing": "Each main gun hit increases own torpedo critical chance",
+        "with": "{Every time this ship fires her main guns:|The game incorrectly states each hit.} increases own torpedo critical chance",
+        "all": false
+      }
+    ]
+  },
+  "14030": {
+    "replace": [
+      {
+        "existing": "fires a special barrage (30s cooldown when activated and DMG is based on the skill's level).",
+        "with": "fires a special barrage {immediately and every 30s thereafter|The game states there is a 30s cooldown but is not particularly clear that it does fire every 30s.} (DMG is based on the skill's level).",
+        "all": false
+      }
+    ]
+  },
+  "105010": {
+    "replace": [
+      {
+        "existing": "Dive Bombers can be equipped in this ship's third gear slot, and will use the \"Mach 2.42 Bermbew Sprawt\" gear skin, but Airstrike load time increases by 100.0%. Every",
+        "with": "{Dive Bombers can be equipped in this ship's third gear slot|The game incorrectly states the airstrike load time increases by 100%, when it is actually 120%, same as most aircraft carriers.}, and will use the \"Mach 2.42 Bermbew Sprawt\" gear skin. Every",
+        "all": false
+      }
+    ]
+  },
+  "10120": {
+    "replace": [
+      {
+        "existing": "shields deal a small amount of DMG to nearby enemies.",
+        "with": "shields deal a small amount of DMG {to enemies|The game says nearby enemies, but all enemies on screen are hit.}.",
+        "all": false
+      }
+    ]
+  },
+  "150890": {
+    "replace": [
+      {
+        "existing": "When the battle starts: lights a firecracker; 15s after this, there is a $1 chance to set off a bianpao.",
+        "with": "When the battle starts, and {with a $1 chance every 15s after that|The firecracker and bianpao mean the same thing, and the game implies it does not repeat every 15s.}: lights a bianpao.",
+        "all": false
+      }
+    ]
+  },
+  "10560": {
+    "replace": [
+      {
+        "existing": "increases this ship's Crit DMG by",
+        "with": "increases this ship's {Torpedo|The game incorrectly states this applies to the ship as a whole while it is only for torpedoes.} Crit DMG by",
+        "all": false
+      }
+    ]
+  },
   "10": {
     "full": {
       "description": "{Every 5s, restores 6 HP to the most damaged ship.|In game description makes it sound like the ship with this gear/skill heals the HP instead.} {Effect does not stack.|Despite using the same name: This effect does stack with repair toolkits if applicable.}\n{Repair ships at limit break 0 have this skill built in.|The game does not mention this at all, this effectively makes cranes that grant the same or a lower Repair level useless.}",
