@@ -74,8 +74,8 @@
   "13950": {
     "replace": [
       {
-        "existing": "increases this ship's RLD by $3 and AA by $4 and further",
-        "with": "increases this ship's RLD by $3 and {AVI|The game incorrectly states AA.} by $4 and further",
+        "existing": "if there are no other Iron Blood ships: instead increases this ship's RLD by $3 and AA by $4 and further increases the proc chance of this ship's special airstrike by 30.0%.",
+        "with": "if there are no other Iron Blood ships{ in your Main Fleet:|The game fails to mention that only a Main Fleet ship can prevent these buffs from applying. This condition is not mutually exclusive with the 3 or more Iron Blood ships condition.} increases this ship's RLD by $3 and {AVI|The game incorrectly states AA.} by $4 and further increases the proc chance of this ship's special airstrike by 30.0%.",
         "all": false
       }
     ]
