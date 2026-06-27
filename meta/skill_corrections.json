@@ -71,6 +71,15 @@
       "values": []
     }
   },
+  "13950": {
+    "replace": [
+      {
+        "existing": "increases this ship's RLD by $3 and AA by $4 and further",
+        "with": "increases this ship's RLD by $3 and {AVI|The game incorrectly states AA.} by $4 and further",
+        "all": false
+      }
+    ]
+  },
   "2041": {
     "replace": [
       {
