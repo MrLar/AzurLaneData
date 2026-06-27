@@ -72791,7 +72791,7 @@
     ]
   },
   "1017200": {
-    "description": "{Decreases the loading time of this ship's first volley by $1|The game additionally states that Martinho changes to Medium Armor, however that effect is bugged and her Armor remains unchanged.}. When this ship fires her Main Guns: fires a $2 special barrage with a 10.0% chance to inflict a special Flooding ailment to enemies hit for 18s (barrage and Flooding DMG are based on this ship's FP stat and the skill's level; Flooding DMG procs once every 3s).",
+    "description": "Decreases the loading time of this ship's first volley by $1 and changes her Armor Type to Medium Armor. When this ship fires her Main Guns: fires a $2 special barrage with a 10.0% chance to inflict a special Flooding ailment to enemies hit for 18s (barrage and Flooding DMG are based on this ship's FP stat and the skill's level; Flooding DMG procs once every 3s).",
     "opsi_description": null,
     "name": "Peerless Cannons of Destruction+",
     "max": 10,
@@ -75563,7 +75563,7 @@
     ]
   },
   "10150580": {
-    "description": "Increases this ship's FP and ACC by $1 and changes her Armor Type to Medium Armor. When this ship fires her Main Guns: fires a $2 improved special barrage (barrage pattern and DMG is based on the skill's level) and recovers $3 max HP for this ship and your Vanguard ship with the lowest current HP percentage. When the battle starts, if there are 2 or more Tempesta ships afloat in this fleet, this HP recovery effect will apply to this ship and the entire Vanguard.",
+    "description": "{Increases this ship's FP and ACC by $1|The game additionally states that Ganji changes to Medium Armor, however that effect is bugged and her Armor remains unchanged.}. When this ship fires her Main Guns: fires a $2 improved special barrage (barrage pattern and DMG is based on the skill's level) and recovers $3 max HP for this ship and your Vanguard ship with the lowest current HP percentage. When the battle starts, if there are 2 or more Tempesta ships afloat in this fleet, this HP recovery effect will apply to this ship and the entire Vanguard.",
     "opsi_description": null,
     "name": "Winds of Purification and Restoration+",
     "max": 10,

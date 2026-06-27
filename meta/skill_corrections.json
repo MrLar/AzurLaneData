@@ -2743,11 +2743,11 @@
       }
     ]
   },
-  "1017200": {
+  "10150580": {
     "replace": [
       {
-        "existing": "Decreases the loading time of this ship's first volley by $1 and changes her Armor Type to Medium Armor.",
-        "with": "{Decreases the loading time of this ship's first volley by $1|The game additionally states that Martinho changes to Medium Armor, however that effect is bugged and her Armor remains unchanged.}.",
+        "existing": "Increases this ship's FP and ACC by $1 and changes her Armor Type to Medium Armor.",
+        "with": "{Increases this ship's FP and ACC by $1|The game additionally states that Ganji changes to Medium Armor, however that effect is bugged and her Armor remains unchanged.}.",
         "all": false
       }
     ]
