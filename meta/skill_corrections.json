@@ -71,6 +71,15 @@
       "values": []
     }
   },
+  "107080": {
+    "replace": [
+      {
+        "existing": "randomly chooses 1 other ship in your fleet and decreases her DMG taken by $2 for 30s.",
+        "with": "randomly chooses 1 other ship in your fleet and decreases {both this ship's and that ship's|The game does not mention it also applies to this ship.} DMG taken {by $1|This value is displayed incorrectly in game.} for 30s.",
+        "all": false
+      }
+    ]
+  },
   "16730": {
     "replace": [
       {
