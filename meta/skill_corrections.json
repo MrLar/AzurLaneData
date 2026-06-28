@@ -80,6 +80,15 @@
       }
     ]
   },
+  "16740": {
+    "replace": [
+      {
+        "existing": "increases this ship's RLD by $2 and her DMG dealt by $3 until",
+        "with": "increases {this ship's RLD by $2|The game claims her damage dealt increases too, but that effect is bugged.} until",
+        "all": false
+      }
+    ]
+  },
   "17650": {
     "replace": [
       {
