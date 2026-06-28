@@ -71,6 +71,15 @@
       "values": []
     }
   },
+  "16730": {
+    "replace": [
+      {
+        "existing": "subtracts 50 HP from a random ship in your fleet and",
+        "with": "subtracts 50 HP from a random {other|The game does not mention that she will not target herself.} ship in your fleet and",
+        "all": false
+      }
+    ]
+  },
   "17650": {
     "replace": [
       {
