@@ -71,11 +71,20 @@
       "values": []
     }
   },
+  "17650": {
+    "replace": [
+      {
+        "existing": "increase your Gangut-class BBs' and your Northern Parliament Vanguard ships' DMG dealt by $3.",
+        "with": "increase your Gangut-class BBs' and your Northern Parliament Vanguard ships' DMG dealt {to that enemy|Omitting this wording could incorrectly imply that she increases damage dealt to all enemies.} by $3.",
+        "all": false
+      }
+    ]
+  },
   "13950": {
     "replace": [
       {
         "existing": "if there are no other Iron Blood ships: instead increases this ship's RLD by $3 and AA by $4 and further increases the proc chance of this ship's special airstrike by 30.0%.",
-        "with": "if there are no other Iron Blood ships{ in your Main Fleet:|The game fails to mention that only a Main Fleet ship can prevent these buffs from applying. This condition is not mutually exclusive with the 3 or more Iron Blood ships condition.} increases this ship's RLD by $3 and {AVI|The game incorrectly states AA.} by $4 and further increases the proc chance of this ship's special airstrike by 30.0%.",
+        "with": "if there are no other Iron Blood ships {in your Main Fleet:|The game fails to mention that only a Main Fleet ship can prevent these buffs from applying. This condition is not mutually exclusive with the 3 or more Iron Blood ships condition.} increases this ship's RLD by $3 and {AVI|The game incorrectly states AA.} by $4 and further increases the proc chance of this ship's special airstrike by 30.0%.",
         "all": false
       }
     ]
