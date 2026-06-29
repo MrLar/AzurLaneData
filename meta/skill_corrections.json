@@ -108,10 +108,13 @@
     ]
   },
   "16740": {
+    "remove_values": [
+      2
+    ],
     "replace": [
       {
         "existing": "increases this ship's RLD by $2 and her DMG dealt by $3 until",
-        "with": "increases {this ship's RLD by $2|The game claims her damage dealt increases too, but that effect is bugged.} until",
+        "with": "increases this ship's RLD by $2 and her {DMG dealt by 0.0%|The game intends to increase her overall damage dealt by 4.0% to 10.0%. Instead, it increases the bonus damage dealt modifier by that amount. Since this modifier starts at 0%, and percentage effects scale from the base value, the increase is always 0%.} until",
         "all": false
       }
     ]
