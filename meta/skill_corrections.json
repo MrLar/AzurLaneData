@@ -71,6 +71,24 @@
       "values": []
     }
   },
+  "5111": {
+    "replace": [
+      {
+        "existing": "While this ship is in the first or last position in the Main Fleet:",
+        "with": "While this ship {is not the Flagship|The game mentions first or last position, which is ambiguous or wrong considering that the Flagship is first when creating the fleet and first in game code.}:",
+        "all": false
+      }
+    ]
+  },
+  "12400": {
+    "replace": [
+      {
+        "existing": "when placed in the first or last position in the Submarine Fleet:",
+        "with": "when {not placed in the Flagship position|The game mentions first or last position, which is ambiguous or wrong considering that the Flagship is first when creating the fleet and first in game code.} in the Submarine Fleet:",
+        "all": false
+      }
+    ]
+  },
   "107080": {
     "replace": [
       {
