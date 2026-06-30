@@ -71,6 +71,15 @@
       "values": []
     }
   },
+  "15260": {
+    "replace": [
+      {
+        "existing": "and increases the ACC of your Main Fleet by $2 for 8s",
+        "with": "and increases the ACC of your Main Fleet by $2 {for the rest of the battle|The game incorrectly states a duration of 8 seconds.}",
+        "all": false
+      }
+    ]
+  },
   "5111": {
     "replace": [
       {
