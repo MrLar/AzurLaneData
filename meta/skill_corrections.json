@@ -71,6 +71,15 @@
       "values": []
     }
   },
+  "104060": {
+    "replace": [
+      {
+        "existing": "while sortied with Kizuna AI: $1 chance for the Airstrike to deal double DMG.",
+        "with": "while sortied with {any Kizuna AI faction ship|Clarifying that it can be any version of Kizuna AI or user of Pyoko-Pyoko.}: $1 chance {to increase this ship's damage dealt with equipped airplanes by 100% for 8s|Game incorrectly states that the airstrike deals double damage, correcting this is a bit pedantic, but it does mean consecutive airstrikes deal more damage, and airstrikes' stock bombs do not.}.",
+        "all": false
+      }
+    ]
+  },
   "800650": {
     "replace": [
       {
