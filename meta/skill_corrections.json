@@ -71,6 +71,15 @@
       "values": []
     }
   },
+  "800650": {
+    "replace": [
+      {
+        "existing": "this skill's special barrage gains a SHS attack that creates \"Jamming Field - Arizona META\" (lasts 3s) at the location it hits.",
+        "with": "this skill's special barrage gains a SHS attack that creates \"Jamming Field - Arizona META\" (lasts 3s) at the location it hits {(only enemies hit by the initial impact are debuffed)|This behavior is different from the Jamming Field from her other skill, which catches all enemies who enter it.}.",
+        "all": false
+      }
+    ]
+  },
   "15260": {
     "replace": [
       {
@@ -2506,8 +2515,8 @@
     ],
     "replace": [
       {
-        "existing": "$2",
-        "with": "{50%|The game incorrectly handles part of this skill and the slow always remains 50%, additionally this also causes the fading effect to temporarily speed up the enemy.}",
+        "existing": "and have their SPD decreased by $2; the SPD debuff fades over 3s upon leaving this field.",
+        "with": "and have their SPD decreased by {50%|The game incorrectly handles part of this skill and the slow always remains 50%, additionally this also causes the fading effect to temporarily speed up the enemy.}; the SPD debuff fades over 3s {beginning immediately|The game incorrectly says the fade begins upon leaving this field}.",
         "all": false
       }
     ]
