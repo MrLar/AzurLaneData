@@ -71,6 +71,99 @@
       "values": []
     }
   },
+  "104060": {
+    "replace": [
+      {
+        "existing": "while sortied with Kizuna AI: $1 chance for the Airstrike to deal double DMG.",
+        "with": "while sortied with {any Kizuna AI faction ship|Clarifying that it can be any version of Kizuna AI or user of Pyoko-Pyoko.}: $1 chance {to increase this ship's damage dealt with equipped airplanes by 100% for 8s|Game incorrectly states that the airstrike deals double damage, correcting this is a bit pedantic, but it does mean consecutive airstrikes deal more damage, and airstrikes' stock bombs do not.}.",
+        "all": false
+      }
+    ]
+  },
+  "800650": {
+    "replace": [
+      {
+        "existing": "this skill's special barrage gains a SHS attack that creates \"Jamming Field - Arizona META\" (lasts 3s) at the location it hits.",
+        "with": "this skill's special barrage gains a SHS attack that creates \"Jamming Field - Arizona META\" (lasts 3s) at the location it hits {(only enemies hit by the initial impact are debuffed)|This behavior is different from the Jamming Field from her other skill, which catches all enemies who enter it.}.",
+        "all": false
+      }
+    ]
+  },
+  "15260": {
+    "replace": [
+      {
+        "existing": "and increases the ACC of your Main Fleet by $2 for 8s",
+        "with": "and increases the ACC of your Main Fleet by $2 {for the rest of the battle|The game incorrectly states a duration of 8 seconds.}",
+        "all": false
+      }
+    ]
+  },
+  "5111": {
+    "replace": [
+      {
+        "existing": "While this ship is in the first or last position in the Main Fleet:",
+        "with": "While this ship {is not the Flagship|The game mentions first or last position, which is ambiguous or wrong considering that the Flagship is first when creating the fleet and first in game code.}:",
+        "all": false
+      }
+    ]
+  },
+  "12400": {
+    "replace": [
+      {
+        "existing": "when placed in the first or last position in the Submarine Fleet:",
+        "with": "when {not placed in the Flagship position|The game mentions first or last position, which is ambiguous or wrong considering that the Flagship is first when creating the fleet and first in game code.} in the Submarine Fleet:",
+        "all": false
+      }
+    ]
+  },
+  "107080": {
+    "replace": [
+      {
+        "existing": "randomly chooses 1 other ship in your fleet and decreases her DMG taken by $2 for 30s.",
+        "with": "randomly chooses 1 other ship in your fleet and decreases {both this ship's and that ship's|The game does not mention it also applies to this ship.} DMG taken {by $1|This value is displayed incorrectly in game.} for 30s.",
+        "all": false
+      }
+    ]
+  },
+  "16730": {
+    "replace": [
+      {
+        "existing": "subtracts 50 HP from a random ship in your fleet and",
+        "with": "subtracts 50 HP from a random {other|The game does not mention that she will not target herself.} ship in your fleet and",
+        "all": false
+      }
+    ]
+  },
+  "16740": {
+    "remove_values": [
+      2
+    ],
+    "replace": [
+      {
+        "existing": "increases this ship's RLD by $2 and her DMG dealt by $3 until",
+        "with": "increases this ship's RLD by $2 and her {DMG dealt by 0.0%|The game intends to increase her overall damage dealt by 4.0% to 10.0%. Instead, it increases the bonus damage dealt modifier by that amount. Since this modifier starts at 0%, and percentage effects scale from the base value, the increase is always 0%.} until",
+        "all": false
+      }
+    ]
+  },
+  "17650": {
+    "replace": [
+      {
+        "existing": "increase your Gangut-class BBs' and your Northern Parliament Vanguard ships' DMG dealt by $3.",
+        "with": "increase your Gangut-class BBs' and your Northern Parliament Vanguard ships' DMG dealt {to that enemy|Omitting this wording could incorrectly imply that she increases damage dealt to all enemies.} by $3.",
+        "all": false
+      }
+    ]
+  },
+  "13950": {
+    "replace": [
+      {
+        "existing": "if there are no other Iron Blood ships: instead increases this ship's RLD by $3 and AA by $4 and further increases the proc chance of this ship's special airstrike by 30.0%.",
+        "with": "if there are no other Iron Blood ships {in your Main Fleet:|The game fails to mention that only a Main Fleet ship can prevent these buffs from applying. This condition is not mutually exclusive with the 3 or more Iron Blood ships condition.} increases this ship's RLD by $3 and {AVI|The game incorrectly states AA.} by $4 and further increases the proc chance of this ship's special airstrike by 30.0%.",
+        "all": false
+      }
+    ]
+  },
   "2041": {
     "replace": [
       {
@@ -2431,8 +2524,8 @@
     ],
     "replace": [
       {
-        "existing": "$2",
-        "with": "{50%|The game incorrectly handles part of this skill and the slow always remains 50%, additionally this also causes the fading effect to temporarily speed up the enemy.}",
+        "existing": "and have their SPD decreased by $2; the SPD debuff fades over 3s upon leaving this field.",
+        "with": "and have their SPD decreased by {50%|The game incorrectly handles part of this skill and the slow always remains 50%, additionally this also causes the fading effect to temporarily speed up the enemy.}; the SPD debuff fades over 3s {beginning immediately|The game incorrectly says the fade begins upon leaving this field}.",
         "all": false
       }
     ]
